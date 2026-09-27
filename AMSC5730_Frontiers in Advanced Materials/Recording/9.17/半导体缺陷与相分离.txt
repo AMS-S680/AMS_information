@@ -1,0 +1,2239 @@
+半导体缺陷与相分离
+日期: 2026年9月17日 19:28
+语言: 英语 → 中文
+时长: 1小时21分17秒
+
+To understand the study that mixed spaces actually—so-called regular solution model—so I assume actually most of you already learned. So let's quickly review it.
+为了理解这项关于混合空间的研究——即所谓的正规溶液模型——我想其实你们大多数人已经学过了。好，我们快速回顾一下。
+
+Yeah, so this entropy of mixing of this ideal configuration entropy of mixing actually can be written as here, right? So this is delta S.
+是的，所以这种混合熵，即理想构型混合熵，实际上可以写成这样，对吧？这就是德尔塔S。
+
+And this one is always just a favorite of just a reduce your total reality of mixing.
+而这个通常只是减少混合总现实性的一个偏好。
+
+Yeah, so that's your friend. So your entropy actually always just a temporary help you to really mix things. And then for the entropy, this is a bit tricky. So what is entropy of mixing?
+是的，那就是你的好朋友。所以你的熵实际上只是一个暂时的帮助，让你真正混合东西。然后关于熵，这里有点棘手。那么什么是混合熵呢？
+
+The entropy of mixing actually is done by you summing the nearest neighbor of a bounding energies.
+混合熵实际上是通过你求和最近邻的结合能来完成的。
+
+And then you can just calculate it by this x times 1 minus x and omega. So x actually of course is a concentration of each component. Right, we call it x. So this one component x, then if a binary kind of solution, then the other one actually is a 1 minus x, right?
+然后你就可以用这个x乘以1减x再乘以omega来计算。所以x实际上当然是每个组分的浓度。对，我们把它叫做x。所以这个组分是x，那么如果是二元溶液的话，另一个其实就是1减x，对吧？
+
+Yes.
+是的。
+
+Then this omega actually is a so-called interaction parameters.
+那么这个omega实际上就是所谓的相互作用参数。
+
+Then this part actually is tricky. Why?
+这部分实际上很棘手。为什么？
+
+Yeah. Because your entropy of mixing actually is always negative. That's your friend to mix these two phases. But your entropy of mixing actually can be positive or negative. Yeah, so that means actually this is a the sign of this guy actually determined by the sign of this omega, right? Yeah, these two terms are always positive, right? But omega actually can be positive or negative.
+是的。因为混合熵实际上总是负的。这就是你用来混合这两个相的朋友。但你的混合熵实际上可以是正的，也可以是负的。对，所以这意味着这个的正负实际上是由这个omega的正负决定的，对吧？对，这两个项始终是正的，对吧？但omega实际上可以是正的，也可以是负的。
+
+Then if it's negative, then that's fine. You know that this two phase always they want to really mix with each other, right? So this is missable, right?
+那么如果它是负的，那就没问题。你知道，这两相其实总是想要彼此混合，对吧？所以这是可混溶的，对吧？
+
+But sometimes actually if this omega actually is a very positive, then you'll see what? You'll see a competition between this entropy and also entropy, right?
+但有时候，如果这个omega实际上是非常正的，那你会看到什么？你会看到这个熵和熵之间的竞争，对吧？
+
+Because these three energies are equal to this third age, and the minus this third x times t, t is temperature, right? Yeah, so this is your friend. But this is could be your enemy, right? Where is your avenue to your phase diagram actually is very big headache, right? You'll see the missability gap.
+因为这三个能量都等于这个第三项，减去第三项乘以温度，对吧？是的，所以这是你的朋友。但这可能是你的敌人，对吧？你的相图路径实际上是个很大的麻烦，对吧？你会看到混溶性差距。
+
+All right. Yeah, so this one actually is a so-called a missable or invisible, right? So the bounding energy actually quantum mechanically can be approximately the proportional to a to the minus 2.5. Don't memorize those things. I'm already just testing, right? A actually is the func length of the central battery, right? Yeah. So this is a very kind of a simple but kind of a nice transformation, right? And based on this thing, you can estimate the bounding of two materials. And there was one model called the delta lattice parameter model. That actually help you to re-estimate this omega and for 3, 5, and also 2, 6, 7 conductors. Yeah. Then they.
+好的。对，所以这个其实就是所谓的“可混溶的”或“不可见的”，对吧？所以在量子力学里，结合能实际上近似正比于a的负2.5次方。别死记那些东西。我就是在测试一下，对吧？A实际上是中央电池的功能长度，对吧？是的。这是一个非常简单但又很巧妙的变换，对吧？基于这一点，你可以估算两种材料的结合力。而有一个模型叫做“德尔塔晶格参数模型”。这实际上能帮助你重新估算这个omega，对于3、5，还有2、6、7导体来说。是的。那他们呢。
+
+Find out that actually it could be always positive and also proportional to a a minus a b squared divided by a a plus a b at 4.5. Yeah, so this is a very strict formula, right? Yeah. But this one actually is interesting way that you can see this one.
+你会发现它实际上总是正的，并且与a a减去a b的平方除以a a加上a b的4.5次方成正比。对，所以这是一个非常严格的公式，对吧？对。但这个其实是一个很有趣的方式，你能看到这个。
+
+Always positive, right? So 2 positive numbers is a lattice parameter that must be positive, right? Or bounding lattice must be positive. And this one is always positive, right? Yeah, this way have a square. So that means actually this one is always positive for the systems. Yeah. So that means actually we may have some kind of very serious phase separation for 3, 5, and 2, 6, especially if these two quantities they are very different from each other. Right? So if they are equal to each other, this is nice, right? So this term becomes very small. So almost zero. So you don't care, right? But if these two they are very different, then you're in very big trouble, right? This one actually exactly actually is a case for Indian gallium nitride, which actually is your lighting metal. Yeah.
+总是正的，对吧？所以两个正数是晶格参数，必须是正的，对吧？束缚晶格必须为正。而这个东西呢，它总是正的，对吧？对，这样就是一个平方。所以这意味着，实际上对于这些系统来说，这个值总是正的。是的。所以这意味着，对于3、5和2、6，我们可能会有某种非常严重的相分离，特别是如果这两个量彼此差异很大的话。对吧？所以如果它们彼此相等，那就挺好的，对吧？所以这一项变得非常小。所以几乎为零。所以你不在乎，对吧？但如果这两者差异很大，那你就麻烦大了，对吧？这个实际上正是氮化铟镓的情况，也就是你们的照明金属。对，这个实际上是一个所谓的可忽略或者看不见的，对吧？所以束缚能实际上在量子力学上可以近似地正比于a的负2.5次方。别记这些东西，我就是在测试一下，对吧？a实际上是那个功能的长度。
+
+Then let's take a look at this stream value. So that's my teacher.
+那我们来看看这个流值。所以这就是我的老师。
+
+Advisor's work. Yeah, let's see. Yeah, stream value. Yeah. Yeah, so here's one very famous and for calculating all these phase diagrams. Yeah, so if you want to really be a little bit theoretical in the future, I also want to get a lot of citations with better just calculate the phase diagrams. Yeah.
+导师的工作。好，我们来看看。对，流值。是的。是啊，这里有一个非常著名的，用来计算所有这些相图的方法。对，所以如果你以后真的想稍微理论化一点，我也想拿到很多引用，还不如就直接计算相图。是的。
+
+So once this phase diagram you calculated, you get a very famous
+所以一旦你算好了这个相图，你得到一个非常著名的——
+
+and you can see this is a so-called phase separation of Indian gallium nitride. Yeah.
+而且你可以看到，这就是所谓的铟镓氮化物的相分离。是的。
+
+So there's a very large positive entropy of a mixing can overwhelm this negative entropy of mixing. And below a critical temperature, right? The Indian gallium nitride actually is just a massive. It's not very stable, right? So we have a very large seismic match between India and the gallium. Yeah, so India is much, much larger than gallium. Yeah, so that means actually you have a general rule of thumb, right? Whenever you see two materials one is very big, one is very small, if you want to really mix them together, then they usually they do not really get along very well, especially in the solid solution. Right? In liquid actually that's a different story. But in solid actually they don't really get along very well, right? So that's a very, very important one. If you understand this thing, you are already know a little bit more than some of the professors in the material science and engineering. Yeah, so this is very foundational.
+所以有一个非常大的正混合熵可以压倒这个负的混合熵。低于临界温度，对吧？氮化铟镓实际上只是一个巨大的。不是很稳定，对吧？所以印度和镓之间有一个非常大的地震匹配。是的，所以铟的尺寸比镓大得多，大得多。对，所以其实你有一个通用的经验法则，对吧？每当你看到两种材料，一种很大，一种很小，如果你想真正把它们混合在一起，那么它们通常相处得并不太好，尤其是在固溶体中。对吧？但实际上，在液态中，情况就不同了。但是在固态下，它们其实并不怎么相容，对吧？所以这是一个非常、非常重要的一个。如果你理解了这一点，你已经比材料科学与工程领域的一些教授懂得多一点了。是的，所以这是非常基础的。
+
+So seismic match actually lead to the phase separation, right? Then we can also calculate the so-called binodal line of spin nodal lines in Indian gallium nitride. Yeah, so this is also stream value calculated. Yeah, phase diagram. So this one actually is the so-called binodal line. So anything above this binodal line you have a liquid phase. Yeah, missable for Indian and Indian gallium nitride. So this portion actually give you the pure gallium nitride. This portion give you the pure Indian nitride, right? So this one actually is just a concentration of Indian. Give you how they mix. Right? So above this temperature they are liquid they are missable, right? Then below this temperature they gradually they condense. And when they condense actually they may form like a missable regions. In this regions. And the immiscible regions. And in this regions. So this immiscible region actually is a very, very crazy. So this is a so-called missability gap. Yeah.
+所以地震匹配实际上导致了相分离，对吧？然后我们还可以计算所谓的双节线和旋节线，在铟镓氮化物中。是的，所以这也是一个用流式计算出来的值。对，相图。所以这个实际上就是所谓的双节点线。所以在这个双节线以上，你会得到一个液相。是的，铟和氮化镓之间是可混溶的。所以这部分实际上给你的是纯氮化镓。这部分给你的是纯的铟氮化物，对吧？所以这一个实际上只是铟的浓度分布。给你们看看它们是怎么混合的。对吧？在这个温度以上，它们是液态的，是可混溶的，对吧？低于这个温度，它们逐渐凝聚。而当它们冷凝时，实际上可能会形成混溶区。在这个区域中。以及不混溶的区域。在这个区域中，所以这个不混溶区域实际上非常非常疯狂。所以这就是所谓的不混溶间隙。是的。
+
+Missability gap means what? It means actually any concentrations in this region they will quickly phase separate into two sub-phases in this region and also this region. Yeah.
+互溶隙意味着什么？这意味着实际上，在这个区域内的任何浓度，它们都会迅速相分离成两个子相，一个在这个区域，另一个也在这个区域。是的。
+
+So there is also so-called a level rules there. So you actually think you probably learned it in your some dynamics class in undergraduate. So I don't really want to really address those things. But this is international level to semiconductor materials, right? Some dynamic class.
+这里也有所谓的杠杆规则。所以你实际上可能觉得你在本科的某个动力学课程里学过这个。所以我其实不太想真的去处理那些事情。但这在国际半导体材料层面，对吧？一些动态课程。
+
+Yeah.
+是的。
+
+And another thing also just that in this region also can be so-called a metastable. Yeah, this may not be just a pure metastable. So at a very large fluctuation this also can be unstable, right? So this is the general idea of so-called a binodal and spin nodal. So if you want to really learn how to really calculate the binodal and spin nodal try to grab your adding some dynamics books and also to teach you how to really calculate the alloys and also how to calculate the binodal spin nodal. And this is also a very good review topic for you guys to choose. And also presentation topics. Yeah, so try to really review like stream values. Paper and also later there are also more accurate calculation. This one is not very accurate. Later actually people find out more accurate calculations. But generally the conclusion is consistent. So the Indian gallium nitride they don't really mix very well. Yeah, so usually act like a bug like a 20% of Indian they phase separate. Yeah, they don't really get along.
+另外一点就是，在这个区域也可以说是所谓的亚稳态。是的，这可能不仅仅是纯亚稳相。所以在非常大的波动下，这也可能是不稳定的，对吧？这就是所谓的双节线和旋节线的基本概念。所以如果你真的想学习如何真正计算双节线和旋节线，试着去找一些热力学书，这些书也会教你如何真正计算合金，以及如何计算双节线和旋节线。这也是一个非常好的复习话题，供你们选择。还有演讲主题。是的，所以尽量认真复习一下流值。论文里以及后来还有更精确的计算。这个不太准确。后来，实际上人们发现了更精确的计算方法。但总的来说，结论是一致的。所以铟镓氮化物它们其实不太容易混合得很好。是的，所以通常表现得像一种缺陷，大约20%的铟会发生相分离。是啊，它们真的不太合得来。
+
+And then you will see actually when I talk about crystal growth when I talk quite a lot of about quite a lot of effects impurities, right? The next topic actually is just we want to go through some of these effects impurities. Right?
+然后你会发现，实际上当我讲到晶体生长的时候，我会讲很多关于杂质效应的内容，对吧？下一个话题其实是我们想讨论一些杂质的影响。对吧？
+
+So what are defects? So defects are just like spikes, right? If you put too much defects into a crystal semiconductors, they destroy the crystal, right? Yeah, impossible to eat, right? Yeah, the soup, right? You put too much spice. But if you put too little defects to the crystal, the crystal actually is not very useful at the interest. Right? So you should really put the right amount of defects or impurities into a crystal, right? Yeah.
+那么什么是缺陷呢？所以缺陷就像尖峰，对吧？如果你在半导体晶体中放入太多缺陷，它们会破坏晶体，对吧？是的，没法吃，对吧？对，那个汤，对吧？你放的调料太多了。但是如果你在晶体中引入太少的缺陷，实际上这个晶体在应用上并不是很有用。对吧？所以你真的应该把合适数量的缺陷或杂质放入晶体中，对吧？对。
+
+So a good crystal grower actually is a person who can introduce such that the right can and also right amount of defects actually into the sample, right? So there are a lot of very interesting science and also things there. Yeah.
+所以一个好的晶体生长者，实际上是能恰当地引入适量缺陷到样品中的人，对吧？所以这里面有很多非常有趣的科学，也有很多东西。是的。
+
+So let's just go through a little bit about this process concerns of this defects. Yeah, so concerns defects they will they can scatter a lot of electrons. And produce undesirable resistance. Right? Because your electrons just like water, right? They want to really flow in your crystal very nicely and freely. But when you have a impurity or defects they can capture your electrons. Then your electrons can be trapped in those defects. Then you have big trouble. Right? Yeah, so defects actually sometimes actually can be dramatic, right? And also defects can also act as so-called a non-radiative recombination centers. And for electron holes pairs and therefore low efficiency for solar cells and photocatalysis laser lightning wells. Right? So because a lot of like electrons and the holes they can just combine or they meet each other actually at the defect centers. Then when they meet defect centers you lose conductivity. Right? You also lose a lot of efficiencies. So those are just the bad problems of defects. And also recommendation of defects also can produce a lot of heat. And which also prevent like high power operations and also can shorten the lifetime of device. Yeah. So that means detrimental defects you want to really avoid. Right? But sometimes defects can really can help you, right? So why they can help you? So defects can introduce free carriers and they can make it possible to make a pin junctions. Right? So what are pin junctions? So pin junctions actually just the P portions and N portions of the draw.
+好，那我们稍微过一下这个关于缺陷的工艺关注点。是的，所以关于缺陷，它们会散射大量电子。并产生不良电阻。对吧？因为你的电子就像水一样，对吧？他们希望在你的晶体中非常顺畅、自由地流动。但是当你有杂质或缺陷时，它们会捕获你的电子。然后你的电子就能被困在这些缺陷里面。那你就麻烦大了。对吧？是的，所以缺陷实际上有时候确实可能是戏剧性的，对吧？而且缺陷也可以充当所谓的非辐射复合中心。因此，对于电子空穴对，以及由此导致的太阳能电池和光催化激光照明井的低效率。对吧？因为很多电子和空穴，它们实际上可以在缺陷中心处复合或相遇。然后当它们遇到缺陷中心时，你就失去了导电性。对吧？你也会损失很多效率。所以这些只是缺陷所带来的坏问题。而缺陷的引入也会产生大量的热量。而且这也会妨碍高功率操作，并且可能缩短器件的寿命。是的。所以这意味着有害缺陷是你真正想要避免的。对吧？但有时候缺陷确实能帮到你，对吧？那为什么它们能帮助你？因此，缺陷可以引入自由载流子，并使得制造pin结成为可能。对吧？那么什么是PN结呢？所以PN结实际上就是P区和N区部分。
+
+Right?
+对吧？
+
+So usually when you have semiconductors, right, you have interface. Right? And for this interface cross this interface you want to really flow different impurities there. Right? For one type for one side actually you want to really flow some holes there. Right? Holes actually they are positive. Electrons are negative, right? Holes are positive. Right?
+通常对于半导体来说，对吧，会有界面。对吧？对于跨这个界面的界面，你想要让不同的杂质在那里真正流动。对吧？对于某一种类型，实际上在某一边你确实想要让一些空穴很好地流动。对吧？空穴实际上它们是带正电的。电子是负的，对吧？空穴是带正电的。对吧？
+
+And then these holes or electrons they are introduced by different impurities. And into the bodies. Right? And then these holes and the impurities they also will combine all together. They form what? They form a decision region. Right? So later we will also just encounter this idea of a decision region. Just let's avoid a little bit. Yeah, a few slides later you will see the decision region.
+然后这些空穴或电子是由不同的杂质引入的。并且进入体内。对吧？然后这些空穴和杂质它们也会全部结合在一起。它们形成什么？它们形成一个决策区域。对吧？稍后我们也会遇到决策区域这个概念。咱们稍微避免一下这个。是的，几页幻灯片之后你会看到决策区域。
+
+Yeah.
+是的。
+
+So also the defects actually therefore are also enablers of diodes. Yeah, transistors and lightning wells and also lasers and stuff like that. So defects can also annihilate unwanted carriers through this compensation and also control the resistance of semiconductors. And all the way from metallic to insulated. So this is very important. So this is exactly is the physical explanation why you can have circuits right.
+所以缺陷实际上也因此成为了二极管的使能因素。是的，晶体管、闪电阱，还有激光器之类的东西。因此，缺陷也可以通过这种补偿作用消除不需要的载流子，并且还能控制半导体的电阻。而且从金属到绝缘体，一路都是如此。所以这非常重要。而这正是物理上解释为什么你可以有电路的原因，对吧。
+
+Because for a circuits you need to really have what? Have a different logic states. Right? Like on and off. Right? So to make it on and off you want to really control your defects and also control your external field. So that actually your current actually can be on and off. Yeah, so this is a general idea of why you have circuits and also why you have computers.
+因为对于电路来说，你需要确实拥有什么呢？具有不同的逻辑状态。对吧？就像开和关一样。对吧？所以为了让它开和关，你真的要控制你的缺陷，同时也要控制你的外部场。所以实际上你的电流确实可以开和关。对，所以这就是为什么要有电路，以及为什么要有计算机的一个总体概念。
+
+Then also defects can break a selection rules so that the transition forbidden and also can be allowed. So this is a little bit too difficult. I don't want to really explain. Yeah, but in the future if you're interested you can probably come to my office I can explain to you. It's a little bit too difficult for if you're science students. And then the introduction on this classifications of the defects and also their structures of symmetry. So if we think of dimensionality of a zero dimension then we have point defects. And the intrinsic defects or impurities. Yeah.
+此外，缺陷还可以打破选择定则，使得原本被禁止的跃迁变得允许。这有点太难了。其实，我不想过多解释。对，但以后如果你感兴趣的话，可以来我办公室，我可以给你讲解。对理科生来说，这有点太难了。然后是缺陷分类及其对称结构的介绍。所以如果我们把维度想成零维，那么我们就有点缺陷。而固有缺陷或杂质。是的。
+
+So what are point defects? That's just a one atomic site so it can be replaced by another. Atom to form a point defect. Right? Yeah, so this is so-called a subtutional defect. Yeah. And another thing also just you can form intrinsic defects. For example, you remove one atom from the lattice. Then you form a vacancy. Right? So that's intrinsic defect.
+那么什么是点缺陷呢？那只是一个原子位点，所以它可以被另一个替代。原子形成点缺陷。对吧？对，这就是所谓的替代式缺陷。对。另外一点是，你也可以形成本征缺陷。比如，你从晶格中移除一个原子。然后你就形成了一个空位。对吧？所以这是本征缺陷。
+
+Also you sometimes you want to really insert one electron to the interstitial site. Yeah, so this is another intrinsic defect. Yeah.
+此外，有时候你确实想将一个电子插入到间隙位置中。对，这就是另一种本征缺陷。是的。
+
+So all those are called the point defects because there's only one atom or one atomic site involved. Right? So point defect. There are also extended defects. Including what? Including like defect complexes. Or like line defects or surfaces. Or even like voids. So when you grow a very lousy crystal so sometimes actually in a certain cavity actually you grow nothing. So this is so-called void. Yeah, so this void actually is a super embarrassing. Right? If your crystal grower you grow some portions and there's no atoms. Right? Yeah.
+所以所有这些都称为点缺陷，因为只涉及一个原子或一个原子位置。对吧？所以，点缺陷就是指单个原子位点，可以被其他原子替代，形成点缺陷，对吧？对，这就是所谓的替代式缺陷。还有，你也能形成本征缺陷。比如，从晶格中移走一个原子，然后……还有扩展缺陷。包括什么？包括像缺陷复合体这样的。或者像线缺陷或者表面缺陷。或者甚至像空洞那样。所以当你生长一颗非常差的晶体时，有时实际上在某个空洞里你什么也没长出来。所以这就是所谓的空位。是的，所以这个空洞实际上是非常尴尬的。对吧？如果你是晶体生长者，你生长了一些区域，那里没有原子。对吧？是的。
+
+And also in terms.
+而且在术语方面，
+
+Of there are quantum mechanical level. So there are also so-called shallow level or deep level impurity levels. So you can also classify the defects. Yeah.
+在量子力学层面上也有。所以还有所谓的浅能级或深能级杂质能级。所以你也可以对缺陷进行分类。是的。
+
+So firstly let's just come through the concept of so-called point defects. So there are just intrinsic defects and also impurities. So the simplest kind of defect actually is clearly one which occurs actually to only one line site. Right? As I already mentioned. Right? So we have just one lattice. Right?
+首先，让我们来了解一下所谓的点缺陷的概念。所以有本征缺陷，也有杂质。所以最简单的缺陷类型，实际上显然是一种只发生在一个晶格位点上的缺陷。对吧？正如我已经提到的，对吧？所以我们只有一个晶格。对吧？
+
+Right? So each cross point we have an atom here. Right? So.
+对吧？所以每个交叉点我们都有一个原子在这。对吧？所以，点缺陷的概念就是，既有本征缺陷，也有杂质。最简单的缺陷实际上就是只发生在一个格点上的。对吧？就像我已经提到的。对吧？所以我们只有一个晶格。
+
+One way just that we remove one atom. Right?
+一种方式就是，我们移除一个原子。对吧？
+
+We remove this side.
+我们移除这一边。
+
+Then we form what? We form a vacancy.
+然后我们形成什么呢？我们形成了一个空位。
+
+Right? So there's nothing there. We form a vacancy. Right?
+对吧？所以那里什么都没有。我们形成了一个空位。对吧？
+
+So another way just that we replace this atom with a different atom. Right? So that will actually give you the.
+所以另一种方式就是我们用不同的原子替换这个原子。对吧？所以这实际上会给你，呃——
+
+Subtutional one. Right?
+替代型的。对吧？
+
+A third way actually just we insert a foreign atoms and put somewhere here. So this is so-called interstitial. Defects. Right? This is a two dimensional thing actually. But for three dimension that's the same thing. All right? Yeah, so these defects actually so-called point defects can often just approximate by a point. So that's why it's called point defects.
+实际上第三种方法是我们插入一个外来原子，放在这里的某个位置。这就是所谓的间隙式。缺陷。对吧？这其实是一个二维的东西。但在三维情况下，这是相同的。对吧？是的，所以这些缺陷实际上所谓的点缺陷通常可以用一个点来近似。所以这就是为什么它被称为点缺陷。
+
+Yeah.
+是的。
+
+For example, like we can replace the silicon atom in silicon and by a boron atom or by a phosphorus atom. Right? So you still remember your chemistry. Right? So silicon is group four. Right? Boron is what? Group three. Right?
+例如，就像我们可以把硅中的硅原子替换成硼原子或磷原子。对吧？所以你仍然记得你的化学知识。对吧？所以硅是第四族。对吧？硼是什么？第三组。对吧？
+
+And the phosphorus is group five. Right?
+而磷是第五族。对吧？
+
+So when you dope one boron into the lattice that means actually you have one less valence electron. Right? Then you.
+所以当你把一个硼原子掺入晶格时，实际上你就少了一个价电子。对吧？然后你。
+
+Create what? You create a hole. Right? When you dope one phosphorus to the lattice. Right? You're replacing a four valence. Right? Then you have one extra electron there. Then this is n-type. Right? So you have this electron conductivity. Right? So this is a hole conductivity. This is electron conductivity.
+创造什么？你创造了一个空穴。对吧？当你把一个磷掺杂到晶格中时。对吧？你在替换一个四价的。对吧？那么你就会多出一个多余的电子。那么这就是n型。对吧？所以你有这种电子导电性。对吧？所以这是空穴导电。这是电子导电性。
+
+And also boron actually is the most important p-type defects in silicon. Yeah, in silicon industry. All right?
+而且实际上，硼是硅中最重要的p型缺陷。是的，在硅工业中。对吧？
+
+In both cases the foreign atoms actually represent the impurities in otherwise the pure crystal. Right? So this is a foreign atom. We'll see later that these impurities will behave differently in silicon and in terms their electrical properties in silicon. Yeah, so boron as I said to be an acceptor and the phosphorus actually said to be a donor. Acceptor and a donor. So acceptor actually just produce a hole. And the donor actually produce an electron.
+在两种情况下，外来原子实际上代表了原本纯净晶体中的杂质。对吧？所以这是一个外来原子。我们稍后会看到，这些杂质在硅中的表现会有所不同，在硅中的电学性质方面也是如此。是的，所以正如我所说，硼是受主，而磷实际上是施主。受主和施主。所以，受主实际上只是产生了一个空穴。而施主实际上产生一个电子。
+
+So that also means impurities can be detected chemically. Right? Why?
+因此，这也意味着杂质可以通过化学方法被检测出来。对吧？为什么？
+
+Because chemists can always just design some very nice chemical reactions. Which only just occurs to certain species of atoms. Right? Yeah, so that means actually this impurities can be detected chemically. Yeah, so the chemists really like impurities. Right? But semiconductor physicists also like impurities. All right? So this is about the point defects and also the p-type n-type impurities. So if we remove one silicon atom and create a vacancy then this is where string thing. Right? So this vacancy represents a form of defect which cannot be detect chemically. Right?
+因为化学家总能设计出一些非常巧妙的化学反应。而这仅发生在某些种类的原子上。对吧？是的，所以这意味着实际上这些杂质可以通过化学方法检测出来。对吧？为什么？是啊，所以化学家们其实很喜欢杂质。对吧？为什么呢？但半导体物理学家也喜欢杂质。对吧？所以这涉及点缺陷，以及p型和n型杂质。所以如果我们移除一个硅原子，产生一个空位，那么这就是问题所在。对吧？为什么？因此，这种空位代表一种无法通过化学手段检测的缺陷形式。对吧？为什么？
+
+Just imagine. Right? So in Islamic we have a silicon lattice. Right? Then we remove one silicon. Right? The.
+试想一下。对吧？所以在我们伊斯兰教中，有一个硅晶格。对吧？然后我们移除一个硅原子。对吧？。
+
+Really detect whether we have a silicon we will have a vacancy here. So you can already design any chemical reactions that can tell you. Right? That can tell you what is.
+真的检测我们是否有硅，这里就会有一个空位。所以你已经可以设计出能够告诉你这些信息的任何化学反应。对吧？这可以告诉你里面是什么。
+
+There. Right? So there's no way to do it chemically. Right? But physically you can do it. For example, you can take like an optical measurement to really detect whether there are vacancies. Or other measurements you can see or like the conductivity measurements there. All right? Yeah, so this is a more.
+那里。对吧？所以没有办法用化学方法来做。对吧？但物理上你是能做到的。比如说，你可以采用光学测量来真正检测是否存在空位。或者其他的测量方法，你可以看到，比如电导率的测量之类的。好吗？对，所以这是一个更……
+
+This so-called
+所以所谓的
+
+intrinsic impurity.
+这种所谓的本征杂质。
+
+Yeah.
+是的。
+
+So as I also mentioned right interstitial silicon. Right? So if we put a silicon here. Right? So this is interstitial silicon. So this interstitial silicon cannot can also not really detect chemically. Right? And there's no way really you can detect oh there's another actual one actual silicon in this lattice. There's no way chemists can do it. But physics can do it. Right?
+正如我也提到的，间隙硅。对吧？所以如果我们这里放一个硅。对吧？所以这是间隙硅。因此，这种间隙硅在化学上也无法真正检测到。对吧？而且你真的没有办法检测出，哦，这里还有另一个实际的硅原子在这个晶格中。化学家们根本没法做到。但物理学可以做到。对吧？
+
+And there are also like examples of intrinsic defects there. Right? So intrinsic defects occurs in material science. Right? Yeah, material science.
+而且还有一些本征缺陷的例子。对吧？材料科学中会出现本征缺陷。对吧？是的，材料科学。
+
+Yeah.
+是的。
+
+So there are also no intrinsic defects in chemicals. Right? So any chemicals actually can already say we have intrinsic defects. We only have a intrinsic defects. So one question. So intrinsic defects like silicon vacancies or silicon interstitials. So are they donors or electrons?
+所以化学品中也没有内在缺陷。对吧？所以任何化学品，其实可以说我们都有本质缺陷。我们只有一种固有缺陷。那么有一个问题。所以本征缺陷比如硅空位或硅间隙原子。那么它们是施主还是电子呢？
+
+So that's a very funny question. Right? So if we just replace silicon silicon that's a valence four. Right? If we replace by valence three Right? Then we have a hole. Right? So we have a we have a positive ion. Right? So there's a hole. Right?
+这是一个非常有趣的问题。对吧？所以如果我们只是替换硅，硅的价态是四。对吧？如果我们用三价元素替换，对吧？那么我们就有了一个空穴。对吧？所以我们有一个正离子。对吧？所以这里有一个空穴。对吧？
+
+And so if we just replace the silicon by a group five. Right? Then we have one more electron that it deserves. So we have an electron doping. Right? So that's also easy to understand.
+所以如果我们只是把硅替换成第五族元素。对吧？然后我们就多出一个它应得的电子。所以我们就有了电子掺杂。对吧？所以这也很好理解。
+
+Then my question is that what if we just completely remove this silicon? We form a vacancy.
+那我的问题是，如果我们干脆完全移除这个硅呢？我们形成了一个空位。
+
+And then what do we have?
+那我们会得到什么呢？
+
+So do you think this is a hole or this is electron?
+那你觉得这是空穴还是电子？
+
+Yeah, I heard one one one one suggestion just none of them.
+是的，我听到一个建议，但都不是。
+
+Yeah.
+是的。
+
+Any other opinions?
+还有其他意见吗？
+
+Another opinion of course either way is fine.
+当然，有其他意见也很好，无论哪种方式都可以。
+
+Right? It could be considered both as holes or electrons.
+对吧？它既可以视为空穴，也可以视为电子。
+
+Right?
+对吧？
+
+Yeah.
+是的。
+
+So this is actually is just because we have a totally we have an eighth electron to be stable. Right? If we remove four.
+所以这实际上只是因为我们需要一个完全是……我们有一个第八个电子来达到稳定。对吧？如果我们移除四个的话。
+
+Right? Then you can say we have four electrons that doing the conducting. Right? Or we can also say we have four holes doing the conducting. Right?
+对吧？那么你可以说我们有四个电子在做导电。对吧？如果移走四个。或者说，我们也可以说有四个空穴在导电。对吧？
+
+Either is fine.
+两种说法都可以。
+
+All right?
+好的吧？
+
+Yeah, so this is a funny question.
+嗯，所以这是一个有趣的问题。
+
+Okay.
+好的。
+
+And also in chemistry of course like we represent the elements by symbols. Right? So similarly in material science there are special symbols for the point defects which are elements in material science. For impurities like B and some silicon. Right? That means what? That we have a boron and replacing a silicon. Right? Then we have a p-type. Impurity. That create holes. Right?
+而且在化学中当然，我们也用符号来表示元素。对吧？同样，在材料科学中，对于点缺陷也有特殊的符号，这些点缺陷是材料科学中的元素。对于像硼和某些硅这样的杂质。对吧？那意味着什么？所以我们这里有一个硼原子，替代了一个硅原子。对吧？然后我们有一个p型。杂质。那就造成了漏洞。对吧？
+
+Yeah.
+是的。
+
+We will have a yeah.
+是的。
+
+And for intrinsic defects we can call it a V. And silicon. Right? So this is a vacancy. Of silicon. Right? Silicon vacancy difference.
+对于本征缺陷，我们可以称之为V。以及硅。对吧？这是一个空缺职位。硅。对吧？硅空位差异。
+
+Yeah.
+是的。
+
+So this one actually will be tricky. Right?
+所以这个实际上会比较棘手。对吧？
+
+Why?
+为什么？
+
+Because we have a we may have vanadium there. Right? Vanadium is chemical element. Right? But usually people really just dope vanadium into silicon. So there's usually no confusion. But for some systems actually this there could be confusion. Right?
+因为这里我们可能含有钒。对吗？钒是一种化学元素。对吧？但通常人们确实只是把钒掺杂进硅里。所以通常不会有混淆。但有些系统实际上，这里可能会有混淆。对吧？
+
+And this one is what?
+那这个是什么呢？
+
+Interstitial. Right? We take i silicon. Right?
+间隙。对吧？我们用硅。对吧？
+
+So this one is also pragmatic interstitial. Right? You can see. Right? This could be iodine. Right?
+所以这个也是实用性的间隙。对吧？你可以看到。对吧？这可能是碘。对吧？
+
+Iodine silicon. But also people do not really dope iodine silicon. So this is still okay for silicon. Right? Okay?
+硅间隙。但人们其实并不会真的用碘掺杂硅。所以这对硅来说还是可以的。对吧？好吗？对吧？
+
+Yeah. So this conversion sometimes actually can be confusing. Right? So as I mentioned so usually like we can just do this thing. Right? So silicon and then we put a lowercase i. Then this is nice. Right?
+是的。所以这种转换有时候其实会让人困惑。对吧？所以正如我提到的，通常我们可以直接做这件事。对吧？所以硅，然后我们加一个小写的i。这样就很好。对吧？
+
+Yeah, there's no confusion. Right?
+是的，没有混淆。对吧？
+
+And then for the gallium arsenide when arsenic just replacing a gallium and so we take so-called anti-site defect. Right?
+然后对于砷化镓来说，当砷原子取代一个镓原子时，我们就说形成了所谓的替位缺陷。对吧？
+
+So anti-site defect is also a native defect. So it cannot really be detect detected chemically.
+反位缺陷也是一种本征缺陷。所以这实际上无法通过化学手段检测出来。
+
+Right? Because we have a both gallium and arsenic here. We only have a just a wrong placement here. Right? So there's some anti-site.
+对吧？因为这里既有镓也有砷。我们这里只是放错了位置而已。对吧？所以存在一些反位缺陷。
+
+Yeah.
+是的。
+
+Then we also have extended defects or complexes or the line defects and the surfaces. Right? So those things are the complex things. So the elements can attract each other to form molecules. And the similar point defects can also attract each other to form complexes. So for example we may have some some string thing called a divagancy. And in silicon. Right? So this one actually is what? A silicon vacancy. Right?
+然后我们还有扩展缺陷，或者复合体，或者线缺陷和表面。对吧？所以这些东西就是复杂的情况。所以元素之间可以相互吸引形成分子。且类似点缺陷之间也可能相互吸引，形成复合体。例如，我们可能会有一些叫做双空位的结构。而在硅中。对吧？那么这个实际上是什么？一个硅空位。对吧？
+
+It's a point defect.
+这是一个点缺陷。
+
+So it contains like four broken bonds. So it's very high in element state. And when when it's neutral.
+因此它包含大约四个断键。所以它在元素状态下非常强。而当它是中性的时候。
+
+Right?
+对吧？
+
+So this is a lattice of silicon. Right? So you see if you still remember right I mentioned about the tetrahedral. Right? Tetrahedral has four bonds and rows just four bonds one, two, three, four. Right? Four bonds. Right?
+所以这是一个硅的晶格。对吧？所以你看，如果你还记得的话，我提到过四面体。对吧？四面体有四个键，正好四个键，一、二、三、四。对吧？四个键。对吧？
+
+So that connects to another silicon that we also form bonds. Right?
+所以这就连接到另一个硅原子，我们也形成键。对吧？
+
+But here we should supposedly we should really have a silicon here. But unfortunately we have no silicon. Then we form a what? We form a vacancy here. Right? So this is a so-called a single vacancy of silicon. Right? Then when we once we create this single vacancy of silicon so nature actually is always very smart.
+但在这里，按理说我们应该真的有一个硅原子在这里。但不幸的是，我们没有硅。然后我们形成了一个什么？我们在这里形成一个空位。对吧？所以这就是所谓的硅单空位。对吧？所以当我们一旦制造出这个单个硅空位时，大自然其实总是非常聪明的。
+
+Yeah.
+是的。
+
+So it doesn't really like you.
+所以它其实并不喜欢你。
+
+Yeah, nature doesn't really like you.
+Yeah，大自然并不真的喜欢你。
+
+So so if you want to really just try to really just deform.
+所以如果你想真正尝试去变形。
+
+This whole whole structure.
+整个这个结构。
+
+But you see what?
+但你看，什么？
+
+Now you see actually we have a one family but another family bond. Right? So this crystal actually it tries to really squeeze to each other. Right? Get close to each other. They form a new bond there. Right? We form new bond. We form a triangle bond here. Right? You can see. Right?
+现在你看，实际上我们有一个家庭，却又有另一种家庭纽带。对吧？所以这个晶体实际上试图相互挤压。对吧？互相靠近彼此。它们在那里形成了新的键。对吧？我们形成新的连接。我们在这里形成了三角键。对吧？你可以看到。对吧？
+
+So another triangle bond here. Right?
+所以这里是另一个三角形键。对吧？
+
+Then after the healing of these two these four dangling bonds this crystal actually is a largely stressed. Right? It's compressed actually. You can see. Right?
+在愈合了这两个、这四个悬挂键之后，这个晶体实际上处于很大的应力状态。对吧？实际上它是被压缩的。你可以看到。对吧？
+
+Yeah.
+是的。
+
+Then you can see actually this is just a so-called healing of this broken bond. Right? So this is a like bond distortion and also the lattice this is a very important try to really just understand this phenomenon. Yeah. So if you understand this phenomenon you already can understand quite a lot of things about this and also do some research.
+然后你可以看到，实际上这只是一个所谓的断键愈合过程。对吧？所以这是一种类似键的畸变，而且晶格这一点非常重要，要试着真正理解这个现象。嗯。所以如果你理解了这种现象，你已经可以对它理解很多事情，并且也能做一些研究了。
+
+And also in in the in the industry if you are interested in the semiconductor industry also it's better to it's better to understand all these defect concepts and also the underlying mechanism of defects.
+而且在工业界，如果你对半导体行业感兴趣的话，也最好理解所有这些缺陷概念，以及缺陷背后的底层机制。
+
+So this overall energy actually is can be lowered by healing this dangling bonds. Right? Because they have very high energy. Right?
+所以这个总能量实际上可以通过修复这些悬空键来降低。对吧？因为它们具有非常高的能量。对吧？
+
+Yeah.
+是的。
+
+Yeah. So this is a pretty good deal also. Because electron energy actually usually is very high. This is in the electron volts. Right? Electron energy. Electron volts.
+是的。所以这也是一个相当划算的交易。因为电子能量实际上通常非常高。这是在电子伏特量级的。对吧？电子能量。电子伏特。
+
+But the lattice energy actually is usually just small. Right? So this is a pretty good deal. Although you are you are stretched a little bit. You you you you you cause some lattice energy. But generally you you you just gain by by by a lot in this healing or this dangling bond from a new bond. Right? Yeah. So this is easy.
+但晶格能实际上通常是很小的。对吧？所以这是个相当不错的选择。虽然你有点被拉伸了。你你你你你引起了一些晶格能。但通常来说，你会从新键的形成中，通过这种愈合或这种悬空键，获得很多好处。对吧？是啊。所以这个挺划算的。因为电子能量通常其实非常高。这是以电子伏特为单位的，对吧？电子能量，电子伏特。
+
+Yeah.
+是的。
+
+Just try to remember what you learned in high school. Right? High school actually this very similar to the chemistry. Right? So we when we just yeah from bonds. Right? So we we we gain energy. Yeah.
+只要试着回忆一下你在高中学过的内容就行了。对吧？高中化学其实这和化学非常相似。对吧？所以当我们只是，嗯，从键中。对吧？所以我们获得了能量。对。
+
+So in a silicon surfaces the surface defects may also induce a so-called surface reconstructions. Yeah. So this kind of a reconstruction also often seen on the on on the like different surfaces of semiconductors. So those are also very interesting things. Still nowadays actually many of these surface reconstruction and also interface reconstruction people know very little about. So those are also very nice kind of a future like research topics and also could be very also very very important in industry. Yeah. You try to understand surface and you get very famous.
+因此，在硅表面上，表面缺陷也可能引发所谓的表面重构。是的。所以这种重构也经常在半导体不同的表面上看到。所以那些也是非常有趣的东西。事实上，如今很多表面重构和界面重构的现象，人们知之甚少。这些都是非常好的未来研究方向，而且可能在工业中也非常重要。是的。你试着理解表面，然后你就非常出名了。
+
+Yeah.
+是的。
+
+All right. Yeah. This one also very important. Yeah. So how we really form vacancy to divagancy. Right?
+好的。是的。这个也非常重要。是的。那么我们从空位到双空位，到底是怎么形成的呢？对吧？
+
+So the defects can just interact like atoms to form molecules. Right?
+所以缺陷可以像原子一样相互作用，形成分子。对吧？
+
+And then now we see actually now this time we have a two vacancies. Right?
+那么现在我们看到，这次我们有两个空位。对吧？
+
+So this here is one. Right?
+所以这里是一个。对吧？
+
+Another one is here. Right?
+另一个在这里。对吧？
+
+So when they are far away actually they're not very interesting. You just come back to to this guy. Right? One here. Right? We have very another here. But when we get together then you see something strange. Right?
+所以当它们离得很远时，实际上它们不太有趣。你只要回到这个人这里就行。对吧？这里有一个。对吧？对吧？我们这里还有另一个。但当我们聚在一起时，你就会看到一些奇怪的事情。对吧？
+
+Yeah.
+是的。
+
+We call it VV. Right? VV. It's not W. Right? VV.
+我们称之为VV。对吧？好，所以当它们相距很远的时候，其实它们并不那么有趣。你只是想回到这个家伙这里。对吧？这里有一个。对吧？我们这里还有一个。但当我们把它们聚在一起的时候，你就会看到一些奇怪的东西。对吧？不是W，对吧？中文翻译：所以当它们相距很远时，其实并不太有意思。你回到这个家伙这里。对吧？这里一个。对吧？我们这里还有另一个。但当我们把它们放到一起，就会看到奇怪的现象。对吧？
+嗯。
+
+Right?
+对吧？
+
+Right.
+对。
+
+So so two nearest neighbors called V just combine. So the number of dangling bonds actually is reduced. Right?
+所以，两个最近的邻居，叫V，就合在一起。所以悬空键的数量实际上是减少了。对吧？
+
+So by magic right because for one vacancy we have a four dangling bonds. Right? Two vacancies usually we have a eight eight. Right?
+所以神奇的是，对吧，因为对于一个空位，我们有四个悬键。对吧？两个空位通常我们有一个八八。对吧？
+
+Yeah.
+是的。
+
+But when when they are they are neighbors then we have six. Right? We already reduce two. Right?
+但当它们是相邻的时候，我们有六个。对吧？我们已经减少了两个。对吧？
+
+Yeah.
+是的。
+
+So that means what? That means actually this kind of a divagancy should be quite a gently favorable. Right?
+所以这意味着什么？这意味着实际上这种分歧应该是相当温和有利的。对吧？
+
+Yeah.
+是的。
+
+Intrinsically we are already can can gain a lot of energy. Right? So it's a stable lower the energy.
+本质上，我们已经能够获得很多能量。对吧？所以这意味着它稳定地降低了能量。
+
+Yeah.
+是的。
+
+All right. So this is one thing. Right? So from eight to six.
+好的。所以这是一件事。对吧？所以从八到六。
+
+Another thing also also that we can do this same magic of this lattice transition. Right?
+另外一件事，我们也能做到，这种晶格转变的同样魔法。对吧？
+
+So these two dangling bonds they get together they form a new bond. Right?
+所以这两个悬空键它们结合在一起，形成一个新的键。对吧？
+
+These two they also get close together they form another bond. And these two they have a very stretched a very long bond. But they also can want to really get a little bit squeezed together. Right?
+这两个也靠得很近，形成另一个键。而这两个，它们有一个非常拉伸的、非常长的键。但它们也可能真的想要稍微挤在一起一点。对吧？
+
+Yeah.
+是的。
+
+Then we form one, two, three. Three new bonds. So after we forming all these three new bonds then there's no dangling bond. Right? And also the crystal is also not too much deformed. Right? So this is a very favorable structure. Yeah.
+那么我们就形成了1、2、3。三个新的键。所以在形成这三个新键之后，就没有悬空键了。对吧？而且晶体也没有变形得太厉害。对吧？所以这是一个非常有利的结构。是的。
+
+Yeah.
+是的。
+
+So this is also just a discovered in the '60s. Yeah. This is. Yeah.
+所以这也是在60年代才发现的。是的。这就是。嗯。
+
+This is a kind of a very interesting behavior of how you really just combine like multiple vacancies. Right? Yeah. So try to really understand this figure.
+这是一种非常有趣的行为，关于你如何真正地把多个空位组合在一起。对吧？是的。所以试着真正理解这个图表。
+
+Yeah.
+是的。
+
+So any any we cannot understand this reason how I can explain to you again. Yeah. Don't.
+所以任何，如果我们不能理解这个原因，我怎么再向你们解释一遍。是的。不要这样做。
+
+Be shy. Yeah. Yeah. Yeah. There's a note the point of deduction at this moment. Right? Yeah.
+别害羞。是的。是的。是的。这里有一个时刻的扣分点。对吧？是的。
+
+All right. So I assume everybody understand what's going on in this picture. Right? Okay. Yeah. This is a yeah.
+好的。So，我想大家都明白这幅图里的情况了。对吧？好的。是的。这是一个，嗯。
+
+Try to try to really understand this thing. It's important thing. Yeah.
+试着试着真正理解这个东西。重要的事情。是的。
+
+Yeah.
+是的。
+
+All right. The next thing actually is just a classification of defects by electronic properties. So donors are just defects which can contribute electrons. For example like a phosphorus at a a silicon. Right?
+好的。接下来要讲的实际上是按电子性质对缺陷进行分类。所以施主就是能够贡献电子的缺陷。比如像磷在硅里。对吧？
+
+Yeah.
+是的。
+
+Or silicon at the garlic. Right? Silicon is group four. Garlic is group group three. Right?
+或者硅在镓的位置。对吧？硅是第四族元素。蒜是第三族的。对吧？
+
+Yeah.
+是的。
+
+So we have one actual electron E. So that means actually we have a donors. Right? And also acceptor that means actually we we just have one less electrons. As I mentioned like boron at a silicon site. Or silicon at an arsenic site. Arsenic group five. Right? Silicon group four. So we have one one hole here. Right?
+所以我们有一个实际的电子E。那意味着实际上我们有施主。对吧？而且受主意味着实际上我们只是少了一个电子。正如我提到的，硼在硅位点上。或者硅在砷的位置上。砷是第五族。对吧？硅是第四族。所以我们这里有一个空穴。对吧？
+
+Yeah.
+是的。
+
+Now of course we have another type of so-called isovalent or isoelectronic semiconductors. Like a nitrogen at a phosphorus. Both are group five. Right? So this is a isovalent semiconductor. Yeah. So this is in the garlic phosphide. Right?
+当然，我们还有另一种所谓的等价位或等电子半导体。就像氮在磷的位置上。两者都是第五族元素。对吧？所以这是一个等电子半导体。是的。所以在磷化镓中就是这样的。对吧？
+
+There's another strange thing so-called amphoteric. So what is amphoteric? So silicon in the garlic arsenic arsenide so if it it is replaces garlic then this is what?
+还有一个奇怪的现象，叫做两性。那么什么是两性（掺杂）呢？所以硅在砷化镓中，如果它取代了镓，那这是什么？
+
+Yeah.
+是的。
+
+This is what?
+这是什么？
+
+Yeah.
+是的。
+
+So garlic is group three. Silicon is group four. Right?
+所以大蒜是第三组。硅是第四族。对吧？
+
+Yeah.
+对。
+
+So if it replace garlic this is a what? A donor. Right? Those donor. Right? That just give you electrons. Donor.
+所以如果它替代了garlic，这是什么？施主。对吧？那些是施主。对吧？那只是给你电子。施主。
+
+Yeah.
+是的。
+
+So if it's replacing a arsenic then.
+那么如果它替代的是砷的话，那么。
+
+This acceptor because arsenic actually is group five. Right?
+所以如果它替代的是砷的话。
+
+这个受主，因为砷实际上是第五族元素。对吧？
+
+Yeah.
+是的，砷其实是第五主族的。对吧？
+
+Because it has one less electron than arsenic. So it's group five. Right?
+因为它比砷少一个电子。所以它是第五族。对吧？
+
+Yeah. So that means actually it's really in in reactive in experiment actually really it can occupy either side. So when when you say okay this side actually this is a donor. Otherwise this is an acceptor. All right.
+是的。所以这意味着实际上它在实验中真的很不活泼，实际上它真的可以占据任何一边。所以当你说好的，这边实际上这是一个施主。否则，这就是一个受主。好的。因为它比砷少一个电子，所以它是第五族，对吧？
+
+Yeah.
+是的。
+
+Yeah. So this is a just a some kind of a very like a duality of this this operation. Right?
+是的。所以说这只是这种操作的一种二元性。对吧？
+
+And then what determines the defect properties?
+那么，是什么决定了缺陷的性质呢？
+
+So combining two factor Y is so-called a local factor. So that's the chemical nature of defects. Right?
+所以将两个因子Y结合在一起，就是所谓的局部因子。那么这就是缺陷的化学性质。对吧？
+
+Yeah.
+是的。
+
+Because for example like if you dope a very strange element into a lattice then this strange element actually very different from your environment. Then mostly this is so-called a local factor. Right?
+比如说，如果你往晶格里头掺入一个非常奇怪的元素，那么这个奇怪的元素其实跟周围的环境非常不一样。那么这大多就是所谓的局部因素。对吧？
+
+Yeah.
+是的。
+
+But there are also host factor. For example like this properties of a host lattice actually like a band structure and also phonon energy they are more important. So this is called host factors. So factor Y would really just break the translational symmetry. So break the it's longer no longer a crystal right makes you and also requires understanding of a chemistry and also the atomic units. Right?
+但还有宿主因素。比如说，像宿主晶格的这些性质，比如能带结构和声子能量，它们其实更重要。所以这就叫做宿主因素。所以因子Y实际上只是打破了平移对称性。所以这就打破了——它不再是晶体了，对吧？而且这也要求你理解化学以及原子单位。对吧？
+
+Yeah.
+是的。
+
+Yeah. So it breaks this translational symmetry. That means actually the chemical nature of your impurity is very important. But the four factor two actually the emphasize of knowledge of a solid state physics actually becomes more important than the chemistry. Because this is mostly they are they are similar. Right? It's only about the host nature. But host nature they are they are they are pretty much similar. Right? So the donors and acceptors they are examples for the factor two dominants. And also the chemical natures of the impurities is less important. Yeah.
+是的。所以这打破了这种平移对称性。那意味着实际上你的杂质的化学性质是非常重要的。但实际上，对于这四个因素，固态物理知识的强调变得比化学更为重要。因为这部分主要是它们之间是相似的。对吧？这只是关于宿主本身的性质。但宿主性质，它们，它们，它们其实是相当相似的。对吧？所以施主和受主，它们是第二种主导因素的例子。而且杂质的化学性质其实不那么重要。是的。
+
+Yeah.
+是的。
+
+So that means actually if you start try to really understand the donor acceptors then you there's a lot of physics there. Right?
+所以这意味着，如果你开始真正尝试理解施主和受主，那么这里面有很多物理。对吧？
+
+Yeah.
+是的。
+
+And another issue is just that the defects that they are just presented in quite low n solids. Right? They can also take in any forms or shapes. And from a very a varying form like iso isolated atomic size to the some kind of microscopic objects. Right? Of the extended nature. Right?
+另一个问题是，这些缺陷在相当低的n型固体中呈现。对吧？它们也可以有各种形式或形状。而且从一种非常变化的形态，比如孤立原子尺度，到某种微观物体。对吧？关于其扩展性质。对吧？
+
+Yeah.
+是的。
+
+As I already mentioned as we have may have line defects or even have one surface or interface defects. Right? Yeah.
+正如我之前提到的，我们可能有线缺陷，甚至有表面或界面缺陷。对吧？是的。
+
+Yeah.
+是的。
+
+So the most powerful way to study defects actually try to understand their structure and the symmetry. Right?
+所以研究缺陷最有力的方法，实际上是尝试理解它们的结构和对称性。对吧？
+
+Yeah.
+对。
+
+But symmetry is difficult. Right? Only mathematicians really care about symmetry. And also some physicists care care about symmetry. Right?
+但对称性是个难题。对吧？其实只有数学家才真正关心对称性。而且有些物理学家也很在意对称性。对吧？
+
+Yeah.
+是的。
+
+So many defects that they are strongly affected by their local symmetry. So the lattice distortion should really allow the defects to really lower the electronic energy at the expense of a some kind of a small lattice energy. Right?
+许多缺陷都强烈地受到其局部对称性的影响。所以晶格畸变确实应该能让缺陷真正降低电子能量，尽管代价是付出一些较小的晶格能。对吧？
+
+Yeah.
+是的。
+
+Yeah. So so so we actually just saw one of this case. Right? So we see that like distorted lattice and to heal quite a lot of family bonds of a divergence or single vacancy of silicon. Right? Yeah. So this is like we at this so this page we actually we just try to re-summarize what we just learned. Right? So understanding the properties of defects is very important to really make a useful devices. All right. So the from this this page actually we will just talk more about like the defects impurities in semiconductors.
+是的。所以，实际上我们刚才就看到了这样一个案例。对吧？所以我们看到，畸变的晶格确实能修复不少硅中分歧或单空位的悬挂键。对吧？是的。所以这就像我们在这一页，实际上我们只是试图重新总结我们刚刚学到的内容。对吧？因此，理解缺陷的性质对于真正制造出有用的器件来说非常重要。好的。所以从这一页开始，我们实际上会更详细地讨论半导体中的缺陷和杂质。
+
+Yeah.
+Yeah.
+
+And then let's just come to the next topic on the electronic properties of a shallow yeah shallow defects and in in semiconductors.
+然后我们进入下一个话题，关于半导体中浅能级缺陷的电学性质。
+
+So one of the shallow defects actually is a donor. Right? Shallow donors or shallow acceptors. So what are they?
+其中一个浅缺陷实际上就是施主。对吧？浅施主或浅受主。那么它们是什么呢？
+
+So generally this is a difficult problem. Right? You you need to really know how to really solve Schrödinger equation. But in this room other than myself actually probably nobody really know how to really solve Schrödinger equation. Especially a a Schrödinger equation sets. Right? There are lots of variables. Right? Very very difficult.
+所以总的来说，这是一个困难的问题。对吧？你们真的需要知道如何真正求解薛定谔方程。但在这个房间里，除了我自己，可能没有人真正知道如何解薛定谔方程。特别是薛定谔方程组的设定。对吧？这里有很多变量。对吧？非常非常难。
+
+Yeah.
+是的。
+
+Yeah. But we usually like in physics we want to really simplify the problem. By making some kind of assumptions and justifications. So the ideal assumption to make this problem solvable analytically and also can be applied to a large number of cases and irrespective to the chemical nature of the defects.
+是的。但通常呢，在物理学里我们想把问题真正简化。通过做一些假设和理由阐述。所以，为了使这个问题在解析上可解，并且能适用于大量情况，且不受缺陷化学性质的影响，一个理想的假设是——
+
+And so this example is so-called a heterogenic model. Right?
+所以这个例子就是所谓的异质模型。对吧？
+
+Yeah.
+是的。
+
+So what is heterogenic model?
+那么什么是异质模型呢？
+
+Yeah.
+是的。
+
+So heterogenic model actually just let's pretend that we we we do not really have a very picky eyes. Right? We do not really care about very high accuracy. And also let's let's just pretend that all the different donors and acceptors they really share something in common. Right?
+異質模型其實就是讓我們假裝我們沒有非常挑剔的眼光。对吧？我们并不是特别在意非常高的准确性。而且，我们不妨假设所有不同的供体和受体确实有一些共同之处。对吧？
+
+Yeah.
+是的。
+
+Right? Then what are those things in common?
+对吧？那么，这些共同的东西是什么呢？
+
+Right?
+对吧？
+
+So let's just come back to the whiteboard.
+好，那我们回到白板上来。
+
+So we still have a lattice of silicon. Right?
+所以，我们仍然有一个硅的晶格。对吧？
+
+So silicon actually we we know this is a group four. Right?
+那么硅实际上我们知道这是第四族元素。对吧？
+
+Yeah.
+是的。
+
+Then we just dope a phosphorus.
+然后我们掺杂一下磷。
+
+Yeah.
+是的。
+
+Which is group five. Right?
+这是第五族元素。对吧？
+
+Yeah.
+对。
+
+So this phosphorus would really produce one more electrons. Right?
+所以这个磷实际上会产生一个更多的电子。对吧？
+
+Yeah.
+是的。
+
+So this electron try to really opening around.
+所以这个电子真的在尝试打开周围的环境。
+
+This phosphorus. Right?
+这个磷。对吧？
+
+Yeah.
+是的。
+
+And then this phosphorus itself actually should to be considered as what?
+那么这个磷本身实际上应该被视为什么呢？
+
+Yeah.
+是的。
+
+As a as a positive ion. Right? Because usually we should really see a silicon there. Right?
+作为一个正离子。对吧？因为通常我们确实应该在那里看到硅。对吧？
+
+Yeah.
+是的。
+
+Silicon there actually should really have what?
+硅那边实际上应该有什么？
+
+Yeah.
+是的。
+
+A have a have a have a uh.
+有一个有一个有一个，呃。
+
+So so so so so what's a what a what's a what's a nuclear charge of silicon?
+所以所以所以，硅的核电荷数是多少？
+
+And it must really be just a one more than the the the phosphorus there. Right?
+那肯定就只比磷多一个。好，那么硅的核电荷数是多少？
+
+Yeah.
+是的。
+
+Because here actually we have a one more electrons there. Right?
+因为这里实际上我们多了一个电子。对吧？
+
+Yeah.
+是的。
+
+So to really have one more electron to really compensate to to this because phosphorus atom is neutral. Right?
+所以要真正多一个电子来真正补偿这个，因为磷原子是中性的。对吧？
+
+Yeah.
+是的。
+
+Yeah. So that means actually the the the phosphorus actually should be more positive in this nucleus. Right?
+是的。所以这意味着实际上磷的原子核应该更带正电。对吧？
+
+Yeah.
+对。
+
+The nucleus has a more more positive.
+这个原子核的正电性更强。
+
+Yeah.
+是的。
+
+Then then this electron actually is a is a negative for it. Right?
+然后这个电子实际上对它来说是一个负的。对吧？
+
+Yeah.
+是的。
+
+So this time you see what?
+那么这次你看到了什么？
+
+Yeah.
+是的。
+
+This time you see a electron opening around a positive center. Then.
+这次你看到了什么？
+是的。
+
+这次你看到一个电子围绕正中心打开。然后呢。
+
+What's that?
+那是什么？
+
+That's hydrogen. Right?
+那是氢。对吧？
+
+Yeah.
+是的。
+
+That's just hydrogen.
+那只是氢气。
+
+Right?
+对吧？
+
+Yeah.
+是的。
+
+Now you see what is heterogenic model. Right?
+现在你们看到什么是异质模型了。对吧？
+
+Yeah.
+是的。
+
+We just ignore all the all the all the all the different things. Right?
+我们就忽略了所有的所有的所有的那些不同的东西。对吧？
+
+Yeah.
+是的。
+
+Then that that means what? That means also if we just just dope a instead of a phosphorus we also just try to really dope a nitrogen. Sorry. It's it's penny. Let me try this.
+那意味着什么？这意味着如果我们不只是掺杂磷，而是尝试真正掺杂氮的话。抱歉。这是便士。让我试试这个。
+
+Yeah.
+是的。
+
+We can either dope like phosphorus or or or or or or or nitrogen. Right?
+我们可以掺杂磷，或者，或者，或者氮。对吧？
+
+Yeah.
+对。
+
+Or arsenic. Right? Do it.
+或者砷。对吧？做吧。
+
+Then they behave similarly. Right?
+然后它们表现得类似。对吧？
+
+Yeah.
+是的。
+
+Yeah. They are all group five. Right? What's group five dope actually we will see this a positive center nucleus. Right? And also there's a negative electron. Right?
+是的。它们都属于第五族。对吧？实际上，第五组的多巴胺我们会看到这是一个正中心核。对吧？还有一个负电子。对吧？
+
+Yeah.
+是的。
+
+So negative electron opening around this positive center. We have hydrogen.
+所以负电子围绕这个正中心运转。我们有氢。
+
+Yeah.
+是的。
+
+But this is a strange hydrogen. You cannot truly think this is hydrogen. Right?
+但这是一个奇怪的氢。你不能真的认为这是氢。对吧？
+
+Yeah.
+嗯。
+
+But this hydrogen may may have a very different radius. Right?
+但这个氢原子可能……可能有非常不同的半径。对吧？
+
+Yeah.
+是的。
+
+You probably like to read some of these Liu Cixin's scientific novel. Right? On this like a gigantic like a like a electrons. So gigantic molecule something like that. Right?
+你可能喜欢读一些刘慈欣的科幻小说吧。对吧？就像这个，一个巨大的，像一个电子。所以像那样的巨型分子之类的。对吧？
+
+Yeah.
+是的。
+
+So actually in reality actually we really we really have this thing. Right? This is a huge hydrogen. Right?
+其实在现实中，我们真的有这种东西。对吧？这是一个巨大的氢原子。对吧？
+
+Yeah.
+嗯。
+
+So this hydrogen can be so huge that actually this size actually can be how much? Can be 10 electron or even like a several nanometers. Big. Because for a real hydrogen atom this is very small. You know? So hydrogen radius actually is only like only one electron or even less. Less than one electron. But this is a strange hydrogen actually can be like a 20 electron 30 electron within 40 electrons. It's a huge it's huge. Right?
+所以这个氢可以大到什么程度呢？实际这个尺寸能有多大？可以是10个电子，甚至可能是几个纳米。大。因为对于真实的氢原子来说，这个非常小。你知道吗？所以氢的半径实际上只有，只有一个电子，甚至更少。不到一个电子。但这其实是一种奇怪的氢，它能容纳大约20个电子、30个电子，甚至40个电子。这真的是一个巨大的。真的巨大。对吧？
+
+Yeah.
+对。
+
+But other than that actually they are they they share something very similar. Then anything you learn about hydrogen you can apply in this place. All right?
+但除此之外，实际上它们之间有一些非常相似的地方。那你学到的关于氢的一切，都可以应用在这里。好吗？
+
+Yeah.
+是的。
+
+Yeah. So this page actually is just a exactly just a tells tells you what I'm talking about. Right? So I know where I want to really read it out again. Right?
+是的。所以这一页其实只是，只是告诉你我在讲什么。对吧？所以我知道我真正想再读一遍的地方在哪里。对吧？
+
+Yeah.
+是的。
+
+Yeah. So this is just exactly we have a positive center here and we have a negative center here. Right? So we have a hydrogen. Right?
+嗯。所以这里正好有一个正极中心，这里有一个负极中心。对吧？所以我们有一个氢。对吧？
+
+Yeah.
+是的。
+
+But there are a little bit a little bit just a tricky things there. So when we study the hydrogen usually we place it in a vacuum. Right?
+但这里有一些稍微有点棘手的地方。所以当我们研究氢时，通常我们把它放在真空中。对吧？
+
+Yeah.
+是的。
+
+But here we cannot really say we have vacuum. Right? We have silicon here.
+但在这里我们不能真的说我们有真空。对吧？我们这里有硅。
+
+Yeah.
+是的。
+
+So silicon is not vacuum.
+所以，硅并不是真空。
+
+So that means what? That means actually we have a lot of more electrons there. A lot a lot of extra electrons. Right?
+所以这意味着什么？这意味着实际上那里有更多的电子。好多好多的额外电子。对吧？
+
+Yeah.
+是的。
+
+So this electrons actually they are just a somehow we call the screening effect. It's a screen by the the internal electrons and the the and also valence electrons. Right?
+所以这些电子实际上，我们称之为屏蔽效应。这是由内部电子以及价电子所屏蔽的。对吧？
+
+Yeah.
+是的。
+
+Yeah.
+是的。
+
+Yeah.
+是的。
+
+So that means what? We have some electrons. So so each line actually just a a a silicon bond. Right?
+所以那意味着什么？我们有一些电子。所以每一行实际上只是一个硅键。对吧？
+
+Yeah.
+对。
+
+So those silicon bonds also they are just a they interact with your electrons. Right? They have you have some some kind of screening effect there. And also some of this neighboring ion sometimes may also have some interaction with this electrons.
+所以那些硅键，它们也只是与你的电子相互作用。对吧？所以这意味着什么呢？我们有一些电子。所以实际上每条线都只是一个硅键，对吧？
+是的。
+
+英语->中文：那里有一些屏蔽效应。而且有些相邻的离子有时也可能与这些电子发生一些相互作用。
+
+Yeah.
+是的。
+
+Right? So this electron may not really feel happy as happy as in the vacuum. Right? It's not in the vacuum. This is in a very strange electron field or electron space. Right?
+对吧？所以这个电子在真空中可能不会感到那么自在，不像在真空中那么开心。对吧？不是在真空中的。这是在一种非常奇特的电子场或电子空间中。对吧？
+
+Yeah.
+是的。
+
+But if you are crazy enough you can think silicon is also vacuum it might be children. Right?
+但如果你足够疯狂，你可能会认为硅也是真空，它可能是孩子。对吧？
+
+Yeah.
+是的。
+
+Then it's just a strange strange vacuum. Right?
+那它就是个非常奇怪的真空了。对吧？
+
+Yeah.
+是的。
+
+Yeah.
+对。
+
+Yeah. But still with all this like interaction or screening effects so the Coulombic attraction actually is still there. Right?
+是的。但即使有这些相互作用或屏蔽效应，库仑吸引力实际上仍然存在。对吧？
+
+Yeah.
+是的。
+
+Yeah. So Coulombic attraction is still there.
+是的。所以库仑吸引力仍然存在。
+
+Yeah.
+是的。
+
+And also silicon this electron actually is a very weakly bonded to the positive center. Right? So this is a positive center.
+而且硅的这个电子实际上与正电荷中心结合得非常弱。对吧？所以这是一个正中心。
+
+Yeah.
+是的。
+
+So as I mentioned right so this is a very weakly bonded. Usually like a like a like a several like a 20s or 30 electrons in radius. Very weak. Right?
+所以正如我提到的，对吧，这是一种非常弱的键合。通常像一个，像半径有几十或三十个电子那么大。非常弱。对吧？
+
+Yeah.
+是的。
+
+Weakly bonded.
+弱键合。
+
+Yeah.
+是的。
+
+Right?
+对吧？
+
+And then just because we have a valence electrons of a like a other silicons. Right? They will screen this whole thing.
+然后就是因为我们有价电子，像其他硅原子那样的。对吧？他们会全程播放这个。
+
+Yeah.
+是的。
+
+Yeah. So this is so-called large screening effect. Yeah. This is important that I try to understand. So we have a lot of silicon electrons. Here and there. Right?
+是的。这就是所谓的大屏蔽效应。嗯。这很重要，我需要试着去理解。所以我们有很多硅电子。这里那里。对吧？
+
+Yeah.
+是的。
+
+So those electrons will screen this interactions between these electrons and and and and the phosphorus center. Right?
+所以这些电子会屏蔽这些电子与磷中心之间的相互作用。对吧？
+
+Yeah.
+是的。
+
+And then that will really weaken this whole interaction and make this a size actually becomes very very big. This is a gigantic hydrogen atom. Okay?
+然后那确实会削弱整个相互作用，使得这个尺寸实际上变得非常大。这是一个巨大的氢原子。好的吧？
+
+Yeah.
+是的。
+
+Yeah. Screening effects of the silicon. Right?
+嗯。硅的屏蔽效应。对吧？
+
+Yeah.
+是的。
+
+Yeah.
+对。
+
+But still we are finished finished actually we are lazy so we just try to use a primary to really describe this thing. This thing actually is what? Epsilon zero. Right?
+但尽管如此，我们还是完成了，实际上我们比较懒，所以只是尝试用一个初步的方法来描述这个东西。这东西到底是什么？epsilon零。对吧？
+
+Yeah.
+是的。
+
+So epsilon zero actually is a dielectric constant of silicon. So it takes care of the screening effect of the impurity potential by the valence electrons. Right? So so like in the in the vacuum actually we can already write this way. Right? So this is a this is a vacuum permittivity. But in silicon actually we just place it in the silicon permittivity or silicon dielectric constant. All right?
+所以ε零其实就是硅的介电常数。这样就处理了价电子对杂质势的屏蔽效应。对吧？所以在真空中，其实我们已经可以这样写了。对吧？所以这是一个，这是真空介电常数。但在硅中，实际上我们只是把它放在硅的介电常数里。好的，对吧？
+
+Yeah.
+是的。
+
+So this is a large simplifier right now. Now it's everything can understand without even like a lot of quantum mechanical knowledge. You can understand what's there. Right? And also please note that the silicon actually is covalent. So there is no screening effect by the silicon ions. So we also have a lot of silicon ions there. Right?
+所以这是一个很大的简化，对吧？现在所有内容，即使没有很多量子力学知识，也能理解。所以这里的ε0其实就是硅的介电常数，它考虑了价电子对杂质势的屏蔽效应，对吧？所以在真空中，我们其实已经可以这样写了，对吧？这是真空介电常数。但在硅里面……对吧？另外请注意，硅实际上是共价的。所以这里硅离子没有屏蔽效应。所以在硅里面我们也有很多硅离子。对吧？
+
+Yeah.
+是的。
+
+But we know that this is covalent bonded silicon. Right?
+但我们知道这是共价键结合的硅。对吧？
+
+Yeah.
+是的。
+
+So covalent bond is what? So all the electrons they are just a concentrated in the center of two atoms. Right? This is what you learn in the like high school chemistry. Right?
+所以共价键是什么？所以所有的电子，它们只是集中在两个原子的中心。对吧？这就是你在高中学化学时学到的东西。对吧？
+
+Yeah.
+对。
+
+Yeah. So covalent bond means what? So they are electron activities they are about the same. Right?
+嗯。那么共价键是什么意思？所以它们的电子活性大致相同。对吧？
+
+Yeah.
+是的。
+
+Then you will see what? May most of this electron will really just occupy this space. Right?
+那你就会看到什么呢？大部分电子实际上只会占据这个空间。对吧？
+
+Yeah.
+是的。
+
+So here actually we already have a bunch of electrons. Right?
+所以在这里，实际上我们已经有了大量的电子。对吧？
+
+Yeah.
+是的。
+
+Yeah. So that means actually screening effects actually mostly just by the bonds of silicon. But sometimes we already know that for this ionic crystal right.
+是的。所以这实际上意味着，屏蔽效应其实主要是由硅的键来决定的。但有时候我们已经知道，对于这个离子晶体，对吧。
+
+Ionic crystal means what? Like like gallium nitride. Right? This Nakamura just invented gallium nitride. Right?
+离子晶体是什么意思？就像像氮化镓。对吧？这位中村刚发明了氮化镓。对吧？所以这意味着实际上屏蔽效应大多只是通过硅的键来实现的。但有时候我们已经知道，对于这种离子晶体来说，对吧？
+
+Yeah.
+对。
+
+The gallium nitride LED. So that one is actually you also have some kind of electron activities of nitrogen. So nitrogen actually that means actually that will really attract quite a lot of electrons near nitrogen. So those electrons may also just affect this this this actual screening effect. So ions. Right?
+氮化镓LED。所以那个实际上，你也有一些氮的电子活动。所以氮实际上意味着，那真的会把大量的电子吸引到氮附近。所以那些电子可能也会影响这个实际的屏蔽效应。所以离子。对吧？
+
+Yeah.
+是的。
+
+Yeah. So that means actually we may have some actual terms of a ionic crystal. Yeah.
+是的。所以这意味着实际上我们可能有一些离子晶体的实际项。是的。
+
+Yeah. So this is different. Right? So this is also try to understand this thing. This thing also yeah yeah somehow actually can be important. Yeah.
+是的。所以这是不同的。对吧？所以这也是试图理解这个东西。这个东西嘛，嗯嗯，某种程度上其实也挺重要的。是的。
+
+Yeah.
+是的。
+
+Okay.
+Okay.
+
+So also good. Yeah. So this is a very briefly talk about a screening effect. If you want to really calculate screening effects and don't try that. It's super difficult. Screening effects actually is just a quantum mechanical effect. Yeah.
+也挺好的。嗯。所以这是一个非常简短的关于筛选效应的介绍。如果你想真正计算屏蔽效应，就别那么做。这超级难。筛选效应实际上只是一种量子力学效应。是的。
+
+Yeah.
+是的。
+
+So whenever somebody tells you there's a quantum mechanical effect you can tell him that that's screening effect. Yes. It's a screening effect.
+所以每当有人告诉你那是量子力学效应，你就可以告诉他那是屏蔽效应。是的。这是一种屏蔽效应。
+
+Yeah.
+是的。
+
+Yeah. So in physics we call it extreme correlation effects. It's especially this is most about the correlation effects. Yeah.
+是的。所以在物理学中，我们称之为极端关联效应。这尤其是关于关联效应的。是的。
+
+Yeah.
+嗯。
+
+So correlation actually is the most difficult part in the calculations of quantum mechanics. Yeah. The screening effects.
+所以关联效应实际上是在量子力学计算中最困难的部分。是的。屏蔽效应。
+
+Yeah.
+是的。
+
+All right?
+好了吗？
+
+Yeah.
+好的。
+
+And to obtain the Schrödinger equations for the electrons then we have to really make other approximations. So unlike the electrons in silicon atoms so this electrons also moves into the crystal. So this electron mass is also changed. Yeah. By its interaction with other electrons. Right? Yeah.
+接下来要得到电子的薛定谔方程，我们就必须做其他的近似。所以，不像硅原子中的电子，这种电子也会移动到晶体中。所以这个电子质量也发生了变化。嗯。通过它与其他电子的相互作用。对吧？嗯。
+
+So this effect of a like a drag. Right? Yeah. So you can see this this electrons actually feel feel a lot of a drag force. Right?
+所以这种效应就像一种拖曳。对吧？对。所以你可以看到这些电子实际上受到了很大的阻力。对吧？
+
+Yeah.
+是的。
+
+Yeah. And by the other electrons ions that can be approximate as some so-called effective mass and spark.
+是的。而其他电子和离子，可以被近似为某种所谓的有效质量和火花。
+
+Right.
+对。
+
+Then finally if you just write want to check the Schrödinger equation then this is a neutral Schrödinger equation. Right? This I actually has exactly the same form as as as a hydrogen. So this term is a is a kinetic energy term. Right?
+那么最后，如果你只是写下想检查薛定谔方程，那么这是一个中性的薛定谔方程。对吧？实际上这恰好具有与氢原子完全相同的形式。所以这一项是动能项。对吧？
+
+Yeah.
+嗯，是的。
+
+This term actually is potential energy term. Right?
+这一项实际上是势能项。对吧？
+
+Yeah.
+是的。
+
+I I I think you you you understand this term. Right?
+我觉得你你你理解这个术语。对吧？
+
+Yeah.
+是的。
+
+Right? So ENM. Right? This is a yeah.
+对吧？所以，ENM。对吧？是的。
+
+Yeah.
+是的。
+
+This is a electrostatic potential. The Coulombic potential this is. Right?
+这是一个静电势。库伦势就是这个。对吧？
+
+Yeah.
+是的。
+
+It's just inverted proportional to R. Right? So this is just a charge squared. Right?
+它只是与R成反比。对吧？所以这只是电荷的平方。对吧？
+
+Yeah.
+是的。
+
+And this is just your electron constant. Right?
+而这只是你的电子常数。对吧？
+
+Yeah.
+是的。
+
+The dielectron constant.
+介电常数。
+
+This term is what? This term actually is the kinetic energy. And this P is momentum. So momentum squared divided by mass actually that give you the kinetic energy. Yeah. So if you like you can also go back home try to really work on it. Yeah. So this is just a give you kinetic energy. So that means the kinetic energy and the potential energy. Right? So we all together this is a Schrödinger equation. Right?
+介电常数。这个术语是什么？这个术语实际上指的是动能。而这个P是动量。所以动量平方除以质量实际上给的是动能。对。所以如果你们愿意的话，回家之后也可以试着真正去钻研一下。是的。所以这只是给你一个动能。所以这意味着动能和势能。对吧？所以，我们合在一起，这就是一个薛定谔方程。对吧？
+
+Yeah.
+对。
+
+So this equation just give you the sorry.
+这个方程其实只是给你…抱歉。
+
+Just give you the the so-called hydrogenic approximation. Right?
+这个方程只是给你所谓的类氢近似。对吧？
+
+Yeah.
+嗯。
+
+Yeah. So this is very important and you can understand actually in the just a yeah yeah yeah. Very simple quantum mechanics. Yeah. So don't worry. I don't really just ask you to really solve this equation. Yeah.
+是的。所以这是非常重要的，你实际上可以理解，就在刚才，是的，是的，是的。非常简单的量子力学。是的。所以别担心。我并不是真的要求你们真的去解这个方程。是的。
+
+Yeah.
+是的。
+
+So why? Because this already on the textbook. Yeah. You already just can apply all the hydrogen knowledge and put this equation. Right?
+所以，为什么？因为这在课本上已经有了。是的。你们其实已经可以把所有氢原子的知识直接应用到这个方程里了。对吧？
+
+Yeah.
+对。
+
+Because for hydrogen actually we know that infinity actually we can so-called a just a just a reference energy. Right? To infinity.
+因为对于氢原子，我们知道无穷远处实际上我们可以说只是一个参考能量。对吧？到无穷大。
+
+Yeah.
+是的。
+
+Right?
+对吧？
+
+Yeah.
+是的。
+
+And then this E then actually is just the energy levels. Of a like certain certain energy levels. Right? Yeah.
+然后这个E实际上就是能级。具有一定的特定能级。对吧？嗯。
+
+Yeah.
+是的。
+
+Yeah.
+是的。
+
+So this one actually just give you by this a quantum mechanics. Right?
+所以这个实际上只是通过量子力学给你的。对吧？
+
+Yeah.
+嗯。
+
+Yeah. So E infinity actually is the energy of the electrons becoming free. Right? So we just like totally ionize this electrons to infinity. So this is so-called a a a E E infinity.
+是的。所以E无穷大实际上是电子变为自由时的能量。对吧？所以我们就把这些电子完全电离到无穷远。所以这就是所谓的所谓的一个EE无穷大。
+
+Yeah.
+是的。
+
+And this is the just a conduction band edge in semiconductors. Right?
+而这正是半导体中导带边缘的位置。对吧？
+
+Yeah.
+是的。
+
+R star actually is the R energy to ionize the electrons to in the ground state. And that equals the binding energy of the electrons. So 1s level and to the to the donor donor ion. Right?
+R*实际上是将基态电子电离所需的R能量。而这等于电子的结合能。所以1s能级，到施主离子。对吧？
+
+Yeah.
+是的。
+
+And then in semiconductors this a effective mass actually is much smaller than than electrons. Real electrons.
+而在半导体中，这种有效质量实际上远小于电子的有效质量。真实的电子。
+
+Yeah.
+是的。
+
+It's about like a 1/10 small 1/10. Right? 1/10 of this real electron. Now you understand why just a silica actually is a very nice a.
+差不多是它的十分之一，十分之一。对吧？而在半导体中，这种有效质量实际上远小于电子。真实电子。
+对。
+
+英语->中文：是真实电子的十分之一。现在你明白了，为什么仅仅是二氧化硅其实是一个非常不错的……
+
+Material that give you a give you a a pretty good properties in the circuit. Right? Because this is very light. So if it's very light then the conductivity is very nice. Right? It can move very fast. Yeah.
+材料能给你，能给你，在电路中带来相当不错的性能。对吧？因为这非常轻。所以如果它非常轻的话，导电性就会非常好。对吧？它可以移动得非常快。是的。
+
+Yeah.
+是的。
+
+So this is a a very good features of a silicon. Yeah. So you want to really have a very small mass. Right?
+所以这是硅的一个非常好的特性。是的。所以你确实想要一个非常小的质量。对吧？
+
+Yeah.
+是的。
+
+Yeah. So if you want to really learn how to really just calculate this conductivities of a silicon device you can also try to really find the literature do some reviews. Yeah.
+是的。所以如果你想真正学会如何计算硅器件的电导率，你也可以尝试去查找文献，做一些综述。是的。
+
+Yeah.
+是的。
+
+Yeah. Then this R star actually is usually about 10 to 100 mE the binding energy. Yeah.
+是的。那么这个R星通常大约是结合能的10到100毫电子伏。嗯。
+
+Yeah.
+是的。
+
+So this one is also very small. Right?
+所以这个也是非常小的。对吧？
+
+Yeah.
+是的。
+
+Yeah. So the silica so hydrogenic defect actually known as a shallow defects. Yeah. So this A actually is a like more radius. Yeah.
+是的。因此，这个硅氢缺陷实际上被称为浅缺陷。是的。所以这个A实际上有一个更大的半径。是的。
+
+So this picture actually give you the general ideas of this a hydrogenic model.
+所以这张图实际上给了你关于这个类氢模型的大致概念。
+
+So this one actually we already know. Right? This is a valence band. Right?
+所以这个我们其实已经知道了。对吧？这是价带。对吧？
+
+Yeah.
+是的。
+
+That give you by this valence electrons. This is a conduction band. Right? So conduction band actually give you the sense of infinity. Right? Because once we we just excite the electrons of this gigantic hydrogen into this band we think this already pretty much free. Right? If it's free then it's a infinity. Right?
+这个就是由这些价电子给你的。这是导带。对吧？所以导带实际上给你一种无限的感觉。对吧？因为一旦我们把这种巨型氢原子的电子激发到这个能带中，我们认为这基本上已经是自由的了。对吧？如果是自由的，那么它就是无穷。对吧？
+
+Yeah.
+是的。
+
+And this one actually is your ground state energy of this gigantic hydrogen. And usually this this difference actually is very small. Only like a few like a several like 10 milli electron volts. This is very very small energy. Right?
+而这个，实际上就是你这个巨大氢原子的基态能量。而且通常这个差异实际上是非常小的。就像只有几个，比如10毫电子伏特那样。这是非常非常小的能量。对吧？
+
+Yeah.
+是的。
+
+Yeah. So this is the like first exciting state. This is the second exciting state. And this is just infinity. All right?
+是的。所以这大概就是第一激发态。这是第二个激发态。而这其实就是这个巨型氢原子的基态能量。通常这个差异实际上非常小。只有几个，比如几个，大概10毫电子伏特。这是非常非常小的能量。对吧？好吗？
+
+Yeah.
+是的。
+
+We understand this picture now. Right?
+我们现在理解这幅图了。对吧？
+
+Yeah.
+是的。
+
+Yeah. So this one actually is infinity. Yeah.
+是的。所以这个实际上是无穷大。是的。
+
+Yeah.
+是的。
+
+It's just like this infinity. Right?
+就是这个无穷大。对吧？
+
+Yeah.
+是的。
+
+So at this point. Right? This is infinity.
+所以在这个节点上。对吧？这就是无穷。
+
+Yeah.
+是的。
+
+Okay. This is your defect energy. Right? So defect. So so that's your the hydrogen ground state. Right?
+好的。这就是你的缺陷能。对吧？所以，缺陷。所以这就是你的氢原子基态。对吧？
+
+Yeah.
+是的。
+
+This is your first exciting state of hydrogen. This is the second exciting state of hydrogen. All right?
+这是你的氢原子第一激发态。这是氢的第二个激发态。好的。这就是你的缺陷能量，对吧？所以缺陷。所以这就是氢的基态，对吧？
+嗯。
+
+Yeah.
+是的。
+
+I think you learned all these things before. Right?
+我想你们之前已经学过所有这些内容了。对吧？
+
+Yeah.
+对，是的。
+
+No?
+没有吗？
+
+No.
+不。
+
+Never learned anything about hydrogen? Oh, too bad. Uh no.
+没学过任何关于氢的知识？哦，太可惜了。呃，不。
+
+What can I do?
+我能做什么？
+
+Yeah.
+是的。
+
+None of you none of you learned hydrogen before?
+你们之前都没有学过氢吗？
+
+Yeah.
+是的。
+
+Ah. Too bad. Uh.
+啊。太可惜了。呃。
+
+But usually like you you you you notice physics you should really at least learn something about like hydrogen. Right?
+但通常，比如你你你你会注意到物理，你至少应该学学像氢这样的东西。对吧？
+
+Yeah.
+嗯，对。
+
+Never?
+从来没有过？
+
+No.
+不。
+
+Yeah.
+Yeah. 
+是的。
+
+But anyway just just just try to really remember. Yeah. Try to memorize. This E infinity actually is just a corresponding to to this one. Yeah.
+但总之，就尽量记住。嗯。试着背下来。这个E无穷实际上就是对应于这一个。是的。
+
+Yeah.
+嗯。
+
+So this place actually is usually we we mark as E E infinity.
+所以这个地方通常我们标记为E无穷大。
+
+All right?
+好的，对吧？
+
+Yeah.
+是的。
+
+Yeah. So this is important. Try to try to try to really memorize this thing. Right?
+嗯。好的，这点很重要。尽量，尽量，尽量真的记住这个东西。对吧？
+
+Yeah.
+是的。
+
+This E infinity.
+这个是E无穷大。
+
+And this one for this band gap. This is easy. Right?
+而这个，是针对这个带隙的。这个很简单。对吧？
+
+Yeah.
+是的。
+
+E infinity actually is a
+E infinity实际上是……
+
+then finally let's just come to the pin junction. Yeah. Pin junction actually is the last topic. Let me see how my how much time. Oh, I still have plenty of time. Good.
+最后，让我们来看一下PN结。对。Pin结实际上是最后一个主题。让我看看我还有多少时间。哦，我还有大把时间。好的。
+
+Yeah.
+是的。
+
+And the pin junction actually are of great importance at both in modern electronic applications and also in understanding other semiconductor devices. So pin junction theory actually serve as a foundation of physics of a semiconductor device. So the.
+而PIN结实际上在现代电子应用以及理解其他半导体器件方面都具有重要意义。所以，PN结理论实际上是半导体器件物理学的基础。那么最后我们来讲一下PN结。
+
+Basic theory of a like current voltage characteristics of a pin junction. Was established by Shockley. Right? The guy sitting there. You still remember. Right? We have a photo. Right? The guy sitting there was Shockley.
+PN结的基本理论，比如PN结的电流-电压特性。由肖克利建立。对吧？坐在那里的那位。你仍然记得。对吧？我们有一张照片。对吧？坐在那里的那个人是肖克利。
+
+Yeah.
+是的。
+
+So this theory was later extended by Song and also Norris and also Shockley. Song actually is Chinese. Yeah. Song is Chinese. There are lots of Chinese names in the development of semiconductors.
+这一理论后来由Song以及Norris，还有Shockley进一步扩展。宋实际上是中国人。是的。肖克利建立了pin结电流电压特性的基本理论，对吧？坐在那里的那个人。你们还记得吧？对，我们有一张照片。对吧？坐在那里的就是肖克利。
+是的。半导体发展中有很多中国人的名字。
+
+Yeah.
+对，这一理论后来被宋以及诺里斯和肖克利拓展了。宋实际上是中国人。对，宋是中国人。半导体发展过程中有很多中国人的名字。
+
+Yeah. So Song is Chinese.
+是的。所以，宋是中国人。
+
+And also Moe.
+而且还有Moe。
+
+But let me just introduce you just a a a little bit about like the background of this pin junction. But let's just make simplification. Right? So let's firstly just try to really understand the concept of of ground junction. So what is a ground junction? So this is a large simplification of a pin junction. So when the impurity concentration in a semiconductors they can change abruptly from acceptable impurities to donor impurities. And then we call it the abrupt junction. Yeah. So here this is a typical of this abrupt junction. Right?
+不过让我稍微介绍一下这个PIN结的背景。但我们就做个简化吧。对吧？所以我们首先试着真正理解一下接地连接这个概念。那么什么是接地节点呢？所以这是对pin结的一个大幅简化。所以，当半导体中的杂质浓度从受主杂质突然变为施主杂质时。然后我们称之为突变结。是的。所以这里是这种突然连接的一个典型例子。对吧？
+
+Yeah.
+嗯。
+
+So on the left hand side we have this this is a what? This is a a P-type region. On the right hand side we have an N-type region. Right?
+在左手边，我们有一个这是什么？这是一个P型区域。在右手边我们有一个N型区域。对吧？
+
+Yeah.
+对。
+
+So I put this positive sign because for N-type this is a centers they are positive. Right? Just like the phosphorus. Right? We have this phosphorus center as as a P-type as a as a positive. But the the the electrons they are they are they are negative. Right?
+所以我标了这个正号，因为对于N型半导体来说，这些中心是带正电的。对吧？就像磷一样。对吧？我们有这个磷中心，作为一个P型，作为一个正的。但是这些电子，它们是，它们是，它们是负的。对吧？
+
+Yeah.
+是的。
+
+Then in the P-type region actually we know this ions they should be negative. Then they are like pseudo electrons should be positive. Right? Yeah. So those are called poles. Right? Yeah.
+那么在P型区域，实际上我们知道这些离子应该是负的。那么它们就像准电子，应该是正的。对吧？是的。这些就被称为极点。对吧？是的。
+
+And then in this whole thing then we can just assume that this is a hose in this area and the electrons in this area they can compensate each other.
+然后在这整个东西里面，我们可以假设这片区域是空穴，这片区域的电子，它们可以互相补偿。
+
+So when they compensate each other they form an equation region. Right?
+所以当它们相互抵消时，就形成了一个耗尽区。对吧？
+
+Yeah.
+是的。
+
+This is just like you have a positive charge and negative charge. But they are no no longer opposing each other. They try they try to flow to each other. When they flow to each other they they there's nothing there. Right? If there's nothing there then we only have ions. Right?
+这就好比你有正电荷和负电荷。但它们不再相互对立了。它们试图相互流动。当它们相互流动时，那里什么都没有。对吧？如果那里什么都没有，那我们就只有离子了。对吧？
+
+Yeah.
+是的。
+
+Ions in in in this whole in in this whole thing.
+离子在整个……整个这个东西里。
+
+Yeah.
+是的。
+
+And then this is what?
+然后这是什么？
+
+Yeah.
+是的。
+
+And this is some kind of dielectric materials. Right? Because dielectric materials does already have any free free carriers or free electrons. Right? So we have a dielectric materials.
+而这是一种介电材料。对吧？因为介电材料本身并没有自由载流子或自由电子。对吧？所以我们有介电材料。
+
+Yeah.
+是的。
+
+Right?
+对吧？
+
+And then in this region this region we should really have some kind of a charge concentration there. Right? Yeah. So this is usually we call it like this this place actually this is a like donor density and also this is a acceptable density. A neg and a D. Right?
+然后在这个区域，这个区域我们确实应该有某种电荷集中在那里。对吧？对。所以这通常我们是这样称呼的，这个地方实际上是施主密度，然后这也是受主密度。一个neg和一个D，对吧？
+
+Yeah.
+对。
+
+And then we really have what? We have some kind of very string thing. Right? So.
+然后我们真的有什么？我们有一些非常强烈的某种东西。对吧？所以，
+
+Just a moment ago I just show you there's a abrupt junction. Right?
+刚才我向您展示了一个突变的连接处。对吧？
+
+Yeah.
+是的。
+
+So we have a lot of a a P-type regions. P-type regions we have a lot of negative charge ions. And also in the N-type region we have a lot of positive charge ions. Right?
+所以我们有很多P型区域。P型区域我们有很多负电荷离子。而且在N型区域，我们也有大量的正电荷离子。对吧？
+
+Yeah.
+是的。
+
+And those things also there there are also a lot of charges accumulated near this surface. Right?
+而且这些东西，在表面附近也积累了很多电荷。对吧？
+
+So in this part there's no free charge. Right? All those I've marked actually they are non-electron. They are just ions. They are non-electrons.
+所以在这一部分没有自由电荷。对吧？我标记的那些其实都不是电子。它们只是离子。它们不是电子。
+
+Yeah.
+是的。
+
+Right? And then here we may have some kind of a a a a interface or surface electrons. And here we may also have another surface or interface electron there. Right?
+对吧？然后这里我们可能有一些，呃，界面或表面电子。而在这里，我们可能还有另一个表面或界面电子。对吧？
+
+Yeah.
+是的。
+
+So this whole thing actually makes what?
+所以整个这个东西实际上构成了什么？
+
+Makes something you are familiar actually in high school physics. Right?
+这整个东西实际上构成了什么？对吧？
+
+Yeah.
+对，是的。
+
+So this is a capacitor. Right?
+所以这是一个电容器。对吧？
+
+Yeah.
+是的。
+
+So this is a pair of capacitor. Right?
+所以这是一对电容器。对吧？
+
+Yeah.
+是的。
+
+So that means actually this whole thing can be just a described by a pair of capacitor. And this whole thing actually is so called the equation region. Right?
+所以这意味着实际上整个东西可以用一对电容来描述。而这一整块实际上就是所谓的方程区域。对吧？
+
+Yeah.
+是的。
+
+The equation region actually is a is what I just showed here. Right? Yeah. So this portion and this portion they just cancel for each other. This ND minus NF this gave you this concentration of this donors and also acceptors. Right? Yeah. This is the acceptor density and the donor density.
+实际上，这个方程区域就是我刚才展示的这个。对吧？是的。所以这部分和这部分，它们相互抵消了。这个ND减去NF，它为你提供了施主和受主的浓度。对吧？是的。这是受主密度和施主密度。
+
+Yeah.
+是的。
+
+They compensate each other.
+它们互相补偿。
+
+All right?
+好吧？
+
+Yeah.
+是的。
+
+Yeah. This one actually is a P-type region. This one is N-type region.
+是的。这个实际上是一个P型区域。这个是N型区域。
+
+Yeah.
+是的。
+
+So far so good? Yeah. There are more and more later you will get lost. I I guarantee you will get lost. Yeah.
+到目前为止都还好吗？是的。后面会越来越多，你到时候会跟不上的。我，我保证你一定会迷路。嗯。
+
+Okay. Now let's see some first equation the string equation again. So let's first consider the thermal equilibrium condition. So there's a no voltage applied. And the current flow. Right?
+好的。现在让我们来看第一个方程，弦方程。那么我们先来考虑热平衡条件。所以这是没有施加电压的情况。而当前的流程。对吧？
+
+Yeah.
+是的。
+
+So of course we can apply some kind of external field or external voltage here. Right? To this capacitor. Right?
+所以当然我们可以在这里施加某种外部场或外部电压。对吧？对于这个电容器。对吧？
+
+Yeah.
+是的。
+
+Yeah. But let's first study this no no external field. Kind of a a situation. Right?
+是的。但让我们首先研究这种情况，没有外部电场。算是这么一种情况吧。对吧？
+
+Yeah.
+是的。
+
+If there's no external field then we only have this locally building internal field. And then there can already be any current density. So this is J actually stands for the current density.
+如果没有外部场，那我们就只有内部场在局域地建立起来。然后那里就已经可以有任意电流密度了。这里的J实际上代表电流密度。
+
+Yeah.
+是的。
+
+It's just like your current you learned in high school.
+就像你们高中学的电流一样。
+
+Yeah.
+对。
+
+Right? But this current density actually is just the you you just just the current and and and actually this there's a direction of it. So this is a this is a this is a vector gap. But don't don't worry about its detail. So now we have to we have no current. Right? Current density.
+对吧？但其实这个电流密度实际上就是电流，而且它是有方向的。所以这是一个，这是一个，这是一个向量间隙。但别，别担心它的细节。所以现在我们必须，我们没有电流了。对吧？电流密度。
+
+Yeah.
+对。
+
+And this term actually is what? This term actually is introduced by the by the by the E field. Yeah.
+而这个项实际上是什么呢？这个项实际上是由电场引入的。对，是的。
+
+Yeah.
+是的。
+
+Yeah. And this thing actually is so called mobility. This is your your your your your your density of your electrons.
+是的。而这个东西实际上就叫做迁移率。这是你的，你的，你的电子的密度。
+
+Yeah.
+是的。
+
+And this is the E field.
+这就是电场。
+
+Yeah.
+对。
+
+Right? So this term actually is a one one thing from the E field.
+对吧？所以这一项实际上是从电场来的。
+
+Yeah.
+是的。
+
+And this thing is for what?
+那这个东西是用来干什么的？
+
+So some of you probably should be familiar with this. Right? Right? This one actually we should learn it before in the in the in the in your undergraduate studies. Right?
+你们中有些人可能应该对这个很熟悉。对吧？对吧？这个其实我们在本科阶段就应该学过的。对吧？
+
+Yeah.
+是的。
+
+You're familiar with this?
+你们应该对这个比较熟悉吧？对吧？对吧？这个我们之前在本科学习的时候应该学过吧？对吧？
+
+Yeah.
+是的。
+
+This is about diffusion. Right?
+这是关于扩散的。对吧？
+
+Yeah.
+Yeah.
+
+So N is concentration. X actually is just a position. Right? So the NDX actually is like give you what?
+所以N是浓度。X实际上只是一个位置。对吧？所以NDX实际上给你什么？
+
+Yeah.
+嗯。
+
+The concentration gradient. Concentration gradient actually is what? It happens just in the diffusion equation.
+浓度梯度。浓度梯度到底是什么？就发生在扩散方程里。
+
+Yeah.
+是的。
+
+Right?
+对吧？
+
+Yeah.
+对。
+
+I think you learned diffusion equation before. Right?
+我想你之前学过扩散方程吧。对吧？
+
+Yeah.
+是的。
+
+No?
+没有吗？
+
+Yeah.
+是的。
+
+Oh my God. None of you learned diffusion equation?
+天哪。你们没有人学过扩散方程吗？
+
+Yeah.
+是啊。
+
+I think kinetics actually is one of the fundamental course in in in material science. Right?
+我觉得动力学实际上是材料科学中的一门基础课程。对吧？
+
+Yeah.
+是的。
+
+Chemistry.
+化学。
+
+Yeah.
+是的。
+
+Chemistry.
+化学。
+
+Kinetics is material science and engineering. Yeah.
+动力学是材料科学与工程。是的。
+
+The diffusion equation should should learn diffusion equation. Right? Never learn diffusion equation?
+扩散方程应该学扩散方程。对吧？没学过扩散方程吗？
+
+No.
+不。
+
+Oh, too bad.
+哦，太糟糕了。
+
+Yeah.
+是啊。
+
+Yeah. I shocked.
+是的。我震惊了。
+
+No diffusion equation. Then you better learn a little bit about diffusion equation. Yeah.
+没有扩散方程。那你最好学一点扩散方程。是的。
+
+Yeah.
+是的。
+
+Yeah. Go back home ask the AI what is diffusion equation. Right?
+是的。回家去问问AI什么是扩散方程。对吧？
+
+Yeah.
+对。
+
+Yeah. So these two terms they would really cancel each other. Right? So this one actually is a produced by the field. This term actually produced by the by the concentration.
+Yeah.所以这两项它们真的会相互抵消。对吧？所以这个实际上是由该领域产生的。这个术语实际上是由浓度产生的。
+
+Yeah.
+是的。
+
+So concentration is what? Concentration actually just concentration gradient actually just a wait. Now here we have a lot of electrons. Right?
+所以浓度是什么？浓度实际上，只是浓度梯度——实际上，只是等一下。现在这里我们有大量的电子。对吧？
+
+Yeah.
+对。
+
+We have a lot of electrons. Here we have a lot of holes. Right?
+我们有很多电子。这里我们有很多空穴。对吧？
+
+Yeah.
+是的。
+
+So that means actually we gradually if we measure we have a high density of of electrons here. Low density of electrons here. Right?
+所以这意味着实际上我们逐渐地，如果我们测量的话，这里有一个高密度的电子。低密度的电子在这里。对吧？
+
+Yeah.
+是的。
+
+Then this one actually give us this sort of gradient. Right? Or hierarchy we call it in in in calculus we call it hierarchy. Right? Yeah.
+那么这个实际上就给了我们这种梯度。对吧？或者层级，在微积分中我们称之为层级。对吧？对。
+
+Yeah.
+对。
+
+Yeah. In more advanced math actually this is called a gradient. Right? Gradient.
+是的。在更高级的数学中，这实际上被称为梯度。对吧？梯度。
+
+Yeah.
+是的。
+
+Yeah. So concentration gradient actually is driven by what? Driven by the imbalance of this certain certain certain thing. Right? This certain thing here actually is electron.
+是的。那么浓度梯度实际上是由什么驱动的呢？受这种特定、特定、特定事物的不平衡所驱动。对吧？这里的这个东西实际上是电子。
+
+Yeah.
+对。
+
+But this one actually is driven by the electric field. Right?
+但这个实际上是由电场驱动的。对吧？
+
+Yeah.
+是的。
+
+Yeah. So these two all work together actually give you the J.
+是的。所以这两者共同作用，实际上就给出了J。
+
+Yeah.
+是的。
+
+And which also can be written as this Fermi level and divided by dx. Right?
+而这也是可以写成这个费米能级除以dx的形式。对吧？
+
+Yeah.
+是的。
+
+This is a combined Fermi level divided by dx.
+这是将费米能级合并后除以dx。
+
+Yeah.
+是的。
+
+And here also we just equal these two together so that means actually this must be zero. Right?
+而这里我们也只是把这两者等同起来，所以这意味着实际上这个必须是零。对吧？
+
+Yeah.
+是的。
+
+Yeah. So this means what? This equation means actually our uh uh uh.
+是的。所以这意味着什么？这个方程意味着实际上我们的呃呃呃。
+
+Electron current should be zero. Right?
+电子电流应该为零。对吧？
+
+Yeah.
+是的。
+
+Similarly we can also just estimate and to see that the full current also can be should be zero.
+类似地，我们也可以直接估算，发现总电流也应该是零。
+
+Yeah.
+是的。
+
+Because we have no external electron electric field. So that means actually these two actually they cancel each other. Right?
+因为我们没有外加的电子电场。所以这意味着实际上这两者相互抵消了。对吧？
+
+Yeah.
+是的。
+
+So it doesn't really mean we have we normally have internal ones. Yeah. So we shouldn't really have some internal electric field. This one actually is the internal.
+所以这并不意味着我们通常内部也有。嗯。所以实际上我们不应该有内部电场。这个实际上就是内部的。
+
+Yeah.
+对。
+
+Okay.
+好的。
+
+Off, and also hope to both sides of this period, right?
+关闭，同时也希望这段时间的两边，对吧？
+
+So this is one side of this: we call it the P-type domain. This one is N-type domain. So P-type domain we introduce a very strict pseudoelectrons for holes, actually, near this valence band. Right, so this is a so-called Fermi level.
+所以这是这一侧的部分：我们称之为P型域。这个是N型结构域。所以P型区域我们引入了一个非常严格的赝电子用于空穴，实际上，在价带附近。好，所以这就是所谓的费米能级。
+
+And then in the N-type region we already know that this is our authentic hydrogenic model, right? So this is your, your, your N-type impurity state, right?
+那么在N型区域，我们已经知道这是我们真正的类氢模型，对吧？所以这是你的，你的，你的N型杂质态，对吧？
+
+And then these two states, actually, they are aligned all together. This is flat. So if it is flat, it means what? There's no electron flow, right? So electron cannot really flow from this place to this place, and also electron cannot really flow from this place to this place. Right? So this is simple because the Fermi level just means what? It means actually this is just like our C level, right? So no actual electrons can be, can be flowing, right?
+然后这两个态，实际上，它们是排列在一起的。这是平的。所以如果是平的，那意味着什么？没有电子流动，对吧？所以电子并不能真正地从这个地方流向这个地方，同样，电子也不能真正地从这个地方流向这个地方。对吧？所以这很简单，因为费米能级意味着什么？这意味着实际上这就像我们的C能级，对吧？所以实际上并没有电子可以流动，对吧？
+
+All right.
+好的。
+
+And then we can see what? There's a so-called bias. Yeah, so the building potential, the bias. Right? So the building potential, actually, is what? The building BI means building potential. BI, right? Building potential. That gives you the difference between the conduction band on this P-type region and the minus this N-type region. That gives you the building potential. So this building potential, actually, is just to give you the internal electric field. Right? So let me just summarize this whole thing.
+然后我们可以看到什么？这里有一个所谓的偏压。是的，所以建立电位，也就是偏压。对吧？那么建立的电位，实际上是什么？现在，建筑物BI指的是建筑电位。BI，对吧？构建电位。这就给了你这P型区域的导带与这个N型区域导带之间的差值。这就给了你累积的电势。所以这个内建电位，实际上只是给你内部电场。对吧？好的，让我来总结一下这整件事。
+
+So this building potential eventually would really cancel the concentration gradient that gives you no current. Right? So this is the summary.
+因此这个内建电势最终会真正抵消浓度梯度，从而使得没有电流。对吧？所以这是总结。
+
+Right?
+对吧？
+
+It's just like we have a capacitor, right? We have just a parallel capacitor.
+就像我们有一个电容器，对吧？我们这里只有一个平行板电容器。
+
+And we do not really apply any voltage here.
+而我们这里实际上并没有施加任何电压。
+
+And there's also no leakage current across this side to this side. Right? So there's no current. Yeah, this is everything is fine. No voltage, no current. Yeah.
+而且这边到那边也没有漏电流。对吧？所以没有电流。是的，这里一切都好。没有电压，就没有电流。是的。
+
+But the internally we have some kind of building potential, and that would really offset the impurity. Right?
+但内部我们有一些内建电势，那确实会偏移杂质。对吧？
+
+Okay.
+好的。
+
+The another thing, and also just a so-called the.
+另外一点，也就是所谓的那个。
+
+Nantigravity center, there's a formula that gives you this building potential that's equal to Kt divided by Q times this log. NBNA divided by NI squared. So this one actually is intrinsic concentration of this carriers. And this is your dopant donor's concentration. This is acceptable concentration. Yeah, so this one actually just gives you the building potential.
+反重力中心，有一个公式，给你这个建筑潜力，等于Kt除以Q乘以这个对数。NBNA 除以 NI 的平方。所以这个实际上是这些载流子的本征浓度。这就是你的掺杂剂施主的浓度。这是可接受的浓度。是的，所以这个实际上只是给你建筑潜力。
+
+You don't have to remember those things. Yeah, those things actually cannot test it. Right?
+你们不需要记住这些。那些东西其实是没法测试的。对吧？
+
+Don't worry.
+别担心。
+
+All right, so this one actually is just to give you the intrinsic or fundamental of this capacitors without any external voltage. Right? Okay.
+好，所以这个实际上只是给你们讲电容本身的内在或基本原理，不施加任何外部电压。对吧？好的。
+
+Then we will just introduce a shocking equation. The shocking equation, this is just the ideal current and voltage characteristics are based on this falling force assumptions. Yeah, this is important. Yeah, pay attention.
+然后我们将引入一个令人震惊的方程。这个令人震惊的方程，这只是理想的电流和电压特性，基于这个下降力的假设。对，这很重要。好，注意听。
+
+Yeah.
+对。
+
+So this is also the most important contribution by Shockley. Yeah. The first assumption that we have abrupt depletion layer approximation. Right? So this is a depletion layer. Right? DL. Depletion layer.
+这也是Shockley最重要的贡献。是啊。第一个假设是我们采用突变耗尽层近似。对吧？所以这就是耗尽层。对吧？那么我们将介绍一个惊人的方程。这个惊人的方程，仅仅是基于这些下降力假设的理想电流和电压特性。是的，这很重要。嗯，请注意。
+嗯。耗尽层。
+
+So the building potential and also now we have also apply some external voltage to get supported by some kind of a dipole layers of abrupt boundaries. Yeah, so this is the boundaries. Right?
+因此，内建电势，以及现在我们施加一些外部电压来支持，这种由突变边界的偶极层所产生的电势。对，所以这就是边界。对吧？
+
+And the outside boundaries of this center that actually assumed to be neutral. All right?
+而这个中心的外部边界实际上被假定为电中性的。好的。对吧？
+
+Yeah, so this is the first thing. So you can see the abrupt kind of capacitor that gives you this kind of first assumption. Right? So this is a kind of abrupt depletion region or abrupt depletion layer. The second one actually is a Boltzmann approximation.
+是的，所以这是第一件事。所以你可以看到这种突变的电容器，给你带来了这种初步的假设。对吧？所以这是一种突变的耗尽区，或者说突变的耗尽层。第二个实际上是玻尔兹曼近似。
+
+Yeah, so this one actually is just based on the Boltzmann approximation. Yeah, so we have this KBT. Right?
+好，这个实际上只是基于玻尔兹曼近似。是啊，所以我们有这个KBT。对吧？
+
+So you heard about Boltzmann?
+你听说过玻尔兹曼吗？
+
+Approximation? No?
+近似？没有吗？
+
+Never heard about this?
+没听说过这个？
+
+Yeah, same thing.
+是的，一回事。
+
+Some problem. Yeah, so.
+有些问题。是的，所以。
+
+I think material scientists should really learn a little bit more physics. Yeah, yeah. The Boltzmann distribution is very fundamental distribution, actually, for any statistics. The Boltzmann distribution.
+我觉得材料科学家真的应该多学一点物理学。是，是。玻尔兹曼分布实际上是一个非常基本的分布，适用于任何统计。玻尔兹曼分布。
+
+And also we have a low injection assumption. So that means actually we do not really inject too much. We inject a minority carriers that's good. And which is very small to the majority carriers. Yeah, so this is called a low injection assumption.
+而且我们还有一个低注入假设。所以这意味着实际上我们并没有注入太多。我们注入少数载流子，这是好的。而这相对于多数载流子来说是非常小的。是的，所以这叫做低注入假设。
+
+Yeah, so this is a P-type, right? Then we can inject some what? Some minority carriers of electrons.
+好，所以这是P型，对吧？那我们可以注入些什么呢？少数载流子，也就是电子。
+
+Right? Your P-type actually is the majority carrier should be holes. Then we can low injection assumption.
+对吧？你的P型半导体，实际上多数载流子应该是空穴。那么我们就可以采用低注入假设。
+
+The last one actually is a low generation recombination current exists inside the depletion region.
+最后一个实际上是低产生复合电流，存在于耗尽区内部。
+
+Right? So these four actually they are just the assumptions of a shocking. Yeah.
+对吧？所以这四个实际上就是肖克利假设的条件。是的。
+
+So let me summarize. The first one actually is abrupt. Yeah, just a memorize. Abrupt depletion.
+所以让我总结一下。第一个实际上是突变结。是的，这只是一个记忆。突变耗尽。
+
+Yeah, the second one actually is a Boltzmann approximation. Right?
+是的，第二个实际上是玻尔兹曼近似。对吧？
+
+Yeah.
+是的。
+
+And the third one actually is a low injection assumption.
+第三个实际上是小注入假设。
+
+The fourth one actually is there's a low generation recombination.
+第四个其实是低产生复合。
+
+All right?
+好吗？
+
+Then this one actually is just a result based on the Boltzmann distribution and some equilibrium. And you have this N-type actually just equal to this intrinsic concentration. And times E to the EM minus EI divided by KBT.
+那么这实际上就是基于玻尔兹曼分布和某种平衡得出的结果。第四个，实际上就是低产生复合。然后乘以e的（EM减EI）除以KBT次方。
+
+So this is the Boltzmann constant. This is temperature. And this is the difference between the EM and EI.
+所以这是玻尔兹曼常数。这是温度。这就是EM和EI之间的差。
+
+Okay.
+好的。
+
+And this one actually is the P-type concentration. All right?
+而这个实际上是P型浓度。好，明白了吗？
+
+Then as a thermal equilibrium, the pin products actually form the above equation equal to NI squared. Yeah, so NI actually is about 10 to the 10th centimeter cube for silicon at room temperature.
+那么，作为热平衡状态，pin乘积实际上形成上述方程，等于NI的平方。是的，所以NI在室温下对于硅来说大约是10的10次方每立方厘米。
+
+Then we apply some voltage that the minority carrier density actually on both sides of the junction actually can change. And so the pin product actually no longer equal to the NI squared.
+然后我们施加一些电压，使得结两侧的少数载流子密度实际上可以发生变化。因此，PIN乘积实际上不再等于NI的平方。
+
+Then let's see this picture. Yeah, this picture actually is somehow easy for us.
+现在我们来看这张图。是的，这张图其实对我们来说比较容易理解。
+
+So without voltage actually we will see what? We will see a very flat formula here. Right? So that means actually we have the flat C. So there's no way to flow electrons from one side to the other. Right?
+所以不加电压的时候，我们会看到什么呢？我们会在这里看到一个非常平坦的公式。对吧？所以这意味着我们实际上有平坦的C，所以电子没有办法从一边流向另一边。对吧？
+
+So there's no current.
+所以没有电流。
+
+Right? Either way.
+对吧？无论哪种方式。
+
+It's forbidden.
+这是禁止的。
+
+Right? So there's no current.
+对吧？所以，没有电流。
+
+But if we apply a forward bias, we would likely reduce the depletion region.
+但如果施加正向偏压，我们很可能会减小耗尽区。
+
+So if the depletion region is reduced, then this current actually is becoming what? The building potential becoming smaller. So building potential becomes smaller also that means actually that the current actually is becoming bigger.
+所以，如果耗尽区减小了，那么这个电流实际上变成了什么呢？内建电势变小了。所以，内建电势变小了，这也意味着实际上电流确实在变大。
+
+Right? So this quality we can see. When we apply a forward bias, yeah, that means actually we will positive here. Negative here. Right? We will apply the forward bias. That would really just reduce your depletion region. So that our current actually becoming larger.
+对吧？所以这个特性我们可以看到。当我们施加正向偏压时，是的，那意味着实际上我们这里会是正的。这里为负。对吧？现在我们施加正向偏压。那实际上就会减小你的耗尽区。所以我们的电流实际上变得更大。
+
+But if we apply an inverse voltage, right, so negative here and positive here, then our depletion region actually becoming larger.
+但如果施加反向电压，对吧，这边负，这边正，那么我们的耗尽区实际上会变得更大。
+
+Right? Then there's no current.
+对吧？那么就没有电流了。
+
+Right?
+对吧？
+
+So there's a very little chance we can see any current here. Right? So this is the turn-off states. Right?
+所以在这里我们几乎看不到任何电流的可能性非常小。对吧？所以这就是关断状态。对吧？
+
+So that means actually if we see the building potential, right, building potential is what? Is difference between this guy and this guy. Right? If we apply the forward bias, then the building potential is also smaller. Right?
+所以这意味着，如果我们看到构建潜力，对吧，构建潜力是什么？这个家伙和这个家伙之间的区别。对吧？如果施加正向偏压，那么内建电势也会更小。对吧？
+
+You can see the difference between this guy and this guy is very small. But if we apply a inverse bias of this electric field, then this become very big. So it's very big, then it's impossible for electrons to really just flow. Right?
+你可以看到这个和这个之间的差异非常小。但如果我们施加反向偏压于这个电场，那么这个就会变得非常大。所以它非常大，那么电子就不可能真正流动起来。对吧？
+
+Yeah, then you can see why this is a turn-off. Yeah, so the building potential actually is the most sensitive that give you the sense of this conductivities of the P junction.
+是的，那你们就能明白为什么这是关断状态了。是的，所以内建电位实际上是最敏感的，它能让你感受到P结的导电性。
+
+Yeah.
+是的。
+
+So these two figures actually, that's a simple enough really illustrate why we have this P junction that can give you two states. Why it's just up and the other one is off.
+所以这两个图其实挺简单的，正好说明了为什么我们有这个P结，能给你两种状态。这就是为什么一个导通，而另一个截止。
+
+And after some calculations actually, this is what we have. Right? So this one actually give you the forward bias. You can see this current.
+经过一些计算之后，实际上，这就是我们得到的结果。对吧？所以这一个实际上给你的是正向偏压。你可以看到这个电流。
+
+Actually is just grow very rapidly. Right?
+实际上，它增长得非常快。对吧？
+
+But if this is a reverse bias, right, so there's almost no current. Right?
+但如果这是反向偏置，对吧，那么几乎就没有电流了。对吧？
+
+Yeah, there's no current. And it's turned off. Right?
+是的，没有电流。而且它是关断的。对吧？
+
+Yeah, so this one is just up and this is off. So in computer, in circuit actually, we have what? So this is just what? And this is zero. Right?
+对，所以这个就是导通的，而这个是关闭的。那么在电脑里，在电路中，实际上我们有什么呢？所以这仅仅是什么呢？而这个是零。对吧？
+
+So all computer circuits are built upon this logic. Yeah, but still, in real computer actually, this is not built upon pin junctions. This is built on field effect transistor. But general idea is very similar to pin junction. So once you understand pin junction, you can also understand what is the.
+所以所有计算机电路都是建立在这个逻辑之上的。对，但实际上在真正的计算机里，这并不是基于PN结构建的。这是基于场效应晶体管制成的。但总体思路和PIN结非常相似。所以一旦你理解了PN结，你也能理解什么是……
+
+Circuit, what is the FED. Right? Yeah, so there are a lot of things to learn. Okay, okay.
+电路，什么是 FED。对吧？嗯，所以有很多东西要学。好的，好的。
+
+And also you need quite a lot of electrodynamics to follow and to derive the current density as a function of the E field. The general formula is, yeah, yeah.
+而且你还需要相当多的电动力学知识，才能跟上并推导出电流密度作为电场函数的表达式。通用公式是，对，对。
+
+Okay, so this is another thing we want really just an.
+好，所以这是另一件我们确实想要的。
+
+So this is the famous shocking equation. It's very simple. Right?
+所以这就是那个著名的震撼方程。这非常简单。对吧？
+
+So you can also see why there's like a turnout. Right?
+所以你也能明白为什么会有这样的出席人数。对吧？
+
+Because if we apply a very big voltage here, then this term actually quickly can grow, can explode. Right? It's exponential term. Right?
+因为如果我们在这里施加一个非常大的电压，那么这一项实际上会迅速增长，甚至可能爆炸。对吧？这是指数项。对吧？
+
+But if we just apply an inverse bias here, right, then this. This J actually becomes a very small negative number. Right? Because this term actually quickly goes to zero. Right? But if this inverse, this is minus V. Right? Minus V actually this term may become zero. So this is minus one. Right? So minus becomes minus J zero. Right?
+但如果这里只是施加反向偏压，对吧，那么这个。这个J实际上变成了一个非常小的负数。对吧？因为这个项实际上很快趋于零。对吧？但如果这个反过来，这是负V，对吧？减去V的话，实际上这一项可能会变成零。所以这里是负一。对吧？所以负号就变成了负的J零。对吧？
+
+All right?
+对吧？如果这里的电压反向偏置很大，那么这个项实际上很快就变成负的很小一个数。对吧？因为这个项很快就趋近于零。对吧？但如果这个反向，这是负V。对吧？负V实际上这个项可能会变成零。所以这是负一。对吧？所以唔。
+
+So the mathematical form actually is very simple. Right? And also temperature also plays some role here.
+所以数学形式其实非常简单。对吧？而且温度在这里也起一定作用。
+
+Okay, so this is actually a shocking equation.
+好，这个方程式其实非常令人震惊。
+
+Yeah.
+是的。
+
+So if you want to really find a job in semiconductor industry, you better know this equation.
+所以，如果你想真的在半导体行业找到工作，你最好知道这个方程。
+
+Yeah, so very likely that you will be just a written exam actually to test you.
+是啊，所以很可能实际上就是一场笔试来考你。
+
+Yeah, you can also get easily get rich. Yeah, so one of my students actually just got an offer for like a Huawei last year. And he's starting salary is more than like almost 1 million. Yeah, yeah, 4.8 million.
+是的，你也很容易就能发财。对，所以我的一个学生去年其实就拿到了华为的offer。而他的起薪几乎是100万以上。是的，是的，480万。
+
+Here are just suggested the final presentation topics.
+这里只是建议的最终演示主题。
+
+So the first one actually, you can review the semiconductor alloys and also their applications.
+第一个呢，其实你可以回顾一下半导体合金及其应用。
+
+Yeah, so I mentioned about some alloys. Right? India gallium nitride. Right? I also mentioned about like how you really formulate the alloys. Right? Yeah, so this is some review. Right? You can try to really find out like the literature and also yeah, yeah, read them. Yeah, another one is the doping and the defects in semiconductor materials. They are also plenty of reading materials you can try to really search. Yeah, the third topic is physical origin of the band gap and also the carrier mobility.
+是的，我提到过一些合金。对吧？印度氮化镓。这里只是建议的最终演示主题。第一个嘛，其实你可以回顾一下半导体合金及其应用。对吧？我还提到了你们如何真正配制这些合金。对吧？好的，这算是某种回顾。对吧？你们可以尝试去真正查找文献，然后，对，对，读一读它们。另一个是半导体材料中的掺杂与缺陷。此外还有大量的阅读材料可供你深入查阅。好的，第三个主题是带隙的物理起源以及载流子迁移率。
+
+Yeah, yeah, I already just slightly mentioned about the band gap. Right? But a lot of things I haven't really mentioned. So if you're interested, you can also dig a little bit deeper there. And also try to really understand how to really calculate the carrier mobility. Yeah, this is not too difficult. Yeah, yeah, so with the help of this textbook in semiconductor device, and also some materials actually you can try to review this thing.
+对，对，我之前只是稍微提到了带隙。对吧？但有很多东西我其实还没讲到。如果你们感兴趣的话，也可以在这方面再深入挖掘一下。同时也要真正去理解如何计算载流子迁移率。但其实这个不是太难。嗯，嗯，所以借助这本半导体器件教材，以及一些材料方面的资料，你们可以试着复习一下这个内容。
+
+The fourth one actually is pin junction and also likeness balance. So likeness balance is what is what? It's just a special type of pin junction. So this is also a nice review topic.
+第四个实际上是PIN结，还有类似平衡。那么相似度平衡是什么呢？这只是一个特殊类型的PIN结。这也是一个不错的综述主题。
+
+And then the fifth one actually is a brief.
+第五个实际上是关于简报的内容。
+
+Review of epitaxy growth. I also give you quite a lot of very brief introduction to epitaxy. You can also choose for example one technique to try to review. Right? Give you more details. Yeah, this is not too difficult actually. And then the last one actually is the alloys and also phase diagram of semiconductor alloys. Yeah, so you can also try to really read the phase diagrams of semiconductor alloys as I mentioned that this stream travels here.
+外延生长回顾。我还给你们介绍了不少关于外延生长的非常简短的介绍。你也可以选择，比如说，用某一项技术来做回顾。对吧？给你们更多细节。其实这个不算太难。最后一个是合金，以及半导体合金的相图。对，所以你也可以尝试真正读懂半导体合金的相图，就像我提到的，这条线在这里延伸。
+
+Right? So those are just interesting final presentation topics.
+对吧？这些就是有意思的期末展示题目。
+
+And suggested the acid topics.
+还建议了一些酸相关的主题。
+
+The first one, how to control doping and defects in wide band gap semiconductors.
+第一个，如何控制宽禁带半导体中的掺杂与缺陷。
+
+Yeah, so a few suggestions that you can try to really check the Nakamura's paper. Yeah, he is famous. He is really well priced just because he can control the T-type doping in gallium nitride. It's very important. Try to really understand why he can really just understand it.
+是的，所以有几条建议你可以试着去真正查一下中村的那篇论文。是的，他很有名。他之所以定价合理，是因为他能控制氮化镓中的T型掺杂。这非常重要。试着真正理解为什么他就能真正理解它。
+
+Another one is review of OMVP technique in nitride and phosphide.
+另一个是关于氮化物和磷化物中OMVP技术的综述。
+
+Or phosphide, not A. Yeah, so this is the OMVP technique.
+或者磷化物，不是A。对，这就是OMVP技术。
+
+The third one actually is a modern technique in constructing the phase diagram of a semiconductor alloys. So I mentioned the DLP model by stream fellow. There are also modern approaches. You can also just give a brief review of it.
+第三个实际上是一种构建半导体合金相图的现代技术。所以我提到了由Stream Fellow提出的DLP模型。现代方法也有。你也可以简单回顾一下这项技术。
+
+Yeah, and the fourth one actually is a brief review of transport calculation and based on carrier concentration and also mobility.
+第四个其实是基于载流子浓度和迁移率的输运计算的简要回顾。
+
+Yeah, so this one also can be found in different textbooks of semiconductor devices.
+是的，所以这个内容也可以在不同版本的半导体器件教材中找到。
+
+So those are not too difficult. The fifth one actually is a wetting condition of epitaxial growth of semiconductors. So I told you about like layer by layer growth. Right? And also the island growth. So you can also try to slightly review this topics in this directions. There are plenty of papers there.
+这些内容不算太难。第五个实际上是半导体外延生长的浸润条件。我跟你们讲过一层一层的生长方式。对吧？还有岛状生长。所以你也可以尝试稍微回顾一下这些方向上的主题。那边有很多论文。
+
+The sixth one actually is a brief historical review of likeness balance. Those are also very interesting. You will see like this like from the red one to the blue one. And how they really develop and what material system they use what the key technique actually they really just propose and develop.
+第六个实际上是对相似性平衡的简要历史回顾。那些也很有趣。你会看到像这样，从红色的那个到蓝色的那个。以及它们实际是如何发展的，采用了什么材料体系，以及他们真正提出并开发的关键技术是什么。
+
+All right, so those are not too difficult topics. Especially with the help of Google and also some of these AI tools actually they should be quite straightforward and easy. But try to really use your own language to summarize all these things. That's very important.
+好的，那些话题并不是太难。尤其是在谷歌以及一些人工智能工具的帮助下，这些其实应该相当直接明了且容易。但尽量用自己的话来总结所有这些内容。这非常重要。
+
+Yeah, and don't just just simply ask like GPT to really generate this essay for you. This is no good. Yeah, that's use your own organization and also use your own language. I don't care whether like your language is Arabic or not. You don't have to really produce a very like an academic style of writing. Yeah, just use your own language to describe what you learned. That's good enough.
+对，而且不要只是简单地让GPT直接帮你生成这篇文章。这不行。对，就是要用你自己的组织结构，也要用你自己的语言。我不在乎你的语言是不是阿拉伯语。你并不需要真的写出那种很学术化的写作风格。对，就用你自己的话来描述你所学到的东西。这已经很不错了。
+
+So if you really just have a very polished English, then I have a very good concern. Yeah, because I know that most likely this is probably not your work. It's just AI support.
+所以如果你真的只有非常流利的英语，那我有一个很好的担忧。对，因为我知道这很可能不是你（自己）写的东西。只是AI辅助而已。
+
+Yeah, so be careful of this. Yeah, yeah, yeah, so try to really do it by yourself. Yeah, yeah, so.
+所以请务必小心这一点。对，没错，所以尽量自己动手完成。对，对，所以呢。
+
+Also there are some like a.
+还有一些像，呃——
+
+If also it's also possible that you can like propose like your own interesting topics in semiconductors. But for that case, you want to really talk with me. And usually I will also prove it. Yeah, usually I will also prove it. Those are just suggested by myself. Yeah, but you can also just propose your own interesting topics. But you may have very different backgrounds. Right? Some of you probably have more understanding in a certain aspect of the semiconductors, which is also beneficial to the whole class. All right, but send me email or just come to my office so that we can discuss. Usually I will also prove it.
+另外，如果你也可以提出自己在半导体领域感兴趣的话题，那也是可以的。但如果是那种情况，你确实想跟我谈谈。而且通常我也会证明它。是的，通常我也会证明它。那些只是我自己建议的。可以，但你们也可以提出自己感兴趣的话题。但你们的背景可能非常不同。对吧？你们中有些人可能在半导体的某个方面有更深的理解，这对整个班级也是有益的。好的，但是给我发邮件，或者直接来我办公室，我们可以讨论一下。通常我也会证明它。
+
+Okay, yeah, so that's the arrangement for today. Yeah, so now let's have this event.
+好的，是的，那这就是今天的安排。好，那我们现在就开始这个活动吧。
+
+Time. So we have a roughly 25 minutes right now. I only scheduled it for.
+时间到了。我们现在大概还有25分钟。我只排了这个时段。
+
+— 由 LecSync 生成

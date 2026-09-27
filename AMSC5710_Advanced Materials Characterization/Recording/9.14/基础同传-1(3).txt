@@ -1,0 +1,875 @@
+[2026-09-14 12:31:24]:
+ I give two examples. So one thing is that if we're going to look at the microstructure of the materials, right, how are we going to prepare the samples? Well the key is that you're going to mainly cut it, grind it, polish it, and make it shaping it into the uh what is allowed in the specific equipment. Right? So we have a bit of discussion on that. And after that we get into a slightly different regime, uh seeing the surface uh calculation techniques. What would that require in terms of the sample perhaps? Right, uh in that case, right, we bring in the concept of vacuum. And that is probably the most important concept that we've learned so far. And now you're supposed to have a perfect understanding of what is vacuum.
+我举两个例子。有一点是，如果我们要观察材料的微观结构，那么我们打算如何准备样品？关键是你主要会切割、研磨、抛光，然后将其塑形成特定设备允许的样子。右？我们对此进行了一些讨论。之后我们进入一个稍微不同的领域，呃，看看表面计算技术。这可能需要什么样的样本？对，呃，在这种情况下，我们引入了真空的概念。这可能是我们迄今为止学到的最重要的概念。现在你应该对真空有完美的理解。
+
+
+[2026-09-14 12:32:16]:
+ You guys know what is vacuum? Right. So vacuum is sort of not defined by a single value, right? So vacuum actually refers to the number of gas molecules in a closed system. So vacuum is actually a range. And the range of pressures, that is lower than the atmosphere. Alright, so that is how we call that. Alright? Uh that way I explained. Basically, all the discussion or description of vacuum are based on the gas molecule behaviors in a closed container. Right?
+你们知道什么是真空吗？右。所以真空并不是用单一的数值定义的，对吧？真空实际上指的是封闭系统中气体分子的数量。所以真空其实是一个范围。而压力范围，比大气还低。好的，这就是我们称之为“压力”的范围。明白吗？呃，我就是这样解释的。基本上，所有关于真空的讨论或描述都基于气体分子在封闭容器中的行为。右？
+
+
+[2026-09-14 12:33:03]:
+ And so we're going to use pressure to describe it. Okay, then we have. I hope you guys do remember, right? Gas molecules eventually arriving at this very important conclusion. D monolayer formation tab, right? So that tells you what. Tells you if you have a piece of sample with a clean surface, right? You put it there and you wait until a monolayer of gas molecules from the atmosphere reside on your surface. and that's caused the full contamination of the surface. How long does it take?
+所以我们要用压力来描述它。好，那我们就有了。希望你们还记得，对吧？气体分子最终得出了一个非常重要的结论。D单分子形成标签，对吧？这告诉你什么。告诉你样本表面是否干净，对吧？你把它放在那里，等到大气中的气体分子单层出现在表面。这导致了表面的完全污染。需要多长时间？
+
+
+[2026-09-14 12:34:02]:
+ That's the monolayer formation time. And that is an extremely important parameter when we talk about surface size calculations. Obviously, if you want to examine a clean surface, you have to make sure your surface doesn't get dirty before you finish the calculation experiment. Okay, so that's how. That's it there.
+这就是单分子层形成时间。在讨论表面尺寸计算时，这是一个极其重要的参数。显然，如果你想检查一个干净的表面，你必须确保在完成计算实验前表面不会变脏。好的，就是这样。就是这样。
+
+
+[2026-09-14 12:34:27]:
+ Then we move on talking about definitions and the vacuum process in terms of uh different uh vacuum levels. And we're pretty much about here talking about now we're going to build up a vacuum system. What are we going to need? Right? So in order to have a vacuum system, we need three critical parts. You guys do remember what are the three critical parts? So first of all, you have to have a closed system. Right? That usually called a chamber. Right?
+然后我们继续讨论定义和真空过程，比如不同的真空水平。我们基本上就是在这里，现在要构建一个真空系统。我们需要什么？右？所以要实现真空系统，我们需要三个关键部分。你们还记得三个关键部分是什么吗？首先，你必须有一个封闭系统。右？那通常被称为密室。右？
+
+
+[2026-09-14 12:35:07]:
+ And of course, you may have many different chambers, right, and different parts of the bathroom. So you have to use pipelines to connect them. So this is content as the entire closed system. Right? Right? And secondly, you have to have a mechanism to evacuate the gas molecules from that cost to out. Right? And that is enabled by the second important part, which is known as the pumping system, or pumps. Right? And lastly, when you have done all of the pumping, right, what do you need?
+当然，你可能有许多不同的腔室，对吧，以及浴室的不同部分。因此，你必须使用管道将它们连接起来。所以这就是整个封闭系统的内容。对吧？对吧？其次，你必须有一个机制将气体分子从该成本中排出。对吧？这由第二个重要部分实现，即所谓的泵送系统或泵。对吧？最后，当你完成所有泵送后，你需要什么
+
+
+[2026-09-14 12:35:55]:
+ You need to know how good the vacuum is, right? And then you need a readout of the pressure, which is a measurement of the vacuum levels, a your closed system, right? And these equipment are called gauges, right? So gauges are basically meters for small devices that allows you to measure the pressure in this closed system. Alright, so these are the three key parts we're going to need. I'm asked for to go through each of them one by one. We actually touched the base of the first one on talking about if we are going to build up a chamber system, which is the co-system, right, what can we make use of? Obviously, stocks, any material you have in mind can be used as a part to build or a material to build your vacuum system. Then we named a few for the conditions to have to satisfy. They always talk about if you have different parts, tubings or holes or chambers, you want to connect them and put them together to do an entire vacuum system, right?
+你需要知道真空的良好程度，对吧？然后你需要压力读数，这是对真空水平的测量，是你闭合系统的。这些设备叫做计，对吧？仪表基本上是用于小型设备的仪表，可以测量这个封闭系统的压力。好的，这就是我们需要的三个关键部分。我被要求逐一介绍。我们实际上已经触及了第一个部分的基础，如果我们要构建一个腔室系统，也就是协同系统，对吧，我们可以利用什么？显然，库存，任何你想到的材料都可以作为构建部件或材料来构建你的真空系统。然后我们列出了几个，以符合条件。他们总说，如果你有不同的部件、管子、孔或腔室，你想把它们连接起来，做一个完整的真空系统，对吧？
+
+
+[2026-09-14 12:37:10]:
+ Make these connections, right? So these connections are very important because they are actually serving as the small windows or mirrors letting in the gas molecules from the atmosphere. and you don't want that to happen. So, you have to create a bit of special mechanisms to make sure this does not happen. And this mechanism is called sitting. So we have sort of the discussions during the last lecture. I'm kind of stop here. And by differentiating two different types of cellan, right? One is called the KF fitting, and the other is called the confluent, or conflat, or CF fitting. One utilize the polymers, elastomers, right, that change or deforms elastically under pressures of sealed up, right, or the open slit that you have in the connections.
+建立这些连接，对吧？因此，这些连接非常重要，因为它们实际上充当了小窗口或镜子，让大气中的气体分子进入。你不希望这种情况发生。所以，你必须创建一些特殊的机制来确保这种情况不会发生。这个机制称为密封。我们在上一节课中进行了某种程度的讨论。我在这里先停一下。通过区分两种不同类型的法兰，对吧？一种称为KF法兰，另一种称为Conflat、CF法兰或Confluent法兰。前者利用聚合物和弹性体，它们会发生弹性变形或形变，从而密封住压力，或者密封住连接处存在的开口缝隙
+
+
+[2026-09-14 12:38:08]:
+ And the others is using copper, which is a piece of metal as the seal. And it is the plus deformation of the copper and the certain pressure that helps you to seal out all the open slots that you have in the connection parts. Like we say, in this case, you will be able to reach very good vacuum. But in this case, I need to reach silcelle vacuums, right? So C F fitting are commonly used ultra high vacuum conditions, but K F fitting are mostly used in low vacuum conditions. Right, so we're kind of here and uh today we're going to move on with the next topic, pumping. pumping mechanisms at different type of pumps, right? Over it is standard design to discuss the mechanisms of the pulse and also different kinds of pulps. Some of them I will explain into a bit of detailed mechanisms. Right, so uh for classification of pumps, typically we have three, right, and they are known as the positive displacement pump, the momentum transfer pump, and the counter pump.
+其他的则是铜，这是一种金属片作为密封。铜的正变形和一定的压力帮助你封闭连接部件中所有的开放槽。就像我们说的，在这种情况下，你将能够达到非常好的真空。但在这种情况下，我需要达到硅壳真空，对吧？所以C F接头在超高真空条件下常用，但K F接头主要用于低真空条件。好的，我们现在到了这里，呃，今天我们要进入下一个主题，泵送。不同类型泵的泵送机构，对吧？上面有标准设计，用来讨论脉冲的机制以及不同类型的泵浆。其中一些我会详细解释一下。对，所以在泵的分类中，通常我们有三种，分别是容积泵、动量转移泵和逆泵。
+
+
+[2026-09-14 12:39:27]:
+ Each of them, we're going to see a bit of examples. And then uh as you see on the uh right part uh of the panel, uh these pump, right, positive displacement palm, usually can only reach low vacuum. What's that performance? But then for the molecular transfer type of pound, we're the capture pound that can really bring you to very high or occupy wetting conditions. and we're going to see uh how is it. So, this chart is actually quite important. You see, we have a ridge of pressure, right? Go from the atmosphere pressure to a bit to here, maybe 10 to the minus 2 torr, or the so-called low vacuum range. Then anywhere from 10 to the minus 2 to 10 to the minus 6, or sort of the mid-vacuum, we'll say high-vacuum range. And then below that, you get the ultra-high vacuum range.
+我们会看到一些例子。然后，正如你在面板右侧看到的，这些泵，右侧正排量掌纹，通常只能达到低真空状态。那个性能如何？但对于分子转移型的磅，我们是捕获磅，它能让你达到非常高的湿度或湿润状态。我们会看看它的情况。这张图表其实非常重要。你看，我们有一个压力脊，对吧？从大气压力到一点，再到这里，可能是10托到负2托，也就是所谓的低真空范围。然后从10到负2到10到负6，或者说中间真空范围，我们说是高真空范围。再之下，就是超高真空范围。
+
+
+[2026-09-14 12:40:23]:
+ And you see, for different types of pumps, they actually work at different regions in terms of the pressures. So, you have on the low end rotary lanes, and on the high end, you have turbopumps or cryogenic pumps. That is to say, alright, there's a cutoff here. That means these pumps cannot give you better pressure, right? But these pumps cannot be operated at low value, right? Now, when I go to explain imagism, keep this question in mind. Why is like so. Right, now let's look at first the pumping mechanism, which is known as the positive displacement pump. This is uh based on very basic gas laws. Alright, and by this chart, I hope you already realize how this would work.
+你看，不同类型的泵在压力区段工作。低端有旋转通道，高端有涡轮泵或低温泵。也就是说，这里有一个截止点。这意味着这些泵不能给你更好的压力，对吧？但这些泵不能在低压值下运行，对吧？现在，当我解释想象学时，请记住这个问题。为什么会这样。好，现在我们先来看泵送机制，也就是正排量泵。这是基于非常基础的气体定律。好了，根据这张图表，我希望你已经明白它是如何工作的。
+
+
+[2026-09-14 12:41:16]:
+ So, this is the starting status that we have, right? So we have a chamber here, right? So, this chamber is connected to this volume, which I put it at P2, right? Outside is P3. Right? Now in the system I have two wavs. So valves are uh something like a gate. Try and open it, then the two chambers, two volumes are connected, and you close it up, and they are separated. Okay? So, here, what you do first is that, okay, so you get to drag this plot a little bit downward.
+所以，这是我们拥有的初始状态，对吧？这里有一个腔室，对吧？这个腔室连接到这个体积，我将其标记为P2，对吧？外部是P3。对吧？现在系统中我有两个阀门。阀门就像一道闸门。试着打开它，那么两个腔室、两个体积就连通了；关上它，它们就被分隔开。好吗？所以在这里你首先要做的是，好的，把这个图稍微向下拖动一点，好吧
+
+
+[2026-09-14 12:41:54]:
+ Right now, you see, by dragging it downward, the volume will think P1 plus P2 will be increased. So what does the gas law tell you? The guess law tells you P we equals a constant. Alright? So at certain temperature PvE so constant. So here, we are changing the volume. Now we're dragging the plug down, so the volume is increasing. So that means the pressure is decreasing. Alright, so the pressure is getting lower. Alright.
+现在，你看，当向下拖动时，体积会认为P1加上P2会增加。那么气体定律告诉你什么？猜测定律告诉你P等于常数。明白吗？所以在某个温度下，PvE保持恒定。这里，我们改变了体积。现在我们往下拉塞子，体积在增加。这意味着压力在下降。好，压力在变低。好的。
+
+
+[2026-09-14 12:42:26]:
+ So the next step, given that you have less amount of gas molecules in there corresponding to lower pressure, begin to close up this gate. Now they are separated. Right? And next, I have to open up this gate, right? So now this part is connected to P3, which is outside. Now what I'm going to do is I'm going to push it through upward to press the gaps out. Alright, and next step, straightforward word, I'm going to close up this again and open this again. So I continue this process. See, after I repeated a few times, the pressure was in P1. It's getting a lot better.
+下一步，鉴于气体分子减少且压力降低，开始关闭这个门。现在它们被分离了。右？接下来，我得打开这个门，对吧？现在这个部分连接到P3，也就是外面。现在我要做的是把它往上推，把缝隙压出来。好，下一步，简单地，我要把这个关上再打开。所以我继续这个过程。看，我重复了几次后，压力降到了P1。情况好多了。
+
+
+[2026-09-14 12:43:07]:
+ But if you care about the embers, you can always try, alright? there will be an equilibrium to be reached. But below that, you can barely pump him down anymore. Alright? So that's the limitation of the so-called positive displacement pump, right? So pumping vacuum. that only gives you kind of the low uh vacuum conditions. Well, uh momentum transfer type of problem, uh it's a bit hard at the first size to understand, but then if we get you uh give you an analogy, this becomes kind of straightforward. To appreciate. So let's say the mechanism first.
+但如果你关心余辉，你总可以尝试一下，好吗？会达到一个平衡点。但在该点以下，你几乎无法再将其抽得更低。好吗？这就是所谓的容积式泵的局限性，对吧？因此，抽真空只能提供较低程度的真空条件。嗯，动量传递类型的问题，起初可能有点难以理解，但如果我们给你一个类比，这就变得相当直观了。让我们来欣赏一下。所以先讲机制
+
+
+[2026-09-14 12:43:43]:
+ So momentum transfer, that means you transfer a certain amount of momentum. But the question is who to who? Alright? So here you're transferring these amounts of uh momentum, right, from an injecting particle. Interesting particle can be another type of gas molecules, usually, right? So, you let these gas molecules go in a certain direction with a high speed or carry a certain momentum. And these gas molecules are going to hit the original gas molecules in your cool system and pushing them to one of the directions. So if that is the exit, so it's like I drag you out, I push another one of you, so I push every one of you out of the doors so that to evacuate this vacuum system. And that's how he walks through, right? This feels a little bit strange, but actually, now think about all of you have been using electrical fans.
+因此，动量传递意味着你传递了一定量的动量。但问题是传递给谁？好的？在这里，你是从一个注入粒子那里传递这些动量，有趣吧？通常，这个粒子可以是另一种气体分子，对吧？所以，你让这些气体分子以高速向某个方向运动，或者携带一定的动量。这些气体分子会撞击冷却系统中的原始气体分子，并将它们推向某个方向。如果那个方向是出口，那就好像我把你拖出去，再推另一个出去，我把你们每一个都推出门外，从而排空这个真空系统。这就是它的工作原理，对吧？这感觉有点奇怪，但实际上想想看，你们所有人都在使用电风扇
+
+
+[2026-09-14 12:44:41]:
+ Everybody been using electrical phones? No? You guys ever used that before? I'm so old. I cannot believe it. You guys all use air conditioner and never use the electrical fan? It's here. Alright? So I trust everyone use that before. And when it rotates, right, you feel that the wind is floating.
+大家都用过电电话吗？没有？你们以前用过吗？我真老了。真不敢相信。你们都用空调却从不用电风扇？它在这里。明白吗？所以我相信大家以前都用过。当它旋转时，你会感觉风在漂浮。
+
+
+[2026-09-14 12:45:10]:
+ Right, well this is exactly the same thing. Is because the blade, right, is actually not flat, right? they are actually tilted towards a certain angle. Alright, so when it rotates, right, there's a pinching force on the gas molecules and that will be pushed towards you. that's convenient to your film. Alright? And this is the same mechanism you only use to make it work for pumps like turbomolecular pumps and so on so forth. Alright, and the last type of mechanism is so-called the capture pump. Right, um capture by means in capture, capture who? Gas molecules in the vacuum system.
+好的，这完全是一回事。这是因为叶片实际上并不是平的，而是以一定角度倾斜的。当它旋转时，会对气体分子产生一种夹持力，将它们推向你的方向。这对你的薄膜来说很方便。明白了吗？同样的机制也用于使涡轮分子泵等泵正常工作。最后一种机制是所谓的捕获泵。通过捕获的方式，将真空系统中的气体分子捕获住。
+
+
+[2026-09-14 12:45:49]:
+ So once you capture it and you hold it, does not let it go to the closed system. Our backing condition is getting better because there are less workable gas models around, right? capture. But there are a few different ways you can create this sort of capture behavior. One of the things is that we're going to see that data using a type alpha. So what happens is that you have a mechanism to kick off some of the titanium atoms from an electrode which is made of titanium. And these titanium atoms, once they enter the vacuum system, will be very active. So they're going to adsorb the gas molecules on its surface. And then as these titanium atoms will be deposited on the side walls of the container, they're going to bury the gas molecules and the mist so that they capture it. So this is one of the mechanisms, but the other mechanisms are rather straightforward.
+所以一旦你捕获并保持它，就不会让它进入封闭系统。我们的背衬条件正在改善，因为现在的气体模型不太可行，对吧？捕获。但有几种不同的方式可以创造这种捕获行为。其中之一是我们将通过α型来观察这些数据。所以发生的事情是，你有一个机制可以从由钛制成的电极中弹出一些钛原子。这些钛原子一旦进入真空系统，会非常活跃。它们会吸附表面的气体分子。然后当这些钛原子沉积在容器的侧壁时，它们会将气体分子和雾气埋入地下，从而捕获它们。这就是其中一种机制，但其他机制则相当简单。
+
+
+[2026-09-14 12:46:52]:
+ Is that you need to reduce the temperature of the system? So we know there's equilibrium, so-called vapor pressures, right, of a solid surface and the atmosphere. Now if you cool down the system or reduce the temperature, right, the gas molecule is going to condense on the surface so that we remove the weight of the vacuum temperature. So this is the other ways, right? And this generally used the prior assumptions, hops, and then we'll just see a bit later. So that's the three general mechanisms all the pulse works on. And now we're going to look at the shopping into EGU to see how it really works in terms of a small piece of equipment. Right, now the first pump is the notary pump. So it's already waits, right? And this is how it looks, right?
+也就是说，你需要降低系统的温度？我们知道存在平衡状态，即所谓的固体表面与大气之间的蒸气压。现在，如果你冷却系统或降低温度，气体分子会在表面冷凝，从而消除真空温度的影响。这是另一种方法，通常基于先前的假设、步骤，我们稍后会看到。这就是所有脉冲工作所依赖的三种一般机制。现在我们将看看 EGU 中的购物，以了解它作为一个小型设备是如何真正工作的。首先，第一个组件是
+
+
+[2026-09-14 12:47:42]:
+ You can have a larger size of pumps make it this large, a smaller size of this size, right? But it looks basically like this. Right? So why is called a rotary wing or a rotary palm? because it rotates, right? And the displacement pumping mechanism is realized by the rotation of the waves, right? So, this is how it looks, right? Have a container, this is the main body of the pump, right? But then you have two feet throughs. One is called the intake, right?
+你可以制造更大尺寸的泵，使其达到这个大小，也可以制造更小尺寸的泵，达到这个大小，对吧？但它看起来基本上就是这样。对吧？那么为什么它被称为旋翼泵或旋转叶片泵呢？因为它会旋转，对吧？而容积式泵送机制是通过叶片的旋转来实现的，对吧？所以，这就是它的样子，对吧？有一个容器，这是泵的主体，对吧？但然后你有两个……
+
+
+[2026-09-14 12:48:10]:
+ that is connected to the vacuum system. And then you have an exhaust, and that is connected to outside. And in between, you see the pump is actually filled with oil. filter was oil. So, right, you see, the intake does not really interact with the oil itself at all, right? So because it's separated, right? But then you see the a exhaust, right? For the uplight waft, which is here. So that means for whatever gas you pumped out will have to go through the oil layer and eventually go through the exhaust to go outside. Right?
+它连接到真空系统。然后你有一个排气管，它连接到外部。在中间，你会看到泵实际上充满了机油。滤清器是机油。所以，对，你看，进气口其实并不会与机油本身发生相互作用，对吧？所以因为它是分开的，对吧？但你会看到A排气，对吧？对于上灯的气流，就在这里。这意味着你泵出的汽油必须经过机油层，最终通过排气管排出。右？
+
+
+[2026-09-14 12:48:51]:
+ That's what's that's it. how it looks like. And the magnesiums, I'm showing you this chart, you will see it right away, right? through this very clever ways of rotation. Are repeating the displacement process that I mentioned a bit earlier. Remember, what is the key part of the displacement? You have to open some walls, drag the plug, right, and close some valves and open it again. So basically, you have a repeating procedure to go out, right? Now using uh simple rotary settings, this can be realized easily. So we look at the first chart, right?
+就是这样。就是这样。我给你看这张图表，你会立刻看到，对吧？通过这些非常巧妙的旋转方式。正在重复我之前提到的位移过程。记住，位移的关键部分是什么？你需要打开一些墙壁，拖动塞子，关闭一些阀门，然后再打开它。所以基本上，你有一个重复的步骤来排出，对吧？现在用简单的旋转设置，这很容易实现。我们看第一张图表，对吧？
+
+
+[2026-09-14 12:49:26]:
+ So this is the inlet. Now by rotating this plane, so you drag it down, you see this volume here is increasing, alright, so the pressure is getting lower. So it continues go, go, go, go to here. So that's this part. Now I'll move to here. Alright? So that means, right, this part already has it here. and close it up. Now you're dragging the gas molecules you push out originally from here to there. And you continue the process, you see this part of the gas molecules will keep on going until it reaches here and goes to the exhaust. Right?
+这就是入口。现在通过旋转这个平面，你把它往下拉，你会看到这个体积在增加，好，压力也在降低。所以它继续，继续，继续，去这里。这就是这部分。现在我来这里。明白了吗？这意味着，对，这部分已经有它了。然后把它关闭。现在你把最初从这里推出的气体分子拖到那里。你继续这个过程，你会看到这部分气体分子会一直推进，直到到达这里并流向排气口。右？
+
+
+[2026-09-14 12:50:02]:
+ So as you keep on rotating this plane, this process basically is uh dragging, close the valve, open the valve, again and again. Alright, so this repeats and that's uh how a rotator wing works. In giving you the right pressure that you have. Right now a quick question to check on. Right? So, in the lab, if a student looks to connect this pump to the vacuum system, now of course, he or she has to figure out first which one is the intake and which one is the exhaust, right? Because you want to connect the intake to the vacuum system and leave the exhaust to outside. Right? What if he or she didn't figure that out and connect it the other way around? What's going to happen
+因此，当你持续旋转这个平面时，这个过程基本上就是反复地关闭阀门、打开阀门。好的，这就是旋翼泵的工作原理，它能为你提供所需的正确压力。现在来一个快速提问检查一下。对吧？所以在实验室里，如果学生想要将这台泵连接到真空系统上，他或她首先必须弄清楚哪个是进气口，哪个是排气口，对吧？因为你需要将进气口连接到真空系统，并将排气口通向外部。如果他或她没有弄清楚这一点
+
+
+[2026-09-14 12:50:57]:
+ You'll be attention. What's going to happen? What will be the consequence
+你会成为关注焦点。会发生什么？后果会是什么
+
+
+[2026-09-14 12:51:07]:
+ Well pushing those control buttons closing. What would be the consequence? Well, you're connecting the other way around, right? And then, when you start the pump, the side is connecting to the outside. So you're trying to pump the atmosphere or just infinity and that's not possible. But then you can do it. You can start it. So you drag the gas in and you are trying to push it the other way around into the intake. one even worse problem is that uh when the gas are dragged in from the side, right and get into the exhaust, now it's connected to the vacuum system. It has to go through the layer of oil.
+嗯，按下那些控制按钮将其关闭。后果会是什么？嗯，你是反向连接的，对吧？然后，当你启动泵时，侧面连接到外部。所以你试图抽大气或无限空间，这是不可能的。但你可以这样做。你可以启动它。于是你把气体吸入，并试图将其反向推入进气口。更糟糕的问题是，当气体从侧面被吸入并进入排气口时，现在它连接到了真空系统。它必须穿过一层油
+
+
+[2026-09-14 12:52:13]:
+ It will be to bring the molecules of oils into your vacuum system. So that becomes the most detrimental. I mean, if you connect the other way around, it's just that you're not effectively compinging the system. That's okay, right? But then the consequence is really, because of this process, you are contaminating the vacuum system and that becomes very difficult to clean up. So that means that could be thousands of thousands of thousands of dollars, right? So that's one of the things, right? Once you know the pumping mechanisms, you will not be able to make this kind of mistake. Right? Now let's continue with the uh second type of pumps.
+这将把油分子带入您的真空系统。因此，这会造成最严重的损害。我的意思是，如果您反方向连接，只是无法有效地压缩系统。这没关系，对吧？但真正的后果是，由于这个过程，您会污染真空系统，而这非常难以清理。这意味着可能需要花费成千上万美元，对吧？所以这就是其中之一，对吧？一旦您了解了抽气机制，就不会犯这种错误了。对吧？现在让我们继续介绍第二种类型的泵
+
+
+[2026-09-14 12:52:53]:
+ Here we see two different examples. What is the so-called diffusion power? Right? So, diffusion that means is based on a gas molecule diffusion, or the fact is actually you have a sort of oil reservoir at the bottom. then you get to heat it up, alright? Then, when you heat it up, so this is a boiler, and the gas molecule is going to get into the vapor phase and go up until it reaches this location, which is called a jet or nozzle. So the function of a Jetozo is to split out these vaporized oil molecules really, really fast, right? So these uh molecules are actually eight gas phase of the OE molecules are serving as the uh momentum transfer giver. All right, so they impact on the gas molecules that are in your vacuum system and push it right downwards, right? Then when the oil comes out and pushing the gas molecules all downwards, the gas will go down there and eventually be pumping out from an acid here.
+这里我们看到两个不同的例子。所谓的扩散功率是什么？右？扩散是指基于气体分子的扩散，或者实际上你在底部有一个油藏。然后你要加热它，明白吗？然后当你加热它时，这里是一个锅炉，气体分子会进入蒸气相，然后上升，直到到达这个位置，称为喷嘴或喷嘴。所以Jetozo的功能是非常非常快地将这些汽化的油分子分离出来，对吧？这些分子实际上是OE分子的八个气相，作为动量传递的传递者。好的，它们会冲击你真空系统中的气体分子，并将其向下推，对吗？当油流出来并推动气体分子向下时，气体会流到那里，最终从酸中排出。
+
+
+[2026-09-14 12:54:05]:
+ And what happens to the oil molecules is that they're going to cool down from gas base on the side walls of the container and drill back to the reservoir and being heated up again and go through this recycle process. Right? That's how G fusion comp works. Then the tricky part and the diffusion comes. This is a complete picture of how it looks like. It have actually different levels, right? So we know all your molecules have different molecular weights, right? Heavier ones will be the one coming out of the last, right?
+油分子会发生什么变化呢？它们会在容器侧壁上从气态冷却下来，然后滴回储液器，再次被加热，并经历这个循环过程。对吧？这就是G聚变堆的工作原理。接下来是棘手的部分，也就是扩散问题。这是它看起来的完整图景。实际上有不同的层级，对吧？我们知道所有分子都有不同的分子量，对吧？较重的分子会是最后出来的，因为较大的分子
+
+
+[2026-09-14 12:54:42]:
+ Process of a larger molecular weight. So they go to the top, but then they do have larger impact due to their heavier nature of the molecules. So in this case, you do achieve a sort of a differential type of a pumping from bottom to down. the pressure is getting uh better and better towards the top of the um the the top, which is connected to your vacuum system. Right? So that's uh uh diffusion pump and the next example of the uh molecular uh sorry of the momentum transfer type of mechanism is the so-called turbo molecular pump or turbo pump in short. Alright? So turbo palm is just working like using the fan model that I just used. Alright, so you have a blade in there and the blade is forming of an angle with its rotation. Or as the mice rotate, you are actually putting force on the gas molecules and putting this.
+分子量较大的过程。因此，它们会上升到顶部，但由于分子较重，其影响也更大。在这种情况下，你确实实现了从底部到顶部的某种差动式抽气。压力越往顶部越好，而顶部连接着你的真空系统。对吧？这就是扩散泵。下一个动量传递型机制的例子是所谓的涡轮分子泵，简称涡轮泵。好的？涡轮泵的工作原理就像我刚才使用的风扇模型一样。好的，里面有一个叶片，叶片在旋转时形成一个角度。随着叶轮旋转，你实际上对气体分子施加了力，并
+
+
+[2026-09-14 12:55:40]:
+ This is a kind of an easy analogy, but what really happens is that it's not really depressed on gas molecules. That is really the gas molecules sticking on both sides of the blade, alright, will be leaving the blade in different speeds. So one side will be leaving faster, the other side will not be leaving too much. So we'll see a difference equivalent to the impact that are generated, right? That impact will cause the pushing of the gas molecules in the vacuum system and eventually let it work. So this is the internal of a tuple molecular. have two different types of blades. Is the blade center not moving, or we call this data? And there's uh is a rotor which is in the middle. So the uh rotor is rotating this one.
+这是一个比较简单的比喻，但实际上它并没有真正压在气体分子上。也就是说，粘在叶片两侧的气体分子，会以不同的速度离开叶片。所以一侧会离开得更快，另一侧不会留下太多。所以我们会看到相当于产生冲击的差别，对吧？这种冲击会推动真空系统中的气体分子，最终使其发挥作用。这就是一组分子的内部结构。有两种不同类型的叶片。叶片中心是不是没有移动，或者我们称之为数据？中间有一个转子。转子在旋转这个。
+
+
+[2026-09-14 12:56:30]:
+ So these are the rotating lengths. Alright, the last type spot the capture pot. Right? The capture power. Now I have mentioned there are a few different capturing mechanisms, right? We're going to go through, I think, three examples in this part. And the first part is somewhere I have shown part of the graphs in the introduction of the capture mechanisms. that comes from uh a Thai pump, right? Uh as it makes a type of means it's made of type idea, right? So where's the type setting?
+这些是旋转长度。好了，最后一种是定位捕捉罐。右？捕获能力。我提到过有几种不同的捕获机制，对吧？我们这部分会讲三个例子。第一部分我在捕捉机制介绍中展示了部分图表。那是来自一种泰国泵，对吧？呃，它制造一种方式，是基于类型概念，对吧？那么类型设置在哪里？
+
+
+[2026-09-14 12:57:12]:
+ So in the path you have one of these cylinders, right? But if we're going to take one of the cylinders out, he looks like this, right? So you have a slender body, right? And you have to end, but they are not close-connected, they are not connecting each other. Right? So both the top and the bottom plates are made of titanium, that's a metal flat, right? And then this is a cylinder usually made of a steamy steam. Right? So, what happens then in the first step is that you need to connect these two plates and this place, which is the cylinder wall, right, to different potentials. So usually the two tieboards are grounded, right?
+因此，在路径中你有一个这样的圆柱体，对吧？但如果我们要取出其中一个圆柱体，它看起来是这样的，对吧？所以你有一个细长的主体，对吧？你有两个端部，但它们没有紧密连接，它们彼此不相连。对吧？所以上下板均由钛制成，这是一种金属平板，对吧？然后这通常是由蒸汽制成的圆柱体。对吧？那么，第一步发生的是你需要将这两个板和这个位置（即圆柱壁）连接到不同的电位。所以通常这两种类型是接枝的，对吧
+
+
+[2026-09-14 12:57:59]:
+ And this part is connected to a potential that is positive relative to the ground. Now in the setting we have created basically two electrodes, right? So, the more positive one is the anode, and the negative one we call it the cathode. Now we're going to uh pass purity through. Right, well sorry, and I'm working to apply the potential on it. Now, what's going to happen is that this will cause the ionization of a bit of the gas molecules inside. So ionization refers to a process, right? The gas molecules is getting ionized by ejecting an electron, and the rest form a gas ion. Alright, so this is the ionization process. No.
+这个部分连接到一个相对于地为正的电位。现在在设定中，我们基本上创建了两个电极，对吧？所以，较正的那个是阳极，负的那个我们称之为阴极。现在我们要通过纯度。好的，抱歉，我正在工作，把电位施加在上面。接下来会发生的是，这会导致内部一些气体分子电离。电离是指一个过程，对吧？气体分子通过喷射电子被电离，其余的形成气离子。好的，这就是电离过程。不是。
+
+
+[2026-09-14 12:58:56]:
+ When this charged particles are formed due to the ionization process, now here we have electrodes. We know the negative charged particles will always move towards the more positive potential and less Watts up. So the positively charged particles will move to more or relative negative potential. Is that right? Okay. Now, I was thinking, I just said, so these two boards are of relatively negative potential compared to this guy, right? So who will come to it
+当这些带电粒子因电离过程形成时，这里有电极。我们知道负电粒子总是会朝向更正的电位移动，瓦数较小。所以带正电的粒子会移动到更多或相对的负电位。是这样吗？好的。我刚才在想，这两个板子相对于这个人来说是相对负电位的，对吧？那么谁会来理解这个问题
+
+
+[2026-09-14 12:59:39]:
+ We will come to it. The ion will be electron. The ion, very good, because this is more negative. So it attract the iod. So the iodine will accelerate towards the cathode. Alright? So what are ions? And are charged particles for sure, but they are also very heavy compared to electrons. So when these charged heavy particles hit the titanium, guess what's going to happen? Going to kick off some of the surface titanic atoms and eject it into the vacuum.
+我们会讲到这一点。离子将变成电子。这个离子，非常好，因为它带有更多的负电荷。所以它会吸引碘。因此，碘会加速向阴极移动。明白了吗？那么什么是离子？它们当然是带电粒子，但与电子相比，它们也非常重。所以当这些带电的重粒子撞击钛时，猜猜会发生什么？它们会将一些表面的钛原子击出，并将其喷射到真空中
+
+
+[2026-09-14 13:00:24]:
+ Alright. Now imagine you still have you know a lot of gas molecules in there, but I suggest that the surface of this newly generated fresh titanium atoms are very active. So, they tend to absorb anything that the incomes and grabs it. Right? So as the Thai atoms fly within this bridge, correct, catching the gas molecules, once they hit the side wall of the container, it's going to bury the gas molecules and the middle, correct? So these gas molecules are removed from the vacuum system. So this is the process how a tin tiny pump works in terms of removing the gas molecules from a closed system. Right? But this system, I will spend a few more words on it because it's actually a bit trickier to enable this process. Why do I say so?
+好的。现在想象一下，里面还有很多气体分子，但我认为这些新生成的新鲜钛原子表面非常活跃。所以它们倾向于吸收并抓住这些新元素。右？所以当泰国原子在这座桥内飞行时，抓住气体分子，一旦它们撞击容器的侧壁，就会把气体分子和中间部分埋没，对吗？所以这些气体分子会从真空系统中被移除。这就是锡制微型泵如何从封闭系统中移除气体分子的过程。右？但这个系统，我会多说几句，因为它实际上更难启用这个过程。我为什么这么说？
+
+
+[2026-09-14 13:01:19]:
+ Because when you apply an initial voltage, you can ignite the gas molecules in it or ionize it. Well, you create this process a little bit, only a few. So you create a few ions, a few electrons. When these ions hit the surface, so electrons end up somewhere, like the disaster. this process will be stopped. Right? So, this kind of pumpkin sounds like it will not last long, right? So what scientists have been doing is that they create a bit of the tricks to let this process become self-sustained to keep it running longer so that more efficiently we remove the gas molecules from the closed system. This is how they do, right? So now I replot the figures a little bit by keeping the anode and the cathode as it is.
+因为当你施加初始电压时，你可以点燃其中的气体分子或使其电离。嗯，你稍微引发这个过程，只产生少量离子和电子。当这些离子撞击表面时，电子最终会到达某个地方，就像灾难一样。这个过程就会停止。对吧？所以，这种南瓜听起来不会持续太久，对吧？因此，科学家们一直在做的是一些小技巧，让这个过程能够自我维持，从而运行更长时间，以便更高效地从封闭系统中去除气体分子。他们是这样做的，对吧？现在我把图表重新绘制一下，保持阳极和阴极
+
+
+[2026-09-14 13:02:13]:
+ So, this is the tieboard, remember, and this is the sit in the wall, which is more positively charged. Alright? Now previously you just create an ion and the charge uh electron. Ions is moved towards the cathode, and electrons move the opposite. Okay? Now I say once this end up here, does it end up here? This is stuff. Alright? Alright? Now how are we going to maintain this process?
+所以，这是连接板，记住，而这是位于墙内的部分，其正电荷更多。好吗？之前你只是产生一个离子和电荷，即电子。离子向阴极移动，而电子则向相反方向移动。明白吗？现在我说一旦它到达这里，它会停在这里吗？这些都是材料。好吗？好吗？现在我们该如何维持这个过程
+
+
+[2026-09-14 13:02:40]:
+ Now, this is a trick. So they're using a savage switcher. So instead of uh having uh a plate uh here, a more positively charged, now I'm going to use two branded electrode on two sides of it and a drill hole in the middle. So this is a bit like what we have in this uh uh cylinder configuration. Okay? And now what's gonna happen, right? Think about this electrons that travel around, right? So the symmetrons have some kinetic energies. Then, what happens if it keeps on traveling? The chances are it's going to meet some of the gas molecules in the vacuum system, and the energetic electron will pass its energy to this gas molecules and cause it to ionize again.
+这是个技巧。他们用的是Savage开关器。所以，这里不是用一个带正电的板，而是在两面上装两个品牌电极，中间钻一个孔。这有点像我们看到的这个，呃，圆柱体配置。明白吗？接下来会发生什么？想想这些电子在周围移动，对吧？对称电子有一些动能。然后，如果它继续移动会发生什么？很可能它会遇到真空系统中的一些气体分子，高能电子会把能量传递给气体分子，使其再次电离。
+
+
+[2026-09-14 13:03:29]:
+ So, this is a continuous ionization process as long as this electrons can keep on moving around. Now, see, when this hit the wall, this is dead. This is gone. So you can now reuse the ions, but hopefully you can reuse the electrons. But how are we going to use the electrons? Alright, now this is the trick. See, if this electron's first wave was pushing from this side to this side, right, so it's moving from here, right, at the speed. So likely it will pass the whole to this end. But then, because this is also more negative charge, so this electrons moving here will feel a force that pushes it back. Alright?
+因此，只要这些电子能够持续运动，这就是一个连续的电离过程。现在看，当它们撞击到壁时，就失效了，消失了。所以你现在可以重新利用离子，但希望也能重新利用电子。但我们该如何利用电子呢？好的，现在关键在于此。看，如果这个电子的第一波是从这一侧推向那一侧，对吧，那么它就从这里以一定的速度移动。因此，它很可能会穿过整个空间到达另一端。但由于这一端也有更多的负电荷，所以在这里运动的电子会受到力的作用
+
+
+[2026-09-14 13:04:11]:
+ So this electron now is oscillating around this hose because both sides are pushing it to the opposite direction. So that will elongate the path, the traveling pathway of the electrons and making it more likely for electrons to pick with the other gas molecules and do the animation process. But that's not all. Scientists have actually done better. In addition to the electrical field that we've applied, right, uh people have been adding uh additional magnetic field to these electrons, right? Now how do we understand that? The trajectory of electrons, well, this will come again in the later instrumentation part, right? The trajectory of electrons can be manipulated by two different kind of fields. Who are they? For those of you who have a bit of the physics background, you should be able to answer this question.
+所以这个电子现在在软管周围振荡，因为两边都在推动它向相反方向移动。这会延长电子的路径，使电子更有可能与其他气体分子一起走动，从而进行动画过程。但这还不是全部。科学家们实际上做得更好。除了我们施加的电场之外，呃，人们还在给这些电子添加额外的磁场，对吧？那么我们该如何理解这一点？电子的轨迹，嗯，这会在后面的仪器部分再次出现，对吧？电子的轨迹可以被两种不同的场操控。它们是谁？对于那些有一点物理背景的人来说，应该能回答这个问题。
+
+
+[2026-09-14 13:05:06]:
+ The trajectory of an electron can be manipulated, yes, right? Can be manipulated by two different types of fuels. The field I just mentioned is the electrical field, and the other is magnetic field. So if you're going to apply a magnetic field perpendicular to the velocity of the electron, what's going to happen? You're going to need to use the right hand wall. Alright? you're going to create uh central pedal force right perpendicular to the velocity of the electron and cause electron to go in the circular format of motion. So now the electrons were already oscillating in this way, and on this oscillating pathways, now you're adding another experiment of motion. So you see in this way, the pathway of electrons is elongated to a large extent. And in this process, you can imagine to have much more enhanced ionization process of the gas molecules so that we generate a lot more ions that can kick off the titanium atoms from the board of the electrodes.
+电子的轨迹可以控，对吧？可以被两种不同的燃料操控。我刚才提到的电场是电场，另一个是磁场。那么如果你要施加一个垂直于电子速度的磁场，会发生什么？你需要使用右侧的壁。明白吗？你会产生垂直于电子速度的中心脚踏力，使电子以圆形运动的形式运动。所以电子已经以这种方式振荡，而在这个振荡路径上，你又增加了另一个运动实验。你可以看到，电子的路径被大幅拉长了。在这个过程中，你可以想象气体分子的电离过程会更加强化，从而产生更多离子，从而从电极板上剥离钛原子。
+
+
+[2026-09-14 13:06:25]:
+ And that's how the PyPung actually works. Right? Now, um a follow-up question, right? What do you think is the problem of this pump? While you use it. There was the disadvantage. It's actually quite obvious, isn't it?
+这就是PyPung的实际运作方式。右？现在，嗯，有个后续问题，对吧？你觉得这个泵的问题是什么？你用它的时候。有缺点。其实很明显，不是吗？
+
+
+[2026-09-14 13:06:51]:
+ The upper plate will be keep up consuming titanic atoms. So it's a consumable. But then eventually it will be used up, right? So do you need to change it? You have to change it from time to time because they do have the symbol from the side. Okay? So that's the problem of it. Right now, uh, another similar type of mechanism, this is called the pie sublamation pulse. working mechanism is exactly the same as before. So it revised the very active titanium atoms that were floating in the atmosphere to attract these gas molecules and bury them.
+上层板块会持续消耗巨型原子。所以它是一种消耗品。但最终它会被消耗掉，对吧？那你需要更换它吗？你必须不时更换，因为它们侧面有符号。明白吗？这就是问题所在。现在，呃，另一种类似的机制叫做馅饼渗透脉冲。工作机制和以前完全一样。它修正了漂浮在大气中的非常活跃的钛原子，以吸引这些气体分子并将其埋藏起来。
+
+
+[2026-09-14 13:07:34]:
+ But the way of a titanium atom generation is a bit different from before. Now, instead of using the charged heavy ions to heat on the piece of solid, in this case, we heat it up to a relatively high temperature, and at that temperature, the titanium will sublime. Refers to a physical process or a piece of solid and directly get into the vapor phase, not passing through the liquid phase. Alright, so that's the segmentation process, but then uh the principle is very similar. Alright, what is a bit different is the so-called cryogenic absorption type of pumps, that relies on the other mechanisms I mentioned. You reduce the temperature of the system so the gas molecules start to condense on the surface and that's how you need to remove it from the system. Right? Now things this whole thing tell me reliance on, right, you've got the gas molecules and that that you get onto the surface. But you have a limited surface area. That means in this pump, you need to have a bit of mechanisms to create additional surface area so that we can accommodate more gas module, right?
+但钛原子的生成方式与之前有些不同。现在，我们不再用带电的重离子加热固体，而是将其加热到相对较高的温度，在该温度下，钛会升华。指的是物理过程或固体，直接进入蒸气相，而不是通过液相。好的，这就是分段过程，但原理非常相似。好的，有点不同的是所谓的低温吸收泵，它依赖于我之前提到的其他机制。你降低系统的温度，使气体分子开始在表面凝结，这就是你需要将其从系统中移除的方法。右？这整个过程告诉我，依赖气体分子，这些气体会被带到表面。但表面积有限。这意味着在这个泵里，你需要一些机制来增加表面积，这样我们才能容纳更多的气体模块，对吧？
+
+
+[2026-09-14 13:08:49]:
+ In this case, people usually use a Zioba palette or Zabault material structures, right? Which is a kind of a porous network, right? Creating a lot of additional areas for the absorption and absorption of in-gas molecules. Now low temperature. Remember, earlier case, I also mentioned to achieve a good vacuum in the system, sometimes we do baking. So that is we heat the temperature, or we heat the temperature system up, right? We cook it and that will give you a better temperature. So this seems, I mean, at the first side, intuitively a topic thing, right? So you say low temperature can give you better vacuum. And now you're saying high temperature also gives you better vacuum.
+在这种情况下，人们通常使用Zioba调色板或Zabault材料结构，对吧？这是一种多孔网络，对吧？它为气体分子的吸附和吸收创造了大量额外的表面积。现在是低温。记住，在之前的案例中，我也提到过，为了在系统中实现良好的真空，我们有时会进行烘烤。也就是说，我们提高温度，或者加热系统，对吧？我们对其进行烘烤，这会带来更好的真空度。所以这看起来，我的意思是，从直觉上讲，这是一个矛盾的事情，对吧？你说低温能提供更好的真空。而现在你又说高温也能提供更好的真空
+
+
+[2026-09-14 13:09:33]:
+ So what what is what? Right? But they are working on different mechanisms, right? So I have just explained why low temperature provides a sulfur, the cold surface for the gas molecules to condense. Baking are actually exactly doing the opposite. But you are not doing baking at the same time you get good pressure. Baking is a pervasion procedure, right? So, what does it mean? That means you'll heat up the system to high temperatures. At the same time, you'll keep compounding the system.
+那么，什么是什么？右？但它们在研究不同的机制，对吧？我刚才解释了为什么低温会提供硫磺，也就是气体分子冷凝的表面。烘焙实际上正好相反。但你不是在同时烘烤，同时获得高压。烘焙是一种渗透过程，对吧？那这意味着什么？这意味着你会把系统加热到高温。同时，你会不断加重系统。
+
+
+[2026-09-14 13:10:05]:
+ that at high temperature what happens? Now, whatever that are condensed on the surface are coming out now and getting into your vacuum. So at that time, your vacuum is definitely backed. But the thing is that you got it on release and they keep on pumping it and hoping to get rid of it at that time, right? And then, if you've done a good job, when the system cools down, the base pressure becomes much better than before because you remove the dirt from the surface. So that's the general idea of baking versus hydrogen absorption. Right? So they are not conflicting with each other
+在高温下会发生什么？此时，原本冷凝在表面的物质正在逸出并进入你的真空系统。因此，在那段时间内，你的真空度肯定会变差。但关键在于，你在释放（气体）后持续抽气，希望在那个阶段将其去除，对吧？然后，如果你操作得当，当系统冷却下来时，本底压力会比之前好得多，因为你清除了表面的污染物。这就是烘烤与氢吸收之间关系的基本概念，对吧？所以它们并不相互冲突
+
+
+[2026-09-14 13:10:42]:
+ Alright, so that's about pumping. Alright, uh any questions so far? If not, we're going to move into the last part of the vacuum system, right, which is a breath out. So how do you know? How good you have a powder down? How good is the back level? You need something else to tell you about it, right? That something is called a gauge. Again, they were similar to what I showed on the palms. You see, for the stages, right?
+好了，这就是抽气的部分。好的，呃，到目前为止有什么问题吗？如果没有，我们就进入真空系统的最后部分，对吧，也就是呼气。那你怎么知道的？你对粉末的掌握有多好？后方水平有多好？你需要别的东西告诉你，对吧？那个东西叫做仪表。它们和我在掌心上展示的很相似。你看，是阶段的，对吧？
+
+
+[2026-09-14 13:11:12]:
+ They seem to walk at different ranges, right? So you have ones that work the close to one sphere, you have some ones working in the mid-range and other ones working at low range. Right, so the most straightforward type of beta I really have seen it before, right? So it's a mercury manometer and based on very simple physics is that now you have a container, if there's a pressure difference on the two ends, right, and the mercury will create a height difference on the left part and the right part. So, you calculate the height difference, and that will give you directly the pressure of the system. Alright, it's very straightforward. is the so-called direct measurement. Why? right because you read it out directly. Alright?
+它们似乎在不同的距离上行走，对吧？所以你会有接近一个球体的，有些在中距离工作，还有一些在低距离工作。对，这就是我见过的最直接的β型，对吧？这是一个水银压力计，基于非常简单的物理原理，现在你有一个容器，如果两端存在压力差，汞会在左侧和右侧产生高度差。所以你计算高度差，就能直接得到系统的压力。好的，这非常简单。这就是所谓的直接测量。为什么？因为你直接读出了它。明白吗？
+
+
+[2026-09-14 13:12:05]:
+ Now, what I want to spend time to introduce is the so-called indirect measurement or indirect gauges. Now here I'm going to talk about two different types, right? One is simple gauges, right? Was simple couple gauge and the pricing gauge as the most representative. The two of them actually working a little bit differently. Let me take the thermoparpo gauge to start with, right? So the system with the gauge, the gauge is not very large, it's about the size, alright? But then the inside looks like this, also a couple pages, right? You have a small electrical power supply system connected to it, and in between is a filament. So when you pass period through, the filament gets hot. Right?
+现在，我想花时间介绍所谓的间接测量或间接测量。这里我要谈两种不同的类型，对吧？一种是简单的测量，对吧？简单耦合测量和定价测量表是最具有代表性的。它们实际上工作方式有些不同。让我先用热量测量仪开始，好吗？所以这个系统，这个测量仪表其实不大，大小大致就是，明白吗？但内部看起来是这样，也像几页，对吧？你有一个小型的电源系统连接着它，中间是一条灯丝。所以当你通过周期时，灯丝会发热。右？
+
+
+[2026-09-14 13:12:50]:
+ And now you have the most uh key part of the simple couple gauge is the simple couple. Now uh you guys know what this simple pet will do? This is a small meter. This is like something you measure the temperature. So you put the tip of the simocarpo in the vicinity of the filament, but not touching it, right? in very close vicinity of the filament in your read at the temperature. Right? Uh then you know the pressure can be. Or how? Obviously there will be a correlation in between the temperature you read and the actual pressure of the system.
+现在，简单偶数器中最关键的部分就是简单耦合器。你们知道这个简单的PET会做什么吗？这是一个小仪表。它就像测量温度的工具。所以你把西莫卡波的尖端放在耗材附近，但不要碰到它，对吧？在温度读数中，非常靠近耗材的位置。右？呃，那你知道压力可以是。或者怎么做到的？显然，你读到的温度和系统实际压力之间会有相关性。
+
+
+[2026-09-14 13:13:24]:
+ But then what is the venue zone? What is the magnetism? Well, this is the magnetism must have be the temperature around the filament will be different if you have different amounts of gas molecules in it. Does that make any sense? Makes sense, right? If you want heat to dissipate in air, it dissipates cannot fast. that if you put a heating source in a vacuum, for example, without much of the gas molecules, you will see the heat dissipation went very slow because nobody carries it out. There's no way you can pass it if you're out. There's no beauty. Alright?
+那么场地区域是什么？磁性是什么？磁性必须是因为灯丝周围的温度会不同，因为气体分子量不同。这说得通吗？说得通吧？如果你想让热量在空气中散发，它不会快速消散。比如说，如果你把加热源放在真空中，气体分子不多，你会看到热量散发得很慢，因为没人会传导。如果你在外面，就不可能传热。没有美感。明白吗？
+
+
+[2026-09-14 13:14:14]:
+ So, in this way, right, a different pressure inside the system will give you a different temperature that is pressured. So that's how simple type of gauge can be used to measure as the indirect gauge, right? No, similar things work for a predicate, right, but instead of a measure the temperature I think predigging that actually measures of uh metallic wire, right? Not phase out similar work, I suppose. Your assistant on your language. Right? Okay. A little bit is that if you go back to the chart that I took to show, I say, alright, these two tackle gauges I just explained, the simple couple gauge and the cranny gauge, all the last two, right? The information and see where they work. don't work too at too high upper pressure. They don't work at the too low upper pressure.
+所以，这样一来，系统内部不同的压力会给出不同的压力温度。这就是用来测量的简单量表作为间接测量，对吧？不，类似的方法是用来测量谓词，但不是测量温度，而是预先挖掘，实际上测量金属线，对吧？我想这不会逐渐淘汰类似的工作。你的助理，关于你的语言。右？好的。有一点，如果你回去看看我之前做的图表，我说，好，我刚才解释的这两个工具表，简单耦合表和齿缝表，都是后面两个，对吧？信息，看看它们在哪里工作。不要在过高的上压力下工作。它们在太低的上压力下工作不行。
+
+
+[2026-09-14 13:15:25]:
+ They somewhere work in the model. Why is that
+它们在模型里某处工作。为什么会这样
+
+
+[2026-09-14 13:15:36]:
+ It's very usual that in that. What is that? Any idea
+这在那种情况下很常见。那是什么？有什么想法吗
+
+
+[2026-09-14 13:16:05]:
+ Alright, this is a problem for you guys to think about. You can bring it out to see what happens if the pressure is too high and what happens if the pressure is too low. Alright? Nowadays I'm here, okay? Is actually kind of straightforward in magic, right? So I just said, why the temperature change? when the temperature of the pigment changed. That's about how each is dissipated across this wire, right? Ember Monica is going to pay a ride there. Right?
+好了，这是你们需要考虑的问题。你们可以拿出来看看压力太高会发生什么，压力太低会发生什么。明白吗？现在我在这里，好吗？其实在魔法里挺直接的，对吧？所以我刚才说，为什么温度会变化？当颜料的温度变化时。这大概就是每个颜料在这根线上散开的方式，对吧？Ember Monica 要去那里搭车。右？
+
+
+[2026-09-14 13:16:48]:
+ But the way of heat will dissipate, either it's through convection or it's through radiation. Well it will change. depends on the gas amount of gas molecules that are run. The formats of the disposition were changed. Right? So, in order to make this kind of measurement work, right, you better hold a linear range, right, that is the temperature change linearly dependent on the pressure change. So, they can maintain this kind of relationship, right? But then, if the format of heat dissipation changes, then you will see the correlation starts to lost, right? And that's how right uh you have trouble to add uh the very uh low pressure end, right and a high pressure end, uh leave it to yourself, right? It could be uh some other contributors come to play that make it impossible to measure at the high pressure end.
+但热量散失的方式，无论是通过对流还是辐射，都会发生变化。这取决于气体分子的数量。热耗散的机制发生了改变，对吧？因此，为了使这种测量有效，最好保持线性范围，即温度变化与压力变化呈线性关系。这样他们才能维持这种关系，对吧？但是，如果热耗散机制发生变化，你就会发现相关性开始减弱，对吧？这就是为什么你在极低压力端会遇到困难，而高压力端的问题则留给你自己去思考，对吧？可能是其他因素介入，导致在高压力端无法进行测量
+
+
+[2026-09-14 13:17:46]:
+ Alright, the last type of indirect gauge I'm going to introduce is called the hot puzzle gauge. And there's also a very indirect mechanism, and that's the civil house gauges, right?
+好了，我要介绍的最后一种间接规范叫做热谜题规范。还有一个非常间接的机制，就是民用房屋规范，对吧？
+
+
+[2026-09-14 13:17:59]:
+ that you have on the side a filament. Now, in a simple couple gauge, you also have development, right? But then this filament is not just to heat it up and provide it with source, but you see it. So, what you wish is for this filament to have high enough temperature and when it's going to emit hot electrons.
+你旁边有一根灯丝。现在，在简单的几束灯中，你还有显影，对吧？但这根灯丝不仅仅是加热它并提供源，你还能看到它。所以，你希望这个灯丝温度足够高，并且它会发射高温电子。
+
+
+[2026-09-14 13:18:28]:
+ enough temperature is going to emit electrons. Alright. is actually uh one of the things. So we're also going to go through the later chapters, right, when you create electron guns, so that's the electron tools, right? Some materials were just he made more, but others less, right? Dollars are making more and we're sitting next to the basement. But anything basically works like that. Because for this filament, you want to let it in electrons. that what happens after the electrodes. Now you have some grid systems where basically you create some potential again.
+足够的温度会释放电子。好的。这其实是其中一个问题。我们也会讲后续章节，对吧，当你制造电子枪时，这就是电子工具，对吧？有些材料制造得更多，有些则少，对吧？美元制造更多，而我们坐在地下室旁边。但基本上任何东西都是这样运作的。因为对于这种灯丝，你希望让电子进入。这就是电极之后发生的事情。现在你有一些网格系统，基本上是重新产生一些电位。
+
+
+[2026-09-14 13:19:06]:
+ You want the electrons to be accelerated to center electrons. In this process, you have created a charge and particles with energy. And these electrons again clear into heat the gas molecules that are inside and create ions. Now, what you can collect is the ions you actually created due to the ionization process. Alright? A very straightforward relationship is that the more ions you created, right, the more ions you can get at the collector that corresponding to higher ionic current you can read out. And that makes you have higher pressures in the vacuum system. So this is uh pretty much having function for the uh hot cancer H, right? So instead of the temperature or the resistance, you are actually reading the IR current created due to the collision between the electron and the gas molecules
+你希望电子被加速以聚焦中心区域的电子。在此过程中，你产生了电荷和具有能量的粒子。这些电子随后与内部的气体分子碰撞并将其转化为热能，从而产生离子。现在，你可以收集到的正是因电离过程而实际产生的离子。一个非常直接的关系是：你产生的离子越多，在收集器上获得的离子就越多，这对应于更高的离子电流读数。这意味着真空系统中的压力更高。因此，这基本上就是热阴极电离规（HCC）的工作原理。所以，你不是读取温度或电阻，而是读取由电子与气体分子碰撞所产生的离子电流。
+
+
+[2026-09-14 13:20:17]:
+ Vacuum system
+真空系统
+
+
+[2026-09-14 13:20:40]:
+ Okay
+好的
+
+
+[2026-09-14 13:20:50]:
+ Questions and problems? No worries. Don't need to take a picture of me. Relax, okay. I'm gonna leave it here. Okay. Um so this is what I'm gonna do. Let me explain how a vacuum system works by using a green case of vacuum. So it looks complicated, but then when they go through, what I hope the whole class can do is that from that moment and up, for any of the vacuum chart you see, you will be able to read it by yourself. I will show you in a minute how easy is that. Okay?
+有问题和问题吗？没关系。不用给我拍照。放轻松，好吗。我就放这儿了。好的。嗯，我现在要做的是这个。让我用绿色真空盒来解释一下真空系统是怎么工作的。看起来很复杂，但等他们通过时，我希望全班都能做到，从那一刻起，你看到的任何真空图表，都能自己看懂。我一会儿会给你演示一下有多简单。好吗？
+
+
+[2026-09-14 13:21:29]:
+ So after that, after I explain the whole thing, you guys can have a 10-15 minutes break. Then I come back with a paper, right? And then you guys get to have the classworks check uh checking on your understanding of the ecosystem. Okay? So let me go through the interpretation of the possible values. So on the right chart is a great picture of ultra-high vacuum system that's been built, right? but this is only part of it, and you see it's very crowded, it's always the case, right? The next side, we have three major components of the vacuum system to enable the vacuum. So this is a close to a chamber system, right? you're always looking for.
+之后，在我解释完整个过程后，你们可以休息10到15分钟。然后我会带着一篇论文回来，对吧？然后你们可以让课堂作业检查你们对生态系统的理解。明白吗？让我来解释一下可能的数值。右图是超高真空系统构建的很棒图，对吧？但这只是其中一部分，你看这里非常拥挤，这种情况总是如此，对吧？下一面，我们有三个主要的真空系统组件来实现真空。所以这是一个接近腔室系统的系统，对吧？你总是在寻找。
+
+
+[2026-09-14 13:22:08]:
+ So we are in a chamber system. Maybe this is one of them, right? there are some like inner parts that I can see. Okay, so ten person. And there are pumps and hooks. So there are pumps, right? So this part do we see, okay, so this is a cryo absorption pump and this is right, and there are gauges.
+所以我们现在在一个舱室系统里。也许这就是其中之一，对吧？我能看到一些内部部件。好，所以有十个人。还有泵和钩子。所以有泵，对吧？所以我们看到的这部分，好，这是一个低温吸收泵，没错，还有仪表。
+
+
+[2026-09-14 13:22:28]:
+ Of digits are not shown here. But that's pretty much the idea, right? How the microsystem looks like in reality, right? But then you can always dissect it into a vacuum chart in which you can read it out. How does it work? Right? So now let's try to explain, alright, now what is there. Now let me show you how to read it. Right. Let me read it by yourself first.
+这里没有显示数字。但这大致就是这个想法，对吧？微系统在现实中是什么样子，对吧？但你总能把它拆解成一个真空图表，然后读出来。它是怎么工作的？右？现在让我们试着解释一下，好，现在到底有什么。现在让我教你怎么读。右。让我先自己读一读。
+
+
+[2026-09-14 13:22:54]:
+ Now although it looks very complicated, right, but there are patterns. For example, some of the symbols look very similar. Shift means that. And there are words writing efforts. So let me ask the first question in these systems, right, it's supposed to be a closed system. Now we're going to first figure out the chambers. Where are the main chambers? Right? So how many tempers are there? Now, let me cut off the red part, which is a very special prefer system attached to it.
+虽然看起来很复杂，但确实存在规律。例如，有些符号看起来非常相似。Shift就是这个意思。还有文字书写的努力。让我问这些系统中的第一个问题，对吧，它应该是一个封闭系统。现在我们先弄清楚房间。主房间在哪里？右？那到底有多少个脾气呢？现在，让我把红色部分剪掉，那是个非常特别的偏好系统。
+
+
+[2026-09-14 13:23:24]:
+ So we're not going to look at anything that are in the uh the red rectangle. We're not gonna discuss this. We only look at, right, from here and to the right side. Okay? So how many chambers do we see in there? Three chambers. Three chambers. Somebody say two. Two or three. Two, three.
+所以我们不会看红色矩形里的任何东西。我们不会讨论这个。我们只看从这里到右侧。明白吗？那我们看到多少个房间？三个房间。三个房间。有人说两个。两个还是三个。两个，三个。
+
+
+[2026-09-14 13:23:48]:
+ Yeah, whichever word of sense. Yeah. So let's say Chu, where chew? Sure. One, two? Okay. Uh when somebody says three, where is the third? Uh May chamber. May Chamber. Main chamber.
+是的，随便哪个词。是的。那我们说楚，咀嚼在哪里？当然。一，二？好。呃，当有人说三时，第三个在哪里？呃，五月室。五月室。主室。
+
+
+[2026-09-14 13:24:05]:
+ It tells you this is the main chamber. Chapia, isn't it? Yeah, so this is one? Yeah. Versus two, where's the third one?
+它告诉你这是主室。查皮娅，对吧？是的，所以这是一号？是的。对比二号，第三号在哪里？
+
+
+[2026-09-14 13:24:22]:
+ Pop or is pumped? Anybody said free? Anybody hold a different opinion?
+是pop还是pump？有人说免费吗？有人有不同看法吗？
+
+
+[2026-09-14 13:24:38]:
+ Five five five. Okay, this is all your squat, right? This is now this another one. And they also put the type of optimizations that happened. For example, we're going to learn SPS, we're going to learn lead, all right. We're not going to learn uh at least we're not going to learn STM. Alright, it's not covered by the class, but then we know what these chambers are for. Alright
+五五五。好，这些都是你的深蹲，对吧？现在这是另一个。他们还列出了发生过的优化类型。比如，我们要学SPS，我们要学铅，好吗？我们不会学，呃，至少我们不会学STM。好，这门课没教，但我们知道这些腔室的作用了。好
+
+
+[2026-09-14 13:25:11]:
+ The small volumes, right, the empty volumes. So let's see. This is not looking like a champer, right? Because they have letters right next to it. My tower is a gauge, so it cannot be a chamber. Alright? Let's see if anything that was not written, but there's a sort of a space in there. Anything? We check what the one, so not here. Alright?
+小卷，对吧，空卷。那我们看看。这看起来不像是个小册子，对吧？因为旁边有字母。我的塔是个量表，所以不可能是密室。明白吗？看看有没有没写好的东西，但里面有个空隙。有什么吗？我们检查那个，所以不是这里。明白吗？
+
+
+[2026-09-14 13:25:33]:
+ They're not there. This is not washing. What's this?
+它们不在那里。这不是洗涤。这是什么？
+
+
+[2026-09-14 13:25:40]:
+ So there are three attackers. Okay, one, two, three. Alright, so this is a very typical basic setting of any vector systems. So it doesn't matter which or not we see all different vacuum settings. Alright, now we're gonna check out what it is and why it has to be there. Right? Okay. Now we figure out there are two chambers. Now let's keep our meeting. And we say a vacuum system also needs paths.
+所以有三个攻击者。好，一、二、三。好了，这是任何矢量系统中非常典型的基本设置。所以无论哪个，我们都能看到所有不同的真空设置。好了，现在我们要看看它是什么，以及为什么它必须存在。右？好。现在我们确定有两个舱室。现在继续开会。我们说真空系统也需要路径。
+
+
+[2026-09-14 13:26:14]:
+ How many paths are there? One, two, three
+有多少条路？一、二、三
+
+
+[2026-09-14 13:26:20]:
+ How many? I guess a one, two, three, one. Six, okay? So let's count. Which six? Well the ones that are written as pumps cannot be missed, alright? So, this one, this one, two, okay, three, four, all right, and I also found oh, the symbols of the same type of pumps are the same. For example, this is turbo molecular palm, this turbo molecule palm. So the joinings are actually the same. Okay?
+有多少？我猜是一、二、三、一。六个，好吗？那我们数数。哪个六个？写成泵的那些不能错过，好吗？所以，这个，这个，这个，二，好的，三，四个，好，我还发现，哦，同类型泵的符号是一样的。比如，这是涡轮分子掌，这个涡轮分子掌。所以连接处其实是一样的。明白吗？
+
+
+[2026-09-14 13:26:49]:
+ So, this is a rotary vein, that is a rotary vein. Alright, four and five. It was the iron power. Alright? And yes, he's very good, right? because they are the same symbol. So TSP stands for Thai Sufflamation Pot. Right? So we have six pumps, not all covered in the glass. Very good. Now we have six pounds.
+所以，这是旋转脉，那是旋转脉。好，四和五。是铁的力量。明白吗？是的，他很厉害，对吧？因为它们是同一个符号。所以TSP代表泰国Sufflamation Pot。右？所以我们有六台泵，不是全都被玻璃覆盖。很好。现在我们有六磅。
+
+
+[2026-09-14 13:27:12]:
+ Now how many gauges do we have? Where are the gauges? So this is written here. pressure gauge, you cannot miss it. So this is a gauge. This is a gauge. Do we have another gauge somewhere? Oh, there's another gauge. So this is actually another indication. There must be a chamber here. Otherwise, what do we do it? Alright?
+现在我们有多少个压力表？压力表在哪里？这里写着这个。压力表，你不会错过的。所以这是一个压力表。这是一个压力表。我们这里有另一个压力表吗？哦，还有另一个压力表。所以这其实是另一个指示。这里一定有一个腔室。否则，我们该怎么办？明白吗？
+
+
+[2026-09-14 13:27:37]:
+ So there's like a jigsaw puzzles and little things you can figure out, or I'd like a little detective to figure out things. Right? Now we figure out the system. You have chambers, three main chambers. We have six pumps, we have two gauges. The next thing is that we need to figure out how it's going to work. The penalties also see is that right separated by the slide, right? slide I have something called a gate valve, although I never mentioned this specifically, but then you should know a gate valve is a door. I can't help but sort of pick it up a little bit, right? It's a door.
+所以这里有拼图和小细节，你可以解开，或者我想要一个小侦探帮你解开。右？现在我们来弄清楚系统。你有三个主腔室。我们有六个泵，两个压力表。接下来我们需要弄清楚它如何工作。惩罚还包括右侧，是不是被滑动器分隔开，对吧？滑动：我有一个叫门阀的东西，虽然我从没具体提到过，但你应该知道门阀其实是门。我忍不住稍微注意到了它，对吧？它是一扇门。
+
+
+[2026-09-14 13:28:11]:
+ So the door is something connecting the two systems. See, if I shut the door, right, these two parts become independent systems.
+所以门是连接两个系统的东西。你看，如果我关上门，这两个部分就成了独立的系统。
+
+
+[2026-09-14 13:28:22]:
+ only if at open it you can conduct it. So let's do it one by one. So we shut it, so we keep it closed. Now, these left part and right part become independent parts, right? So let's look at the main tender factors and figure out how it's going to work. Now I say if I'm going to create a vacuum, I need to pump it down. I first checked if it's a closed system. Looks like so, right? If I close this part, everywhere else is closed. only thing is through the pumping lights.
+只有在打开时才能进行该操作。所以我们逐个来处理。我们将其关闭，保持其处于闭合状态。现在，左侧部分和右侧部分成为独立的部分，对吧？让我们看看主要的密封因素，弄清楚它将如何工作。我说，如果我要创建真空，我需要对其进行抽气。我首先检查它是否是一个封闭系统。看起来是的，对吧？如果我关闭这部分，其他地方都是封闭的。唯一的问题是通过抽气管线，好吧
+
+
+[2026-09-14 13:28:56]:
+ Alright? So now I can start pumping. Now how we do that? Now I said all the pumps working in different range. So, if I'm to start from atmosphere, I need to start with a rotary wave, right? And giving you, at best, low-pressure conditions. But when that is reached, I can turn on the thermal molecular pump that brings you to mid-high vacuums, or then the ion pumps or tie pumps that bring you the system all to the ultra-high vacuum conditions. Right? So now you know how to pump, right? If you have independent system, you start one first, follow by the other ones, then this system becomes good.
+好的？那么现在我可以开始抽气了。我们该怎么做呢？我之前说过，所有泵都在不同的压力范围内工作。因此，如果我要从大气压开始，我需要先启动旋片泵，对吧？这最多只能给你提供低真空条件。但当达到这个状态后，我可以开启涡轮分子泵，将系统带到中高真空；或者使用离子泵或钛升华泵，将系统带到超高真空条件。对吧？所以现在你知道如何抽气了吧？你有一个独立的系统，先启动第一个泵，接着启动其他泵，这样系统就准备好了
+
+
+[2026-09-14 13:29:40]:
+ You have a very good vacuum created. Now you see a similar pattern. Oh you can read it for graphs. You can read it from the gauge, alright? a good discussion. Now you see, this part on the right basically is a replica of what happens here. You can start the rotary, then couple molecular to create a backup, and you vacuum, then you read it out. Same thing. Alright, now we're going to answer the last question. So if both of them can be sort of started both independently, right, why do we have to introduce an independent person uh portion like this? Right?
+你已经形成了一个非常好的真空。现在你可以看到类似的模式。哦，你可以用图表来读取它。你可以从仪表上读出来，好吗？这是一次很好的讨论。你看，右边这部分基本上是这里发生的事情的复制品。你可以先启动旋转，然后耦合分子以形成备份，然后吸尘，然后读出它。原理一样。好了，现在我们要回答最后一个问题。如果它们都可以独立启动，为什么我们还要引入像这样独立的部分呢？右？
+
+
+[2026-09-14 13:30:21]:
+ Can you get a situation?
+你能安排个情况吗？
+
+
+[2026-09-14 13:30:23]:
+ And transport. Very good. You must have read something here.
+还有运输。很好。你一定在这里读过什么。
+
+
+[2026-09-14 13:30:37]:
+ Transport chamber. You are very smart. Alright? So transport, transport what? Yeah, excellent. Okay. So what I'm going to use this chapter for? To analyze results. Have you guys ever worried about how the samples ever get into there? Right?
+运输舱。你很聪明。明白吗？那传输，运输什么？是的，非常好。好的。那我打算用这一章做什么？分析结果。你们有没有担心过样本怎么会进去？右？
+
+
+[2026-09-14 13:30:58]:
+ So, what's that? Hard, okay? To put the sample in, you have to open the system, right? Put the sample in, close it, start pumping. And let me tell you how long does it take to create ultra-high backing conditions. Pumping plus baking and cooling down that takes at least 24 hours, if not 48 hours. Alright, so that means per experiment, we need to wait at you for two days, but that's two alone of the efficiency. So, you must think of a better way to do it, and that introduces the sample transport chamber. So you introduce the sample in a slightly smarter way and that saves you a lot of the time. Right?
+那么，这是什么？很难，好吗？要放入样品，你必须打开系统，对吧？放入样品，关闭它，开始抽气。让我告诉你，建立超高真空条件需要多长时间。抽气加上烘烤和冷却，至少需要24小时，甚至可能长达48小时。好的，这意味着每次实验，我们都需要等待两天，但这本身就严重影响了效率。因此，你必须想出更好的方法来做这件事，这就引入了样品传输室。这样，你可以以更聪明的方式引入样品，从而节省大量时间
+
+
+[2026-09-14 13:31:38]:
+ How are we to do that? But in Notify, why you guys missed this part at the beginning? Because it looks awfully small. Is it right? Very small. Why small? Because of a small volume we pump down very fast, but big volume will pump down slow. Right? So you have a response system that things that the first close the gap, close the door, right? And there's always good vacuum maintained in the speed chambers, right?
+我们该怎么做呢？但在通知中，为什么你们一开始漏掉了这部分？因为它看起来非常小。对吗？非常小。为什么小？因为体积小，我们会快速下压，但大体积会慢慢下去。右？所以你有一个响应系统，能先关闭间隙，关闭门，对吧？而且速度舱内始终保持良好的真空，对吧？
+
+
+[2026-09-14 13:32:05]:
+ So this is closed, this is protected. Alright, now you open it to air and put yourself going. Alright? Any closer? We started palming it because the water is so small. It doesn't take very long to pump it down to reasonable pressure. Let's say this is not ultra-high pressure, this is only reasonable pressure. And now what we're going to do is I'm going to open a wall and say, hey, wait a minute, the pressure is different from this side and that side is better. You're not worried about the gas and the flow into there. It will happen, but because the volume is so small and already pre-pumped, so there will not be a lot of gas molecules flowed through, and that will cause a bit of a pressure fluctuation in that.
+所以这里是封闭的，这里是有保护的。好了，现在你把它暴露在空气中，然后开始操作。好吗？再近一点？我们开始用手掌按压，因为水量很小。将其抽到合理压力所需的时间并不长。假设这不是超高压，只是合理的压力。现在我们要做的是，我要打开一个壁面，并说：嘿，等一下，这一侧的压力与另一侧不同，那一侧更好。你不必担心气体流入那里。它会发生，但由于体积非常小且已经预先抽真空，因此不会有大量气体分子流过，这会导致那里的压力出现一些波动
+
+
+[2026-09-14 13:32:50]:
+ But as long as I finish the transfer process and close it up, and relying on the big pumping system that I have here, in no time it will regain for the burden of the good pressure that I have before. Right? So hence this way you see I don't have to open whole system, right? And the time budget is very efficient. And this is a head with a special name called Boat Mark. Boat is offloading, right? It's just walks, right? The boat lock chamber is for sample transfers. Alright? Now I have explained all the basics that you need to know about this whole system.
+但只要我完成转移流程并将其关闭，依靠我这里的大型泵送系统，它就能迅速恢复到我之前所具备的良好压力水平。对吧？因此，通过这种方式，您看我不必打开整个系统，对吧？而且时间预算非常高效。这是一个具有特殊名称的头部，称为“船闸标记”（Boat Mark）。Boat 指的是卸货，对吧？只是走一下，对吧？船闸室用于样品转移。好吗？现在，我已经解释了您需要了解的关于整个系统的所有基础知识
+
+
+[2026-09-14 13:33:31]:
+ So from now on, um by looking at the vacuum chart, no worries, no calm down, and figure out what does each part works. Following the general designs of the logic lane chambers, you should now be able to analyze any of the vacuum system. Alright? So let's have a break here. I'm going to get the papers, right? And I come back in 15 minutes, and we're going to have a 10 to 15 minutes class walk. So feel free to discuss and think about what you have learned. I'll be back soon. I use an airpod, yeah
+因此，从现在开始，通过查看真空图表，无需担心，请冷静下来，弄清楚每个部分的工作原理。遵循逻辑腔室的一般设计原则，你现在应该能够分析任何真空系统了。好吗？我们先休息一下。我去拿资料，15分钟后回来，我们将进行10到15分钟的课堂巡视。大家可以自由讨论并思考从这个动作系统中所学到的内容
+
+
+[2026-09-14 14:10:58]:
+ Right, we intended to talk about right uh protein salts is photons, right? And the breath out are the lacks. But the reality is uh is actually not that, right? Because in those parts, I actually include three topics, right? Then you would by name. You see this is XPS stands for X-ray photoelectron spectroscopy and this UPS looks a lot like the XPS only with one letter different. this stands for ultra bowling, right? for the electron spectroscopy. So the last two are identical, exactly the same. Okay?
+对，我们本来想谈的是，蛋白质盐是光子，对吧？呼气是缺失。但实际上，呃，其实不是那样，对吧？因为在这些部分，我实际上包含了三个主题，对吧？那你会按名字来说。你看，这是XPS，代表X射线光电子能谱，这个UPS看起来很像XPS，只是字母不同一个。这是Ultra Bowling，对吧？代表电子光谱。所以后面两个是完全相同的，完全一样。明白吗？
+
+
+[2026-09-14 14:11:37]:
+ So it's always this first metal, which is the probing source, differs a little bit. So actually versus outro wallet. So what's the difference between the two? What's the difference between axary and the alternate? Hopefully. Yeah, woodlands, all right? So both of them are light photons, or both of them belong to the electromagnetic waves, it's only the energy associated with two of them. We're going to see the chart in a minute. Then AES, this guy is quite the friend, right? Can tell by name.
+因此，始终是这种第一种金属，即探测源，略有不同。实际上，与 outro 钱包相比呢？两者之间的区别是什么？axary 和替代方案之间的区别是什么？希望如此。是的，woodlands，好吗？它们都是光子，或者说都属于电磁波，只是两者所关联的能量不同。我们稍后会看到图表。然后 AES，这家伙是个好朋友，对吧？从名字就能看出来
+
+
+[2026-09-14 14:12:18]:
+ Only the last letter overlap was the previous two, right? So AES stands for Auger Electron Spectroscopy. So it's spectroscopy, right? So uh in terms of peradations, we differentiate into two different kind of peas, right? So one is the coffee, right? The other is microscopy. Microspeak is usually related to imaging ratings, right? you take a photo of something, the microscope. Right, spectroscopy is that you have a spectral. So we're spectral.
+只有最后一个字母重叠的是前两个，对吧？AES代表奥格电子光谱。所以是光谱学，对吧？所以，呃，在穿透方面，我们区分成两种豌豆，对吧？一种是咖啡，对吧？另一种是显微镜。显微学通常和成像评级有关，对吧？你给显微镜拍照。对，光谱学就是你有一个光谱。所以我们是光谱。
+
+
+[2026-09-14 14:12:47]:
+ So you have a plot, you have a y-axis readout, as a plotted as a function of x-axis. That's your variable. So we're dealing with spectroscopies always in this case. And what can the spectroscopes, right? This is actually hidden in part of it. So this is a photoelectron, photoelectron, but this is electron. So they overlap with in that classroom photos. So all these techniques are electron spectroscopies and intended to study the chemical information of the materials. Nonetheless, these two are similar, but they have different light photo sources. One is X-ray, the other is ultra-valid light.
+因此，你有一个图谱，一个 y 轴读数，作为 x 轴的函数绘制。这就是你的变量。在这种情况下，我们处理的始终是光谱学。那么光谱仪能做什么呢？实际上，这部分信息隐藏在内容中。这是光电子，光电子，但这是电子。它们与课堂照片重叠。因此，所有这些技术都是电子光谱学，旨在研究材料的化学信息。尽管如此，这两种技术相似，但它们使用不同的光源。一种是 X 射线，另一种是紫外光
+
+
+[2026-09-14 14:13:29]:
+ But then this guy, alright, he didn't really tell you what is the source. So as it started, I thought I'm allowed. Now J, we actually use electrons as the probe. Right? So that kind of, you know, putting it into the next topic, which will be electromicospy. We can use the electrons as the probes. But then it's on board because we're not looking at the microscopy, we're looking at the spectroscopy. But we're still w reading out the electrons, so that's why. Right, we're going to put it somewhere in between, alright, XPS, mu and PS, and the major part of the electromicroscope. Alright?
+但后来这个人，好吧，他其实并没有告诉你源头是什么。所以一开始，我以为我可以这么做。现在J，我们实际上用电子作为探针。右？所以，这也就是把它放到下一个话题里，也就是电磁学。我们可以用电子作为探针。但这也要被纳入，因为我们不是在看显微镜，而是在看光谱学。但我们仍然在读出电子，这就是原因。对，我们会把它放在介于XPS、μ和PS之间，以及电显微镜的主要部分之间。明白吗？
+
+
+[2026-09-14 14:14:06]:
+ Alright, so we talked about this a bit of nomenclatures. Right, XPS in history is known as electron spectroscopy for chemical analysis. So these two names actually browser are very important. That's why both of them were used today. The reason why for XPS is what? X-ray, photon electron spectroscopy, really tells you what is the probe and what is the readout. So you stand X3E, you read out the public factuals. So, all the mechanisms are heating in the tide already. But this one is telling you the application of this technique. So what is the use that for?
+好了，我们刚才谈过一些命名法。历史上，XPS被称为用于化学分析的电子谱。这两个名字其实非常重要。这就是为什么今天会用这两个名字。为什么要用XPS？X射线，也就是光子电子谱，真正告诉你什么是探针，什么是读数。你站在X3E上，读出公开事实。所以，所有机制已经在潮汐中加热。但这个机制告诉你这项技术的应用。那它有什么用？
+
+
+[2026-09-14 14:14:46]:
+ used for the chemical analysis of materials. Alright. And then both XPS and UPS belongs to the family of photohumission spectroscopies, right? Is yes or PES? There are actually other components of a relatively high importance that we didn't mention. Right? And the principal separated here, basically, you send the photon probe into the materials, and the materials will absorb that amount of energy. That will cause the excitation of a core electron of that piece of material to be ejected out of the materials. That we want to collect and measure is actually the kinetic energy of the electrons. Now we're going to talk about this mechanism again and again a few times until you feel comfortable.
+用于材料的化学分析。好的。然后，XPS 和 UPS 都属于光电子能谱家族，对吧？是 yes 还是 PES？实际上还有其他一些相对重要的组成部分我们没有提到。对吧？这里主要区分的是，基本上，你将光子探针发送到材料中，材料会吸收该能量。这将导致材料中某个部分的芯电子被激发并射出材料。我们想要收集和测量的是电子的动能。现在我们将再次讨论这个磁性几次，直到你感到舒适为止
+
+
+[2026-09-14 14:15:32]:
+ Right? Uh but then um in in in terms of uh the difference, right, as sort of mentioned, right, the difference between XPS, VPS is the light source, but LJA is a bit of the freshman. Now uh we're gonna move to the first topic, which is XP as coaches also important.
+右？呃，但接下来，嗯，关于区别，正如之前提到的，XPS的区别，VPS是光源，但LJA有点像新生。现在，呃，我们要进入第一个话题，也就是经验值作为教练也很重要。
+
+
+[2026-09-14 14:15:56]:
+ Uh mean uh the chemical analysis of materials. Traditionally I will follow the structure of this kind of introductions. for any of the techniques. We always start a bit on the background and the histories, right? And then followed by the instrumentation, namely, if you want to carry out this kind of calculations, this kind of measurement, what are the equipment requirements that you're going to fulfill? And follow my structural interpretations. Is what kind of information you can obtain by interpreting the SPS data, right? And that covers actually the so-called qualifications, right? Tell you who is there, what it's like, and followed by quantifications. So these are on the average.
+嗯，我是说材料的化学分析。传统上，我会遵循这类介绍的结构。对于任何技术，我们总是先从背景和历史开始，对吧？然后是仪器部分，也就是说，如果你想进行这类计算或测量，你需要满足哪些设备要求？接着是我的结构解读：通过解读SPS数据可以获得什么样的信息，对吧？这实际上涵盖了所谓的定性分析，对吧？告诉你有什么，它是什么样的，然后是定量分析。所以这些是一系列
+
+
+[2026-09-14 14:16:47]:
+ Much the sky is there, right? And last topic will be a bit touching on the chemical mappings, which is an imaging technique, but that is kind of imaging. Is very different from the microscopy. Look at these contexts apart. Right? So microscopy is pretty much you take a picture like you use a digital camera to capture a picture, right? So then this kind of masking or imaging is called the spectral imaging, right? As we see, we're still taking the spectrum and imaging is coming from a reconstruction of the spectrum data
+天空如此广阔，对吧？最后一个主题将简要涉及化学映射，这是一种成像技术，但确实属于成像范畴。它与显微镜技术截然不同。让我们分别来看这些概念。对吧？因此，显微镜基本上就像使用数码相机拍摄照片一样。而这种掩模或成像被称为光谱成像。正如我们所见，我们仍然是在获取光谱，而成像是从光谱数据重建而来的
+
+
+[2026-09-14 14:17:21]:
+ Right, the uh basics right uh that enable SPS is the very famous photo ignition effect or photoelectric effect. Right, uh so what happens is that you have a piece of metal, right, and we shed light on it, and surprisingly, electrons will be coming up from the surface of the metal, right? uh known as the photoelectric effect. So he'll be electric. Right? Right? It is kind of amazing, you know, uh who is the first one to be this experiment and he or she actually knows, right, I'm going to collect some electrons who I shed light on the surface, right? But this is no coincidence, alright? The first guy and the later guys all know this is actually correlated to the atomic physics. Now we have a clear picture of what is going on.
+好的，支持SPS的基础原理是著名的光电效应。也就是说，当你有一块金属，并用光照射它时，令人惊讶的是，电子会从金属表面逸出，这就是光电效应。这确实令人惊叹。那么，是谁首先进行了这个实验？他或她是否知道，当用光照射表面时，可以收集到一些电子？但这绝非巧合。第一位研究者以及后来的研究者都明白，这实际上与原子物理有关。现在，对于任何元素，我们对其内部发生的情况都有了清晰的认识
+
+
+[2026-09-14 14:18:10]:
+ for any of the elements you always start with a 24. And all these aftershock electrons are staying at different energy levels, orbiting around the atomic core. Another process we're going to experience many times is the so-called excitation and de-excitation process. So what about expectation? Is that you have incoming incident X-rays that shadow the Pacific drugs? Alright, who will take that amount of energy? The electrons, the poor electrons of these materials, that will absorb that amount of energy that will go up and the so-called excitation process. And where does it go? Well it will still very tough probably energy levels, right? Later on, we know it's past the Fermi level and even past the vacuum levels.
+对于任何元素，你总是从24开始。所有这些余震电子都停留在不同的能级，围绕原子核运行。我们还会多次经历另一个过程，就是所谓的激发和去激发过程。那么，期望值呢？是不是有入射X射线在太平洋药物附近出现？那么，谁会承受那么多能量？这些材料中较差的电子，会吸收这些能量，这些能量会上升，这就是所谓的激发过程。那能量去哪里了？嗯，它仍然会非常坚韧，可能是能级，对吧？后来，我们知道它已经超过费米能级，甚至超过了真空能级。
+
+
+[2026-09-14 14:19:00]:
+ So this electron becomes free. Is no longer attracted by atomic pore, it becomes a free electron coming out of the material and you will activate the material. So, this is Steve Photo, I think. So you're talking about XPS or John Devision, right? We cannot leave without these two guys, right? The first one is Albert Einstein, and the other is Isaac Baum, right? They have made very different contributions to the corresponding economy development. Of course. Uh I stand uh is uh sort of uh laid the foundation for this XPS right by deciphering the photoelectric effect from the physics point of view. Now he did a very fine experiment as we will see in a minute, right, and tell you the nature of the quantized level of atomic levels for these electrostoresiding and also the quantized nature of the microtones.
+所以这个电子变成了自由的。它不再被原子孔吸引，而是变成了从材料中释放出来的自由电子，你会激活这个材料。我想这是Steve Photo。所以你说的是XPS还是John Devision，对吧？我们不能离开这两个人，对吧？第一个是阿尔伯特·爱因斯坦，另一个是艾萨克·鲍姆，对吧？他们对相应的经济发展做出了截然不同的贡献。当然。呃，我站着，呃，呃，通过从物理角度解析光电效应，为这个XPS奠定了基础。他做了一个非常精细的实验，我们马上会看到，告诉你这些电储存包线中原子能级的量子化能级的性质，以及微分级的量子化特性。
+
+
+[2026-09-14 14:20:00]:
+ Right, and uh uh Kai is very different, right? He is not really focused on atomic physics, trying to use the synthetic process to understand the atomic belly what happens, right? He's dead. He has this smart idea that if I can measure these photo ejected electrons, that these electrons are actually characteristic of the specific element that I study. So that laid a foundation for the chemical analysis. And that's where he started. He allowed equipment of XPS. So both of them won Obama Price, one in 1921 and the other 16 years later. Right? So a bit the history and you will find it's quite interesting.
+对，呃，Kai就完全不同了，对吧？他其实并不专注于原子物理，试图用合成过程来理解原子核心发生了什么，对吧？他已经去世了。他有个聪明的想法，如果我能测量到这些光射电子，这些电子实际上就是我研究的特定元素的特征。这为化学分析奠定了基础。他就是从这里开始的。他允许使用XPS的设备。所以他们俩都赢得了奥巴马奖，一个是在1921年，另一个是在16年后。右？简单介绍一下历史，你会发现它相当有趣。
+
+
+[2026-09-14 14:20:48]:
+ Einstein is actually not the first one who carried out the photoelectric experiment, right? The first experiment or the first discovery of photoelectric effect was made by Hertz Wong, who is also a famous guy. But then what he did is based on a simple experimental setting like this. So here we have vacuum two, right? And through the co-workers window, you can distribute the ultra-wire wave lighting. The first experiment was not Dan was X-ray. Actually, done was the outrumi light passing through Puerto Pito and reaching this plate. So this plate is a metallic material. Alright? So, we actually have another spray facing made, and on the back of the two of them, we can apply a potential.
+爱因斯坦其实并不是第一个进行光电效应实验的人，对吧？首次实验或首次发现光电效应的是赫兹，他也是一位著名人物。但他所做的基于一个简单的实验装置，就像这样。这里我们有真空管，对吧？通过石英窗口，你可以引入紫外光照射。第一次实验实际上不是X射线，而是紫外光穿过锌板并到达这块金属板。所以这块板是金属材料。好的？实际上我们还有另一块相对放置的板，在两块板的背面，我们可以施加
+
+
+[2026-09-14 14:21:43]:
+ So, this part is serving as the cathode, and this one is serving as the anode. So we know that the charged particle will be accelerated towards the end though. Right, which is back out. Now though you know what happens, alright? So, the slide excite the electrons in the piece of metal, and these electrons will actually exit the surface of the materials and be accelerated towards the end. Now of course if you didn't have a block cube, so open the hole in the model and the electrons will be able to pad through the hole of the anode and eventually reach the detector. And there, you can count the number of electrons for this experiment. So, what Hertz found is that, alright, I shed light on it, I shed EV light on it, and this metal is going to emit electrons. So this is the discovery. Right.
+因此，这部分作为阴极，而这部分作为阳极。我们知道带电粒子会被加速朝向末端，也就是向外飞出。现在你知道会发生什么了，对吧？光照射金属片会激发其中的电子，这些电子实际上会从材料表面逸出，并被加速朝向末端。当然，如果没有那个方块遮挡，打开模型中的孔洞，电子就能穿过阳极的孔洞，最终到达探测器。在那里，你可以统计该实验中电子的数量。所以，赫兹发现的是：当我用紫外光照射它时，这种金属会发射电子。这就是这一发现
+
+
+[2026-09-14 14:22:37]:
+ Uh and then uh I expand further in there. So, actually, almost 20 years later, what he did is that he obviously had much better understanding of atomic physics, and he knows what it is to expect. So he did a refined photo emission experiment and started to explore the nature of this photo dynamic effect, which is the quantum mechanics. Alright, so let's see what is the clever experiment done by Einstein. Right. Now I have uh refigured the uh previous part a little bit. This is the same thing. So the setting of the experiments essentially very similar to what pears have, right? So you have a sample which is a cathode, right? and you have an anode facing it, right?
+嗯，然后我在那里进一步展开。所以，实际上，将近20年后，他所做的是，他显然对原子物理有了更好的理解，并且知道该期待什么。因此，他进行了一个改进的光电发射实验，开始探索这种光电效应的本质，也就是量子力学。好的，让我们来看看爱因斯坦所做的巧妙实验。现在我把前面的部分重新整理了一下。这是同样的内容。实验的设置本质上与佩尔斯的非常相似，对吧？你有一个作为阴极的样品，对吧？还有一个面对它的阳极，对吧
+
+
+[2026-09-14 14:23:23]:
+ Those are metals, right? So then, remember in the previous experiment, right? Now I have a more positive potential applied to the endo side so that electrons were accelerated towards the end. Now yeah, I'm a text experiment. Instead of attracting the electrons to the other end, he actually applied an opposite bias. Right? So what does that mean? That means he assumes these electrons who are coming on from the surface of materials actually already have certain amount of kinetic energy. we have the mosque. Right?
+那些是金属，对吧？那么，还记得之前的实验吗？现在我在内向侧施加了更正的电位，使电子在末端被加速。是的，我是一个文本实验。他没有把电子吸引到另一端，而是实际上施加了相反的偏压。右？那这意味着什么？这意味着他假设这些来自材料表面的电子实际上已经拥有一定的动能。我们有清真寺。右？
+
+
+[2026-09-14 14:24:06]:
+ So instead of making it move even faster, you want to slow it down. And you want to see how much the motivator can apply in order to stop them all. Right, so this experiment he did, and he found shed light on it. right, you have to apply negative potential to certain thresholds and at that time that you won't see any of the common electrons. So you stop them totally. So there's a threshold. And furthermore, what he found is that this threshold is only depending on the width of the light photons, but not on this intensity. So we can change the intensity of the light source, right? and they see the threshold is not changing. Although, what is how the ion current that we generated is actually different.
+因此，与其让它移动得更快，不如让它慢下来。你想看看需要施加多大的反向电压才能将它们全部阻止。对，他做了这个实验，并揭示了其中的原理。你需要在特定的阈值处施加负电位，此时你将看不到任何光电子。也就是说，你完全阻止了它们。所以存在一个阈值。此外，他发现这个阈值仅取决于入射光的频率，而与光的强度无关。我们可以改变光源的强度，对吧？并且发现阈值并没有改变。尽管我们产生的光电流实际上有所不同
+
+
+[2026-09-14 14:25:01]:
+ Alright? So that's the phenomenon these things. And then you would realize the experiment. Okay. So we're talking about uh a light as uh electromagnetic waves. Now we use workloads and intensity to describe it. These are two completely different physical quantities. Worth lens actually tells you, now they will know from a quantum mechanical point of view, the energy associated with the light photons. Intensity is a different thing, is a different measure. All right?
+明白吗？这就是这些现象。然后你就能实现这个实验。好的。我们说的是光，作为电磁波。现在我们用功荷和强度来描述它。这是两个完全不同的物理量。沃斯透镜实际上告诉你，从量子力学的角度来看，他们会知道光子相关的能量。强度是另一个东西，是另一种度量。明白吗？
+
+
+[2026-09-14 14:25:32]:
+ And what is that? The threshold energy or the threshold kinetic energy of these outcoming electrons is actually independent of the light intensity but dependent on the light photo energy. So that's the thing to be found. And then from there he realized the or he probably realized a long time ago the quantum nature of both micronose and also the atomic levels. Right, so go back to this bit of the history. After Einstein, there's a bunch of scientists who are physicists, right? Keep on studying the X-ray communication process and it lasts until the World War, First and Second World War. But then through these tens of years, there's not much real progress of, say, the mediation process because the theory is very well established by Einstein. And all of the data scientists are fo more or less focused on atomic physics, right, instead of the other things. So there is not much of a movement in terms of research.
+那是什么？这些射出电子的阈值能量或阈值动能实际上与光强无关，但依赖于光光能。这就是要找到的东西。然后他意识到，或者说他很早以前就意识到微鼻和原子能级的量子本质。好，回到这段历史。爱因斯坦之后，有一群科学家成为物理学家，对吧？继续研究X射线通信过程，这种研究一直持续到第一次和第二次世界大战。但在这几十年里，比如说中介过程的实际进展并不多，因为爱因斯坦已经非常确立了理论。所有数据科学家或多或少都专注于原子物理，对吧，而不是其他方面。所以在研究方面并没有太大进展。
+
+
+[2026-09-14 14:26:52]:
+ And the late part of the Second World War, Kai Sevan have this different idea. What he thinks about is that, okay, let's see Ice experiment. What he said is that these outgoing electrons may have different kinetic energies, but then there's a threshold that is the uh the largest kinetic energies, right, or the smallest kinetic energies. There's a threshold for that. Alright? So if that is the case, combined with the picture of atomic physics, right? What happens is that you have an atomic core in there, and you have a lot of electrons orbiting right outside. Now what you want to do is to excite these electron out, right? Now if these electrons have different kinetic energies, that kinetic energy is actually determined by what? It's by what?
+二战后期，凯·塞万有不同的想法。他的想法是，好吧，让我们看看冰的实验。他说这些释放电子可能拥有不同的动能，但有一个阈值，即最大的动能，或者最小的动能。这是一个阈值。明白吗？如果是这样，结合原子物理的图景，对吧？发生的情况是，你有一个原子核心，有很多电子在外面轨道运行。现在你想做的是激发这些电子，对吧？如果这些电子具有不同的动能，那么动能实际上是由什么决定的？是由什么决定的？
+
+
+[2026-09-14 14:27:43]:
+ It's basically determining kinetic energy, which is determined by the flight energy provided minus, subtracted by the amount of energy that you need to excite those electrons to somewhere else. Right? And let's see a block. Alright? And that block must be characteristic of the material itself. Right? Probably realized that, and he thought, well, maybe I can use that for material chemical analysis. So that serves as a signature of the element, right? I read that out, I can know who this is. Right?
+这基本上是在确定动能，而动能由提供的飞行能量减去激发电子到另一能级所需的能量来确定。对吧？我们来看一个块状物。好的？这个块状物必须是材料本身的特征。对吧？他可能意识到了这一点，于是想，也许我可以将其用于材料的化学分析。因此，它可作为元素的特征标识，对吧？当我读取该标识时，就能知道那里有什么元素，对吧
+
+
+[2026-09-14 14:28:26]:
+ So that's the idea about my sibam. And we need to spend the time to develop a machine that can read out the kinetic energy of the electrons. And that did too, about 30 years later, the first commercial XPS instrument that appeared, and are lost until today. So the nowadays, although there are a lot of instrumental instrumentation programs, right, we're still pretty much just the whole configuration developed by SIDAN. Alright, so now it's set. Right? Now, after the history, right, what I have to emphasize a little bit is the surface nature of XPS. Now XPS is definitely a surface terravisation technique, right? Now, we talked about something that you can technically measure the surface. Uh we wonder why.
+这就是我关于SIBAM的想法。我们需要花时间开发一台能够读取电子动能的机器。大约30年后，第一台商业化的XPS仪器也出现了，直到今天才失传。所以现在，虽然有很多仪器仪器程序，但我们基本上还是SIDAN开发的整个配置。好了，现在确定了。右？说完历史，我得稍微强调一下XPS的地表特性。XPS绝对是一种地表地球化技术，对吧？我们刚才谈到的是技术上可以测量地表的东西。呃，我们想知道为什么。
+
+
+[2026-09-14 14:29:18]:
+ wonder why. Why do you want to measure the surface? There could be only two reasons. Point is that your probing cannot go deep into the material. Right? And the other possible reason is that although the probe can go deep, but then the signal coming out from the deep cannot reach the surface. Right? So probably there's two reasons that the techniques become circuit techniques. Right? So now let's check it, right?
+不知道为什么。你为什么想测量表面？可能只有两个原因。关键是你的探测不能深入材料。右？另一个可能的原因是，虽然探测器可以深入，但从深海发出的信号无法到达水面。右？所以这些技术成为电路技术可能有两个原因。右？那现在我们来看看，对吧？
+
+
+[2026-09-14 14:29:44]:
+ So for XPS, what is the permit source? Xery. Right.
+那么对于XPS，许可证来源是什么？Xery。右。
+
+
+[2026-09-14 14:29:53]:
+ Can X riggle deep? Answer is to the answer of the channel. The answer go deep. Now remember the first the the the the surface invitation that we read out two years classes? I say surface refers to 20 nanometers to about 10 nanometers, that's a surface. Alright? If you're talking about 500 nanometers with two points, you're already getting to the bulk. Right? So that's surface.
+X能深沉吗？答案是通道的答案。答案很深。现在还记得我们两年课程中第一个表面邀请函吗？我说表面指的是20纳米到大约10纳米，那是一个表面。明白吗？如果你说的是500纳米，有两个点，你已经说到体积了。右？所以这只是表面现象。
+
+
+[2026-09-14 14:30:19]:
+ No. You're sure? You ever go to a hospital to take an x-ray? It only stays on five hundred elevators of your skin? Are you sure? Right yes. X-ray doesn't have a problem of deep penetration. And that's why you can go to hospital and take an x-ray. You can't freeze. Very deep.
+没有。你确定吗？你去医院拍过X光吗？它只会停留在你皮肤上五百个电梯上吗？你确定吗？对，是的。X光没有深入穿透的问题。这就是为什么你可以去医院拍X光。你不能冻僵。非常深。
+
+
+[2026-09-14 14:30:48]:
+ So the problem is proving it's not a problem. Then the problem must be lying in the signal that come out. Right?
+所以问题在于证明它不是问题。那么问题一定出在发出的信号里。右？
+
+
+[2026-09-14 14:31:01]:
+ So now we have to understand why we have not come off the process. You have first to go to a very important physical parameter describing this process known as the mean-free pass. But um pink fruit pass. Temperature that before? Yeah, we just mentioned that before for gas molecules, right? And now I'll just say it has not four gas molecules, but four electrons. That is the readout signal for it to attach. Right. So we prepared to just share some of our determination. Ask the metric has the S5 Q's.
+因此，现在我们必须理解为什么我们尚未脱离该过程。首先，你需要了解一个描述该过程的非常重要的物理参数，即平均自由程。但是嗯，粉红水果路径。之前的温度？是的，我们之前提到过，对于气体分子来说，对吧？现在我还要说，它不仅仅适用于气体分子，还适用于电子。这是其附着的读出信号。对。所以我们准备分享一些我们的确定结果。询问矩阵，我们得到线索
+
+
+[2026-09-14 14:31:32]:
+ So that is what that means, right? The distance an electron travels in between two consecutive collisions. That means, if I'm an electron, I knock with her, right, then at that point is that we pound, I travel, or I travel to certain distance, I knock with him, right? So that's the distance that traveled that we estimate as of the electrons. Alright? So uh who is she and uh he in a creation process? Who am I playing with? Just surface and the surface of the material. Yeah, so you are actually collating with the sounds inside your material. So that's how we find the method has also deconnections. Right?
+所以这就是它的意思，对吧？电子在两次连续碰撞之间走过的距离。也就是说，如果我是一个电子，我撞到了她，对吧，然后在那一点上，我们撞击，我移动，或者我移动一定的距离，我撞到了他，对吧？所以我们估计的电子所走过的距离就是那个。好吧？那么，在创建过程中，“她”和“他”是谁？我在和谁玩？只是表面和材料的表面。是的，所以你实际上是在与材料内部的声子碰撞。这就是我们找到一种方法的方式，该方法也涉及去相关作用
+
+
+[2026-09-14 14:32:24]:
+ Now with that, we try to first appreciate what's the behavior of the MIPRIPAS a little bit. Now the motor paths of the electrons actually depends on both the kinetic energy of the electron itself, how fast it travels, and also the nature of the materials, right, which is the stopping power. Alright, so that kind of making sense. And then if you plot all of the materials exam you see uh the matrix path right uh plotted as a function of the electron kinetic energy follows is a universal uh U shape. To say, right, when the kinetic energy of electrons are very small, you have very long afraid paths. Then it increases. And after that, right, you have a minimum. Then, when you further increase the kinetic energy, the meter passes away. Now let's try to appreciate why is life so. Why is that so?
+现在，我们首先来理解一下 MIPRIPAS 的行为。电子的平均自由程实际上取决于电子本身的动能（即其运动速度）以及材料的性质（即阻止本领）。这听起来是合理的。如果你绘制所有材料中平均自由程随电子动能变化的曲线，会发现它呈现出一个通用的 U 形。也就是说，当电子动能很小时，平均自由程很长；随着动能增加，平均自由程减小并达到最小值；之后，若进一步增加动能，平均自由程又会增大。现在让我们试着理解为什么会这样。
+
+
+[2026-09-14 14:33:30]:
+ So the optimum prepass basically tells you how likely this electron is to collect into the atoms of the materials. how likely an interaction is going to occur
+所以最优预传说基本上告诉你电子聚集到材料原子中的概率。相互作用发生的可能性
+
+
+[2026-09-14 14:33:44]:
+ Good life so. Hello energy part. The mifrepax is very low. is what? There are not much collisions. Or scatterings. Alright? This is because in order to have elasticity, right, you have scattering collections. Actually, two different types of scatterings. One is called elastic scattering and the other is called E-Elast scattering.
+那就好。你好，能量部分。mifrepax很低。什么？碰撞不多。或者散射。明白吗？这是因为为了有弹性，你必须有散射集合。实际上，有两种不同类型的散射。一种叫弹性散射，另一种叫E-Elast散射。
+
+
+[2026-09-14 14:34:23]:
+ Well elastic gathering are always the same. The ink elastic gaping process will cause electrons to boost the materials. And the cross-section of Elastic N is extremely small while the electrons are of very low energy. The reason is very simple from that. Order to have the electron pass its own energy to you, right? You have to be able to take this amount of energy. And uh why do you want to take this amount of energy? That will cause the excitation of the material electrons to the upper levels. This is the only process you can take an incident electronic. And in new materials, you have different energy levels.
+弹性聚集总是一样的。墨水弹性间隙过程会让电子提升材料。弹性氮的截面极小，而电子能量非常低。原因很简单。电子传递自己的能量给你，对吧？你必须能够承受这个能量。那你为什么想接收这个能量？这会导致材料电子被激发到高能级。这是唯一能让入射电子的过程。在新材料中，你会有不同的能级。
+
+
+[2026-09-14 14:35:07]:
+ In order to have an electron to be excited to upper levels, you have to satisfy a certain amount of energy. If the energy provided is too low, you cannot take it because it doesn't work. And that is exactly the case when you have extremely low kinetic energy of the electrons. They cannot be taken in the elastic process, elastic process. So you can go to the marketplace. And that's the interface that you can use.
+为了让电子被激发到高能级，你必须满足一定的能量。如果提供的能量太低，你就无法接受，因为它不起作用。而当电子动能极低时，情况正是如此。它们无法在弹性过程中被带走。所以你可以去市场。这就是你可以使用的界面。
+
+
+[2026-09-14 14:35:38]:
+ So you have potentials in the stocking key. So, if I'm running at extremely fast speed, it's likely I'm going to get through without being directed at the rough. It's just because I'm traveling too fast, right? So this is the other end. So as both end, right, the mean free path of electrons can be sort of long and the shorter part is here. And that is the range actually SPS operates have. Alright, now was this clear? Uh we basically have this understanding. So uh we are shedding X-rays on it, then excite electrons from different big levels uh of sorry depth different depths of the materials. But then only the surface electrons, right, can come out.
+因此，在势垒中你拥有势能。所以，如果以极高的速度运行，很可能在不被散射到粗糙表面的情况下穿过。这仅仅是因为运动速度太快，对吧？这是另一端的情况。所以在两端，电子的平均自由程可以相对较长，而较短的部分在这里。这正是 SPS 实际工作的范围。好了，现在清楚了吗？嗯，我们基本上有了这样的理解。所以我们用 X 射线照射它，然后从材料不同深度（抱歉，是不同能级）激发出电子。但只有表面电子能够逸出，那么如果下面的电子
+
+
+[2026-09-14 14:36:31]:
+ Then, if done, the electron is going to be somehow consumed because it collects too many times the loss of the energy. So this is gonna happen. Right? Now, if I consider at the top, now I'm collecting all these outcoming electrons as the total intensity. So I'm counting the electrons coming from the first layer to the very bottom of the materials, counting them all. So that should be the total intensity of the electrons that collect. And that is going to decay exponentially with the depths that you go down. So here we said, okay, have been shown theoretically and then molecular simulations, right? Then the intensity of the eject electrons through a median follows an exponential decay function, which is described here. Right?
+如果真的这么做，电子会以某种方式被消耗掉，因为它收集的能量损失是它损失的数倍。所以这种情况会发生。右？现在，如果我在顶部考虑，我收集所有这些释放的电子作为总强度。我从材料的第一层到最底层的电子数，全部计数。这应该是收集电子的总强度。随着深度下降，这些强度会呈指数衰减。所以我们说，好，已经在理论上证明了，然后通过分子模拟，对吧？然后，通过中位数的电子喷射强度遵循指数衰变函数，这里描述了。右？
+
+
+[2026-09-14 14:37:19]:
+ So basically you have the lambda here on the denominator. So the theta is actually a geometrical correction. See, if you consider perpendicular escaping, you go on this way. But in most cases, electrons can go sideways. So, they actually go a bit longer than the perpendicular pathway. So, you have those terms introduced. But in a worst scenario, okay, I always forget about this. For example, if c ta equals to zero, this term becomes one. So, you go back to the perpendicular case, most the simplest case. Right?
+因此，基本上分母中有一个 lambda。所以 theta 实际上是一个几何修正项。你看，如果考虑垂直逃逸，路径是这样的。但在大多数情况下，电子可以横向移动。因此，它们实际走过的路径比垂直路径稍长一些。所以引入了这些项。但在最坏的情况下，好吧，我总是忘记这一点。例如，如果 cos(theta) 等于零，这一项就变成一。于是你回到了垂直情况，也就是最简单的情况
+
+
+[2026-09-14 14:37:53]:
+ Now we can have a list. We can have some estimations. So, the estimation is that you could solve this, which is easy to solve, by considering different depths, different z-values into the depths of the material. So we have some simple estimations, right? So taking a depth one leptota, one times the mean free pass of electrons from the surface, right? Then the ratio of the intensity from this top surface layer over the entire intensity of all of the electrons collected can be calculated, and it takes up about 63% of the total intensity. two of the top surface layers. Now that takes about 86%. Then, if you consider one layer develop, it contributes to about altogether 95% of the total estimation. Lab is what?
+现在我们可以有一个列表。我们可以有一些估计值。所以，估计是可以通过考虑材料深度的不同深度、不同的z值来解决这个问题，这很容易解决。所以我们有一些简单的估计，对吧？所以取一个深度为轻托塔，乘以表面电子的平均自由通过量，对吗？然后可以计算出这层表面的强度与所有收集到的所有电子强度的比值，这大约占总强度的63%。两层顶层表面。这大约占86%。然后，如果你考虑一层显影，它总共贡献了大约95%的估计。实验室是什么？
+
+
+[2026-09-14 14:38:58]:
+ That means you're looking at the very top surface layer, one layer down, another layer down. Alright? So, only three lamina already gives you almost 100% of a total intensity. Though you have a bit more electrons coming from the bottom ball, they're only taking about a few percent and it can be ignored. Right? So the majority of the electrons are actually coming from the top layers, top three lambdas. Let me say so how thick is the three lambda? because lambda is with three pairs of electrons. Then you can go to the chart that I gave in the previous slides. DC, so if you consider this range, right, then the meeting pass is about 5 to 10 angstroms, right?
+这意味着你看到的是最顶层的表面层，向下一层，再往下一层。明白吗？所以，只有三层板已经能提供几乎100%的总强度。虽然底部的电子稍微多一点，但它们只占了大约几个百分比，可以忽略不计。右？所以大多数电子实际上来自顶层，也就是最上面的三个λ。那我说一下，这三个λ有多厚？因为lambda有三对电子。然后你可以去我之前给的图表。直流，如果你考虑这个范围，对吧，会面通道大约是5到10埃，对吧？
+
+
+[2026-09-14 14:39:46]:
+ So three of them will be 15 to 30 antrons. That is 1.5 to 3 millimeters like dash. And that is why we say XPS is definitely a surface calculation technique because it can only access a few nanometers below the surface. Okay
+所以其中三个会是15到30个安特隆。也就是1.5到3毫米，就像dash一样。这就是为什么我们说XPS绝对是一种表面计算技术，因为它只能访问地表以下几纳米的深度。好的
+
+
+[2026-09-14 14:40:08]:
+ Any questions and problems through this part? If not, we're going to move into the next topic of instrumentation. Alright, so use motion to have to go a bit faster. Alright, so this slide should just show you uh a typical research grade of XPS generally fund uh in the research labs like in specific departments for uh XPS that is used for industrial purpose. Right. Looks more organized. Alright. So the typical component in the XPS right is marked in this chart, right? Though you can have actually a lot of the additional parts, but the major parts uh it's very straightforward. That's why I like the name of XPS.
+这部分还有什么问题吗？如果没有，我们就进入下一个主题：仪器。好的，由于时间关系，我们需要加快一点进度。这张幻灯片展示的是典型的科研级XPS设备，通常可以在研究实验室中找到，例如专门用于工业用途的XPS部门。看起来更加井然有序。好的。因此，XPS的典型组件已在图中列出。虽然实际上可以有很多附加部件，但主要部件非常直观。这就是我喜欢XPS这个名字的原因
+
+
+[2026-09-14 14:40:49]:
+ So X-ray, you don't like it. You send X-ray and you collect the motivation. You only need two basic fundamental pieces. One is you can create X-ray, and the other is there's something that can help you to collect the full electron. That's all. So we're going to look at the two of them. Right? X-ray source first, right? But that refers to how X-ray can be generated. Right?
+所以X射线，你不喜欢它。你发送X射线，收集动机。你只需要两个基本要素。一是你可以制造X射线，另一个是有东西能帮助你收集完整的电子。仅此而已。所以我们要看看这两者。右？先用X射线源，对吧？但那指的是X射线的产生方式。右？
+
+
+[2026-09-14 14:41:15]:
+ Now note, in this part, I in the circle actually covers two pieces of equipment. One is called a deal and not XR source, so X resource, that's okay. But here, on bottom of it, we have something called X-ray monochromator. So what is Malakravisa? Her reading is a Skinnish name. A hormonal means single. Alright? Chrome is a batting root of colour. Right. So single colour, that means single message, right?
+注意，在这部分，我圈子里实际上涵盖了两件设备。其中一件叫做交易，不是XR源，所以X资源，没问题。但在最底层，我们有一种叫做X射线单色仪的东西。那Malakravisa是什么？她的占卜是斯金尼什语的名字。激素指单身。明白吗？铬是颜色的根部。右。所以单一颜色，就是单一信息，对吧？
+
+
+[2026-09-14 14:41:44]:
+ So one null parameter means uh you're going to reduce the width of this uh x-ray light photos in terms of the energy. So making that right form of sensitization. Right? Now, to understand how we're going to create x-rays, so we have to first understand where is x-ray in the full spectrum. Now, as you start from the length scale of, say, a thousand meters down to 10 to the minus 12, so meta, right, this weight sort of went through a few times, and you can see different objects are located at different length scales. But here what I cared about are not objects, but electromagnetic waves, right? So, X-ray or any of the lights belongs to this range, electromagnetic waves. So we should say we have the width lens, right? And how about the weapons in the a thousand meter to meter scale? That's the radio waves, and they're followed by microwaves, 10 to the minus 2 to 10 to the minus 4.
+所以有一个零参数意味着，呃，你会减少这些X射线照片的能量宽度。所以，要做出正确的敏化形式。右？现在，要理解我们如何制造X射线，首先必须弄清楚X射线在全光谱中的位置。现在，从长度尺度开始，比如说，从一千米到10的负十二次方，也就是说，元值，这个重量经过了几次，你可以看到不同的物体在不同的长度尺度上分布。但我关心的不是物体，而是电磁波，对吧？所以，X射线或其他任何光都属于这个范围，电磁波。所以我们应该说我们有宽度透镜，对吧？那千米到米尺度的武器呢？那是无线电波，之后是微波，微波是10的负2到10的负4次方。
+
+
+[2026-09-14 14:42:53]:
+ And then this range is something that we're quite familiar with because that powers from the infrared to ultraviolet with a possible light of range really powers from 400 to 700 nanometers in the spectrum. And then, if you go down to even shorter lymph lengths, you enter the regime of axillase, first the soft axillase, followed by hard axillase. And below that, you have the gamma rays. So that's the full spectrum. And of course you can use other axes to describe the same phenomenon of electromagnetic waves. For example, you can use frequencies instead of a wavelength, and that also corresponds to energy levels. Now uh just for uh uh sort of uh uh common sense pit of things, you have to have the idea the visible light range, right, in terms of the energies really corresponding to a few electron volts. Alright? The x-rays are in this range. So you have anywhere from 10 to the second to about 10 to the fifth of the electrovolts, being two to three uh two to five order of magnitudes higher than that of a visible light.
+然后这个范围是我们相当熟悉的，因为它涵盖了从红外到紫外的光谱，而可见光的实际波长范围在光谱中为400至700纳米。接着，如果波长进一步变短，你就进入了X射线的领域，首先是软X射线，然后是硬X射线。再往下就是伽马射线。这就是完整的光谱。当然，你也可以使用其他坐标轴来描述电磁波这一相同现象。例如，你可以用频率代替波长，这也对应于能级。嗯，为了建立一些常识性的概念，你需要知道可见光范围对应的能量实际上只有几个电子伏特。对吧？X射线处于这个范围内。因此，其能量大约在10的2次方到10的5次方电子伏特之间，比可见光的能量高出两到三个数量级。
+
+
+[2026-09-14 14:44:08]:
+ So, X-rays are, in terms of light volumes, a very energetic particles. Now, how X-rays are generated? Ah Xeroz are generated. X-rays in my photons. Right? So, the generation actually follows the general picture of excitation and de-excitation. Now we've mentioned a lot about excitation before. Excitation means electron materials will acquire a certain amount of energy and be excited to somewhere up in the exciting upper level or be ejected out of the material. So this is an excitation process. But the consequence of the excitation process is that we create a hole, a full hole in the materials, because materials are long.
+所以，X射线在光体积上是一种非常高能的粒子。那么，X射线是如何产生的？啊，X射线是被产生的。X射线是我的光子中的。右？所以，生成过程实际上遵循激发和去激发的一般图景。我们之前已经提到了很多关于激发的话题。激发意味着电子材料会获得一定的能量，并被激发到激发能的上层，或者被抛出材料。这就是一个激发过程。但激发过程的结果是我们在材料中形成一个空穴，一个完整的空洞，因为材料很长。
+
+
+[2026-09-14 14:44:54]:
+ And the whole is an abstract of a positive transform article seeing data. is empty. Right? And this is excited state of the materials and is very unstable. And unstable in a way, any of the electrons that are sitting above, right, will be able to see this hole. And knowing that the energy of the whole system is high. All of these electrons are eager to jump back into the hole and fill it up. And this is called the D E sensation. Right? Excitation process.
+整体是正变换文章的摘要，数据。是空的。右？这是材料的激发态，非常不稳定。而且在某种程度上不稳定，任何位于上方的电子都能看到这个空穴。而且知道整个系统的能量很高。所有这些电子都渴望跳回空穴，把它填满。这被称为D-E感觉。右？激发过程。
+
+
+[2026-09-14 14:45:33]:
+ So if excitation process will take up energy, the de-excitation process is the opposite. Right. And if that energy given out happened to fall in the range of X-ray, well we said, well, if it's fall in the visible light range, I will have visible light. Well that's true. That's what it would be ethics. Or electrical in essence. Right. So that's how X-rays are generated basically. He said you create a coho, then the outer shell electrons will see it and jump back in it and during this process giving out the X-ray light photons. Right?
+所以如果激发过程会消耗能量，那么去激发过程则相反。右。如果释放的能量恰好落在X射线范围内，那么我们说，如果它落在可见光范围内，我就会有可见光。这确实如此。这就是伦理学的意义。或者说，本质上是电气的。右。所以这就是X射线的生成过程。他说你制造了一层银，然后外层电子会看到它并跳回去，在这个过程中释放出X射线光子。右？
+
+
+[2026-09-14 14:46:10]:
+ So that's where you generate. Right? So, if you look at atomic structures of materials, and here is what you have, right? So you have starting from the p levels, L levels, N levels, right? So, K-line of X-ray is defined, this name is given by the final ending position of the C electrons, or where the whole electrons were first generated. But then this K lines can really be composed of the electron jumping from the L levels back to the K levels or N levels back to the K levels. So you actually can have a lot of x-ray lines due to the incitation process. A lot of X-ray lines means these electrons are actually seen at different energy levels, right? So the extra energy, right, that are included in the whole branch, actually it's not a single energy. covers a few for depending on what you have in there.
+所以你就是在那里生成的。右？所以，如果你看材料的原子结构，你得到的就是这样，对吧？所以你有从p能级、L能级、N能级开始，对吧？所以，X射线的K线定义了，这个名称是由C电子的最终终点位置命名的，也就是整个电子最初生成的位置。但这些K线实际上可以由电子从L能级跳回K能级，或者N能级跳回K能级组成。所以实际上，由于激发过程，你可以有许多X射线线。大量的X射线线意味着这些电子实际上在不同的能级被观察到，对吧？所以，包含在整个分支中的额外能量，实际上并不是单一的能量。这涵盖了一些，具体取决于你所拥有的内容。
+
+
+[2026-09-14 14:47:10]:
+ Alright? So, X-ray, once generated from any type of material, is not monochromatic. Right? So, how the X-ray is generated in terms of instrumentation, very straightforward, you have an X-ray gun, right, or X-ray source, right? It's plated with a two different materials, and you commonly is aluminum and not magnesium, right? And the way to generate x-rays, as that, you need the excitation process, followed by the excitation that use x-ray. So who excited this piece of aluminum or magnesium? Electrons generated from a hot filament. Well, from the previous instrumentation of the vacuum system, we just say for anything, the filament to make it hot enough, or you make electrons. Here we're using the same principles.
+好的？那么，X射线一旦从任何类型的材料中产生，就不是单色的。对吧？因此，就仪器而言，X射线是如何产生的，非常直接：你有一个X射线管，或者说X射线源，对吧？它镀有两种不同的材料，通常使用的是铝而不是镁，对吧？而产生X射线的方式是，你需要激发过程，随后利用被激发的X射线。那么是谁激发了这块铝或镁呢？是由热灯丝产生的电子。正如我们之前讨论真空系统时所说的那样，对于任何情况，都需要将灯丝加热到足够高的温度以发射电子。这里我们使用的是同样的原理
+
+
+[2026-09-14 14:47:58]:
+ So you have hot electrons generated. Electrons will be accelerated towards the surface of the aluminum or magnesium, and that will eject heat on it and eject cause the excitation of these materials. In citation, bookie bot X-rays are coming from the algorithm with the CPU front. Alright, uh well uh there are a few things we'll have to care about. Now what is uh what kind of materials we can choose. See, if this is an excitation, a de-excitation process, in principle, any materials can give X-ray lines, which is true. But then uh commonly for actual source you only have aluminum and magnesium. The reason why is that there are a few things we have to consider, right, what to choose. Now, what is the energy associated with this X-ray mind? You don't want it to be too low because what's the purpose of using XPS is that you send X-rays as the excitation source to probe the materials.
+所以你会生成高温电子。电子会被加速到铝或镁的表面，这会在表面喷射热量，从而引发这些材料的激发。引用中，博彩机器人的X射线来自CPU前端的算法。好的，呃，有几件事我们需要注意。那么，我们可以选择什么样的材料呢？你看，如果这是一个激发过程，原则上任何材料都能产生X射线线，这是真的。但通常对于实际源来说，只有铝和镁。原因是我们必须考虑一些因素，对吧，选择什么。那么，这种X射线思维所关联的能量是多少？你不希望它太低，因为使用XPS的目的是通过X射线作为激发源来探测材料。
+
+
+[2026-09-14 14:49:01]:
+ you want x-ray to kick off the photoelectrons. If this energy is too low, you cannot do it. Right? Do you want it to have enough, high enough energies? Now the other thing is that I said, well, these X-ray lines are of different combinations of different engine levels. So it's not they are not monochromatic, right? Then there will be a print of the energy that we are included. Now, in the later XPS analysis, you will wish to have better energy resolution in order to differentiate what other elements are in there. So, energy resolution is a concern in this sense, right? You want the initial width of these X-rays to be as narrow as possible so that you have a higher energy resolution from the source itself originally.
+你希望X射线能够激发出光电子。如果能量太低，就无法做到这一点，对吧？你是否希望它具有足够高的能量？另外一点是，我之前提到，这些X射线谱线来自不同能级组合的跃迁。因此它们并非单色光，对吧？那么所涉及的能量就会存在一定的展宽。在后续的XPS分析中，你希望具有更好的能量分辨率，以便区分其中存在的其他元素。因此，从这个意义上说，能量分辨率是一个需要考虑的问题，对吧？你希望这些X射线的初始线宽尽可能窄，这样光源本身就能提供更高的能量分辨率
+
+
+[2026-09-14 14:49:53]:
+ But in this sense, you look at the table, you will see, well, magnesium and aluminum is probably the best choice. and that's how um they are chosen. So, talking about this discrete x-ray lines, we also have to mention a bit of continuum x-rays, which is known as the Preface-Trolla effect. So, what it does is that if a charged particle in general, not necessarily electrons, but in this case these electrons are deaccelerated during its motion, it will give out a continuum range of X-rays or broadband X-rays, right? And they have a feature for this Bergstrelang emission is that if the incident electrons are of high energy originally, you would intend to have more intense Bruns Trelong effect, giving you a continuous band of X-rays with the energy also blue-shifted to higher frequencies. So that's the Bruns-Trilon effect. Right. So what's the consequence of these features of the expert source and the from strong effect? It's shown here. So this is a plot of the x-ray that are generated, right?
+但从这个角度看，你会发现镁和铝可能是最好的选择。这就是它们的选择方式。说到这些离散的X射线线，我们还得提到一些连续X射线，这被称为前言-巨魔效应。它的作用是，如果带电粒子一般来说，不一定是电子，但在这里，这些电子在运动过程中被去加速，它会发出连续范围的X射线或宽带X射线，对吗？它们在Bergsrelang发射中有一个特点，如果入射电子本身能量很高，你会设计出更强烈的Brun Trelong效应，从而产生连续的X射线带，同时能量也蓝移到更高频率。这就是Bruns-Trilon效应。右。那么，专家光源和强效应的这些特征会带来什么后果？这里展示了。这是生成的X光图，对吗？
+
+
+[2026-09-14 14:51:08]:
+ The y-axis is the intensity, the x-axis is this photo energy. Will see a very nice narrow pit sits like what you wish. But this is the uh plotted and the linear scale. Then you begin to plot it uh uh alternatively with the logarithm scale, and you will see wow, at the bottom you have a huge background uh coming from the Rex Trouland effect, and also uh uh the root part is a bit wide, right? You have X-rays coming with different energies in. Right? And that has to bring the topic of uh model parameterization A. That means I don't want an X-ray source with a broadband of X-ray energies. at one with single energy. But then how to do that?
+纵轴为强度，横轴为光子能量。你会看到一个非常漂亮的窄峰，正如你所期望的那样。但这是在绘制线性标度图时的情形。然后，如果你改用对数标度来绘制，你会发现哇，在底部有一个巨大的背景噪声，这来自于瑞利散射效应，而且峰根部分也显得比较宽，对吧？这是因为入射的X射线具有不同的能量。这就引出了模型参数化A的主题。也就是说，我不希望X射线源具有宽带X射线能量谱，我希望的是单一能量的
+
+
+[2026-09-14 14:51:58]:
+ Well, in this lecture we're going to have a lot of the patients doing this energy filtering things, right, of different particles. Is the first task, right? So X-ray block filters, right? I don't want these photons to have different energies. Only want to choose one branch of it, right, with the fixed event. Now how are they going to do that? Later on, we'll also do the same thing through electrons actually. Right. But then, because of the nature of the particles, we have to treat them slightly different. For X-rays, we're going to rely on very cluster theory of diffraction.
+嗯，在这节课中，我们将让许多患者进行这种能量过滤操作，对吧，针对不同的粒子。这是第一个任务，对吧？所以是X射线块状滤过器，对吧？我不希望这些光子具有不同的能量。只想选择其中一个分支，对吧，具有固定的事件。那么他们将如何实现这一点呢？稍后，我们也将对电子做同样的事情。实际上，对吧。但是，由于粒子的性质，我们必须稍微不同地处理它们。对于X射线，我们将依靠非常簇衍射理论
+
+
+[2026-09-14 14:52:42]:
+ So I trust every one of you have had the blood infection before. You have one crap deduction in your early school years. So brave lane track diffraction refers to the thing that you have a piece of crystal, right? And this crystal atopic planes serving as the grade for the reflection of the light waves. In this case, it's the X-ray. So, what happens is that if you consider the incident beams shedding on different layers of the atomic planes and being reflected, if you consider this pathway and that pathway, and you will see the path difference of these two are actually this part plus this part. So both of them travel to here, this one travels longer, and both of them travel this long, but this one travels longer. So you ended up path. the path different between these two paths. The geometrical angle for the path defines two times d.
+所以我相信你们每个人都经历过血液感染。你们在上学早期只有一次糟糕的扣除。所以勇敢的轨道绕射指的是你有一块晶体，对吧？而这些晶体特应面作为光波反射的分级。在这里，就是X射线。所以，如果你考虑入射光束在原子平面不同层面上脱落并被反射，考虑这条路径和那条路径，你会看到这两者的路径差实际上是这部分加上这部分。所以它们都走到这里，这部分走得更远，两者都走这么长，但这段更长。所以你最终得出了路径。这两条路径之间的路径不同。路径的几何角度定义了两倍d。
+
+
+[2026-09-14 14:53:48]:
+ T is the spacing in between the two atomic layers, time sine theta. theta is the scanning angle of the circumspection process. 2 d sine theta equals to the integer numbers of the wavelengths of your x-ray. That is the repetition satisfied. You're going to have constructive interference so that you get strong beams in there. Right? But at other conditions, you have destructive interference and you have none. Now, given that you choose a crucial system with a fixed ID, right? Now, if we get to collect the beams at a specific scattering angle, only one of the laminas will satisfy this requirement. That's how you can just create a comma from exercisation. Alright?
+T 是两层原子层之间的间距，d sinθ。θ 是扫描过程中的掠射角。2 d sinθ 等于 X 射线波长的整数倍。这满足了布拉格条件。此时会发生相长干涉，从而产生强衍射束。对吧？但在其他条件下，会发生相消干涉，因此没有信号。现在，假设你选择一个具有固定晶面间距的系统，对吧？如果我们只在特定的散射角收集衍射束，那么只有一组晶面会满足这一要求。这就是如何实现晶体取向分析的方法
+
+
+[2026-09-14 14:54:40]:
+ So we think three personality functions at two featuring system to achieve the non-localization. The things are not that straightforward is because when you think about you have some space coming, so they may not be coming from the same angles, right? So when you collect them, they are scattered all around. There's no way you can collect the fold in the X-ray E. Right? So, to solve this problem, people have to create this so-called rolling spheres, rolling circles, which is a specific geometrical trick that plays to enable the desired focused X-ray generations. So the first trick, right, is to use a crystal that is not flat, but bending. So this is a very good question.
+因此，我们认为通过两个特征系统中的三种人格功能来实现非局域化。事情并不那么简单，因为当你思考时，会有一些空间出现，它们可能并非来自相同的角度，对吧？所以当你收集它们时，它们是分散在各处的。你无法将X射线E聚焦起来，对吧？因此，为了解决这个问题，人们不得不创造所谓的滚动球、滚动圆，这是一种特定的几何技巧，旨在实现所需的聚焦X射线生成。第一个技巧是使用一个不是平坦而是弯曲的晶体。这是一个非常好的问题。凭借其曲率来释放
+
+
+[2026-09-14 14:55:28]:
+ With this curvature to radius of two. Now, the construction of Rawlin's circle is that you use a half by 2R, which is the R, as the radius, and you get to draw a circle tangential to the mid-plane or mid-position of the curved crystal, right? So that you draw it. Now, when this geometrical configuration is achieved, by putting the X-ray source on one side and the detector on the other side somewhere on the Roland Circle, you will be able to use all of the X-rays that are emitted and collect them in a focused manner. And the reason why is because you have a curved field crystal. So the planes are here and here or at different angles. So, you can maintain the scattering angle the same way all the time. Right? So you get to have the homework associated name, Mr. The geometry configurations to figure it out. Why or less that probably is like so?
+利用此曲率半径为2。现在，罗兰圆的构造方法是使用半圆，其半径为2R（即R），并绘制一个与弯曲晶体的中平面或中间位置相切的圆，对吧？因此你绘制出该圆。当实现这种几何配置时，将X射线源置于一侧，并将探测器置于另一侧的罗兰圆上某处，你就能以聚焦方式收集所有发射出的X射线。原因在于你使用的是弯曲场晶体。因此，晶面位于此处和彼处，或以不同角度排列。所以，你可以始终保持散射角相同，对吧？因此，你需要完成与名称相关的作业，先生，通过几何配置来弄清楚原因，或者更可能的是像
+
+
+[2026-09-14 14:56:26]:
+ Right. And then after the geometrical explanation, there's a bit of things to explain: is that to have a crystal grade, you always have to narrow down with a certain material. And the materials turns to be works well, right? Well, for one reason, it's the first crystal have the right D, and that gives you about 70 grades as a scattering angle, right? The detectors in the source. And the other thing is the most important is that for a very thin piece of course, it can be bent. And here, in the rollout circle, you need a band curst. Alright? So that would be satisfied, of course. And that solved the problem of abstraction monopoly, right?
+右。在几何解释之后，还有一些需要解释的地方：要确定晶体等级，必须始终用某种材料来缩小范围。材料转成的效果很好，对吧？原因之一是，第一块晶体有正确的D，这样你大约有70个散射角的品位，对吧？就是源中的探测器。还有一点最重要的是，对于非常薄的碎片，当然可以弯曲。在这里，在展开圆圈里，你需要一个带状曲线。明白吗？这样当然可以满足。这解决了抽象垄断的问题，对吧？
+
+
+[2026-09-14 14:57:10]:
+ And uh the benefit brought is that you have a narrow pickport of the X-rays, you have reduced the background, and also because of that in the XPS spectrum switcher collected, you have low second peaks where it goes. And the following slides show you one of the examples. So this is the XPS collected without a futury or amount of progression. You have the secular peaks, you have a lot of mixed things going on, right? Quite confusing, but then when you have the future source, right, all things become stagnant. Alright, uh well the next part, I think I'm just going to get started a little bit. We don't have time to finish it up. The next part is also very important. Why? because we just talked about the x-ray.
+嗯，带来的好处是X射线的单色器窗口更窄，背景噪声降低，而且由于这一点，在采集的XPS谱图中，次峰强度较低。接下来的幻灯片将展示一个示例。这是未使用未来源或某种进展时采集的XPS谱图。你会看到主峰，以及许多混合信号，对吧？相当混乱，但当你使用未来源时，一切都会变得清晰稳定。好的，嗯，下一部分，我想我要稍微开始讲一下了。我们没有时间把它全部完成。下一部分也非常重要。为什么？因为我们刚刚谈到
+
+
+[2026-09-14 14:58:00]:
+ you shed x-ray on the sample. And the next process is the photo electron generation. And what you're going to collect is for the lactos. Very important thing is how are you going to collect these double data? What are the things to measure? Well, if you're only going to cut them one by one, both hers and I stand have done that before. Right? So then uh Sibal would be useful. All right? So you're not you're not going to do that.
+你对样品进行了X射线照射。下一个过程是光电子的产生。你要收集的是用于... 非常重要的是，你将如何收集这些数据？需要测量什么？如果你只能逐个进行切割，Both Hers和I Stand以前都做过。对吧？那么Sibal就会很有用。好吧？所以你不打算那样做
+
+
+[2026-09-14 14:58:33]:
+ Of course, you need to come it for sure, but not only that. So what else do you need to know about these photoelectrons? So that's an important contribution for SDAM. What else do you want to measure? Now, see, as I said, or I've already removed it, these event drugs are coming from different levels. Right? So these levels are actually the signature of this element. Is that right? want to figure that out. Okay?
+当然，你肯定需要检测，但不仅如此。那么你还需要了解这些光电子的什么？这对SDAM来说是一个重要的贡献。你还想测量什么？现在，正如我说的，或者我已经去除了，这些事件药物来自不同的水平。右？所以这些层级实际上是这个元素的特征。是这样吗？想弄清楚。好吗？
+
+
+[2026-09-14 14:59:11]:
+ So it's very important. You know where this level is relative to whatever gender you put on the level. Right? So you have to do this. How do you do this? How do you feel about it? You have this, right? You know the energy of the actual resource. This is something you want to figure out. But what you can measure is this one.
+所以这非常重要。你知道这个层次相对于你放在哪个性别上的位置。右？所以你必须这么做。你怎么做？你对此感觉如何？你有这个，对吧？你知道实际资源的能量。这是你想要弄清楚的东西。但你能测量的是这个。
+
+
+[2026-09-14 14:59:32]:
+ the kinetic energy of the electrons. Right? Now you have a lot of electrons coming. of all different kinetic energies. Is that right? So, if you're going to connect all of them, count the numbers, it's not very useful, right? What you want to do is to separate the electrons of different kinetic energies and add each of the kinetic energy. You sit here and count the numbers come. So XPS will be such a spectral, right? The y-axis is the number of electrons you counted and x-axis is the kinetic energy that you measured for each of the electrons.
+电子的动能。右？现在你会有大量电子出现。来自各种不同的动能。是这样吗？所以，如果你要把它们全部连接起来，数数字，这其实没什么用，对吧？你要做的是把不同动能的电子分开，然后把每个电子的动能相加。你坐在这里数来的数字。所以XPS会是一个光谱，对吧？纵轴是你数过的电子数，x轴是你测量的每个电子的动能。
+
+
+[2026-09-14 15:00:14]:
+ Alright, and that tells you the energy levels of the specific element process. Right. Now the path or the goal is very straightforward. I have a lot of electrons. We have all different energies, right? But now I want to separate these energies, and at each of the energies, I want to count the numbers. That's all you need to do. Right? And that brings them to the topic of energy future, right? Let me speak of the energy resolution first and briefly touch the mechanism of the energy filter.
+好的，这告诉你特定元素过程的能级。右。现在，路径或目标非常直接。我有很多电子。我们都有不同的能量，对吧？但现在我想把这些能量分离出来，在每个能量上，我要数数字。这就是你需要做的全部。对吧？这就引出了能源未来的话题，对吧？让我先谈谈能量分辨率，简要介绍能量滤波器的机制。
+
+
+[2026-09-14 15:00:47]:
+ I will not go through the details. They're all written here very nicely, but just give you a general picture of how it can be done. So, how are we going to separate electrons of different energies as a general view? I forget about the people. If you figure that out, you can miss that you have fun. I assume you had dancing with the two. We have electrons of different energies. How are we separate that? Well separate things. You have only two different ways, right?
+我不会详细讲述。这里写得都很清楚，但只是给你一个大致的做法。那么，我们如何从整体角度分离不同能量的电子呢？我忘了人了。如果你弄明白了，你可能会错过你玩得开心的事实。我猜你和他们跳过舞。我们有不同能量的电子。我们怎么区分它们？嗯，分开了。你只有两种不同的方法，对吧？
+
+
+[2026-09-14 15:01:22]:
+ Either temporally or spatially. Is that right? You want to do separation, you only have two ways. Temporally means you want one come first, the other one comes the next time, you can separate. More specially, you want one come here, the other one come here. you can separate, right? Only two ways, but two ways are actually at the end are exactly the same. Suppose you have this idea of separation, right? Then you can think about what to do. Alright?
+要么在时间上，要么在空间上。对吗？你想做分离，只有两种方法。时间上的分离意味着一个先来，另一个后到，这样就能分开。更具体地说，你想让一个出现在这里，另一个出现在那里，这样也能分开，对吧？只有这两种方式，但归根结底，这两种方式其实是完全相同的。假设你有了这个关于分离的想法，那么你就可以思考该怎么做
+
+
+[2026-09-14 15:01:53]:
+ So you have electrons, they travel at different speeds, right? So k of different kinetic energies. Alright. Now I want them to be maybe spatially ending up at different locations. So in this way I can separate. Is that right? So in this case, I want to change or manipulate the trajectory of these electrons. Is that right? So now the question becomes straightforward. How to manipulate the trajectory of one moving electrode?
+所以你有电子，它们以不同的速度运动，对吧？所以k个不同的动能。好的。现在我想让它们在空间上可能最终到达不同的位置。这样我就可以分开了。对吗？所以在这种情况下，我想改变或操控这些电子的轨迹。这样对吗？现在问题变得简单了。如何操控一个移动电极的轨迹？
+
+
+[2026-09-14 15:02:27]:
+ Very good. Two different methods to do it. One is through the magnetic field, the other is through the electrical field. You don't have this choice. And we're going to learn both of them. But here for XPS, we are actually using the electrical field. And later on in electron microscopy, we're using, we're maybe using of the magnetic field. Alright? So here electrical field. Now let's review how it doesn't work. Right?
+非常好。有两种不同的方法。一种是通过磁场，另一种是通过电场。你没有选择。我们会学习这两种方法。但在这里，XPS实际上是用电场。后来在电子显微镜中，我们可能会用磁场。明白吗？这里是电场。现在我们来回顾一下它不起作用。右？
+
+
+[2026-09-14 15:02:57]:
+ I think of a scenario. I have electrons coming, for example. I have an electron coming from here. Alright? Now, if I add electrical potential on this two electrodes, now giving this electron a force pointing to this direction, so what will happen? This is like throwing a stone, right? Actually, it's a initial velocity, right, to this direction. the storm experience a gravity. So, this storm will go through a parabolic trajectory and eventually drop down. But that is exactly what happens to this electron.
+我想到一个场景。比如说，我有电子正在飞来。我有一个电子从这里飞来。明白吗？现在，如果我在这两个电极上加电势，给这个电子一个指向这个方向的力，会发生什么？这就像扔石头一样，对吧？实际上，这是一个初始速度，对吧，朝这个方向。风暴经历了重力。所以，这场风暴会沿着抛物线轨迹，最终下降。但这正是电子发生的情况。
+
+
+[2026-09-14 15:03:37]:
+ Right? So, you can now think about for electrons that travel faster or slower, what's going to happen, right? If it travels at a smaller speed, it goes up here. If it travels a higher speed, it goes on top. Right? Only a certain energy will let you pass through this lead and get selected. So that's the general idea, right? No, I think I will leave the rest of you to for you guys to read a bit, right how this housing will work. It's not very difficult, right? So this is uh CMA.
+对吧？所以，你们现在可以思考一下，对于速度更快或更慢的电子，会发生什么，对吧？如果它的速度较小，它会向上偏转到这里。如果它的速度较高，它会偏转到上方。对吧？只有特定能量的电子才能穿过这个透镜并被筛选出来。这就是总体思路，对吧？不，我想剩下的部分留给你们自己阅读，了解一下这个装置是如何工作的。这并不难，对吧？所以这是 CMA
+
+
+[2026-09-14 15:04:18]:
+ Alright, so let me just catch up with the CHA, right, which works on the same principle, right? So CFA stands for symmetrical mural underlyzer, right? And CHA stands for photocentric hemispherical analyzer. Alright? Uh the configuration is almost identical is that this is in the curved format of the cylinder. Alright? So same thing, right? You have two electrodes, and the electrons sitting here feeling the force to point it from this side to the other side. Not only that, now the rector is traveling in this direction, right? So the force it found is perpendicular to its velocity.
+好，那我来跟上一下CHA，对吧，它原理是一样的，对吧？CFA代表对称壁下分析仪，对吧？CHA代表光心半球分析仪。明白吗？呃，配置几乎一样，这是圆柱体的弯曲形状。明白吗？所以原理是一样的，对吧？你有两个电极，电子在这里感受着从这边指向另一边的力。不仅如此，现在rector朝这个方向运动，对吧？所以它发现的力是垂直于它的速度。
+
+
+[2026-09-14 15:05:04]:
+ That's what? Let's set the pedal course. So right, if you have a force, right, perpendicular to the direction of travel, what will be the trajectory of this particle? Goes in a circle. Is that right? Okay. So how about the force exerted on this electron? Well, it depends on the field applied and the charge that you have. Alright? There's always a single charge at work house.
+那是什么？我们设定踏板的航向。那么，如果你有一个力，对吧，垂直于运动方向，这个粒子的轨迹会是什么？它会绕一个圈。对吗？好的。那施加在电子上的力呢？这取决于施加的场和你手中的电荷。明白吗？工作场所里总有一个电荷。
+
+
+[2026-09-14 15:05:38]:
+ So for all of the electrons of different kinetic energies, the force they experience is identical. Is that right? The same force, right? And that force piece you done a good job
+所以对于所有不同动能的电子，它们所承受的力是相同的。是这样吗？同样的力，对吧？你那个力块做得很好
+
+
+[2026-09-14 15:05:59]:
+ The acceleration. Alright? So, this is the velocity of nectros. This is the radius of its trajectory. Okay. Now you will see, the larger the velocity, the larger the arc, right? If you maintain a R that is designed, this energy of the electrons that is si must satisfy symphony. Alright, that's how you can choose or you select the electron. And some was this hemispherical analyzer. Well the principle is the same.
+加速度。明白吗？这就是光环的速度。这是它的轨迹半径。好的。现在你会看到，速度越大，电弧越大，对吧？如果你保持一个设计的R，电子的能量si必须满足交响乐。好，这就是你选择电子的方式。还有一些是半球形分析仪。原理是一样的。
+
+
+[2026-09-14 15:06:29]:
+ You make use of the electrical field, but it's just the the uh direction of the field applied, the flow of the band relative to the velocity that we have in here. Alright, so so that's uh pretty much of it. But this one does have an additional benefit: is that for electrons that are traveled with a small divergent angle, right, going through this hemispherical analyzer, will be focused at this point, convergent altogether. So that's why the HAPA sparkle analyzer is nowadays most popularly used. Right, um so I'm gonna skip all that. Alright, so I guess I'm over time a little bit today, so I will stop you here for the day. We're almost done, right
+你利用了电场，但这只是所施加电场的方向，即能带相对于我们这里速度的流动方向。好的，这基本上就是全部内容了。但这一点确实有一个额外的好处：对于以较小发散角运动的电子，穿过这个半球形分析器时，会在该点聚焦并汇聚在一起。这就是为什么HAPA Sparkle分析器如今被最广泛使用的原因。好的，嗯，我将跳过所有这些内容。好的，我想
+
+

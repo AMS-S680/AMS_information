@@ -1,0 +1,8 @@
+.DS_Store
+._*
+.AppleDouble/
+.env
+.env.*
+*.pem
+*.key
+.privacy-audit/

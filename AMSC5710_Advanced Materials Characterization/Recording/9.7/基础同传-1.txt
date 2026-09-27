@@ -1,0 +1,935 @@
+[2026-09-07 12:37:45]:
+ Lunch will be scheduled tomorrow, today um if you already started on lecture day. Uh so a few things uh before I start introduction of this uh specific course. Okay, uh uh first of all, teaching language. Right. Presumably I will be teaching in English. Right. I do see people coming from different places. So in Chinese you the policy is uh we have three official languages English, Cantonese, and Mandarin. I can choose to teach in any other language. given that there's no abduction from the process.
+午餐将安排在明天，今天嗯如果你已经在讲座日开始了。呃，所以在开始介绍这门具体课程之前，有几件事要说明。好的，呃，首先，教学语言。对吧。我大概会用英语授课。对吧。我看到大家来自不同的地方。所以用中文说，我们的政策是呃我们有三种官方语言：英语、粤语和普通话。我可以选择用其他任何语言授课，只要不影响考试流程即可
+
+
+[2026-09-07 12:38:33]:
+ For example, right, if all the people agree that I can teach any Mandarin, or they prefer teaching Mandarin, I can do that, but then if there is one single objection, I will not be able to do that. Well, the same thing for Cantonese, but then Pietro, Cantonese, and Mandarin, either of them will not work, right? I have to teach in English. So that's the last solution. So just following the procedure, right? Objections if I teach e-mandarin? One objection, so no mendering. Alright, objections if I'm teaching Canadian, right? Any objections? So no pennies.
+比如说，如果所有人都同意我可以教任何普通话，或者他们更愿意教普通话，我可以，但如果有一个反对意见，我就不能这么做。粤语也是一样，但彼得罗、粤语和普通话都行不通，对吧？我必须用英语教学。所以这是最后的解决方案。所以只要按程序来，对吧？如果我教普通话电子语，有异议吗？有一个异议，所以不允许修改。好的，如果我教加拿大语，有异议吗？有人反对吗？那就没有一分钱。
+
+
+[2026-09-07 12:39:18]:
+ So this is decided. I shall be teaching English. Alright, so this first will be a good question. Right, uh and then the teaching materials, right? Um so this is the first class. I probably don't have any information yet. And then this is probably the only information you need to record for today's lecture regarding where you can find the teaching material, which is available with Blackboard. You have to log in your own account in CHK before you can access this information. So all of the lecture notes and later on the uh announcement of uh any changes or schedules or notices whatsoever. Will be given there.
+所以，这个决定了。我将教英语。好的，那第一个问题会是个好问题。对，呃，然后是教学材料，对吧？嗯，这是第一节课。我可能还没有任何信息。然后这可能是你今天讲座唯一需要记录的信息，关于教学资料在哪里可以找到，这些资料在Blackboard上可以找到。你必须先在CHK登录自己的账户，才能访问这些信息。所以所有讲义笔记，以及之后关于任何变更、时间表或通知的公告，都会在那里提供。
+
+
+[2026-09-07 12:40:14]:
+ And importantly, we do have homework assignment, right
+重要的是，我们确实有家庭作业
+
+
+[2026-09-07 12:49:00]:
+ So, this is a structure I like to waltz to when we talk about the neuroscience. You're going to see the same chart on Thursday night when you have this, I think, seminar topics, material science. The first lecture will also be delivered by me. So this is the so-called maturous paradigm. And this is used by material scientists when they try to learn knowledges in this discipline or carry out research projects following this kind of logic. So, what tells you is that you can start with processing the materials, that is, you make materials, you fabricate them, right? And with that, now these materials that you made will have certain structures and chemical compositions, right? And that structural characteristic will, in turn, determine the property of these materials. And these specific properties will eventually determine the performance of the specific material in devices for certain applications. So, these four important points are the foundations that we need to have in the discipline of material science.
+所以，当我们谈论神经科学时，我喜欢用这种结构来做。你将在周四晚上看到同样的图表，那时你有这个我认为是材料科学的研讨会主题。第一节课也将由我来主讲。这就是所谓的成熟范式。材料科学家在学习该学科知识或按照这种逻辑开展研究项目时，会用到这个范式。所以，告诉你，你可以从材料加工开始，也就是制造材料，对吧？从此，你制造的材料会具有特定的结构和化学成分，对吧？而这些结构特性反过来决定了这些材料的性质。这些特定性质最终决定了特定材料在某些应用器件中的性能。所以，这四个重要点是我们在材料科学学科中需要建立的基础。
+
+
+[2026-09-07 12:50:15]:
+ that they are not independent. They are intercorrelated, right? For example, how you donate the materials can decide what kind of structure, the composition the material has, right? And then the structure and the composition will, in turn, determine the property of the specific materials and therein the performance. But then you have also start from here, the processing, and directly it should look at the performance of certain materials in the devices. And so that attune the fabrication parameters and make the materials work the way that you wish it has. Right? So you can study any of the games in an intercorrelated way. And that's how you study material science. And you see there's a red dot sitting in the middle at characterizations.
+它们不是独立的。它们是相互关联的，对吧？比如，你如何捐赠材料可以决定材料的结构和组成，对吧？然后结构和成分又决定了具体材料的性质，从而影响性能。但你还得从这里开始，加工阶段，直接观察某些材料在器件中的性能。这样可以调节制造参数，使材料达到你期望的效果。右？所以你可以以相互关联的方式研究任何游戏。这就是研究材料科学的方式。你会看到角色描述中有一个红点。
+
+
+[2026-09-07 12:51:07]:
+ So in the broad base of calculation, we do talk about calculation of these three, structure, position, properties, and performance. But then more specifically, usually when we look at the properties, we say we measure the properties of the materials and the measurement. But therefore, performance, we say we evaluate performance in the devices of certain applications. And offlay for structure and chemical composition analysis, we give the terminology of characterization. And that is pretty much um what will be taught in this class, right? uh advanced calculation techniques. But then, talking about material structure and composition calculations, there are a thousand ways, a thousand methods that can be involved. At this class, definitely would not be able to cover all of them. Right, so we have a specific focus, right, and that is based on the principle of uh particles scattered by a piece of materials. Right?
+在计算的广义基础上，我们确实会谈论结构、位置、性能和性能这三者的计算。但更具体地说，通常当我们看这些性质时，我们会说我们测量材料的性质和测量。因此，性能，我们会评估某些应用设备的性能。而对于结构和化学组成分析，我们给出了表征的术语。这基本上就是这门课将教授的内容，对吧？呃，高级计算技术。但说到材料结构和组成计算，可能涉及的方法是成千上万种。在这门课上，绝对不可能涵盖所有这些。对，所以我们有一个具体的重点，基于粒子被材料散射的原理。右？
+
+
+[2026-09-07 12:52:15]:
+ So let me give you an analogy of what it would do. So, say if I want to petrolize this piece of wood, right, the way I'm going to do it is that maybe I put my hand here, right? So my hand is sending in as a probe. Alright? That through the touch of the sweet food, I do get some feedback. For example, I push it. Not gonna feel this hard enough, or what? So I get some waffles and feedback. So I collect this output and I get some understanding of you know the structures or whatsoever that's in there. So that's a general format that I'm going to follow in terms of the characterization status.
+让我打个比方来说明它的作用。比如，我想对这块木头进行“汽油化”处理（此处应为口误或比喻不当，原意可能指探测/表征），我的做法可能是把手放在这里，对吧？我的手就像是一个探针。通过触摸这个“甜的食物”（此处应为口误，原意可能指被探测物体），我能获得一些反馈。例如，我推一下它，感觉不够硬，或者怎样？所以我得到了一些反馈信息（原文“waffles”应为“feedback”的口误）。我收集这些输出结果，从而对其内部结构等有了一定的理解。这就是我们在讨论表征状态时所遵循的一般模式。
+
+
+[2026-09-07 12:53:00]:
+ We stand in the probe, and through it, you're going to have a sort of feedback. So here we do the same thing for material structure and composition analysis. We stand in the probe, right? So, which is our primary beam contains different types of particles. After the probe interacts with my material, it carried certain information of the materials. And by reading the body code, I should be able to figure out, for example, what are in there, what kind of structure is in there, and so on and so forth. Right, so this is the general idea. That are talking about the primary being of the particles and the secondary being, which is the output of the particles. So what could they be? the possible type of approach that can be walked.
+我们站在探针中，通过它，你会得到一种反馈。这里我们对材料结构和成分分析做同样的事情。我们站在探针里，对吧？所以，我们的主光束包含不同类型的粒子。探针与材料相互作用后，它传递了材料的某些信息。通过阅读正体代码，我应该能够判断，比如里面有什么，什么样的结构，等等。好，这就是大致的思路。他们谈论的是粒子的主存在和次级存在，也就是粒子的输出。那么它们可能是什么呢？可以走的可能方法类型。
+
+
+[2026-09-07 12:53:48]:
+ So we are going to look at three of them. The first one is photos, right? are microbes. Second are electrons, and the last one are ions. Well, there could be other types of particles, for example, neutrons, but that will not be included in this class. So we're mainly focused on three kind of incoming pros. And for readout, we're pretty much looking at the same thing. look at photons, electrons, or ions. But then you can have different combinations. Example, you can send in photons, but then you read electrons, or you're sending electrons, but instead you read photons, right?
+因此，我们将讨论其中的三种。第一种是光子，对吧？还有微生物。第二种是电子，最后一种是离子。当然，还可能存在其他类型的粒子，例如中子，但本课程不会涉及这些内容。因此，我们主要关注三种入射粒子。对于读出，我们基本上也在观察同样的东西：光子、电子或离子。但你可以有不同的组合方式。例如，你可以输入光子，然后读取电子；或者输入电子，但改为读取光子。
+
+
+[2026-09-07 12:54:28]:
+ So, these are the techniques that will be involved in the semester's teaching. Right, uh so I uh put down the number of of characterization techniques that will uh take place in the semester, right, uh in terms of the source, the primary applied and the output collected. And you see uh we have a few of them, right? For example, X-ray photoelectron spectroscopy or scanning electron microscopy, right? Or if you lose to using photon as an incoming source and electrons as an incoming source. Or, if you read, for example, this X-ray photon electron spectroscopy, which is utilizing the photon source, the output you read is actually the electrons. Now you see for some of them I could videos, right? What does that mean? So, in principle, all these topics will be covered in the lecture, right? But for those of you, I show you I have videos for you.
+这些是本学期教学中将涉及的技术。对，呃，我会列出本学期将进行的表征技术数量，按源、主要应用和输出的数量来计算。你看，我们有几个技术，对吧？比如X射线光电子光谱或扫描电子显微镜，对吧？或者如果你忽略了用光子作为入射源和电子作为入射源。或者，如果你读过这个X射线光子电子谱，利用光子源，你读到的输出实际上是电子。你看，有些技术可以用视频，对吧？那是什么意思？原则上，讲座中会涵盖所有这些主题，对吧？但对于你们，我有视频给你们看。
+
+
+[2026-09-07 12:55:29]:
+ that means there will be classwork, corresponding classwork, right? delivered of a small quarter of delivery and deals really thin. Five minutes, ten minutes interposed, followed by our paper examination, right? That's a quick cast of how good you get that small part of the colour. Alright, so that's the uh child hand, of course. I have defined decarbonizing techniques by surface and fold. So surface creations means I only look at the very top of your materials, but later on we're only going to give a more accurate definition of what is surface. The book really refers to beyond the surface layers. Look at the interior of the visual ocean, right? That these two could be better defined in terms of kind of information and structure.
+这意味着会有相应的课堂作业，对吧？交付时只有四分之一的小部分，而且非常薄。五分钟、十分钟中间插入，然后是我们的纸质考试，对吧？这简短地展示了你能画出那一小部分颜色的好坏。好了，这就是孩子手。我用表面和折叠来定义脱碳技术。所以表面创作意味着我只看你材料的最顶端，但之后我们只会更准确地定义什么是表面。这本书实际上指的是表面层之外。看看视觉海洋的内部，对吧？这两者在信息和结构方面可以更好地定义。
+
+
+[2026-09-07 12:56:25]:
+ Right, learning outcomes, I will not read it through, or I can figure it out, right? Think about, I'm not sure. I guess you guys have all different goals and purpose when taking or registering this AMSC program, right? So what's your personal vote? Would you want to learn this class? Instead of putting a learning outcome by me, you may, you should have your own personal goals. Right, reference? Right. So we don't have any textbooks required for this class. We do have VTs as electron notes delivered to you.
+对，学习成果，我不会通读，或者我自己能弄明白，对吧？想想看，我不太确定。我猜你们在参加或注册这个AMSC项目时都有不同的目标和目的，对吧？那么你们个人的看法是什么？你们想学这门课吗？与其给出学习成果，不如你们有自己的个人目标。对吧，参考？右。所以我们这门课没有任何必备的教材。我们确实有电子笔记（VT）寄给你。
+
+
+[2026-09-07 12:57:00]:
+ But if you want to have more in-depth reading, here are the reference books recommended that you can look at. Some of them actually have electrons versions available online. Alright. Why is this so thick? Right? So this is a very important uh piece of information that I explained in uh a little bit of details. Tells you this schedule, the fan schedule, right, that we have throughout these semesters. So basically I put on a weekly basis. happened on Monday, right? We have about three hours lectures, right?
+但如果你想更深入地阅读，这里有一些推荐的参考书可以参考。其中一些实际上有电子版本的在线版本。好的。为什么这么厚？右？这是一个非常重要的信息，我之前用一些细节解释过。告诉你这个时间表，粉丝时间表，对吧，我们整个学期都有。基本上我每周都会安排一次。是在周一进行的，对吧？我们大约有三个小时的讲座，对吧？
+
+
+[2026-09-07 12:57:48]:
+ For example, the first week, which is today, right, uh I plan to uh soon finish the introduction that we're going to move to the first chapter of this course, um, the sample preparations before you can use any calculation techniques, right? And that includes two specific topics. One is the microstructure credit techniques, and the other is the surface preparation techniques. Therein, I have to stress the importance of introducing the vacuum technology. Next week, I'm working to finish the vacuum instrumentations and so on, and then followed by first class work, which is for case study, testing your understanding of the vacuum system. Followed by the first technique, which is the X-ray photoelectron spectroscopy. Right? Now we're going to start with the basic principles, which is the photo and followed by instrumentation. And a survey could expand on the discussion of XPS in terms of the data analysis. Would you understand the XPS data and dig out the information of the materials and a few different correlated techniques with XPS?
+比如，第一周，也就是今天，呃，我计划很快完成介绍，我们将进入这门课程的第一章，嗯，样品准备，然后你可以使用任何计算技术，对吧？这包括两个具体的主题。一个是微观结构信用技术，另一个是表面制备技术。在这里，我必须强调引入真空技术的重要性。下周，我将完成真空仪器等工作，然后进行一流工作，作为案例研究，测试你对真空系统的理解。接着是第一个技术，X射线光电子光谱学。右？现在我们将从基本原理开始，先用照片，然后是仪器。调查可以扩展对XPS的数据分析讨论。你会理解XPS的数据，挖掘材料信息以及与XPS相关的几种不同技术吗？
+
+
+[2026-09-07 12:59:06]:
+ Then we're getting extended a little bit to UPS, which is very similar to XPS. See, we only change X to U, but X stands for X-ray, U stands for ultraviolet. So you see we're using different uh wavelengths for each of the photons. Right? Uh now AES is the LJ, it's action techniques. Resembles both the photon spectroscopy and later on the electron microscopies. So we let it sit in between these photospectroscopy and the electron microscopy that happened afterwards. But then we will also have a password, right, and that will be infrared and you will visible computations. This is open to give me. Right, before, right, uh we're going to have basically we have finished the first mock right of the uh this class, right, which is the mainly uh XPS is the major thing. So we have a tutorial, uh XPS analysis, which will be given by TA, followed by a class wall.
+然后我们稍微扩展到UPS，它和XPS非常相似。你看，我们只把X换成U，但X代表X射线，U代表紫外线。所以你看，我们为每个光子使用不同的uh波长。右？呃，AES是LJ，它的动作技术。它类似于光子光谱学，后来也类似于电子显微镜。所以我们让它处于光谱学和之后电子显微镜之间。但我们还会有一个密码，对吧，那就是红外线，你会看到可见的计算。这可以给我一个。好的，之前，呃，我们基本上已经完成了这门课的第一个模拟考试，主要是XPS是主要内容。我们有一个教程，呃，XPS分析，由助教讲解，然后是课堂壁画。
+
+
+[2026-09-07 13:00:07]:
+ This is a short video. Or summarize the instrumentations and everything about XPS and EPS, right? And then we're gonna have the first piece. So you see the first quiz will be testing on the main part of the three links, including the vacuum technologies, XPS, UPS, and LJ. Right? So that's the first release. Spending about 10% of the total grade. Right, starting from week five, we're moving to the next phase which is focused on the electron microscope. Alright, just that was a basic introduction. Right, and then subgrade into uh two different categories.
+这是一个简短的视频。或者总结一下关于XPS和EPS的仪器和一切，对吧？然后我们会有第一部分。你看，第一个测验将测试三个环节的主要部分，包括吸尘器技术、XPS、UPS和LJ。右？这就是第一个发布。花费了大约10%的总分级。好，从第五周开始，我们将进入下一阶段，聚焦于电子显微镜。好了，这只是一个基本介绍。好的，然后分成两个不同的类别。
+
+
+[2026-09-07 13:00:47]:
+ One is scanning electron microscopy, and the other is translation electron microscopy. No, that is like fro like crossben techniques, right?
+一种是扫描电子显微镜，另一种是平移电子显微镜。不，那是类似交叉本的技术，对吧？
+
+
+[2026-09-07 13:00:58]:
+ main theme of uh electron microscopy is based on uh diffractions of these uh uh electrons and particles. Right ending. And the the fractures, right, they give you all the information on the structure of the materials. So it was the XPS and things I listed here fairly focused on the pathologicals. Now here we can dig into the microstructure of the material using electron microscopy methods. So we're going to spend quite a bit of effort in explaining the diffraction theories and how to read out the diffraction and find information of the material, especially crystal structure information. Then we're going to move a little bit into the key and images with some analytical juniors. Tells you a bit about the calculator information as well as electronic structure information. So that basically already obtains most of the teaching content that I have to cover in this semester.
+电子显微镜的主要主题是基于这些电子和粒子的衍射。结尾。断裂部分，给你提供了材料结构的所有信息。所以XPS和我这里提到的内容主要集中在病理学方面。现在我们可以用电子显微镜方法深入材料的微观结构。我们将花大量精力解释衍射理论，以及如何读取衍射，以及如何查找材料信息，特别是晶体结构信息。然后我们会和一些分析高年级学生一起讲解关键和图像。它会介绍一些计算器和电子结构的信息。基本上这已经涵盖了我本学期需要覆盖的大部分教学内容。
+
+
+[2026-09-07 13:02:13]:
+ Then in week 11 week 12, we're going to have the final project presentations. Is that you're going to choose your own topics of material calculations, right? And then I think we have 60 something of you, alright? And you guys will be divided into twenty groups in total. Alright, so that means each group will contain three to four persons. Alright. So uh that means this is very tricky. It does not mean that you can form a four-person group, then leaving the rest only forming two-person group. is not working. So we have to satisfy everybody for at least a three-person group, right?
+然后在第11周、第12周，我们将进行期末项目展示。你们会自己选择材料计算的主题，对吧？然后我想我们有60多个你们，好吗？你们总共会被分成二十个小组。好的，这意味着每组会有三到四个人。好的。所以，呃，这意味着这非常棘手。这并不意味着你可以组成一个四人小组，然后让剩下的只组成两个人小组。这是行不通的。所以我们至少要让所有人都满意，对吧？
+
+
+[2026-09-07 13:02:54]:
+ That we have some additional members that you can choose to join to form a cooperative group. So the minimum number of group, minimum person in each of the group will be three, right? Not two or one, right? But the maximum income may be four, right? to nasty arrangements. Right? And you see we don't have a lot of time for you guys to make this presentation. Each group will give a 13-minute rough presentation, all right? Even that with 13 minutes, you still have to leave two minutes at least for QA. So, you know, these one questions for you to address.
+我们有一些额外的成员可以选择加入，组成一个合作团体。所以每个小组的最低人数和人数是三个，对吧？不是两个，也不是一个，对吧？但最高收入可能是四个，对吧？为了恶劣的安排。右？你看，我们没有太多时间给你们做这个演示。每组做一个13分钟的粗略演示，好吗？即使有13分钟，你也得留至少两分钟做质询。所以，这些问题需要你回答。
+
+
+[2026-09-07 13:03:30]:
+ So each group for the three to four person group will have only 10 to 11 minutes, maximum 12 minutes. We do have a four person for the presentation. But each of you have to talk. Alright, so you cannot say, oh, okay, there's only thirty minutes. Maybe someone will be representative of all of us giving the presentation, and the rest of us will be sitting there. No, it's not okay. Every one of you will have to talk, right? So your grade will be judged by your presentation, how clear you can make it, right? What is the in-depth information you can deliver through your three-minute talk? Now a document about three minutes.
+所以三到四人小组的每组只有10到11分钟，最多12分钟。我们确实有四人来做演讲。但你们每个人都必须发言。好吧，所以你们不能说，哦，好吧，只有三十分钟。也许会有人代表我们所有人做演讲，其他人就坐在那里。不，这不行。你们每个人都得发言，对吧？所以你们的成绩会根据你们的演讲来判断，表达得有多清晰，对吧？你们能通过三分钟的演讲传达什么深入的信息？现在写一份大约三分钟的文件。
+
+
+[2026-09-07 13:04:14]:
+ It's a short time. is actually not. Now I've been into uh some award uh competing uh events, right? So the students are are um needing for a grant to study aboard or anything. So uh this is about the same level as you, right? after the bachelor's degree, right? So, they are applying for either master's or PhD degrees, like the A graduate study awards. They'll apply for an award for that. Now, they have to make about a three-minute presentation of the proposed project they're going to carry out in their later research. So, in the three minutes, they have to deliver the motivation of the study, right, and the approach that you use to carry it out and the expected outcome.
+时间很短。其实并不短。我参加过一些奖项，或者竞争性的活动，对吧？所以学生们需要资助才能出国学习。所以，呃，这和你差不多，对吧？本科学位之后，对吧？所以，他们申请的是硕士或博士学位，比如A级研究生奖学金。他们会申请相应的奖项。现在，他们需要做大约三分钟的介绍，介绍他们将在后续研究中开展的拟议项目。在这三分钟内，他们要介绍研究的动机、执行方法以及预期的结果。
+
+
+[2026-09-07 13:05:08]:
+ So in three minutes, a good talk can cover all of them in a very clear technique. So three minutes is not a short time. It's a stammer and standing here don't know what to say. Or three minutes past you know. But then if you use it properly, scripting it, you can deliver a lot of information. Alright, so that's the presentation. And the last week, all right, we're going to have the final tutorial given by our TA. I'm basically trying to answer the questions that we build up throughout the semester on homeworks that can also be on other things. Followout during class will have the quiz 2. Quiz 2 will be integrated tasks that cover all of the content.
+所以三分钟内，一场好的演讲可以用非常清晰的技巧涵盖所有内容。所以三分钟可不短。这就像结巴，站在这里不知道该说什么。或者说，已经过了三分钟。但如果你正确地使用它，编写脚本，你就能传达大量信息。好了，这就是演讲。最后一周，我们会有助教的最终教程。我基本上是在回答我们在学期中积累的问题，这些作业也可以涉及其他内容。课堂上的跟进会是测验2。测验2将是涵盖所有内容的综合任务。
+
+
+[2026-09-07 13:05:54]:
+ Now of course, the majority part will be the second half, all right? Now we do have to bring it in, as we will see. All of the calculation techniques are intercorrelated and can be compared. That's why at the end you woke up a sort of an integrating test to check your in-depth understanding of the class towards the end. So uh that's pretty much the uh schedule, I think. Let me see if I make any mistakes
+当然，大部分时间会是后半部分，好吗？我们确实得把它带进去，正如我们会看到的。所有计算技巧都是相互关联的，可以比较。这就是为什么最后你会启动一个积分测试，来检查你对课程的深入理解。所以，呃，这就是大致的课程安排，我想。让我看看我有没有犯错
+
+
+[2026-09-07 13:06:31]:
+ Yeah, I think uh November 30th is literally the last teaching day of uh this course. Right, so November is the week, it's actually the last teaching week of the semester. Right, so that's all uh for the arrangement and the schedules of the classes. Uh any questions and problems you want to raise at the time
+是的，我记得11月30日真的是这门课的最后一个教学日。对，所以11月是那个星期，实际上是学期的最后一个教学周。好，以上就是课程安排和时间表的全部内容。呃，你当时有什么问题或问题想提出吗？
+
+
+[2026-09-07 13:07:07]:
+ Yeah. I'm a little curious about the final the the final exam for that. So like uh there's no 507, you mean the last quiz? What will be like? Yeah, it will be like the choosing and answer word. It will be the two pieces will be carried out in a similar format. So basically, I'm not sure exactly for that, right? because I haven't made the question yet. But uh uh usually, right, the way I will uh be testing is that uh I don't test on memories, usually, right? Uh if I pass on memories, uh that means these points are uh intended to be given to you as a gift.
+是的。我对期末考试有点好奇。所以，呃，没有507，你是说最后一个测验？会是什么样的？是的，会是选择词和答案词。这两部分会以类似的形式进行。所以基本上，我不太确定具体是这样，对吧？因为我还没出题。但呃，呃，通常我会测试的方式是，呃，我通常不会考记忆，对吧？呃，如果我放弃了记忆，呃，那就意味着这些分数是作为礼物送给你的。
+
+
+[2026-09-07 13:07:58]:
+ Alright. Alright, so I usually test on your understanding and your. Well, the the thing that you want to uh learn this course is that I don't think every one of you will need to know the specifics, although that will be taught, right, of a certain calculation technique. But then it is more like the general methodology you're going to assess the problem. Like, if you really want to analyze a piece of material, what is the proper methodology you use? What is your choice of the precision techniques? And these are will be based on your understanding of whether this technique can be applied here or there, on what condition it can be applied, and what are the limitations. So this will be sort of tested, right? This is the main idea of e-tested. So the format will be, of course, there will be case like: I give you a piece of material, I tell you some information, and let's say there's some conflict in it and supposed to understand.
+好的。好的，我通常会测试你的理解力和你的......嗯，你想学这门课的重点是，我认为你们并不是每个人都需要知道某种计算技术的具体细节，虽然那会被教授。但更多的是你要评估问题的一般方法论。比如，如果你真的想分析一个材料，你应该用什么正确的方法论？你选择的精度技术是什么？这些方法将基于你对该技术是否能在这里或那里应用，在什么条件下可以应用，以及限制性。所以这会被测试，对吧？这就是电子测试的主要理念。格式当然会是这样的情况：我给你一段材料，告诉你一些信息，假设其中存在冲突，需要理解。
+
+
+[2026-09-07 13:09:07]:
+ For example, there are two techniques. I measure a sentence of materials. I get different answers, right? Get different data. So I will ask you to decide which one is correct or both are correct, right? And tell me your reasons for that. So this will be the type of questions I like to ask. And there will be some sort of basic techniques, calculations, for example. If I taught diffraction theory, and you will have to know, alright, how we understand diffraction happens in the reciprocal space, for example. Everything we have now, you and me are in the real space.
+举个例子，有两种技术。我测量一句材料。我得到不同的答案，对吧？得到不同的数据。所以我会让你决定哪一个是正确的，或者两个都对，对吗？然后告诉我你这样做的原因。这就是我喜欢问的问题类型。会有一些基本的技术，比如计算。如果我教衍射理论，你得知道，好吧，我们理解衍射是在倒易空间里发生的。我们现在拥有的一切，你和我都在实空间里。
+
+
+[2026-09-07 13:09:45]:
+ So, when we describe a physical crystal, we start from the real space, right? But then, if you carry out a diffraction analysis experiment, you are in the reciprocal space. So one of the things, one of the things I try to teach in this course is that correlation in between the real space and the recipiental space. So, once you have the set of diffraction data, you know what the crystal is like in the real space. And then this kind of things will be tested in terms of you have formulas to follow, to calculate, to figure out arrangement, and everything. So this is the other type of thing. It's more like I'd say undergraduate physics course, right? Have this kind of calculations following steps, right? And that I would say is easier than the previous type of questions I give because in those you have fixed procedures to follow. that will lead you to the answer.
+所以，当我们描述物理晶体时，我们是从实空间出发的，对吧？但如果你进行衍射分析实验，你会处于倒易空间。所以我在这门课里尝试教授的一件事是真实空间与接收空间之间的相关性。一旦你有了绕射数据集，你就知道晶体在真实空间中的样子。然后这类事情会通过你必须遵循的公式来测试，计算、确定排列等等。这就是另一种情况。更像是我会说本科物理课程，对吧？有这种计算步骤，对吧？我觉得这比我之前给的题型更容易，因为在那些题目中你有固定的步骤要遵循。这会引导你找到答案。
+
+
+[2026-09-07 13:10:44]:
+ But then if I say I give you two sets of information coming from two different paradigm techniques, and I ask you which one is right, which one is wrong, this is very hard because there's no textbook you can follow. You really have to understand those two techniques before you can arrive at the right answer. Does that give you the answer?
+但如果你说，我给你来自两种不同范式技术的两组信息，然后问你哪一组是对的、哪一组是错的，这就非常困难了，因为没有教科书可以遵循。你必须真正理解这两种技术，才能得出正确答案。这是否给了你答案？好的
+
+
+[2026-09-07 13:11:11]:
+ Okay, so uh I'm gonna do it this way. Um RTA's are here? Okay, so the quiz will be given, the cluster papers will be given in English, right? And then this course is not a language course, right? So it's not my intention to ask you how good your English is. Although I assume that by coming to Hong Kong you really want to enrich yourself in the spending environment and improve your language, right? So this is your own effort. you want to grow your language to different levels. But then if you do encounter difficulties, right, let me put it this way, or I do an exams, right, ask a TA. the TA can help you to translate certain words into Chinese. Alright?
+好，那我就这么做。嗯，RTA到了吗？好的，测验会用英语进行，分组试卷对吧？然后这门课不是语言课，对吧？所以我不是想问你英语好不好。虽然我猜你来香港是想丰富自己，提升语言水平，对吧？所以这是你自己的努力。你想把语言提升到不同水平。但如果你遇到困难，我这么说，或者我考试，找助教。助教可以帮你把某些词翻译成中文。明白吗？
+
+
+[2026-09-07 13:12:09]:
+ So are TA okay with that?
+那TA对此没意见吗？
+
+
+[2026-09-07 13:12:17]:
+ Okay, alright. Okay. Any other questions? Are we good? Yes? Are you allowed to use the calculator in any set? Yes, but I think calculator doesn't talk much. And uh usually you w it it doesn't really matter. But yeah, you are allowed to bring uh electron calculators a lot of feet. And I usually allow paper attention.
+好的，行。好的。还有别的问题吗？我们准备好了吗？是的？你可以在任何套装中使用计算器吗？可以，但我觉得计算器不会说太多话。而且通常你用它其实没什么大不了的。但是的，你可以带电子计算器很多脚。我通常允许用纸质关注。
+
+
+[2026-09-07 13:13:03]:
+ So we can frame uh one page, A4, oh sorry, double side A4 page, and writing up dot whatever you think is important to that paper to get this allowed. Which is a bad indication. That means I'm not testing you on memories
+所以我们可以把一页，A4，哦，抱歉，双面A4页装框，然后写下你认为对那张纸重要的点，以便允许这个。这可不是个好指标。这意味着我不是在考你的记忆
+
+
+[2026-09-07 13:13:22]:
+ Shh, never she knew how many movies sleep by him.
+嘘，她从不知道有多少电影会睡在他身边。
+
+
+[2026-09-07 13:13:33]:
+ You won't go to channel. Okay. Of uh picture presentation. So before we touch any of the real calculation techniques, we're going to talk about something like that. And you will figure out very soon. Alright, gold or really don't pack stuff. Right? I mean what most likely cutting, slicing, polishing, and cleaning up the samples. Right? But I do have to spend a request and a bit of time on it because these things are very important.
+你不会去通道。好的。关于图像展示。所以在我们谈任何真正的计算技巧之前，我们先谈谈类似的东西。你很快就会明白的。好吧，黄金，或者说别带东西。右？我说的是，最有可能的就是切割、切割、抛光和清理样品。右？但我确实需要提出请求和一些时间，因为这些事情非常重要。
+
+
+[2026-09-07 13:14:22]:
+ Right? So, why do we have to prepare this up? Right? Very simple because you're going to use certain calculation techniques, and you, in many cases, that involves a very advanced, large piece of equipment, and you're going to put your sample in, right? But then your sampo will be in different forms, right? It can be gas, it could be a solid, or it can have different size and shapes, and whatsoever. And these things not necessarily fitting the equipment we're going to use to check. So that's one simple aspect that you need to hold graph. Right? This sense is the signal.
+右？那我们为什么要准备这个？右？非常简单，因为你会使用某些计算技术，而在很多情况下，这需要非常先进、大型的设备，然后你会把样品放进去，对吧？但你的桑波会有不同的形式，对吧？它可以是气体，可以是固体，或者有不同的大小和形状，等等。这些东西不一定适合我们用来检查的设备。所以这是你需要保持图表的一个简单方面。右？这种感官就是信号。
+
+
+[2026-09-07 13:15:01]:
+ So that means I just, you know, most likely cut it into smaller sizes or make it into certain shapes so that you can let it fit in with specific locations for space that is required very equipment. Well, that is an important part of it, right? And the other reason is that in many cases, we're going to analyze a certain portion of the materials. For example, if your material is of layered structures, there are many interfaces, and what you're interested in is to look at the information at the interface instead of on the outer surface or anywhere else. Well in that case, you have to do some tricks to your sample to make sure their interface is exposed to the probing particles so that they can interact and you can collect the relevant information. Alright, so that's the other things. If you really have done what I said to prepare your sample, then there's a third thing: is that you really clean it afterwards because finally, when you cut it, squats it, polished it, or etch it or whatsoever, you have introduced other things, right? Substance that does not belong to your sample to it. So you are imposing uncontamination to your sample. What you analyze is no longer your solo itself, you change it. Right?
+这意味着我很可能会把它切成更小的尺寸，或者做成特定的形状，这样你就能让它适应特定位置，而这些空间需要非常需要设备。嗯，这确实是很重要的一部分，对吧？另一个原因是，在很多情况下，我们会分析材料的某一部分。例如，如果你的材料是分层结构，会有许多界面，你关注的是观察界面上的信息，而不是在外表面或其他任何地方。在这种情况下，你必须对样品做一些技巧，确保它们的界面暴露在探测粒子中，这样它们才能相互作用，从而收集相关信息。好了，这就是其他事情。如果你真的按照我说的做了样品的准备，那还有第三点：你要在之后真正清理它，因为当你切割、压榨、抛光或蚀刻时，你引入了其他东西，对吧？那些不属于你样本的物质。所以你是在对样本施加无污染。你分析的东西不再是你的独奏，而是改变它。右？
+
+
+[2026-09-07 13:16:28]:
+ So, these are the follow-ups you have to care about in terms of typical preparation. Now the importance of the sample preparation is because all what I said is that right uh you make changes to the sample. Now, how are you going to sample the original one that you have without making all these changes? So that's always the paradox that we have in terms of software conditions. That has to be always keep in mind is that you know the sample preparation histories. So when anything goes wrong in the later credition process, you know you can have a guess. What might go wrong, right? Alright, steps in investment process. Right, so before you actually prepare yourself, right? So which is in the third stage, where the last line is the analysis, right?
+这些是你必须关注的后续处理，尤其是在典型的准备过程中。样品准备的重要性在于，我刚才说的就是，嗯，你会对样品进行修改。那么，你打算如何在不做这些改动的情况下，对原始样品进行采样呢？这就是我们在软件条件下一直存在的悖论。必须时刻记住，你要了解样品的准备历史。所以当后续的信用流程出现问题时，你可以猜测。可能会出什么问题，对吧？好的，投资流程的步骤。对，所以在你真正准备之前，对吧？第三阶段，最后一行是分析，对吧？
+
+
+[2026-09-07 13:17:22]:
+ You actually have two pre-stabs you have to do. The one is something. So what do I mean by sampling? Right. Sampling is you choose the samples too for analysts, right? So why do we have to choose a sound? Because you can have a lot of different samples and you have first to decide uh which one is the most uh representative one that you want to analyze. For example, we build samples of different properties, then you think one of them could be representative enough for the average properties, you will choose that one. Right? So one criteria for something.
+你实际上有两个预刺要做。那一个就不简单了。那我说的采样是什么意思？右。采样就是你也为分析师选择样本，对吧？那为什么我们必须选择一个声音呢？因为你可以有很多不同的样本，你首先要决定哪一个是最有代表性的，你想分析的。比如，我们会构建不同属性的样本，然后你认为其中一个样本足够代表平均属性，你就选那个。右？所以有一个标准。
+
+
+[2026-09-07 13:17:57]:
+ And the other is that if you will not be able to find such a representative ones, there are a lot of different combinations, right? So the other criteria you use for sampling is that you were going to choose enough number of samples, a large number of samples, so that you can get a statistical understanding of the properties. Alright? So there are two criteria. One is representative, the other is a statistic, large number of sampling sampling. Once you choose the sample, you may not be able to directly send the machine right away, say, after the cutting or whatsoever. Likely, you're going to put it somewhere before you carry out the next step, right? So the somewhere is the sound called preservation. Storage, sometimes storage. Right?
+另一个是，如果你找不到如此代表性的样本，那就有很多不同的组合，对吧？所以你用来采样的另一个标准是，你要选择足够多的样本，大量样本，以便你能对其属性有统计上的理解。明白吗？有两个标准。一个是代表性的，另一个是统计量，大量采样抽样。一旦你选定了样本，你可能无法直接让机器在切割后送出。很可能你会先把样本放到某个地方，然后再进行下一步，对吧？所以这个“某个地方”就是所谓的“保存”。存储，有时是存储。右？
+
+
+[2026-09-07 13:18:45]:
+ And so what about it? Right? It depends on the type of samples you have. the storage could differ significantly. Now, some would require to be stored at very low temperatures. Some have to be preserved in vacuum without attacking oxygen. Others may be afraid of water, right? You have different samples, then you have different storage strategies to follow up. And then with that, you can move to the real stuff, right? Example graphs.
+那又怎样？右？这取决于你拥有的样本类型。储存方式可能差别很大。有些样本需要在非常低温下保存。有些需要在真空中保存，不能破坏氧气。还有些可能害怕水，对吧？你有不同的样本，然后需要遵循不同的储存策略。然后你可以转向真正的样本，对吧？示例图表。
+
+
+[2026-09-07 13:19:22]:
+ Now here's uh I'm mostly focused on solid phase samples, right, and that uh uh need real stuff in terms of the preparation. But then, this kind of platform generally applies to all can samples feed in the liquid phase, gas phase, or solid phase. Right? So what you have is that the first is the homogenization or size reduction. So, homogenization refers to a process you're going to average it out. In some of the cases, you need that. But then, if you cared about the different or singularities of the samples, you don't do that. Size reduction is usually needed because, for a sample, common size, it can be very large. And if you look at our cognition techniques, although it could be a huge machine, but then the place allows you to put the sample is that small, right? you do have to cut it to smaller senses to that efficiency.
+现在，呃，我主要关注固相样品，对吧，呃，呃，在制备方面需要真正的材料。但这种平台通常适用于所有液相、气相或固相的罐头样品。右？所以你看到的是第一种是均质化或尺寸缩小。均匀化指的是一个过程，你要对样本进行平均化。在某些情况下，你需要这样做。但如果你在意样本的不同或奇点，你就不会这么做。尺寸缩小通常是必要的，因为样本的常见大小可能非常大。如果你看看我们的认知技术，虽然它可能是一台巨大的机器，但允许你把样品放那么小的地方，对吧？你确实需要把样本切割到更小的感官上，以达到那个效率。
+
+
+[2026-09-07 13:20:17]:
+ There will be extraction, alright, or concentration, or sometimes dilution of the samples. Again, this is to centrally decrease requirements of a specific technique. And after all this process, right, you have to clean it up, as I mentioned earlier, before you do the analysis. Right, so now I'm going to move into the two examples that I promised earlier. So why is about microstructures? The other use of the surface, the preparation procedures for the surface paradigms. No microstructure is coming first, right? So, microstructures are usually characterized by using microscopy-based methods. Now before we can uh do that um and explain why in that case you probably need cutting, etching, polishing, and so on and so forth, right, let's first try to understand uh what do I mean by just keep this device by microstructure calculations. Right?
+样品将经历提取、浓缩或有时稀释的过程。再次强调，这是为了集中降低特定技术的要求。在完成所有这些步骤后，正如我之前提到的，在进行分析之前必须对样品进行净化处理。现在，我将进入我之前承诺的两个示例。为什么是关于微观结构？表面制备程序在表面范式中的另一种应用。首先讨论微观结构，对吧？微观结构通常使用基于显微镜的方法进行表征。在我们能够这样做并解释为什么在这种情况下可能需要切割、蚀刻、抛光等步骤之前，让我们先尝试理解我所说的通过微观结构计算来保持该设备的含义
+
+
+[2026-09-07 13:21:20]:
+ So structures of materials will all have some basic understandings. Now we're talking about microstructures. What do I think? Now for example, uh I have this marker, right? So I can open the lid, right? So you see the tape and they have a lid. So is this a kind of a microstructure? It is obviously not, right? Because this is a kind of an architecture, in the structure, composition of a pad. It's a structure, right?
+所以材料的结构都会有一些基本的理解。现在我们正在谈论微观结构。我怎么看？比如说，我有这个标记，对吧？所以我可以打开盖子，对吧？你看到胶带，它们有一个盖子。那这是一种微观结构吗？显然不是，对吧？因为这是一种结构，也是一种结构，体现在垫子的结构和组成中。它是一种结构，对吧？
+
+
+[2026-09-07 13:21:52]:
+ It is not microstructure, right? So the difference my saying the word micro, right? The background means smaller things, right? So what can be defined as macro is that anything that is smaller to be seen by your bare eye would require the aid of some microscopic techniques. And that belongs to the range of microstructure. Now like you example, say I have this wheel, so that's usually in the range of meters or say centimeters, millimeters, and so on and so forth. Right. So, do any of you have an idea that what is the size of the smallest feature that you can see by your bare eye? Office glasses. What's the smallest feature you can see?
+它不是微观结构，对吧？所以说“微观”这个词的区别，对吧？背景指的是更小的东西，对吧？所以可以定义为宏观的是，任何肉眼能看到的更小的东西都需要一些显微技术的帮助。这属于微观结构的范围。现在就像你举的例子，比如我有一个轮子，通常在米级、厘米、毫米级等范围内。右。那么，你们有人知道肉眼能看到的最小特征大小是多少吗？办公眼镜。你能看到的最小特征是什么？
+
+
+[2026-09-07 13:22:40]:
+ Double what size? Task? Like the dust. How large? Yeah, big meter? Centimeter?
+双倍大小？任务？像灰尘一样。多大？是的，大米？厘米？
+
+
+[2026-09-07 13:22:52]:
+ Yeah, I don't know pretty sure because the dust only can be seen through the sunlight even you like by bare eyes. Yeah by beer eyes. Yeah.
+是的，我不太确定，因为灰尘只能通过阳光裸眼看到，甚至你喜欢的。是的，用啤酒的眼睛。是的。
+
+
+[2026-09-07 13:23:03]:
+ How large is that? How large is that? Millimeter worth more than yeah. Millimeter? Smaller than mediator, right. How much water? Now we go win exactly. Alright. So now a benchmark. Uh can you see a single strand of your hair?
+那有多大？那有多大？毫米比'是'更值钱。毫米？比中间人小，对吧。多少水？现在我们要赢了。好。现在来个基准。呃，你能看到你一缕头发吗？
+
+
+[2026-09-07 13:23:22]:
+ Yes, everybody can see. Now, the diameter of a hair, now I understand some of you have thicker hair, some have thinner, right? range is a few tens of micrometers. Alright? It's a few tens of micrometers, and it's two-order magnitude lower than millimeter. Alright? So that's the small thing you can see by your air eye, right? Now anywhere below that, you have to need, you're going to need the aid of the micro microscope based method to help you to see. So you enlarge and large enough, right? You see.
+是的，大家都能看到。现在，头发的直径，我知道你们中有些人头发更粗，有些人头发更细，对吧？范围是几十微米。明白吗？是几十微米，比毫米小两个数量级。明白吗？所以那就是你用空气眼能看到的小东西，对吧？现在，如果再小于这个，你就需要显微显微镜的方法来帮助你看清楚。所以你要放大，而且足够大，对吧？你看。
+
+
+[2026-09-07 13:23:59]:
+ So, what happens in that range? From say tens of microns to the smallest benchmark will be the size of the atom. So, usually, our size of the atom is about a few antrons, that is ten to the minus tens per meter. Alright, so in this range is what we'll call the communicative microstructures. So what do you have in this range? you can have a lot of things. Finer organizations, arrangement of smaller components, right, at different length scale. So this is the mesoscale, right? As I said, nano scale sounds are worse. And I'll give you an example of what happens in terms of these microstructures, right?
+那么，在这个范围内会发生什么？从几十微米到最小的基准，原子的大小就是这个。通常，我们原子的大小大约是几个安特隆，也就是每米的十次方。好的，在这个范围内，我们称之为可通信微结构。那么在这个范围内你有什么？你可以有很多东西。更细的组织，更小的组分排列，对吧，在不同的长度尺度上。所以这就是中尺度，对吧？正如我说的，纳米尺度的声音更差。我给你举个例子，说明这些微观结构会发生什么，对吧？
+
+
+[2026-09-07 13:24:44]:
+ And you guys see in Peep? everybody's in the humble board. Right? Have you guys been able to get a father of the department? No. No one? Anyone have it before? No. Okay. So this is a story happened quite a while ago.
+你们看到了《Peep》吗？大家都在谦逊的董事会。右？你们有没有找到部门的老板？没有。没人？有人以前有过吗？没有。好的。这是个很久以前发生的故事。
+
+
+[2026-09-07 13:25:02]:
+ One of my friends uh went to this um resort in Minan, alright, so uh he bought. uh soulinier, which is a peacock feather, right? Because it's very pretty. Now, and it talked to me saying that, you know, I'm a bit worried that the peacock feather and malt might be fake, right? So peacock feathers, feathers are very rich colours, and it's very pretty. And what he worried is that people just make an artificial one and paint it into this cutter. So we thought it was hit. And he asked me, Do I have any ways to figure out if you've got a real one or a fake one? So I told him that this is very simple. So you have the peacock feather and you have a shape of lag on.
+我有个朋友去了Minan的一个度假村，嗯，他买了。呃，Soulinier，是孔雀羽毛，对吧？因为它很漂亮。它跟我说，我有点担心孔雀羽毛和麦芽是假的，对吧？孔雀羽毛，羽毛颜色非常丰富，也很漂亮。他担心的是人们会做一个人工羽毛，然后涂在这根剪刀上。所以我们以为它被击中了。他问我，有什么方法能判断你是真羽毛还是假羽毛？我告诉他这很简单。你有孔雀羽毛，上面有一个拉格形状。
+
+
+[2026-09-07 13:25:48]:
+ So you turn people feather and to see if the color changes. So if the colour changes, you pretty much have the real one. It doesn't. Oops. you probably get the big one, right? the pipeline. And the reason why the color of the peak of feather actually changes when you have the incident light photons at different angles on the surface is due to the existence of internal periodically arranged small structures, which is a type of photonic crystal. So the arrangement of these smaller building blocks actually interacts with the light photons. And then when the light photons come in from different directions, that give you different output as a different wavelength of the light. So you see different colors. Right?
+所以你把人变成羽毛，看看颜色是否会变化。如果颜色变了，你基本上就是真正的羽毛。它没有变化。哎呀。你大概是那个大问题吧？管道。当入射光子在表面不同角度出现时，羽毛峰的颜色会发生变化，是因为内部存在周期性排列的小结构，这是一种光子晶体。这些较小的构件排列实际上与光子相互作用。当光子从不同方向进入时，会产生不同波长的光输出。所以你会看到不同的颜色。右？
+
+
+[2026-09-07 13:26:36]:
+ So if you get, you grab a peacock feather and you blow it up in an electron microscope, and what you see is that you have a stem, that you have a barbs extending on it. Then each of the barbs you have this uh finer ridges as uh finer structures and so on. Of that these smaller microstructures? Not really, because if you look at the scale bar, it's 200 micrometers, it's a well, even without the aid of a microscope, you still see it without a problem. you have to go down even further, right? So this scale bar is 10 microns. This is a sabotage, right? You can delete the microscope to help. Alright, so you see some fine structures in there. But you can get a further blow up in this region to larger magnifications, and now this far is one micrometer.
+所以如果你拿一根孔雀羽毛，用电子显微镜放大，你会看到你有一个茎，上面延伸着一根倒钩。然后每个倒钩上都有这些，呃，更细的脊状结构，等等。这些较小的微观结构？不完全是，因为如果你看比例尺，它是200微米，即使没有显微镜辅助，你也能顺利看到它。你得往更低处看，对吧？这个比例尺是10微米。这是破坏行为，对吧？你可以删除显微镜来辅助。好，你可以看到一些细微结构。但你可以在这个区域放大到更大倍率，现在这里是一微米。
+
+
+[2026-09-07 13:27:25]:
+ Of each of the individual details or taking back hundreds of nanometers, right? And you see the final arrangement of TV blocks, which is the melamine, the dark uh block in the matrix of uh carabin. Right? So, this is the eventual microstructure, right, or the photonic crystals that are responsible to the fantastic colors associated with the peak of that. So, this is the microstructure that I'm talking about. Right? Right? Then we could go even a bit far. go back to our sample graphs. So, what are the microstructure features that we're interested in using the microscope-based method?
+每个细节的细节，或者回溯数百纳米，对吧？你会看到最终的电视模块排列，那是三聚石，是黑色的，呃，在卡宾扣的矩阵中。右？这就是最终的微观结构，或者说是导致峰顶时奇幻色彩的光子晶体。这就是我说的微观结构。右？右？然后我们可以更进一步。回到我们的样本图。那么，我们用基于显微镜的方法感兴趣的微观结构特征是什么？
+
+
+[2026-09-07 13:28:08]:
+ So we're interested basically the faces and the effects contained in this piece of materials at that length scale in terms of their size, architecture, shape, quality distribution, the type. So, these are the microstructure departations like creative obtainments in this kind. Now, how to make such a sample? Well, here I listed three very commonly used microscopy methods, starting with the lower resolution one, which is the optical ones, followed by two electron microscopes known as scanning electron microscopy and the transmission electron microscope, both of which will be included in the semester's lecture. Now if you read how the samples, the first time samples will be made, right, you see they have a lot of things in common. Example in optical samples, you have to polish it and edge it, and then you have to act one side. Carry out the reflection mode, you have to fit it down for transmission mode. But then for electron microscopies, you see, for SEN, you see, oh well, I have to polish it, cut it and polish it, that's all. But then for electron ultraspication, electron microspecies, very critical. how to think specimen native. Right?
+所以我们基本上关注的是该材料在长度尺度上的面以及其尺寸、结构、形状、质量分布等方面的效果。这些是微观结构的分界，就像创造性的成果一样。那么，如何制作这样的样品呢？这里我列出了三种非常常用的显微镜方法，首先是分辨率较低的光学显微镜，然后是两种电子显微镜，分别是扫描电子显微镜和透射电子显微镜，这两种都将在本学期的讲座中包含。如果你阅读样品的首次制作过程，你会发现它们有很多共同点。比如在光学样品中，你必须抛光和修边，然后你要向一侧移动。执行反射模式，你必须将其调整到透射模式。但对于电子显微镜，你看，对于SEN，你看，哦，我得打磨、切割和抛光，仅此而已。但对于电子超显微学，电子微观测，非常关键。如何用本地思维方式思考样品。右？
+
+
+[2026-09-07 13:29:26]:
+ So there are things in common. The common things is that you probably have to cut it. And in some cases you have to publish it. Well, actually, in every case, you have to polish the molding, right? But then an Isemblo case, they say you have the signal, and in other cases they say you don't have to worry about it. Right, now how do we understand these differences
+所以这里有一些共同点。共同点是你可能需要切割它。在某些情况下，你必须公开它。实际上，在每个案例中，你都得抛光模具，对吧？但在Isemblo案例中，他们说你有信号，而在另一些情况下，他们说你不必担心它。那么，我们如何理解这些差异
+
+
+[2026-09-07 13:29:49]:
+ How do we understand these two processes? Well let's think about optical pokers. Right? Uh we're familiar with applicable samples. Now here we have two modes. One is the reflection mode of examination, and the other is the transmission mode. So in a reflection mode, they say we have to polish it. Well, this is easy to understand because you want the surface to be as flat as possible to reduce the resonance scattering on the microcomputers. But then in other cases they stop thinning the transmission volume. Transmission means you have this material, your light source is coming from the other end, and have passed through the sample average my eye, for example. This is the transmission value.
+我们如何理解这两个过程？那么，让我们来想想光学扑克。右？呃，我们熟悉适用的样品。这里有两种模式。一种是反射模式的检查，另一种是透射模式。所以在反射模式下，他们说我们必须抛光它。这很容易理解，因为你希望表面尽可能平整，以减少微型计算机上的共振散射。但在其他情况下，他们停止了减薄传输体积。透射是指你有这种材料，光源来自另一端，并且穿过了样品平均值，比如我的眼睛。这就是透射值。
+
+
+[2026-09-07 13:30:32]:
+ And in this case, uh we say something might be needed, right? Uh not all. Right? So that is determined by the interaction between the light photons and your specimen. For example, if you're going to look at the piece of glass, right, do you have to thin it in order to have the light photons to transmit it through? You don't, right? Otherwise, uh when you release the curtains, our classroom will be black. It's bright because the sunlight can come through the glass windows. you don't have to do it. Right?
+在这种情况下，呃，我们说可能需要点什么，对吧？呃，不是全部。右？所以这取决于光子与样品之间的相互作用。比如说，如果你要看那块玻璃，你是否需要让光子通过玻璃进行变薄？你不需要，对吧？否则，当你拉开窗帘时，我们的教室会是黑色的。明亮是因为阳光可以透过玻璃窗。你不必这么做。右？
+
+
+[2026-09-07 13:31:16]:
+ Uh but then uh if I change the glass to a piece of silicon, all right, what's gonna happen? Silicon is opaque. Alright? Per say if you're not familiar with silicon, let's say copper. Correct? So, copper is opaque. That means you have a piece of copper there, right? the light cannot have it through. Right? But let you use civic, I've exit, right? Silicon is the same thing, right?
+呃，但是如果我把玻璃换成一块硅，好吗，会发生什么？硅是不透明的。明白吗？如果你不熟悉硅，比如说铜。对吧？所以铜是不透明的。那说明你有一块铜，对吧？光线无法透过它。右？但让你用思域，我有出口，对吧？硅也是一样的，对吧？
+
+
+[2026-09-07 13:31:47]:
+ You won't, you have so you waiver, but the light photos cannot go through. Right? That's for common thickness of the silicon. A millimeter size or say 0.1 millimeters, that's okay. Now, right, if I could send it down, send a millimeter size thickness silicon to lower thickness. Let's say let's thin it down to 10 microns. Right? So that's a bit of a size of the very, very thin air. Right? This silica becomes orange in color and possibly transparent. Alright?
+你不会，你有豁免权，但光照片无法通过。对吧？这是针对常见厚度的硅而言的。一毫米大小或0.1毫米，那没问题。现在，如果我能够将其向下发送，将一毫米厚度的硅减薄到更低的厚度。假设我们把它减薄到10微米。对吧？这有点像非常、非常薄的空气的大小。对吧？这个辛迪加
+
+
+[2026-09-07 13:32:31]:
+ So, this is to say, alright, and then those same materials, right, when you fit it down to eat up, right, the light can pass through, right? And you're going to ask why. This is actually very straightforward. How much light photons will be able to transmit through the material at the rate to your eye depends on uh how much it has been lost through the process. Now how light bonus can be lost? It can be scattered, reflected. That's one way. And the other way is that the material will absorb light forms, right? Excitation of mature electrons, and that we'll be talking about a bit later in our later citation techniques. Alright?
+所以，也就是说，好吧，当这些材料被你放下去吞噬时，光线可以穿透，对吧？你会问为什么。这其实非常直接。光子能以达到你眼睛的速度通过材料传输多少，取决于它在这个过程中损失了多少。那么光加成会如何损失？它可以被散射，可以反射。这是一种方式。另一种方式是材料会吸收光的形式，对吧？成熟电子的激发，这部分我们稍后会在引用技术中讨论。明白吗？
+
+
+[2026-09-07 13:33:09]:
+ So, if there's not so much of absorption and scattering, there can be a pattern through the sample of which you have. So you have a computation uh among all these processes, right? So, sending down it obviously reducing the amount of either absorption and reflection so that you have more light photons and making it look the so-called transparent. Alright, closing it down is making sense a little bit. Right now, if we may read it, uh, again was the uh SEM, right? So here I said only polishing and edge one side, right? Though we haven't learned anything about electron microscopy yet, but then from this requirement, from the sample temperature requirement, you probably can figure out in this scanning electron microscopy technique, you are not collecting any electrons passing through the sample. Likely you have the probe coming to the sample surface and you're collecting D, whatever coming out particles from the same side. So you don't care about the transmission at all. But then this is exactly different, opposite case when you deal with transmission electron microscopy, as in A is transmission.
+所以，如果吸收和散射不那么多，样品中可能会形成一个图案。所以你在这些过程中有一个计算，对吧？所以，送下去显然减少了吸收和反射的量，从而获得更多光子，使它看起来像透明的。好的，闭合它有点道理。现在，如果可以的话，呃，再说一遍，是不是用扫描电子显微镜（SEM）？我这里说的是只抛光和边缘一侧，对吧？虽然我们还没学到电子显微镜的任何信息，但根据样品温度的要求，你大概能推断出，在扫描电子显微镜技术中，你没有收集穿过样品的电子。很可能你让探针接触样品表面，收集的是从同一侧排出的D，或者其他粒子。所以你根本不在乎透射率。但这在穿透电子显微镜中恰恰相反，比如A是透射。
+
+
+[2026-09-07 13:34:30]:
+ I mean at this time you cared about electrons passing through your material and reached by your detector. And in this case, it said very credible out to thin specimen needed. Alright? Now, it has to be thin to allow particles to pass through, alright? But then compare this one to the optical sample preparations. out of it. I just didn't say some thinning is needed. is an auto thing.
+我的意思是，当时你关心的是电子穿过你的材料并被探测器接触到。而在这个案例中，它说非常可信地需要稀薄的样品。明白吗？现在，样品必须很薄才能让粒子通过，明白吗？但那就把这个和光学样品的制备对比一下。出去了。我只是没说需要稀释。这是自动的。
+
+
+[2026-09-07 13:35:04]:
+ Why has to be auto-think
+为什么必须是自动思考
+
+
+[2026-09-07 13:35:06]:
+ Why it has to be open thing? Any idea? Yeah, we can that's it really transparent. Transparent in terms of what? Transparent is a good thing, right? But here we're going to differentiate the transparency from light photons to electron transparency. They are a different concept. Something that is transparent to light photons, such as a piece of glass, may not be transparent to electrons. Right? Or uh in a more general meaning, nothing is particularly that one.
+为什么必须是开放的？有人知道吗？是的，我们可以说它非常透明。透明是指什么？透明是好事，对吧？但这里我们要区分光子和电子透明的透明。它们是不同的概念。对光子透明的东西，比如一块玻璃，可能对电子不透明。右？或者更广义地说，没有什么特别属于那个。
+
+
+[2026-09-07 13:35:50]:
+ Make it very, very thin before you can have this so-called electron transparency. Maybe because the thinner it it will be and it's more simple or like like easier to discuss about the structure in it. If you got Okay. So usually my questions are very simple to answer. Alright? Don't think that there's some very deep principles behind or everything. You just go to the very basics of the process and try to analyze it, and then that will lead you directly to the answer, right? So we're talking about the incoming electrons, right? That's going to pass a piece of cell phone
+先把它做得非常非常薄，才能实现所谓的电子透明。也许是因为它越薄，结构讨论起来就越简单。如果你得到了 好的。通常我的问题都很容易回答。明白吗？不要以为背后有什么很深的原理。你只需要从过程的基础入手，尝试分析它，然后就能直接找到答案，对吧？所以我们说的是入射电子，对吧？这会让一块手机通过
+
+
+[2026-09-07 13:36:44]:
+ Okay? So somehow it's made of materials, right? So what is the materials made of
+明白吗？所以它某种程度上是用材料做的，对吧？那材料是什么做的
+
+
+[2026-09-07 13:36:58]:
+ Very good. So we have a positively charged atomic force, right, omitted by some ultrasound electrons. So that's your Alps
+非常好。所以我们有一个带正电的原子力，对吧，被一些超声电子省略了。这就是你的阿尔卑斯山
+
+
+[2026-09-07 13:37:13]:
+ Now, we're thinking about electrons. Did they pan through this? wasn't happen. So this is going back to your high school physics. Right? So, if my electrons travel to this region, right, they will experience very strong coulomb interactions, right? in between this incoming electron and the atomic core of your materials, as well as between this electron and the outer shell electrons of your matter. Alright, so in this case, there are attractions. In this case, here are repulsions. So, the value outcome will be the computation between numbers, but the nature is prolific interaction. Right?
+现在，我们要考虑电子。它们能穿过这个吗？没有发生过。所以这要回到你们高中物理课。右？所以，如果我的电子移动到这个区域，对吧，它们会经历非常强的库仑相互作用，对吧？在这些入射电子与材料的原子核之间，以及电子与物质外层电子之间。好，在这种情况下，存在吸引力。在这种情况下，这里是排斥。所以，价值的结果将是数字之间的计算，但本质上是大量相互作用。右？
+
+
+[2026-09-07 13:38:01]:
+ So you will see this electrons could be repelled, right? Or if it's lucky, it can sort of pass through the slit in between the atomic hollows and get out. But then this is obviously, I don't know why all of this pens there were no ink. This is only the start of the semester. We're running out of ink already. Okay. So so the outcome is that they will be scattered in all different directions. Alright? Now here we only have the one layer of materials, right? If the thickness is getting larger, you're going to have another layer, another layer.
+所以你会看到这些电子可能会被排斥，对吧？或者如果幸运的话，它能穿过原子空心之间的缝隙，然后脱离出来。但这显然是，我不知道为什么这些笔里没有墨水。这才刚开始学期。我们的墨水已经快用完了。好的。所以结果是它们会被分散到各个方向。明白吗？现在我们这里只有一层材料，对吧？如果厚度变大，你会有一层，另一层。
+
+
+[2026-09-07 13:38:51]:
+ So, the thicker you have, right, the more electrons will go all different ways and get lost and never reach the end of the sample. The thinner, we have higher chance to have more electrons passing through it. So that's why electron transparency is so made dependent on the thickness of the sample. And of course, there's a bit of a hidden secret thing there is that skepticum process, all right? Heavy atoms will have more charge, the scary process will be stronger. Alright, so that's it
+所以，越厚，电子越多，越多电子会游向各种方向，丢失，永远到达样品的尽头。越薄，我们越有可能有更多电子通过样品。这就是为什么电子的透明度如此依赖于样品的厚度。当然，这里面还有一个隐藏的秘密，那就是怀疑过程，好吗？重原子的电荷会更多，这个可怕的过程会更强。好了，就是这样
+
+
+[2026-09-07 13:39:26]:
+ Procedures, right? How to do the sample preparation, you have to mount it, you have to cut it, polish it, clean it, etch it, whatsoever, correct? So when you have to do experiment, I'd say it's extremely important that you follow the procedures and get things right. Just reading it for a class is no fun at all. So uh again, a few other steps. Alright, you see, I put down the red lines telling you there are things to think about when you carry out each of the steps. And these worries are coming from whether you have made changes to your real sample due to the sample preparation process
+流程，对吧？样品准备的步骤，你得装裱、切割、抛光、清洁、蚀刻，对吗？所以当你要做实验时，我觉得严格遵守流程、把事情做好非常重要。光是上课读稿子一点都不好玩。所以，呃，再说一次，还有其他步骤。好了，你看，我写了红线，告诉你在执行每个步骤时需要考虑一些事情。这些担忧来自于你是否因为样品准备过程而对真实样本做了改变
+
+
+[2026-09-07 13:40:13]:
+ Right. Sorry, this and this have to be removed, right? We're not going to have any lap on this part. Alright, and uh uh this part uh tells you different sectioning polishing process will create damage on your samples. uh all the same. However, when you use different tools, the effect will be a little bit different. Now, this picture is a little bit anti-intuitive. This is the surface of the sample. So, either you cut it or you polish the surface, right, you create a damage all through the thickness. So the better surface layer will be the worst damaged, right?
+右。抱歉，这个和这个都得去掉，对吧？这部分不会有重叠。好的，呃，这个部分告诉你不同的切片和抛光工艺会对样品造成损伤。呃，都是一样的。不过，当你使用不同的工具时，效果会有些不同。现在，这张图片有点反直觉。这是样品的表面。所以，要么你切割它，要么抛光表面，对吧，你会在整个厚度上造成损伤。所以表面较好的层会受损最严重，对吧？
+
+
+[2026-09-07 13:40:55]:
+ So, you're going to have a layer of fragmented materials. So, this depths is known as the depths of the fragmented layer. follow that, right? So, you don't have the fragmentation anymore, but then you do have the deformation on the material that is created. So, those depths is known as the depths of significant deformation. Now even deeper into the materials. Now you have suffered from a little bit deformation, but not too significant. So this yellow radius tells you the depths of the deformation, which is not significant. Right? Now here this is the table.
+所以，你会有一层破碎的材料。这个深度被称为破碎层的深度。跟着它走，对吧？所以，你不再有破碎，但会产生材料的变形。这些深度被称为显著变形深度。现在再深入材料。你经历了一些变形，但不算太严重。这个黄色半径告诉你变形的深度，这并不显著。右？这是桌子。
+
+
+[2026-09-07 13:41:34]:
+ See, I used different types of branding papers to publish the surface example. And for different running papers, that's going to create a difference in terms of the EF, BS, and DD. So this is a bit of understanding why the choice of the materials that you use in your sample preparation process also cause a difference in the final samples. Here is a photo disclosing this polishing process. You receive. So, these are the silicon carbide fibers embedded in the titanium matrix. So the A shows um after a fine grinding, so you just uh uh grind it, right, using very uh rough sandpapers, right, and you see the surface is full of scratches. Right, then if you polish it, even by rock polishing, you can remove some of the deep scratches and then followed by uh polishing and fine polishing and the surface become uh mirror-like white. Polishing is never that good. Even you publish with the finest set paper, right?
+你看，我用了不同类型的品牌纸来发布表面样本。对于不同的运行纸，这会在EF、BS和DD上产生差异。所以这对你理解为什么样品制备过程中使用的材料选择也会影响最终样品的差异。这是一张展示抛光工艺的照片。你收到了。这些是嵌入钛基体中的碳化硅纤维。所以A表示，嗯，经过细磨后，你只需用非常粗糙的砂纸进行研磨，你会看到表面满是划痕。然后如果你抛光，即使是岩石抛光，也能去除一些深层划痕，接着再进行抛光和细致抛光，表面就会变成镜面般的白色。抛光从来都不算好。即使你用最细的套装纸发表，对吧？
+
+
+[2026-09-07 13:42:50]:
+ If you blow it up with the microbiome, you can still see fine scratches on the surface. So a more gentle action process or function process can happen with the aid of a chemical or simple action. So, that can disclose some of the fine surface new features, such as the pre-boundaries for the effects. Right? Now, after all, let me summary things that when you prepare the sample, the final thing you cared about is that you still have the true structure after all these preparation procedures. And she's like a flipper, so no deformation, no scratches, no pullouts, no false structures, no introduction of foreign element, no smearing, no relief, no rugged edges, no thermal damage. which is not easy at all. For your sample, going through different configuration procedures, but at least some of them will not be satisfied, right? Right? And then this is a sample example of a polished cover surface.
+如果你用微生物组放大，表面仍能看到细微划痕。因此，通过化学或简单作用，可以实现更温和的动作过程或功能过程。这样可以揭示一些细表面的新特征，比如效果的预边界。右？毕竟，让我总结一下，当你准备样品时，最后关心的是经过所有这些准备程序后，你是否还保留着真实的结构。而且它就像一个鳍状体，所以没有变形，没有划痕，没有拉出，没有假结构，没有外来元素的引入，没有涂抹，没有缓解，没有粗糙的边缘，没有热损伤。这一点也不容易。对于你的样品，会经历不同的配置程序，但至少有些程序不会被满足，对吧？右？然后这是一个抛光覆盖面的示例。
+
+
+[2026-09-07 13:43:48]:
+ And you see, these are the polycrystalline grays that are shown, these large grays, and the small grays, right, the spike polish. So this is the so-called microstructures that must be released by using microscopy-based method. the grain size reduced to so small. And for this one, you can still see it, alright, with the optical, low magnification optical microscope. Or was it? Oh they have scary. Right? Now that's uh so much for the microstructure decorations. Now we're going to move into the next category, which is the surface spectroscopies. And that uh how much time is your loop?
+你看，这些是多晶灰色，也就是显示出来的大灰和小灰，对吧，尖峰抛光。所以这就是所谓的微观结构，必须使用基于显微镜的方法才能释放出来。晶粒尺寸减小到如此小。对于这个，你仍然可以看到它，好吧，用光学低倍显微镜。还是说？哦，它们有可怕的。对吧？好了，关于微观结构的装饰就讲这么多。现在我们要进入下一个类别，即表面光谱学。那么，我们还有多少时间
+
+
+[2026-09-07 13:44:30]:
+ Um okay, for good. Right. So for surface spectroscopies, right, uh we are going to encounter a different, very different problem. Right. Now here this table don't have to pay much attention because all these details will be uh will be talked in in the future chapters later or not. But what I want to uh focus on is the numbers listed in this column, right? For a number of surface correlation techniques, including the LJ, X-ray photoelectron spectroscopy, and SIM cell and so forth. So see, there's the underlies depths, that is how deep on the sample surface you will be able to get information. For the top three, you see it's from about 0.5 nanometer, which is five antrons, to about 10 nanometers. This one is Steven's father's one month a layer.
+嗯，好吧，永远。右。对于表面光谱学来说，嗯，我们将遇到一个完全不同的问题。右。这里的表格不需要太多关注，因为所有这些细节都会在后续章节中详细说明，或者不会。但我想重点关注的是这栏列出的数字，对吧？针对多种表面相关技术，包括LJ、X射线光电子光谱和SIM电池等。所以，这里有底层深度，也就是你能在样品表面获取信息的深度。前三个深度大约从0.5纳米，也就是五安特隆，到大约10纳米。这是史蒂文父亲每层一个月的深度。
+
+
+[2026-09-07 13:45:25]:
+ Now we just mentioned a single atom have a size, a diameter about three atrons. Let's say five atoms. Alright? So 5 angstrom, so 0.5 nanometers, is literally the size of a monolayer. So if you have 10 nanometers, that means you have about 20 funnel layers. that's what you have. Right? And that is commonly known as the surface and subsurface region. For anything that only accesses this amount of information is known as the surface calculation techniques.
+我们刚才提到，单个原子的尺寸，直径大约为3埃。假设是5个原子。对吧？所以5埃，即0.5纳米，实际上就是一个单分子层的厚度。因此，如果你有10纳米，那就意味着大约有20层薄膜层。这就是你所拥有的。对吧？这通常被称为表面和近表面区域。任何仅能获取这一深度范围内信息的技术，都被称为表面分析技术。你明白吗？
+
+
+[2026-09-07 13:46:03]:
+ This sense you see things is a little bit cheeky because it does go below to that 500 half micro, 500 nanometers, right? And that is already getting into the deep interior of the materials, disclosing part of the bulking formation of the teacher. So InterScience SIMS is not strictly counted as a surface analysis tool. But the top three is definitely yes. Right. So if I lift it out to look at the real surface creations and look at the requirement for the sample preparation, now if you read it, for example, for Auger, it's a surface cleaning or in-situ surface creation. Now look at the PS instead of service cleaning or institutional service creation. So it looks like for the surface preparation techniques, the only thing you need to do is surface cleaning or or some way you can create a clean surface. Alright? Uh why is that?
+这种感觉有点小调皮，因为它确实低于500微、500纳米，对吧？这已经深入材料的深层，揭示了教师部分的体积结构。所以InterScience SIMS并不严格算作表面分析工具。但前三名绝对是肯定的。右。所以如果我拿出来看实际的表面设计，看看样品准备的要求，比如说，对于螺旋钻来说，是表面清洗或原位表面制作。现在看的是PS，而不是服务清洗或机构服务创建。看起来对于表面准备技术，你只需要做表面清洁，或者某种能创造干净表面的方法。明白吗？呃，为什么会这样？
+
+
+[2026-09-07 13:47:07]:
+ Well, that refers to the definition, the strict definition of a service. And why the surface can be very different from the book. So now think about it. Do you think the surface of the material in terms of structures and compositions are different from the bulk? This is interesting
+嗯，这指的是服务的严格定义。以及为什么表面和书里的结构可以有很大不同。现在想想看。你认为材料的表面在结构和组成方面和整体不同吗？这很有趣
+
+
+[2026-09-07 13:47:32]:
+ Can I be removed
+我可以被移除吗？
+
+
+[2026-09-07 13:47:37]:
+ So, the color. So the pen that half color cannot be removed. And the pen doesn't have color category. Okay. Alright, let me remove some of it. And don't tell anybody that I did this
+所以，颜色。所以那支半色的笔不能被去除。而且这支笔没有颜色类别。好的。好，让我去掉一些。别告诉任何人我做了这件事
+
+
+[2026-09-07 13:48:03]:
+ How about my drugs? Alright, so let's stick to the pen, uh, with some color. Okay, so we're trying to discuss okay what is the difference in between the surface and the bulk, right, in terms of a composition and the structure? Okay? What could be the difference between surface and the bowl? Electrons. Electrons on the surface are three or three areas. Electrons and surface. Yeah, that's close to the electronics reference. I mean this is true, right?
+我的药呢？好吧，那我们就继续用笔，呃，加点颜色。好，我们想讨论的是表面和体积之间有什么区别，对吧，从成分和结构上来说？明白吗？表面和碗有什么区别？电子。表面上的电子有三三个区域。电子和表面。是的，这和电子学的比喻很接近。我的意思是，这是真的，对吧？
+
+
+[2026-09-07 13:48:42]:
+ That is not. I'm looking for a more fundamental answer of what is the difference. So let's start from, right? My very down-to-earth model of how materials are made. So just now I said, okay, so you
+那不是。我想找一个更根本的区别答案。那我们先从，好吗？我非常接地气的材料制造模型。刚才我说，好吧，你
+
+
+[2026-09-07 13:49:05]:
+ Okay, so you have Alex in there, right? Right, covered by elect box. So let's just say it's an atom. Right? that if we're going to make a structure, these atoms have to be arranged in uh some water. Okay, so let's use the simplest one. The same would have a cubic structure of materials. So what's to be structured like? Okay
+好，你把亚历克斯放进去了，对吧？对，被电台盒覆盖了。那就说它是一个原子吧。右？如果我们要做结构，这些原子必须排列在某种水里。好，那我们用最简单的。同样的原理是立方结构的材料。那结构应该是什么样的？好的
+
+
+[2026-09-07 13:49:34]:
+ So we have a unit cell of the cube
+所以我们有一个立方体的晶胞
+
+
+[2026-09-07 13:49:44]:
+ So we have a QP structure. Alright? Now this is the surface of the later. So I only put one unicell. Can imagine this unicell extended in three dimensions, right? Deep down you still have a lot of them. Okay. But now we can look at the surface ones and the ones that are in the interior. Alright? So if we look at this one, it's supposed to be the interior, right?
+所以我们有一个QP结构。明白吗？现在这是后者的表面。所以我只放了一个单胞体。能想象这个单胞体在三维空间中延伸吗？其实你内心深处还有很多。好的。但现在我们可以看看表面的和内部的。明白吗？所以如果我们看这个，应该是内部的，对吧？
+
+
+[2026-09-07 13:50:14]:
+ So how many atoms are in its vicinity? Now you can extend the cell a little bit. So you have one on top, one on bottom, one on the left, one on the right, one in the front, one at the back. So you have a six up. That's okay. Total the surface stuff. Well, you see right away on top of it, there's no neighbors, right? So surface is about intrinsic symmetry breaking. Right? And the structure is already different from the interior.
+那么其附近有多少个原子？现在你可以将晶胞稍微扩展一下。于是，上方有一个，下方有一个，左侧有一个，右侧有一个，前方有一个，后方有一个。所以总共有六个相邻原子。这没问题。计算表面部分时，你会立刻发现，在它的正上方没有邻居，对吧？因此，表面本质上是一种对称性破缺。而且结构已经不同了
+
+
+[2026-09-07 13:50:57]:
+ So in a sense, a Turab is sitting there and looking around, they see its neighbors ran this way. But the surface ones will see a different environment. Alright? So this is structured defense. Right? Now kind of a composition, right? Now think about if, right, let's say if assuming that these atoms are actually forming bonding with all of its neighbors, so it's four six bonds. Alright? Now how about this one, the surface ones? They form one, two, three, four, five.
+所以从某种意义上说，Turab坐在那里环顾四周，它们看到邻居们跑向这边。但地面的Turab会看到不同的环境。明白吗？这就是结构化防御。右？现在算是复合，对吧？现在想想，假设这些原子实际上与所有邻近原子形成键，所以是四个六键。明白吗？那这个，表面键呢？它们形成一、二、三、四、五。
+
+
+[2026-09-07 13:51:34]:
+ Right? So it's supposed to have something there
+右？所以它应该有东西
+
+
+[2026-09-07 13:51:42]:
+ I use the black one. tell anybody. Okay. So we're happy here. Settling there, right? You could have your free electrons in there, but then there's nobody carrying up with it and forming a new bond. All right? Okay. If this is the case, this atom is very active, right? And if you have anything in the environment, gas molecules, whatsoever, it comes, you have a chance to form a different bound with the foreign species of the cell.
+我用黑色的那个。告诉任何人。好的。所以我们这里很满意。安定下来，对吧？你可以把自由电子放进去，但那样就没人跟着它形成新的键了。明白吗？好的。如果是这样，这个原子非常活跃，对吧？如果你在环境中有任何气体分子，无论它来了，你都有机会与细胞的外来物种形成不同的结合。
+
+
+[2026-09-07 13:52:18]:
+ Right? So that's how chemical is also the threat. That's why uh the surface of the materials and the interior of the materials could be very different. Indeed, low-energy electron interactions. Can also see, right? If we have a surface, we do not allow the nil bonding forming on the surface atoms. The surface atoms may reconstruct, forming a new structure known as the surface reconstructions. So, the structures can be different, the chemically and animal properties can be different as well. And that's why people have to study the surface. And how do we do that?
+右？所以化学物质也是威胁。这就是为什么材料表面和内部可能有很大不同。确实，低能电子相互作用。你也能看到吗？如果我们有一个表面，我们就不允许无结合在表面原子上形成。表面原子可能会重建，形成一种新的结构，称为表面重建。所以，结构可以不同，化学和动物性质也可能不同。这就是为什么人们必须研究表面。我们该如何做到这一点？
+
+
+[2026-09-07 13:52:55]:
+ we want original surface, right? Either we can clean the surface that is already leading to the air and got contaminated, we clean it up, or in CTV, we put in a vacuum in the clean environment, and by cutting it into and create a new surface that was not contaminated, then you could carry out the measurement of this clean surface. So surface characterizations of it involves that uh you have to create case surfaces. I have been talking for one hour and uh fifty minutes. I think that's my biggest. Let's take a break here. We're taking the next break, okay? And coming back for the rest of the 2020 set
+我们想要原始表面，对吧？要么我们清理已经通向空气且受污染的表面，然后清理它;要么在CTV中，我们在干净环境中放入真空，通过切割并创建一个未被污染的新表面，这样你就可以对这个干净的表面进行测量。所以表面特性分析涉及，呃，你必须制作外壳表面。我已经讲了一个小时五十分钟。我觉得这是我最大的一次。我们休息一下。我们下一个休息时间，好吗？然后回来继续2020年节目的剩余内容
+
+
+[2026-09-07 13:54:05]:
+ Yes
+邀请我到这里
+
+
+[2026-09-07 14:05:17]:
+ Uh are needed, right? That's really to differentiate the surface information from that of the people. Alright? Now in terms of uh surface preparations, I cannot mention it, right? you want to clean certain things, there are only two ways you can do it. One is you clean it up using all different ways. Or uh you put the sample in a very clean environment, then in the environment you create a clean surface, right, without the problem of contamination. Right, but then uh as a matter of fact, depending on what kind of surface information or surface characteristics you want to study. Right, and the preparation technique is a bit different. For example, if it is the surface contamination you want to study, right?
+呃，需要的，对吧？这主要是为了区分表面信息和人体信息。明白吗？关于表面处理，我不能多说，对吧？你想清洁某些东西，只有两种方法。一种是用各种不同的方法来清理。或者，呃，你把样品放在非常干净的环境中，然后在环境中创造一个干净的表面，对吧，没有污染的问题。对，但实际上，这取决于你想研究的表面信息或表面特性。对，制备技术有些不同。比如说，如果你想研究的是表面污染，对吧？
+
+
+[2026-09-07 14:06:01]:
+ That means you don't have to do any surface preparation because that's the dirty part you want to look at. But then, if you want to look at the surface, the real surface of some sort of basalt, for example, you want to look at the intrinsic surface, then you have to create a number of cleaning techniques. You have to remove the top surface contaminations and make sure the surface stays clean along with your completion process. So now we're gonna have a bit more discussions on that. Right. But then uh if you want to look at possible surface reactions, then you need to d design a mechanism, a transfer mechanism that will allow you to study such changes or bury rate. So just depending on what kind of surface techniques you want, the surface preparations could be a bit different. Right, when some of handlings you can read it, but then just bring you to the effect of surface cleaning process. So here I show the comparison of a two XPS spectrum. So XVS, it's actually photo electron spectroscopy.
+这意味着你无需进行任何表面制备，因为那是你想观察的脏污部分。但是，如果你想观察某种玄武岩等材料的真实表面，即本征表面，那么你就需要开发多种清洁技术。你必须去除表面顶部的污染物，并确保在后续处理过程中表面保持清洁。因此，接下来我们将对此进行更多讨论。好的。此外，如果你想研究可能的表面反应，就需要设计一种传输机制，以便能够研究此类变化或埋入速率。因此，根据你所选择的表面技术类型，表面制备方法可能会有所不同。好的，在某些操作环节中你可以阅读相关内容，但这只会让你了解表面清洁过程的影响。这里我展示了两张XPS谱图的对比。XPS即X射线光电子能谱，将会是
+
+
+[2026-09-07 14:07:14]:
+ Will be the first calculation technique we're going to discuss it later. Okay, so here uh for four you've cleaned the surface, right, you see there are a lot of different compositional elements from the sample. But then we have a standing out carbon peaks in there, right? And then when you clean the surface and usually inside XPS, what you can do is that you create uh energetic ion beam and use the ions to splutter the surface. And these ions being sparter off the top surface layers, maybe subsurface layers, right, depending on this part of the time that we use, right? A blunts is very top surface layer, even that they are the dirty things. Some minutes are removed, you will be able to see the real surface varying at the width. So, what you see is here, the corresponding carbon peak, which is mainly coming from the hydrocarbon concentrations, are now gone in such a sample. Now uh in other patients, right, so this is an experience of a certain pig. In other locations you do see, after you start to remove the surface contaminants, the real pieces that are actually buried endanised now are coming up.
+这将是我们稍后会讨论的第一个计算技术。好的，这里，呃，你已经清理了表面，你会看到样品中有很多不同的成分元素。但我们会有一个突出的碳峰，对吧？当你清理表面，通常是在XPS内部，你可以产生高能离子束，利用离子喷溅表面。这些离子会从表层表面层，可能是次层层，根据我们使用的时间段而定，对吧？钝器是非常顶层的表面层，即使它们是最脏的部分。去除几分钟后，你会看到真实的表面宽度变化。所以你看到的，对应的碳峰，主要来自烃类浓度，在这样的样品中已经消失了。现在，呃，在其他患者身上，这就像某个猪的经历。在其他部位，你会看到，当你开始去除表面污染物后，真正被埋藏的部分会浮出水面。
+
+
+[2026-09-07 14:08:32]:
+ Before that was not visible, but most of sophisticated ones. Okay, uh now of course there are different ways in C2A that help you create a clean surface, including the in-situ heating, evaporation of scripting, or cleavage. cleavage is a very common by fault to create a new surface. Right. Now uh I pretty much finished the discussion of you know the sample preparation techniques or steps uh that you can need to prepare a sample. When you think about things I talk about, right, it's actually a very simple straightforward, right? So I said the purpose is to first shaping it, cleaning it down, cutting it to smaller size, right? And then there's a step I want to make it flat for some of the applications. And then I have to clean it up due to the history of the sample preparation. Right?
+以前这些是看不到的，但大多数复杂的方法都是如此。好的，呃，当然C2A中有不同的方法可以帮助你创造干净的表面，包括原位加热、脚本蒸发或解理。解理是创建新表面时非常常见的缺陷。右。现在，呃，我基本上已经完成了关于样品准备技术或步骤的讨论，嗯，这些步骤是准备样品所需的。当你想到我说的事情时，其实是非常简单明了，对吧？我说目的是先塑形，清理干净，然后切割成更小的尺寸，对吧？然后有一个步骤，我想让它在某些应用中变得平整。然后我还得清理它，因为样品制备的历史。右？
+
+
+[2026-09-07 14:09:26]:
+ And the methods to do that are also very common in the series. The first thing is that you cut it, you slice it, followed by mechanical polishing. Remember this one I said you would create a lot of deformations to the sample. Then uh this mechanical polishing will be finished by uh fine touching with either chemical etching or thermal etching or iron etching. So these are the uh three uh milder um uh methods that can further polish the surface and um uh release the real surface of the sample. Right? So, this is a brief summary of some of Pratt techniques. Now at this stage I'd like to propose three questions for you to think about. Alright? The first wes question is that if you have to handle a very thin sample, right, so what could be the problems that you encounter and what are the possible tricks that can help
+实现这一目标的方法在该系列中也非常常见。第一步是切割、切片，随后进行机械抛光。请记住我之前提到的，这会在样品上产生大量变形。然后，这种机械抛光将通过化学腐蚀、热腐蚀或离子腐蚀进行精细处理来完成。因此，这三种较为温和的方法可以进一步抛光表面，并揭示样品的真实表面。对吧？这就是对某些制样技术的简要总结。现在，在这个阶段，我想提出三个问题供你们思考。好吗？第一个问题是：如果你必须处理一个非常薄的样品，那么你可能会遇到哪些问题，以及有哪些可能的技巧可以帮助
+
+
+[2026-09-07 14:10:26]:
+ For example, what might be the problems
+例如，可能存在的问题是什么
+
+
+[2026-09-07 14:10:38]:
+ So I have a subload here, right? It's thing, but it's not that thing. Alright? Uh what do I mean by saying not that thing? because I can still use my hand to hold it. And imagine if I keep on polishing and thinning it down to certain inch, there's no way I can lift it up by my hand, right? Because such a mechanical interaction is pretty much predicted. Okay? So in that case, what can I do? I cannot hear the wind any more.
+所以我这里有个子载，对吧？是那个东西，但不是那个东西。明白吗？呃，我说不是那个东西是什么意思？因为我还能用手握住它。想象一下，如果我一直把它打磨稀释到某英寸，我根本没法用手把它抬起来，对吧？因为这种机械作用几乎是可以预测的。明白吗？那我能做什么？我听不到风声了。
+
+
+[2026-09-07 14:11:09]:
+ Now if I cannot handle it, that means I will have trouble to transfer it to the equipment for the correlation. So how do we do it? Like keep it in the liquid and they like put it in the fridge and stocking. Okay, so we have a few different things. Put in the liquid, frizz it in the fridge. Yeah. If you want, then it might it is like spritzing, but maybe like it could be a bit of that. Now you're ready to put it into the equipment. Yeah. You have to defroze it and dry it, and after that, how can you put it in the ores?
+如果我处理不好，那我就很难把它转移到设备进行相关处理。那我们该怎么做？比如保持它在液体中，然后放进冰箱和储料里。好的，我们有几种不同的方法。放进液体，把它放进冰箱。是的。如果你愿意，可以做喷雾，但也可以有点类似。现在你准备好把它放进设备了。是的。你得解冻并晾干，之后怎么放进矿石里？
+
+
+[2026-09-07 14:11:52]:
+ Wow. But um when talking about the removals, I think uh in the liquid or freezing it can be stronger. I I guess it's the phrasing.
+哇。但说到去除，我觉得液体里或者冷冻会更浓。我想是措辞问题。
+
+
+[2026-09-07 14:12:02]:
+ To transfer it without doing much ado to the equipment. How would you be able to do that
+这样可以转移它，而不使对设备造成太大麻烦。你怎么做到的？
+
+
+[2026-09-07 14:12:15]:
+ Or you can put it in in the middle of two thing blocks. So you can order while it's still in the middle. That means you have to put it in somewhere, right? But uh is there anything? The thing is that you cannot, with a certain thin sample like that, there's no way you can grab it or pick up with anything, right? So that's the thing. If you can handle it, that means if you can put it in somewhere else, then you can just put it directly in the middle. Maybe just put it there first before you do that. could require all different things and does not allow you uh a sort of you know s settings that you propose. Sorry.
+或者你可以把它放在两个模块中间。所以你可以趁它还在中间时下单。这意味着你得先放进某个地方，对吧？但是，呃，有没有什么东西？问题是，对于这么薄的样本，你根本不可能拿到它，或者用任何东西拿走它，对吧？这就是问题所在。如果你能处理它，那就意味着如果你能把它放到别的地方，那你就可以直接放在中间。也许先放在那里再做。可能需要各种不同的东西，而且不允许你用你提议的那种你知道的某些设置。抱歉。
+
+
+[2026-09-07 14:13:02]:
+ Well stick it and put it in glass. Stick it, uh, well, it's very similar. The methodology-wise, it's idea-wise, it's very similar to his: that you have some settings to help you to grip the sample, like a holder or whatsoever. But the the problem is that when you sing it out, all right, uh they might not yeah, they may not ask you to have a homework or whatsoever. Uh chat. So, just like, what about using like because my English is not very well, so I just try my best to describe it. Like for one thing, this one is pretty thin. This is the thing I need to do scores. So, I need another two thin materials or soft other thread to stick it. And I I cut it in another thread of that, so I could see uh either thing, but it became bigger enough so I could handle it.
+好吧，把它粘住并放入玻璃中。粘住它，嗯，好吧，这非常相似。在方法论上，在理念上，它与他的方法非常相似：你有一些设置来帮助固定样品，比如夹持器之类的。但问题是，当你把它取出来时，好吧，嗯，他们可能不会……是的，他们可能不会要求你做家庭作业什么的。呃，聊天。所以，就像，比如使用像……因为我的英语不太好，所以我只是尽力去描述它。例如，这个很薄。这是我需要做评分的东西。所以我需要另外两种薄的材料或柔软的线来粘住它。我用另一根线剪开它，这样我就能看到任何东西，但它变得足够大以便我能处理它，而那个薄的则变得
+
+
+[2026-09-07 14:13:56]:
+ And the thin one became a line, and trying to put it in the machine and to discover it, whether it's enough. I'm not quite sure if I catch what we're gonna say. Just like the hamburgers, for example, the hamburger and the meat is what we need to discover. And so it became habitat and we cut it so we could see like for uh another angel to like to like to discover these materials or the meat. And you could say that it would be thin, the original one is thin, but if we put it in the hamburger one and cut it, it becomes large. If it can be put there, then you don't have the problem. Just the same thing, right?
+薄的变成了一条线，试着把它放进机器里，发现它是否足够。我不太确定我们要说什么。就像汉堡一样，比如说，汉堡和肉是我们需要发现的。所以它成了栖息地，我们切开它，这样我们就能看到，比如说，呃，另一个天使喜欢发现这些材料或肉。你可以说它会很薄，原本的那个很薄，但如果我们把它放进汉堡那个里并切开，它就会变大。如果能放在那里，那就没有问题了。就是一样的，对吧？
+
+
+[2026-09-07 14:14:38]:
+ You can put it already to handle. I think it's right? I think the idea that the two of them are actually getting very close to it if this is some problem, the limitation is that you cannot directly handle it. You need some help. So their approach is that I have some presenting there to help me to build it up, right? And my challenge is that if presetting is not allowed, you have to tell himself anything you can do to make it happen
+你已经可以把它处理好了。我觉得是对的？我觉得如果这是个问题，他们俩其实已经非常接近了，限制在于你不能直接处理。你需要一些帮助。所以他们的方法是让我在那里有一些演示，帮助我去构建它，对吧？我的挑战是，如果不允许预设，你必须告诉自己你能做的任何事情来实现它
+
+
+[2026-09-07 14:15:09]:
+ Two before but it's not a complaint, you can't do it. The answer is actually very st straightforward, right? So is that you only have to sample anything you can do to help? The sample itself can help. Right. So so what's the problem? The problem is that if you think, you cannot handle it. If you stick you can, right? Right? So, can you have a sample with part of the thing, the other is not?
+之前有两次，但这不算抱怨，你做不到。答案其实非常直接，对吧？也就是说，你只需要采样任何你能做的来帮忙？样本本身就能帮上忙。对。那么问题是什么？问题是如果你认为，你无法处理它。如果你坚持，你就能做到，对吧？对吧？所以你能不能有一个包含部分内容的样本，而另一部分则没有
+
+
+[2026-09-07 14:15:39]:
+ Fold? I don't know. You can do it, right? you can polish it to a bad shape. So one side is thin while the other side is thick for you to handle. Yeah. Okay. Well, now you have uh colours. I want to have the exclusive evidence to see if it's real or not. At the candidate, or I put it in the electron microscope to see if they see the fine structures.
+折叠？我不知道。你能做到吧？你可以把它抛光到形状不好。这样一边很薄，另一边又厚，方便你操作。是的。好的。现在你有了颜色。我想有独家证据，看看它是真是假。在候选人那里，或者我放进电子显微镜看看他们能不能看到细微结构。
+
+
+[2026-09-07 14:16:15]:
+ Some people, or I forge it, or I make a fake product, and create such nice microstructures for you. It's much more expensive than the money you pay, right? So it's worth it. Okay. So if in a padded, right, how would you be able to do that? Well you can think about cut cutting uh a slice of uh uh say uh sausage. Have you guys been able to cut the meat, the raw meat? Yeah? Okay, so the way that you cut the raw meat is that you froze it a little bit, make it a bit harder, and then cut it and cut it very thin, right? And the problem is that if you defroze it, it becomes very soft, right?
+有些人，或者我锻造，或者做假货，给你做出很漂亮的微观结构。这比你花的钱贵多了，对吧？所以很值得。好的。如果是有衬垫的，你怎么做到？你可以考虑切，呃，切一片，呃，比如说香肠。你们能切开生肉吗？是吗？好的，切生肉的方法是先稍微冷冻，让它变硬一点，然后切得很薄，对吧？问题是解冻后，它会变得很软，对吧？
+
+
+[2026-09-07 14:16:56]:
+ in that case it becomes very difficult to cut. And so that's the problem with the peacock feather, it's the soft material. So, when you're cutting it, it becomes very difficult. Alright? So now the question is that how would you be able to cut a piece of soft material
+那样的话，切割就变得非常困难。这就是孔雀羽毛的问题，就是软的材料。所以当你在剪的时候，会变得非常困难。明白吗？那么现在的问题是，你怎么才能切割一块柔软的材料
+
+
+[2026-09-07 14:17:16]:
+ Yeah, similar ideas. Right. you need some aid, alright, to make it hotter. So a common way that we do it is that we're going to uh fix it into an epoxy, right, which is a liquid, you just soak in it and you let it solidify and become a solid and fix it. Now you have a very hard stuff you can cut to polish as well. So that's the easy way to do it. That how to make a prosectional sample. So, what do I mean by perception is that if I have a sample of the surface, then if I look at the sample, I want to look at the surface. So I will look from down to bottom, all right? So this is called a planner view.
+是的，思路类似。对。你需要一些辅助手段，好吧，来让它更热。我们常用的方法是将它固定在环氧树脂中，对吧，环氧树脂是液态的，你只需将其浸泡其中，然后让它固化变硬并固定住。这样你就得到了一种非常坚硬的材料，可以切割和抛光。这是最简单的方法。这就是如何制作一个横截面样品。那么，我所说的“截面”是什么意思呢？如果我有一个表面样品，当我观察这个样品时，我想看的是表面。所以我会从下往上看，好吗？这被称为平面视图，你可以这样做
+
+
+[2026-09-07 14:18:13]:
+ Well, you can do from bottom up is the same thing, or as you look at the interface. Now, cross-section means you look at the side, right? You do the colour side. So in case I want to look at the cross-section of the sample, right, I want to look at the cross-section of the sample, right, how can I do it? Cut. And I cut it, right? The sample got to be very thin. So in this case, my sample is thin, right? have a lot of mentioning this one is very single. So I look it this way, there's no problem, right?
+其实，你可以从下而上做同样的事，或者看界面。现在，截面是指你看侧面，对吧？你要看颜色侧面。所以如果我想看样品的横截面，对吧，我想看样品的横截面，对吧，我该怎么做？切。然后我切了，对吧？样品必须非常薄。所以在这种情况下，我的样品很薄，对吧？我经常提到这个非常单一。所以我这样看，没问题，对吧？
+
+
+[2026-09-07 14:18:50]:
+ But if I look at the side of some of them together, very good. So it lies in the difficult of handling. Say, well, you can always cut it and like a polish done in this way, but that means you can leave a very thin sample prepared sugar, which is very difficult, right? And the alternative approach that he mentioned is excellent. You have many of this, you stack together, increase the thickness. Now you can handle it as you wish. So, these are just some of the real things that you encounter in your simple preparations. But the idea is that, if you think about it, none of these tricks are difficult, right? So all these are kind of so-called voltag tricks, right, you can use. But then without it, you will not be able to make a sample.
+但如果我看它们的侧面，非常好。所以问题在于操作的难度。比如说，你总可以把它切开，像抛光一样用这种方式处理，但这意味着你可以留下非常薄的样品，处理好糖，这非常困难，对吧？他提到的另一种方法非常棒。你有很多这种东西，堆叠起来，增加厚度。现在你可以按自己的意愿处理它。所以，这些只是你在简单准备过程中遇到的一些真实情况。但想法是，如果你仔细想想，这些技巧都不难，对吧？所以这些都是所谓的伏尔塔格技巧，你可以用。但没有它，你就无法制作样品。
+
+
+[2026-09-07 14:19:34]:
+ So that's the whole idea of sample preparation. That you are interested in the last end of the result after you analyze materials, you get the data, you carry out an analysis. that sounds fun, a high-tech. But on low-tech end, you need to have to somehow satisfy the need to be put into equipment so that that can carry you out to the last step of analysis. And that first start is extremely important. And in many cases, it requires little tricks that you have to develop to make it happen. Alright, so that's the whole idea of sample crowns. Important. So called the Voltag, it's not that simple. Then now I'm going to switch the gear a little bit.
+这就是样品准备的全部理念。你关注的是分析材料后，收集数据，进行分析的最后一端。听起来很有趣，是高科技。但在低技术端，你必须满足设备的需求，这样才能带你进入分析的最后一步。而这个第一步非常重要。在很多情况下，你需要开发一些小技巧才能实现。好了，这就是样品冠的全部概念。很重要。叫做Voltag，其实没那么简单。现在我要稍微换个角度。
+
+
+[2026-09-07 14:20:21]:
+ still was the focus of surface analysis techniques. So why there's a sample graph that I mentioned? Well, the other preparation I need to discuss is to keep the sample surface clean. So, we're still talking about surface carriations. So, why I have to keep the sample surface clean, but I just mentioned, if you have created a plain surface, right, but then you expose it to air, right, like what we have in this classroom, well, you can imagine a lot of things can happen, right? Because although in this classroom we see a sort of an empty space around us other than all of you, it doesn't mean the things you don't see doesn't exist. So what else are there in this classroom? Gas molecules. Right? So these are the things that will travel you along, right?
+仍然是表面分析技术的重点。那么，为什么我提到的样品图谱会是这样呢？嗯，我需要讨论的另一个制备步骤是保持样品表面的清洁。我们仍在讨论表面污染问题。那么，为什么我必须保持样品表面清洁呢？正如我之前提到的，如果你已经制备了一个平整的表面，对吧，但随后将其暴露在空气中，就像我们这个教室里一样，你可以想象会发生很多事情，对吧？因为虽然在这个教室里，除了你们所有人之外，我们看到周围似乎是一片空旷的空间，但这并不意味着你看不到的东西就不存在。那么，这个教室里还有什么呢？气体分子。对吧？所以这些就是
+
+
+[2026-09-07 14:21:21]:
+ And they will stick on your surface and contaminate it. So that if you leave a surface, even if you have cleaned it to air, in no time, it will be covered by something else and be no longer your original surface. And that brings the need of vacuum. So what is vacuum? Vacuum logic, you want to be amplitude. Right, empathy, amputee of what? For example, if I say this room is empty, that probably means I let all of you go out and remove all of the chairs and the tables, right? There's nothing in there that says empty. But that cubes empathy does not mean that, it's the empathy of the gas molecules. No.
+它们会粘附在你的表面上，污染它。所以即使你已经把表面清理干净，但很快它就会被别的东西覆盖，不再是你原本的表面。这就带来了真空的需求。那么真空是什么？真空逻辑，你想要的是振幅。对，共情，截断什么？比如说，如果我说这个房间是空的，那大概意味着我让你们所有人都出去把所有椅子和桌子都搬走，对吧？里面没有任何说空的。但立方体的共情并不意味着空，而是气体分子的共情。不。
+
+
+[2026-09-07 14:22:08]:
+ more searchable absolute entity, right? And how do you make sure in a sort of space, you remove every one of the gas molecules out? Well, in the extreme scenario, maybe you can do that. But the truth is that uh you can't. Alright? Now, we're going to think about philosophically data: why you can't make sure there's no molecules who are in a container. The answer is that you can't, right? cannot achieve this absolute zero
+更可搜索的绝对实体，对吧？那你怎么确保在某种空间里，把所有气体分子都剔除出来？在极端情况下，也许你可以做到。但事实是，呃，你做不到。明白吗？现在，我们要从哲学数据角度思考：为什么你不能确保容器里没有分子。答案是你做不到，对吧？无法达到绝对零度
+
+
+[2026-09-07 14:22:40]:
+ So if it's not absolute zero, then what is back to? You have less molecules. Right? How much less? As low as you want. Alright, so that you can't do it. So it's not a statement. And the range was that environmental. Whenever we have that, we have vacuum. But you say, but then you have, like, in the average, you have more gas molecules and less gas molecules.
+那么如果不是绝对零度，那又回到了什么？分子减少了。右？少多少？你想降多少都行。好吧，这样你就不能做了。所以这不是一种陈述。而且范围就是那个环境因素。只要我们有那个环境，我们就有真空。但你说，但你说，平均来说，气体分子更多，气体分子更少。
+
+
+[2026-09-07 14:23:25]:
+ That's true. So that's why we differentiate vacuum into uh low vacuum, high vacuum, and ultra high vacuum. So we do differentiate. And from that you probably would already realize is that then a descriptor to the vacuum must be pressured too. In the following 45 minutes, what we're going to discuss is that the basic terminologies that we use to describe the vacuum conditions, what vacuum is like, and what are the processes, the gas processes that will occur in the vacuum. And through that analysis, we hope to make a calculation and to see how long do we need for a model layer of gas molecules to be formed on the green surface. So, when we have to do that, then you put it as obvious, isn't it? Now, we always cared about the clean surface. Then we want to take a measurement of the surface. measure the kid's time.
+确实如此。这就是为什么我们将真空区分为低真空、高真空和超高真空。我们确实进行了区分。从这一点你可能已经意识到，描述真空状态也必须涉及压力。在接下来的45分钟里，我们将讨论用于描述真空条件的基本术语、真空的特性以及真空中发生的气体过程。通过该分析，我们希望进行计算，以确定在清洁表面上形成单分子层气体所需的时间。因此，当我们必须这样做时，这不是很明显吗？我们一直关注的是我们想要获取的
+
+
+[2026-09-07 14:24:30]:
+ Right? So how much time do we have before it is contaminated? is something we cared about. Right? So, if we know how long does it take for an amount of layer of gas to reside on our surface and surface get contaminated, if our measurement can be done faster than that, we're good. If it's slower than that, it doesn't work. Okay, so that's the goal. Right. Before we can reach that goal, we have to go through uh a bit of the physics, right? I'm not sure the background of uh all of you.
+右？那么，我们还有多少时间会被污染？这是我们关心的事情。右？所以，如果我们知道表面上一定量的气体需要多长时间，并且表面会被污染，如果我们的测量速度比这个更快，那就没问题。如果速度慢于这个速度，那就不行。好的，这就是目标。右。在我们达到那个目标之前，我们得先了解一下物理原理，对吧？我不太清楚你们的背景。
+
+
+[2026-09-07 14:25:04]:
+ We have a few tens of you. My guess is that uh uh you may be coming from uh different uh backgrounds, right? Presumably, I think you have it, but I'm not sure. Because the basic knowledge you're going to have, if you're coming from physics majors, sure, you have learned that. be familiar with that. Chemistry, uh you should, as well. I think I have heard that before. But different disciplines, then I'm not sure, right? But then, this is the very basic way to rely on for our later discussions. Now, but first of all, alright, uh in terms of uh vacuum discussions, we need a few terminologies which we can cover by before we go on with that discussion.
+我们有几十位。我猜你们可能来自不同的背景，对吧？大概，我觉得你们有，但我不确定。因为你们将要掌握的基本知识，如果你是物理专业的，当然，你们已经学到了。要熟悉这些。化学，呃，你也应该了解。我想我以前听过这个说法。但不同学科，我不太确定，对吧？不过，这就是我们后续讨论中最基本的依赖方式。首先，关于真空讨论，我们需要一些术语，可以先介绍一下，然后再继续讨论。
+
+
+[2026-09-07 14:25:50]:
+ The first of all is the inferenc of the gas molecules. So all this discussion about gas molecules in the space, okay? So what is mean free caste? Minifrey pass is the average distance that the molecule travels in the gas between two uh successive collisions with other molecules of that gas. That means what? That means if I am gas molecules, right, and she is another one, I'm not come to her, apart from this point that I travel, right, and travel until I'm not going to him. So that my second position, the distance in the topic, is the mean frequencies only. All right? We're asking you to test, right? Yeah, the second thing is the molecular equivalent of rate for EPA.
+首先是气体分子的推理。所以所有关于空间中气体分子的讨论，好吗？那么什么是平均自由阶级？迷你弗雷通道是分子在气体中两次连续碰撞后平均行进的距离。这意味着什么？这意味着如果我是气体分子，对吧，而她是另一个，我不会去找她，除了我移动的这一点，直到我不去他那里。所以我的第二个位置，也就是话题中的距离，只是平均频率。明白吗？我们是在让你测试，对吧？是的，第二个是EPA速率的分子等价物。
+
+
+[2026-09-07 14:26:36]:
+ So what does that mean? It is the number of molecules striking the surface per unit area per unit tax. So rate, right? Basically, you have a collector, and you're waiting for the particles to hit up. So on this permitted area, you count the number of platforms that need to permit the top. That city would rate. And the last methodology is the so-called funnel layer formation tab. I have to emphasize the importance of this in terms of the surface analysis. It is the time required for a freshly painted surface to be covered by a layer of a gas of one molecule thickness. One layer of the gas that fully covers the surface, right?
+那这意味着什么？它是每单位面积每单位税入面分子的数量。所以是rate，对吧？基本上，你有一个收集器，等待颗粒撞击。在这个允许区域内，你计算需要允许顶部的平台数量。那个城市会进行rate。最后一种方法是所谓的漏斗层形成标签。我必须强调这在表面分析中的重要性。它指的是新涂装表面被一层分子厚度气体覆盖所需的时间。一层气体完全覆盖表面，对吧？
+
+
+[2026-09-07 14:27:22]:
+ How loud do I dance in all the information turned? Right? So our goal is towards the end we'll figure out the requirement of that one uh by correlating to the pressure of the uh space that we have. Right, so where do you got the last guess? Right, I guess uh this is something you all know. Or we have ideal gas and real gas, and the difference between the two is that ideal gas is an abstract concept. you have the gas molecules of no volume, right? Can it be symmetrical? can be abstracted into a single point, right? And the molecules cannot expose each other, so there's no interaction between each other.
+在所有信息传递中，我应该多大声地跳舞？右？所以我们的目标是，在最后阶段，我们会通过与我们拥有的空间压力的相关性来确定那个气体的需求。对，那你最后的猜测是从哪里来的？对，我想这应该是你们都知道的。或者我们有理想气体和真实气体，两者的区别在于理想气体是一个抽象的概念。你有没有体积的气体分子，对吧？它能是对称的吗？可以抽象成一个点，对吧？而且分子之间不能互相暴露，所以彼此之间没有相互作用。
+
+
+[2026-09-07 14:28:03]:
+ They do collate, alright, but then they carry out a random walk and then during collision they do not produce energy. So this is the case of the IQ guess, right? But then in terms of real gas, things are different because real gas molecules takes volume. There are interactions in between different gas molecules, right? And they do not, I mean, they do carry a random, but then when they collide, they do lose energies to each other. So it's an e-elastic scattering process. Right? But uh even with that, we can still go back to the ideal case by looking at the three basic rules, right? I will not read through of them, but let you put your attention onto the last one, the general gas law, which will be based on discussion now. So the shadow gas law can be uh written into two different formats.
+它们确实会合并，但随后会进行随机游走，碰撞时它们不产生能量。这就是IQ猜测的情况，对吧？但对于真实气体来说，情况不同，因为真实气体分子会吸收体积。不同气体分子之间会有相互作用，对吧？它们不会，我的意思是，它们确实携带随机能量，但碰撞时会相互失去能量。所以这是一个电子弹性散射过程。右？但即便如此，我们仍然可以通过看三个基本规则回到理想情况，对吧？我不会逐一读，但请你关注最后一条，即一般气体定律，这部分将基于现在的讨论。所以影子气体定律可以写成两种不同的格式。
+
+
+[2026-09-07 14:28:53]:
+ When is P equals to NRT or P equals to NKT? Difference is that this is a capital N and R, and this is a lowercase N and K. So representing this capital N represent the number of walls of the gas molecules per unit volume. Alright? And R is the gas constant. Right? And this lowercase n is the number of gas molecules, not number of moles, number of gas molecules per unit volume. So the difference in the two is one avogadle cuscit. Okay? And this K.
+P等于NRT，P等于NKT？区别在于，这里是大写N和R，小写N和K。所以，表示这个大写N代表单位体积气体分子壁的数量。明白吗？R是气体常数。右？这个小写字母n是气体分子的数量，不是摩尔数，而是单位体积的气体分子数。所以两者的差是一个avogadle cuscit。明白吗？还有这个K。
+
+
+[2026-09-07 14:29:33]:
+ It is the Boltzmann constant, right, instead of the R, which is the gas constant. So you can choose either to use this one, to stick to it, or you can choose to use this one as well. So don't mix the two things. For example, you cannot write P equals capital N, KT. That doesn't work. Alright? So you just skip to one of them, right? Then uh let's say I look at gas, then if you uh extend it to real gas, you have to modify the equation a little bit. Whereas a mutation comes first by introducing the volume of the gas molecules, by introducing the interaction in tweets gas molecules and so on, so force, but eventually you take the same format of the gas world. Right?
+它是玻尔兹曼常数，对吧，而不是R，R是气体常数。所以你可以选择用这个，坚持它，或者也可以用这个。所以不要把两者混用。比如，你不能写P等于大写N，KT。那是行不通的。明白吗？那你就直接跳到其中一个，对吧？然后，比如说我看气体，如果你把它扩展到真实气体，你就得稍微修改一下方程。而突变首先是通过引入气体分子的体积、推特等气体分子的相互作用来实现，所以是力，但最终你会采用相同的气体世界格式。右？
+
+
+[2026-09-07 14:30:18]:
+ So that's it. Right, and with that, right, um, one of the important um uh questions um that you use is the Maxwell-Boltzmann's velocity distribution of the gases, right? So, this is given for the probability density function of the distribution of gas velocity. saying that right for a gas with velocity of a v along one direction. So we have three dimensions, x, y, z. So look at one of the directions. Well, F B, right, this is the probability density function can be described, right, using this format. Right? And then, with that, we can calculate the probability that a particle having a speed between the velocity v and the velocity v plus dv, right, in this small region. And that probability can be simply written using the density function.
+就是这样。对，关于这个，嗯，嗯，一个重要的问题是你用到的麦克斯韦-玻尔兹曼气体速度分布，对吧？这是给出气体速度分布的概率密度函数。对于速度为V的气体沿一个方向来说，是正确的。所以我们有三维空间，x、y、z。看其中一个方向。F B，对，这是概率密度函数，可以用这个格式描述。右？然后，我们可以计算粒子速度介于速度v和速度v加dv之间的概率，对，在这个小区域内。这个概率可以用密度函数简单写出来。
+
+
+[2026-09-07 14:31:09]:
+ So you density function times dB, that gives you the probability. And that probability happens to be the fraction of the number of molecules having the speed between E and B plus D E. All right? So here I can use E n over n to describe this fraction. So this number of molecules or having the velocity of V at V plus D V, right, and divided by the total number of molecules, that gives you the fraction. Okay, so these are the things we're going to use in generator deductions. Right? Okay, uh commonly using the uh density function you can derive the uh uh several characteristic velocities of the scale molecules. It all has the most probable velocity. The average velocity and the root mean square velocity. Right?
+所以你的密度函数乘以dB，给出了概率。而这个概率恰好是速度介于E和B之间，加上D-E之间的分子数量的分数。明白吗？这里我可以用E-n除以n来描述这个分数。所以这个分子数，或者说V在V处的速度加D-V，然后除以分子总数，这就是分数。好了，这些就是我们将用来进行生成推导的因素。右？好的，呃，通常用密度函数，你可以推导出尺度分子的几个特征速度。它们都有最可能的速度。平均速度和均方根速度。右？
+
+
+[2026-09-07 14:32:01]:
+ Now the three of them can be obtained following standard equations very straightforwardly. the most probable, that means the uh most likely to happen once you just uh take a differentiation of that uh density functions, right, uh that set it to be equal to zero, uh that gives you the most probable right uh velocity. In the form of a square root of 2RT divided by the molecular weight. And then there's a mean velocity or the average velocities you follow in definitions, which is the integration of V over the density function or E, and give you this value. And similar thing for the root V square we lost is we just uh replace V with some P squared and back into the scammers. And in terms of the magnitude, the most the probable velocity is the lowest, followed by the average velocity, and the largest velocity is the mean square, a good mean square velocity. So, these just for your general information and some of the equation of what you can use in the later productions. Now, conceptually, we need to calculate the molecular eating crate, right? about how we interpack with it. It's very straightforward, right?
+现在，这三个方法都可以非常直接地按照标准方程得到。最可能的，也就是说，只要你对密度函数做微分，呃，也就是把它设为零，呃，这就给出了最有可能的右速度。以2RT的平方根除以分子量的形式。然后有一个平均速度，或者说你在定义中遵循的平均速度，也就是V对密度函数E的积分，给出这个值。对于我们丢失的V平方根，类似的做法是，我们用某个P平方来替代V，然后回到骗子那里。从大小来看，最大可能的速度是最低，其次是平均速度，最大速度是均方，也就是良好的平均平方速度。这些只是供你参考，也算是后续作品中可以用到的部分方程。现在，从概念上讲，我们需要计算分子食粮箱，对吧？关于我们如何与它交织。这非常简单，对吧？
+
+
+[2026-09-07 14:33:16]:
+ Be careful with the rate, as I said. you just hold a detector. Now assuming your particles are traveling in one of the directions first, right? So let's assume the x direction is pretty straightforward. So what I do is I'm holding a unit area. I'm just counting the number of particles hitting my detector in a certain amount of time. Then I divide the amount of time that I use. So I get the rate, right, which is the number of particles per unit time, right, or per unit model, because I have restricted model to this detector. So that's the molecular incident rate, right? And that can be written uh as using dx, uh what is that you have to integrate all of the numbers of the particles that travel in x directions.
+正如我说的，要小心速率。你只需要拿着探测器。现在假设你的粒子先沿着某个方向运动，对吧？那么我们假设x方向相当简单。我做的是拿着一个单位面积。我只是计算在一定时间内击中探测器的粒子数量。然后我除以我使用的时间。所以我得到的是速率，对吧，也就是单位时间内粒子数量，或者说每单位模型，因为我把模型限制在这个探测器上。这就是分子入射率，对吧？它可以写成，呃，用dx，呃，你需要积分所有沿x方向运动的粒子数量。
+
+
+[2026-09-07 14:34:07]:
+ And that gives you the eventual molecular impinging rate or decided rate
+这就给出了最终的分子冲击速率或确定速率
+
+
+[2026-09-07 14:34:17]:
+ Well, how to calculate this? Right? Now we probably can assume that we know the x, right? But how about the nx? That is the number of particles travels in x direction. Right? Do we know that? Yes. We know that if I ask, answer must be yes. Right?
+那么，怎么计算呢？右？现在我们大概可以假设我们知道x，对吧？那nx呢？那是沿x方向移动的粒子数。右？我们知道吗？知道。我们知道如果我问，答案必须是肯定的。右？
+
+
+[2026-09-07 14:34:37]:
+ Yes, we know that. So what is the end? I think I know that. We just mentioned right? which is uh we're gonna use these equations. Right. I explained this no for no use, right? So this is what? versus the density function, right? Right?
+是的，我们知道。那结局是什么？我想我知道了。我们刚才说过了，对吧？就是，呃，我们要用这些方程。右。我解释过这个“不”，没用，对吧？那这是什么？和密度函数对比，对吧？右？
+
+
+[2026-09-07 14:34:57]:
+ So I said if I'm going to calculate probability, I'm going to use a density function times dgb, right? And that happens to be what? happens to be the fraction of particles having that velocity. Alright? So now I'm taking only the particles traveling in the x directions, so I add a suffix of x everywhere, right? So, in x directions. So this equation can be rewritten as by putting the suffix x in there, considering all the x directions contributions. So dnx over n equals to the sky, and the sky is dumped. Right, now I have D and X, right, by putting N to the side, right, so this is B and X.
+所以我说如果我要计算概率，我会用密度函数乘以dgb，对吧？那它恰好是什么？恰好是粒子中拥有那个速度的比例。明白吗？所以现在我只取沿x方向运动的粒子，所以我在所有方向都加上x的后缀，对吧？也就是x方向。所以这个方程可以写成，只要加上x后缀，考虑所有x方向的贡献。所以dnx除以n等于天空，天空被抛出。对，现在我有D和X，通过把N放在一边，对，这就是B和X。
+
+
+[2026-09-07 14:35:37]:
+ You are happy. Here's a happy X. Right? Now I can use this molecular European rate equation to calculate. I have VX, I have VMX. What I have to do is just to do the integration, alright. Uh no worries. I'm not going to require any of the testes for deduction of the integrations with differentiations. So no worries. Okay, but uh the thing I explain is that you have to understand the physical process, how you get there, right?
+你很开心。这里有一个开心的X，对吧？现在我可以用这个分子欧洲速率方程来计算。我有VX，我有VMX。我只需要做积分，明白吗？呃，别担心。我不需要任何睾丸来推导出带微分的积分。所以没关系。好的，但我解释的是，你必须理解物理过程，你是如何达到那里的，对吧？
+
+
+[2026-09-07 14:36:06]:
+ Alright? So we have that, then the final result will be to the molecular institutions, which generate force and comes, right? So by force, which is a constant, is a number and is the total number of particles, gas molecules.
+明白吗？所以我们有了这个，那么最终结果会传达到分子机构，它们产生力，对吗？所以力，这个常数是一个数字，是粒子总数，也就是气体分子。
+
+
+[2026-09-07 14:36:29]:
+ Average velocity we just induced. Right? So you have everything. Right, we have everything. Of course, the average velocity, if you remember, had the form of this. Right? Now we see the correlation. I'm trying to predict what
+我们刚刚诱导的平均速度。右？所以你拥有一切。对，我们拥有一切。当然，如果你还记得，平均速度是这样的。右？现在我们看到了相关性。我正在尝试预测
+
+
+[2026-09-07 14:36:46]:
+ This part, right? Which is somewhere related to the gas law, right, to the molecular EPG rate. Alright? So uh you can either write in this way, right? The molecular rate pigeon rate equals to one force and average velocity, or right, you can put this guy into using these representations, right, and that will give you eventually this expression. So these two, sorry, I'm using the two different symbols, but they are the same thing, alright? This phi is the same as this phi. So that gives you a sort of uh constant, then p divided by mt the square root. Right? Now we have a more direct correlation of what.
+就是这一部分，对吧？这和气体定律有关，对吧，分子EPG速率。明白吗？所以，呃，你可以这样写，对吧？分子速率鸽子率等于一个力和平均速度，或者，你可以用这些表示法，最终得到这个表达式。所以这两个，抱歉，我用了两个不同的符号，但它们其实是一样的，好吗？这个phi和这个phi是一样的。这给出了一个常数，然后p除以平方根。右？现在我们有了更直接的相关性。
+
+
+[2026-09-07 14:37:35]:
+ So the rate of a particle kick me depends on what? Depends on the pressure and the temperature in your space. Right? For making sense? Right. So making sense. Right? Now of course, right and again, in the possible calculations, then if I ask you to put some number in, which will happen right later on, right, given that I give you these equations, right? Now you have to stick to either KBT or RT, alright? Otherwise you're going to mess up.
+所以粒子踢我的速度取决于什么？取决于你空间的压力和温度。右？因为说得通？右。所以说得通。右？当然，在可能的计算中，如果我让你输入一个数字，这会马上完成，因为我给了你这些方程，对吧？现在你必须坚持用KBT或RT，明白吗？否则你会出错。
+
+
+[2026-09-07 14:38:07]:
+ So that means you have to make sure you know what this N means. It's a number with a number of moles, right? So, making sure you don't mix it up. But eventually alright I give you the correlations that you can use for any parameters that you wish to have you there. Right? Finally, so this is the part we want, right? we want the monolayer formation tab. This is not the thing we care about. It doesn't matter. You know, we have a molecular impingement rate, but that doesn't really tell me anything.
+这意味着你必须确保你知道这个N的含义。这是一个带有摩尔数的数字，对吧？所以，确保你不会搞混它。但最终，好的，我会给你一些相关性，你可以用来满足你想要的参数。右？最后，这就是我们想要的部分，对吧？我们要单分子层形成标签。这不是我们关心的。这无所谓。你知道，我们有分子冲击率，但这并不能告诉我什么。
+
+
+[2026-09-07 14:38:36]:
+ Alright? I need the monolayer formation tab. How do we calculate that? Given that we now know the molecular impingement rate, how do we know the molecular formation time? We need a huddle. Alright? So one of the important things in facilities in material science is that you have to have a picture. Even that you don't know how to calculate it mathematically, right? you can use tools to help you. But there you have the picture, correct?
+明白吗？我需要单分子层形成标签。我们怎么计算？既然我们现在知道分子撞击速率，那分子形成时间又是怎么知道的？我们需要一个会议。明白吗？材料科学设施中一个重要的事情是你必须有一张图。即使如此，你也不会用数学计算，对吧？你可以用工具来帮助你。但这就是图，对吧？
+
+
+[2026-09-07 14:39:05]:
+ And this is a small league. Right? We have a model. So what is the model in calculating the model layer condition time? How do we do that
+而且这只是个小联盟。右？我们有一个模型。那么，计算模型层的条件时间是什么样的模型？我们该如何做到这一点
+
+
+[2026-09-07 14:39:19]:
+ So let's consider the monolayer formation process. So I have a surface. Alright? The monolayer formation means I have gas molecules coming, coming, coming, coming until the full surface is covered by uh intactly packed gas molecules. Okay? So there's a bit of tricky things: is that now I have the molecular EPG rate, that means I'm collecting the heating of the particles. So if everybody hits my surface, stuck in there, it doesn't go. So that covers a certain part of area. then there's another one, the other one coming. So eventually if I calculate the total numbers of incoming particles, I will know the momentary observation time.
+那么我们来考虑单分子层形成过程。我有一个表面。明白吗？单分子层形成意味着气体分子不断涌入，不断涌入，直到整个表面被完整堆积的气体分子覆盖。明白吗？这里有点棘手的问题：现在我有了分子EPG速率，这意味着我收集到了颗粒的加热。如果所有人都碰到我的表面，卡在那里，它就不会流出去。所以这覆盖了一定的区域。然后又有另一个，另一个来了。所以最终如果我计算出进入粒子的总数，我就能知道瞬间观测时间。
+
+
+[2026-09-07 14:40:04]:
+ Is that right? But here it's a very important assumption. Is that for any of the particles that come and stick on my surface, hit me? Does it leave? Right? But if it leaves, now I have to tempt me the policy because not everyone comes in, will stay there, cover my service. Now here, for simplicity, I just say I assume everybody that hit me will got stuck on my surface. He will not go. Alright, so this is uh first assumption in my model. Right?
+是这样吗？但这里这是一个非常重要的假设。这是针对那些附着在我表面上的粒子，击中我吗？它会离开吗？右？但如果它离开了，我现在得试试这个政策，因为不是每个人都会进来，留在那里，覆盖我的服务。这里，为了简化，我只说我假设所有撞到我的人都会被卡在我的表面上。他不会走。好的，这是我模型中的第一个假设。右？
+
+
+[2026-09-07 14:40:32]:
+ The next thing is that I need to figure out in my unit area, in my unit area, that can contain how many gas molecules in terms of all layer formation. If I know how many gas molecules do I need to cover one surface, now I have the impinging rate. I have this total number divided by impediment, I get a ton. Is that right? That's how I calculate the model layer formation time, isn't it? Right? So I need estimation on another thing. Is that if I have a unit area, how many gas molecules are there in order to cover the surface? So this is the other part of the model. How does how do we do that?
+接下来我需要计算在我的单位面积内，在单位面积内，可以包含多少气体分子，涵盖所有层的形成。如果我知道覆盖一个表面需要多少气体分子，就有了冲击速率。我用总数除以阻挡，结果非常多。是这样吗？这就是我计算模型层形成时间的方法，不是吗？右？所以我还需要对另一个方面做估算。如果我有一个单位面积，覆盖表面的气体分子有多少？这就是模型的另一部分。我们该如何做到这一点？
+
+
+[2026-09-07 14:41:19]:
+ So, I have a unique area, for example, one meter square, one unique area. Right? So this surface, one meter square, how many best molecules can I accommodate for one layer? What place you can go? Every single maintenance. Then you can know the size of a gas molecule. And assuming everyone speaking to each other, covered the whole surface, right? So you need the area of a gas molecule. Right? So if you know the diameter of a gas molecule, you know the area. Is it less so?
+比如说，我有一个独特的区域，一平方米，一个独特的区域。右？所以这个表面，一米见方，我能容纳多少个最佳分子用于一层？你可以去哪里？每一项维护。这样你就能知道气体分子的大小。假设大家互相交流，覆盖了整个表面，对吧？所以你需要气体分子的面积。右？所以如果你知道气体分子的直径，你就知道面积。难道不那么准确吗？
+
+
+[2026-09-07 14:41:55]:
+ Yeah. So what's the size of a gas molecule, for say a single atom with variants? Well that's the the beauty of physics, right? We don't need accurate numbers. We need that of the water of magnitude is correct. Right, so let's just take it right. So the size of this model is three atrons. I'm sorry. Okay, three electrons, good? Right.
+是的。那么气体分子的大小是多少，比如说单个原子的变体？这正是物理学的美妙之处，对吧？我们不需要精确的数字。我们需要的是水的大小，大小是正确的。对，那我们就把它取向右。这个模型的大小是三个子。抱歉。好的，三个电子，可以吗？右。
+
+
+[2026-09-07 14:42:21]:
+ So what is the area covered by this three entrops size? Pi R square. Is that so
+那么，这个三熵的面积是多少？π R平方。是吗
+
+
+[2026-09-07 14:42:36]:
+ So I have Nana. Okay? So for simple calculation, let's make it square. Okay? So if I say this is three entrop? Yeah. You see? The square of it. That gives you nine ten to the minus ten square. meter square, that becomes twenty.
+所以我有娜娜。明白吗？为了简单计算，我们把它做成平方。好吗？那如果我说这是三个熵？是的。你看到了吗？它的平方。那就是九十的负十的平方。米的平方，就是二十。
+
+
+[2026-09-07 14:43:12]:
+ Alright? That's the area covered by one single gas atom solar bombing. Okay? Uh nine. Let's make it ten. Okay? Principle calculation. So that is one tan to the minus nineteenths meter squared per gas molecule
+明白吗？那是单一气体原子太阳轰炸覆盖的区域。明白吗？呃，九。那就定为十。好吗？原理计算。所以是每气体分子的一米到负十九米的平方
+
+
+[2026-09-07 14:43:42]:
+ That's the area covered by one single gas molecule. Now just as uh how how how much is the area do I have? I have one union area that is one meter square, right? Right. So, how many gas molecules can I accommodate on the surface? one divided by one times ten to the minus nineteenth meter squared. So out there equals to 10 to the 19th gas molecules that allowed on the surface. Okay? So what is one of the information file? I have to use PG rate, right?
+那是一个气体分子覆盖的面积。那么，呃，这个面积是多少？我有一个一米见方的联合面积，对吧？右。那么，我能在表面容纳多少气体分子？一除以一乘以十的负十九米平方。所以表面允许的气体分子是10的19次方。明白吗？那信息文件中有什么？我得用PG率，对吧？
+
+
+[2026-09-07 14:44:21]:
+ So this one divided, this is numbers, right? divided by the impinging rate. Imping rates would like you to 5, right? divided by impinging rate phi. Five is of a unit. Number per second. Is it right? Right, so never come cancel out, then this unit will be second. Some over the orphanation plot. Right?
+所以这个除以，这是数字，对吧？除以冲击率。冲击率想让你变成5，对吧？除以冲击率φ。五是一个单位。每秒数。对吗？对，所以永远不要被抵消，这个单位就是第二。有些在孤儿地块上。右？
+
+
+[2026-09-07 14:44:51]:
+ So do I have the mono etc? Have the electrical integer rate, we just deduced 1 over 4, alright? Or you can use the pressure. Right? That gives you here. Alright, so that's the monolayer formation term. Right. Then this is a very simple correlation. As long as you know the gas molecules, this is the molecular weight of the gas molecules. This is the temperature you operate, and this is the pressure of the system.
+那我有单声道等吗？有电整数率，我们刚推断出1比4，好吗？或者你可以用压力。右？这给你这里。好，这就是单分子层形成项。右。这是一个非常简单的相关性。只要你知道气体分子，这就是气体分子的分子量。这是你操作的温度，这是系统的压力。
+
+
+[2026-09-07 14:45:28]:
+ Right, and that tells you eventually, what determines how long do you need to have a mono layer fully covered your surface? Okay? Are we good? Okay. Now with that, right, uh let's have a bit of uh uh listed um the understanding of vacuums and that let's say there are different range of vacuums, right? Um that we care about.
+对，这最终告诉你，是什么决定了单层需要多长时间才能完全覆盖表面？明白吗？我们准备好了吗？好的。现在，好，呃，我们来列举一下对真空的理解，假设真空有不同的范围，对吧？嗯，我们关心的。
+
+
+[2026-09-07 14:45:59]:
+ In 1958, vacuum was actually defined by the American Vacuum Society, ABS. So, there are actually a clear definition of what range you have when you can play there is vacuum. So they have an accurate number, so molecules less than about 0.5, 10 to the minus 19 molecules per centimeter cube. between less than that, so that's pretty much one at the sphere. If you have anything less than that, you have back through. And uh there are some pressure huge. Right? There's um anyway. Okay, so there are pressure units, right, which are commonly used to describe the system. Housetop is the most commonly used, and then there's pour and bars, and there's correlations in between the three of them that are listed here.
+1958年，真空实际上是由美国真空学会（AVS）定义的。因此，对于在何种范围内可被视为真空，其实有着明确的定义。他们给出了一个精确的数值：分子数密度低于约 0.5 × 10⁻¹⁹ 个/立方厘米。低于该值，基本上就处于高真空状态。如果低于此值，即达到高真空。嗯，还有一些压力单位。对吧？总之，好的，有一些常用于描述系统的压力单位。托（Torr）是最常用的，此外还有帕斯卡（Pa）和巴（bar），这里列出了这三者之间的换算关系
+
+
+[2026-09-07 14:46:58]:
+ But what I want to explain is here: the characteristics of the vacuum systems, right? Now some of them are really simple just to read it out, right? First thing is the low density of gas molecules, obviously. There are long mimicry paths of gas molecules. Uh does that make any sense? Like I said, hip recaps is that I eat you and then travel and then heat you, right? distance. Now, if I only have a few of you there, so obviously I have to travel longer before I meet another one of you, right? So not very free tests. And the last one is also straightforward because you have less number of gas molecules, so there are weaker interactions between the molecules as well, because they're further apart.
+但我想解释的是：真空系统的特性，对吧？有些系统其实很容易读懂，对吧？首先是气体分子的低密度，显然如此。气体分子有很长的模拟路径。呃，这样说有道理吗？就像我说的，回顾一下，我先吃了你们，然后旅行，再加热你们，对吧？距离。如果我只有你们几个人，那我显然得走更久才能遇到你们中的另一个，对吧？所以测试不太自由。最后一个也很简单，因为气体分子数量较少，分子之间的相互作用也较弱，因为它们距离更远。
+
+
+[2026-09-07 14:47:41]:
+ Well the third one is seemingly confusing because it said high bombarding rate on all surfaces. And we just said you have less molecules that come here, high bombarding rate on surfaces. But this is uh comparison mode. Uh comparison was what? The bombarding probability of the gas molecule was these surfaces, which is the container surface, right? Was what? Was deep collision in between the gas molecules themselves. Right? So when you have high vacuum there, that means the gas molecules are not colliding with each other a lot more, that more bombarding are actually happening between the gas molecule and the surface. Because it travels, so think about the microcast.
+第三个似乎有点混淆，因为它说所有表面的高轰击率。我们刚才说过，你这里的分子较少，表面上的轰击率很高。但这是，呃，比较模式。呃，比较是什么？气体分子的轰击概率是这些表面，也就是容器表面，对吧？是什么？是气体分子本身之间的深度碰撞。右？所以当那里有高真空时，气体分子之间的碰撞减少了，气体分子和表面之间实际上发生了更多的轰击。因为它会传播，所以想想微铸件。
+
+
+[2026-09-07 14:48:34]:
+ It travels, right? All these big troubles, right, can be very long before it hits another of itself, right? but then there's no infinite space. So eventually, it bombard into the walls of the container. That's why you have a high bombardment rate when you have on the walls or on all surfaces when you have high volume there. And now, here I put down the classification of the vacuums, which is three different bridges: low and medium, high and ultra-high, right? With all the numbers putting down there and the bit of descriptions, but I'd like to use this chart to explain. So this chart compares the difference of different vacuum situations, right? Some characteristic networks are putting in there in terms of the pressures in different units. And here is a comparison in between the heat-free paths of the gas molecules and the dimension of the container.
+它运动，对吧？所有这些大麻烦，对吧，在再次撞击自身之前可以持续很长时间，对吧？但没有无限的空间。所以最终，它会轰击容器壁。这就是为什么当你在墙壁上或所有表面上拥有高体积时，会有很高的轰击率。现在，我在这里列出了真空的分类，分为三个不同的区间：低和中、高和超高，对吧？所有数字都列在那里，并有一些描述，但我想用这张图表来解释。因此，这张图表比较了不同真空情况之间的差异，对吧？其中列出了一些特征参数，以不同单位表示的压力。这里比较了气体分子的平均自由程与容器的尺寸
+
+
+[2026-09-07 14:49:40]:
+ So, you always have a close computer with certain dimensions. You see in low vacuums, the memory paths of the gas molecules are either smaller or about comparable to the dimension of the container. But then, when you have high vacuum and ultra-high vacuum, then the safety pass is actually longer or much longer than the dimension of the container. That means, right, if the walk and hitter does not restrict the motion, it can keep on going for even longer. So that's one of the things. And this slide is probably the most important, right, when you compare the model layer formation time at different vacuum conditions. Easy if you have low vacuums, where the model layer formation time is very short. It's less than one second. Over a flash, your surface is covered by the mono layer of contaminant gas molecules, right? But then when you reach the high vacuum, the spinal layer formation time is reaching the regime of one second.
+所以，你总有一台特定尺寸的近距离计算机。你会看到，在低真空环境下，气体分子的记忆路径要么更小，要么与容器的尺寸相近。但当你处于高真空和超高真空时，安全通道实际上比容器的尺寸更长，甚至远远超过容器的尺寸。这意味着，如果走动和击打不限制运动，容器可以持续更长时间。这就是其中一个问题。这张幻灯片可能是最重要的，对吧，当你比较不同真空条件下模型层形成时间时。如果是低真空，模型层形成时间非常短，这就很容易了。不到一秒钟。在闪光时，你的表面被污染气体分子的单层覆盖，对吧？但当你达到高真空时，脊膜形成时间达到一秒钟的状态。
+
+
+[2026-09-07 14:50:44]:
+ That's still very short. You think about which measurement can be done with one second. Right? Only at ultra-high vacuum conditions, the volume layer formation time is greater than one second. That's probably the range, time range, that allows a decent experiment to be carried out. So all of the serious surface studies have to be carried out in ultra-high vacuum conditions, right? With pressure, that's at 10 minutes eight tour. Leaf retest much longer than the dimension of the container, and the model layer formation time greater than one second. Right? So that's the whole idea, the whole pack I collected, right?
+这仍然非常短。你要想想哪种测量能在一秒内完成。右？只有在超高真空条件下，体积层形成时间才会超过一秒。这大概就是允许进行合理实验的范围和时间范围。所以所有严肃的表面研究都必须在超高真空条件下进行，对吧？在加压的情况下，那是10分钟八圈。叶片的复测时间远远超过容器的尺寸，模型层形成时间也超过一秒。右？这就是我收集的全部想法，对吧？
+
+
+[2026-09-07 14:51:32]:
+ Understanding of what is vacuum, why vacuum is needed, how good vacuum is needed in terms of the surface analysis. Right? So that's uh to say about that. Uh the next one, let me see how much we still have 15 minutes of time, so I can move into the realization of the vacuum in terms of instrumentation. So, to talk about the vacuum, is that you have less gas molecules in this system. Now let's say how to create a symbol system. How to create such a system
+理解什么是真空，为什么需要真空，以及在表面分析中需要多少良好的真空。右？所以，呃，这就是关于这个的说法。呃，下一个，让我看看我们还有多少15分钟的时间，这样我就可以进入真空在仪器层面的实现。所以，谈谈真空，就是这个系统中的气体分子减少了。现在我们来说说如何创建一个符号系统。如何创建一个这样的系统
+
+
+[2026-09-07 14:51:59]:
+ Now, I like to make an analogy between the classroom and students in the classroom. So, presumably, you are the gas module, and this is the container that I have. So, I want to have lat scatch molecules in here, I have latsock in there. So what did I have to do? Alright, so I want to do it. Alright, and then I push you out one by one. Right? So this is one thing, right? But you guys are alive, right? So, what you can do is that if you like this container, you like this classroom, the way that I push you out, right, put the next molecule out, right, you can come back.
+现在，我喜欢把课堂和课堂上的学生做个类比。所以，假设你是气体模块，这是我手上的容器。我想让lat struck分子在这里，我有latsock分子。那我得做什么？好，我想做。好，然后我一个一个把你推出去。右？所以这只是一回事，对吧？但你们还活着，对吧？所以，如果你喜欢这个容器，喜欢这个教室，喜欢我把你推出去的方式，对吧，把下一个分子放出来，对，你可以回来。
+
+
+[2026-09-07 14:52:38]:
+ but go back to the classroom. And that's exactly what happens in the process to establishing the vacuum. That you need a container that is pretty much closed, right? But then uh there are leaks, right? Um I don't only mention the door. There are actually windows you can plug in as well. Right? So, there are multiple leaks around the supposed container. Now, in order to create vacuum, I have to wait to drag you out. Right?
+但回到教室。这正是建立真空的过程。你需要一个几乎封闭的容器，对吧？但，呃，会有漏水，对吧？嗯，我不仅提到门。实际上还有窗户可以插电。右？所以，据说的容器周围有多处泄漏。现在，为了制造真空，我得等着把你拖出来。右？
+
+
+[2026-09-07 14:53:08]:
+ Well, in in case of me, I just drag you out and push you out. But then in terms of vacuum, you have to have a vacuum pump, right? and drag the gas bombing out. Right? Now the eventual vacuum level that can be achieved in the system, obviously depending on what? depending on the rate that I drag you out and the rate you can sneak back. Is that right? So this is the same thing for the vacuum system, is that uh depending on the pumping rate and the leaking rate, the difference will determine the eventual vacuum level one can achieve. Alright? So guys, when you have uh um a preparated level of uh uh mass problem, I don't know how many of you have done this before.
+嗯，如果是我，我就是把你拖出来推你出来。但就真空而言，你得有个真空泵，对吧？然后把气体弹拖出来。右？那么，系统最终能达到的真空水平，显然取决于什么？取决于我拖你出来的速度和你能偷偷回来的速度。对吗？这对真空系统来说也是一样的，也就是说，根据泵送速率和泄漏速率，差值决定了最终能达到的真空水平。明白吗？所以各位，当你们遇到一个预制的质量问题时，我不知道你们中有多少人以前做过这个。
+
+
+[2026-09-07 14:53:58]:
+ Um at that time my daughter was a student, primary student. I never understand why they have to do this kind of problems. But I started back in technology, I realized it's all biggest, right? So, do you guys have this mass experience before they say they have big pools? Right? So they are putting the water in, but on the other side, they have a little pipe and letting the water out. I never understand this. You said, What's the point of painting so much water? Right, and it's an odd committee, right? But but that's uh a direct analogy to the rectangular process.
+嗯，那时候我女儿还是个小学生。我一直不明白为什么要出这种题目。但当我重新接触技术后，我才意识到这本质上都是关于最大值的，对吧？你们之前有过类似的经验吗？比如他们提到有大水池的时候？对吧？他们一边往池子里注水，另一边却用一根小管子把水放掉。我以前完全搞不懂这一点。你会问：放这么多水有什么意义呢？而且这是个奇数委员会，对吧？但这其实是对矩形过程的一个直接类比
+
+
+[2026-09-07 14:54:34]:
+ You're pumping, you're leaking. At the same time, the difference tells you what is the amount of water or vacuum level you can achieve. We just continue. Right. So we have three parts, as I say, that we need for a vacuum. The major parts I mentioned two already. One is the closing container, right? And the other is the pumping system, right? you have to drag the gas molecule out. But there is uh actually uh another important path, two paths.
+你在抽水，你在漏水。同时，差值告诉你你能达到多少水或真空水平。我们继续。右。所以，正如我说的，我们需要三个部分来实现真空。主要部分是我之前提到的两个。一个是封闭容器，对吧？另一个是泵送系统，对吧？你必须把气体分子拖出来。但实际上还有另一条重要的路径，两条路径。
+
+
+[2026-09-07 14:55:01]:
+ One is the so-called gauges, which serve as a measuring of the battery that can be achieved. So you have to know what is the pressure inside, basically. Right? the pages. So we have patena, we have pulse, then we have 80. But there are always side paths that's important. One thing is known as the waves. So wows are just like the worst. you can choose to close doors, open doors, right? So, to make multiple containers to be interconnected or separate the two of them and make them independent. Right?
+其中之一是所谓的压力表，用来测量电池的实际情况。所以你基本上需要知道电池内部的压力是多少。右？页面。所以我们有帕特纳，有脉冲，然后是80。但总有重要的支线路径。有一种叫做波浪的东西。所以哇就像最糟糕的一样。你可以选择关门，也可以开门，对吧？所以，可以制造多个容器相互连接，或者将它们分开，使它们独立。右？
+
+
+[2026-09-07 14:55:32]:
+ So these are the major parts in terms of instrumentation that are needed in a vacuum system. Rat closed system? of the system and pages as a machine. Right, uh now you build a system that needs materials as well, right? And here we're talking about what kind of materials that can be used in backend. There are a bit of criteria. We just read it through, right? So, able to sustain a pressure difference because once vacuum has established inside the chamber, so you have less gas molecules and you have more gas molecules outside, all right? Then you can have a situation that you feel the pressure pushing inward. So, if your material is very fragile, for example, you use polymers, right?
+这些是真空系统中所需的主要仪器部分。鼠密闭系统？系统和设备作为机器的页面。对，呃，现在你构建了一个需要材料的系统，对吧？这里我们讨论的是后端可以使用哪些材料。有一些标准。我们刚刚通读过，对吧？所以，能够维持压力差，因为一旦真空在腔体内建立，气体分子减少，外部气体分子更多，明白吗？然后你可能会感受到压力向内推入。比如说，如果你的材料非常脆弱，你会使用聚合物，对吧？
+
+
+[2026-09-07 14:56:25]:
+ Nah, what's gonna happen? They're going to shrink and collapse. Right? So you can now use these kind of materials, you have to use materials that can sustain the pressure difference. For example, metal is very good. Now, you have to use materials of blow tracking of other gastro molecules. So this is uh uh a very interesting description. I'm low tracking them in. Right. So, you have multiple materials, and these materials with some physicists have different capabilities of traps, certain gas molecules.
+不，会发生什么？它们会收缩并坍塌。对吧？所以现在你可以使用这类材料，你必须使用能够承受压力差的材料。例如，金属就非常好。现在，你需要使用用于捕获其他气体分子的材料。所以这是一个非常有趣的描述。我正在将它们低阶追踪进去。对。所以你有多种材料，这些材料具有不同的能力，可以捕获某些气体分子
+
+
+[2026-09-07 14:56:55]:
+ Some like to track a lot more, the others disn't like to repel. You want to choose materials, have a low trapping of the gas rules volume, a low input pressure. So itself does not give out gas-based materials and makeable. This probably will have to explain the data of why baking is needed. But in principle, you need materials that can be sustained until 200 degrees C's, not too high, and the last one will be listed, the easy to be machined. Now commonly used materials, here is a list of them, metals, alloys. Polybury are actually used inside the vacuum system but not at the chamber because they cannot sustain the pressure difference. and you can use it uh inside a vacuum system. They are actually serving as the brains or the cells, a very commonly. And the last part is ceramics, right?
+有些喜欢追踪更多，有些则不喜欢排斥。你需要选择材料，保持气体规则体积的低捕获，输入压力低。这样本身就不会提供气体基材料，也无法制造。这可能得解释为什么需要烘焙的数据。但原则上，你需要能维持到200摄氏度的材料，不能太高，最后一种会被列出，就是易于加工的。现在说常用材料，这里列出了金属、合金。聚嵌层实际上用于真空系统内部，但不能在腔室使用，因为它们无法承受压力差。你可以在真空系统中使用它。它们实际上充当大脑或细胞，非常常见。最后一部分是陶瓷，对吧？
+
+
+[2026-09-07 14:57:56]:
+ That includes alumina, sapphire, etc. So, I just mentioned you have to have a cold system, but at the same time, you have windows and doors. Right? So, if you have Windows, if you have a process over the walls, you can make it pretty much seamless. So that is uh completely close the system. But why I say uh there must be leaky, right? In a true closed system, you're not necessarily having any leaking because all the things are sealed up, right? But in a real backup system you always have thinking, why is that? Because you have tours. Right?
+这包括氧化铝、蓝宝石等。我刚才提到你必须有冷系统，但同时你还得有窗户和门。右？所以，如果你有Windows，如果墙上有流程，你几乎可以做到无缝。所以，呃，系统完全封闭了。但我为什么说，呃，必须有泄漏，对吧？在真正的封闭系统中，你不一定会有泄漏，因为所有东西都封闭了，对吧？但在真正的备份系统中，你总会想，为什么会这样？因为你有参观。右？
+
+
+[2026-09-07 14:58:41]:
+ Fourth means you have an opening, and you fit another part in there, right, to seal it up. So there are interconnected parts, right, with SNIC in it. And these SNPs are the neat ways for the gas volumes to come in. So whatever you have worries, you have windows, whatsoever, you need an additional seeding magazine to make sure there could be a bit of leak, but then there are not too much of a leak. How it can be better. think about how you can do that. So you have two parts, right? put that together, right? then there's obviously an interface in between the two of them. So if it's not close enough, gas molecules can go through, right?
+第四种方法意味着你有一个开口，然后你在其中安装另一个部件，对吧，以将其密封。因此，这些是相互连接的部件，对吧，其中包含SNIC。而这些SNP是气体体积进入的巧妙方式。所以无论你担心什么，你有窗户，无论是什么，你需要一个额外的种子弹匣来确保可能会有少量泄漏，但不会太多泄漏。如何能做得更好。想想你可以怎么做。所以你有两个部件，对吧？把它们组装在一起，对吧？那么它们之间显然存在一个界面。如果它不够紧密，气体分子就可以穿过，对吧
+
+
+[2026-09-07 14:59:34]:
+ So um how can we solve this problem? Using another one. So the problem is that it's not close enough, right? Why is close not even close enough, for example? One side is uh this uh whatsoever and the other is my laser pointer. So, I have two solids, I push it together. Alright? Now in principle you think it could be very close if the two surfaces are flat enough. First of all, the two surfaces are not flat enough in most of the cases. And they may have curves, right, up and downs, and these will cause. And those are hard, that's the problem.
+那么，嗯，我们该如何解决这个问题？用另一个。所以问题是它不够接近，对吧？为什么“接近”甚至都不够近，比如说？一边是这个，呃，完全不够，另一边是我的激光笔。所以，我有两个固体，我把它推到一起。明白吗？原则上你认为如果两个表面足够平整，它可能会非常接近。首先，在大多数情况下，这两个表面并不够平整。它们可能有曲线，对吧，上下，这些曲线会导致。而这些曲线很难，这就是问题所在。
+
+
+[2026-09-07 15:00:13]:
+ Both of them are hard. If you push it harder, they were not before. Right? So the original space in between the two of them cannot be clear. So the gas molecules can be heated. Alright? So, the idea of seal, like what you mentioned, the rubbers and whatsoever, is that you put in between something that can deform. So, when we push the thing that it forms, fit in the space that we're left empty. So sealed up all these weakened parts. Okay?
+他们俩都很坚强。如果你更用力，他们以前就不够。右？所以它们之间的原始空间不能清晰。所以气体分子可以被加热。明白吗？密封的想法，就像你提到的橡胶什么的，就是把会变形的东西夹在中间。所以，当我们推它形成的东西时，能塞进我们留下的空隙里。所以把所有这些脆弱的部分都封住了。明白吗？
+
+
+[2026-09-07 15:00:43]:
+ So then we're looking for things that can be formed. So what can be formed? Rubber, but polymer is definitely one of them. Right? So, you can see for this KF fittings, you can use these polymer rings, miton rings, or rings made of different polymers also works. So you clip it and you seal the state. But then you see I put pan fitting in the bottle, but there is something I put on top. It's called the conflict figure. It's actually a better city than the KFC, right? So now I guess what?
+所以我们要找可以形成的东西。那能形成什么？橡胶，但聚合物绝对是其中之一。右？所以，你可以看到对于这个KF接头，你可以用这些聚合物环、miton环，或者用不同的聚合物制成的环也行。所以你把它夹上，密封状态。但你会看到我把锅具装进瓶子里，但上面放了个东西。那叫做冲突人物。其实这座城市比肯德基还要好，对吧？那么现在我想怎么办？
+
+
+[2026-09-07 15:01:19]:
+ This is used this guy. Upper gascade. So it's a ring basically, right? Now put it in between two parts. Right. Now, metal will go under plastic deformation when you apply force on it, right? So you clamp it up, right? the copper will deform right very finely. and that will seal all the space that were left open in before. Right?
+这是这家伙用过的。上气流。所以基本上是个环，对吧？现在把它夹在两部分之间。右。现在，当你对金属施加力时，金属会经历塑性变形，对吧？所以你把它夹紧，对吧？铜会非常细微地向右变形。这样就能封住之前留着的空隙。右？
+
+
+[2026-09-07 15:01:49]:
+ Now uh the problem with copper in comparison with the polymer vitamin ring is that metals will be subjected to plastic deformation. That means once it deforms, it does not go back. All right? So deformation was in a range of elastic deformation and a plus deformation. Plastic means when you release the force, it goes back. The plastic means it's permanent, right? Even if you release the floors, deformation doesn't really go back at all. So that means once you open the vacuum system, what's going to happen? Right? And if you close it again, you have to use another new copper cascade to seal it.
+铜相比聚合物维他命环的问题是，金属会经历塑性变形。这意味着一旦变形，就不会恢复原状。明白吗？变形有弹性变形和正变形的范围。塑性意味着当你释放力时，它会回去。塑料意味着它是永久性的，对吧？即使你释放了地板，变形实际上也不会恢复。这意味着一旦你打开真空系统，会发生什么？右？如果你再封闭它，还得用新的铜级联来密封。
+
+
+[2026-09-07 15:02:31]:
+ The old ones is already plastic blue before, we cannot use it anymore. And it's very expensive. What is the good thing about the white arm ranges, polymer? Alright, basically, uh it's like a rubber band, where you stretch it, you release it, you go back. Alright? So it's fully reversible deformation. So we use it as many times as we wish. But that's a good thing, so this is cheap, right? But then, in terms of the seeding capabilities, copper gas codes do much better job than red or rings. Right?
+旧的已经是塑料蓝色了，我们现在不能再用了。而且价格非常昂贵。白色臂系列聚合物有什么好处？基本上，它就像橡皮筋，拉伸、释放，然后再回去。明白吗？所以它是完全可逆的变形。所以我们想用多少次都行。但这其实是好事，所以很便宜，对吧？但就播种能力而言，铜气编码比红色或环形态做得更好。右？
+
+
+[2026-09-07 15:03:01]:
+ So that's the sea. Hi, Tom's. I think happened to stop here for today. You guys look tired, right?
+所以那就是海。嗨，汤姆的。我想今天就停在这里了。你们看起来累了，对吧？
+
+
+[2026-09-07 15:03:13]:
+ Before we start the discussion on the very important part of the vacuum system, the pucks, right, um we're going to finish for today. Alright, and next uh Monday, right. Now hopefully next Monday we have a lot of tasks we have to finish, right? vacuum instrumentations followed by a case study where you have class works for your class
+在我们开始讨论真空系统中非常重要的部分——吸盘之前，我们今天就先结束。好的，下周一见。希望下周一我们能完成很多任务，对吧？真空仪表，随后是案例研究
+
+

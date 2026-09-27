@@ -1,0 +1,2530 @@
+晶体缺陷与断裂
+日期: 2026年9月22日 18:33
+语言: 英语 → 中文
+时长: 2小时34分12秒
+
+[0:00]
+So all your schedule are fixed now, right?
+所以你们现在所有的日程都定了，对吧？
+
+[0:03]
+You know what is an adultery?
+你知道什么是通奸吗？
+
+[0:04]
+No, right?
+不，对吧？
+
+[0:05]
+Okay.
+好的。
+
+[0:10]
+I believe it would be more choices in the future batches.
+我相信未来批次会有更多选择。
+
+[0:16]
+But most of the important, most important courses are just what you are seeing now.
+但大部分重要的、最重要的课程，就是你目前看到的这些。
+
+[0:24]
+Right. Others will be like if you have a very specific direction in your interested in.
+对。其他课程可能是，如果你对某个非常具体的方向感兴趣。
+
+[0:31]
+Okay, so today I'm going to continue to finish topic 0, and.
+好的，所以今天我会继续完成主题0，然后……
+
+[0:37]
+The end of this topic relates to some something about imperfections and failure of materials.
+本专题的最后内容与材料的缺陷和失效有关。
+
+[0:38]
+Okay.
+好的。
+
+[0:51]
+Which may sound negative, but they're not negative terms, right? They're neutral terms describing properties of materials, which is kind of also related to the next topic, about metals.
+这听起来可能很负面，但它们并不是负面术语，对吧？它们是描述材料性能的中性术语，这也与下一个关于金属的主题有关。
+
+[0:59]
+Right. So the topic 1 will talk about classic metals, ceramics, and polymers.
+对。所以，主题一将介绍经典金属、陶瓷和聚合物。
+
+[1:02]
+We'll talk about metal first.
+我们先讲金属。
+
+[1:08]
+All right, and for metals, the most important thing is mechanical properties.
+好的，对于金属来说，最重要的是力学性能。
+
+[1:11]
+And then probably baseline.
+然后可能是基础。
+
+[1:14]
+Right, if you ever have learned about baseline, right?
+对吧，如果你学过基础知识的话，对吧？
+
+[1:19]
+Something you you hardly love, it's kind of.
+你几乎不喜欢的东西，有点……
+
+[1:23]
+A hard bone for you to fight, right, for the entire material science.
+在整个材料科学领域，这都是一个很难攻克的硬骨头，对吧。
+
+[1:28]
+But we'll try to deal with it at a more relaxed way as possible.
+但我们会尽量以更轻松的方式处理它。
+
+[1:35]
+Right, but yeah, so today we're going to step into some parts of topic 1. That's what I'm talking about.
+对，不过，嗯，今天我们要进入第一部分的主题。这就是我所说的。
+
+[1:35]
+Okay.
+好的。
+
+[1:38]
+So I.
+所以我。
+
+[1:42]
+'m switching to the new gear today, so hopefully it's working.
+我今天换用新设备了，希望它能正常工作。
+
+[1:43]
+Right.
+对。
+
+[1:58]
+Go ahead.
+继续。
+
+[2:39]
+好像左边的更亮一些。
+It seems like the left side is brighter.
+
+[2:59]
+这里面穿个薄的，然后戴个戴个外套不得了吗？
+Wear a thin one inside, then put on a jacket, won't that do?
+
+[3:02]
+我还没有穿外套，我在那儿。
+I haven't worn a coat yet. I'm there.
+
+[3:05]
+买。 你们还没逛，不是逛奥特莱斯了吗？
+Buy them. Haven't you been shopping? You went to the outlet mall, didn't you?
+
+[3:06]
+没有。
+No.
+
+[3:09]
+豆包怎么领？
+How do I get the bean bag?
+
+[3:15]
+为什么豆包总是这么领？
+Why does the bean always lead like that?
+
+[3:18]
+多。
+多。
+
+[3:20]
+浪费的多。
+Wasted a lot.
+
+[3:25]
+你知道我现在有三个孩子，一个在科技高中。
+You know I have three kids now, one in a tech high school.
+
+[3:26]
+你。
+You.
+
+[3:31]
+这个怎么办？ Okay, so remember in.
+这个怎么办？好的，所以记得在……
+
+[3:34]
+The last two weeks, we talked about the.
+过去两周，我们讨论了这个……
+
+[3:35]
+到时候。
+Then.
+
+[3:39]
+Different kinds of personal.
+不同种类的个人……
+
+[3:38]
+Properties.
+属性。
+
+[3:40]
+还是有点冷。
+It's still a bit cold.
+
+[3:52]
+And we talked about how material science is about structure, property correlation, and structure we have some atomic level, atomic level, nano level, micro level.
+我们讨论了材料科学是如何研究结构与性能之间的关系的。结构包括原子级、原子级、纳米级和微米级。
+
+[3:58]
+And then we talked about different crystal structures, which can be part of the.
+然后我们讨论了不同的晶体结构，它们可以是……的一部分。
+
+[4:08]
+Identification we need for material. They're like ID card or sometimes fingerprint, right? You can track the materials specific issues.
+我们需要的材料的鉴定。它们就像身份证，有时也像指纹，对吧？你可以追踪材料的具体问题。
+
+[4:24]
+And today we're going to see the not-so-perfect side of the story, but again, this is a neutral description. When we say imperfections in solids, for two reasons. First of all, it's inevitable.
+今天我们将看到故事中不那么完美的一面，但同样，这是中性的描述。当我们谈到固体中的缺陷，原因有二。首先，这是不可避免的。
+
+[4:27]
+Right, they will have no perfect person, we have no perfect material.
+对，没有人是完美的，材料也没有完美之分。
+
+[4:34]
+So what we're dealing with most of the time is to minimize the impact of those imperfect parts.
+所以我们大多数时候要做的是尽量减少这些不完美部分的影响。
+
+[4:49]
+And the second, right, in some applications, those so-called imperfections in solids are actually good things. That we want. We sometimes purposely induce or purposely general.
+其次，没错，在某些应用中，固体中所谓的那些缺陷实际上是有益的。这正是我们想要的。我们有时会故意引入或故意制造。
+
+[5:28]
+Defects for such kind of imperfect structures because they're good for something. Right, so this is one very classic example. Right, so in most of the classic theories about heterogeneous catalysts, which means your catalyst and your reactants are in two different phases, usually your catalyst is solid and on top of this surface, the reactants are either gas or liquid or both. Right, so they have an interface, they call it heterogeneous. Heterogeneous catalysis.
+缺陷，因为这类不完美结构是有用的。对，所以这是一个非常经典的例子。对，所以在大多数关于异质催化剂的经典理论中，意味着你的催化剂和反应物处于两种不同的相中。通常，催化剂是固体，而反应物要么是气体，要么是液体，或者两者都有。对，所以它们之间存在界面，这叫作异质界面。多相催化。
+
+[5:21]
+Cold.
+冷的。
+
+[5:26]
+Relies on a rough surface of the catalyst.
+依赖催化剂的粗糙表面。
+
+[5:26]
+Because.
+因为。
+
+[5:27]
+我觉得很垃圾。
+I think it's really bad.
+
+[5:30]
+People believe, right, so far we believe.
+人们相信，对吧？到目前为止，我们相信。
+
+[5:29]
+Right.
+对。
+
+[5:43]
+Right, the active site which must be on the surface first, and usually concentrate on these imperfect regions. Right, so have you guys learned PM?
+对，活性位首先必须位于表面，并且通常集中在这些不平整的区域上。对吧，那你们学过PM吗？
+
+[5:43]
+Yes.
+是的。
+
+[5:43]
+这么远。
+So far.
+
+[5:44]
+From.
+从。
+
+[5:46]
+我放。
+I put.
+
+[5:47]
+这个。
+This one.
+
+[5:49]
+5710.
+5710。
+
+[6:02]
+Okay, probably you heard it, right? So basically this is a black and white image. That you can think of it as if it's a picture of it, the material and atomic level.
+好的，你可能听说过，对吧？所以基本上这是一张黑白图像。你可以把它想象成一个物质和原子层面的图示。
+
+[6:08]
+Okay, if you learn PM you will know this is kind of a generated image.
+好的，如果你学习了 PM，就会知道这算是一种生成图像。
+
+[6:15]
+Still, you can consider these dots atoms.
+不过，你可以把这些点看作原子。
+
+[6:15]
+Okay.
+好的。
+
+[6:41]
+And these lines lettuce fringes. Okay, you can consider them like that. So basically we can deduce that this is an image using the scale bar, it's 5 nanometer, so the atoms are in this subatomic sub-nanometer range, and they're not flat. Right, even for a piece of small crystal like this, you see so many kinds of.
+还有这些线、生菜边缘。好的，你可以这样考虑它们。所以基本上我们可以推断，这是用标尺绘制的图像。标尺的尺度是5纳米，因此原子处于亚原子、亚纳米级范围内，并且它们并不平坦。对吧，即使对于像这样的一小块晶体，你也看到很多种……
+
+[6:45]
+Imperfect for example, we see some single dot here, okay.
+例如，这里可以看到一些单个的点，好。
+
+[6:47]
+This is single dot.
+这是一个单点。
+
+[6:55]
+Right, and this is a line of dots, and here you can even see a step.
+对，这是一行点，这里你甚至可以看到一个台阶。
+
+[6:56]
+Something like that.
+类似这样的东西。
+
+[6:58]
+那太卡了。
+That was too slow.
+
+[7:02]
+Right, so if you if.
+对，所以如果你，如果你……
+
+[7:12]
+Look very closely you can identify many different kinds of what we call surface defects and they're related to the active parts.
+仔细观察，你可以识别出许多不同类型的所谓表面缺陷，它们与活性部位有关。
+
+[7:22]
+Right, so if you're manufacturing catalysts, you kind of want it to be rough. You want it to be as imperfect as possible.
+对，所以如果你制造催化剂，就会希望它表面比较粗糙。你希望它尽可能不完美。
+
+[7:24]
+Okay, and this piece of catalyst.
+好的，这块催化剂。
+
+[9:00]
+Actually a real commercial catalyst which is typically used in combustion engines. Of course, we see fast development of electric cars, I'm not sure it's this knowledge will be useful, right, in the next 5 to 10 years. Right, but we still have a lot of chemical industry rely on catalysts. Okay, so I can teach you another application, maybe in the future. So just focus on this one first, right, we still have a lot of for example in Hong Kong a lot of traditional cars, right, so we have to have a tube system at the exhaust side of the engine to deal with the toxic gases. So all these toxic gases, right, come from an incomplete combustion of the engine, right, there will be some hydrocarbons, some nitrogen oxides which is very toxic, carbon monoxide also very toxic, right, so these you can make sure they are somewhere, right, in the combustion engine. And so before we can release and direct it to the atmosphere each of these cars must have this system, they can use actually these gases are still very hot. So it's a hot type catalysis or we say thermal catalysis. These hot toxic gases run through this and our catalyst, right, these gas touch the catalyst surface, catalyze them to become some of these environmental strangling exhaust, like water molecule, like carbon dioxide, nitrogen. Right, so that's a story for now.
+实际上是一种用于内燃机的商用催化剂。当然，电动汽车发展迅速，我不确定这方面的知识在未来5到10年里会有多大用处，对吧？对，但我们仍然有很多化工行业依赖催化剂。好的，我以后可以再教你们另一个应用。所以先只关注这一块，对吧？比如在香港，还有很多传统汽车，对吧？所以发动机排气侧必须安装管路系统，以处理有毒气体。所以，所有这些有毒气体，对吧，都来自发动机的不完全燃烧。对吧，其中会有一些碳氢化合物、非常有毒的氮氧化物，以及一氧化碳，也都是非常有毒的，对吧。所以你可以确保它们存在于发动机的某个地方。所以在将这些汽车释放并导向大气之前，每辆汽车都必须配备这个系统。实际上，这些气体仍然很热。所以这是热型催化，也叫热催化。这些高温有毒气体会通过这里，进入我们的催化剂，对吧？这些气体会接触到催化剂表面，促使它们转化为这些环境毒害性尾气，比如水分子、二氧化碳、氮气。对，所以现在先讲到这里。
+
+[9:20]
+Right, so we have lots of chemical processes like how we produce plastic, how we produce various kinds of for example ammonia or some hydrocarbons from the crude oil for example, we still rely on heterogeneous catalysis methods.
+对，所以很多化工过程，比如我们生产塑料、生产各种产品，例如氨或某些碳氢化合物，例如从原油中生产，我们仍然依赖均相催化方法。
+
+[9:19]
+Okay.
+好的。
+
+[9:25]
+Just an example of imperfect solids can still be very useful.
+仅举一个例子，不完美的固体仍然可以非常有用。
+
+[9:28]
+All right, so like.
+好的，所以，比如。
+
+[9:32]
+We mentioned, right, ideal is.
+我们提到过，对吧，理想是。
+
+[9:41]
+Idealized crystalline solids does not exist.
+理想的结晶固体并不存在。
+
+[9:43]
+No, they does not exist.
+不，它们并不存在。
+
+[9:48]
+So we are dealing with defects and we must.
+所以我们研究的是缺陷，而且我们必须……
+
+[10:39]
+Deal with defects or imperfect parts of this material. Right, so basically these are deviations which we can call from the perfect crystallization. Okay, so think about the crystal structures we talked about last week. Now think about things like one atom out, or think about three lattice, so it's not perfect cube. Which can happen all the time. All right, so today I'm going to use a very brief maybe only the first four or five minutes. Right, try to give you a very quick preview of all kinds of defects or terms that we talk about. Right, when we deal with defects. Right, so very straightforward we differentiate these defects by dimensions. Right, we have 0B, also.
+处理这种材料的缺陷或不完整部分。对，所以基本上，这些就是我们所说的偏离完美结晶状态的偏差。好，那么想想我们上周讲过的晶体结构。现在考虑一个原子缺失之类的情况，或者考虑三个晶格，所以它并不是一个完美的立方体。这随时都可能发生。好的，今天我可能会只用很短的时间，大概前四到五分钟。对吧，试着快速给大家介绍一下我们讨论的各种缺陷或术语。对，当我们处理缺陷时。对，所以非常简单，我们根据尺寸来区分这些缺陷。对，我们也有0B。
+
+[10:44]
+We can do 0D, 1D, 2D, and 3D.
+我们可以做0维、1维、2维和3维。
+
+[10:47]
+Okay, and.
+好的，还有。
+
+[11:21]
+I need to really mention here that these are not simply about shape or dimension. Right, especially we distinguish 2D and 3D, right, the first three, 0D, 1D, 2D, they're talking about the dimension with a scale of about one atom. So that means 0D is one atom missing or one atom is going wrong. Okay, and 1D is mean a line of atom. That is going wrong. That is not in its good position.
+我在这里确实需要强调，这些并不只是关于形状或维度。对，尤其是我们区分二维和三维，对吧？前三种——零维、一维、二维——指的是大约一个原子尺度的维度。所以这意味着0D缺少一个原子，或者一个原子出了问题。好的，1D 指的是原子的一维排列。这不对。它没有处于合适的位置。
+
+[11:56]
+Right, and 2D is a plane of atom. Right, so 3D is more like everything that is bigger than one atom. Thick or one atom big. Right, I can I can have a hole inside a material, something we can see by our naked eye, it could be a spherical hole but it's not a 0D defect, it's still a 3D defect. Okay, so this is something I need to clarify. And this thing you can see by your naked eye is a 3D defect. Okay, all the first three.<fin>
+对，二维是指原子平面，对吧？所以三维则更接近所有大于一个原子的物体。比如厚的、一个原子大的物体，对吧？我可以在材料内部形成一个孔，这是我们肉眼能看到的。它可以是一个球形孔，但不是零维缺陷，它仍然是三维缺陷。好的，这就是我需要澄清的一点。肉眼能看到的这个孔是三维缺陷。好的，前三个都是。
+
+[12:07]
+Right, so even— even for some very advanced characterization tools, right, we can only get some evidence, part of the story.
+对，所以即使——即使对于一些非常先进的特征化工具来说， 对吧，我们也只能获得一些证据， 也就是故事的一部分。
+
+[12:12]
+We can deduce it's probably 1D or 2D, okay?
+我们可以推断它很可能是 1D 或 2D， 对吧？
+
+[12:16]
+So that's something we need to emphasize.
+所以这是我们需要强调的一点。
+
+[12:17]
+Okay?
+好吗？
+
+[12:19]
+All right, so let's go through them.
+好，那我们来过一遍。
+
+[12:29]
+First, what is the point defect? Right, the simplest form of point defect that also exists in all kinds of materials of difference.
+首先，什么是点缺陷？ 对，点缺陷最简单的形式 在各种不同的材料中也都存在。
+
+[12:32]
+Right, so we'll talk about this not.
+对，所以我们会谈到这个，不是。
+
+[12:40]
+So we will.
+所以我们会。
+
+[12:55]
+Talk about this a lot in many industries. Okay, they're generally present by the third law of thermodynamics, right? If you think about it, have you— do you still remember what the third law of thermodynamics is?
+在很多行业里会经常谈到这个。 好，他们通常会出现在第三定律之下 也就是热力学定律，对吧？ 你想一想，你有没有—— 你还记得第三定律是什么吗 热力学定律是什么？
+
+[12:57]
+Anyone?
+有人？
+
+[13:08]
+You probably don't know how to explain that in English, but you should know that. So the third— the third law of thermodynamics is entropy.
+你可能不知道怎么用英语解释这个， 但你应该知道。 所以第三——热力学第三定律 就是熵。
+
+[13:23]
+And it deals with the perfect condition that entropy is zero. That's what is defined as when the crystal is perfectly at 0 Kelvin, the entropy is 0. Right?
+它讨论的是完美条件 也就是熵为零。 这就是定义：当晶体完全在 0 开尔文时， 熵就是 0。 对吧？
+
+[13:25]
+Right?
+对吧？
+
+[13:28]
+Right? Anyone? Law?
+对吧？ 有人？定律？
+
+[13:44]
+Okay, so by definition, because we can never really reach 0 Kelvin, so there's always the entropy that is larger than 0, right? And in other words, there's no such perfect crystal by.
+好，所以按定义，因为我们其实永远无法真正到达 0 开尔文， 所以总会有熵大于 0 的情况，对吧？ 换句话说，没有什么所谓的完美晶体 可以说。
+
+[13:56]
+Definition, right? The only probably exists at 0 Kelvin even if you just elevate the temperature by a slight step, a slight step, right, there will be something wrong.
+按定义来说，对吧？ 唯一可能在 0 开尔文存在的 即使你只是把温度稍微提高一点， 只是一点点，对吧， 也会出现一些问题。
+
+[14:09]
+Right, because atoms will have energy they will not no longer be in their ground state; they start to move, vibrate, rotate, whatever, and there will be chaos, caused by that.
+对，因为原子会有能量 它们不再处于基态； 它们开始运动， 振动、旋转之类的， 于是就会产生混沌，这是由此造成的。
+
+[14:09]
+Right?
+对吧？
+
+[14:15]
+So all crystalline materials have vacancies,
+所以所有晶质材料都有空隙，
+
+[14:35]
+and this vacancy may be caused through different stages. So if it's already partially solidified, and your atom is gone, it's probably going somewhere like somewhere nearby, and this is what we call self-interstitial.
+而这种空隙可能是通过不同阶段产生的。 所以如果它已经部分凝固了， 而你的原子已经消失了， 它很可能正在靠近某个地方， 这就是我们所说的自相间。
+
+[14:46]
+Interstitial means it's a position between the formal positions. It's a position between—
+相间意味着它处在两种形态之间的位置。 它是一个介于——之间的位置。
+
+[14:50]
+The original spaces.
+原始空间之间。
+
+[14:51]
+Fill the gap or fill the void.
+填补空隙或填补真空。
+
+[15:04]
+Right, that's what interstitial means. Self-interstitial means the atom comes from yourself. Right? So you can imagine we have self-interstitial would also have—
+对，这就是"相间"的意思。 自相间意味着原子来自你自己。 对吧？ 所以你可以想象我们有自相间 也会有——
+
+[15:07]
+Foreign interstitial.
+外相间。
+
+[15:08]
+Right?
+对吧？
+
+[15:20]
+But remember, this is no— not necessarily correlated. Right? That means it doesn't mean whenever I have a vacancy, I have a self-interstitial. Somewhere,
+但记住，这并不——不一定相关。 对吧？ 也就是说，这并不意味着每当我有一个空隙， 我就有一个自相间。
+
+[15:32]
+somewhere near. But it really depends on how this vacancy was formed in the first place. Right? There could be just there, and nobody around. Right? No other imperfections must match this one. Right? This is not like that.
+在某个地方，或在附近的某个地方。 但这真的取决于这个空隙最初是如何形成的。 从一开始就是这样。 对吧？ 它可能就在那儿，而且周围没有别的东西。 对吧？ 不可能有其他缺陷来匹配这个。 对吧？ 这不是那样的。
+
+[15:33]
+Okay?
+好吗？
+
+[15:53]
+All right, so we actually have a formula. Right? That can actually give you a quantitative idea about how many vacancies are there. Right? So this— this equation we have a number of vacancies, right, nv, which is—
+好，那么我们其实有一个公式。 对吧？ 它确实能让你有一个定量的概念， 知道有多少个空隙存在。 对吧？ 所以这个——这个方程里有一定数的空隙， 对吧，nv， 也就是——
+
+[16:33]
+The original number of vacancies times the natural constant to the power of a bunch other constants. Right? So among these, this K is a constant, right, and Qv is the formation energy. It's kind of like the activation energy. If you recall, we have activation energy and also something on the top. So for a given material, this is also a constant. Right? And we can deduce the relation between T and this nv. Okay?
+原始的空隙数乘以自然常数， 再乘以一堆其他常数的幂。 对吧？ 所以在这些当中，这个K是个常数， 对吧，而Qv是形成能量。 它有点像激活能量。 如果你还记得，我们有激活能量， 上面还有一个东西。 所以对于某种材料，这也是一个常数。 对吧？ 我们可以推导T和这个nv之间的关系。 好吗？
+
+[16:40]
+You can— you can see when T increases, the whole function of the.
+你可以——你会看到当T增加时， 整个函数的......
+
+[17:50]
+Whole function of this part will decrease. Right? And we have negative sign, so this part will increase, and then the overall nv will increase. Right? So the short story is, with increasing temperature, we have increasing equilibrium number of vacancies. All right? So to give you an idea, right, when we have a metal with a temperature which is just below its melting point, if we take nv over n, typically the portion, right, the percentage of vacancies— right, the percentage of MTCs in this whole gutter, right, this is about 1 out of 10,000. About 1 out of 10,000. Right? This is actually a considerable amount already. Right? Because 10,000 atoms is not so big. Right? If you're talking about a piece of metal holding our hand, calculate how many atoms are there. Right? We're talking about moles of metal. Right? Instead of just a number of atoms. So you can think about how many vacancies.
+这一部分的整个函数会减小。 对吧？ 而且我们有负号， 所以这一部分会增加， 然后整体nv也会增加。 对吧？ 所以简而言之，温度越升， 平衡空隙的数量就越多。 好吗？ 所以为了让你有个概念，对吧， 当我们有一个金属的温度刚好低于它的熔点时， 如果我们取nv除以n， 通常那部分，对吧， 也就是空隙的百分比——对吧， 这整个"沟槽"里MTC的百分比，对吧， 大约是每10,000个里的1个。 大约每10,000个里的1个。 对吧？ 这其实已经是相当可观的一数量了。 对吧？ 因为10,000个原子并没有那么大。 对吧？ 如果你说的是一块金属握着我们的手， 就要算一下那里有多少个原子。 对吧？ 我们说的是金属的摩尔数。 对吧？ 而不只是某个原子的数量。 所以你可以想想有多少个空隙。
+
+[17:52]
+Are there.
+存在。
+
+[17:53]
+All right?
+好吗？
+
+[17:56]
+Now,
+现在，
+
+[18:12]
+aside from the simplest point defect, which is vacancy, we also have a very common case of impurities, which is swarming. Right? So the swarming atoms—
+现在，除了最简单的点缺陷之外， 也就是空隙， 我们还有一种非常常见的杂质情况， 那就是"蜂群化"。 对吧？ 所以这些蜂群化的原子——
+
+[19:08]
+They're always there. Right? So modern technology to purify or refine metals can only achieve up to 6 nines— Right? So 99.9999%. Right? But we can never be 100% pure. It's probably true for all other kinds of chemicals. Right? We're living in a world that we assume everything is 100%. In that case, it's usually just a mixture. Right? So for metals, it's just like that. And if we have a material that does not cure— especially if it's a metal, dominated material— the other element is either another metal, so other small atoms, like carbon, or something similar, small, we call it alloy. Where alloy is a mixture of metal, where metal is a dominant element.
+它们一直都在。 对吧？ 所以现代技术用来净化或精炼金属 只能达到最多6个九—— 对吧？ 也就是99.9999%。 对吧？ 但我们永远不可能100%纯净。 这大概对其他所有类型的化学品都成立。 对吧？ 我们生活在一个世界里，我们认为 一切都是100%。 在那种情况下，通常只是混合物。 对吧？ 所以对金属来说，就是这样。 而如果我们有一种材料 它不会凝固—— 尤其是如果它是金属， 也就是主导性材料—— 另一个元素要么是另一种金属， 也就是其他小原子， 比如碳，或类似的东西， 很小的，我们就称它为合金。 而合金是金属的混合物， 金属是其中的主导元素。
+
+[19:08]
+Right?
+对吧？
+
+[19:11]
+So the.
+所以......
+
+[19:19]
+Beautiful part is, right, we realize that metals are—
+有趣的是，对吧， 我们意识到金属是——
+
+[19:23]
+Good to be a.
+很适合作为一个......
+
+[19:41]
+Not so pure. Right? Especially when you want to enhance its properties of certain kind. Right? We actually purposely mix several metal elements together. Right? Now we have a quite hot research topic called plientropy alloys. I'm not sure if you've heard about that.
+不那么纯净。 对吧？ 尤其当你想提升它的性质时 某种类型的性质。 对吧？ 我们其实会刻意把多种金属元素混在一起。 对吧？ 现在我们有一个相当热门的研究主题 叫做"钙化合金"。 我不确定你听说过这个吗。
+
+[19:42]
+Introduction.
+介绍。
+
+[19:49]
+Right? That means we need to mix at least 5 metal elements. So you can make this complete system of chaos.
+对吧？ 这意味着我们需要至少混合5种金属元素。 这样你就能构建出一个完整的系统 一团乱。
+
+[19:49]
+Right?
+对吧？
+
+[19:55]
+For sure. But that's just a research direction. Yeah? Yeah.
+当然。 但那只是一个研究方向。 对吧？
+
+[20:07]
+Not so far you can meet the industry. But the truth is, the industry are already having a lot of elements. A lot of alloys. A lot of elements. Right? That we're intentionally making. All right?
+对。 还不至于让你满足行业的要求。 但事实是，行业已经在经历 很多元素，很多合金。 很多元素。 对吧？ 这是我们刻意在做的。 好吗？
+
+[20:10]
+And they're. The most
+而且它们......
+
+[20:12]
+of the cases, good for.
+大多数情况下，这对......有好处。
+
+[20:18]
+Mechanical properties, enhancements, or corrosion resistance.
+比如机械性质、增强，或腐蚀抗性。
+
+[20:39]
+Enhancement. All right? And if we want to further classify the kinds of alloys, right, we can form either a solid solution or a new second phase. In other words, we have a phase—
+增强。 好吗？ 如果我们想进一步分类 各种合金，对吧， 我们可以形成固体溶液 或者新的第二相。 换句话说，我们有一个相——
+
+[20:42]
+Separation—
+分离——
+
+[20:48]
+Okay, it works.
+好，它能用。
+
+[20:52]
+All right. So let's go to that one by one.
+好。 那我们一个一个来看。
+
+[20:53]
+Okay.
+好。
+
+[21:02]
+All right. Solid solution. Right? So we can tell by its name. First, it's a solution. But it's made from solid. Right?
+好。 固体溶液。 对吧？ 所以我们可以从它的名字就知道。 首先，它是一种溶液。 但它是由固体构成的。 对吧？
+
+[21:36]
+So it's not the kind of solution that we're talking about. Right? It's actually a— you consider the major dominant kind of atoms to be the parent atoms, because they're like the solvents. Right? But they don't flow. Right? As you want. And then the minority. Right? They become subdued. Right? So this is where we have a solution. And in this solution, right, we can still identify a precursor structure.
+所以它不是我们想要的那种溶液 我们说的那种。 对吧？ 它其实是—— 你要考虑主要的主导原子类型 也就是父原子， 因为它们就像溶剂。 对吧？ 但它们不会流动。 对吧？ 不像你想的那样。 然后是少数的那种。对吧？ 它们会被压制住。对吧？ 所以这就是我们得到溶液的地方。 而在这种溶液里，对吧， 我们仍然可以识别出一种前体结构。
+
+[21:46]
+And there's no phase separation. Right?
+而且没有相分离。 对吧？
+
+[22:11]
+And the atoms are randomly and uniformly dispersed, just like what a solution should be. Right? So when you're asked to identify whether alloy is a solution, you look at these so-called solute. Right? These dissolved atoms. Are they randomly distributed? And in the meantime, uniformly distributed? If this is the case, then it's a solution. Okay?
+而且原子是随机且均匀地分布的， 就像溶液应该是那样。 对吧？ 所以当你被要求去识别 合金是否是一种溶液时， 你会看这些所谓的溶质。 对吧？ 这些溶解的原子。 它们是随机分布的吗？ 同时又均匀分布的吗？ 如果是这种情况， 那它就是一种溶液。 好吗？
+
+[23:10]
+So when I say uniform, that means you take a piece out from this part. You take a piece out from that part. You measure the composition. The composition, or the concentration, should be the same. This is what we mean uniform. It doesn't mean you take one atom. You take another atom. You take another atom. Here, 1, 2, 1, 2, 1, like that. Right? They're not atomically ordered. Right? Atomically, they're random. Right? They're random. Atomically, but macroscopically, it's uniform. Right? This is also a definition of a solution. Aqueous solution, you hold. Right? No matter which part you take out, you should measure the same concentration. Right? But they're actually moving all the time. Okay? So based on where the foreign atoms go, we have two kinds of positions. They can distinguish the solid solution further to two kinds. Right? If it's a small.
+所以我说"均匀"的时候， 意思是你从中取出一部分 从这一部分里。 你从那一部分取出一部分。 你测量它的成分。 这个成分，或者说浓度， 应该是一样的。 这就是我们所说的均匀。 这并不意味着你只取一个原子。 你取另一个原子。 你取另一个原子。 比如这里，1、2、1、2、1， 像这样。 对吧？ 它们的顺序不是原子序。 对吧？ 从原子序来说，它们是随机的。 对吧？ 它们是随机的。 从原子序来看，但从宏观角度看， 它是均匀的。 对吧？ 这也是一种溶液的定义。 水溶液，你会保留。 对吧？ 不管你取出哪一部分， 你都应该测量同样的浓度。 对吧？ 但它们实际上一直在变化。 好吗？ 所以根据外来原子会去到哪里， 我们有两种位置。 它们可以把固体溶液区分开来 进一步分成两种。 对吧？ 如果它很小。
+
+[23:33]
+Atom, right, typically carbon, right, if we're talking about metals, right, then they can happily go to the interstitial side. Right? So these gaps, they happily sit there. Right? With lower energy. Right? But if it's big, right, they will be more happy to replace the host. Right? Like that.
+原子，对吧，通常是碳， 对吧，如果我们在谈金属的话， 对吧，那它们完全可以去 到介质层面。 对吧？ 所以这些空隙就能很好地存在在那里。 对吧？ 而且能量更低。 对吧？ 但如果它很大，对吧， 它们就更愿意去替换 主体。 对吧？ 就像这样。
+
+[23:43]
+Right? So we have substitutional solid solution and interstitial solid solution. Right? So substitutional: we have a replacement.
+对吧？ 所以我们有替代性的固体溶液 以及介质性的固体溶液。 对吧？ 所以替代性的：我们有一个替换。
+
+[23:55]
+And for interstitial, they fill the void. Right? Among the hosts.
+而介质型的，它们会填补空白。 对吧？ 在主体之间。
+
+[23:57]
+Right? So that's the difference.
+对吧？ 所以这就是区别。
+
+[24:02]
+And we can have both, actually.
+而且实际上我们可以两种都有。
+
+[24:13]
+All right. So that's pretty much the most kinds of point defects. Right? Not so difficult. Right? Now, let's move on to linear defects. 1D types.
+好。 所以这基本上就是主要的点缺点。 对吧？ 没那么难。 对吧？ 现在，我们来看线性缺点。 一维类型。
+
+[24:15]
+Okay?
+好吗？
+
+[24:15]
+Mm-hmm. So
+嗯哼。
+
+[24:20]
+in linear defects, we only talk about one particular term.
+所以在线性缺点里，我们只谈 一个特定的项。
+
+[24:22]
+Which is called dislocation.
+它叫做解离。
+
+[24:37]
+Right? This is so commonly discussed. Right? So you must know. What is a dislocation? Right? So the definition is here. The dislocation is a linear or 1D defect.
+对吧？ 这个讨论得非常常见。 对吧？ 所以你得知道。 什么是解离？ 对吧？ 所以定义在这里。 解离是一个线性或一维的缺点
+
+[24:40]
+Is that clear? In which
+清楚吗？
+
+[24:42]
+terms?
+用哪些术语？
+
+[24:42]
+In a line.
+用一条线。
+
+[24:45]
+Okay?
+好吗？
+
+[24:51]
+And let's picture here vividly show you what this is.
+我们在这里把它画出来，清楚地给你展示 这是什么。
+
+[24:55]
+Misaligned. Right? What is missing? One line item.
+不对齐。 对吧？ 缺少什么？ 一条线的项。
+
+[24:56]
+Right?
+对吧？
+
+[24:58]
+So on top.
+所以在上面。
+
+[25:06]
+Right, from my hand, this is perfectly lining the 7.
+对，从我手上看，这完全在对齐 7。
+
+[25:18]
+Arrays of atoms. Right? But below my hand, it becomes 6. Right? So you can see it looks like, right, this plane is cut off from this point.
+原子的数组。 对吧？ 但在我手下面，它就变成6。 对吧？ 所以你可以看到它看起来，对吧， 这个平面从这个点被切断了。
+
+[25:19]
+Right?
+对吧？
+
+[25:22]
+If I look from bottom to.
+如果我从下面看到......
+
+[25:54]
+Up, I can also see suddenly from here there's additional line of action. Right? From the spring all the way to inside. An additional line of action. Right? And following this line, there's a new surface. A new half plane. Right? So this seems to be a faulty part. Right? If we continue to, it shouldn't be okay. But we stopped here. Right? So this is something abnormal. So this particular line is what we call a dislocation.
+往上，我也能突然从这里看到 还有一条额外的作用线。 对吧？ 从弹簧一直到内部。 一条额外的作用线。 对吧？ 沿着这条线，就有了一个新的表面。 一个新的半平面。 对吧？ 所以这看起来像是有缺陷的部分。 对吧？ 如果我们继续这样，就不应该没问题。 但我们停在这里。 对吧？ 所以这就是异常的东西。 所以这条特定的线就是我们所说的 解离。
+
+[26:00]
+Right? So when you have an actual line of action, and.
+对吧？ 所以当你有一条真正的作用线时， 然后......
+
+[26:16]
+On the one side, it's continuous; on the side, it's the other side is stopped. We call this edge dislocation because it's just like an edge. Right? Somewhere at the boundary. Okay? We call it an edge dislocation. Right? So we're here.
+一侧是连续的； 另一侧则停住了。 我们把这叫做边缘解离 因为它就像一个边一样。 对吧？ 在边界的某个地方。 好吗？ 我们把它叫做边缘解离。 对吧？ 所以我们在这里。
+
+[26:17]
+Right?
+对吧？
+
+[26:24]
+And we typically use this
+我们通常使用这个。
+
+[26:26]
+Reverse, the T sign.
+而我们通常用这个反向的， T符号。
+
+[26:28]
+Right? We write over here.
+对吧？ 我们在这里写。
+
+[26:33]
+As a expression of this edge dislocation.
+作为这种边缘解离的表达式。
+
+[26:38]
+Okay? This is also the most common part. Most of people will.
+好吗？ 这也是最常见的部分。 大多数人都会......
+
+[26:42]
+When they talk about dislocation, this is what they mean. Right? The edge dislocation.
+当他们谈到解离时， 他们指的就是这个。 对吧？ 边缘解离。
+
+[26:46]
+But we actually do have another kind. It's the pseudo dislocation.
+但其实我们还有另一种。 那就是伪解离。
+
+[26:49]
+Right? Which is a.
+对吧？ 它是一种......
+
+[27:12]
+Which looks like, right, you're holding a Rubik's cube and you fix one side, and you start to twist the other side. Right? So there is a shear force. And this shear force causes some of these planes to start to move just by one lattice step. Right? So one lattice step.
+看起来就像，对吧， 你拿着一个鲁比克方块 然后固定其中一侧， 再开始扭动另一侧。 对吧？ 所以会有一种刮擦力。 而这种刮擦力会让其中一些平面 仅凭一个网格就开始移动 一步。 对吧？ 也就是一网格一步。
+
+[27:43]
+Right? So if you look microscopically, you'll see that one part, right, we have something like an edge dislocation. Right? This suddenly the plane is stopped. But on the corresponding other side, there's the actual plane. On the left side. Right? And it's something more like an angle determinant. Right? So from here, you don't see particular angle. Just a straight in. This is halfway gone.
+对吧？ 所以如果你用显微镜观察， 你会看到有一部分，对吧， 我们有类似边缘解离的东西。 对吧？ 这时平面突然停住了。 但在对应的另一侧， 就有真正的平面。 在左侧。 对吧？ 而且它更像是角度决定因素。 对吧？ 所以从这里你看不到具体的角度。 就是直线向内。 这已经消失了一半。
+
+[27:50]
+Right? So it's what we call spruit. Right? Because we see this kind of twisting action.
+对吧？ 所以这就是我们所说的"spruit"。 对吧？ 因为我们看到这种扭动 的作用。
+
+[27:52]
+Looking like that.
+看起来就是那样。
+
+[28:35]
+And on the right-hand side, we have some other scenarios. Right? Can actually coincidentally combine both edge and spruit. Right? So first, there may be a spruit. Right? And because this additional plane, right, on the inside, we can absorb this additional plane by an edge. Right? Because the edge dislocation is somehow there's one missing plane. Right? A half missing plane. Right? This half missing plane somehow can swallow this actual plane caused by this spruit dislocation. Right? So this is something for your.
+而在右侧， 我们还有一些其他情景。 对吧？ 它们实际上可能会巧合地结合 边缘和 spruit 两者。 对吧？ 所以首先，可能会有一个 spruit。 对吧？ 而且因为这个额外的平面，对吧， 在内侧，我们可以吸收 这个额外的平面通过一个边缘。 对吧？ 因为边缘解离在某种程度上 就是少了一个平面。 对吧？ 半个平面缺失。 对吧？ 这个半个平面在某种程度上可以吞没 由这个 spruit 解离造成的这个实际平面。 对吧？ 所以这就是你需要注意的。
+
+[28:38]
+Viewing.
+观察。
+
+[28:41]
+All right?
+好吗？
+
+[28:44]
+Okay.
+好。
+
+[28:56]
+So very straightforward. Right? That's the only slide we have for this location. Right? But later on, when we talk about strengthening, mechanism, we also talk about dislocation. Right?
+所以非常简单。 对吧？ 这就是我们目前唯一的幻灯片 针对这个位置。 对吧？ 但之后当我们谈到强化时， 也就是机制，我们也会谈到解离。 对吧？
+
+[29:52]
+Although it looks very simple and straightforward, people actually until today, people working on structural materials, are still studying dislocations. How they're actually propagating or moving in the structural material, determines why the material is stopped or not. Right? So if you look at latest science, nature papers, there's still people simply using the band or something else to study dislocation movement. Right? So this is still a very important topic because, as I mentioned, this is an atomic size. In fact, right, if we look at a projection view, it's just one missing atom. Right? So not something we can observe very easily for the first. And for second, if it's a dynamic movement, if they're changing. Then it's even more difficult. Right? So that's the challenge of studying dislocation.
+虽然它看起来很简单 而且很直观，但直到今天，人们其实 在做结构材料的人， 仍然在研究解离。 它们到底是如何传播或移动的 在结构材料中，决定了 材料是否会停止。 对吧？ 所以如果你看最新的科学资料， 比如《Nature》的论文，仍然有人只是用 带子或其他东西来研究解离运动。 对吧？ 所以这仍然是一个非常重要的话题 因为正如我提到的，这是原子尺度的。 事实上，如果我们用投影视角来看， 它就只是少了一个原子。 对吧？ 所以这不是我们能很容易观测到的东西 首先。 其次，如果这是一个动态运动， 如果它们在变化。 那就更难了。 对吧？ 所以这就是研究解离的挑战。
+
+[29:54]
+Okay.
+好。
+
+[29:55]
+Move on to Tuesday.
+我们转到周二。
+
+[30:16]
+Now, 2D defects, it has relatively rich kind of families. Right? So think about we're living in a 3D world. Right? So if I want to separate the one 3D region with another 3D space, the boundary will be a 2D.
+现在，2D 缺陷的家族相对较为丰富。 对吧？ 所以想想我们生活在一个 3D 世界里。 对吧？ 所以如果我想把一个 3D 区域 和另一个 3D 空间分开， 边界就会变成一个 2D。
+
+[30:19]
+Plane or surface.
+平面或表面。
+
+[31:12]
+Right? So for example, this desk, and the air above the desk, they're two spaces. Right? Above is one space, below is one space. And this desk surface, it must be made from fiber. Right? So this plastic surface is a 2D defect, a 2D, because it's because the material is stopped here. Right? It doesn't continue. So this is a kind of 2D defect. Right? So that's why 2D defects have a rigid time, because it's very common. Right? As long as we have a separation of space, we have a two-dimensional something, that is doing the job. Right? So the most common one the most common one, I should say, right, with these three tasks, right, we have brain, oops,
+对吧？ 比如说，这张桌子， 以及桌子上方的空气， 它们是两个空间。 对吧？ 上面是一个空间，下面也是一个空间。 而这张桌子的表面， 必须是由纤维制成的。 对吧？ 所以这个塑料表面就是一个 2D 缺陷， 一个 2D 的缺陷，因为材料在这里停止了。 对吧？ 它不再延续下去。 所以这是一种 2D 缺陷。 对吧？ 所以这就是为什么 2D 缺陷有一个固定的时候， 因为它非常常见。 对吧？ 只要我们有空间的分隔， 我们就有一个二维的东西， 来承担这个作用。 对吧？ 所以最常见的那个，最常见的那个， 我应该说，对吧，在这三个任务里， 我们有大脑，哎呀，
+
+[32:07]
+we have brain boundaries. Twin boundaries and tilt boundaries. Right? So for brain boundaries, we talk about that. In the poly-crystalline part, remember the different color appearance of the aluminum oxide plate? If you remember, we have very transparent one, very opaque one, and somewhere in between. And we tell it's about whether it's being single-crystalline or poly-crystalline or poly-crystalline or sporse. Right? And when we say poly-crystalline, we mean we have so many single crystals grown together. Right? And this single crystal is called grain. Right? And the grain, grain has a boundary, a grain boundary. Right? This is where your original crystal left is stopped. Right? And you have to change the direction. Right? Because somewhere else, if the nucleus into another direction.
+我们有晶界。孪晶界和倾斜晶界。对吧？所以关于晶界，我们会讨论这个。在多晶部分，还记得氧化铝板的颜色差异吗？如果你记得，我们有非常透明的、非常不透明的，以及介于两者之间的。我们判断它是单晶、多晶，还是多孔的。对吧？当我们说多晶时，意味着有很多单晶生长在一起。对吧？这个单晶称为晶粒。对吧？而晶粒有边界，即晶界。对吧？这是你原来的晶体停止的地方。对吧？然后你需要改变方向。对吧？因为其他地方，晶核朝向另一个方向。
+
+[32:07]
+Right?
+对吧？
+
+[32:56]
+So you can see sometimes the brain boundary is not so easily observed. Right? It's not this line, what we manually draw. If we don't have the line, sometimes it's not that easily found. Okay? So that's one thing. And we also have twin boundaries, which is actually kind of interesting. Right? So twin boundary is, again, it's actually a special kind of brain boundary. Your crystal continues through and suddenly, at one line, it changed direction. Right? It fixed the definition of brain boundary. But it happens to be a very perfect plane cut. And this boundary, it becomes a mirror. That you can actually flip over your lattice
+所以你看，有时候晶界并不那么容易观察到，对吧？它不是我们手工画的那条线。如果没有那条线，有时就不太容易找到，对吧？所以这是第一点。我们还有孪晶界，这其实挺有意思的，对吧？孪晶界，再说一次，它其实是一种特殊的晶界。你的晶体一直延续，然后突然，在一条线上，它改变了方向，对吧？它符合晶界的定义。但它恰好是一个非常完美的平面切面。而这个边界，就变成了一面镜子。
+
+[33:13]
+Repeating pattern. Right? Just like looking at the mirror. Right? So this is what we call twin boundary. Right? So you can see, right, these two points, these two points, these two points. They all matching each other. Right? This happens
+重复图案。对吧？就像在看镜子一样。对吧？所以这就是我们所说的孪晶界。对吧？所以你可以看到，对吧，这两个点、这两个点、这两个点。它们都彼此匹配。对吧？这发生
+
+[33:30]
+Sometimes naturally, but most of the cases, by some human processing method. Right? For example, if you recall, in the first week, we have a GnS image about a chip memory of.
+这有时会自然发生，但大多数情况下，是通过某种人工处理方法。对吧？比如说，如果你还记得，在第一周，我们有一张GnS图像，关于某种芯片内存的。
+
+[33:49]
+Chip memory memorizing spring. Right? So chip memory alloys typically are twin boundary rich. Right? So they can do a shape change. Right? You can imagine when these
+芯片内存记忆弹簧。对吧？所以芯片记忆合金通常富含孪晶界。对吧？所以它们可以发生形状变化。对吧？你可以想象当这些
+
+[34:10]
+Crystal try to switch suddenly to another direction, they don't cause much energy. Right? Because their lattice are still continuous. If you look at here, the lattice are not just being disrupted. We have a lot of voices and rough phases. Right? So these two surfaces are not clearly and coherent.
+晶体试图突然切换到另一个方向时，它们不会消耗太多能量。对吧？因为它们的晶格仍然是连续的。如果你看这里，晶格不只是被打乱了。我们有很多空位和粗糙的相界。对吧？所以这两个表面并不清晰一致。
+
+[34:12]
+Glued.
+像粘在一起一样。
+
+[34:27]
+Together. But this one is actually perfect. Right? So both sides, the crystal are perfect until the line. Right? So there's no vacancies or other things. So under certain energy input.
+粘在一起。但这个其实是完美的。对吧？所以两边的晶体都是完美的，直到那条线为止。对吧？所以没有空缺或其他问题。因此在某种能量输入条件下。
+
+[34:38]
+They can actually quickly do a rotation. Or something like a flip over. And that causes your material to memorize certain positions.
+它们确实能很快完成旋转。 或者类似翻过来的动作。 这会让你的材料记住某些位置。
+
+[34:43]
+Of this crystal. Right? So that's how we have shape memory. Alloys.
+这个晶体的位置。对吧？ 所以这就是我们形成形状记忆的方式。 合金。
+
+[34:44]
+Okay?
+好吗？
+
+[34:57]
+And this one we call tilt boundary. Right? It's actually a line of edge this location.
+而这个我们称为倾斜晶界。对吧？它实际上是一条刃型位错线，就在这个位置。
+
+[35:37]
+Right? So just now, we talk about edge, this location can be represented by this convert reverse T. Right? Reverse T is that one. Right? So reverse T, so now, in addition to an edge, this location, right, on top there, have been continuously aligned at this location. So when this happens, you can imagine at a microscopic scale, you have a semi-single crystal but they can actually rotate. Like that. Right? Like how you open a, you know, this what's that called?
+对吧？ 所以刚才我们谈到边缘， 这个位置可以用这个反转 T 来表示。 对吧？ 反转 T 就是那个。 对吧？ 所以反转 T， 现在， 除了边缘之外， 这个位置， 对吧， 在上面那里， 一直在这个位置连续对齐。 所以当这种情况发生时， 你可以想象在微观尺度上， 你会有一个半单晶， 但它们实际上可以旋转。 就像那样。 对吧？ 就像你打开一个， 你知道的， 这个叫什么来着？
+
+[35:46]
+Forgot the name. But you get my idea. Right? So basically, if you look at here and all that here, there's no
+忘了名字。但你明白我的意思。对吧？所以基本上，如果你看这里和所有这些地方，没有
+
+[36:03]
+Obvious planes or that we can separate. It looks like a single piece. Right? But the bottom and the top have different number values. Right? Because you're continuously insert half planes. Right? All the way.
+没有明显的平面， 或者我们能分离出来的那种。 它看起来像一个整体。 对吧？ 但底部和顶部 的数值不一样。 对吧？ 因为你在不断插入半平面。 对吧？ 一直到末端。
+
+[36:50]
+So this is typically needed when you're growing single crystals with certain angles. Right? So by definition, if you're talking about single piece of crystal, which is perfect. It shouldn't have any tolerance for bending. If you bend it, it'll break. Right? But we have certain very high-end applications like some sensors or some reflectors or lasers or high-energy X-rays if you're familiar with high-energy X-rays, spectroscopies. Right? People use single crystal silicon or single crystal semiconductors like germanium to separate they have a very clean.
+所以，当你以特定角度培育单晶时，通常需要这么做。对吧？所以根据定义，如果你说的是一块完美的单晶，它不应该有弯曲的容差。如果你弯曲它，它会断裂。对吧？但我们有一些非常高端的应用，比如某些传感器、反射器、激光器，或者如果你熟悉高能X射线和光谱学。对吧？人们使用单晶硅或单晶半导体（如锗）来分离，它们非常纯净。
+
+[37:18]
+Surface. Right? So it's an actively angled surface. And you can actually they can reflect and distinguish different energies of X-rays. Or other EM waves. Right? And they must be single crystals to have a perfectly clean surface. But you want a single crystal to bend. Right? They must have certain degree between one or two degrees, but they're not zero. And this is how you can build it. Right? You can give them to bend.
+表面。对吧？所以这是一个有活动角度的表面。而且你实际上可以让它们反射，并区分不同的X射线能量。或者其他电磁波。对吧？而且它们必须是单晶，才能有完全干净的表面。但你希望单晶能弯曲。对吧？它们之间必须有一定的角度，大概1到2度，但不能是0度。这就是你如何把它做出来的方法。对吧？你可以让它们弯曲。
+
+[37:23]
+Make it as perfect as possible, but still single.
+把它做得尽可能完美， 但仍然是单晶。
+
+[37:23]
+Crystal.
+晶体。
+
+[37:26]
+Consider single crystal.
+考虑单晶。
+
+[37:27]
+All right?
+好吗？
+
+[37:39]
+All right. We have more types. Right? So like we just talked about, right, any accidental surface. Right? Like on the desktops. Right?
+好的。我们还有更多类型。对吧？就像我们刚才讨论的，对吧，任何偶然形成的表面。对吧？比如在桌面上。对吧？
+
+[37:57]
+Or glass. Or anything. Right? You can think of. Either it's visibly seen by your naked eye or not. Right? They're 2D defects. Okay? So all the accidental surface where your material stops right.
+或者玻璃。 或者任何东西，对吧？ 你可以想象。 要么用肉眼看得见，要么看不见。 对吧？ 它们是2D缺陷。 好吗？ 所以所有那种不经意形成的表面，就是你的材料停在那里， 对吧。
+
+[38:00]
+It's a 2D defect.
+它就是2D缺陷。
+
+[38:01]
+Okay?
+好吗？
+
+[38:08]
+So all the surfaces, without any protection like that, they will be very active. Okay?
+所以所有表面，如果没有那样的保护，它们都会非常活跃。好吗？
+
+[38:11]
+So
+所以。
+
+[38:24]
+There's actually no such thing as a clean cut. Right? They will instantly be protected by, for example, some oxide layer. Or something. A grease layer. Right? It can protect the surface.
+实际上并不存在所谓的"干净切割"。 对吧？它们会立刻被保护住，比如说，被某种氧化层之类的东西保护。 一层油脂层。对吧？ 它能保护表面。
+
+[38:24]
+Right?
+对吧？
+
+[38:35]
+And we also have phase boundary. Which is a special kind. I would say a special kind of bone boundary again. Right?
+我们还有相界。这是一种特殊类型。我会说这又是一种特殊的骨边界。对吧？
+
+[38:54]
+It's special because for grain boundary, right, one side and the other side of boundary, they're supposed to be the same material. But for phase boundary, it can be different. Right? And it happens actually in many metals especially after we learn about phase diagram. You'll know that.
+它之所以特殊，是因为对于晶界而言，对吧，界面的一侧和另一侧应该是同一种材料。但对于相界，它们可以不同。对吧？这实际上发生在许多金属中，尤其是在我们学习了相图之后。你会知道的。
+
+[39:22]
+Right? So when you cool down a mixture of materials, for example, some ions, some carbon, some chromium, if you're making stainless steel, right, when you cool down a mixture, they don't happily uniformly solidify as you want. Some may solidify first. And some element may accumulate there. And then some may solidify on other places. You end up to be a mixture with small grain.
+对吧？所以当你冷却材料的混合物时，例如一些离子、一些碳、一些铬，如果你在制造不锈钢，对吧，当你冷却混合物时，它们不会如你所愿均匀地凝固。有些可能先凝固。有些元素可能会在那里积累。然后有些可能在别处凝固。你最终得到的是具有小晶粒的混合物。
+
+[39:27]
+Or small crystallites. That are actually made from different elements.
+或者说微小的晶体，实际上由不同的元素组成。
+
+[40:06]
+Okay? So phase diagram deals with that. Right? Deals with explaining that phenomenon. Which I will talk about soon. Next week, I think. So because of that, right, so phase boundary will naturally exist. The any material that is not homogeneous. Right? That is not homogeneous.
+好吗？所以相图就是处理这个的。对吧？用来解释那个现象。我很快会讲到。我想是下周。所以因此，对吧，相界就会自然存在。任何不是均匀的材料。对吧？不是均匀的。
+
+[40:17]
+So the.
+所以......
+
+[40:18]
+Okay?
+好吗？
+
+[41:11]
+So don't worry about this phase diagram. I will talk about this very soon. HCP, FCC. One is ABABABAB. The other one is ABCABC. Right? Now, that's the perfect case. In the real world, if you're mixing, especially if you're mixing one HCP metal with one FCC metal, and you don't allow them to cool down or solidify, right, in a gentle manner, they usually don't have the latest follow one of the crystal plates. They just become a random or chaotic way of setting. Right? Between ABCABABC, something like that. Right? You don't see any long-range pattern or long-range order. So it's a mixed setting. But it's not amorphous. Because it's still crystalline. You can still see the lateral line. They're still there. Right?
+所以别担心这个相图。我很快会讲到这个。HCP、FCC。一个是ABABABAB。另一个是ABCABC。对吧？现在，那是完美的情况。在现实世界中，如果你在混合，特别是如果你在混合一种HCP金属和一种FCC金属，而且你不让它们以温和的方式冷却或凝固，对吧，它们通常不会遵循其中一个晶面。它们只是变成一种随机或混乱的排列方式。对吧？比如ABCABABC之类的。对吧？你看不到任何长程模式或长程有序。所以这是一种混合排列。但它不是非晶的。因为它仍然是结晶的。你仍然能看到晶格线。它们还在那里。对吧？
+
+[41:34]
+So when we see such kind of cases, we call them stacking fault. Okay? We call them stacking fault. In the long range, usually we can still see or we still can identify what is the matrix or the dominanting pattern. Right? For example, I'm always ABABAB, but between one of the ABAB, I have a C. That's a stacking fault.
+所以当我们看到这种情况时，我们称之为堆垛层错。好吗？我们称之为堆垛层错。在长程范围内，通常我们仍然能看到或者仍然能识别出什么是基体或者主导的模式。对吧？比如说，我总是ABABAB，但在其中一个ABAB之间，我有一个C。那就是堆垛层错。
+
+[41:46]
+Okay? Or you have ABCABCABC. But certain layer your B is missing. That's a local stacking fault. Right? So this is quite common. Right? It's quite common.
+好吗？或者你有ABCABCABC。但某一层你的B缺失了。那是局部堆垛层错。对吧？所以这很常见。对吧？很常见。
+
+[41:52]
+Especially in FCC metals. Right? Because FCC metals are the most common one. Right?
+尤其是在FCC金属中。 对吧？ 因为FCC金属是最常见的。 对吧？
+
+[42:14]
+Okay? And we also have a special term called domain wall. This is less used but I let me just still take a few minutes to talk about it. This is typically talking about magnetic materials. So for polycrystalline material, we have grains. Right? Which is the single crystalline thing.
+好吗？ 我们还有一个特殊术语叫"畴壁"。 这个用得不多，但我还是想花几分钟来讲一下。 这通常是在讲磁性材料。 所以在多晶材料里，我们有晶粒。 对吧？ 也就是单晶的那种东西。
+
+[42:33]
+Island or region. Right? For magnetic materials, right, they also have small magnets. That if you zoom in, they're still small magnets. They're made up of the entire magnetic material. So that small magnet, itself, has n as n.
+岛状或区域状。对吧？对于磁性材料来说，对吧，它们也有小磁体。如果你放大看，它们仍然是小磁体。它们由整个磁性材料构成。所以那个小磁体本身，有n，n就是n。
+
+[42:40]
+Right? So this small magnet we call domain. All right? We call it domain.
+对吧？ 所以这个小磁体我们称之为磁畴。 好吗？ 我们把它叫作磁畴。
+
+[43:05]
+It's really like the grain, but it's not about grain. It's about the magnetic property. Right? That single piece can be considered as a single magnet. Right? So we have domain. And between the domain, we have domain wall. Or domain boundary. Right? So that's what we typically talk about in magnetic particularly spiral magnetic material. Okay?
+它其实就像颗粒一样， 但重点不在于颗粒本身。 而是在于磁性性质。 对吧？ 那一小块可以被认为是一个单独的磁体。 对吧？ 所以我们有域。 而在域之间，我们有域墙。 或者说域边界。 对吧？ 所以这就是我们通常在磁性材料里谈到的，尤其是螺旋磁性材料。 好吗？
+
+[43:08]
+So just for your information, right, this one.
+所以只是给你们参考一下，对吧， 就这个。
+
+[43:09]
+Okay?
+好吗？
+
+[43:55]
+So people studying defects are really like making names. Right? So if you look at this graph again, right, people actually have picked up this many, many different kinds of names. To describe the kind of surface a defect that we may describe when we may see. Right? So but this one for your information only. Right? We're not going to test this one. Right? So
+所以研究缺陷的人其实就像在命名一样。对吧？所以如果你再看一遍这张图，对吧，人们实际上已经收集了许多许多不同的名称，用来描述我们可能看到的表面缺陷类型。对吧？但这个只是供你们参考。对吧？我们不会测试这个。对吧？
+
+[43:57]
+okay.
+好。
+
+[44:00]
+The last time right.
+上一次，对吧。
+
+[44:04]
+Last time is right. Last, last page. Okay? Stay with me. Okay?
+上一次是对的。最后一页。好吗？跟我一起看。好吗？
+
+[44:36]
+So the last time is 3D defects. Right? Like I mentioned, anything not atomically levelly thick or thin, right, it's a 3D defect. A 3D defect if you're talking about shape, it could be a 0D shape. Like a core. Or it could be a 2D or 1D crack. Or it could be some bigger things. Like a foreign occlusion or something else. Right? Now the biggest the most important thing to distinguish that if we gave you an image or gave you something to see what kind of defect.
+所以上一次是3D缺陷，对吧？就像我提到的，任何不是原子层面那么厚或那么薄的东西，对吧，就是一个3D缺陷。如果你说的是形状，3D缺陷的话，它可能是一个0D形状，比如核心；或者也可能是一个2D或1D的裂缝；也可能是更大的东西，比如外来夹杂物，或者别的什么，对吧？现在最重要、最关键的是要区分，如果我们给你一张图，或者给你一些东西，让你看看是什么类型的缺陷。
+
+[44:55]
+It is, look at the scale bar. Right? The scale bar is 10 micrometers. Right? Anything you see from here, as long as we can distinguish by our eyes, not the tongue. Right? The tongue would be a scale bar of 2 nanometers or something. 5 nanometers maximum. Right? So these.
+那就看这个比例尺。对吧？比例尺是10微米。对吧？从这里看到的任何东西，只要我们用眼睛能分辨出来，而不是用舌头。对吧？舌头的话，比例尺大概是2纳米。最多5纳米。对吧？所以这些。
+
+[45:01]
+Things, no matter it's 0, 3, or 1D, these are all 3D defects. By definition. Okay?
+这些东西，不管是0、3还是1D，按定义来说都是3D缺陷。好吗？
+
+[45:03]
+So we have many, many different kinds.
+所以我们有很多很多种类。
+
+[45:05]
+Okay? Many, many different kinds.
+好吗？ 很多很多种。
+
+[45:06]
+Okay.
+好。
+
+[45:10]
+So that's about defects. Take a quick break. Come back at 9.
+缺陷就讲到这里。 先短暂休息一下。 9点再回来。
+
+[57:35]
+现在说完了。 One story, another story is that we look at it consequence for the results of a materialized approach. And then we deal with another very important thing: how failure—
+现在说完了。一个故事，另一个故事是，我们看待它对物质化方法结果的影响。然后我们要处理另一件非常重要的事情：失败如何——
+
+[57:36]
+这很大呀，这个图。
+This chart is really big.
+
+[57:38]
+Okay, and to understand failure—
+好，那要理解失败——
+
+[57:39]
+发完了。
+It's all done.
+
+[57:42]
+—we need to recalculate. 好。
+——我们需要重新计算。
+
+[57:54]
+For what you have learned. Material science. For what you haven't: three views, some of the knowledge about metals, in terms of their mechanical properties and their strength and mechanisms. It's all related.
+根据你学到的内容。材料科学。至于你还没学到的：三个观点，一些关于金属的知识，从它们的机械性质来看，以及它们的强度和机制。这些都是相关联的。
+
+[58:33]
+Materials fail because they have certain weaknesses in their mechanical property, and we also have certain ways or strategies to enhance their strength, right? So we have strength and mechanisms. Okay?
+材料之所以失效，是因为它们在机械性能上存在某些弱点，而我们也有某些方法或策略来增强它们的强度，对吧？所以我们有强度和机制。好吗？
+
+[58:33]
+So—
+所以——
+
+[58:34]
+So I need to start with a quick recap, because there will be some terms that we probably—
+所以我需要先快速回顾一下，因为会有一些术语我们可能——
+
+[58:34]
+我发你们两个证。
+I'll send you two certificates.
+
+[58:34]
+—not so familiar.
+——不太熟悉。
+
+[58:34]
+就把烟抽一根就行了。
+Just smoke one cigarette, that'll do.
+
+[58:34]
+So—
+所以——
+
+[58:35]
+明天早上再给大家抽一根就行了。然后那一根让你们拿餐饮纸包着，吃都一样。再玩一下。然后过完之后给他插进去。就这样。没事。
+Tomorrow morning I'll smoke one more for everyone, that'll do. And wrap that one in catering paper, you can eat it anyway. Let's play a bit more. Then after that, plug it in for him. That's it. No problem.
+
+[58:35]
+这个我熟，我老熟客了已经。
+I'm familiar with this—I've been familiar with it for a long time.
+
+[58:35]
+If we—
+如果我们——
+
+[58:35]
+安全得很。
+It's very safe.
+
+[58:43]
+Look at a more general description. It's about materials' response for deformation—
+看一个更一般的描述。这是关于材料对变形的响应——
+
+[58:48]
+When there is a applied load okay.
+当有应用载荷时， 好。
+
+[59:02]
+So this load can be all kinds. Okay, it can be cooling, it can be compressing, it can be scratching, it can be twisting. All kinds. Any external force laid.
+所以这种载荷可以是各种类型的。好，它可以是制冷，也可以是压缩，也可以是刮擦，也可以是扭转。各种类型。任何施加的外力。
+
+[59:11]
+On this material, right? It can be called a load, right? Or an external stress, or external force. Okay?
+在这种材料上，对吧？它可以称为载荷，对吧？或者外部应力，或者外力。好吗？
+
+[59:17]
+So we have many many terms. About mechanical.
+所以我们有很多很多术语。 关于机械的。
+
+[59:36]
+Properties. So instead of saying material is strong, now we have so many other choices. We can say it has a very good tensile stress, right? Or it's very resilient. We'll say it's a tough material, or a hard material. They all mean different kind of things. Okay?
+性质。 所以与其说材料很强， 现在我们还有很多其他选择。 我们可以说它有很好的抗拉强度， 对吧？ 或者说它很有弹性。 我们就说它是个韧性材料， 或者说是个硬材料。 它们的含义都不一样。 好吗？
+
+[59:41]
+Those are the ones I want. So don't worry about this line. It's more like an outline here.
+我想要的就是这些。所以别担心这条线。这里更像是一个大纲。
+
+[1:00:08]
+Okay. Now, to know what this mechanical property will first meet in those on basic terms, right? In the engineering materials, structural materials, we don't say source, right? In physics you study source. You study pressure. But in mechanical engineering we talk about stress, right? The definition they really like pressure, because stress is defined by force per unit area. Okay?
+好。现在，要了解这些力学性能首先会遇到哪些基本术语，对吧？在工程材料、结构材料中，我们不谈“强度”，对吧？在物理中你研究强度。你研究压强。但在机械工程中我们谈论应力，对吧？应力的定义很像压强，因为应力定义为单位面积的力。明白吗？
+
+[1:00:10]
+Right?
+对吧？
+
+[1:00:13]
+Force per unit area. Right?
+按单位面积的力。 对吧？
+
+[1:00:29]
+But this area is not a changing area. It's usually when you, for example, a cylinder-like material, right? This is usually people cut, right? People cut a sample into a cylinder, something long and easy to grasp. Right?
+但这个面积不是变化的面积。通常是当你，例如，像圆柱形的材料，对吧？这通常是人们切割的，对吧？人们把样品切成一个圆柱体，长而且容易拿取的东西。对吧？
+
+[1:00:50]
+And you start to apply load, right, to this cylinder. Now, this cross-section of this cylinder, right? So this area, which is perpendicular to the force you apply, right, it has an original area, right? The area 0. This is what we use, right, for engineering stress.
+然后你开始对这个圆柱施加载荷，对吧。现在，这个圆柱的这个横截面，对吧？所以这个面积，垂直于你施加的力，对吧，它有一个初始面积，对吧？面积0。这就是我们使用的，对吧，用于工程应力的。
+
+[1:00:53]
+A0 over here.
+这里是 A0。
+
+[1:00:54]
+Right?
+对吧？
+
+[1:00:59]
+Right?
+对吧？
+
+[1:01:01]
+And—
+然后——
+
+[1:01:27]
+In response to stress, right, we have something we call strain. Right? Stress strain. You must have heard this pair, right? So strain, right, is usually defined as the percentage of the deformation relative to the original deformation. Right?
+应激反应中，对吧，我们有一个叫应变的量。对吧？应力应变。你们一定听说过这对词，对吧？所以应变，对吧，通常定义为变形相对于原始变形的百分比。对吧？
+
+[1:01:32]
+So we have change in length.
+所以我们有长度变化。
+
+[1:01:37]
+Divided by L0, which is original length.
+再除以 L0， 也就是原始长度。
+
+[1:01:40]
+Okay? So this is the definition of strain.
+好吗？ 所以这就是拉力的定义。
+
+[1:01:41]
+Okay?
+好吗？
+
+[1:01:52]
+So stress is the origin or the reason strain is a consequence or the observation you see. Okay?
+所以应力是起因，或者说应变是结果，或者你看到的观测现象。 好吗？
+
+[1:02:31]
+So people always draw a stress strain correlation. So when they know when you apply certain force to a material, or a given cross-section area, how much change this material can go through or undergo, right? But usually there's other other way around. I want to make my material a form. I have a certain amount. How much pressure I need. Right? We can also work the other way around. Okay? So for stress, we have so many kinds depending on what kind of force you're applying to the sample. Right? The most simple ones are tensile stress or compressive stress. Right?
+所以人们总是会画出应力-应变关系曲线。这样他们就知道，当你对材料施加一定的力，或是在给定的截面积上，这个材料能发生多大的变化，对吧？但通常也可以反过来用。我想让材料成型，我有一定的量，需要多大的应力。对吧？我们也可以反过来工作。好吗？所以应力有很多种，取决于你施加在样品上的力是什么样的。对吧？最简单的是拉伸应力或压缩应力。对吧？
+
+[1:03:02]
+So for tensile stress and compressive stress, we assume that we have a piece of very perfect sample. Where you only applied axial force in the axial direction. Right? To either pull or compress this piece of cylinder, or this piece of sample. Right? So we have tensile stress for the pulling force, right, so it's pulling. We have the compressive stress, right, which is pressing.
+所以对于拉伸应力和压缩应力，我们假设有一块非常完美的样品。你只在轴向方向施加了轴向力。对吧？要么拉动，要么压缩这块圆柱体，或者压缩这块样品。对吧？所以对于拉力，我们有拉伸应力，对吧，也就是在拉。我们有压缩应力，对吧，也就是在压。
+
+[1:03:35]
+Pressing from an inward direction. Pressing towards the sample. It's compressive. Right? Pulling away from a sample. It's tensile. All right? And then we have more kinds, right, shear torsional. Later on we'll see. Previously we have all kinds of purposely made, right, deformation pathways. So for shear and torsional, it's more like you're trying to rotate, or shift the lattices for.
+从内向方向施加压力。向样品内部推压。这是压缩。对吧？从样品向外拉。这是拉伸。好吗？然后我们还有更多种类，对吧，剪切、扭转。稍后我们会看到。之前我们有各种特意制造的变形路径。所以对于剪切和扭转，更像是你试图旋转或移动晶格。
+
+[1:03:55]
+Shear is when you hold one side, make it still, make it static, and you try to push the other side. Right? The direction of the pushing, right, it's parallel to the so-called A0, that I'm interested in. Right? This is what we call shear. Right?
+剪切是当你固定一侧，使其保持静止、静态，然后尝试推动另一侧。对吧？推动的方向，对吧，与我所关注的所谓A0平行。对吧？这就是我们所说的剪切。对吧？
+
+[1:04:35]
+And torsional is when you rotate or screw. Right? Just now we have screw. Dislocation. Right? It can be caused by a torsional stress. Right? So this is how you open your screw path. Right? So for screw, for torsional stress, you also fix the bottom instead of giving it a linear direction force. You give it a rotational direction force. Right? So that's what we have a torsional stress. Okay? For this course, most of the time we're going to talk about tensile stress. Right? So the simplest one. Okay?
+扭转是当你旋转或拧转时。 对吧？ 刚才我们讲的是螺旋。 位错。 对吧？ 它可能由扭应力造成。 对吧？ 所以这就是你如何打开螺旋的路径。 对吧？ 所以对于螺旋、对于扭应力， 你也是固定底部，而不是给它线性方向的力。 你给它一个旋转方向的力。 对吧？ 所以这就是我们所说的扭应力。 好吗？ 在这门课中，我们大多数时候会讨论拉应力。 对吧？ 所以这是最简单的。 好吗？
+
+[1:05:26]
+So stress strain curve, like I mentioned, is one of the most important mechanical behaviors of material. Right? So the first thing you build a new material is to pass a stress strain curve. All right? Tensile stress is the curve sometimes also compressive. Stress. Stress strain curve. Okay? So you can see in the stress strain curve, although stress is usually the cause, right, the cause strain is usually the consequence, but we usually write strain as the accent. Right? So we engineers care about results. So they want to know deformation. Relative to stress. Right? So this is how they draw the figure, not a big deal. Right? Just know this is the typical happening.
+所以应力应变曲线，像我提到的，是材料最重要的力学行为之一。对吧？所以你要做的第一件事就是建立新材料的应力应变曲线。好吗？拉伸应力是曲线，有时也是压缩应力。应力。应力应变曲线。好吗？所以在应力应变曲线中，虽然应力通常是原因，对吧，应变通常是结果，但我们通常把应变写成横坐标。对吧？所以我们工程师关心的是结果。所以他们想知道相对于应力的变形。对吧？所以他们就是这样画图的，没什么大不了。对吧？只要知道这就是典型的情况。
+
+[1:05:26]
+Okay?
+好吗？
+
+[1:05:34]
+Now, what happens if you actually for example pull a material? Right? Have you think about it?
+那么，如果你实际上比如说拉动一种材料，会发生什么？对吧？你想过吗？
+
+[1:05:44]
+So for example, now I'm trying to pull my laser point. I can pull very, very hard. But can you see any deformation?
+举个例子，现在我在尝试拉我的激光笔尖。我可以非常非常用力地拉。但你能看到任何变形吗？
+
+[1:05:45]
+Probably not. Right?
+大概不会。对吧？
+
+[1:05:49]
+But are there actually movement in the lattice?
+但网格里真的有运动吗？
+
+[1:05:51]
+Yes or no?
+是还是不是？
+
+[1:05:52]
+Yes.
+是。
+
+[1:06:08]
+Possibly yes. Right? So because I give some force, right, some energy are spent. Right? So what is actually doing is my lattice may be moving slightly up. I am some level. Right?
+可能是的。对吧？所以因为我施加了一些力，对吧，就会消耗一些能量。对吧？所以实际发生的是，我的晶格可能会稍微向上移动。我在某个高度。对吧？
+
+[1:06:10]
+But as long as I release it, they go back.
+但只要我释放它，它们就会回去。
+
+[1:07:17]
+Right? So I can do this for a thousand times. They won't change a bit. Right? So of course because my force is too small. But it's also because I haven't overcome the bonding energy. Right? I'm physically, if I want to pull this out, I'm physically breaking the bond. Right? And this is actually metal. So I'm breaking a tight bond. Right? So it's too strong for me. So for all kinds of bonds, right, they're first of all very strong. And second of all, they're actually like a spring. Right? They're not a static like a wood stick, but they're rather a spring, a very strong spring. That can slightly vibrate to a certain range. Maybe 1 out of 1,000 or something. Right? It's something we cannot see there with naked eye. Right? But if you have a really good ruler, and a really good camera, maybe you can measure that. Dislocation, even by this. Maybe you can measure this kind of deformation. Right? So each stress strain curve always starts with a straight line, like this, first.
+对吧？所以我可以这样做一千次。它们一点也不会变。对吧？所以当然，因为我的力太小了。但也因为我还没克服结合能。对吧？从物理上说，如果我想把这个拉出来，我实际上是在打断结合。对吧？而这实际上是金属。所以我是在打破一个紧密的结合。对吧？所以对我来说太强了。所以对于各种键，对吧，首先它们都非常强。其次，它们实际上就像弹簧一样。对吧？它们不是像木棍那样静止的，而是弹簧，非常强的弹簧。它可以在一定范围内轻微振动。可能是一千分之一左右。对吧？这是我们用肉眼看不到的东西。对吧？但如果你有一把很好的尺子，还有一台很好的相机，也许你就能测量出来。位错，甚至仅凭这个。也许你能测出这种形变。对吧？所以每条应力应变曲线总是从一条直线开始，像这样，先是这样。
+
+[1:07:36]
+When you haven't break the bond, either atomic bond, bond, either an ionic bond or metallic bond or what kind of bond. Right? They have certain level of freedom. To move before they're totally break. Right? And this region, we call it the elastic.
+当你还没有断裂这个键时，无论是原子键、离子键、金属键还是其他类型的键，对吧？它们在完全断裂之前有一定的移动自由度，对吧？而这个区域我们称之为弹性区。
+
+[1:07:39]
+We call it elastic.
+我们称它为弹性区。
+
+[1:07:41]
+Right?
+对吧？
+
+[1:08:03]
+So for elastic parts, stress and strain are proportional. Right? So it's just like how you pull a spring. Right? The larger force you apply, it can replace farther, but it can always go back. Right?
+所以对于弹性部分，应力和应变是成比例的。对吧？这就像你拉弹簧一样。对吧？你施加的力越大，它能拉伸得更远，但它总能回去。对吧？
+
+[1:08:19]
+So we have a particularly observation made by this scientist called Hooke. That deals with this linear region. Right? So they think the stress and the.
+所以我们有一位叫胡克的科学家做出的特别观察。 这涉及这个线性区域。 对吧？ 所以他们认为应力和......
+
+[1:08:24]
+Strain are correlated by a single constant.
+拉力是由一个常数相关联的。
+
+[1:08:36]
+Because it's a straight line. So the slope must be a constant. Right? And he calls constant modulus of elasticity.
+因为它是一条直线。所以斜率必须是常数。对吧？他称这个常数为弹性模量。
+
+[1:08:51]
+Right? Modulus elasticity. So you can imagine this constant will have the same unit as pressure. Right? Because it's force per area. Right? Strain is, let's see, area.
+对吧？ 弹性模量。 所以你可以想象这个常数会有与压力相同的单位。 对吧？ 因为它是力除以面积。 对吧？ 应变是，我们看看，面积。
+
+[1:08:56]
+So stress is area. Strain is unitless. Right? Strain is unitless.
+所以应力是面积。应变是无单位的。对吧？应变是无单位的。
+
+[1:08:59]
+Okay? So
+好吗？
+
+[1:09:07]
+after. So let's take an atomic level observation.
+所以接下来。 我们来看一个原子层面的观察。
+
+[1:09:09]
+Of what happens. Right?
+看会发生什么。 对吧？
+
+[1:09:12]
+Particularly within this elastic region.
+尤其是在这个弹性区域内。
+
+[1:09:40]
+Right? So first of all, if we are holding a cylinder, if we zoom in really, really zoom in, and we start to see the atoms from that particular section, right, you see that when you apply a small load, right, maybe something we cannot see by our naked eye, right, the bonds start to stretch a little bit. Okay? The load is constant. I'm not releasing it yet. Right? I'm still trying to pull it.
+对吧？所以首先，如果我们拿着一个圆柱体，如果我们放大，非常非常放大，开始看到那特定区域的原子，对吧，你会看到当你施加一个小的载荷，对吧，也许我们肉眼看不到的东西，对吧，键开始稍微拉伸。好吗？载荷是恒定的。我还没释放它。对吧？我还在试着拉它。
+
+[1:09:42]
+And then if.
+然后如果......
+
+[1:09:46]
+I draw this curve, it looks like that.
+我画这条曲线，它就会像那样。
+
+[1:10:23]
+Right? False curve change of length, you can also relate it to stress strain curve. Right? Because you only need to give it a low size, a same constant to define. So they still have the same correlation. And the curve will look like that. Right? There's a straight line. Usually a very large slope. All right? Now you release the load. You release the load, the cylinder goes right back. And it's original length. And if I look at the curve, I will see a—
+对吧？ 假曲线的长度变化，你也可以把它和应力应变曲线联系起来。 对吧？ 因为你只需要给它一个小的尺寸，用同一个常数来定义。 所以它们仍然有相同的相关性。 曲线就会是那样的。 对吧？ 这里有一条直线。 通常斜率非常大。 好吗？ 现在你释放载荷。 你释放载荷，圆柱就会立刻回去，恢复原来的长度。 如果我看这条曲线，我会看到一个——
+
+[1:10:37]
+Same line going back to the same path, but from top to the bottom. Right? So this is you can naturally observe this. Right? By our instrument nowadays. Right? This is happening. Okay?
+同一条线沿着同一路径回去，但从上到下。对吧？所以这一点你可以很自然地观察到。对吧？用我们现在的仪器就能看到。对吧？这正在发生。好吗？
+
+[1:10:43]
+So the most important factor for elastic.
+所以弹性的最重要因素是。
+
+[1:10:46]
+Deformation to be called elastic deformation is it would be reversible.
+要被称为弹性变形的变形， 它应该是可逆的。
+
+[1:10:51]
+Right? It's reversible. Right? It's reversible.
+对吧？ 它是可逆的。 对吧？ 它是可逆的。
+
+[1:10:52]
+Okay?
+好吗？
+
+[1:11:26]
+And this reversibility, or we say the modulus, right, the slope of this curve, you can imagine it depends on the bonding stress. Right? The stronger or more elastic is your bond, that means you have a very big slope. You need large force. Right? A big slope means you need a very large force to move a small distance of this material. Right? So that means you have a very strong modulus. Right?
+而这种可逆性，或者我们说的模量，对吧，就是这条曲线的斜率，你可以想象它取决于结合应力。对吧？你的结合越强或越有弹性，就意味着你的斜率会很大。你需要很大的力。对吧？斜率大就意味着你需要非常大的力，来移动这种材料的一小段距离。对吧？所以这就意味着你的模量非常强。对吧？
+
+[1:11:37]
+Okay. Now, what is more interesting and usually more studied is what happened after the elastic deformation, the elastic region.
+好。现在，更有意思、通常也更多人研究的是，弹性变形之后发生了什么，也就是弹性区域。
+
+[1:11:47]
+Right? And you can properly probably preview that we are already we're entering a plastic deformation.
+对吧？你可能也能预料到，我们已经进入了塑性变形。
+
+[1:11:50]
+Right? Plastic deformation.
+对吧？ 塑性变形。
+
+[1:11:51]
+Okay?
+好吗？
+
+[1:12:19]
+So depending on the kind of material, this elastic region, it's usually quite short. Right? If we're talking about really hard materials, like metals or that, this is very small. For metals, right, we have some statistics here. For metals, elastic deformation is only when the strain is about 0.5, 0.5 percent.
+所以根据材料的种类，这个弹性区域通常相当短。对吧？如果我们说的是非常硬的材料，比如金属之类的，它就会非常短。对于金属，对吧，我们这里有一些统计数据。对于金属，弹性变形只发生在应变约为0.5，0.5%的时候。
+
+[1:12:28]
+Or we say 0.005. Right? Strain is unitless. Right? Because it's length over length. So unit cancels out. Okay?
+或者我们说0.005。对吧？应变是无单位的。对吧？因为它是长度除以长度。所以单位会相互抵消。好吗？
+
+[1:12:31]
+So
+所以……
+
+[1:12:39]
+The strain for metals before it's going into plastic region is only 0.005. Right?
+金属在进入塑性区之前的拉力只是0.005。对吧？
+
+[1:12:44]
+But you scrap your strain curve, it's nonstop.
+但你把拉力曲线磨掉，它是不停的。
+
+[1:13:01]
+Now, when you're really testing a material, let me go to this picture here. Now, this is what we typically use to measure the stress strain curve of any given material. Right? It is liquid pressure rise.
+现在，当你真正在测试一种材料时，让我来看这张图。这就是我们通常用来测量任何给定材料的应力-应变曲线的方法，对吧？它是液体压力上升。
+
+[1:13:14]
+They can give very accurate pressure, or pulling force, and they can move very accurately along this to trails. Right? They can move like millimeter by millimeter. Accurate.
+它们能提供非常精确的压力或拉力， 并且能非常精确地沿着这些轨迹移动。 对吧？ 它们可以逐毫米移动。 精确。
+
+[1:13:56]
+Okay? So you put that material typically cut into a standardized shape and size. And you clamp the two ends. Right? Onto these two clamps. And you start pulling. Right? So we can imagine when we're pulling, this side is still, this side is moving. So this side is a strain. Right? The movement directly transmitted to strain. And the sensor here can also feel the stress. That is also one reason we typically draw the strain at the x-axis. Because strain is something we can manually change by this clamp. While stress is more like something we observe and record down.
+好吗？所以你把这种材料通常切成标准化的形状和尺寸。然后把两端夹紧。对吧？夹在这两个夹子上。然后开始拉。对吧？所以我们可以想象，当我们在拉的时候，这一侧是静止的，那一侧在运动。所以这一侧是应变。对吧？运动直接传递到应变。而这里的传感器也能感知应力。这也是我们通常把应变画在x轴上的原因之一。因为应变是我们可以通过这个夹具手动改变的。而应力更像是我们观察并记录下来的东西。
+
+[1:14:13]
+Right? But this is because it's instrumentation. Right? You still should know stress is a cause going into consequence. Okay? That's how we measure it. Right? So because of this measurement,
+对吧？但这是因为这是仪器测量。对吧？你仍然应该知道，应力是一个原因，导致结果。好吗？我们就是这样测量的。对吧？所以因为这种测量，
+
+[1:14:32]
+right, you can actually pull this cylinder all the way up until it's totally broken. Right? So this is how a stress strain curve stops. Right? Whenever you measure this sample, you go to its breaking point.
+对吧，你实际上可以把这根圆柱体一直拉上去直到完全断裂。对吧？所以应力-应变曲线就是这样结束的。对吧？每当你测量这个样本时，你就会到达它的断裂点。
+
+[1:14:44]
+Right? So you will read the line that is, first of all, linear. And then it starts to get all kinds of paths. And suddenly some point, the material breaks.
+对吧？所以你读到的那条线，首先它是线性的。然后它开始出现各种路径。突然在某一点，材料就断裂了。
+
+[1:14:50]
+And the instrument will instantly stop and show you a break point.
+仪器会立刻停止，并显示一个断点。
+
+[1:15:00]
+Okay? So all the stress strain curve, this is not something we draw randomly. Okay? The last point of this curve is the breaking point.
+好吗？ 所以所有应力应变曲线，这不是我们随意画出来的。好吗？这条曲线的最后一点就是断裂点。
+
+[1:15:08]
+Okay? It's not because we don't want to draw anymore. It's infinite. Right? There's no infinite materials in this situation.
+好吗？ 这并不是因为我们不想再画下去了。 它是无限的。 对吧？ 在这种情况下没有无限的材料。
+
+[1:15:27]
+Everything are broken into two pieces. Okay? So because of that, right, you're always talking about a whole curve. So after, right after the elastic deformation, typically if you zoom in, right, if you zoom in, for example, this region.
+所有东西都被分成两部分。 好吗？ 所以因此，对吧， 你总是在谈论一个完整的曲线。 所以在弹性变形之后，紧接着， 通常如果你放大来看，对吧， 比如说，如果你放大来看， 这个区域。
+
+[1:15:38]
+Where you're linear starts to get not so linear. Right? The very first turning point, typically look like either of these two.
+在这里，线性开始变得不那么线性。对吧？最开始的转折点，通常看起来像这两个中的任意一个。
+
+[1:15:38]
+Either of these two.
+这两个里任意一个。
+
+[1:15:52]
+Now, for the first one, it's a gradual change from elastic to elastic flux, plastic, and to a certain point, it becomes.
+现在，对于第一个，它是从弹性到弹性流动的逐渐变化，再到塑性，到某一点时，它变成。
+
+[1:16:03]
+Okay? But it's a very gradual change. Right? So kind of smooth curve. Okay?
+好吗？但这是一个非常渐进的变化。对吧？所以是一种平滑的曲线。好吗？
+
+[1:16:11]
+And on the right side, this is also quite common. Right? This is when you first.
+而在右侧， 这也相当常见。 对吗？ 这就是你一开始的时候。
+
+[1:16:18]
+Of all, still elastic and linear. And suddenly you have a point where you break. Right? Or it's a U.
+一切仍然具有弹性和线性。 然后突然你会有一个点， 在那里你就断裂了。 对吧？ 或者它是一个 U。
+
+[1:16:29]
+Right? So when you reach the U point, the material U, right, so what it does is it suddenly has a very sharp stress drop.
+对吧？ 所以当你到达 U 点时， 也就是材料 U，对吧， 它会发生的是，它会突然有 一个非常急剧的拉力下降。
+
+[1:16:36]
+Okay? Very sharp stress drop. And then it undergoes some self.
+好吗？ 非常急剧的拉力下降。 然后它会经历某种自身的。
+
+[1:16:53]
+Rearrangement. And it continues. It's plastic deformation journey. Right? It can go all the way up. Okay? So it does not only have to be a smooth transition. Sometimes it has steps. It has vibrations like that. Okay?
+重新排列。并且它会继续。这是它的塑性变形旅程。对吧？它可以一直向上走。好吗？所以它不一定只是一个平滑的过渡。有时它会有台阶。会有那样的振动。好吗？
+
+[1:17:03]
+So this point where plastic deformation starts is what we call muting.
+所以塑性变形开始的这个点，就是我们所说的屈服点。
+
+[1:17:05]
+Right? Muting.
+对吧？ 黯淡化。
+
+[1:17:15]
+So for a complicated case like this step, you can further say we have a high U point and lower U point.
+所以对于像这样复杂的情况，比如这一步， 你还可以进一步说，我们有 一个高 U 点和一个低 U 点。
+
+[1:17:27]
+Right? But for this cause, we won't go through that far. We just need to know the muting is only just when the elastic goes to plastic. We have a transition point we call it muting.
+对吧？ 但对于这个情况， 我们不会讲到那么深。 我们只需要知道 突变只发生在 弹性转为塑性的时候。 我们有一个过渡点， 我们称之为突变。
+
+[1:17:27]
+Right?
+对吧？
+
+[1:17:56]
+And if in the blackened case, right, it's when we have a gradual change. Right? So people, engineers, they decide to manually set a rule to locate this muting point. Right? So they manually set when the string is 0.002. Right?
+而在黯淡化的情况下，对吧，就是我们出现逐渐变化的时候。对吧？所以人们、工程师会决定手动设定一个规则，来定位这个黯淡化点。对吧？所以他们会手动设定，当这根弦是0.002。对吧？
+
+[1:18:04]
+We think there is this is where the elastic to plastic transition takes place.
+我们认为这就是弹性转为塑性的过渡发生的地方。
+
+[1:18:09]
+Okay? So don't ask me why. I also want to know why. But that's basically how they set it.
+好吗？所以别问我为什么。我也想知道为什么。但基本上他们就是这样设定的。
+
+[1:18:12]
+Right? So
+对吧？
+
+[1:18:21]
+It has been working well so far. Right? So it must have some good reasons. Right? So
+到目前为止一直运行得很好。对吧？所以肯定有一些好的原因。对吧？
+
+[1:19:17]
+you need to know this. Right? So basically when they're the transition, smooth transition, elastic to plastic, we just choose string because it's 0.002. That's something you can read from your X-axis. Right? Like here. And then you need to do a parallel drawing because the first part is linear. You know that. Right? You may not know where it starts to turn, but you know the starting section must be a straight line. Right? So you draw a parallel line based on that. This parallel line will draw an intersection. So it's a curve. And this intersection point is where we set to be the U point. Right? So why do we care so much when this U takes place? Why do we care where the plastic deformation takes place? Right? Because this is where your deformation is no longer reversible. Right?
+你需要知道这一点。对吧？所以基本上，当它们处于过渡时，也就是平滑过渡，从弹性到塑性，我们就选择弦，因为它是0.002。这是你可以从你的X轴上读出来的。对吧？比如这里。然后你需要做一个平行的绘制，因为第一部分是线性的。你知道的。对吧？你可能不知道它从哪里开始转，但你知道起始部分必须是一条直线。对吧？所以你会画一条平行线，以此为基础。这条平行线会画出一个交点。所以它是一条曲线。而这个交点就是我们设定的位置，作为U点。对吧？那为什么我们如此在意这个U点发生的时候？为什么我们要在意塑性变形发生的位置？对吧？因为在这里，你的变形就不再可逆了。对吧？
+
+[1:19:17]
+Okay?
+好吗？
+
+[1:19:42]
+So what damage you make to this sample will become permanent. Okay? So it's really matters in some materials. Right? In most of the cases, we don't even want them to go to plastic deformation at all. Right? So that means the every time you use it, it gets longer and longer and longer. Or it gets shorter and shorter and shorter. Right? So that's not something we want in most cases. Okay?
+所以你对这个样品造成的损伤会变成永久性的。好吗？所以在某些材料中这真的很重要。对吧？在大多数情况下，我们甚至不希望它们发生塑性变形。对吧？这意味着每次使用它时，它会变得越来越长、越来越长、越来越长。或者它会变得越来越短、越来越短、越来越短。对吧？所以这在大多数情况下不是我们想要的。好吗？
+
+[1:19:55]
+So U point, or it's a very critical point. And the U, the stress, the stress corresponding to this U point is called as muting stress.
+所以 U 点，或者说它是一个非常关键的点。而 U 点对应的应力被称为极限应力。
+
+[1:19:59]
+Muting stress. Right?
+黯淡化拉力。 对吧？
+
+[1:20:21]
+So when there is a smooth transition, we use 0.002 to find out where is this Y-axis value. For a step-like muting, we choose the lower point. Right? That's just another rule of thumb that engineers decide to set. Right? So they choose a lower point as a U stress. Right? U stress.
+所以当存在平滑过渡时，我们用 0.002 来确定这个 Y 轴值在哪里。对于类似阶梯状的黯淡化，我们选择较低的点。对吧？这只是工程师决定设定的另一个经验法则。对吧？所以他们选择较低的点作为 U 拉力。对吧？U 拉力。
+
+[1:20:26]
+Yeah. So right?
+对。 所以，对吧？
+
+[1:20:28]
+Okay?
+好吗？
+
+[1:20:33]
+Okay?
+好吗？
+
+[1:20:37]
+So like we mentioned,
+就像我们提到的，
+
+[1:21:11]
+we have a special instrument that has this stress ring curve. And typically you see the sample is, first of all, uniform because they're cutting cylinder. Right? So this cylinder, the cylinder is very nice and very straight. But after it passes its elastic region, it starts to become not so uniform. Right? At certain point, you can even see that there is actually a necking phenomenon. Right? So certain parts become narrower than most of the places. Okay?
+就像我们提到的，我们有一种特殊的仪器，它带有这种应力环曲线。通常你会看到样品首先是均匀的，因为它们是圆柱切割的，对吧？所以这个圆柱体非常规整，非常笔直。但过了它的弹性区域后，它就开始变得不那么均匀了，对吧？到某个点，你甚至能看到颈缩现象，对吧？所以某些部分会比大多数地方更窄。好吗？
+
+[1:21:34]
+You can think about how you pull a chewing gum. Right? You have to do that. Right? Or very soft. Right? Probably the polyethylene plastic bag. Right? You can see when it gets longer, the middle part is getting thinner and thinner. Right? So we call this necking. Right? Eventually this necking will break. From the thinnest part.
+你可以想想怎么拉一根口香糖。对吧？你得这么做。对吧？或者很软。对吧？可能就是聚乙烯塑料袋。对吧？你可以看到当它变长时，中间部分越来越细。对吧？所以我们称之为“颈缩”。对吧？最终这个颈缩会从最薄处断裂。
+
+[1:21:43]
+Right? From the thinnest part. So this is how it typically looks like. Now, in this curve, there's another point that we care about.
+对吧？从最薄的部分开始。所以它通常就是这个样子。现在，在这条曲线里，还有另一个点是我们需要关注的。
+
+[1:22:03]
+First of all, it's a U point. The U strength. Right? We also have a point where this material actually is undergoing the thickest stress possible. Right? We call this tensile strength. Right? This tensile stress at the highest value is the tensile strength. Okay?
+首先，它是一个U点。U强度。对吧？我们还有一个点，在这个点上，这种材料实际上承受着最大可能的应力。对吧？我们称之为抗拉强度。对吧？这个最高值的拉伸应力就是抗拉强度。好吗？
+
+[1:22:08]
+It's maximum tensile stress.
+这是最大张力强度。
+
+[1:22:08]
+Right?
+对吧？
+
+[1:22:13]
+Maximum tensile stress from this stress ring curve.
+从这条拉力环曲线得到的最大张力强度。
+
+[1:22:17]
+All right?
+好吗？
+
+[1:22:22]
+So so far we have U strength. We have tensile strength. Right?
+所以到目前为止，我们有U强度。我们有张力强度。对吧？
+
+[1:22:25]
+Okay.
+好。
+
+[1:22:28]
+So—
+所以——
+
+[1:22:31]
+Remember, we talked about this.
+记得，我们谈过这个。
+
+[1:22:34]
+Locations and plastic deformation.
+位置和塑性变形。
+
+[1:22:40]
+Let me double-check. This is good.
+我再核对一下。 这个没问题。
+
+[1:22:52]
+Yeah. Good job.
+对。 干得好。
+
+[1:22:56]
+I'm just worried that I'm using not the updated version.
+我只是担心我用的不是最新版本。
+
+[1:23:06]
+Right.
+对。
+
+[1:23:11]
+So remember we just talked about.
+所以记得我们刚才谈到过。
+
+[1:23:17]
+This dislocation. Right? Dislocation.
+这个脱位。 对吧？ 脱位。
+
+[1:23:37]
+Now, dislocation is a very perfect and still not a very accepted theory. Now we explain deformation. First of all, we talk about elastic deformation. Right? Elastic deformation is reversible. So you're stretching atomic bonds. Straightforward. How about plastic deformation? Right?
+现在，脱位是一个非常完美但仍不太被接受的理论。现在我们来解释变形。首先，我们谈的是弹性变形。对吧？弹性变形是可逆的。所以你在拉伸原子键。很简单。那塑性变形呢？对吧？
+
+[1:24:14]
+Whenever there's a deformation, there must be some movement of materials. Right? So microscopically, you see a shape change. But atomic level, atoms are moving. Right? So how exactly were they moving? This is something people compute today are trying to figure out. Now, the most accepted theory is dislocation motion. Especially for plastic deformation. That means you don't go back. Okay? Right? You move; you stop here. My loading stop, your shape change stop. You stop at whatever moment the shape is. Okay?
+每当发生变形时，材料必然会发生某种运动。对吧？所以从微观层面上看，你会看到形状变化。但在原子层面上，原子在运动。对吧？那么它们究竟是如何运动的？这正是如今人们试图通过计算来弄明白的问题。目前，最被接受的理论是位错运动，尤其适用于塑性变形。这意味着变形是不可逆的。明白吗？对吧？你移动了；就停在这里。我的加载停止了，你的形状变化也停止了。你停在形状变化发生的任何时刻。明白吗？
+
+[1:24:16]
+So there's.
+所以有。
+
+[1:24:24]
+You can actually try to understand this deformation by using this more natural property. Okay?
+你其实可以试着通过这个更自然的性质来理解这种变形，好吗？
+
+[1:24:40]
+So at the micro-atomic level, you first have a steady state. Right? You have an extra dislocation. Which is, by the way, always there. Right? Dislocations are naturally there. And you can naturally—
+所以在微原子层面，你首先有一个稳态。对吧？你有一个额外的位错。顺便说一句，这个总是存在的。对吧？位错是自然存在的。而且你可以自然地——
+
+[1:25:14]
+You can actually perversely increase the amount of dislocation. Right? So don't worry if we don't have one. Right? You can imagine they're everywhere. Just like frequencies. Right? They're naturally there. So now I have actual dislocations already here. And I happen to have a force, a shear force, that is actually pushing my top part to the right side. Right? So my bottom part is not moving. But I'm getting a force to move this top part right into the.
+你实际上可以反常地增加脱位的数量。对吧？所以如果我们没有这种情况，也别担心。对吧？你可以想象它们无处不在。就像频率一样。对吧？它们自然存在。所以现在我这里已经有实际的脱位了。而且我碰巧有一种力，也就是剪切力，它实际上在把我的顶部往右侧推。对吧？所以我的底部没有在移动。但我受到一个力来推动这个顶部，直接进入……
+
+[1:25:19]
+To the.
+到......里面。
+
+[1:25:21]
+Right side.
+右侧。
+
+[1:25:28]
+Right? So the bottom is fixed. And the top part is moving to the right side.
+对吧？所以底部是固定的。而顶部在向右侧移动。
+
+[1:25:30]
+So—
+所以——
+
+[1:25:47]
+There could be different theories. Right? For example, I can imagine I break all these bonds, all at once. And the very quickly I move to the second seed, and I bond back again. That's one theory. Right?
+可能会有不同的理论。对吧？比如说，我可以想象我把所有这些键都断开，一次性全部断开。然后我很快地移动到第二个位点，再重新连接上去。这是一种理论。对吧？
+
+[1:26:42]
+But of course, that's kind of energy-consuming. Right? So people came up with this theory because they think this is one of the lowest energy-costing possible. Right? So basically, I move my dislocation from one set to the other step. Right? Like that. But I only break one line of energy at once. And I reform just from this side to this side so this is neighbor. Right? Now I shift it. And I continue to pass on this one line of misalignment all the way to the right. So my macroscopically, I have a naked eye. We see a material—right?—originally, it is this shape. And now it becomes this kind of shape.
+但当然，这有点耗能。对吧？所以人们提出这个理论，是因为他们认为这是可能的最低能耗途径之一。对吧？所以基本上，我把位错从一组移到另一步。对吧？就像那样。但我一次只断开一条能量线。而且我只是从这一侧重新结合到这一侧，所以这是相邻的。对吧？现在我移动它。然后我继续沿着这条错位线一直传递到右边。所以从宏观上看，用肉眼，我们看到一种材料——对吧？——原本是这种形状。现在变成了这种形状。
+
+[1:26:54]
+Right? So the top part is successfully shifted to the right side. So you see a deformation. A deformation that doesn't go back.
+对吧？所以顶部已经成功移位到右侧。所以你看到了一种形变。一种不会恢复的形变。
+
+[1:26:55]
+Right?
+对吧？
+
+[1:27:00]
+So this is one explanation of plastic deformation.
+所以这就是塑性变形的一个解释。
+
+[1:27:01]
+Okay?
+好吗？
+
+[1:27:46]
+Now, another important message is, for plastic deformation, right, the dislocation numbers sometimes they can also increase. Right? The reason is we're not only seeing a perfect case like this all the time, where we only have one dislocation and only this one is moving. Sometimes, while we are moving the material like this, there could be another dislocation, maybe in that direction, maybe another dislocation in that direction. So if you imagine dislocations is a line of defects, right, we're actually living in a network of dislocations. So all these dislocations, they are three-dimensionally entangled, just like a piece of gum.
+现在，另一个重要的信息是，对于塑性变形，对吧，位错的数量有时也会增加。对吧？原因是我们并不总是看到像这样的完美情况，只有一条位错，并且只有这条在运动。有时，当我们像这样移动材料时，可能会有另一条位错，也许朝那个方向，也许再有一条位错朝那个方向。所以如果你把位错想象成一条缺陷线，对吧，我们实际上生活在一个位错网络中。所以所有这些位错，它们是三维纠缠在一起的，就像一块口香糖一样。
+
+[1:27:50]
+Roofball. Right? Lots of lines.
+Roofball。 对吧？ 很多条线。
+
+[1:28:11]
+And a lot of hairs. That is entangled at each other. So whenever you're moving it, this dislocations, they can cross over each other. And when they cross over something, we have them. Right? Maybe two become four. Four become eight. Right? They multiply like that.
+还有很多“发丝”。它们彼此纠缠在一起。所以每当你在移动它时，这些位错就可能彼此交叉。而当它们在某处交叉时，我们就会得到它们。对吧？也许两个变成四个。四个变成八个。对吧？它们就是这样倍增的。
+
+[1:28:28]
+Right? So when you try to shift the dislocation, you're probably creating more dislocation. Okay? So again, this is the most commonly accepted theory for now. Right? You're welcome to challenge that. Right? In the near future.
+对吧？所以当你试图移动位错时，你可能在制造更多的位错。明白吗？所以再说一次，这是目前最被普遍接受的理论。对吧？欢迎你在不久的将来挑战它。
+
+[1:28:31]
+Okay?
+好吗？
+
+[1:28:37]
+So we have some terms we'll talk about: dislocation motion. Right?
+所以我们有一些术语要讲： 脱位运动。 对吧？
+
+[1:28:48]
+So we have a direction that. This additional plane, like just now, this is an additional plane.
+所以我们有一个方向。这个额外的平面，就像刚才那样，这是一个额外的平面。
+
+[1:28:49]
+Additional plane. Right?
+额外的平面。 对吧？
+
+[1:28:57]
+And a specific location that you want to.
+以及你想要的某个特定位置。
+
+[1:29:13]
+You want a dislocation to occur. Right? So the preferred plane and the specific dislocation are direction that this dislocation would like to move is called slip. Plane and slip direction.
+你希望发生位错。对吧？因此，优选的平面和特定的位错，即该位错倾向于移动的方向，称为滑移面与滑移方向。
+
+[1:29:24]
+Okay? Just some definition. And when you have these two defined, together, right, when they're paired up, you have a slip system.
+好吗？ 只是些定义。 当这两个定义好， 一起，对吧，当它们配对时， 你就有了滑移系统。
+
+[1:29:26]
+Okay?
+好吗？
+
+[1:29:32]
+So sometimes people, instead of saying dislocation or dislocation motion, they say slip.
+所以有时候人们不说“位错”或“位错运动”，而是说“滑移”。
+
+[1:29:37]
+Slip something, slip something. So just get used to this term.
+滑移某个东西，滑移某个东西。所以习惯一下这个术语就好。
+
+[1:29:38]
+Okay?
+好吗？
+
+[1:29:53]
+All right? So aside from dislocation, we have other theories by the way. Right? So one other theory is this what we call twining.
+好吧？所以除了脱位之外，我们还有其他理论。对吧？另一个理论就是我们所谓的“绞合”。
+
+[1:31:38]
+Right? Which typically happens when the material is full of twin boundaries. Right? Like I mentioned, about thick memory arrows. Right? So this is how people try to explain twining, in certain cases it could be true. Right? So for instance, again, talking about the shear force, scenario. So now you're trying to push over the shear force. Right? The top side of this sample, and while fixing the bottom side, right, but when you're fixing it, the substrate is giving it a reverse force. Right? That's Newton's physics. So one top to the right side, one bottom force to the left side. So if you reuse slip theory, right, we use the slip motion theory, there must be many, many small slips. That is moving. Right? So each one moves by one step. Each one moves by one step, and microscopically they're totally deformed. But by using twining theory, right, people think there could be another cause. Right? That for example, I only need to cause the formation of two twin boundaries. The middle part, it can be not changing at all. Right? If it happens to be a twin boundary on the two sides, I just need to flip my crystal lattice. Right? At this side and then at that side. And then all of a sudden, you're there already. But you can imagine, for this to happen, there needs to be some extra criteria. For example, the angle must be correct. Right? And they happen to have such kind of perfect alignment for the twin boundaries. Okay?
+对吧？ 这通常发生在材料里面有很多"双重边界"的时候。 对吧？ 就像我提到的，比如厚度很大的记忆箭头。 对吧？ 所以人们就是这样来解释双重的， 在某些情况下它可能是真的。 对吧？ 比如说，再次谈到刮擦力， 这个情景。 现在你试图把刮擦力推过去。 对吧？ 这个样本的顶部， 同时固定底部，对吧， 但当你在固定它时， 基质会对它施加反向力。 对吧？ 这就是牛顿物理学。 所以一边是顶部向右， 另一边是底部向左。 所以如果你重复使用滑移理论，对吧， 我们用滑移运动理论， 就必然会有很多很多小的滑移。 也就是在运动。 对吧？ 所以每一个都会移动一步。 每一个都移动一步， 并且在微观层面会完全变形。 但通过使用双重理论，对吧， 人们认为可能还有另一个原因。 对吧？ 比如说，我只需要促成形成 两条"双重边界"。 中间那部分，可能完全不会改变。 对吧？ 如果它碰巧是一条"双重边界"， 在两边之间， 我只需要把我的晶格倒过来。 对吧？ 在这一边，然后在那一边。 然后突然之间， 你就已经在那里了。 但你可以想象，为了让这种情况发生， 还需要一些额外的标准。 比如说，角度必须正确。 对吧？ 而且它们恰好具有那种完美的对齐， 使得这些"双重边界"相互对齐。 好吗？
+
+[1:32:08]
+But nonetheless, it could be true in some cases, right? So we don't know unless you have a method to actually vividly see the coming motion during the deformation. Right? So for twin dislocation, right, for twinning to take place, so from a twin boundary, we could be talking about nanoseconds, or even shorter time. Right? So how do we know that's actually the case somehow? Also time scale. We can't solve.
+不过即便如此，在某些情况下它也可能是真的，对吧？所以我们无从得知，除非有方法能在变形过程中切实清晰地观察到运动的发生。对吧？所以对于孪晶位错，即发生孪生时，从孪晶界出发，我们谈论的可能是纳秒甚至更短的时间尺度。对吧？那我们怎么知道事实确实如此呢？而且时间尺度问题我们也无法解决。
+
+[1:32:11]
+Okay. So far, so good?
+好。 到这里为止还不错吗？
+
+[1:32:13]
+All right?
+好吧？
+
+[1:32:17]
+So let me give you quickly a start.
+那我先快速给你们一个开场。
+
+[1:32:23]
+About failure before we take another break. So failure.
+关于失败，然后我们再休息一下。 所以，失败。
+
+[1:32:30]
+We need to talk about that right after deformation. Right? Because when you're.
+我们需要在变形之后马上谈这个。对吧？因为当你……
+
+[1:32:39]
+Material starts to go undergo plasma deformation, it's not far to failure. Okay? So failure is almost always undesired.
+材料开始发生等离子体变形时，离失效就不远了。好吗？所以失效几乎总是不希望的。
+
+[1:32:58]
+So I highlighted almost here. Right? So that means there are still cases when it's desired. Right? So for example, if I'm talking about packaged materials, which is a big industry, by the way, right, packaged materials are those things that you want them to have.
+所以我在这里强调了“几乎”。对吧？这意味着仍然有一些情况是希望发生的。对吧？比如说，如果我在讲包装材料，顺便说一句，这是个很大的行业，对吧，包装材料就是那些你希望它们具备的东西。
+
+[1:33:11]
+A certain length of shelf life. They can protect whatever you're packaging. But while they're finishing their service, you want them to be easily broken.
+一定的保质期。它们能保护你包装的任何东西。但在服务结束时，你希望它们容易被分解。
+
+[1:33:31]
+Right? So the simplest example would be this. Right? So the packaging you use to hold most of your snacks, right, your cans, drinks, right, or your fast food, right, they deliver their job after.
+对吧？ 所以最简单的例子就是这个。 对吧？ 所以你用来装大多数零食的包装，对吧， 你的罐头、饮料，对吧， 或者你的快餐，对吧， 它们会在之后完成工作。
+
+[1:34:10]
+The delivery. And they're probably done. And you need to quickly, easily open them. And dispose them away. Right? So this is when you want them to fail at certain scenarios. Right? But in this particular topic, here we're mostly talking about the undesired part. Right? So that we focus on the traditional type first, that when we talk about advanced cases in the second half of this course, you'll know more. Okay? So on multi-one will be like this. Right? Something is still in service and somewhat it breaks. Right? And that could be a problem. Right? So the.
+在交付之后。 而且它们大概率已经用完了。 你需要快速、轻松地把它们打开。 然后把它们丢掉。 对吧？ 所以这就是你希望它们 在某些情景下失败的时候。 对吧？ 但在这个具体主题里， 我们主要在讲 不希望发生的那一部分。 对吧？ 所以我们先聚焦传统类型， 当我们谈到更高级的情况时， 在这门课的后半部分， 你会了解得更多。 好吗？ 所以多一一会是这样的。 对吧？ 有个东西仍然在服务中， 但它会在某种程度上损坏。 对吧？ 而这可能会是个问题。 对吧？ 所以......
+
+[1:36:11]
+Reasons that cause material to fail is not always the material's own fault. Right? Sometimes it's because of a people. Right? We don't choose materials properly. Right? The selection. And processing. So this is more like a human error. Right? Or inadequate design. Also human error. Right? So you didn't choose the material correctly, or you didn't process it correctly. Right? So it doesn't give you that kind of capacity you wanted. Right? And sometimes it's only because of some small part that is not in full use. Right? You know one material breaks. You only need to find the wrong part. Right? When we spot it there, no matter how strong the other parts, they still break. All right? And we have different kinds of failure. If we talk about breaking the material, right, we have fractures, simple fractures. We have fatigue. We have creep. And this is the three kinds that we're going to talk about for failure today. Okay? The most common ones. All right? So the failure of a material could be very important. Right? Because first of all, it relates to human safety. Right? And it relates to economic losses. Right? If not life loss, there's also economic loss. Right? And in some cases, right, like a boat, a bridge, an airplane, right, would be disaster. Right? It would be a disaster. So safety engineer. A safety engineer has become a very important major, right, in many universities. Right? So you deal with catastrophic scenarios, right, like this. Right? So how to prevent that, right? So it's a big, big market. Right? People pay a lot for studies on failures.
+导致材料失效的原因并不总是材料本身的过错，对吧？有时候是因为人的因素，对吧？我们没有正确选择材料，对吧？选材，还有加工。所以这更像是人为失误，对吧？或者是设计不当，也是人为失误，对吧？所以你没有正确选材料，或者没有正确加工，对吧？所以它就不能给你想要的那种性能，对吧？而且有时候只是因为某个小零件没有被充分利用，对吧？你知道一个材料坏了，你只需要找到出问题的那个零件，对吧？当我们发现它在那里出问题时，不管其他零件多么坚固，它们还是会坏，对吧？我们有不同类型的失效。如果讲材料断裂，对吧，我们有断裂，简单断裂。我们有疲劳。我们有蠕变。这就是我们今天要讨论的三种失效类型，好吗？最常见的几种，对吧？所以材料失效可能非常重要，对吧？因为首先，它关系到人的安全，对吧？还关系到经济损失，对吧？即使没有生命损失，也会有经济损失，对吧？在某些情况下，比如船、桥梁、飞机，对吧，可能就是灾难，对吧？那会是灾难。所以安全工程师，安全工程师已经成为很多大学里非常重要的专业，对吧？所以你要应对像这样的灾难性场景，对吧？那么怎么预防呢，对吧？所以这是一个非常大的市场，对吧？人们为失效研究花很多钱。
+
+[1:36:15]
+All right?
+好吗？
+
+[1:36:27]
+So let me also talk about the fracture first. So fracture. Or it's a simple fracture.
+那我也先来讲一下断裂。所以，断裂。或者说，是一种简单的断裂。
+
+[1:36:42]
+It's the most simple scenario where you try to break the sample of material into two or more pieces. Okay? And for this course, we talk about the simplest model first.
+这是最简单的情景：你试图把材料样品断成两块或更多。好吗？在这门课里，我们先讲最简单的模型。
+
+[1:36:50]
+Right? That is when you have a—
+对吧？ 那就是当你有一个——
+
+[1:36:54]
+Static loading—
+静态载荷——
+
+[1:36:59]
+A static loading—
+静态载荷——
+
+[1:37:04]
+That means the almost steady, almost fixed force.
+这意味着几乎是稳定的、几乎固定的力。
+
+[1:37:21]
+It is giving the loading a very gentle continuous nonstopping manner. Right? We call it static. Right? And at temperatures, that is low to the melting point.
+它以非常温和、持续不断的方式施加载荷，对吧？我们称之为静态，对吧？而在温度方面，则是指低至熔点的温度。
+
+[1:37:25]
+So we exclude all these—
+所以我们排除所有这些——
+
+[1:37:48]
+Complicated conditions. We just talk about low temperature, steady force, and we're trying to break the material. But of course, it can be all kinds of forces. Right? It can be pulling. It can be compression. It could be shear or torsional. But we focus on unit axial tensile—
+复杂条件。我们只谈低温、稳定的力，并且我们试图把材料弄断。但当然，力可以是各种各样的。对吧？可能是拉伸力，可能是压缩力，也可能是剪切力或扭转力。但我们关注的是单位轴向拉伸——
+
+[1:37:53]
+We focus on unit axial tensile strength here.
+这里我们重点看单位轴力强度。
+
+[1:38:16]
+Right? So unit axial means, again, I'm holding a cylinder or a rod-like piece. Where I only pull it along its middle line direction. We call this axial direction. I only pull it very uniformly in this way. Right? This is the simplest model of a fracture. Okay? So I will talk about the rest too.
+对吧？所以单位轴向的意思是，我手里拿着一个圆柱体或棒状部件。我只沿着它的中线方向拉它，这个方向就叫轴向。我只用它非常均匀地拉它。对吧？这是断裂最简单的模型。好吗？所以我也讲其他的。
+
+[1:38:22]
+In separate slides later. So let's focus on the simplest.
+稍后会在单独的幻灯片里讲。 所以我们先把重点放在最简单的部分。
+
+[1:39:32]
+Fracture. So you can try to imagine what happens when you're holding a piece of material at all kinds. Polymers, ceramics, metals, right? When you're holding it and try to pull it, what happens? Okay? First of all, it could just be a very clear cut. Right? And the other extreme would be a very not clear cut. Right? That is when you have, for example, a chewing gum. Right? You pull all the way and you still have some— or you're putting a— I don't know— Yeah, a massive roulade. Right? You go all the way there. Right? You never even keep up. Right? It could go up like that. And your ending point could be a very sharp tip. Just like that. Right? And of course, it could be something in between. Right? It's like a rough surface. Right? Not very clean. You still have some nagging. You have narrowing effect. Right? But it's still not as sharp as a single tip. All right? And these are actually corresponding to two kinds of class deformations. Right? One is in the ductile material.
+断裂。 所以你可以试着想象一下，当你用各种方式拿着一块材料时会发生什么。 聚合物、陶瓷、金属，对吧？ 当你拿着它并试图拉它时，会发生什么？ 好吗？ 首先，它可能是一个非常清晰的断裂。 对吧？ 而另一个极端则是非常不清晰的断裂。 对吧？ 比如，你拿一块口香糖。 对吧？ 你一直拉，仍然会有一些—— 或者你在放——我不知道—— 对，一大块肉卷。 对吧？ 你一路拉到底。 对吧？ 你甚至都跟不上。 对吧？ 它可能会那样向上延伸。 而你的终点可能是一个非常尖锐的尖端。 就像那样。 对吧？ 当然，也可能是介于两者之间的东西。 对吧？ 就像一个粗糙的表面。 对吧？ 不干净。 仍有一些粘连。 你有颈缩效应。 对吧？ 但它仍不像单个尖端那么尖。 好吗？ 这些实际上对应两类形变。 对吧？ 一种在延性材料中。
+
+[1:40:37]
+One is the ductile material. Right? Where you can have a very subsequential class deformation. Right? And this fracture corresponds to this one. Right? It's what we call a ductile fracture. It happens on ductile material. Right? Ductile fracture. And the other opposite extreme case would be brittle fracture. Right? This is when you have a very near-perfect sharp piece of crack. And where we have almost no or very little plastic deformation. Okay? All right? So if you talk about your stress string curve, right, this stress string curve for ductile one will be something like that. Right? But for a brittle one, right.
+一种是韧性材料。对吧？在这种情况下，你可能会出现非常显著的塑性变形。对吧？而这个断裂对应的就是这个。对吧？这就是我们所说的韧性断裂。它发生在韧性材料上。对吧？韧性断裂。而另一个相反的极端情况，就是脆性断裂。对吧？这就是当你有一个非常接近完美的尖锐裂纹时。而且我们几乎没有或非常少的塑性变形。好吗？好吗？所以如果你谈到你的应力-应变曲线，对吧，这条韧性材料的应力-应变曲线大概会是这样。对吧？但对于脆性的那种，对吧。
+
+[1:40:38]
+Finish.
+结束。
+
+[1:40:51]
+Right? It could be— or sometimes even with a very larger slope. Right? But in both cases, right, in both cases,
+对吧？它可能是——有时甚至坡度更大。对吧？但在这两种情况下，对吧，
+
+[1:40:56]
+the material will stop here. Okay? So it's.
+两种情况下，材料都会在这里停住。 好吗？ 所以就是这样。
+
+[1:41:11]
+Not so good to use. But try to imagine I'm drawing right at the tail. Right? So the sharp end has almost no deformation. Right? It can be like that. In any ceramics.
+不太适合使用。但想象一下我正好在尾部画。对吧？所以尖端几乎没有变形。对吧？它可以像那样。在任何陶瓷中都是如此。
+
+[1:41:21]
+But for this one, they go here and they go all the way down. Right? And then they break. This is also their breaking point. Okay?
+但对于这个，它们会到这里来，然后一直往下走。对吧？然后它们就会断裂。这也是它们的断裂点。好吗？
+
+[1:41:22]
+Okay?
+好吗？
+
+[1:41:27]
+All right. Let's pause here. Please come back at 8:30.
+好的。我们在这里暂停一下。请8:30回来。
+
+[1:57:24]
+Tuesday, right? So today, tonight is your toughest moment, is it?
+星期二，对吧？ 所以今晚是你最艰难的时刻，是吗？
+
+[1:57:29]
+Today you have a great on Wednesday, is that so?
+今天你周三状态很好，是这样吗？
+
+[1:57:31]
+Okay.
+好。
+
+[1:57:31]
+Cool. So you are
+行。
+
+[1:57:33]
+very excited.
+所以你非常兴奋。
+
+[1:57:36]
+So, um, let's continue.
+那，嗯，我们继续。
+
+[1:57:38]
+Okay.
+好。
+
+[1:57:52]
+By the end of today, I also want to talk about the projects working and stuff, right? So try to stay with me. So, um, just now we talked about that we have two kinds of vectors.
+到今天结束时，我也想聊聊这些项目的进展和工作安排之类的，对吧？所以尽量跟我保持同步。那，嗯，刚才我们聊到我们有两种向量。
+
+[1:57:59]
+One ductile, one brittle. You can easily tell by looking at the shape of the break area, or.
+一个可塑性的，一个脆性的。你可以通过观察断裂区域的形状轻松分辨，或者……
+
+[1:58:11]
+We call crack, cracked surface. Okay? This is a totally open cracked surface. There are also cracked—this is still ongoing. So it's still inside the surface, inside the material. Okay?
+我们称之为裂纹，裂纹表面。好吗？这是一个完全开放的裂纹表面。也有裂纹——这还在进行中。所以它仍然在表面内部，在材料内部。好吗？
+
+[1:58:25]
+So between ductile and brittle fracture, we almost, again, almost, right, not 100%, but almost, always want to.
+所以在韧性断裂和脆性断裂之间，我们几乎——再说一次，几乎，对吧，不是100%，但几乎，总是想要……
+
+[1:58:31]
+Ductile to be.
+让可塑性......
+
+[1:59:00]
+The kind of vector, right? So for simple reason that it doesn't break in a rapid manner, right? So on the time scale, the ductile break—ductile fracture usually takes some time to eventually be totally broken, right? So it gave us some warning when the material or product is in the surface, right? If it eventually had to break, right, if I have to choose between a quick break and a slow break, I want a slow one.
+那种向量，对吧？ 原因很简单：它不会以快速的方式断裂，对吧？ 所以在时间尺度上， 延性断裂——延性断裂通常需要一些时间 才会最终完全断裂，对吧？ 所以它给了我们一些警告， 当材料或产品处于表面时，对吧？ 如果它最终必须断裂， 对吧，如果我必须在快速断裂 和缓慢断裂之间做选择， 我想要缓慢的那种。
+
+[1:59:09]
+That's why I have time, replace it, it can still withstand certain stress, or certain strain, if we're totally malfunctioning. Right?
+所以我有时间去更换它，它仍然能承受一定的应力或应变，如果我们完全失效的话。对吧？
+
+[1:59:45]
+So another energy point of view is when this ductile fracture takes place, it undergoes a long way of plastic deformation. That means it can continue to absorb energy during this process, right? So energy can be accumulated in such kind of fracture and that also means usually you need larger energy to break to totally break a ductile material, right? So it meets this material's tougher. Now, we—can you think about outside.
+另一个能量角度的观点是，当这种延性断裂发生时，它会经历很长一段塑性变形过程。这意味着在这个过程中它可以继续吸收能量，对吧？因此能量能在这种断裂中累积，这通常也意味着你需要更大的能量来完全断裂一种延性材料，对吧？所以它符合这种材料更坚韧的特性。现在，我们——你们能想想外部的情况吗？
+
+[1:59:52]
+Box, one example that we actually want brittle fracture? Instead of ductile one.
+比如说，有没有一个我们实际希望发生脆性断裂而不是延性断裂的例子？
+
+[1:59:55]
+Can you think about some exceptions?
+你能想想一些例外吗？
+
+[1:59:57]
+Right?
+对吧？
+
+[2:00:00]
+When do you want a material to quickly break?
+什么时候你希望材料快速断裂？
+
+[2:00:10]
+And break into sharp cracks instead of elongated, soft cracks.
+并且变成尖锐的裂纹，而不是拉长的、柔软的裂纹。
+
+[2:00:12]
+This one?
+这个呢？
+
+[2:00:13]
+The bottle?
+瓶子？
+
+[2:00:16]
+Very sure?
+很确定吗？
+
+[2:00:21]
+I'm not sure.
+我不确定。
+
+[2:00:38]
+For packaging material, usually we want them to be ductilely fractured. Okay, I can give you one good example of where brittle fracture is more voluntary. It's a car shield window.
+对于包装材料，通常我们希望它们发生韧性断裂。好的，我可以给你一个很好的例子说明脆性断裂在哪些情况下更受欢迎。那就是汽车挡风玻璃。
+
+[2:00:40]
+Okay?
+好吗？
+
+[2:00:50]
+So almost all the car shields windows, the front window, the slide one, the back ones, right, they're especially tempered glass.
+所以几乎所有汽车的挡风玻璃，前挡风玻璃、侧挡风玻璃和后挡风玻璃，对吧，它们都是特别钢化的玻璃。
+
+[2:01:01]
+That when they have a hit point, when there's a sharp force, like a certain point, the entire piece of glass would break at a very short period of time into small pieces.
+当它们有一个受力点时，当有强烈的力，比如在某个点上，整块玻璃会在很短的时间内碎裂成小块。
+
+[2:01:18]
+Okay? So this is for safety concern, right? Sometimes you want to break the glass, you want it won't break, but you want to go inside or inside you want to go out, right? So they specially designed in these circles and right here. Basically a shaped window.
+好吗？所以这是出于安全考虑，对吧？有时候你想打破玻璃，你希望它不会碎，但你想进去或者想出来，对吧？所以他们专门在这些圆圈和这里设计了。基本上就是一个异形车窗。
+
+[2:01:34]
+Right? A shaped window. They designed to undergo brittle fracture only, and not just that, right? They break into small pieces. If they break into just 5 to 6 pieces, it could be really sharp, um.
+对吧？一个异形车窗。他们设计它只能发生脆性断裂，而且不仅如此，对吧？它会碎成小块。如果只碎成五六块，那可能会非常锋利，嗯。
+
+[2:01:41]
+Knives, right? It could be—they could become something like that. Harm you on the.
+像刀一样，对吧？ 它可能——会变成那样的东西。 会伤到你的。
+
+[2:01:52]
+Another way. Right? So they were designed to not only undergo brittle fracture, but they actually fracture, but they're actually controlling the size of the fracture.
+另一种方式。 对吧？ 所以它们的设计不仅是发生脆性断裂， 而且它们确实会断裂， 并且它们实际上控制了断裂的大小。
+
+[2:01:54]
+Okay, that would be one example.
+好，这就是一个例子。
+
+[2:01:57]
+Okay?
+好吗？
+
+[2:02:01]
+All right?
+行吗？
+
+[2:02:45]
+So let's take a closer look. What is a ductile fracture? Right? Ductile fracture is observed mostly in soft metals, like gold and glass, right, at room temperature. And if we slightly elevate the temperature, right, then they're seen in many materials. Right? They basically depending on the temperature, you can make everything ductile if you want. Right? If you're melting it to a semi-solid, semi-liquid type, they're pretty much all ductile. Right? So that's kind of the idea. Now, we have a very characteristic crack shape or crack shape. We call it cut and cone fracture.
+那么让我们仔细看一下。什么是韧性断裂？对吧？韧性断裂主要见于软金属，比如金和玻璃，对吧，在室温下。如果稍微升高温度，对吧，那么在很多材料中都能看到。对吧？基本上取决于温度，如果你愿意，可以让所有东西都变得有韧性。对吧？如果把它熔化到半固态、半液态的类型，它们几乎都是韧性的。对吧？所以这就是大致的意思。现在，我们有一个非常典型的裂纹形状，或者说裂纹形状。我们称之为杯锥状断裂。
+
+[2:02:52]
+Right? Cut and cone fracture is when you have a—
+对吧？ 杯锥断裂是指你有一个——
+
+[2:02:56]
+Very round cut.
+非常圆的切口。
+
+[2:02:59]
+Like
+比如。
+
+[2:03:09]
+side, and on the opposite side, you have something that looks like the.
+一侧，而在另一侧，你会看到看起来像……的东西。
+
+[2:03:23]
+Container, right? You have a small hole-like structure on the surface. That is actively curved inside, right? It can naturally look like a cone or something. They can hold your—control your.
+容器，对吧？表面上有一个小小的孔状结构。它内部是主动弯曲的，对吧？它自然就可能看起来像个锥形之类的。它们可以承受你——控制你。
+
+[2:03:25]
+Material, right?
+材料，对吧？
+
+[2:04:40]
+So this is how it's happening, right? You start with just simple netting, just like what we see usually. Now, then before it goes to totally fracture, we will have some weak spot in the middle that starts to yield first, right? So maybe some internal pores, some internal cracks, some impurities that we talked about, but it could be the weak spot. And they start to break first. So locally we have a vacuum place. But depending on the size of the defect, if it's a three-dimensional, four, for example, then it's not necessarily a vacuum, but it's sometimes already filled with air or something else, right? So pressure difference won't be a problem. Eventually these pores will get bigger and bigger, and they will grow together, right, like a smelly mouse, right? And eventually they will break, right? So when they break, they will usually form this kind of curved surface, right? So that's why we have a active bowl here, right, and a positive curvature here. Right? The cut and cone matching will come from this breaking.
+所以事情就是这样发生的，对吧？ 你先从简单的网状结构开始， 就像我们通常看到的那样。 然后，在它完全破裂之前， 中间会有一些薄弱的点， 会先开始出现，对吧？ 所以可能会出现一些内孔， 一些内裂， 以及我们提到过的一些杂质， 但它可能就是那个薄弱的点。 然后它们会先开始破裂。 所以在局部位置会形成一个真空。 但这取决于缺陷的大小， 比如说是三维的、四维的， 那它未必就是真空， 但有时里面已经充满了空气， 或者别的东西，对吧？ 所以压力差异不会是问题。 最终这些孔会越来越大， 并且会彼此靠拢，对吧， 就像一只臭气弥漫的老鼠，对吧？ 最后它们会破裂，对吧？ 所以当它们破裂时，通常会形成 这种弯曲的表面，对吧？ 所以这就是为什么这里会有一个活的"碗"，对吧， 以及这里的正向弯曲。 对吧？ 切割锥对应的结构会由这种破裂产生。
+
+[2:04:42]
+Okay?
+好吗？
+
+[2:04:46]
+So some—
+所以有些——
+
+[2:04:49]
+Descriptions about how that formed.
+关于它是如何形成的的描述。
+
+[2:04:54]
+After that,.
+之后。
+
+[2:04:55]
+All right?
+好吗？
+
+[2:05:02]
+So other electron microscope, this part is SEM.
+所以在其他电子显微镜里， 这一部分叫 SEM。
+
+[2:05:18]
+Okay? You will learn that very soon, right? I think if you haven't— So SEM, deals with field bars around microsizes. Right? So this is also another kind of black and white image that you can see the surface morphology.
+好吗？你很快就会学到这个，对吧？我想如果你还没有—— 所以SEM处理的是微米尺寸左右的视场。对吧？所以这也是另一种黑白图像，你可以看到表面形貌。
+
+[2:05:24]
+Of the material. So these are taken on this tips.
+材料的表面。所以这些是在这些针尖上拍摄的。
+
+[2:05:30]
+Right? So on these areas,.
+对吧？ 所以在这些区域上。
+
+[2:05:36]
+Yeah.
+对。
+
+[2:05:43]
+On these areas, right? So this is what we typically see. Okay?
+在这些区域上，对吧？所以这就是我们通常看到的。好吗？
+
+[2:05:54]
+So by the way, we have a study, right? Actually a subject that studies this fracture features.
+顺便说一下，我们有一项研究，对吧？实际上是一个研究这些骨折特征的课题。
+
+[2:06:09]
+And make them individually possible. We call them fractal graphic study. So fracture plus graphic, we call fractal graphic. But anyway, so what we're seeing is, right? So we can see on both cases you see some
+并让它们逐一成为可能。我们称之为"分形图学研究"。所以破裂加分形，我们称之为分形图形。不过总之，我们看到的，对吧？所以我们可以在两个案例中看到一些
+
+[2:06:21]
+Open cells. Right? And these open cells, right, these small areas that are empty, they're actually the microvoid, we just saw,.
+所以在这两个案例里，你会看到一些开放细胞。 对吧？ 而这些开放细胞，对吧，就是这些小区域， 它们是空的，其实就是微空隙， 我们刚刚看到的那个。
+
+[2:06:24]
+And they were sourced.
+而且它们是从某处产生的。
+
+[2:06:50]
+So they are forced to become two pieces. Right? So those microvoids, they're actually breaking into half. And become this half-open-looking cells. Right? So we call them dimple. Right? So another nickname they actually called, right? So this so-called dimple, right? It's a path of a microvoid.
+所以它们被迫变成两部分，对吧？所以那些微空隙实际上是在裂成两半，并变成这种半开放的细胞，对吧？所以我们把它们叫作“凹坑”，对吧？所以它们其实还有另一个外号，对吧？所以这个所谓的凹坑，对吧？它是一条微空隙的路径。
+
+[2:07:09]
+Okay? So in the middle of this crack, you will see this rounder, spherical-like dimples. Right? They focus on the central region of this cut and cone. So basically means if.
+好吗？所以在这个裂缝的中间，你会看到这些更圆、更球状的凹陷。对吧？它们聚焦在这个切割和锥体的中央区域。所以基本上意思是，如果……
+
+[2:07:12]
+I have a—
+如果我有一个——
+
+[2:07:14]
+Surface.
+表面。
+
+[2:07:16]
+Like that.
+像那样。
+
+[2:08:04]
+Right? We're talking about this is also kind of rough. We're talking about this thickness. Right? So this region is the central region. Where most of the dimple is somewhat round. Right? We can see there is not a perfectly sphere, as we imagined. Right? But they don't have preferred shape or orientation. Compared to this one. Right? And this one, I see that all the dimples are pulled toward direction. Right? They have an alignment, like a bundle of dimples. And these are where we have what we call shear lift. Region. Right? Lift. Right? So exactly the lift you were talking about. So this is these sharper areas. Right? On the edges. Right?
+对吧？我们说的是这里也有点粗糙。我们说的是这种厚度。对吧？所以这个区域就是中心区域。这里大部分凹坑是略微圆的。对吧？我们可以看到它并不是完美的球体，不像我们想象的那样。对吧？但它们没有偏好的形状或朝向。相比这个。对吧？而这个，我看到所有凹坑都被拉向某个方向。对吧？它们是对齐的，像一束凹坑。而这些就是我们所谓的剪切抬升区域。对吧？抬升。对吧？所以就是你刚才说的那种抬升。所以这些是更尖锐的区域。对吧？在边缘上。对吧？
+
+[2:08:14]
+This is where the dimples are forced to pull. Right? Towards certain direction to concentrate. So we have this aligned. Dimples.
+这里就是凹陷被迫拉扯的地方。对吧？朝某个方向去集中。所以我们就得到这种对齐的凹陷。
+
+[2:08:18]
+Okay? So some behaviors, some phenomena—
+好吗？ 所以有些行为、有些现象——
+
+[2:08:21]
+Okay? And the.
+好吗？ 然后......
+
+[2:08:57]
+Crypto fracture, with even simpler, right, crypto fracture takes place when there's no time or little time of response. And they just suddenly break. So usually the surface are quite neat. Right? Microscopically they're quite neat. But if you take a closer look, right, if you take down under this enlarged optical microscope, right, you don't probably even need electron. So just optical microscope. You can see their surfaces. Right? So they're typically two kinds of pattern.
+晶体断裂，更简单的情况，对吧，晶体断裂发生在没有时间或几乎没有反应时间的时候。它们就会突然断裂。所以通常表面相当平整。对吧？在微观层面它们相当平整。但如果你仔细看，对吧，如果你放到这个放大的光学显微镜下看，对吧，你甚至可能都不需要电子显微镜。所以就用光学显微镜。你就能看到它们的表面。对吧？所以通常有两种图案。
+
+[2:09:06]
+That we observed on the crypto fractures. Surfaces, right? One is this V-shaped.
+这是我们在隐晶断裂表面上观察到的，对吧？一种是这种V形的。
+
+[2:09:15]
+Right? So basically if you look at the left side of this figure, right, we have this all this V-shaped kind of valley.
+对吧？所以基本上，如果你看这张图的左侧，对吧，我们会看到所有这些V形的谷状结构。
+
+[2:09:17]
+Right? Like that.
+对吧？ 就像那样。
+
+[2:09:41]
+Right? So another type is what we call a spelling-like. Pattern. Spelling-like pattern is more vertical. As in you can find a center of the pan. In this case it's probably outside picture somewhere here. Right? And you see this vertically distribution.
+对吧？ 所以另一种类型是我们所谓的类拼写模式。 类拼写图案更偏垂直。 也就是说你可以找到锅的中心。 在这个例子里，它可能在这张图外的某个地方。 对吧？ 你会看到这种垂直分布。
+
+[2:10:14]
+Path. Right? Something like that. So probably there's something out there. Or sometimes it's just half of the pan as possible. Right? But you see a vertical alignment. Instead of this V-shape, you see they're all going to concentrate on one spot. Or somewhere close to this spot. Okay? So just some general features for us to determine right by the crack surface image, you see what kind of fracture we're talking about.
+路径。 对吧？ 大概就是这样。 所以那边可能有某种东西。 或者有时候可能只是圆盘的一半。 对吧？ 但你会看到一种垂直的对齐。 不是这种V形， 你会看到它们都会集中到一个点上。 或者在离这个点很近的某个地方。 好吗？ 所以这只是我们用来判断的一些通用特征， 就从裂缝表面的图像来看， 你就能看出我们说的是哪种破裂。
+
+[2:10:18]
+Okay?
+好吗？
+
+[2:10:22]
+So—
+所以——
+
+[2:10:33]
+Another feature of crypto fracture is that we can study whether they can reduce some information about because.
+加密断裂的另一个特征是，我们可以研究它们是否能减少一些关于“因为”的信息。
+
+[2:12:07]
+They're relatively flat. Right? You can study them in detailed manner. If they can reduce anything about our grain information. Right? Because people find out that for crypto fracture we generally have two kinds. One is when they more commonly seen is when they are actually clear cut. Regardless, right, just like this red line here, probably need not draw another red line. So you can just see this red line here. Right? This crack happens regardless of the position of the grain. Or grain boundaries. Now, what's a good thing of this? If I have a clear cut here or a clear cut here, right, then if I really treat this surface well, I can study my grain information. For example, my grain size. At this cut. Information. I can see a region-like map. Right? But for the other kind, which is seldomly seen, right, is when this crack takes place along this built-in grain boundaries. Right? So this is usually purposely latitude. Sometimes we want them to break. Following this certain path. But probably to preserve some of this grain properties. So we can purposely weaken the grain boundaries for example we can try to dope some impurity atoms along the grain boundary. Right? This is a very common method. People can do that.
+它们相对比较平。 对吧？ 你可以更详细地研究它们。 如果它们能减少我们的粒径信息中的任何部分。 对吧？ 因为人们会发现，在加密破裂中， 我们通常有两种类型。 一种是更常见的情况是， 它们实际上是清晰切割的。 不管怎样，对吧，就像这里这条红线一样， 可能不需要再画一条红线。 所以你只要看这条红线就能看出来。 对吧？ 这个裂缝不管位置如何， 都会出现。 或者说粒径边界。 那这有什么好处呢？ 如果我这里有一个清晰的切口， 或者这里也有一个清晰的切口， 对吧，那么如果我真的把这个表面处理好， 我就能研究我的粒径信息。 比如说，我的粒径大小。 在这个切口处。 信息。 我能看到一个类似区域的地图。 对吧？ 但另一种情况是， 这种很少见， 对吧，就是当这个裂缝发生时， 它会沿着这些内置的粒径边界出现。 对吧？ 所以这通常是刻意设定的纬度。 有时候我们希望它们能破裂。 沿着某一条特定路径。 但很可能是为了保留其中一些粒径性质。 所以我们可以刻意削弱粒径边界， 比如我们可以尝试把一些杂质原子"加强"， 沿着粒径边界。 对吧？ 这是一种非常常见的方法。 人们可以这么做。
+
+[2:12:23]
+Right? So after that, right, this all these boundaries becomes weaker and people give it an amount of correct amount of energy. Right? Not too strong. They can actually follow the weak spot to let the crack grow.
+对吧？所以在那之后，对吧，所有这些边界会变得更弱，人们给它们一个恰当的能量量。对吧？不会太强。它们实际上可以沿着薄弱点，让裂缝继续扩展。
+
+[2:12:55]
+Okay? The crack, they all come from one spot and they grow or propagate to become the entire fracture. So we need to give them a path for them to go. If allowed, they can do that. Right? Then you will end up something like this. Right? Really much like the how we look down from the sky. We look down to Earth. How the mountains look like. Right? They're kind of uniformly rigid. Right? By very clear proper lines. Right? Like this one. Okay?
+好吗？裂缝它们都来自同一个点，并且会扩展或延伸，最终形成整个断裂面。所以我们需要给它们一条路径，让它们能够沿此前进。如果允许的话，它们就能做到。对吧？那最终就会变成这样。对吧？非常像我们从天空俯瞰时看到的景象。我们俯视地球，看山脉的样子。对吧？它们看似大致均匀且僵硬。对吧？由非常清晰、规则的线条划分。对吧？就像这一条。好吗？
+
+[2:13:00]
+Right? So some surface images.
+对吧？ 所以是一些表面图像。
+
+[2:13:04]
+Okay. Now,
+好。
+
+[2:13:19]
+we also have people that work on quantifying the fractures. Okay? This sounds like a boring job. Right? Why do they want to study fractures in such a detailed manner? So again, in some English.
+我们也有专门量化骨折的人。好吗？这听起来像一份无聊的工作。对吧？他们为什么要如此细致地研究骨折呢？所以再说一次，在某些英语中。
+
+[2:13:22]
+Right, crack is about.
+对吧，"crack"指的是。
+
+[2:13:48]
+Maybe it's for billions of businesses. Right? So people hire so many people just to study how to prevent failure or crack. Right? So that's probably why. Right? Because to look deeper. Now, for studying crack or fracture mechanisms, right, we now for this course wanted to discuss two scenarios. Right? Just to help you understand.
+可能对数十亿家企业都是如此。 对吧？ 所以人们会雇用很多人， 只是为了研究如何防止失效或开裂。 对吧？ 所以这大概就是原因。 对吧？ 因为要看得更深入。 现在，要研究开裂或断裂机制， 对吧，这门课我们想讨论两种情景。 对吧？ 只是为了帮你理解。
+
+[2:13:53]
+Why or how we can—
+为什么或者我们如何——
+
+[2:13:58]
+Have a crack or have a fracture and what are the things may detect.
+形成裂缝或出现破裂，以及可能检测到哪些迹象。
+
+[2:14:14]
+Determine the pathway or these occurrence of this fracture. Right? So two things. One is the stress concentration. That we write here.
+确定这条路径或这种骨折的发生情况。对吧？所以有两件事。一是应力集中。我们在这里写的就是这个。
+
+[2:14:31]
+And the other one is on the page 19, fracture toughness. Okay? I'm going to relatively quick go through these two parts. Right? So not through the details. So a crack.
+另一个在第19页，关于破裂韧性。 好吗？ 我会比较快地讲一下这两部分。 对吧？ 不会讲得很细。 所以说，裂缝。
+
+[2:14:37]
+Concentration tells us one thing. Right? Because by.
+浓度告诉我们一件事。 对吧？ 因为通过......
+
+[2:15:55]
+By theory, when you're trying to break material, you break it atomic bomb. So the strength of material should be directly related to its bomb type or bomb energy. Right? If it's polymer, if it's ceramic, they have different nature of bomb. If you talk about that. But the truth is, in the real world, we would try to measure the kind of energy or stress they need to break this material. They measure whether it's far below. That's theoretical boundary energy. It's far below that theoretical boundary energy. So the reason is, again, right, materials are not perfect. Right? So materials can come with so many internally naturally present weak spots. Right? So this fracture mechanism deals with the case that we ideally we imagine that my material has a hole has a core right and this core is it's not 2D it's actually 3D. Right? Imagine we have a long channel a long hole. Right? All the way inside the screen. Okay? So this is just a cross section. Right? So we have a building core which is almost always the case. And we can imagine this core is not round but it's elliptical.
+按理论来说，当你试图破坏材料时，你是在原子层面上将其打破。因此，材料的强度应直接与其键型或键能相关。对吧？如果是聚合物，如果是陶瓷，它们的键性质不同。如果你讨论这一点。但事实是，在现实世界中，我们会尝试测量破坏这种材料所需的能量或应力。他们测量的是否远低于理论边界能量。它远低于那个理论边界能量。所以原因还是，对吧，材料并不完美。对吧？所以材料可能带有许多内部自然存在的弱点。对吧？所以这种断裂机制处理的情况是，理想情况下我们想象我的材料有一个孔，有一个核心，对吧，这个核心不是二维的，它实际上是三维的。对吧？想象我们有一个长通道，一个长孔。对吧？一直延伸到屏幕内部。好吗？所以这只是一个横截面。对吧？所以我们有一个几乎总是存在的结构核心。我们可以想象这个核心不是圆形的，而是椭圆形的。
+
+[2:15:58]
+Right? It's something.
+对吧？ 就是这么回事。
+
+[2:15:59]
+Like that.
+类似这样。
+
+[2:16:09]
+And this core has two important features. One is it's core diameter. But because it's not.
+而这个核心有两个重要特征。一个是它的核心直径。但因为它不是。
+
+[2:16:24]
+Vertical it's not a round one we call it 2A. Right? So it's an elliptical size but something like that. Right? So A is the long the radius of the longest of.
+垂直方向它不是圆形的，我们称之为2A。对吧？所以它是椭圆形的尺寸，但大致就是这样。对吧？所以A是长轴，即最长的半径。
+
+[2:16:29]
+Diameter. And we also have something called the.
+直径。 我们还有一个叫做......的东西。
+
+[2:16:36]
+This one. Right? Big bowl and small p and.
+这个。对吧？ 大碗和小p，还有......
+
+[2:16:37]
+Okay.
+好。
+
+[2:16:41]
+That's I.
+那是我。
+
+[2:17:26]
+We have a diameter here. That's the internal radius of the curvature of the crack. Okay? So the shape I mean not the entire here but I can look for the curvature of this sharp piece of tip. Okay? Now, these two things give us a very important quantification matters that we can actually calculate if I have such a defect present. I know it's longest length and I know how sharp is its tip. Right? By these two parameters I can actually calculate the actual stress that this piece of mold will actually experience if I'm applying the overall stress like, for example, as zero.
+这里有一个直径。那是裂纹曲率的内半径。好吗？所以我说的是形状，不是整个裂纹，而是我可以观察这个尖锐尖端部分的曲率。好吗？现在，这两点给了我们非常重要的量化指标，如果存在这样的缺陷，我们实际上可以计算。我知道它的最长长度，也知道它的尖端有多尖锐。对吧？通过这两个参数，我实际上可以计算出这块模具在施加总体应力时实际会承受的应力，例如，设置为零。
+
+[2:17:36]
+Stress zero. But I have a maximum stress that caused by this amplification because what? Because stress is 4.
+应力为零。但我有一个由这种放大效应引起的最大应力，因为什么？因为应力是4。
+
+[2:17:53]
+Per area. Now my area is changed because of the presence of this core. Right? And it's not uniformly changed. Right? You can imagine this stress will be highest when it's close to this sharp.
+每面积。 现在我的面积变了， 因为有这个核心存在。 对吧？ 而且它变化并不均匀。 对吧？ 你可以想象这个压力 在靠近这个尖点时会是最高的。
+
+[2:17:55]
+Point. Right? This point.
+对吧？ 这个点。
+
+[2:18:01]
+Over here. The sharpest tip. Okay? So people have.
+就在这里。 最尖的尖端。 好吗？ 所以人们有......
+
+[2:18:47]
+Come up with this formula to link this core size with this stress. So if you look at this formula, right, if we have a bigger core size right the bigger the core size that basically I'm having a void area where there's no thing. Right? It's empty. Right? So all my force if I counting this cross section have to be concentrated to the places where we have the material. So the longer this void is the larger the stress. Right? The more concentrated the stress. And if I look at the tip here, right, if it's a round one right like that.
+提出了这个公式， 用来把这个核心大小和这个压力联系起来。 所以如果你看这个公式，对吧， 如果我们有一个更大的核心大小， 对，核心大小越大， 基本上我就有一个空心面积， 里面没有任何东西。 对吧？ 它是空的。 对吧？ 所以如果我把这个横截面数进去， 我的力就必须集中到那些地方， 也就是材料所在的位置。 所以这个空心越长， 压力就越大。 对吧？ 压力集中得越强。 如果我看这里的尖端，对吧， 如果它是圆的， 就像那样。
+
+[2:19:23]
+Right? Then it should be okay. But if I'm talking about a sharp one like that right then this sharp tip right these are like I create a place for the crack to blow. Right? So this makes a crack propagation easier because of the sharp edge. So if I have a small radius that means it's sharp. Right? So it's the smallest curvature radius right that means I have a sharper lateral tip and this whole thing gets bigger too. Right? So that's the message.
+对吧？那就应该没问题。但如果我说的是一个尖锐的，像那样的，对吧，那么这个尖锐的尖端，对吧，这些就像是我为它们创造了一个位置，让裂纹“爆开”。对吧？所以这会让裂纹的扩展更容易，因为有尖锐的边缘。所以如果我的半径很小，就意味着它是尖锐的。对吧？所以它的曲率半径是最小的，对吧，这就意味着我有一个更尖锐的侧向尖端，而且整体也会变大。对吧？所以这就是要点。
+
+[2:19:25]
+Stress concentration.
+压力集中。
+
+[2:19:30]
+Okay? So don't worry about how to derive that or how to.
+好吗？所以别担心该怎么推导这个，或者怎么做。
+
+[2:19:38]
+Translate all these parameters. Just remember the correlation between changing of these two parameters with your.
+把这些参数都转换过来。只要记住这两个参数之间的变化关系，和你的……
+
+[2:19:54]
+Length of the surface crack these two and radius of curvature and the tip with the stress amplification. Right? How these three correlate with each other. Okay?
+表面裂缝的长度， 这两个，以及曲率半径， 还有尖端与应力放大的关系。 对吧？ 这三者之间是如何相互关联的。 好吗？
+
+[2:20:43]
+So people can further remove the sigma zero by using stress concentration factor. So basically they use maximum stress over the original stress right maximum stress over original stress and you remove this stress factor by. Deal with it. Right? So this is how people measure it. Actually it's a very interesting it's. Composites. Right? You will ask to car.
+所以人们可以通过使用应力集中系数进一步移除σ0。基本上他们用最大应力除以原始应力，对吧，最大应力除以原始应力，然后你通过这个来去除这个应力系数。对吧？所以这就是人们测量的方式。实际上这是非常有趣的，它是复合材料。对吧？你会问要不要装。
+
+[2:20:58]
+Such kind of sample but it's a piece of cylinder but you purposely open a crack at the side. Right? Same thing like this one. Right? So you open a side crack on the surface like this one. Right?
+这种样本是一个圆柱体的一部分，但你故意在侧面开一个裂纹，对吧？和这个一样，对吧？所以你在表面开一个侧向裂纹，就像这个一样，对吧？
+
+[2:21:59]
+But we have a standardized size. So everyone agrees we make the sample to that size. We open a crack to this size. Okay? And then we clamp the bottom part and we fit something usually very hard right to the top part. Right? And how do we measure the force? We hit on the sample. Right? We have such kind of kind of traditional measures right? It's still in use. Right? In the universities. Right? It's but because it's very straightforward and simply measured. Right? You basically have this swinging heavy load right and you can lift it to different heights we lift it to different heights right this needle give you a instant reading right how high is your stress and you swing down and you just let it go right natural coming down and then hit the sample and cut it into two pieces.
+但我们有一个标准化的尺寸。所以大家都同意，我们把样本做成那个尺寸。我们打开一个裂缝到这个尺寸。好吗？然后我们把底部夹紧，再装上一个通常非常硬的东西，紧贴在上面。对吧？那我们怎么测量这个力呢？我们把力作用在样本上。对吧？我们有这种传统的测量方法，对吧？它现在仍然在用。对吧？在大学里。对吧？但因为它非常直接，而且很容易测量。对吧？基本上你会有这种摆动的重载，对吧，然后你可以把它抬起来，到不同的高度，我们把它抬到不同的高度，对吧，这根针会给你一个瞬时读数，对吧，你的压力有多大，然后你往下摆，然后你就让它松开，对吧，自然地往下走，然后击打样本，并把它切成两段。
+
+[2:22:11]
+Right? So usually we start from lower ones. Right? And we lift it up lift it up until one point it breaks. And you record that. That's the structure coming down. Okay? That's the structure coming down.
+对吧？所以我们通常从较低的力开始。对吧？然后我们把它升起来，升起来，直到某一点它断裂。然后你记录那个点。那就是结构垮塌的时刻。好吗？那就是结构垮塌的时刻。
+
+[2:22:24]
+Okay? So this is a standard method we use and we can quickly determine the fracture content in a qualitative manner. All right?
+好吗？ 所以这是我们使用的一种标准方法，我们可以很快地以定性的方式确定断裂含量。 好吗？
+
+[2:22:25]
+Qualitative manner.
+定性方式。
+
+[2:22:29]
+All right?
+好吗？
+
+[2:22:34]
+Okay. I'm going to pause here for the lecture notes.
+好。我先在这里暂停一下，为了讲座笔记。
+
+[2:22:39]
+We are already entering topic one so track.
+我们已经进入第一个主题了， 所以请跟上。
+
+[2:22:46]
+No worries. Now I'd like to spend the rest of the time today talking about the projects.
+没关系。现在我想把今天剩下的时间用来谈谈这些项目。
+
+[2:22:56]
+Okay. So by the way I think this is already posted.
+好的。顺便说一下，我觉得这个已经发布了。
+
+[2:23:02]
+On Blackboard. So you don't have to take a picture or anything. Just try to listen to me carefully.
+在 Blackboard 上。 所以你不需要拍照之类的。 只要认真听我说。
+
+[2:23:04]
+Right? So again
+对吧？
+
+[2:23:13]
+right. So again we have four.
+所以再说一遍，对吧。 所以我们又有四个。
+
+[2:23:20]
+Topics. Right? The first two are most heaviest ones. The.
+主题。对吧？前两个是最重的。这个。
+
+[2:23:30]
+Topic two is about medium. Right? And the last two will be relatively shallow. And the quick.
+第二个主题是关于介质。对吧？最后两个会比较浅，而且很快。
+
+[2:23:32]
+So so.
+所以，所以。
+
+[2:23:42]
+More details about assignments. Okay? So we have two assignments. And I've now reviewed.
+关于作业的更多细节。 好吗？ 我们有两个作业。 我现在已经复习过了。
+
+[2:24:19]
+More details about the topics we covered. Both will be electronically submitted to Blackboard. So on the Blackboard the same place that where you download your lecture notes. Your portal opens. So you can view the assignment. And then upload your assignment. Okay? Each assignment will be given two weeks. For you to finish. Okay? Now personally right off the book this will be easy three marks for you. Okay? As long as you follow the lecture notes the core content. It's different.
+关于我们所涵盖主题的更多细节。两者都将以电子方式提交到Blackboard。所以在Blackboard上，就是你下载讲义笔记的同一个地方。你的门户会打开。这样你就能查看作业。然后上传你的作业。好吗？每个作业都会给两周时间。让你完成。好吗？现在我个人认为，这很容易，对你们就是三分。好吗？只要你们遵循讲义笔记的核心内容就行。这有所不同。
+
+[2:25:41]
+Sufficient time for you to answer all the questions. And to get marks for your assignment. So 10 marks each. Right? So I'm sure most of you can get almost full marks. So these are your safety insurance. Okay? Try to take it as a very natural practice for your future final exam. Which of course will not be that easy. Right? So that will be your part where we distinguish people. Right? So but it will be very similar question types. So yeah. So it won't be anything outside the textbook. But it's just that this is open book. Right? So you basically you should be able to answer all the questions. But this is not. Right? I'll talk about this later. And for final exam by the way we still are finalizing the data and value. Right? But I just want to give you a happy ahead of information that it will be open note exam. I'm not sure if you have such experience before. So that means you can bring one you can bring something. To the exam. But it's not all your books or a phone. Right? It's a piece of A4 paper. It's a piece of A4 paper that you can write or print whatever thing you want. On that.
+给你们足够的时间回答所有问题，并且为你们的作业拿到分数。所以每道题10分，对吧？我相信你们大多数人都能拿到接近满分。所以这些是你们的保障，好吗？尽量把它当作一种很自然的练习，为你们未来的期末考试做准备。当然那不会那么容易，对吧？所以那会是你们区分彼此的部分，对吧？不过题型会非常相似，所以是的，不会超出课本的范围。只是这是开卷考试，对吧？所以基本上你们应该能回答所有问题，但这不是。对吧？我稍后会讲这个。顺便说一下，期末考试我们还在最终确定数据和分值，对吧？但我只想提前给你们一些信息，那将是开卷笔记考试。我不确定你们以前有没有这样的经历。这意味着你们可以带一样东西，可以带一些东西进考场，但不是你们所有的书或手机，对吧？而是一张A4纸，就是一张A4纸，你们可以在上面写或打印任何想要的内容。
+
+[2:26:07]
+And that's the only thing you can bring to the exam value. Now the purpose of this is not to practice how small you can write things. Okay? This is about you try to selectively memorize things. Actually supposed to be memorized by you. But you need not memorize everything. That's where it's supposed to be something you can easily search on Google.
+而这是你唯一能带入考试的东西。现在这样做的目的不是练习你能把字写多小。好吗？这是关于你尝试有选择地记住事情。其实应该由你来记。但你不需要记住所有内容。这些内容应该是你可以轻松在Google上搜索到的东西。
+
+[2:26:29]
+You can easily find a reference. Those you just write down for once. And you're good. Right? You focus on the important things that you can memorize. Okay? So try to make use of this tool. Right? And think about how you can study or revise more efficiently. Okay? Now the rest of time I need to talk about our.
+你可以轻松找到参考文献。这些你只需记下一次就够了，对吧？你要专注于重要且能记住的内容，好吗？所以要尽量利用这个工具，对吧？并想想如何更高效地学习或复习，好吗？接下来剩下的时间，我需要讲一下我们的……
+
+[2:26:31]
+Project.
+项目。
+
+[2:26:44]
+Okay? So details. So remember we have now two modes that we're going to select. Right? So I have now reviewed very detailed
+好吗？那么，细节。记住，我们现在有两种模式要选择。对吧？所以我现在已经非常详细地复习了。
+
+[2:27:10]
+the criteria of assessments. As well as the presentation requirements. If you're choosing individual mode or group mode. This is already on Blackboard. So no need to take pictures. All right? It's everyone can access it. So for individual mode the presentation total length will be 12 minutes. It includes 8 minute presentation and 3 minute Q&A. Okay? So
+评估的标准。 以及展示的要求。 如果你选择单独模式， 或者小组模式。 这些已经在 Blackboard 上了。 所以不需要拍照。 好吗？ 每个人都可以访问。 所以在单独模式下， 展示的总时长将是 12 分钟。 包含 8 分钟的展示， 以及 3 分钟的问答。 好吗？
+
+[2:29:11]
+All the grades no matter under which criteria will be graded. Just to this very individual. And for the content and design part we're going to need to have the final slide submitted to us. That's the great more detailed manner. But these two will be just based on your live performance. How you present and how you respond to the questions. Which is actually quite heavily weighted here. So please be prepared not to just to practice your 8 or 14 minutes. But to think about questions and how you react. So you need to prepare more than just a slide itself. Okay? And for group mode it's only two persons. Right? We don't have other choices. Only either dual mode or single mode. Right? So for two person type the total presentation time is 14 minutes. And the Q&A is 6 minutes. We'll try to make sure each one gets three. Right? So the total time if you count the average personal presentation time is slightly shorter. Individual one. But yeah. It's pretty much the same and you make probably need extra effort. You have two people. You try to practice together. So I think that's a very fair way of distinguishing the time. And for the grading right for group projects. Right? The presentation content the text the figures the design will be graded together as a whole. But for the rest two it will also be based on individual performance. Okay? So for the presentation itself. Right? It will be first graded as a whole. But we will fully consider your individual performance. So pretty much just like we're doing by ourselves. Right? So actually.
+所有成绩，不论按哪个标准评分，都针对这个具体的个人。对于内容和设计部分，需要将最终幻灯片提交给我们。这是更详细的方式。但这两项将仅基于你的现场表现，即你如何展示以及如何回答问题。这部分的权重相当高。所以请准备好，不只是练习你的8或14分钟，还要思考问题以及如何应对。因此你需要准备的不只是幻灯片本身，好吗？对于小组模式，只有两个人，对吧？我们没有其他选择，只有双人模式或单人模式。所以两人模式下，总展示时间是14分钟，问答是6分钟。我们会尽量确保每人有3分钟，对吧？所以总时间，如果算平均每人展示时间，单人模式稍短一些。但是，基本上是一样的，你可能需要付出额外的努力。有两个人，你们应该一起练习。所以我认为这是区分时间的非常公平的方式。关于评分，对于小组项目，对吧？展示内容、文字、图形和设计将作为一个整体一起评分。但其余两项也将基于个人表现，好吗？所以就展示本身而言，对吧？它会首先作为一个整体来评分。但我们会充分考虑你的个人表现。所以基本上就像我们自己单独做的一样，对吧？那么实际上。
+
+[2:29:33]
+Not much difference. To you guys. Right? Just extra trouble for my teammates. Right? They need to create a very complicated grade table for me. Yeah. So I just hope this could be a chance for you to try out. Either you want to work as solo or you want to try a teamwork. Okay? There won't be much effect how you'll be doing the math.
+差别不大。对你们来说，对吧？只是给我的队友添麻烦，对吧？他们需要为我制作一份非常复杂的评分表。嗯。所以我只希望这能成为你们尝试的机会。无论你们是想单独工作还是尝试团队合作，好吗？对你们做数学的方式不会有太大影响。
+
+[2:29:36]
+Okay? So I will have another.
+好吗？ 所以我会再做一个。
+
+[2:29:42]
+Announcement about the format of the presentation. I will try to give you guys some
+关于演讲格式的公告，我会试着给你们一些
+
+[2:29:59]
+Comments or advices about the format. How the control time. We're going to have someone remind you when it's almost up. Something like that. Right? So you'll know exactly how the presentation will be assessed. Before it goes through.
+关于形式的意见或建议。以及时间控制。我们会找人提醒你们时间快到了。诸如此类。对吧？这样你们就能确切知道展示将如何评估。在开始之前。
+
+[2:30:00]
+Okay?
+好吗？
+
+[2:30:08]
+Now this is also quite important. Right? So from today which is.
+现在这一点也相当重要。对吧？所以从今天开始，也就是。
+
+[2:30:11]
+Sunday 2nd of September. Right?
+9月2日，星期日。 对吧？
+
+[2:30:13]
+You can start grouping now.
+你们现在就可以开始分组了。
+
+[2:30:34]
+Okay? I will give you almost two weeks. Before you define your grouping. If you decide to have a dual nine job. Right? Very long time. But we have midterm festival. And National Day in between. Right? So don't play too happy about it. Okay? Please I think.
+好吗？我差不多给你们两周时间，在你们确定分组之前。如果你们决定做一个双人组的工作。对吧？时间很长。但中间有期中节还有国庆日。对吧？所以别玩得太开心了。好吗？请，我觉得。
+
+[2:30:44]
+Right. So you need to email your decision to our TA by 5th of October. Okay?
+对。 所以你们需要在10月5日之前通过邮件将你们的决定发给我们的助教。 好吗？
+
+[2:30:54]
+So remember to do that. If you don't do that we're going to assume you're going solo. Right? But.
+所以记得要这么做。如果你们不这么做，我们就会假设你们是单独进行的。对吧？但是。
+
+[2:30:54]
+Yeah.
+嗯。
+
+[2:31:33]
+You will not be able to change it. So please try to make your decision. Or if you want especially if you want to go a teamwork. Try to do it before 5th of October. Right? So only 6th October I will release the final grouping. And show it to you guys during the class. And on the 2nd day. Right? One day after I will release the total list of projects. The projects that you can choose from will be have a larger number of groups. So you don't have to you don't need to worry about.
+你们将无法修改。 所以请尽量做出决定。 或者如果你们想要，尤其是想团队合作的话。 尽量在10月5日之前做。 对吧？ 所以只有10月6日我才会发布最终分组结果。 并在课堂上给你们看。 然后在第二天。 对吧？ 再过一天我会发布全部项目清单。 你们可以从中选项，会有更多的组。 所以你们不用担心。
+
+[2:31:37]
+Competing right to.
+竞争这件事。
+
+[2:31:56]
+Try to choose your favorite topic. Right? There's usually similar. Right? Usually similar. And on the 3rd same day I will also release the final one. Right? So at least on the days during the final one. Assignment due. Assignment two. Assignment two due. Right? Just like that.
+尽量选择你们最喜欢的主题，好吗？通常会有类似的。通常很相似。而且在那同一天的第三天，我也会发布最终版本。对吧？所以至少在最终版本的那些日子里，作业截止。作业二。作业二截止。就这样。
+
+[2:32:18]
+Right? And now the title release are just for your preview. Right? The next week which is 13th of October. Very important. Right? 13th of October. We will do the selection of presentation title and time during the class. Okay? But TA will come here. They will set the lucky draw system.
+对吧？ 现在发布的标题只是给你们预览用的。 对吧？ 下周，也就是10月13日。 非常重要。 对吧？ 10月13日。 我们会在课堂上选择展示标题和时间。 好吗？ 但助教会来这里。 他们会设置抽奖系统。
+
+[2:32:34]
+Okay? So for example we have I don't know 50 groups. Right? Group one. Group two. Group 50. They will generate random numbers for you to come up and choose. Right? What are your time.
+好吗？ 比如说，我们有——我不知道——50个组。 对吧？ 第一组。 第二组。 第50组。 他们会生成随机数字，让你们上前选择。 对吧？ 你们的时间是多少。
+
+[2:33:14]
+Are your what are your title you choose. You need to decide. Right away. And then we move on. So it's kind of exciting thing about it. Right? And then that's pretty much when we finalize it. Right? So from 13th of October to 24th of November you will have about one and a half months. Working on the project. Okay? So after this day I may give you more details. About how to prepare the presentation. And how maybe we can help you optimize the outline. Something like that. Right? That's something I will announce later. Questions so far?
+你们选择的标题是什么。你们需要决定。立刻。然后我们再继续。所以这件事挺让人兴奋的。对吧？然后大概就是这时我们会把它最终定稿。对吧？所以从10月13日到11月24日，你们大概有一个半月时间。用来做项目。好吗？所以这一天之后，我可能会给你们更多细节。关于如何准备展示。以及我们可能如何帮你们优化方案。大概就是这样。对吧？这些我之后会公布。到目前为止有问题吗？
+
+[2:33:18]
+All good?
+都没问题吧？
+
+[2:33:20]
+Okay. Perfect.
+好。 完美。
+
+[2:33:51]
+So yeah. This is the final things. Right? So when you already made up your decision. Email your name and your ID to all my 308. In one email. Basically these are the three recipients in your email. Right? If you're about two person. One of you send the email. And you copy the other one. Right? In the recipient as well. Okay?
+所以，是的。这些就是最后的内容。对吧？所以当你们已经做出决定之后。把你的姓名和ID通过邮件发给我的308。在一封邮件里。基本上，这就是你们邮件里的三位收件人。对吧？如果你们大概只有两个人。你们其中一个人发邮件。然后把另一个人也加在收件人里抄送。对吧？好吗？
+
+[2:34:01]
+So write both of your IDs. And your names. Right? So tell us you two are already team up. As a.
+所以把你们两个人的ID都写上。还有你们的名字。对吧？所以告诉我们你们两个已经组队了。作为一个……
+
+[2:34:08]
+Happy team. And you show up your name as a confirmation. Okay?
+快乐的团队。并且你们出现时用你们的名字作为确认。好吗？
+
+[2:34:12]
+So this can be done anytime. From now until 6th.
+所以这个可以在任何时候做。 从现在到6号。
+
+— 由 LecSync 生成

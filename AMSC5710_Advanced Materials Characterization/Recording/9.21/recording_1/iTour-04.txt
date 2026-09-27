@@ -1,0 +1,470 @@
+[2026-09-21 14:01:21]:
+ XPS. Is that right? Well the only difference is it's letter of people. I thought you mentioned that it comes to you. Uh, it's good. And now I'll do a while it's fine. All right, the same thing. All right, so in this technique, we utilize photonizer probe and read out the electrons. And just a quick difference, uh that you appreciate where is the actual violate. Right, so it's just like the low soft x-rays, right, with the energy of uh wavelengths about 10 to 27 uh meters, right, um, and the energy range about uh 10 to a hundred microwaves.
+XPS。是这样吗？唯一的区别是它的字母。我记得你说过它是来的。呃，很好。现在我来做一阵子，没问题。好，还是一样的。好，在这个技术中，我们使用光子探针读取电子。还有一个快速的区别，你能理解实际违规的地方。对，这就像低柔X射线一样，能量大约在10到27米之间，能量范围大约在10到100个微波之间。
+
+
+[2026-09-21 14:02:07]:
+ Right, so that's ultra wildlife. Right, and uh again a few things I would go through. Alright, we have a rather fast defender because in this part, you see there are absolute lot of overlapping with what we learned the XPS. Basically we have XPS, UBS are identical methods, but then there's subtle difference in many processes with a lot of different ability of the technique in animizing different aspects of materials. We're going to see that in a moment. Right, uh, so we skip that one and uh uh talking about being here, right? So in the purest case, what all care about is the bidding energy. Refers to the specific angry levels in the atomic core of the specific element, right? But then EOPS really allows us to measure the density of things in the maintenance band, right? Uh, during the break, some of you actually want to ask me.
+对，这就是超野生动物。对，呃，再说几点我会说的。好了，我们有个比较快的辩护者，因为在这部分，你会看到和我们学到的XPS有大量重叠。基本上我们有XPS，UBS是相同的方法，但许多工艺在动画化材料的不同方面有细微差别，技术能力也各不相同。我们马上会看到这一点。对，呃，我们跳过那个，呃呃，谈谈“你在这里”，对吧？在最纯粹的情况下，大家关心的是竞标能量。指的是特定元素原子核中的特定愤怒水平，对吧？但EOPS实际上让我们能够测量维持区间内物体的密度，对吧？呃，在休息时，你们中有些人其实想问我。
+
+
+[2026-09-21 14:03:14]:
+ Right to the probability of exciting a particular electrons at specific energy levels using X-ray. So, this is actually relevant to the use of UPS instead of XPS, right? So, in short, XPS are commonly used to study the core electrons or figure out the core levels of electrons specific elements. A UPS or a commonly used study is the value of the magnetic structures of materials. All right, talk to the difference here. Second, the first dimension of the X-ray and ultraviolet light. So what is the difference? with the freshman energy, right? And then excitation energy. Now, you do really have to have a match in between the satisfaction of the division and the energy feeding for the specific setting process in order to maximize the ideation cross-section.
+精确到利用X射线在特定能级激发特定电子的概率。所以，这实际上与使用UPS而非XPS有关，对吧？简而言之，XPS通常用于研究核心电子或确定特定元素的核心能级。UPS或常用的研究是材料磁性结构的数值。好，谈谈这里的区别。第二，X射线和紫外线的第一维。那么区别是什么？是新生能量，对吧？然后是激发能量。现在，你确实必须在分配的满足感和能量输入之间找到匹配，才能最大化发想截面。
+
+
+[2026-09-21 14:04:11]:
+ So let us say, if you want to excite a big level of four electrons, you have to put high example energies. That actually has to be closed to the excitation outputs, right? So, thinking about XPS, what's happened is that why you use XPS to decide available to electrons. Well, you can. So that to our section is what they're all because it's a huge difference in between X-ray energies provided and the behavior to decide the data spending backwards. And in this day, right, ultra blind makes a pump into the buddy. Right. No, the first difference is said is the source, right? Now, previously we have X-ray generations, now we have to generate UVB. Right.
+所以假设你想激发四个电子的大能级，你必须使用高范例能级。这些能量实际上必须闭合到激发输出，对吧？所以，关于XPS，发生的事情就是为什么你用XPS来决定电子的可用性。嗯，你可以。所以我们部分的内容就是这样，因为X射线能量和行为之间存在巨大差异，数据消耗是倒置的。而在当今，超盲能将泵泵送入伙伴。右。不，第一个区别是光源，对吧？以前我们有X射线生成，现在必须产生UVB。右。
+
+
+[2026-09-21 14:04:58]:
+ Now, the principle is very similar, almost identical. Is that you have to incite a certain material, right? Then I wait for the de-execution process, and that will give out a light photon. With a light photo in the range of an X-ray, you have X-ray, with a light photo in the range of ultra-violent lights, you have in leaf. That's simple. So in this case, instead of looking for magnesium, we're going to use here we're going to use a helium gas. One, two, are very common two sources that are needed, right? Which is in the range of 20 to 40 electron volts, right? Sounds like very straightforward. Here's a comparison of the axiom source and the ultraviolet source that are used by the energy range and the corresponding energy resolution associated.
+原理非常相似，几乎相同。是不是必须激发某种材料？然后我等待去执行过程，那会释放出光子。在X射线范围内的光照，你有X射线;在超剧烈光的光范围内，你会看到叶子。很简单。所以在这种情况下，我们不去找镁，而是用氦气。一、二，是非常常见的两种能量源，对吧？大约在20到40电子伏特之间，对吧？听起来很简单。这里是公理源和紫外源的比较，分别用于能量范围，以及相应的能量分辨率。
+
+
+[2026-09-21 14:05:54]:
+ Because this energy now goes slower, right? The add-readation is actually better. And for studying four double wave agents, waiting, and real waiting is first of all we need. Right? Now, what is the difference? What is the difference? Well, personal form, right? We think about axeris. X-ray have a strong penetration property, right? So, short midmash like photons, right, and penetrating pretty much all of the materials, right?
+因为能量现在流逝得更慢了，对吧？加法读数实际上更好。对于研究四种双波代理，我们首先需要等待和真正的等待。右？那么，有什么区别？有什么区别？嗯，个人形态，对吧？我们考虑的是axeris。X射线具有强烈的穿透性，对吧？所以，像光子一样短中密度，几乎能穿透所有材料，对吧？
+
+
+[2026-09-21 14:06:28]:
+ You do get extra absorptions that's utilized for the citation of materials, right? But that is actually not the bottom. So in that sense, right, the actual real depth is very large. But you maybe is different, right? If we mean most of the materials by a factor will have a certain amount of AV absorption, right? And that is to say, uh, what you have unbee generated, when this unique is passing through anything, you will be absorbed. You can put all the sticks in the marketplace. And that becomes a rubber. So, in the design, all right, basically, for the UB generator, all right, we use a Windows design that is what would be generated. Do it was anything to stop it, right?
+你确实会获得额外的吸收量，这些吸收被用于材料的引用，对吧？但那实际上不是底部。所以从这个意义上说，实际的深度非常大。但你可能有所不同，对吧？如果我们指的是大多数材料的某一因子都会有一定程度的AV吸收，对吧？也就是说，当这个独特材料穿透任何东西时，你会被吸收。你可以把所有的棒子都放到市场。这就变成了橡胶。所以，在设计中，基本上，对于UB生成器，我们使用Windows设计，这就是生成的。有什么办法阻止它吗？
+
+
+[2026-09-21 14:07:20]:
+ For the X-ray, you actually uh use all the beat them, all right? To seal as resource, right? Because this absorption, the autopilometer design will have to do with them as well. Interestingly, we use a piece of course, which is crystalline sitting on the outside, as the atomic pay graphics as relying on the bracket diffraction to figure out the X-rays of specific big lens. Right? Now this cannot be you because of words, you know, but other than you'll be rich. So you'll set it into the course, the all the lease won't go soft. Right. So, in this case, right, the grating is designed still based on the right diffractions, but the grating is defined in a different way, right, using material gratings with a strong reflection mold, right? So basically you create a geometrical figure in the grating and coated the surface of the grating with metallic materials such as the platinum or gold to create a strong reflection to solve the problem.
+对于X射线，你实际上会用所有的“击球”，对吧？作为资源密封，对吧？因为吸收，自探测仪的设计也必须涉及它们。有趣的是，我们当然使用一块晶体，放在外侧，作为原子支付图形依赖支架衍射来确定特定大镜头的X射线。右？现在这不可能是你，因为言语，但除此之外你会变得富有。所以你会把它放进赛道，所有租约都不会软化。右。所以，在这个例子里，光栅设计依然基于正确的衍射，但光栅的定义不同，使用带有强反射模具的材料光栅，对吧？基本上，你在光栅中创造一个几何图形，并用铂金或黄金等金属材料涂覆表面，制造强烈反射来解决问题。
+
+
+[2026-09-21 14:08:28]:
+ So that is right in terms of the instrumentation. That the major difference right coming from this vacuum condition is called the vacuum equivalent condition, right? So, back to UV, that means the vacuum v by the UV, right? Now why that is confirmed? This is also relevant to the UV absorption. As I said, anything you have solved basically, including the best modules. All right. So, as you're generally UP, it's very easy to get lost, but it's very different from X-ray. Actually, you do get a lot of boring effect. That's where actually yes, that's very cool.
+所以这在仪器方面是正确的。从真空状态出发的主要区别叫做真空等效条件，对吗？回到紫外，这意味着真空v被紫外线对吗？为什么这被证实了？这也和紫外吸收有关。正如我说的，基本上你解决了所有问题，包括最好的模块。好的。所以，由于你通常处于UP，很容易迷失方向，但它和X光非常不同。实际上，你会得到很多无聊效果。这其实就是这里，是的，非常酷。
+
+
+[2026-09-21 14:09:10]:
+ Do we need back? Do you mean the activists? Yes, because when we analyze the samples, the surface analysis with the background is always important. Put back to pieces of this and some of us, wasn't they? All right. Other thing is that when you analyze the XPS, right, you actually read out the book of lightbox. Whenever you read out the electrons, you will need conditions because electrons and bind particles, when they scatter the gas molecules, they're going to be scattered away and get lost, right? So energy relies on as an electron, we also know. But then we have the the data part of the system. But for extra generation, you actually care a lot about the movie.
+我们需要回去吗？你是说那些活动家吗？是的，因为当我们分析样品时，表面分析和背景总是很重要的。把这些碎片和我们中的一些人都放回去了，不是吗？好的。还有一点是，当你分析XPS时，你实际上是在读出光盒之书。每当你读出电子时，你需要条件，因为电子和结合粒子，当它们散射气体分子时，它们会被散射并迷失，对吧？所以能量依赖电子，我们也知道。但我们还有系统中的数据部分。但对于额外的代数，你实际上非常关心电影。
+
+
+[2026-09-21 14:09:53]:
+ All right, a packet resource can leave without any details. Right, that's not right. The system for XPS just put everything to the whole system. That's what maybe you create a situation for all XPS such. Right. Let's think about this requirement on the back of the unique conditions. But in principle, right, since all of the analysis similar to XPS, the data pattern we now here, the UV generation looks like it requires a UV condition as well. So it sounds like straightforward, right? Just use B to V all the sort of things, that would be fine.
+好吧，一个数据包资源可以没有任何细节就离开。对，那不对。XPS的系统只是把所有东西都放到整个系统上。这也许就是你为所有XPS创造的局面。右。让我们把这个需求放在唯一条件的基础上来思考。但原则上，由于分析与XPS类似，我们现在看到的数据模式，UV生成看起来也需要UV条件。听起来很简单，对吧？只要用B到V这些方法就行了。
+
+
+[2026-09-21 14:10:37]:
+ If we look at how UV is generated, how UV is generated? You're using a small chamber right now as a V-star chamber like this. So what happens is that you're going to pump the heel, which is an air space, this chamber, and then you're going to put the natural configuration. So basically, I analyze this creating passport, right? And the deep centre not take on irons or cross definition of. So you know what you need? You need a gas stream, and then what you need is generated, right? you have to use this UV to be used as the protein source for your materials. All right. Now, think about the rest of the column for analyzed to see UV condition.
+如果我们看看紫外线是如何产生的，紫外线是如何产生的？你现在用一个小腔室作为V星形腔室。所以你会泵送后跟，也就是空气层，这个腔室，然后放置自然配置。基本上，我分析这个创建护照，对吧？深中心不接受铁或交叉定义。你知道你需要什么吗？你需要气流，然后生成你需要的东西，对吧？你必须用这个紫外线作为材料的蛋白质来源。好的。现在，考虑柱子的其他部分，分析UV的状况。
+
+
+[2026-09-21 14:11:27]:
+ And when UV is generated from this chamber and we are from here, got to be in UV position as well, because otherwise you will be absorbed. Right? And but here, you need gas. If you have gas, then it's not yielding. Okay, I would say, okay, how about we seal this cambridge? Right, so that will be created here. Then, because the COVID is completely separated from the rest of it, right? Then, what you be passed to this window, then we'll use it because all the rest are the infection conditions. Sounds good, right? But what I just said, go window.
+当紫外线从这个腔体产生时，我们来自这里，也必须处于紫外线位置，否则你会被吸收。右？但这里你需要燃气。如果有燃气，那就不让步。好吧，我会说，我们把剑桥封起来怎么样？对，这里会形成。然后，因为新冠完全和其他部分分开了，对吧？然后，你把什么传到这个窗口，我们就用它，因为其他地方都是感染条件。听起来不错，对吧？但我刚才说的，去窗户。
+
+
+[2026-09-21 14:12:06]:
+ Okay, you cannot use MingDo because Vindo ensures works on PDP as well. So that's not working. So you have to leave a space or is it open? So you're opening the sky to the sky, and somehow from here and on you'd be UD. But here we know we cannot be new. I'll be doing it. How to do it? How do you manage a large vacuum where vacuums are refined? An earlier change on the market. So that's quite difficult, right?
+好吧，你不能用MingDo，因为Vindo保证PDP也能正常工作。所以那个不行。所以你得留个空位，还是空着的？所以你是在向天空打开天空，从这里开始你就会变成UD。但在这里我们知道我们不能是新手。我会做的。怎么做？如何在一个真空精炼的大真空中管理？市场上较早的变化。所以这挺难的，对吧？
+
+
+[2026-09-21 14:13:02]:
+ But then if I use that number, I think this problem is actually very straightforward. Now, imagine I have two classrooms, right? The smart classroom, right? It's sitting in the all of you, it's very crowded. The other classrooms were sitting next doors were completely empty, right? So, of course, I have to do something more to simulate the vacuum constants. At that part of the hero, all right, there are like students who keep on coming in, right? So, if it's not connected, so what happens is that the students in this classroom will be growing in numbers. And now I have another door connecting to the other rooms, right? And that door is open.
+但如果我用这个数字，我觉得这个问题其实非常简单。现在，想象我有两个教室，对吧？智能教室，对吧？它坐在你们所有人中间，非常拥挤。隔壁的其他教室完全空着，对吧？所以，当然，我得做更多事情来模拟真空常数。在英雄的那个部分，好吗，有学生不断进来，对吧？如果没有连接，那这个教室里的学生人数会不断增加。现在我又有一扇门连接着其他房间，对吧？那扇门是开着的。
+
+
+[2026-09-21 14:13:48]:
+ Basically, I can let the students getting into that classroom to exit from that door very fast. Right. Now, my question is: Do you think I can create or maintain a member difference in between this classroom and that classroom? Can I do that? Or, in simple words, can have more students in this classroom and less students in that classroom. The dog size. Yeah, very good. You can't by control the door size. Is it right? Right, so I have a large door over there, I have a large door over there.
+基本上，我可以让学生们快速进入教室，然后从那扇门离开。右。现在，我的问题是：你认为我能在这间教室和那间教室之间创造或保持成员差异吗？我能做到吗？或者简单来说，可以让这个教室里更多的学生，而那个教室里的学生更少。狗的大小。是的，非常好。你不能通过控制门的大小来控制。这样对吗？对，我那边有一扇大门，那边有一扇大门。
+
+
+[2026-09-21 14:14:30]:
+ So in that door, a lot of students keep on coming in, right? So you see, the number of students is going off very fast in this classroom. But how do they leave this classroom? If I only go through this door, this door can be extremely small, and each time only one student can pass, right? But then for that classroom, right, you have another tour on the other side that's vacuuming students very fast. So, for the next people that go into that door, that will exit from the back door immediately. Right? So, in this way, right, I can establish a balance between the number of students in this classroom and the one in that classroom. And here have a lot of students, and there have almost no students. I do that? Yeah.
+所以在那扇门里，很多学生不断进来，对吧？你看，这个教室里的学生数量增长得非常快。但他们怎么离开这间教室呢？如果我只通过这扇门，这扇门可以非常小，每次只能有一个学生通过，对吧？但对于那个教室，对吧，另一边还有另一条巡逻，正在快速吸取学生。所以，下一个进入那扇门的人，会立刻从后门出来。右？通过这种方式，我可以在这个教室和那个教室的学生人数之间建立一个平衡。这里有很多学生，而几乎没有学生。我做到了吗？是的。
+
+
+[2026-09-21 14:15:09]:
+ So that's kind of like it. These level has the pump uh pumpkin ration pumpkin. Right. So, the whole idea, okay. Um, the topic data will skip the calculations, but if you're interested, you can delve into that, right? So, calculation itself is not important, but important is the concept. The concept is that you can create a vacuum level difference of two connecting containers, right? And the trick is that you will control the pumping speed and the leaking speed on both sides, and also the connection entrance in between the two containers or chambers, right? So that's the whole idea. you generate so forth with electronic.
+所以大致上是这样。这些层有泵，呃，南瓜配给，南瓜。右。所以，整个概念，明白吗？嗯，主题数据会跳过计算，但如果你感兴趣，可以深入探讨，对吧？计算本身不重要，但重要的是概念。概念是你可以制造两个连接容器的真空能级差，对吧？关键是你要控制两侧的泵送速度和泄漏速度，还控制两个容器或腔室之间的连接入口，对吧？这就是全部想法。你用电子方式产生类似的效果。
+
+
+[2026-09-21 14:15:55]:
+ And that is a very important technique. I use the ocean high vacuum or a high vacuum. So, some of you asked me during the break, saying that what will be tested in the quiz, right? I spent a lot of time talking about XPS for sure. I've also spent a lot of time talking about that room. Right, so we're definitely interested. Actually, through the lectures, right, at different levels, we have quite a bit to deal with any of the background. First, not every one of you will be able to read a part of the backpack by yourself, but now we have different centers that can use the comparison. Right? Now this is what of the source.
+这是一个非常重要的技巧。我使用海洋高真空或高真空。所以，你们中有些人在休息时问我，问测验会测试什么，对吧？我确实花了很多时间谈论XPS。我也花了很多时间谈论那个房间。对，所以我们确实很感兴趣。实际上，通过讲座，不同层次，我们有很多背景知识可以处理。首先，不是每个人都能自己读背包的一部分，但现在我们有不同的中心可以利用对比。右？现在说说源头的情况。
+
+
+[2026-09-21 14:16:38]:
+ So use a heating source to generate uh UV light photons, right? Uh but that's a mental fact. All right.
+所以用加热源产生紫外光子，对吧？呃，但那是心理事实。好吧。
+
+
+[2026-09-21 14:16:47]:
+ The development of signatron radiation becomes another possibility, right? That is can be used not only for UV, right, UPS, but also for XPS as well. This is one of the major advancements in the instrumentation in the past years. So, what is the signature radiation that refers to radiation emitted by electrons traveling in a circular orbit at near light speed? Right? And single-charm radiation happens to write X-rays and ultraviolet regions for the spectrum. It just keeps a continuum of a broadband light photon several from X-ray to the new visible range. Right, so there are a few things in terms of as a requirement to generate the signature regulation. First of all, it requires accelerating charged particles. In our case, it's electrons.
+符号室辐射的发展也成为另一种可能性，对吧？这不仅可用于紫外线，对吧，UPS，也可以用于XPS。这是近年来仪器领域的重大进展之一。那么，指电子以接近光速绕圆轨道飞行时发出的特征辐射是什么？右？单一光谱辐射恰好写入了X射线和紫外线区域。它只是保持宽带光子从X射线到新的可见光范围的连续体。好的，产生特征调控有几个要求。首先，它需要加速带电粒子。在我们这里，是电子。
+
+
+[2026-09-21 14:17:48]:
+ Should make, right? And how fast we need to accelerate this electrostat to relativistic speed? So what is relative is speak? So that is very close to the speed of the map. Okay? Very close to the speed of light, right? Then later on, we're going to use the relativistic factors gamma, right? That is the larger gamma, right? Must be what it will be that well, right? So, when you have just electrons traveling very fast, that's one of the requirements.
+应该能做到，对吧？我们需要多快才能把这个电控器加速到相对论速度？那么，什么是相对的？这非常接近地图的速度。明白吗？非常接近光速，对吧？然后，我们会用相对论因子伽马，对吧？那就是更大的伽马，对吧？它一定是那么好的，对吧？所以，当电子速度非常快时，这就是其中一个要求。
+
+
+[2026-09-21 14:18:26]:
+ And the other is that they have to go in a circular pathway. Right, they have to come off in a support coming from using a second day. If these two requirements are satisfied, right, then you will be able to meet signature radiations. Right? Uh, here are some physics, right? So we can accelerate electrons. That's no problem. You can use electrical field for that. Okay. So how would we make electrons to travel the pathway
+另一个是它们必须沿着环形路径进行。对，它们必须通过第二天的支撑脱落。如果满足这两个要求，那么你就能满足特征辐射。右？呃，这里有一些物理原理，对吧？所以我们可以加速电子。这没问题。你可以用电场来实现这个过程。好的。那么我们如何制造电子来传播这条路径
+
+
+[2026-09-21 14:19:03]:
+ This is, yeah, this is a relevant question to what we previously. So, when you make the train very much, you know, the use of technical, right? So, imagine if you have electrons traveling in this direction, there is a velocity in this direction. If you're meant to apply a magnetic field, perfectly put our gains. So, you can set a book and law, right? That will tell you you're going to create a force, right?
+这是，是的，这是一个与我们之前讨论的问题相关。所以，当你制造火车时，技术性的作用很重要，对吧？想象一下，如果你有电子朝这个方向运动，那么速度也在那个方向上。如果你要施加磁场，那就完美地分配我们的增益。所以，你可以设定一本书和定律，对吧？这会告诉你你会产生一个力，对吧？
+
+
+[2026-09-21 14:19:42]:
+ That is perpendicular to give you a velocity. Okay, so you have a P field basically here. Okay, so the speed field perfect velocity will lead to the generation of this centric pedal force F. Okay, and this F working on this charged particle traveling this way, well, who may pick it to also to the pathway? All right, that's how. Right, so that's how we can generate or manipulate the trajectory of the electrons into a circular category. So, when these two conditions are satisfied, right, you're going to have the so-called single-tron radiation. This radiation will be coming out from so this is the circular pathway, all right? So, this is the velocity of the electrons. So the central radiation will be coming out in the core-like shape, right?
+这是垂直的，给出速度。好，基本上这里有一个P场。好，速度场完美速度会导致产生这个中心踏板力F。好的，这个F作用于这个带电粒子，沿着这条路径移动，那么谁会选择它也走向通路？好，就是这样。对，这就是我们如何生成或操控电子轨迹进入圆形范畴的方式。当这两个条件满足时，你就会得到所谓的单-辐射。这辐射会从这里射出，这就是圆形路径，明白吗？这就是电子的速度。中心辐射会以核心状的形状发出，对吧？
+
+
+[2026-09-21 14:21:04]:
+ Tangential to the radius of the search. Right? So this is simple for engaging. Right. And the features of the single congregation, as I said, right, it's a big point. You'll have a bunch of complex to cover. Now if this is the case, so I do have mention uh uh another trend of uh continuum X ray generation in the previous lectures. You guys do remember when talking about the axe, yes, actually generation. Not talking about there's a like a large backdrop in X-ray generated. By talking about the accident sworn, the last mentor, right?
+与搜索半径相切。右？所以这对吸引人来说很简单。右。正如我说的，单一会众的特点，是个重要点。你会有很多复杂的内容需要覆盖。如果是这样，我得提一下之前讲座中关于连续X射线生成的另一个趋势。你们还记得谈论斧头时，实际上是生成。不是说X射线产生了一个很大的背景。说的是事故，宣誓的最后一位导师，对吧？
+
+
+[2026-09-21 14:21:52]:
+ I say the X-ray scores itself is composed of the different X-ray lines, K alpha one, K alpha two, K beta. So you have a worst, right? But not only it has a book, it has a background, right, which is very wide, right? And that is coming from the fact known as French Talon. Remember that? Right. That is coming from the acceleration of the electrons, right? That's something from the center vision of the electrons. And the nature of this due to the electrical field, right? So that piercing the breast problems or the breast or allowing condition, right?
+我说X光谱本身由不同的X光线组成，K alpha 1，K alpha 2，K beta。所以你有最差的，对吧？但它不仅有一本书，还有一个背景，对吧，非常宽广，对吧？这源自被称为法国爪的事件。还记得吗？右。那是电子加速的结果，对吧？那是电子中心视野的信号。这本质上是电场引起的，对吧？所以穿刺乳房的问题，或者乳房允许的条件，对吧？
+
+
+[2026-09-21 14:22:29]:
+ Like here. See other two of them: the secret creation and the grounds below. Share spray the fainting puppet cried. This is also the acceleration of the electrons. All right, but here we said B is segregation. Peace out, Yushan. Can be considered as if your acceleration is opposite to the direction of the velocity. Hello? Right. In this case, what is your acceleration?
+就像这里。看另外两个：秘密创造和下面的地面。晕倒的木偶喊道。这也是电子的加速度。好吧，但我们说B是分离。和平了，玉山。可以看作你的加速度与速度方向相反。喂？右。在这种情况下，你的加速度是多少？
+
+
+[2026-09-21 14:22:56]:
+ Your acceleration is proportional to your velocity, right? So in front of Kala, you have acceleration in the opposite direction of your velocity. Right, and in this case, you have acceleration perpendicular to the direction of the velocity, right? And in this case, you get a detailed range of x-rays known as a simple fabrication, and in the other case, you get first-love, right? But then Perse Terra is by no means similar to the synchrotron radiation. Is because the single radiation of a few different important features. Well this is a highly complicated radiation. So, the collegiate means that you have a very narrow angle for the poll generating. So it means these actually are generated in the open parallel beam, right? So this is a quantum native mediation, right?
+你的加速度与速度成正比，对吧？所以在卡拉前面，你的加速度方向与速度相反。对，在这种情况下，你的加速度与速度方向垂直，对吗？在这种情况下，你得到一个详细的X射线范围，称为简单制造，另一种情况下，你得到的是初恋，对吧？但珀尔斯地球绝不像同步辐射。这是因为只有几个不同重要特征的单一辐射。这是一个高度复杂的辐射。所以，大范围辐射意味着波尔产生的角度非常窄。这意味着这些辐射实际上是在开放的平行光束中产生的，对吗？所以这是一个量子原生中介，对吧？
+
+
+[2026-09-21 14:23:48]:
+ That it's a continuous spectrum. Is very similar to that of the reptilum, but then this second trunk radiation generated is also extremely strong, right? But first to love is actually not strong. Is weak but broadband, right? Pacific radiation, the X-ray or the nuclear light generated is of extremely high intensity, so it's a bright source. Right. Last video is in here polarizing within the orbital plane and the elliptically polarized outside the plane. So, the single-to-radiation generates an X-ray and unique light source of unique properties. Experimentally, right, and how would you recognize it if it relies on first of all the application? You have to first accelerate the spectroscopy, even here.
+它是一个连续的光谱。和爬行动物的辐射非常相似，但这第二个躯干辐射也非常强，对吧？但第一个爱其实并不强。是弱但宽带，对吧？太平洋辐射，也就是X射线或核光产生的强度极高，所以它是明亮的光源。右。最后一段视频在这里是轨道面内偏振，轨道面外偏振椭圆。所以，单对辐射产生了具有独特性质的X射线和独特的光源。实验上，对吧？如果首先依赖应用，你怎么识别它？你必须先加速光谱学，即使是在这里。
+
+
+[2026-09-21 14:24:35]:
+ When is that it's accelerated or passed? You will add electrons to the gas remote magnet, right? So that trajectory of the metals. Right, so when that happens, it's a necessary rain that constravels, right? And what happens is that you have generated these pollinated extra resources, right? And when you let it pass through some interactions, get it to circle, right? Let the screen come out and use it for different than another photo. Right, almost I'm getting very tired, right? Um I'll just show you a short video of what his evaluation is. You're probably tired of it.
+什么时候是加速的，还是通过的？你会向气体遥控磁铁中加入电子，对吧？也就是金属的轨迹。对，所以当这种情况发生时，是必要的雨水，是有轨迹的，对吧？发生的是你产生了这些额外的授粉资源，对吧？当你让它通过一些相互作用时，它会绕圈，对吧？让屏幕出来，用它来拍出不同的照片。对，我快累了，对吧？嗯，我给你看一段他的评估视频。你可能已经看腻了。
+
+
+[2026-09-21 14:25:13]:
+ Welcome to the Stanford Synchrotron Radiation Light Source or SSRL. SSRL is a cutting-edge research facility here at SLAC National Accelerator Laboratory in California. For the past 15 years, the scientific tools at SSRL have helped researchers better understand very complex molecular processes in nature, in the human body, and in industry. But how did SSRL come to be the world-renowned Synchracharm light source that it is today? Let's go back to 1972 when a group of high-energy physicists, engineers, and builders at Slack created a new ring to smash particles into each other. You can see a bit of what that looks like here, where particles were injected from the main linear accelerator into this ring called SPHERE to produce particle collisions. These particle collisions ultimately led to the discovery of new subatomic particles, the J-si and the tau-lepton particles, which earned researchers the 1976 and 1995 Nobel Prizes in Physics. Originally, this facility had been built for high-energy physics in order to discover new particles. However, scientists have long realized that circular particle rings like Spear produced a byproduct called synchrotron radiation. Now, what is synchrotron radiation?
+欢迎来到斯坦福同步辐射光源（SSRL）。SSRL是位于加利福尼亚的SLAC国家加速器实验室的一个前沿研究设施。在过去的15年里，SSRL的科学工具帮助研究人员更好地理解自然界、人体和工业中极其复杂的分子过程。那么，SSRL是如何成为今天世界闻名的Synchracharm光源的呢？让我们回到1972年，当时Slack的一群高能物理学家、工程师和建筑师创造了一个新的环，用来将粒子相互撞击。你可以在这里看到一些这样的样子，主直线加速器将粒子注入这个名为SPHERE的环中，以产生粒子碰撞。这些粒子碰撞最终促成了新的亚原子粒子——J-si和陶-轻子粒子的发现，使研究人员获得了1976年和1995年的诺贝尔物理学奖。最初，这个设施是为了高能物理学而建，目的是发现新粒子。然而，科学家们早已意识到，像斯皮尔这样的圆形粒子环会产生一种副产物，称为同步辐射。那么，什么是同步辐射？
+
+
+[2026-09-21 14:26:46]:
+ Well, it's the radiation that is released when particles don't travel in a straight line. Researchers at Stanford saw an opportunity to channel that radiation into X-ray beams to produce imagery of subatomic structures. So they collaborated with SLAC scientists to add a tangential port to the rig to harness the synchrotron radiation. And in 1973, SSRL was born. This new technology really created a buzz in the scientific community. But how does it actually work? First, the X-ray beams were used to scan a sample, then bounced off the molecular structure and were diffracted, producing an X-ray diffraction image on the other side. Using complex mathematics, the scientists retrieved the type of atoms, their positions, and the angles of the links between the atoms just from that X-ray diffraction age. The first protein structure produced with SSRL set the stage for a dramatic growth in the use of sunratron radiation to solve macromolecular structures. Following these achievements in 1977, the National Science Foundation approved new funding for SSRL, promoting the facility from an experimental project to a national research laboratory.
+当粒子不沿直线运动时释放的辐射。斯坦福的研究人员看到了将这些辐射引导成X射线束以产生亚原子结构图像的机会。于是他们与SLAC科学家合作，在装置上增加了一个切向端口，以利用同步辐射。1973年，SSRL诞生了。这项新技术在科学界引起了轰动。但它到底是如何工作的？首先，X射线束被用于扫描样品，然后反射到分子结构上，经过衍射，产生另一侧的X射线衍射图像。科学家们利用复杂的数学方法，仅凭X射线衍射年龄，就提取了原子的类型、位置以及原子间链路的角度。SSRL产生的第一个蛋白质结构为太阳放射辐射用于解析大分子结构的应用带来了显著增长。继这些成就后，1977年美国国家科学基金会批准了SSRL的新资金支持，将该设施从实验项目提升为国家研究实验室。
+
+
+[2026-09-21 14:28:19]:
+ Since then, scientists continued to build more experimentation stations called beamlines in order to advance their research. Each beam line is dedicated to specific needs based on characteristics of the X-ray beam and the techniques being used. In the early days of SSRL, scientists made constant innovations to how they used synchrotron X-rays and considerably accelerated their ability to visualize large biological molecules. Led to a lot of new discoveries. Thanks to TPB. If you're interested, you finish the video. All right, uh, welcome to do so, but I'm Zudrusty, so be far from what we're going to talk about. The idea to show this video is that a bit of history of the synchrotron radiation is that its first development is actually coming as a disaster to high-energy physicists, right? So, as shown in the video, so what is the original intention to give this is a large collider system? So you accelerate two particles, and that then collides with each other and generates new particles.
+从那时起，科学家们继续建造更多称为束线的实验站，以推动研究进展。每条束线线都根据X射线束的特性和所用技术，专门满足特定需求。在SSRL的早期，科学家们不断创新同步辐射X射线的使用方式，显著加快了他们观察大型生物分子的能力。这带来了许多新发现。感谢TPB。如果你感兴趣，请看完视频。好的，呃，欢迎观看，但我是Zudrusty，所以请远离我们要讨论的内容。展示这个视频的想法是，同步辐射的历史上，它的首次开发实际上是对高能物理学家来说是一场灾难，对吧？那么，正如视频所示，最初想给这个大型对撞机系统什么？所以你加速两个粒子，然后它们相互碰撞，产生新的粒子。
+
+
+[2026-09-21 14:29:28]:
+ Because it's one of the grains where I change the atomic physics or high-energy physics, right? So they did that and they found there's a problem with it. So while they create this curved motion of these parts of the particles, they started to lose energy. Now we know we're loose energy gold goes at the same channel radiation. Right, so yeah, he accelerated, right? There's a problem of this kind of things. Right? So the very first version of the single-channel radiation source is not intended for single-channel radiation. It's a byproduct, right? And that facility was built, I think, in the 60s.
+因为这是我改变原子物理或高能物理的颗粒之一，对吧？他们做了这个，发现存在问题。当他们制造这些粒子部分的弯曲运动时，能量开始流失。现在我们知道，金的散能量沿着同一个通道辐射。对，所以是的，他加速了，对吧？这类事情确实存在问题。右？所以单通道辐射源的第一个版本并不是为单通道辐射设计的。它是副产品，对吧？而且那个设施，我记得是在60年代建的。
+
+
+[2026-09-21 14:30:08]:
+ And then what the Safe High Aviation realized, and it took a while for people to realize it can be very useful. In the 70s, right, people start with a simple functions devoted to the material calculations, right? And now it's already the third generation and the fourth generation.
+然后是Safe High Aviation实现了什么，人们花了一段时间才意识到它其实非常有用。在70年代，人们从简单的材料计算函数开始，对吧？现在已经是第三代和第四代了。
+
+
+[2026-09-21 14:30:28]:
+ Right now, of course, in different parts of the world, all right, there are all different facilities for example, the Argon National Labs also have their own maze in my radiation source. Right. Was built with this PC back in, I think the proposal was proposed in 1983 that the first big buy is available later, six years later, in 1989. Then a new one has been in operation in Shanghai since 2009. Later on, I think there are a few new sources in the paging as well in Google. Right, so these are the facilities. Windows fight. The bigger part is actually, as you've seen, a lot of the pictures is this array, right? And that allows the electrons travel.
+当然，现在在世界不同地区，确实有各种不同的设施，比如氩国家实验室在我的辐射源里也有自己的迷宫。右。我记得1983年提出的提案是，第一台大型采购是在六年后，也就是1989年。然后自2009年以来，上海也有新的设备投入运营。后来，我记得谷歌上也有几个新的消息来源。对，这些是设施。Windows的战斗。更大的部分其实是，正如你所见，很多图片都是这个阵列，对吧？这允许电子传播。
+
+
+[2026-09-21 14:31:31]:
+ The beam line works that at each of the tangential directions slides, right? They connect the singletron coming out. All right. So, for each of the events coming out, this is called the main bind, right? They are actually devoted to different purposes. So I'll show you the video. Some of them use it to study biological symbols, so you see self-x-rease, whereas some of them use them to kind of study graphic materials, others maybe used it to study the Sunday State visits. So all the methods that we can use by changing lifting lines between a special comparison in the research. Right, uh so this is SILPS. Right.
+光束线的作用是，在每个切向方向滑动，对吧？它们连接了出来的单催速器。好的。所以，对于每个出来的事件，这被称为主绑定，对吧？它们实际上是用于不同的目的的。那我给你看视频。有些人用它来研究生物符号，比如你会看到自X酶，有些则用它来研究图形材料，还有些人可能用它来研究周日的国会访问。所以我们可以通过在研究中特殊比较中切换升力线来使用所有方法。对，呃，这就是SILPS。右。
+
+
+[2026-09-21 14:32:09]:
+ UPS principles. I will be brief on this because this part is quite difficult to display and understand without enough solid state physics background assets because this part of the information is relevant to right the density states of field density states bad. So that is your goal, right? But I said it had to be asked. It's not very easy to follow this quantity. Simply because the ICPS, the X-ray and the procession allow a lot of the nickels to get spent. Summarize the losses of right. Then for a new lead, which they authorize right, but that's certain. Now what's going to happen is that, all right, aside from the friendly level, all right, and you will have a number of sensitive states. And that basically tells you the energy level distributions of the specific general.
+UPS原理。我会简短说明，因为没有足够的固态物理背景资源，这部分信息很难显示和理解，因为这部分信息与纠正场密度态的密度态有关。所以这就是你的目标，对吧？但我说过必须问。跟踪这个数字并不容易。因为ICPS、X射线和行进让很多镍币被浪费了。总结一下右的损失。然后是新的领先，他们是授权的，但这是确定的。接下来会发生的是，除了友好水平之外，你会有若干敏感状态。这基本上告诉你特定一般的能量分布。
+
+
+[2026-09-21 14:33:07]:
+ So in terms of the lactics, there are two different activities. One is called the angle he created, right? And the Swiss one is very much the state of masses to study the electronic structure of materials. So the difference between this tech two technique is that if the handle integrated, and when you integrate that means you collect the photoelectrons from all possible design handles. So you look at from a large range of ecosystem and is that all together is what analyzed. And in this sense, you always see overall this takes place in the data standard of the speed drones. But I will resolve and give you all couple information, right? So, you collect the photo emission, photo-ejective electrons from a very small solid angle, right? Then they are going to change, right? This small collection is only ventile, right?
+所以关于乳酸，有两种不同的活动。一种叫做他创造的角度，对吧？瑞士的角度则是质量状态，用来研究材料的电子结构。所以这项技术的区别在于，如果手柄集成，整合时意味着你会收集所有可能设计手柄上的光电子。所以你从广泛的生态系统中观察，是否综合分析了这些。从这个角度看，你总会看到整体上发生在速度无人机的数据标准中。但我会解决并给你们几个信息，对吧？所以，你从一个非常小的立体角度收集光发射的光电子，对吗？然后它们会发生变化，对吧？这个小集合只是活体电子，对吧？
+
+
+[2026-09-21 14:34:03]:
+ Here to where, right? And then by doing it with those resolved resolve detection, right, people build up correlation between the energy dispersion in the phase space, which is the reciprocal space. Now, here I can speak is basically repeating what I'm saying: that by using the Apple integrated UPS, you basically get our overall information of the various best workers in Eastern Europe. This is a sort of a bit of a comparison of if you have a metal sample and if you have a semiconductor, right? So, what's going to happen? This is most complicated, it's very simple, right? The difference between this two material is that the fermion level of the material for the microphones is right seeing on the at the top of the VS band maximum is right there. But then for the second deductors, you actually have a band gap so that the football is sitting in between. So, in the UPS, if you set the position of the 391 sterile, what are you going to see? See for those cattle, for example, goat, right?
+从这里到哪里，对吧？然后通过这些分辨后的检测，人们会在相空间（倒易空间）中建立能量色散之间的相关性。现在，我可以说的是，基本上重复我说的：通过使用苹果集成的UPS，你基本上获得了东欧各顶尖工人的整体信息。这有点像金属样品和半导体样品的比较，对吧？那么，会发生什么？这非常简单，对吧？这两种材料的区别在于，麦克风材料的费米子能级正好，在VS频段顶部正好在那里。但对于第二个推算器，实际上有一个能隙，足球就在中间。所以，在UPS里，如果你把391号的位置设为无菌，你会看到什么？比如说，那些牛，比如山羊，对吧？
+
+
+[2026-09-21 14:35:14]:
+ It light starts at the zero position. And uh right below zero, we start to see the density states. That's the geometry. All right. And then because of the perfect when you always have a bit of a coming where I go through. So for example, this is the X P S and this is the zero, which is the perfect level of material. So, if I code, what you would expect to see is that right, so this bar is actually taxed, right? So we have a bit of SMD of the electron handles through the Fermi levels, right? So it'll be production bands, all right? But then you do have a stomach back first.
+光从零点位置开始。在零点正下方，我们开始看到态密度。这就是几何结构。好的。然后由于完美性，你总会有一些重叠穿过我经过的地方。例如，这是XPS，这是零，即材料的完美能级。所以，如果我编码，你会期望看到的是这样，这个条实际上是倾斜的，对吧？因此，我们有一点点SMD，电子通过费米能级，对吧？所以它将是产生带，好吗？但接着你要看某人如何很好地做到这一点
+
+
+[2026-09-21 14:35:54]:
+ Well, you're something about the hole is here, right? But then your latency lexone stays away from the fermion level. So, if I face it, it starts on theory. So this happens to be displayed. uh ways of different development uh this keeping the base. So this energy difference is basically right the energy difference in between the frequency level and the winners band maximum. That is something we have to see in terms of that constructor is not what you're using.
+嗯，你说过洞在这里，对吧？但你的潜伏位xone会远离费米子能级。所以，如果我面对它，它就从理论上开始。所以这恰好是显示出来的。呃，不同的发展方式，呃，保持基准。所以这个能量差基本上是正确的，就是频率能级和胜者带最大值之间的能量差。这是我们必须用构建器来观察的，而不是你用的。
+
+
+[2026-09-21 14:36:28]:
+ That's all the integrated VPS. Right. Now, let me spend one or two minutes to quickly introduce this and oversolve the DPS. Said, so you have the X-ray photos shared on the sample, and when you collect the photo-emitted emitting electrons, right, you are collecting from a different angles, right, rotating about this. So, this collection is described using both the power angle of the collection and the asthmos angle of the collection, right? So the key idea of doing the sample result connection or RPAS is to establish automated connection between the infant mode of the electrons and the input information of the electrons inside the sample, right? I'll come back again. Is this okay? This is always playing, and even this was the end, the playing of the song. Right?
+这些都是集成VPS的。右。现在，让我花一两分钟快速介绍一下，并对DPS进行过解。所以你在样品上共享了X射线照片，当你收集光发射电子时，你是从不同角度收集的，是围绕这个方向旋转的。所以，这个收集是用收集的功率角和哮喘角度来描述的，对吧？所以做样品结果连接（RPAS）的关键思想是建立电子婴儿模式与样品内电子输入信息之间的自动连接，对吧？我会再回来。这样可以吗？这一直在播放，甚至这也是歌曲的结尾。右？
+
+
+[2026-09-21 14:37:23]:
+ So eventually, when you establish that correlation, what you analyze is the dispersion of the electronic structures of saying the different prescribed graphic directions and solid state physics, people would use the physical space to do that. I'm saying these versions algorithm structures in the case base. But this is some information for you to get, but this is just for your general understanding.
+最终，当你建立这种相关性时，你分析的是电子结构的色散，比如不同的指定图形方向和固态物理，人们会利用物理空间来做这些分析。我说的是这些版本的算法结构在案例基础中。但这些信息供你参考，只是为了让你有一般的理解。
+
+
+[2026-09-21 14:37:52]:
+ Is talk about that. Into she wrote a little bit in the class explaining physics. So, if you speak that part, and as you see, and jump into this last part, going back to SPS. Now earlier I said XPI has not before studied the weight of standards.
+就是谈论这个。她在课堂上写了一些解释物理的内容。所以，如果你说了那部分，正如你看到的，跳到最后这部分，回到SPS。我之前说过XPI之前没有学习过标准的权重。
+
+
+[2026-09-21 14:38:11]:
+ Here at least they're totally. Now other people say that XPS and magic is too high. The transition from ability for windows plan is very small compared to the moving light. So this being presents a few times back in there. That's the harder release. Is that even for that? XPS, the X-ray has to inside some of the ravens that data trust. So you would get a bit of a signal. But what makes this even bigger is that for this excited electrons, photoelectrons, by x-ray, they are of very high kinetic energy because the x-ray energy is fixed. Now the mainland span stays very close to the top.
+至少在这里，它们完全是这样。现在也有人说XPS和魔法太强了。相比移动的光，窗户的变迁非常小。所以这个存在会在里面出现几次。那是更难释放的部分。这甚至是用来释放的吗？XPS，X射线必须进入一些数据信任的渡鸦内部。所以你会得到一点信号。但更重要的是，对于这些激发的电子，也就是光电子，通过X射线，它们具有非常高的动能，因为X射线能量是固定的。现在大陆的跨度非常接近顶部。
+
+
+[2026-09-21 14:38:51]:
+ So, you only need to let it overcome the small problem, you need to overcome the barrier, right? So, these photo electrons will have a lot of kinetic energies, right? So we know XPS, right? There's an issue of at the resolution, and that is dependent on the kinetic energy of electrons to be analyzed. So the higher energy can worse energy resumption. And that makes it not very convenient for the UPF analysis, which requires very high-level resolution. You remember the first slide that we showed that the end resolution of a UP source is in the range of 0.1 eventual volts, right? And in SPS 1.7 or even back of it. So there are pictures of those. I won't be careful about studying the week Mr. Dr.
+所以，你只需要让它克服小问题，克服障碍，对吧？这些光电子会有很高的动能，对吧？我们知道XPS，对吧？在分辨率下存在一个问题，这取决于被分析电子的动能。所以更高的能量会降低能量恢复。这使得UPF分析变得非常不便，因为UPF需要非常高的分辨率。你还记得我们展示的第一张幻灯片吗？UP源的最终分辨率在0.1伏的范围内，对吧？SPS是1.7伏，甚至更低。所以这里有这些照片。我不会在研究那周，博士先生。
+
+
+[2026-09-21 14:39:40]:
+ Person why SPS is not really used and new PS is used. Right? So this is our very brief introduction on UTS, right? As they add a lot of fewer knowledge to the XPS. Now I'm going to use the last 20 minutes and go very fast with the out there, right
+有人问为什么SPS几乎没被用，而用的是新的PS。右？这就是我们对UTS的简短介绍，对吧？因为他们给XPS添加的知识要少得多。现在我会用最后20分钟，快速介绍那些“外在”的知识，对吧
+
+
+[2026-09-21 14:40:07]:
+ Our J process, as you see, we come back to this during the class break. A blockchain build onto the mask you will design that. Right. Um the whole idea, let me repeat that a little bit if you found out, right? Involves the excitation of lower level electrons, creating coholes, then another electrons dropping from a higher level active coholes, causing recombination and deep out of the energies, and to another electrons nearby. That pass excitation of this electrons and what you pull up for these electrons and you read our neck energy. Right? So if you ever thought about the question to ask, you know, remember in that table, I give you the gold, silver, that the copper, core levels, right? Different atmospheres, so you can have the same damn energy and the holiday, right? Have different managements, business relevance to their big companies.
+正如你所见，我们的J流程会在课间休息时回到这个环节。一个区块链构建在面具上，你将设计它。右。嗯，整个概念，如果你知道了，我再重复一遍，对吧？它涉及低能级电子的激发，形成余孔，然后另一个电子从高能级活性相孔落下，引发复合并远离能量，最终流向附近的另一个电子。这些电子经过激发，你从这些电子中获取能量，读取我们的颈部能量。右？所以如果你曾经想过要问的问题，记得那张表里，我给你的是金、银、铜、核心水平，对吧？不同的氛围，所以你可以保持同样的能量和节日氛围，对吧？管理层不同，业务对他们大公司的相关性也不同。
+
+
+[2026-09-21 14:41:08]:
+ So, what is important about the RJ process is that it's a free electron body process, and the kinetic energy of this RJ electron is irrelevant to whatever excitation source that is using. This is the most important things about object. First, I always say three electoral processes. Okay, second, starting the ball. The kinetic energy of this RJ electrons has nothing to do with the source that is used. Is that right? Yeah, because the kinetic energy of this electron depends on the energy difference between this one, this one, and this one. That's all we need.
+所以，RJ过程重要的是它是自由电子体过程，而这个RJ电子的动能与它所使用的激发源无关。这是关于物体最重要的一点。首先，我总是说有三种选举过程。好的，其次，开始球。这些RJ电子的动能与所用电子源无关。对吗？是的，因为这个电子的动能取决于这个电子、这个电子和那个电子之间的能量差。这就是我们所需要的全部。
+
+
+[2026-09-21 14:41:54]:
+ That's a fixed value of a specific L J. And you say, How we define the specific L J? We have to make just like we have to give it to the SPS, right? So how do you make different nets first go forward? Give it names to about this level, this is the unique level, the recommendation level, and the expectation level. So, we're going to use these three levels to define the name of the L J electrons here, right? Now, so this is the equation I just mentioned, so that is the kinetic energy dual measure electrons, right? The lowest level, right? Right. Sorry, the recombination level, and minus the excitation level.
+这是特定L-J的固定值。你说，我们如何定义特定的L-J？我们必须像给SPS一样，做成对应。那么，你如何先让不同的网向前行？给它命名大约这个能级，这是唯一能级、推荐能级和期望能级。所以，我们要用这三个能级来定义L-J电子的名称，对吧？现在，这就是我刚才提到的方程，这就是动能对偶测度电子，对吧？最低能级，对吧？右。抱歉，是重组能级，且是负激发能级。
+
+
+[2026-09-21 14:42:41]:
+ Now of course you have to subtract the work function as well before you can get the kinetic energy. So that's the patient we're confused, right? And the nomenclature can be very straightforward, right? But consider you're going to decide in Necrolay a three-level backdrop, create a hole, right? And now you're going to have L2 levels sitting in this code and we're coming back and recommending, right? And this amount of energy will be passed between the distinct host and the money out. All right? So, how can we get image? First of all, we'll have to show my L, right? The second coming from the recommendation level or two, and the third one comes from the three, right?
+当然，在获得动能之前，你还得减去功函数。所以我们困惑的是那个病人，对吧？命名法可以非常直接，对吧？但假设你在死灵环境中决定一个三级背景，创建一个孔，对吧？现在你会在这个代码里有L2级，我们会回来推荐，对吧？这个能量量会在不同的宿主和资金之间传递。明白吗？那么，我们怎么得到图像？首先，我们得展示我的L，对吧？第二个来自推荐层级或两个，第三个来自三个层级，对吧？
+
+
+[2026-09-21 14:43:22]:
+ But usually L2 and 3 are not discernible, so you took the plan. It's just an example. All right, so that's how an A feeds the body. Right? Now they're looking at the cell table. So I'm putting the table backwards. So and you can see also force, right? So you see you have different energy levels. K is only one level. L you will have actually three. So this is keen and mouse.
+但通常L2和L3是看不出来的，所以你拿了计划。这只是个例子。好吧，这就是A如何滋养身体的方式。右？现在他们在看细胞表。所以我把表格倒过来。你还能看到力，对吧？你会看到不同的能量能级。K只有一个能级。L你实际上会有三个能级。这就是Keen和Mouse。
+
+
+[2026-09-21 14:43:52]:
+ But this one is coming from the spin orbital covenant. So you have P one over two and P three over two, right? Right, so that's why we have three levels in this case, right? But if you will not be able to discern the difference in between two this two models, sometimes this two levels is written as L two three. Right, look depends on whether you want to zone it or not. Right. But then you see, if this is the case, if I'm going to decide this four-level electrons from the very beginning, leaving the hole there, right? So I can have like K L one, right? So, L1 electrons joined there, then causing this electrons to come out, right? But at the same time, what can happen is that this electron can jump in, causing this electron to jump out, or causing the same metal to jump out.
+但这个能级来自自旋轨道契约。所以你有P一除以二，P三对二，对吗？对，这就是为什么我们有三个能级，对吧？但如果你无法区分这两个模型的区别，有时这两个能级写作L二三。对，这取决于你是否想分区。对。但你看，如果是这样，如果我从一开始就决定这个四能级电子，保留空穴，对吧？那我可以有K、L、1，对吧？L1电子连接在那里，然后这些电子出来，对吧？但同时，这个电子可能会跳出来，导致这个电子跳出来，或者让同一种金属跳出来。
+
+
+[2026-09-21 14:44:44]:
+ So you see, there are different combinations of local mass. That is true. So, for RJ, the computational license can have a lot of combinations of the lines, but they are not necessarily the same as XPS. Speaks is basically how many energy levels to plants, how many peaks you need to see. The alternative is that you have to list all the energy levels to think about the nations. So that's the amount of technology started. Right, uh then why you would relax the offset? Well, uh a lot of reasons using electrons. Uh L J, right? So this is one of the key difference for many events.
+所以你看，局部质量有不同的组合。这是真的。对于RJ，计算许可可以有很多线的组合，但它们不一定和XPS相同。Speaks基本上是植物需要看到多少能级，需要看到多少峰。另一种选择是你必须列出所有能级，才能考虑国家。这就是启动的技术数量。对，那你为什么要放松偏移？嗯，很多原因都是用电子。呃，LJ，对吧？这是许多事件的关键区别之一。
+
+
+[2026-09-21 14:45:28]:
+ Our J Electrical spectroscopy and XPS. Now, in XPS, we mentioned in XPS spectrum, you do see these LG electrons, right? That means XPS process equipped her republican at cost. Right. Right? We don't we can analyze our digital actual using XPS vector, right? Is that correct? The people with the technology of RJ, you like Charles McCowski, very nice, right? Do you see the execution source of electrons? Right?
+我们的J电能谱和XPS。现在，在XPS中，我们提到过XPS光谱，你会看到这些LG电子，对吧？这意味着XPS工艺以成本价为她的共和国配备了。右。右？我们不应该用XPS矢量分析我们的数字实物，对吧？对吗？使用RJ技术的人，你喜欢查尔斯·麦考斯基，非常好，对吧？你看到电子的执行源了吗？右？
+
+
+[2026-09-21 14:46:03]:
+ To inside the piece of material, and then we get out of the former signals. So, the process is exactly the same as what I mentioned in XPS, don't be friendly there. Now we are changing the accelerated photon source to an electron source, to a high-energy electron source. Go ahead, exactly here.
+进入材料内部，然后我们就从前者的信号中消失。所以，这个过程和我在XPS中提到的完全一样，别太友好。现在我们正在将加速光源转变为电子源，也就是高能电子源。请继续，完全正确地。
+
+
+[2026-09-21 14:46:26]:
+ Processes are the same, it's just that you are changing the citation source. So, as you see, in the first bottom, we're talking about XBS, UPS, and ABS. Right. Now, pretty much you're analyzing the same excited electrons, be it photo electrons or algae electrons. All right, you always try to calculate or say report the kinetic energies and on the number of electrons of that kinetic energy. And this is all I have to do. They share this in common, right? And the difference of these three techniques would be XPS use actuary source, UPS would use ultra wireless source, and LJ would use electron source, high energy electron source. That's the reflection. At the very end, where we see the difference in instrumentation, you think source kind of something different, but what do they share in common?
+过程是一样的，只是你在改变引用源。所以，正如你看到的，在第一个底部，我们讨论的是XBS、UPS和ABS。没错。现在，基本上你分析的是相同的激发电子，无论是光电子还是藻类电子。好的，你总是尝试计算或者报告动能和动能电子的数量。这就是我要做的全部。它们有共同点，对吧？这三种技术的区别是XPS使用精算源，UPS使用超无线源，LJ使用电子源，高能电子源。这就是反射。在最后，我们看到仪器的差异，你会觉得源有点不同，但它们有什么共同点？
+
+
+[2026-09-21 14:47:18]:
+ Is there a mess of it? When you have this so-called generated or exciting electrons coming out, when you try to measure the kinetic energy, you use the same setting, right? Be it for XPS, be it for L J, preferably for UBS. Use exactly the same energy analyzer, right, to read out the number of electrons as a function of the kinetic energy. Right, so this is uh you see. Now go back to why we're using electrons, right? At least in the field, right? And the most important research is that the reaction conception is a lot larger for using light concept X-ray. Here is a sort of data outward activation we can use, right? Now, here I use the ionization cross-section of our both of them, sigma 2s, as this angle 0.01 megabarne per atom, right?
+是不是很乱？当你有所谓的产生或激发电子出来时，当你试图测量动能时，你用的是同样的设置，对吧？无论是XPS，还是LJ，最好是UBS。用完全相同的能量分析仪，读取电子数量随动能变化。对，这就是，呃，你看。现在回到我们为什么使用电子，对吧？至少在实地中是这样，对吧？最重要的研究是，利用光概念的X射线，反应概念要大得多。这里有一种数据可以向外激活，对吧？这里我用我们两者的电离截面，sigma 2，作为每个原子的0.01兆巴尔内角，对吧？
+
+
+[2026-09-21 14:48:09]:
+ and also just the radius of the aluminum simple calculation will give you the probability of one S electrons being kicking out will be two times ten to the minus five. It's a very global background. Here's the fact that there's yours. That even comes a comparison, right? So, if you're using X-ray source of that magnesium, right, the K-alpha line is 12, sorry, 1200-something electron volts, then I'm considering using a 2KEV electron source, which is of similar energies as the X-ray source. Now, if you go through the total ionization cross-section calculations, right, now you will see there are three orders of magnitude in the probability, the ionization probability. So, using the right console, you have a lot higher ionization probability rather than our data translators belonging. And that's why if you want to use the RJ, right, well you better use EVLA computers. How do you actual us? Is some charge where we just see a dandy gap in the labor narcissism.
+而且仅仅铝制的简单计算半径就能给出一个S电子被踢出的概率是2乘以10的负5次方。这是一个非常全局的背景。这里有你的背景。这甚至还需要比较，对吧？所以，如果你使用那个镁的X射线源，K-α线是12，抱歉，大约1200电子伏特，那么我考虑使用一个2KEV电子源，它的能量与X射线源相似。如果你计算总电离截面，你会发现电离概率有三个数量级。所以，使用正确的控制台，电离概率远高于我们的数据转换器。这就是为什么如果你想使用RJ，嗯，最好使用EVLA计算机。你怎么了解我们？是不是我们只是看到劳动中出现明显缺口的自恋？
+
+
+[2026-09-21 14:49:21]:
+ Here, we're only putting treatment here, all right? So, this is talking about an excitation process of an electron pole interact with a piece of solid material, right? And it turns to be much more complicated than what you see in XPS. All right. Now, what happens is that you have one practical activity to share these materials, right? Now just electrons, right? depending on its amount of energy, right? Going deeper into the bulk materials, but not that deep. Is never as neat as X or X-ray survey invites perhaps. So if you're using hype, that are very good.
+这里我们只做处理，好吗？所以，这里说的是电子极与固体材料相互作用的激发过程，对吧？这比你在XPS中看到的要复杂得多。好的。现在，你有一个实际活动来分享这些材料，对吧？现在只有电子，对吧？取决于它的能量，对吧？深入到大块材料中，但不会太深入。这从来没有X或X射线巡天那么巧妙。所以如果你用炒作，那就非常好。
+
+
+[2026-09-21 14:49:59]:
+ Well, depending on how high the element is, right? It reduced like 40 kilovolts, right? So the penetration depth is about a few micrometers. That's hard, right? But then think about SPS we learned before, right? A few microns is a lot thicker than what we can use for XPS, it's only a few nanometers, right? That is not because the penetration depth of the probe is because the electron generated can only pass a few surface layers to reach the outside of the surface or the exit of the sample surface. Right? So that will be the same case for our J, where our J already quite close of about that time energy, right? So, this is the KD atoms, our J electrons also have surface settings.
+嗯，这取决于元素的高度，对吧？它减少了大约40千伏，对吧？所以穿透深度大约只有几微米。这很难，对吧？但再想想我们之前学过的SPS，对吧？几微米比我们用来做XPS的厚度要厚得多，只有几纳米，对吧？这并不是因为探针的穿透深度是因为产生的电子只能穿过几层表面层，才能到达表面外层或样品表面出口。右？所以我们的J也是如此，我们的J已经相当接近那个时间能量了，对吧？这就是KD原子，我们的J电子也有表面参数。
+
+
+[2026-09-21 14:50:54]:
+ That is what we're at. All right. Now of course you see oh there are different things available as one of them. Did you do our for technical activation? Yes, did you guys at this moment realize why I compared the excitation excitation process of our gear process? RJ is actually a computing process with X-ray generation. Is that right? So you have high signals and low j that means your accuracy message as well. They give temperatures along an axillary that is objective, right? They are right.
+这就是我们现在的状态。好的。当然，你会看到，其中有不同的方法。你们做技术激活吗？是的，你们现在明白我为什么比较我们齿轮工艺的激发过程了吗？RJ实际上是一个通过X射线生成的计算过程。对吗？所以你有高信号和低j，这也意味着你的准确信息。它们给出的温度是沿腋下的客观，对吧？他们说得对。
+
+
+[2026-09-21 14:51:29]:
+ Course, while you use electrostatic sand materials, there are other things coming on. Taking the red one is something we mentioned before when we're talking about you guys don't want me higher, right? So you're having a lot of massive piece of material. That material would be that helpful as well, right? We're actually going to use that as an independent technique known as the scaling diagram. So that should be as well. That schedule that was kind of used in similar ways, but these would forget for now because that would not be including down day. But what they care about really like not sense. Right, a bit of the history. Not much per se.
+当然，虽然你用的是静电砂材料，但还有其他问题。我们之前提到过，拿红色的砂，你们不想让我升得更高，对吧？所以你会有一大块大块材料。这些材料也会很有帮助，对吧？我们实际上会把它作为一种独立的技术，称为比例图。所以这也应该是。那个时间表也以类似方式使用，但暂时不提，因为那不包括休息日。但他们真正关心的其实并不合理。对，讲一点历史。其实没什么特别的。
+
+
+[2026-09-21 14:52:11]:
+ To say, you know, there are two persons very important, Latna and Aujay. Although Metna actually found LJ's film and then one year earlier than PI LJ, because LJ like someone who somehow named after all J instead of Metna, right? But they have the independent discoveries. Then G spectrum was proposed to be used to identify the compositional origin of the elements, right, by J.J. Leader back in 1953, but it was not really useful until much later, right, in 1997, right? This technique has been really starting to use. The reason why is that if you look at algae signals, even though we use the depth words in everything, all right, the algae signal is here, all right, and then you blow it up, it's here, right? So our G-signals are always very weak. So it takes people a long time to figure out the power to see what output signals, right? Whoops.
+说，有两个非常重要的人，Latna和Aujay。虽然Metna实际上发现了LJ的胶片，而且比PI LJ早一年，因为LJ喜欢有人以所有名字都用J而不是Metna命名，对吧？但他们有独立的发现。后来，G谱被提出用来鉴定元素的成分起源，对吧，是1953年J.J. Leader提出的，但直到1997年才真正有用，对吧？这项技术已经开始被广泛使用。原因是，如果你看藻类信号，尽管我们在所有东西中都用深度词，但藻类信号确实在这里，然后放大它，对吧？所以我们的G信号总是非常微弱。所以人们需要很长时间来确定输出信号的功率，对吧？哎呀。
+
+
+[2026-09-21 14:53:04]:
+ Right, it's by differentiating the spectrum, right? You need to have a much more intensive use relevant to take positions and to figure out the LG sequence. One, the object becomes frequently useful in identifying the composition of elements in the materials. Now, here we have a bit to talk about for generating the electrons, right? Or say they're creating useful unconscious course. Said objects here because you're going to see that boots. Right? About here, I will be again brief, just that you have a feeling. The way you can generate electrons is also mentioned in the previous instrumentation, right? So when you guys talk about that, many times, right?
+对，就是通过微分光谱，对吧？你需要更深入的使用，才能确定位置并确定LG序列。首先，物体在识别材料中元素的组成方面变得非常有用。现在，我们这里有一些关于电子生成的部分，对吧？或者说它们在创造有用的无意识路径。这里说这些物体，因为你会看到那个靴子。右？关于这里，我再简短说明一下，只是你有个感觉。你如何产生电子，之前的仪器也提到过，对吧？所以你们经常谈论这个，对吧？
+
+
+[2026-09-21 14:53:49]:
+ Example in the castle gauge, do you guys remember what it's about? Right. So I use a filament, or I will activate. So I use a filament activity, right? And that filament is generally at once. So for any material it heated up to high enough temperature, electrons will be generated. But how much she does muscle regenerative depends on the work function of the material. If you have a low work function material, you have a low delta vector generally behind the physical. So what does Electron got? That is one use for electron source generation, right?
+举个城堡计量表的例子，你们还记得它讲什么吗？右。所以我用的是纤维，或者我会激活。我用纤维活性，对吧？而这些纤维通常是一次性产生的。所以对于任何材料加热到足够高的温度，电子都会被生成。但肌肉再生的程度取决于材料的功函数。如果你的材料功函数很低，通常会有一个低于物理的Δ向量。那么Electron有什么？那是电子源生成的一个用途，对吧？
+
+
+[2026-09-21 14:54:23]:
+ Is working on this so-called thermal. Omnitric guns, or due to the several facts, the action of their unit power process, right? And the other type of generation is from the due emission source. So, what happens is that you've got more materials, right?
+正在研究所谓的热能。全能枪，或者根据多种事实，是它们单位功率过程的作用，对吧？另一种发电方式来自正当发射源。所以，发生了什么，你有更多的材料，对吧？
+
+
+[2026-09-21 14:54:46]:
+ Uh certain seven euros over charity. So these are two backisms. And in terms of that, you do have a bit of a different effect for the summer ionic flux basically to get up, right? And current density, particularly by electrons, right, is described in the recet form, right? So J is the current density, right? A some constant is the temperature, and this exponential function are important values here: work function of electrons. See, the larger the five, the smaller the j, right? So that means, or the higher temperature, right, the latter the tape, right? So that means so now you increase the temperature or the use of four objects with the materials they get for like that. So that's the way we have two, but you're also able to familiarize.
+呃，肯定七欧元比慈善多。所以这是两个反向说法。就这个而言，夏季离子通量基本上会有不同的影响，对吧？电流密度，特别是电子，用recet形式描述，对吧？所以J是电流密度，对吧？某个常数是温度，而指数函数在这里很重要：电子功函数。你看，五越大，j越小，对吧？这意味着，温度越高，磁带越高，对吧？这意味着你现在提高温度，或者用它们得到的材料来使用四个物体。这就是我们有两个材料的方式，但你也可以熟悉。
+
+
+[2026-09-21 14:55:39]:
+ This is a sound setup.
+这是一个音响设备。
+
+
+[2026-09-21 14:55:56]:
+ Half per second squared. What? But compared to the phone here at Map 6, right? Well, you can get it up to 2000K. The current density of reaches 100 m per centimeter squared. So, this is almost two-order magnitudes higher than that level telescope. Elastics, this is not just a mile. Now of course we're operating a solvent source, right, it goes the current density goes up with uh the uh the temperature or in the range until it's separated. So it's never like the thing is the higher the temperature, the better, or the more electrons you it's not the case, right? Want to emit about operating screens instead of over here.
+半秒平方。什么？但和地图6上的手机比起来，对吧？嗯，你可以达到2000K。电流密度达到100米每平方厘米。所以，这比那个水平望远镜高出近两个等级。弹性，这不仅仅是一英里。当然，我们操作的是溶剂源，电流密度随着温度的升高而上升，直到温度被分离为止。所以从来不是温度越高越好，电子越多，情况并非如此，对吧？想发射出操作屏，而不是在这边。
+
+
+[2026-09-21 14:56:45]:
+ Right? Other is the field division source from the principle of field division that you apply a high field right to the zero, right? That I think it's my feel that somehow, right, as a physical principle, I think, force that the barrier of this electron emitting is lowered, right? So, the higher the thing, the lower work function, the empty work function you can get, right? So, in this way, that will help you to generate conduct as well. Now, here is the one-body kind of equation to describe this process coming from the electrostat. There was an A V or some sort of the constant, right? Now that is the voltage applied, or say the field created. Right. And phi again is also the work function of the material.
+右？另一个是场除法原理中的场分源，你对零点施加一个高电场，对吧？我觉得，作为物理原理，我认为，这种电子发射的势垒降低了，对吧？所以，物体越高，功函数越低，空功函数，对吧？这样一来，也能帮助你产生导电。这里有一个单体方程，用来描述来自电控器的过程。有一个A-V或者某种常数，对吧？那就是施加的电压，或者说产生的电场。右。而phi同样是材料的工作函数。
+
+
+[2026-09-21 14:57:36]:
+ Now you'll see again the larger the more function, right? Be lower the j, right? Being higher in the field, you hire every day, right? So the whole trick of this thing is that can you create a very high field on this material so that you can let event ones be emitted, right? Yes, right. How to do that? You're going to use a very short title, right? Because the field applied, right, is proportional to the voltage applied divided by the radius of temperature of the steam. So the sharper the deep, the higher the fuel jet rates. Not bigger than that.
+现在你会再看到，越大，功能越大，对吧？j越小，对吧？现场越高，你每天都要雇，对吧？所以这个东西的诀窍就是，你能在这种材料上制造非常高的场，这样你就能发射事件1，对吧？是的，没错。怎么做到的？你会用一个很简短的标题，对吧？因为施加的场，对吧，是施加电压除以蒸汽温度半径的比例。所以越锋利，深度越高，燃油喷射速率就越高。不会比这个更大。
+
+
+[2026-09-21 14:58:12]:
+ So if you have a coverage ridges of 100 nanometers, so it's a very small T, right? We apply a thousand times a thousand volts of voltage, then the total field in the result will be around 10 seventy volts per liter. Right? So it's a very high view and leads the generation of the laptops. This was probably worked. That's the uh order of the information, right? So how the cube is made, it's very simple. So, using electrochemical action. So, you put a piece of talcin again, talcan is used, right? But this country is not using like civilian officers, right?
+所以如果你的覆盖脊是100纳米，那就是非常小的T，对吧？我们施加一千乘以一千伏的电压，那么总电场大约是1070伏每升。右？所以这是一个非常高的视角，并且引领了笔记本电脑的生成。这很可能是成功的。这就是信息的顺序，对吧？那么，立方体的制作过程非常简单。所以，利用电化学作用。所以，你再放一块滑石粉，就是用滑石粉，对吧？但这个国家用的不是像平民军官那样的，对吧？
+
+
+[2026-09-21 14:58:50]:
+ We want to make a very sharp feature source, right? So we use the intellectual chemical politician or jet publishing, right? That creates a nap in the contact in between the wire, which is the calcium wire, and the solution. Eventually, a knacking will overheard you and create the extremely sharp kick for this plastic. Right? And here is a quick comparison of the three types of sources that we see for telescoping lab six and three ignition, and in terms of current densities, right? So, this is a two-quarter of back integral frequency, but there's another four-quarter of packing table. So, field emission gives you a very strong electron towards also represented by the brightness sensor shown here. Right. The additional advantage of the pure emission source is that we see the energy spread, right?
+我们想制造非常锐利的特征源，对吧？所以我们用知识分子化学政治家或Jet Publishing，对吧？这在线（钙线）和溶液之间的接触处形成一个凹凸。最终，一个敲击会听到你的声音，给这种塑料制造极其锐利的冲击。右？这里是我们看到的三类源的快速比较，分别是六号和三号实验室点火时的电流密度，对吗？这是四分之二的积分频率，但还有四分之四的包装台。场发射给你一个非常强的电子，也由这里展示的亮度传感器表示。右。纯发射源的额外优势是我们能看到能量的扩散，对吧？
+
+
+[2026-09-21 14:59:43]:
+ The smallest in comparison to constant or lapses. Does work, and because you have a very short teeth, you have to protect it really nicely.
+相比持续或断裂，这个比例最小。确实有效，而且因为你的牙齿很短，必须非常好好地保护它。
+
+
+[2026-09-21 14:59:53]:
+ Contaminants or oxidation that occur to the teeth will cause a lot of trouble because it will rot it up, right? So, in terms of vacuum conditions needed, or film equation will require the highest vacuum conditions compared to either NAP6 or PASIC. So, those are some of the very natural effective things you can think about in terms of the instrumentation. Now the rash is very similar, right? So you have the electronsumers, then you need the electron analyzer. Now you guys have solved seats before, but I will talk about the XPS. All right. And then electron multiplayer is the same. We talk about that too as well. The last one is a so-called lofty api fear, which is a little bit of the crime, so never mentioned it before, right?
+污染物或氧化发生在牙齿上会带来很多麻烦，因为会腐蚀牙齿，对吧？所以，在真空条件方面，或者说胶片方程，将需要比NAP6或PASIC更高的真空条件。这些都是你可以考虑的非常自然且有效的仪器因素。现在，皮疹非常相似，对吧？所以你有电子sumers，然后你需要电子分析仪。你们之前已经解决过座位问题，但我来谈谈XPS。好的。然后电子多人游戏也是一样的。我们也谈到了这个。最后一个是所谓的“高大API恐惧”，这也是其中一部分问题，之前没提过，对吧？
+
+
+[2026-09-21 15:00:34]:
+ That I have no intention to explain in detail, but just a general idea, right? Technique is also amplifier, right? Uh, in the old days, if really to do analytic mathematics to the spectrum of the peak. So what I said before, this is a very big signal. How to make it look stronger. We do the first uh derivative of this curve. Right? Now uh we can do it digitally
+我无意详细解释，只是一个大致的想法，对吧？技术也是放大器，对吧？呃，过去，如果真的用来对峰值的光谱做解析数学。所以我之前说的，这是一个非常大的信号。如何让它看起来更强。我们做这条曲线的一阶导数。右？现在，呃，我们可以数字化了
+
+
+[2026-09-21 15:01:02]:
+ do it digitally without accountable nowadays. But in other H2, you know, I have other light formats, right? By using the system mutation amplifier over here. That was that. That is how the LJ spectrums look like, right? After you get to respond with it, then you're all rewarded. Now, finally analysis, for LG analysis, right? I will be rather brief, but I guess the focus is really on the dominant feature of the school process, how it's different from the SDS, right? So why I will be sort of rough up this one is that it's actually a very useful technique, right? But then it's not that sensitive, right?
+现在数字化完成，无需承担责任。但在其他H2中，你知道，我有其他光格式，对吧？通过使用这边的系统突变放大器。就是这样。这就是LJ频谱的样子，对吧？当你用它来回应后，大家都会得到奖励。现在，最后是分析，针对LG分析，对吧？我会说得比较简短，但我想重点其实是学校流程的主导特征，它和SDS的不同，对吧？所以我会稍微粗略一点，因为这其实是一种非常有用的技术，对吧？但它的灵敏度其实没那么高，对吧？
+
+
+[2026-09-21 15:01:48]:
+ At the peaks a lot more complicated than this about the peaks. So here is the algebra spectrum. A random key is a database. Can read for this object. Now, what you see is that on the x-axis is the electron energy, so genetic energy. On the y-axis is the phone number or you can put in the different elements in there. Same thing, right? So now what you see is that we see a few group of lines. So you have PLL, and we have N and N, right? And then you see, the thing is that if you look at the same electron energy loss, you have many different piece coming from different elements, is one thing, but you have that sort of reaction.
+在峰值方面，关于峰值要复杂得多。这是代数谱。一个随机密钥是一个数据库。可以读取这个物体。你会看到，x轴上是电子能量，也就是遗传能量。y轴上是电话号码，或者你可以把不同的元素放进去。差不多，对吧？所以你现在看到的是几组线。你有PLL，还有N和N，对吧？然后你看，如果你看同一个电子能量损失，你会看到来自不同元素的许多不同片段，这是一回事，但你会看到那种反应。
+
+
+[2026-09-21 15:02:35]:
+ But the other thing is that even if you look at the single element, you cross it over, you also have a lot of bits, right? So so you have many beach to look at due to the very complicated three natural excitation excitation nature of the electric system. Well here is some hope. All right, so we'll deal with the comments. The RP spectral specific network, you have a you always have a peak of picks, whereas in the iron crop in Albuquerque, you also have a lot of picks. So, the long tips is because you have different conversations of KLL, L and M, if you have any of them of together, right? So this is a very important point, isn't it? Okay, now here I'm using MMN or JPEGs as an example. So, what you have is that, okay, so means the initial state is from n-double, right? And it means the first de excitation recommendation level is from the NLAB, and then the excitation level is also from the NLAM.
+但还有一点是，即使你看单一元件，交叉它，你也会有很多比特，对吧？所以由于电系统的非常复杂的三自然激发激发特性，你有许多海滩可以观察。这里有一些希望。好了，我们来处理评论。RP光谱特定网络，你总会有一个尖峰的镐头，而在阿尔伯克基的铁矿区，你也会有很多镐头。所以，长提示是因为你会看到KLL、L和M之间的不同对话，如果你把它们中的一个放在一起的话，对吧？这是一个非常重要的点，不是吗？好，现在我用MMN或JPEG作为例子。所以你看到的是，好的，这意味着初始态是n倍，对吧？这意味着第一个去激发推荐能级来自NLAB，然后激发水平也来自NLAM。
+
+
+[2026-09-21 15:03:38]:
+ But then you see, you have tons of combinations, right? So you can start it from the M1 levels, then the film density level, M1, that site, one M1 electrons. Do that, but you can have M1, M1, and two, and three, well, you have seven of them altogether. Well, the higher damage level, the more defensive, right? But then I would hope that we'll have a master of the basics. Lower levels is the smaller number of it, and this is good to understand the three recommendations of this object process and to see how our J will be different from SPS, right? So this is important. Right, so end the session. This is a bit of a quantification, right? Well, energy of all these fashions is defined by these free energy levels of this way.
+但你会发现，有很多组合，对吧？所以你可以从M1级开始，然后是薄膜密度级M1，也就是那个位点，一个M1电子。这样做，但你可以有M1、M1和两个，三个，嗯，总共有七个。伤害等级越高，防御性越强，对吧？但我希望我们能掌握基础知识。低能级代表数量较少，这有助于理解这个物体过程的三个建议，也能看到我们的J与SPS的不同，对吧？这很重要。好了，结束本次会议。这算是个量化，对吧？嗯，所有这些形式的能量都是由这些自由能级定义的。
+
+
+[2026-09-21 15:04:28]:
+ So E A P C right will be determined by the energy of the K levels, for example, A level, minus the reclination level, which is from here. It's the B level and minus the energy you need to decide the third electrons, which is the C level. So basically, you have this kinetic energy that I call this LJ in the truce equals to the A level and the C level and C level. So that's uh the general set. Then the reality is a little bit different because when you have this poor electron excited, though, this material is actually ionized. Okay, so you create a phone call. Then host is the doll are among the eyes, right? So, the arrest of the electrons will see this atomic core slightly different because this black light convolves, right? So the edge model will be shown to it.
+所以 E A P C 的正确数值由 K 能级的能量决定，比如 A 能级减去倾斜能级，这个能级来自这里。这是 B 能级，减去决定第三个电子所需的能量，也就是 C 能级。基本上，你有一个我称之为 LJ 的动能，在休战中等于 A 能级、C 级和 C 级。这就是一般的集合。但现实情况有点不同，因为当这个弱电子被激发时，这种材料实际上是电离的。好，所以你创建了一个电话。那么主机是娃娃在眼睛中间，对吧？所以电子的停止会看到这个原子核，因为这个黑光发生卷积，对吧？所以边缘模型会被展示给它。
+
+
+[2026-09-21 15:05:21]:
+ Should be considered, I think another page is going on. A simple way to consider this relaxation effect or toll effect is that instead of counting the speed level with the atomic z, because you have both high electron releases, so that is equivalent to add a positive charge to the core. So instead of using this as a D level, B digital level of atomic state, you lift the multiplication by average, right? The B level of atom J and the V level of atom J plus one, right? So that's what we should consider is this profile. The same thing for the C-level as well. That gives you the benefit of the kinetic energy of the system, right? So with that, there's some positive exercise for you guys to do, all right, but very simple calculations using the equation such as the given here, right? With the dispute that and with the elements, identifications, right? This is one of the examples with a few different elements.
+应该考虑，我想还有另一页内容。考虑这种松弛效应或代价效应的一个简单方法是，不用原子z来计算速度能级，因为你有高电子释放，这等价于给核心增加正电荷。所以你不是用这个作为原子态的D级、B级数字能级，而是用平均值提升乘法，对吧？原子J的B级和原子J的V级加一，对吧？所以我们应该考虑的是这个剖面。C级也是一样。这给了你系统的动能优势，对吧？所以，你们可以做一些正向练习，但用方程做的非常简单的计算，比如这里给出的，对吧？用争议和元素、鉴定，对吧？这是其中一个例子，包含几个不同的元素。
+
+
+[2026-09-21 15:06:35]:
+ Then, what you see is that they have some three stars in telling you there are a series of transition atoms in there, all right? So Nicole, ID and Podium are the things primarily identified, but in order to make sure they are there, right? But basically, you have to look at feature between the standard spectrums and maybe compare, for example, chromium. So there are two hydrogen. In this Korean plan, you do see this to natural features. Now are you asking that three favorite peaks? Here you can see three liter peaks. And it goes with some parameter people from some site roads. And you can see that it corrects this way. You also compared the power to avoid the database in order to figure out who outlined, right?
+然后你会看到它们有三颗星，说明里面有一系列过渡原子，对吧？所以Nicole、ID和Podium是主要被识别的对象，但为了确保它们存在，对吧？但基本上，你必须在标准光谱之间观察特征，也许还要比较一下，比如铬。所以氢有两个。在这个韩国的计划中，你确实能看到这与自然特征相符。现在你是在问那三个最喜欢的峰吗？这里你可以看到三升的峰值。这与一些地点道路的参数人相呼应。你可以看到它会这样修正。你还比较了避开数据库的功率，以确定谁被勾勒出来，对吗？
+
+
+[2026-09-21 15:07:18]:
+ Mechanical state, same thing on electrical sheet, right? But now a reminder for you is that our Jetty measures what? Humanity. Oh Jay, it doesn't matter, it's the bunny energy. I'm gonna ask you if you're choosing to make these uh bankers or lower energies with nicer than low batteries many the answer will be different. So, this is the culture we'll have to pay attention to, and we're on the validity of the principles. But and the rest, I think, can pretty much be overtaken. The reason why is you will see, I give you a number. So, the our big quantification is very similar to XBS. But then, if you look at the real case, the error in each case for unknown samples in LJ can be as large as 15%.
+机械状态，电工板上也是一样的，对吧？但现在提醒你，我们的码头测量的是什么？人性。哦，Jay，没关系，关键是兔子能量。我想问你，如果你选择制造这些银行家或低能量，电池质量比低，答案会不同。所以，这就是我们需要关注的文化，我们关注的是原则的有效性。但其他的，我认为，基本上可以超越。原因是你会看到，我给你一个数字。我们的大量化和XBS非常相似。但如果你看真实情况，对于LJ中未知样本，每个情况的误差可能高达15%。
+
+
+[2026-09-21 15:08:12]:
+ Then the social and concentration of different elements sometimes overload 8%. So, if you have eight hundred something costs 50% available, social you've got that thing or not, right? So that's why usually without internal standard, we don't use our chain for quantification. That's providing the same as XPS. We're gonna skip. All right. That's not okay, right?
+然后不同元素的社会性和浓度有时会超过8%。所以，如果你有800个东西，50%可用，社会性你要么有，要么没有，对吧？这就是为什么通常没有内部标准，我们不会用链来量化。这和XPS提供的是一样的。我们要跳过。好的。这样不行，对吧？
+
+
+[2026-09-21 15:08:48]:
+ That is the business and then sure I would pop it. I was more than thought. Yeah, I think it's that you'll find the local handle.
+这就是生意，然后我肯定会开枪。我比想象的还要多。是的，我觉得关键是你会找到本地的地址。
+
+
+[2026-09-21 15:08:58]:
+ Natural source can be made very small. This is a widely made spot
+天然水源可以非常小。这是一个广泛制作的地点
+
+
+[2026-09-21 15:09:20]:
+ In what we're talking about with a microscope, which is in the next mark. And here this is really the measurement is, right? Is it's telling about the nature of the electrons? Is that I think I've done all those things that I'm not going to do? Cool. Again, what I can tell you, right? So, the principle of testing for the I test what you do is not what you don't call in a question. So that's general. That is another passing something that glands you shouldn't have over the past. Right?
+在我们说的显微镜中，就在下一个标记里。这里的测量数据，对吗？它能反映电子的性质吗？是不是我觉得我做了所有不打算做的事情？酷。我能告诉你的，对吧？所以，测试I测试的原则，不是你在问题中不叫出什么。所以这是通用的。这是过去不该有的另一种腺体检测。右？
+
+
+[2026-09-21 15:10:07]:
+ So, I'm going to pass the something emphasized, saying this is very important, right? Really, I have to know that. You can finish it for that letter. I have mentioned a few things a few times during our season. This, you must know, but this is very important. True to add in addition. Important to pass. Okay. Was that just addressing the left? Okay, I can say something as forward. See you with that, okay.
+所以，我要传递强调的部分，说这非常重要，对吧？真的，我必须知道。你可以把它写完，写给那封信。我在我们这个季节里提过几次。这点你必须知道，但这非常重要。补充一点是真的。重要的事情要通过。好的。那是不是在说左边？好吧，我可以说一些直接的话。回头见，好吗。
+
+
+[2026-09-21 15:10:37]:
+ Okay. Well, second working company is very good
+好的。嗯，第二个工作连队非常好
+
+
+[2026-09-21 15:10:55]:
+ So we got this cash. What you're huge? No, you're okay
+所以我们拿到了这笔现金。这是什么图片
+
+

@@ -1,0 +1,1035 @@
+[2026-09-15 18:34:59]:
+ Topic zero, and hopefully, we will finish most of this part. And by the way, we have uploaded another section on Blackboard to cover the imperfections of solids. So let me recap. For this topic, we're going to learn uh about these five subtopics. And uh the first part that I lo uploaded include the first three. Uh uh knowledge point. And then uh this one is definitely uplaid uploaded. And by this we will see the full picture. Okay? So uh hopefully we can try to finish the top work uh today and uh see how far we go.
+主题零，希望我们能完成大部分内容。顺便说一句，我们在Blackboard上上传了另一部分，介绍实体的缺陷。让我回顾一下。在这个主题中，我们将学习这五个子主题。我上传的第一部分包括前三个。呃，知识点。然后，这个肯定是uplayed，上传了。到这时我们就能看到完整的画面。明白吗？所以，希望我们今天能完成顶部的工作，看看能走多远。
+
+
+[2026-09-15 18:35:44]:
+ Okay, so this is ideal. Again, let me emphasize: this is a textbook, but you are not required to buy or borrow this book or read this book for assessments in this course. But feel free to read it if you want, because uh this whole course, especially the first uh topic one, topic two, and part of topic three, are mainly extracted from this book. Okay, so if you think we jump too fast, you want to read more, you can find the textbook. It's available in a library, I believe. Maybe not this edition, but any edition I think would do. would be similar. And uh yeah, and you probably also have access to E versions. So it's an e-book, something like that. Okay, so that's the thing I like to emphasize.
+好的，这很理想。再次强调：这是教材，但你不必购买、借阅这本书或阅读这本书作为课程评估。但如果你愿意，可以随意阅读，因为这整门课程，尤其是第一主题、第二主题和第三主题的一部分，主要都是从这本书中摘录出来的。好的，如果你觉得我们跳得太快，想读更多，可以找到教材。我相信图书馆里有。也许不是这个版本，但任何我认为都可以的版本，差不多。呃，是的，你可能也能接触到电子版。所以它就是电子书，差不多是这样。好的，这就是我喜欢强调的一点。
+
+
+[2026-09-15 18:36:37]:
+ Alright, Tom. So I believe we stopped somewhere about the ER curve
+好吧，汤姆。我记得我们在ER曲线附近停了下来
+
+
+[2026-09-15 18:36:48]:
+ Right, over here. So I believe this was the hardest part last week, right? When we talk about the relationship between the linear coefficient expansion with the shape or the depth of the ER curve, right? So, hope I refresh some memory of yours. You need to know how to analyze or discuss the relation between these two. Okay? So what is linear coefficient extension? and why the average R value is in the middle and why different shapes of this C R curve will give us a good guess of whether we have a larger or smaller coefficient for this linear co uh thermal uh expansion. Okay? So that's pretty much uh what we have went through.
+对，这边。我相信这是上周最难的部分，对吧？当我们谈论线性系数展开与ER曲线形状或深度之间的关系时，对吧？希望我能帮你回忆一下。你需要知道如何分析或讨论这两者之间的关系。明白吗？那么，什么是线性系数扩张？为什么平均R值在中间，为什么CR曲线的不同形状能让我们很好地猜测线性co-u-热膨胀系数是更大还是更小。明白吗？这就是我们大致经历的内容。
+
+
+[2026-09-15 18:37:50]:
+ And we can also make use of this page. This will be where we would start. We'll make use of this page to refresh the classification we talked about last week, providing materials in classic way of classification. They have either metal, ceramic, or polymers. And they still today cover most of the materials surrounding us that we are making use of. Okay. So they have very different primary bondings, which give us a lot of information about, for example, their boiling point, their strength of their bonds, and even things like thermal expansion behaviors, or conductivity. It's all related to what kind of farms were primarily dominating these materials. Alright? And we also have some general reduction from the bonding energy because for ceramics, ionic bonding and choleric bonding are the strongest.
+我们也可以利用这个页面。这里将是我们的起点。我们将利用这个页面来刷新上周讨论的分类，提供经典分类方式的材料。它们有金属、陶瓷或聚合物。而且直到今天，它们仍覆盖了我们周围大多数我们正在使用的材料。好的。它们的初级键特性非常不同，这为我们提供了大量信息，比如沸点、键的强度，甚至热膨胀行为或导电性等。这一切都与哪些农场主要主导这些材料有关。明白吗？我们还有一些来自键合能量的普遍降低，因为对于陶瓷来说，离子键和胆碱键最强。
+
+
+[2026-09-15 18:38:59]:
+ They involve the passing or sharing of electrons, right? Usually, they will have high bonding energy, that means they have a high melting point. So these materials are good for high temperature applications, right? If you want to melt polyber, you need to use at least a metal as a container, right? If you want to melt metal, you're probably going to use a ceramic as a container. But that's a very rough idea. We also have, for example, high melting point polymer, which is particularly useful for things like aerospace applications, where you need things to be flame-resistant, so they can sustain a high-temperature flame, for example, on the rocket surface. And you also want them to be uh as light as possible. Well people go for polymers
+它们涉及电子的传递或共享，对吧？通常，它们具有较高的键能，这意味着它们具有较高的熔点。因此，这些材料适用于高温应用，对吧？如果你想熔化聚醚，至少需要使用金属容器，对吧？如果你想熔化金属，可能会使用陶瓷容器。但这只是一个非常粗略的概念。我们也有例如高熔点聚合物，这在航空航天应用中特别有用，因为需要阻燃性能，使其能够承受高温火焰，例如火箭表面的火焰。同时，你还希望它们尽可能轻
+
+
+[2026-09-15 18:40:04]:
+ Are usually considered having the lowest melting point, right? They have two kinds of bonds, right? Have within the chain, they have covalent bond, but between the chains, they're vandable forces, like second-derminal. Vendable forces are generally weaker, and when you want to bound the polymer, you only need to break the secondary bond. When the molecules can move relatively freely, they're already melted, right? So it's lightly liquid. So, you only need to break one double fossil, so that makes them usually quite low, easily melted. But of course, like I just mentioned, we have some extreme examples. Actually, there are people working on extreme condition materials, particularly for applications like deep sea or aerospace when they are very extreme conditions like pressure, temperature, UV, exposure, things like that. that will make things more complicated.
+通常被认为是熔点最低的，对吧？它们有两种类型的键，对吧？链内有共价键，但链之间是可瓦解力，比如二层皮力。可释放力通常较弱，当你想结合聚合物时，只需断开次级键。当分子能相对自由运动时，它们已经熔化了，对吧？所以它是轻微液态。所以你只需要断开一个双重化石，所以它们通常很低，容易熔化。但当然，正如我刚才提到的，我们有一些极端的例子。实际上，有人在研究极端条件材料，特别是在深海或航空航天等极端条件下，比如压力、温度、紫外线、暴露等极端条件。这会让事情变得更复杂。
+
+
+[2026-09-15 18:41:04]:
+ Okay. So, this will be the summary for the first subtopic that we covered last week. So let's go through this quickly.
+好的。这就是我们上周讨论的第一个子主题的总结。我们快速梳理一下。
+
+
+[2026-09-15 18:41:15]:
+ Property correlation, if we recall, right? So these are all properties, right, of materials. And we believe they can be determined by the electron behavior inside material. And we have especially paying attention to valence electors. Those are the all tertiary electrons which are going to determine activity, conductivity, things like that, even spin stays in some cases, right? And we have primary and secondary bonds, right, that are inside metals, polymers, ceramics, right? And we actually skipped this recent Ionic character. This one and you can also skip that. We don't talk in detail in this course. And we lastly talk about the thermal coefficient coefficient of thermal expansion in the ECR curve.
+如果我们没记错的话，是性质相关性，对吧？这些都是材料的性质，对吧。我们相信它们可以通过材料内部电子的行为来确定。我们特别关注价选子。这些都是三级电子，它们决定了活性、导电性等，有时甚至自旋保持，对吧？我们还有金属、聚合物、陶瓷内部的初级和次级键，对吧？我们实际上跳过了最近的离子特征。这个，你也可以跳过。这门课中我们没有详细讲解。最后我们讲ECR曲线中的热膨胀热系数。
+
+
+[2026-09-15 18:42:24]:
+ Alright. So far so good? Alright, so I see some nodding. Let's move on. Okay, so the next big jump of topic that we have to understand if we come and learn this in our graduate is about crystal structure of materials. Okay, we're surrounded by solid material, right? Don't usually use good material in our daily life. So, most of our material science are actually studying solids, right? You can go as far as something like ionic crystal or liquid metal, but those are usually in constrained situations, right? Don't touch it, we don't drive it, we don't use it.
+好的。到目前为止还顺利吗？好的，我看到有人点头。我们继续。好的，如果我们研究生阶段要学这个，接下来必须理解的一个大跳跃主题是材料的晶体结构。好，我们周围都是固体材料，对吧？日常生活中通常不会用好材料。所以，我们的大部分材料科学其实都在研究固体，对吧？你可以研究像离子晶体或液态金属这样的东西，但这些通常是在受限的条件下，对吧？别碰它，我们不驱动它，也不使用它。
+
+
+[2026-09-15 18:43:07]:
+ So most of the time we're dealing with solids. So, it's important to know some basic things we can define for solvents. And the crystal structure is the most important one. Okay? And another thing is we have moved on from the subatomic level where we talk about electrons, orbitals now, to atomic levels, where we talk about a bunch of atoms. So how they were arranged. This is also how we define solids. Okay? So of course we first need to know uh two concepts about whether this uh solid has a pattern, a repeated pattern that we can actually identify. Right, uh if yes, they're crystalline.
+所以大多数时候我们处理的是固体。所以，了解一些我们可以定义溶剂的基本知识非常重要。晶体结构是最重要的。明白吗？还有一点，我们已经从亚原子层面（现在谈论电子轨道）转向原子层面，也就是一堆原子。也就是它们是如何排列的。这也是我们定义固体的方式。明白吗？当然，我们首先需要知道两个概念，关于这种固体是否有一种我们能识别的重复图案。对，如果有，那它们是晶体的。
+
+
+[2026-09-15 18:43:51]:
+ So it's all crystallinity. If not, they're not crystalline. We're saying non-crystalline, or sometimes we say amorphous. That means they don't have a path for us to see. Right? And uh within the pattern ones, when you can see uh crystallinity, we have a crystal structure that we can identify. That would be like the IT of a mature. would be like material type. You know the personal structure, you know the formula, you pretty much know the material, right? So inside this crystal structure, we will briefly talk about some basic terminology.
+所以这全都是结晶。如果不是，那它们就不是结晶的。我们说的是非晶体，或者有时说是无定形的。这意味着它们没有路径让我们看到。右？在图案中，当你看到结晶时，我们就有一个晶体结构可以识别。这就像成熟的晶体结构。会是材料类型。你知道个人结构，知道配方，基本上知道材料，对吧？在这个晶体结构中，我们简要谈谈一些基本术语。
+
+
+[2026-09-15 18:44:34]:
+ How do you call a point, a direction, and a plane inside a known crystal structure? So, some terminology for you to recall, right? If you learn solid state physics or some related course that you probably already know this. But it's not typical, more like high-schematic. Okay. And then we have some uh uh single crystal and polycrystalline discussion. And then we have some showcase of examples. Just some more new vocabulary for you to get familiar with. Okay, let's get started. Okay, so what is crystalline?
+你怎么把一个点、一个方向和一个平面称为已知晶体结构中的一个？所以，给你一些术语，对吧？如果你学过固态物理或相关课程，你可能已经知道了。但这不是典型的，更像是高原理图。好的。然后我们有一些，呃，呃，单晶和多晶的讨论。然后我们有一些示例展示。给你一些新词汇，方便你熟悉。好了，我们开始吧。好的，那么什么是晶体？
+
+
+[2026-09-15 18:45:19]:
+ What is being crystallized? Crystalline means the atoms in this solid, or in some cases semi-solid, right, are in a repeating or periodic array. So that means if you have this ability to zoom in and see each atom or each ion, you will see that they are repeating themselves in an almost perfect way, right? one by one of our and it seems 3D. Okay, not just one line. It's in all directions. Okay? So, this repeatability of this pattern must have some distance to make it useful, right? If you just repeat by three, we can hardly call whether it's repeating or not. But if you're talking about twelve atoms, right, or even 100, right, that makes some sense.
+什么正在结晶？结晶意味着这种固体中的原子，或者在某些情况下是半固体的，处于重复或周期性阵列中。这意味着如果你能放大看到每个原子或每个离子，你会发现它们几乎完美地重复自己，对吧？一个接一个地出现，看起来像是三维的。好的，不是一条线。它是向各个方向的。明白吗？所以，这种模式的重复性一定有一定的距离，才能有用，对吧？如果你只是重复三次，我们很难判断它是否重复。但如果你说的是十二个原子，对吧，甚至一百个，那就说得通了。
+
+
+[2026-09-15 18:46:15]:
+ So there's just two things that you need to be clear. One is it must be repeating or periodic. The other one is they must be over some large distances. Right? So, in other words, the opposite of it, right, as long as they don't fulfill either one of these criteria, they're not crystalline. So they're non-crystalline. For example, you see some repeating, but only in a short period of time, short period of arrangement, then it's not personal. Although you see some patterns, semi-crystalline. We also have some fancy terms like quasi-crystalline. If you're interested, you can search it by yourself.
+所以你只需要弄清楚两点。一是必须是重复或周期性的。二是必须跨越较远距离。右？换句话说，相反的，只要它们不满足这两个标准中的任意一个，它们就不是晶体。所以它们是非晶体的。例如，你会看到一些重复现象，但只是在短时间内，短时间排列，那就不是个人问题。虽然你会看到一些模式，半晶体。我们还有一些高级术语，比如准晶体。如果你感兴趣，可以自己搜索一下。
+
+
+[2026-09-15 18:46:57]:
+ Okay? So, in other words, we have long-range order that must be existing, and usually this is identified or this is formed during solidification. So, in old times, when this earth is still a chaos, and we have this high-temperature whatever mixture of this rock or other things that they solidify slowly, that forms the land that we're now standing. Have mines, minerals, or all kinds of crystals that we can harvest from nature. We believe those were formed when they were cooled from their high temperature above melting point. So they were random and free before, and then upon solidification, upon solidification, they will become aggregated, they will form bonds. And this formation, if we take it in a gentle or slow manner, they can have this repetitive three-dimensional pattern. Okay, then there must be a three-dimensional matter. Okay, so that was how we define that. Alright, and in terms of materials, categories, right?
+明白吗？换句话说，我们必须存在长距离的有序，通常在凝固过程中会被识别或形成。在古代，当地球仍处于混沌状态时，我们有这种高温的岩石混合物或其他物质缓慢凝固，形成了我们现在所站立的土地。有矿山、矿物或各种我们可以从自然界采集的晶体。我们相信这些晶体是在高温超过熔点时冷却形成的。它们之前是随机且自由的，然后在凝固后，它们会聚集，形成键。如果我们以温和或缓慢的方式观察，这种形成会形成一种重复的三维图案。那么一定存在三维物质。好的，这就是我们定义它的方式。好的，关于材料和类别，对吧？
+
+
+[2026-09-15 18:48:27]:
+ metals, all ceramics, I would say all. Nowadays they have a few exceptions, but we can almost say nine to nine percent, right? And some polymers are crystalline. So that's that's why we need to study, right? Many map materials can be actually repeated if you zoom in. So, as long as we know the repeating unit, we know the whole picture. But actually, that saves our energy. You only need to read a smaller pattern. Alright, so on the contrary, we have non-crystalline. And uh you should know, we also have another term amorphous that we often use when they say it's uh not crystalline, right?
+金属，所有陶瓷，我会说都是。现在有少数例外，但我们几乎可以说9%到9%，对吧？而且有些聚合物是晶体的。这就是为什么我们需要研究，对吧？许多地图材料如果放大，实际上可以重复出现。只要我们知道重复单元，就能了解整体情况。但实际上，这能节省我们的能量。你只需要读取较小的图案。好吧，相反，我们有非晶体。你应该知道，我们还有另一个术语“非晶”，当他们说它不是晶体时，我们经常用它，对吧？
+
+
+[2026-09-15 18:49:13]:
+ That means random or absence of long-range order, right? That means this material does not crystallize. S3BZ, right? Not crystals. And then we don't have this long range order. Okay. Okay, so let me show you one example and why that's important. So this is a classic one. We all know that glass, the major component of glass, is actually silicon oxide. Of course the real glasses are mixtures.
+这意味着是随机的，或者说没有长程有序，对吧？这意味着这种材料不会结晶。S3BZ，对吧？不是晶体。那么我们就没有这个长程有序了。好的。好，那我给你举一个例子，说明为什么这很重要。这是一个经典例子。我们都知道玻璃，玻璃的主要成分，实际上是氧化硅。当然，真正的玻璃是混合物。
+
+
+[2026-09-15 18:49:49]:
+ Mixtures, right? Is we have some ions like sodium or carbonate, right? That the majority backbone are actually sodium oxide, right? But if you ever work in the lab, I will also have a so-called fancier choice of glass, which we call quogs. Like a fox. Right? So this looks just like glass if you don't do any coloring. So they're all both of them are transparent, clear, and shapeable, crystal-like solids, right? But their only difference is they're atomic structures, uh, they're crystal structures, right? So, quads are crystalline silicon dioxide, while glass is amorphous silicon dioxide.
+混合物，对吧？我们有一些离子，比如钠或碳酸盐，对吧？大多数骨架其实是氧化钠，对吧？但如果你以后在实验室工作，我还会有一种所谓的高级玻璃选择，我们叫它“quogs”。比如狐狸。右？所以如果你不做任何着色，这看起来就像玻璃。所以它们都是透明、透明且可塑形的晶体状固体，对吧？但它们唯一的区别是它们是原子结构，呃，它们是晶体结构，对吧？所以，四边形是晶体二氧化硅，而玻璃是非晶硅二氧化硅。
+
+
+[2026-09-15 18:50:39]:
+ Now, this makes a huge difference if you test any of their physical or chemical properties. Their appearance by our naked eyes may be the same. But if you're talking about high temperature applications or high mechanical strength applications, we always look for quads. And of course, costs also have a higher price, so you have to balance. So if you want to, for example, melt something, melt some metal under one thousand degrees Celsius, then we need to buy some very expensive quartz boat, right? And they you can also find pot in some fancy uh wine glass, right? So, they want to show you how crystal clear and how strong is their glass. So you can see chemically they're identical, right?
+如果你测试它们的任何物理或化学性质，这会带来巨大差异。肉眼看它们的外观可能相同。但如果你谈论高温应用或高机械强度应用，我们总是寻找四边形。当然，成本也更高，所以必须权衡。比如说，如果你想熔化某样金属，温度低于1000摄氏度，我们就得买非常昂贵的石英船，对吧？而且你也可以在一些高级的酒杯里找到陶罐，对吧？所以他们想向你展示他们的玻璃有多清澈、有多坚固。所以你能从化学角度看它们是一样的，对吧？
+
+
+[2026-09-15 18:51:36]:
+ They're all Si1, oxygen two, right? So that's one good example, right? The atomic arrangement makes a big difference. Okay. Alright, so what is crystal structure? Crystal structure is the technical name we use to describe this repeating pattern. Okay, if I gave you the formula, I gave you the crystal structure, you can basically draw all the atoms in 3D. you can define the material. That's why we say it's a like an ID, right? So crystal structure is what we try to describe, right?
+它们都是Si1，氧是2，对吧？所以这是一个很好的例子，对吧？原子排列起了很大的作用。好的。那么，什么是晶体结构？晶体结构是我们用来描述这种重复图案的专业名称。好的，如果我给你公式，我给了你晶体结构，你基本上可以画出所有原子的三维结构。你可以定义材料。这就是为什么我们说它像一个智能体，对吧？所以晶体结构就是我们试图描述的，对吧？
+
+
+[2026-09-15 18:52:21]:
+ Either our building blocks or how they are spatially arranged, how they are spatially arranged. Okay? So this when we simplify this material into simple and straightforward symbols, in this case boss, right? It doesn't have to be one atom, one ball. Right. Different people have different ways, and actually, more than one kind of study in action. So we only introduce uh one example, but you should know we have more than that. Okay? So this, depending on the material, for example, if it's silicon oxide, it's very straightforward, right? We only need silicon atom and oxygen atom to be seen.
+要么是我们的构建模块，要么是它们的空间排列方式，是空间上的排列方式。明白吗？所以当我们将这些材料简化为简单直接的符号时，这里是boss，对吧？它不必是一个原子，一个球。右。不同的人有不同的方法，实际上，还有多种研究的实践方式。所以我们只介绍一个例子，但你应该知道我们还有更多。明白吗？这取决于材料，比如说，如果是氧化硅，这非常简单，对吧？我们只需要硅原子和氧原子。
+
+
+[2026-09-15 18:53:14]:
+ So we can draw both atoms like that. Sometimes we have complicated cases. Uh this is one example, right? So actually not that complicated, but uh slightly. So this is actually how we in one way of how we try to describe water molecules arrangement, right? So basically ice, right? So uh from nature I usually see this uh naturally crystallized uh piece of water, uh piece of ice, more specifically. And they're usually this snowflake with this hexagonal shape, right? So, this actually, one way to tell how your atoms may be arranged is actually to check their natural crystals. Naturally, they crystallize in this hazard shape.
+所以我们可以这样画出两个原子。有时候情况比较复杂。呃，这只是一个例子，对吧？其实并不复杂，但有点复杂。所以这其实就是我们试图描述水分子排列的某种方式，对吧？基本上就是冰，对吧？从自然界来看，我通常看到的是，呃，天然结晶的水块，更具体地说是冰块。它们通常是带有六边形形状的雪花，对吧？所以，实际上，判断你的原子排列方式的一个方法是检查它们的天然晶体。它们自然会以危险形状结晶。
+
+
+[2026-09-15 18:54:07]:
+ there's usually has a compact. Yeah, but that's a uh another story. So, when we try to zoom in a single piece of snowflake, for example, and we zoom in, zoom in, and we can simplify this atomic arrangement or molecular arrangement of waters into this. But in this simplified model, each one of these black balls is not uh one atom, it's actually a simplified expression of a whole water molecule. Right? So if we draw it here, it's one oxygen, two hydrogen, right? And remember, they're not linearly linked. They have this degree uh they have this angle. And when they were positioned, they were constrained by this hydrogen bond, right? So they have some directions.
+通常会有一个紧致的。是的，但那又是另一个故事了。所以，当我们尝试放大一片雪花时，比如我们放大，放大，我们可以把水的原子排列或分子排列简化成这样。但在这个简化模型中，每个黑球并不是一个原子，实际上是整个水分子的一个简化表达。右？所以如果我们画这里，是一氧，两氢，对吧？记住，它们不是线性连接的。它们有这个角度，呃，它们有这个角度。当它们被定位时，被这个氢键约束，对吧？所以它们有一些方向。
+
+
+[2026-09-15 18:55:00]:
+ But all these information actually are omitted when we simplify the crystal structure. Okay? This is manually done and you can choose not to do it if you want, right, depending on how precise you want to d define your crystal structure. The normal practices when we have a system that has more than one kind of atoms, especially if we're talking about molecular solid. Now this is one molecular solid. Uh so that means the smallest building block is a molecule. Right? We also have atomic solid or ionic solid, right? So well you kind of call it like this. we have this uh simplification.
+但当我们简化晶体结构时，所有这些信息实际上都被省略了。明白吗？这是手动完成的，你可以选择不做，对吧，取决于你想多精确地定义晶体结构。当我们有一个包含多种原子的系统时，尤其是当我们谈论分子固体时，通常会采取的做法。现在这是一个分子固体。呃，这意味着最小的构建单元是一个分子。右？我们还有原子固体或离子固体，对吧？所以你可以这样称呼它。我们有这个，呃，简化。
+
+
+[2026-09-15 18:55:45]:
+ We ignore how this molecule arranges itself, but we simplify the this whole molecule to one point or one sphere. Okay? So right, like we just did, right? So atoms or ions and also actually also molecules. Molecules, right? They're often thought of as solid spheres. And uh that's not all, right? So for example here you see some black solid lines connecting these ducts. And this whole sphere is not really packed, but we have purposely leaved some space. We call this ball on the stick model.
+我们忽略了这个分子如何排列，而是把整个分子简化为一点或一个球体。明白吗？所以，就像我们刚才做的那样，对吧？原子或离子，实际上还有分子。分子，对吧？它们通常被认为是实心球体。而且，呃，这还不是全部，对吧？比如这里你可以看到一些黑色实心线连接着这些管道。这个球体其实并没有真正堆满，但我们故意留了一些空间。我们称之为棒球模型。
+
+
+[2026-09-15 18:56:39]:
+ Right ball on stick model. Ball on stick. Right, ball and stick model. And uh but um later on we're gonna mainly focus on metals. simplest example. On metals, we're using another model which is called hard sphere model. So hard sphere model has a very simple rule that we want the nearest neighboring atoms to touch one another. So there's no sticks. There's only a balls. And the balls are purposely enlarged.
+右边的棒球模型。棒球模型。对，球棒模型。呃，但稍后我们主要关注金属。最简单的例子。关于金属，我们使用另一种模型，叫做硬球模型。硬球模型有一条非常简单的规则，我们希望最近的邻近原子相互接触。所以没有棍子。只有球体。球体是故意放大的。
+
+
+[2026-09-15 18:57:34]:
+ So, the closest ones are touching each other. Okay, this will help you feel how the space is being filled. But it will sometimes blow out your vision, so you don't see what's behind it. Okay, so there are good things and bad things on both models. Okay. Don't worry, you'll see some real examples very soon, so you will know what they are about. Okay, so some more um knowledge. I think most of these you are in London, so just recap what's that about. So, metals, if you recall, they're primarily formed by metallic bonds, which are non-directional. That means we don't have a preferred way of orienting the metal ions.
+所以，最近的它们是相互接触的。好的，这会帮助你感受到空间被填补的状态。但有时会让视线模糊，所以你看不到它背后是什么。好的，这两个模型都有优点和缺点。好的。别担心，你很快就会看到一些真实例子，这样你就会知道它们的原理了。好的，那就是更多的知识。我想你大多数都在伦敦，所以简单总结一下那是什么。所以，金属，如果你还记得，它们主要由金属键形成，而金属键是无方向的。这意味着我们没有一种偏好的金属离子定向方式。
+
+
+[2026-09-15 18:58:22]:
+ And they are actually in a sea of electrons. So, in the technical term, the valence electrons, because many of them are in the D-block, remember, we have a lot of de-block electrons that are not fully filled. So these electrons become highly localized, delocalized, highly delocalized. So they're actually moving around as if they're C. And our metal ions, they form the matrix. They don't move where they were locally constrained. electrons are totally freely shared. So you don't tell which electr which uh atom this particular electron comes from. it's all mixed up. Now because of these two facts, right?
+它们实际上处于一片电子海洋中。所以，从专业术语中讲，价电子，因为很多电子都处于D块，记住，我们有很多去阻挡电子并未完全填满。这些电子变得高度局域化、离域化、高度离域化。它们实际上像在碳中一样移动。我们的金属离子形成了矩阵。它们不会在局部受限的地方移动。电子是完全自由共享的。所以你无法判断这个电子来自哪个电荷原子。一切都混杂在一起。现在因为这两个事实，对吧？
+
+
+[2026-09-15 18:59:05]:
+ Because of these two facts, we can figure out a way to construct metal ions or metal atoms. Because we don't have a restriction of direction, and electrons are working like a grease oil, so they can make everything move very nicely. So we can basically imagine a space, but imagine a case where we have all our atoms packed as close as possible. So that's also why most metals are densely or closely packed, right? There's no other restriction. You're talking about an ionic solid, then we have to balance the charge, right? We have to make sure the positive stay with negative, negative stay with positive. you don't pull too positive together, right? So there's more restrictions. For metal we we have numbers. Okay?
+基于这两个事实，我们可以找到构造金属离子或金属原子的方法。因为我们没有方向限制，电子像润滑脂一样工作，所以它们能让一切运动得非常顺畅。所以我们基本上可以想象一个空间，但想象一个所有原子尽可能紧密地堆积的情况。这也是为什么大多数金属是密集或紧密排列的，对吧？没有其他限制。你说的是离子固体，那我们必须平衡电荷，对吧？我们必须确保正极和负极保持，负极保持正极。你不会把正极拉得太紧，对吧？所以有更多限制。对于金属，我们有数字。明白吗？
+
+
+[2026-09-15 19:00:06]:
+ So, under this dense packing presumption, we have two kinds of crystal structures that are well known. One we call phase center cubic, short for FCC. The other one called Hassagnal Clilt Pact, HCP.
+因此，在这种致密堆积假设下，我们有两种众所周知的晶体结构。一种我们称之为相中心立方晶体，简称FCC。另一种称为哈萨尼亚尔层契约（HCP）。
+
+
+[2026-09-15 19:00:56]:
+ For the CCP hasn't maximum copper. My finger is easier to read. Right. This one has another nib. It's called C C T. Alright, so uh cubic close path. Okay, so I think we have another place showing up somewhere. Sorry. Yeah, over here. So uh don't worry, we have some place to to show you what is CCP.
+对中共来说，铜不是最大。我的手指更容易看懂。右。这个还有另一个笔尖。叫做C C T 好的，呃，立方密路径。好的，我想我们有另一个地方出现了。抱歉。是的，就在这边。所以，呃，别担心，我们有地方可以给你展示什么是CCP。
+
+
+[2026-09-15 19:01:27]:
+ Okay? And we also have very few examples of non-closed packed persistent structures. One called body center cubic, BCC equals short, and sample cubic, SC for short. Okay? So the normal metals, right, like I think 80-90% belong to either one of these closed-packed ones. But we do have a few methods that adopt these two crystal structures. Okay. Now, let's try to get a closer look on the two close-packed ones, since they're the majority. Right? So, what's their differences, for example?
+明白吗？而且我们也很少有非封闭堆积的持久结构例子。其中一种叫做体心立方结构，BCC等于短结构，样品立方体，简称SC。明白吗？所以普通金属，我认为大约80-90%属于这两种封闭堆积结构中的任意一种。但我们确实有一些方法采用了这两种晶体结构。好的。现在，让我们更仔细地看看这两种紧密堆积的结构，因为它们占了多数。右？那么，他们有什么区别呢？
+
+
+[2026-09-15 19:02:13]:
+ Now, I usually try to explain this by first law thinking about a 2D condition. So imagine now we have a flat desk, and on the desktop, you're given a bunch of balls, which are only exactly the same, but they're free to move. they're hard, they cannot become fast, right? Now, which one of these, for example, do you think is the closest way of packing
+我通常试图用第一定律来解释，思考二维条件。想象一下，现在我们有一个平坦的桌子，桌面上有一堆球，它们完全相同，但可以自由移动。它们很硬，不能变快，对吧？那么，你认为哪一种最接近的打包方式
+
+
+[2026-09-15 19:02:49]:
+ Who thinks it's the first one
+谁会认为这是第一个
+
+
+[2026-09-15 19:02:54]:
+ Who thinks it's the second one? So the rest think it's the third one. Who think is the third one? Okay, who think there is a fourth one? No? Okay. So, from those of you who have raised your hand, the majority chose the second one, which is correct. Okay, so the second one is theoretically how closest you can pack balls of the same radius on a 2D arrangement. Okay, so we call them hazard in a closed pact. Right, so that's in 2D, right? The column's working right there anyway.
+谁认为是第二个？其他人认为是第三个。谁认为是第三个？好，谁认为还有第四个？没有？好的。那么，在举手的朋友中，大多数人选择了第二个，这是正确的。好的，第二个理论上是你能在二维排列中将半径相同球最接近的范围。好的，我们在封闭协议中称它们为hazard。对，那就是二维的，对吧？反正那个柱子就在那儿工作。
+
+
+[2026-09-15 19:03:42]:
+ So it's uh in two D we call an hyzakinophat. Okay? So, this gets slightly interesting when you try to move on from 2D to 3D, right? So we can now start to make use of this metal layer, right? we start to pack the mouth. So vertically, how do we pack them up? Okay? So that's where things become different. Okay? So here we have some uh terms that I'd like to return and explain later.
+所以在二维中，我们称之为hyzakinophat。明白吗？当你试图从二维过渡到三维时，这会有点有趣，对吧？所以我们现在可以开始利用这层金属了，对吧？我们开始填塞口部。那么垂直方向，我们怎么把它们收紧？明白吗？这就是事情变得不同的地方。明白吗？这里有一些术语，我想稍后再回来解释。
+
+
+[2026-09-15 19:04:16]:
+ Okay, so let's follow this two D to three D packing story first. Okay, I will come back. Okay. Oops. Right. Now, this is not the major goal of this course, but I still like to take a very short explanation. Now, if you try to look at the left and right hand side, the white one on the bottom, that's our layer one. Okay? So that's our layer one. I always say layer eighth.
+好，那我们先跟着这个从二D到三D打包的故事。好，我会回来的。好的。哎呀。右。这不是本课程的主要目标，但我还是喜欢做一个非常简短的解释。现在，如果你试着看左右两侧，下面那个白色的，那就是我们的第一层。明白吗？那就是我们的第一层。我总是说第八层。
+
+
+[2026-09-15 19:04:48]:
+ Like we wrote over here, right? So now it starts to position our second layer. If you think about it, right? putting one ball directly on top of the bottom layer. But I will push this light into the balance position, which actually is in the middle of a triangle, or I can actually sit lower. Right? I can sit lower and I'm touching all the three balls together. That's the closest I can get. Right? So that explains the black boss.
+就像我们这里写的，对吧？现在它开始定位我们的第二层。你想想看，对吧？把一个球直接放在最底层的上面。但我会把这个灯推到平衡位置，实际上在三角形的中间，或者我可以坐得更低。右？我可以坐得更低，同时把三个球都接触在一起。这是我能做到的最接近的距离。右？这就解释了黑色Boss。
+
+
+[2026-09-15 19:05:34]:
+ They are the B layer. So, if you look at A layer, B layer, there's only one kind of arrangement. Now, things get interesting when you start to put on your third layer. Okay?
+它们是B层。所以，如果你看A层，B层，只有一种排列方式。现在，当你开始加第三层时，事情就变得有趣了。明白吗？
+
+
+[2026-09-15 19:05:49]:
+ So, if I choose this one, for example, maybe, yeah, this one, maybe this one is better. So if I choose this uh black triangle as my new bottom layer, now I start to put my third layer, which would use the white ball again to explain. Now, you may think it's the same where I put this white ball, right? So, if you imagine, I remove this one. Have one, two, three, four, four positions where I can sit. Actually, it doesn't matter where I sit. I will always be close fact. Now, the things are slightly different because now we have a relative position with respect to the first layer. Okay? Because if I put my white ball as what is written uh drawn over here, the C position, you will find out that this C position does not exist from my A layer.
+比如说，如果我选了这个，也许，是的，这个，也许这个更好。如果我选这个黑色三角形作为我的新底层，现在我开始放第三层，这又会用白球来解释。你可能以为我放白球的位置也是一样的，对吧？所以，如果你想象，我去掉这个。我有一个、两个、三个、四个位置可以坐。其实，我坐哪里其实无所谓。我总是保持接近事实。现在情况稍微不同，因为我们相对于第一层有一个相对位置。明白吗？因为如果我把白球放在画在这里，也就是C位置，你会发现这个C位置在我的A层中不存在。
+
+
+[2026-09-15 19:06:53]:
+ This position is new. Okay, if you take a projection view, if I push the C-ball down for two layers, I push it to layer A, I realize it doesn't overlap with any of my balls in layer A. Okay, so this is the slight difference. And alternatively, if I don't put it here, I put it here, right? This zash line. This dashed line is another choice I can put here, right? It's still close-packed? Now, this dashed line, if you take it doing this one with this corresponding atoms from layer A, you realize this is right on top of one white ball on first layer. So it's just like you shift the layer A up without any shifting to the lateral direction and only pull it up from layer A to layer another layer A. Right?
+这个位置是新的。好，如果你用投影视图，如果我把C球往下推两层，推到A层，我发现它和A层里的任何球都没有重叠。好，这就是细微的区别。或者，如果我不放这里，我就放这里，对吧？这条扎什线。这条虚线是我可以放这里的另一个选项，对吧？它还是紧密排列的吗？现在，这条虚线，如果你用对应的原子做这条，你会发现它正好在第一层的一个白球上。所以就像你把A层往上移动，但没有横向移动，只是从A层拉到另一层A。对吧？
+
+
+[2026-09-15 19:07:54]:
+ So this is true if you also if you put it here or here, right? Just not here. Only this position is new. Okay? But if you feel this one, you can't feel this anymore. Right? Your next layer C light bulb will be somewhere outside, right? because this is already overlapping. Right, so imagine you feel one ball here, you can't feel these through anymore, right? So these were already blocked away.
+所以如果你放这里或这里，这也是真的，对吧？只是不是这里。只有这个位置是新的。明白吗？但如果你感觉到这个，你就感觉不到这个了。右？你下一层C的灯泡会在外面，对吧？因为这里已经重叠了。对，想象一下你感觉到这里有一个球，但你感觉不到它们穿透了，对吧？所以这些球已经被挡住了。
+
+
+[2026-09-15 19:08:26]:
+ So this slight difference uh make us have to rename this new position called position C or later C. Okay? So, this is another view. If we don't have position C, we have position A. So it's A B A like this. Right? So this is one way we can continue work on that. AB AB AB ABABB, whatever. And this is how we get has agonal coins factors. Okay?
+所以这个细微的差别让我们不得不把这个新位置重新命名为位置C，或者后来叫做C。明白吗？这是另一种视角。如果没有位置C，我们就有位置A。所以就是这样叫A、B、A。右？所以这是我们继续研究的一种方式。阿布阿布阿巴布，随便什么。这就是我们得到阿戈纳尔硬币因子的原因。明白吗？
+
+
+[2026-09-15 19:08:56]:
+ From any way you cut this one, you s you you try to read the pattern, you only see two kinds. Either A possessions or B positions. You don't see a C condition. So, alternative layers are just copying each other. Their protections to each other. But if you look at ABC or packing, right? But once you identify a layer A and identify layer B, you can never find the same position from your third layer, you know it's your layer C. So you know, this is actually it will actually repeating continuously, ABC, ABC, ABC, like that. Okay? So again, why we have this layer C because it doesn't coinify with layer A or layer B.
+无论你怎么看，如果你试图解读这个模式，你只看到两种类型。要么是A的占有，要么是B的位置。你看不到C的状态。所以，替代层只是相互复制。它们之间的保护。但如果你看ABC或包装，对吧？但一旦你确定了A层和B层，你就永远找不到第三层的相同位置，你知道那是你的C层。所以你知道，这实际上会不断重复，ABC、ABC、ABC，就像这样。明白吗？所以我们为什么有C层，因为它与A层或B层不一致。
+
+
+[2026-09-15 19:09:54]:
+ It's a new layer, isn't it? This question of the relative position, right? Still, you may want to know if we have a D or not. For you, we actually don't. because you can either find these two conditions, right? If you say it here, you'll see. You're sitting here, you're eight, but if you're sitting here, it's a again, right? If we only have one ball here, we can't feel this anymore, but we can feel these two, right? So it's again eight, right? So, in the whole cost packing counting mechanism, there are only three letters.
+这是新的层，不是吗？关于相对位置的问题，对吧？不过，你可能想知道我们是否有D。对你来说，实际上没有。因为你可以找到这两个条件，对吧？如果你在这里说，你会看到。你坐在这里，你是八，但如果你坐在这里，是又是a，对吧？如果这里只有一个球，我们就感觉不到这个了，但我们能感觉到这两个，对吧？所以又是八，对吧？在整个成本打包计数机制中，只有三个字母。
+
+
+[2026-09-15 19:10:29]:
+ If you define the first layer A, second layer B, and the third one is either the same from the first one, or it's a new one. And the fourth one will definitely go back, right?
+如果你定义第一层A，第二层B，第三层要么和第一层一样，要么是新的。第四层肯定会回去，对吧？
+
+
+[2026-09-15 19:10:40]:
+ Because that's how many kinds of C's we have. All right. Okay. My main discipliner. So, another way is another thing is, although they're they're identified by this, right, when we try to extract their unit though. So let me come back to the definition of unicell. Unicell is when you meet the crystal, you try to decipher it. You want to find out the smallest repeating units, and that carries all the information to build up the whole crystal. So that's the I think copper, right? Feel collaborative, right?
+因为我们有那么多种C。好的。好的。我主要的负责人。另一种方式是，虽然它们被识别出来，但当我们试图提取它们的单元时，它们是通过这个来识别的。让我回到单晶体的定义。单晶体是指你遇到晶体时，试图解读它。你想找出最小的重复单元，而这些单元承载了构建整个晶体的所有信息。所以这就是我认为的铜，对吧？感觉很协作，对吧？
+
+
+[2026-09-15 19:11:22]:
+ So that's the fingerprint. Can actually make use of this to define a crystal. And the unicell something we actually learn from nature, learn from known crystals, right? So, it's an observation science, right? You see it, you study it, you decipher all the atoms' positions, and you conclude with a unicell. So when people try to find out what is the unicell for HCP and APSI sequence, this is how it looks like. HTV is very straightforward. A B A layers, wide written right over here. But for the FCC one, right, why we call it FCC? Because it tends out to be a cubic repeating unit.
+这就是指纹。实际上可以利用它来定义晶体。而单胞体则是我们从自然界中学到的，从已知晶体中学到的，对吧？所以，这是一种观测科学，对吧？你看到它，研究它，解码所有原子的位置，最后得到一个单胞体。所以当人们试图找出HCP和APSI序列的单胞体时，它看起来就是这样。HTV非常直观。A B A层，宽写在这里。但对于FCC的那个，为什么我们叫它FCC？因为它倾向于是一个立方体重复单元。
+
+
+[2026-09-15 19:12:07]:
+ Okay, so if you want to emphasize the way they're both packed, you can call it CCP, right? If it's just one letter different from HCP, right? So this is a cubic postparte, this is a hydrogenal postparte. But if you want to emphasize the shape of their unit cells, we usually say absolutely because face center cubic, we're talking about this is a cube, and on each face, the cube has six faces. Why you should know this, okay? Okay, six phases, and then in each center of these bases, we have one atom. So we say face centered. Okay, and similar to this, we have body-centered, and that means we only have one ball which is in the center of the body of the cube. This is on the surface. Okay.
+好的，如果你想强调它们的排列方式，可以称之为CCP，对吧？如果它和HCP只换一个字母，对吧？所以这是一个立方后分体，这是一个氢后分体。但如果你想强调它们晶胞的形状，我们通常说绝对的，因为面中心立方体，我们说的是立方体，每个面上立方体有六个面。你应该知道这个，好吗？好，六个相，然后在这些碱基的每个中心，我们有一个原子。所以我们说面中心。好，类似这里，我们有体心，这意味着我们只有一个球体在立方体的中心。这是在表面。好的。
+
+
+[2026-09-15 19:13:01]:
+ So here's the full name of the CCT, right? We seldom use it, but it's good to know. All right. So far so good? Okay, great. So let's do some examples. Okay? Say-centered cubic is the most common unicellular message, okay? The lowest one. Many transition metals drop the space in a good one.
+这是CCT的全名，对吧？我们很少用，但知道了还是有帮助。好的。到目前为止还好吗？好的，太好了。那我们来举几个例子。好吗？比如说，中心立方体是最常见的单细胞信息，好吗？最低的那个。许多过渡金属会在好信息中降低空间。
+
+
+[2026-09-15 19:13:31]:
+ So now I'm showing here a perfect example of far-sphere model. I will form a stick model. Okay, especially the heart sphere one, right? You look at this one compared to the one we show you just now, right? Which is, so this one is actually not so corrupt because they draw all the atoms in the whole sphere. But you know, for a unicell to be able to perfectly repeat itself, that means all the balls and the edges or surfaces are not flowing whole sphere, but they must be shared by the neighboring unicell. So, you can only see it far, to speak. Right? So, if you, for example, have a big mirror image, right, if you flip over this thing, then this half-sphere becomes a whole sphere, right? So, if you want to have a perfectly sprint definition of repeating itself, you can't go almost very clearly.
+现在我在这里展示一个完美的远球模型示例。我将构建一个棒状模型。好的，特别是心球模型，对吧？你把这个模型和我们刚才展示的对比一下，对吧？这个模型其实并不算太严重，因为它们绘制了整个球体中的所有原子。但你知道，要让单胞体能够完美重复自身，这意味着所有球体和边缘或表面都不是流动的整个球体，而是必须与相邻的单胞体共享。所以，你只能远距离看到它。右？比如说，如果你有一个很大的镜像，对吧，如果你翻过这个东西，这个半球体就变成了一个完整的球体，对吧？所以，如果你想要一个完美的冲刺定义来实现重复，你几乎不能非常清楚地去。
+
+
+[2026-09-15 19:14:33]:
+ has to be uh something like this. Right, so all the items are part based on their actual shares to this user item, okay? Okay, so you can actually find some clues here, right? But again, the drawback is you can't see this is through.
+应该是这样的。对，所有物品都是基于它们对该用户物品的实际共享来划分的，明白吗？好的，所以你实际上可以在这里找到一些线索，对吧？但同样的缺点是你看不到它已经完成了。
+
+
+[2026-09-15 19:14:53]:
+ That's your more friendly version. If you want to draw it on your draft paper, this one will be nicer. So let's do this one first. Right, so think about this, right? Well, for example, this atom, this is a corner atom, right? So we have a cube, which means we have eight corners, right? And each colour has one item, right? But all these eight atoms don't belong fully to this unit cell. Now think about it. If I shift this slide alternatively to the 3D space, how many atoms, how many human cells are sharing this covenant?
+这是你更友好的版本。如果你想在草稿纸上画，这个会更好。那我们先画这个。好，想想这个，对吧？比如说，这个原子，这是一个角原子，对吧？我们有一个立方体，也就是说我们有八个角，对吧？每种颜色都有一个元素，对吧？但这八个原子并不完全属于这个单元格。现在想想它。如果我把这张幻灯片反向移动到三维空间，有多少原子，有多少人类细胞共享这个契约？
+
+
+[2026-09-15 19:15:36]:
+ Eight. I hear eight. Any objections? Right. So, if you haven't done this, try to use some three-dimensional imagination. Let me use this one for example, right? So, I can draw another cube over here. So, these two are sharing, and I can draw another two in the front. So forgive my not so uniform drawing
+八。我听到八。有人反对吗？右。所以，如果你还没做过，试着用点三维想象力。让我用这个例子，对吧？这样，我可以在这里画另一个立方体。这两个是共用的，我可以在前面画另外两个。所以请原谅我画得不太均匀
+
+
+[2026-09-15 19:16:09]:
+ Oh, this is really advocate. You can appreciate that, right? I am drawing four human cells which are showing this one, but that's not all. I have another four right on top, right? So each corner is shared by eight user cells. And I think you can pretty much easily understand that of each phase, atoms are shared by two in the cells, right? Because it's on the space. So we can have only have a neighbor one that is sharing this. Right? So that's how you get a half sphere looking like this, and you get a 1/8 sphere looking like this, right?
+哦，这真是个倡导者。你能理解吧？我画了四个人类细胞，它们显示的是这个，但这还不是全部。我上面还有另外四个，对吧？所以每个角落被八个用户细胞共享。我觉得你很容易理解，每个相的原子是细胞内两个细胞共享的，对吧？因为它在空间上。所以我们只能有一个邻近的细胞共享这个。右？所以这就是你得到半球长这样，而1/8球看起来就是这样，对吧？
+
+
+[2026-09-15 19:16:51]:
+ So, one eight for the corners and half for the face and rewards. Okay, so you repeat that these three, you get this, or you get this alternative.
+所以，角值一个八，脸和奖励各半。好，你重复这三个，你得到这个，或者你得到这个替代。
+
+
+[2026-09-15 19:17:07]:
+ Well, time flies. Let's have a break first. Please come back at uh seven thirty
+嗯，时间过得真快。我们先休息一下。请回来告诉我
+
+
+[2026-09-15 19:30:38]:
+ They come into Canvas, some of you first time in Hong Kong, and things get stressful somehow. And there are always students they harm themselves in some ways. So, there's some statistics every year, every September of this year. I just saw some of you. So I'd like to take this chance to remind you all guys, right? So, first of all, be aware of scams. I think they have with Keith Clemy telling you this, right? This term, because we do have some bad stories from the past years. And I think one of the students from mainland actually last year they jumped out of the bridge because they were hearing a very heavy scam, also got some money. But first of all, beware of that.
+他们来到Canvas，有些人是第一次来香港，事情会变得有些压力。总会有学生以某种方式自残。所以，每年九月都会有一些统计数据。我刚看到你们中的一些人。所以我想借此机会提醒大家，对吧？首先，要警惕诈骗。我记得Keith Clemy跟你们说过这些，对吧？这个学期，因为过去几年我们确实有一些不好的报道。我记得去年有个大陆的学生因为听到一个很严重的骗局，跳桥了，也拿到了钱。但首先，要小心这个。
+
+
+[2026-09-15 19:31:26]:
+ Second, even if there are some frustrations as big as that, right? be hosted. Okay, and CHK have very good mental supporting systems. You can actually look for totally confidential mental advisory, right? So, nobody will expose anything to the university or to the professor without your consent. So feel free to talk to them if you need, right? If you feel stressful in any way, I need the alignment or anything else. Okay, hopefully none of you have discussed it. All right, so let me continue. So I took the break to show this unicell packing in case you haven't understood fully why a cornerball is shared by eight unicells.
+其次，即使有些很大的挫折，对吧？也要被接待。好的，CHK有非常好的心理支持系统。你实际上可以寻找完全保密的心理咨询，对吧？所以，未经你同意，没人会向大学或教授透露任何信息。所以如果你需要，随时可以和他们谈谈，对吧？如果你感到任何压力，我需要对齐信息或其他任何东西。好的，希望你们没人讨论过。好，那我继续说。我趁机展示了这个单细胞包装，以防你们还没完全明白为什么一个角落球会被八个单细胞共享。
+
+
+[2026-09-15 19:32:19]:
+ Join exactly uni cells with the blue ball in the middle, which is a corner ball to each uni cell that is shared by all these elegant. Now for a red one, which is the face center one, right? So it's shared by on the 2D Missoula, right? for your reference. Okay. So what we have missed just now two managements. One is lattice, the other one is coordination number. So, lattice is less used in this course, but it's quite often used in some first-line material systems. It describes most of the time a three-dimensional rate where the atoms or molecules are positioned, right? Sometimes they're molecules, right?
+将正好连接一个单胞子，中间的蓝色球是每个单胞的角球，所有这些优雅的单元格共享。现在说一个红色的，它是面中心的，对吧？所以它是二维米苏拉图中共享的，对吗？供你参考。好的。我们刚才遗漏了两个管理方法。一个是晶格，另一个是配位数。格点在本课程中使用较少，但在一些一线材料系统中却经常使用。它大多数时候描述的是原子或分子的位置三维速率，对吧？有时它们是分子，对吧？
+
+
+[2026-09-15 19:33:11]:
+ This is how to draw this and remember how to buy it. The molecules, and we usually just care about we extract everything, we only leave the point so we can see the 3D network. Okay, standard use letters. We talk about lattice grain, we talk about lattice symmetry. That's when we use the lattice. It's more like the extracted mass term that we use that will describe the 3D topology. And we have coordination number. I need to highlight this because I think so many of you are from chemistry. Chemistry has a different definition of coordination number.
+这就是如何绘制它，以及记住如何购买它。分子，我们通常只关注提取所有东西，只留下点以便看到三维网络。好的，标准用字母。我们谈论晶格晶粒，讨论晶格对称性。这时我们使用晶格。更像是我们用的提取质量项来描述三维拓扑。我们有配位数。我需要强调这一点，因为我觉得你们很多人都是化学领域的。化学对配位数有不同的定义。
+
+
+[2026-09-15 19:33:57]:
+ Really resources for the nation chemistry. In metals, coordination number refers to the number of nearest atoms, right? So, it's nothing to do with coordinating. It's just about counting the closest atoms. If you're talking about hardball model, then you're counting the atom that is touching to the atom of your interest. Okay, because touching is the closest one. That's by definition. Okay, so this becomes important in metals because this is metals are altogether pale. Is one of the few parameters that we can actually differentiate one position from the other. Okay, so for example, for FCC we just talked about, right?
+这对全国化学来说是资源。在金属中，配位数指的是最近的原子数量，对吧？所以，这和协调无关。它只是计算最近的原子。如果你说的是硬球模型，那么你是在计算与你感兴趣原子接触的原子。好的，因为接触是最接近的。这是定义上的。好的，这在金属中变得重要，因为金属整体颜色较浅。这是我们少数能够区分不同位置的参数之一。好，举个例子，对于FCC，我们刚才谈过，对吧？
+
+
+[2026-09-15 19:34:48]:
+ If you choose any atom from this middle or somewhere of this lattice, like you can count a coordination number of the curves. That's a big one, right? That means there are 12 atoms that is touching my center ball. Okay. So, if you don't know how to count over that in hong, I hope, okay? We don't have time for that, but just to give you some hints, right? You use this one, it's easier for you to count, okay? you have ABC, right? So for example, you just see, I think imagine all the atoms on top, right? Common shopping one, you come on the surrounding one, you come on top one, layer by layer.
+如果你从这个中间或晶格的某个地方选一个原子，比如你可以数出曲线的配位数。那是个大点，对吧？这意味着有12个原子接触着我的中心球。好的。所以，如果你不会在hong里数这个，我希望可以，好吗？我们没时间做这个，但给你一些提示，对吧？你用这个，数起来更容易，好吗？你有ABC，对吧？比如说，你看，想象上面所有的原子，对吧？普通的购物，你走到周围的，你一层一层地往上走。
+
+
+[2026-09-15 19:35:27]:
+ That makes it things easier. Okay, so coordination number itself, we also are theoretically the highest coordination number we can get, which by the way must be an integer, right? So it must be a phone number. So another thing is about a relationship, a relationship between the radius of the atom. This is the atomic radius. Right, so this is how many radius
+这让事情变得更简单了。好的，那么配位数本身，理论上我们也是能得到的最高配位数，顺便说一句，这必须是整数，对吧？所以它一定是一个电话号码。还有一点是关于原子半径之间的关系。这是原子半径。对，这就是半径的数量
+
+
+[2026-09-15 19:36:17]:
+ This is A, right? R-A-B-I-U-S. And the other one is about the letter is constant A
+这是A，对吧？R-A-B-I-U-S。另一个是关于字母常数A的
+
+
+[2026-09-15 19:36:30]:
+ And lettuce constant is a tremulous term. you can use that constant for all the UV cells. So, in the case of the Q, that this constant is also the left adjunct of the Q. Okay, so what's the relation between atlanta of this unicell and the radius of the one atom? Right, so here's the relationship. We already have A the conclusion, right? A just to two square root of two r. Okay, and why is that? Right? So we're gonna have to sound out.
+生菜常数是一个颤动项。你可以用这个常数来表示所有紫外单元。所以，对于Q来说，这个常数也是Q的左助补。好的，那么这个单胞体的亚特兰大与单个原子的半径之间的关系是什么？对，关系如下。我们已经有了结论A，对吧？A与2 r的平方根。好的，为什么会这样？右？所以我们得好好探查。
+
+
+[2026-09-15 19:37:12]:
+ Sorry. I'm fighting with this computer. Okay, so if you look at the thing I draw here, or this one on the left side also helps, right? So I'm drawing the top view of a unicell and I have one full ball right which is right by half. So I'm looking at its larger cross-section. And then another four, but I told you from the four corners, just like this one. I'm simply applying this to the surface. So, uh, this thing happens to be right a q with the accuracy of a, which is straightforward. Now, because it's a higher scale bomb. So we know atoms that are closest to each other will touch each other, right?
+抱歉。我正在和这台电脑打交道。好，如果你看我画的这个东西，或者左边的这个也有帮助，对吧？我画的是单胞体的顶部视图，右边有一个完整的球体，正好是半个。所以我在看它的较大截面。然后还有四个，但我告诉过你，从四个角，就像这个一样。我只是把这个应用到表面上。所以，呃，这个东西恰好是个q，精度和a一样，这很简单。因为这是一个更高比例尺的炸弹。所以我们知道彼此最近的原子会接触，对吧？
+
+
+[2026-09-15 19:38:06]:
+ And we know it's close packing in this direction, which is diagonal of the cube, right? So we know that I want to fall so this line is touching each other. And then I simply need to count how many sections I can divide it. It happens to be four radius, right? One whole diameter and two more radius at a total of four radius. All right, that's it's only tall scope because they're touching each other. Right in this direction. This 4 bar is a diagonal of this cube. So what's a diagonal cube with which affirms is one? This should be sparing tools, right?
+我们知道它在这个方向紧密堆积，也就是立方体的对角线，对吧？所以我们知道我想让这条线彼此接触。然后我只需要数一下能分成多少截面。它恰好是四半径，对吧？一个整径，加上两个半径，总半径是四。好，这只是因为它们彼此接触才叫高瞄准镜。就在这个方向。这个4杆是这个立方体的对角线。那么，一个肯定为一的对角立方体是什么？这应该是备用工具，对吧？
+
+
+[2026-09-15 19:38:52]:
+ So this is high school math again. Wonder how do you say that? That's why we have this correlation, right? Diagonal of this cube for this square would actually have four radius. So if you simply divide both sides by square two, you get that one. Divide square and two, but both sides, you get this parallel on the top. Okay, now we're showing one example here that I believe you're able to deduce on allocations, right? So, in all the other cases, we no longer have FCC. Then you have to find out where I can find this line where balls are touching each other. Because only when I find this direction, I can actually count this distance by the number of radius. Right.
+这又是高中数学。不知道怎么说的？这就是为什么我们有这个相关性，对吧？这个立方体的对角线实际上有四半径。所以如果你简单地用二除以两边，得到那个半径。把平方和二除以，但两边都得上方的平行。好了，现在我们展示一个例子，我相信你能推断出分配，对吧？所以在其他所有情况下，我们不再有FCC。然后你得找出哪里能找到这条球相互接触的线。因为只有当我找到这个方向时，我才能用半径数来计算这个距离。右。
+
+
+[2026-09-15 19:39:43]:
+ And it's definitely inside a cube or transit or something. So, I give you edge, you can divide expression, right? So the sentence is expressed by either the radius or the lattice constant, then you find their origination. But there's always a correlation, right? Or something like this. Okay, so similarly, we can derive such a relation for a hasagnocle fact, right? Not going into detail for this one, right? But again, because it's also the closest packing, coordination number is also 12. Okay, yeah, feel free to count that. And the unicell of Hasaknoc Path, there are actually more than one kind, the way of joining.
+而且它肯定在立方体或过境之类的东西里。所以，我给你一个优势，你可以用整分表达式，对吧？所以句子可以用半径或晶格常数来表示，然后你找到它们的起源。但总会有相关性，对吧？或者类似这样的说法。好，类似地，我们也可以推导出哈萨格诺克尔事实的关系，对吧？这个我不详细说了，对吧？但同样，因为它也是最近的排列，配位数也是12。好的，是的，可以随意数一下。而哈萨克诺克路径的单胞体，实际上有不止一种类型，就是连接方式。
+
+
+[2026-09-15 19:40:34]:
+ This is one way. This is easier for you to understand, it's ABA layer, very straightforward. But this is actually not the simplest one, right? So, by strict definition, UNICEF is supposed to be the simplest one that you can repeat alternatively. So, if you want to find the simplest one, it's actually one third of this positive, which is actually the one we show on the flat line over here. So, this is actually by definition the smallest unit cell we can define for HCP crystals reactive. Okay? So, four atoms at the bottom, one atom on the top, one in the middle, and four on the top. And this middle one, it is either sitting on the center of this triangular area, or sitting on top of the center of this triangular area, but it's not right on the middle. Now, if you're a top, it has to sit on the slight angle over here on the top to be compact.
+这是一种方式。这对你来说更容易理解，它是ABA层，非常直观。但这其实并不是最简单的，对吧？严格来说，联合国儿童基金会应该是最简单的，你可以交替重复。所以，如果你想找到最简单的，它实际上是正数的三分之一，这正是我们在这条平线上显示的。所以，这实际上是我们能定义的HCP反应晶体中最小的晶胞。明白吗？所以，底部有四个原子，顶部一个原子，中间一个，顶部四个。中间这个原子要么位于三角形区域的中心，要么位于三角形中心的顶部，但它并不完全在中间。如果你是顶部，它必须位于顶部略微的角度上，才能保持紧凑。
+
+
+[2026-09-15 19:41:36]:
+ Okay, so let me see if I yeah, something like this. So we have four of these bottom ones, right? Each one of these have will have one ball. Just like what we draw over here. And then we have this black one. This black one is in the middle, right? So, it's not exactly on top of the four, but it's on top of three of these, right? So it's actually on top of face of the bush, right?
+好，那我看看是不是，像这样。我们有四个底部的球，对吧？每个球里有一个球。就像我们画的一样。然后我们有这个黑色的。这个黑色的在中间，对吧？所以，它不完全在四个上面，但它在三个上面，对吧？所以它实际上是在灌木的正面上，对吧？
+
+
+[2026-09-15 19:42:20]:
+ So it's like a tradition of chaste, right? Okay, so some metals like for bulk, tinium, magnesium, merutenium, they saw it would be right. So, the second, the common second common crystal structure, HCP. Okay, so let's see some non-code dark cases. Right, SCC, yeah, sorry, BCC, for instance, is also relatively commonly seen, right? The most classic example is five, F E, right? Let's see. Special case, right? So body centers, right? So just now we try to find a contacting line which is on the surface from FCC.
+所以这是一种纯洁的传统，对吧？好的，有些金属，比如散装金属、钛、镁、美鲁特尼，他们认为是对的。那么，第二种常见的常见晶体结构HCP。好，那我们来看一些非代码的暗色情况。对，SCC，是的，抱歉，比如BCC，也相对常见，对吧？最经典的例子是五，F E，对吧？让我看看。特殊情况，对吧？所以体心，对吧？刚才我们尝试找一条接触线，它位于表面，来自FCC。
+
+
+[2026-09-15 19:43:09]:
+ For BCC, the surface you don't see contacting anymore, right? Because this ball is in the center of this three-dimensional cube. So it's a body center, not surface center, right? You want to find out the correlation between A and R, we're going to look at the body diagram. This is where balls are closely touching each other, right? So that's why we have good correlation, like this in the quality diagonal, right? This is actually square root of three, and then eight, right? Let's see correlation. This is the full hour, right? So, I'm going to leave this to you guys.
+对于BCC，你现在看到的曲面已经不再接触了，对吧？因为这个球位于三维立方体的中心。所以它是体心，不是表面中心，对吧？你想找出A和R之间的相关性，我们会看体图。这里是球体彼此紧密接触的地方，对吧？这就是为什么我们在质量对角线中有很好的相关性，对吧？这实际上是三的平方根，然后是八，对吧？我们来看看相关性。这是整小时，对吧？那么，我就把这个交给你们了。
+
+
+[2026-09-15 19:43:48]:
+ And another thing is because it's not close packed, right? So, its coordination number will be definitely smaller than 12. In this case, it happened to be eight. Happen to be eight. Okay, so this is easier to count, right? You look at you, use this one as the as your center atom, it happens to be the eighth one on the corner street, right? So, these eight ones on the corners they happen to be the closed contesting ones, right? So it's exactly the other thing. Okay. So, another thing I need to emphasize is we do have the surface, right?
+还有一点是因为它不是紧密堆积的，对吧？所以它的配位数肯定会小于12。在这种情况下，它恰好是8。恰好是8。好的，所以这个数起来更容易，对吧？你看着你自己，把这个作为你的中心原子，它恰好是街角上的第八个，对吧？所以，这些街角上的八个，恰好是封闭的争夺，对吧？所以这完全是另一个原因。好的。还有一点我需要强调的是，我们确实有表面，对吧？
+
+
+[2026-09-15 19:44:27]:
+ For any given material, there will be a cutoff point. So, at the surface, right, the collaboration number is no longer that. That is only when we have an ideal and infinitive crystal. What's the ideal coordination output, right? On the surfaces, this is definitely heavily reduced. And sometimes inside the crystal, we also have defects. Something like missing item, right? So, in the n side, in the real world, it's definitely smaller than fit, right? Somewhere close to it. It can be a fraction number in the real world.
+对于任何材料，都会有一个截断点。所以，表面上，协作数不再是那个数。只有当我们有一个理想且无限的晶体时。理想的配位输出是什么？在表面上，这个输出肯定被大幅降低了。有时晶体内部也会出现缺陷。比如缺失的元素，对吧？所以在n侧，在现实世界中，它肯定小于拟合，对吧？接近它。在现实世界中，它可能是分数。
+
+
+[2026-09-15 19:45:06]:
+ Is like 7.5 something, right? So we actually have ways to measure that, right? Yeah, so so reality is another story. Okay, and lastly, we have simple cubic, right? This is very rare. We only want to show you an example of polonium, right? And it has only eight floors at the corner, so very straightforward. Okay, and the coordination number in this case is further reduced to six. Right, you can actually feel that this space is less occupied, right? Just in a packable like this, it will be if we look at the 2D version, it will be this one, right?
+大概是7.5左右，对吧？所以我们实际上有方法来测量它，对吧？是的，所以现实情况是另一回事。好的，最后，我们有简单的立方体，对吧？这非常罕见。我们只想给你展示一个钋的例子，对吧？它只有角落的八层，所以非常直接。好的，在这种情况下，配位数进一步缩减到六层。对，你实际上能感觉到这个空间占用得更少，对吧？就在这样的可收纳物里，如果我们看二维版本，应该是这个，对吧？
+
+
+[2026-09-15 19:45:54]:
+ So, there are much, much more space in between compared to this one, right? So, if something you can get an image. So, there's something we typically use to quantify this space occupying efficiency. We call this atomic packing factor. Right. So, using the far-sphere model, we try to figure out how exactly how much of the space is occupied by atoms. So become a simple math problem. Use the total volume of the spheres of all atoms as the top of the equation, and they use the unit cells total volume as the bottom of the equation. So it's basically the space of the atoms that are actually occupied, right? Actually, occupy this is the keyword by the atoms, which we simplify them to spheres, divided by the total volume of the unicell.
+所以，相对于这个空间，中间的空间要多得多，对吧？所以，如果有东西，你就能得到一张图像。我们通常用来量化占用效率的空间。我们称之为原子封包因子。右。所以，利用远球模型，我们试图弄清楚原子占据了多少空间。这就变成一个简单的数学问题。用所有原子球体的总体积作为方程顶部，而单位胞的总体积作为方程底部。所以基本上，原子实际占据的空间是原子的空间，对吧？实际上，占用原子的关键词是原子，我们简化为球体，除以单胞体的总体积。
+
+
+[2026-09-15 19:47:12]:
+ If it's a cube, then it's a cube of the volume of the cube. It's a hassle and it's a monogamous has, but it's just the whole space, right? So let's try one example, right? I think these are all straightforward to now. Let's try to figure out what's the atomic packing factor for FCC. So, this is a proof question. I already gave you the answer, right? How do we get that? Do we get that the packing atomic packing factor is around 0.74 per face center cubic, right? So uh let's go through this together.
+如果是立方体，那么它是立方体体积的立方。这很麻烦，而且是一夫一妻制的，但就是整个空间，对吧？那我们试试一个例子，好吗？我觉得这些到目前为止都很简单。我们试着算出FCC的原子打包因子是多少。这是一个证明题。我已经给你答案了，对吧？我们怎么得到这个？我们得到的，是不是每个面中心立方块的填充因子大约是0.74？那我们一起来看看。
+
+
+[2026-09-15 19:47:50]:
+ We don't have time for free practice, but I think it's simple enough. Okay, so you can go back to the slide when we have this file on state model and all the power security model activity. Okay, so you can familiarize that first thing we need to find out is how many atoms are actually inside the single cell, right? Let me get started. Atomic this atomic heighting factor will be the volume of the atoms, which is the number of atoms times the volume of one atom, which is a sphere. So let's involve him by the spheres. Whole I are two divided by three. Right? So, if you don't know that in some I think it's okay, right? So that's the number of buttons that are actually occupying the USF.
+我们没有时间自由练习，但我觉得这很简单。好的，你可以回到幻灯片，当我们有这个关于状态模型的文件和所有的电力安全模型活动时。好的，你可以熟悉一下，首先我们需要弄清楚的是单个细胞内实际有多少原子，对吧？让我开始。原子，这个原子高度因子是原子的体积，也就是原子的数量乘以一个原子的体积，而一个原子的体积是一个球体。那么我们把球体的部分纳入。整i是二除以三。右？所以，如果你不知道，有些地方我觉得没关系，对吧？这就是USF实际占据的按钮数量。
+
+
+[2026-09-15 19:49:00]:
+ Right for FCC is a unicellular cube. Right? It's a cube, and a cube has the volume of the adjustment to the power of three, right? So, luckily, we know the relation between A and R. Like just now, we derived that. So, the only thing we need to figure out is how many atoms are actually inside the pseudo cell, right? So here. Luckily, we just identified that for all the corners they contribute only one-eighth to the senior cell. So, we only need to count how many owners we have, and then we tell what is. So how many colours do we have? Eight. Eight, right?
+FCC的右翼是一个单细胞立方体。右？它是一个立方体，而立方体的体积是调整到三的幂次方，对吧？所以，幸运的是，我们知道A和R之间的关系。就像刚才，我们推导出来的。所以，我们唯一需要弄清楚的是，伪晶胞内部实际上有多少原子，对吧？所以这里。幸运的是，我们刚刚发现，对于所有角，它们只贡献了高级晶胞的八分之一。所以，我们只需要数清拥有多少个，然后判断什么是。那我们有多少种颜色？八种。八种，对吧？
+
+
+[2026-09-15 19:49:46]:
+ Of eight times one eight, and that's not all. We also have survey centers, right? So, first, how many faces do we have? We have six pages. So which one I didn't contribute to us? Right ah. So is that all? Did we miss anyone? No, right? Alright, so that's all we have.
+八乘一八，这还不是全部。我们还有调查中心，对吧？那么，首先，我们有多少张脸？我们有六页。那我没贡献哪一张？对啊。就这些吗？我们漏掉谁了吗？没有，对吧？好了，这就是我们所有的了。
+
+
+[2026-09-15 19:50:15]:
+ This is Long Island, which is three coming out of the little hill, right? So this is actually the key of this whole question, right? Do the correct counting. Okay, so we have four atoms that are actually contributing. So this one could be full, right? So I can remove that, right? Right, we just did like this, and the four thing to the power of three, right? Animal calculator, right?
+这是长岛，是三个从小山丘出来的，对吧？所以这其实是整个问题的关键，对吧？做正确的计数。好，我们有四个原子实际上在贡献。所以这个可能是满的，对吧？那我可以去掉它，对吧？对，我们刚才做了这个，四的三次方，对吧？动物计算器，对吧？
+
+
+[2026-09-15 19:51:07]:
+ So we can cancel off, for example, so first of all, RQ and RQ can be canceled off, right? So we can ignore that. If you're on your working on your paper, you'll probably faster than being big. Like we can cancel ours, right? This is 16 height divided by 3 and this is what? That works driving something. And then this will cancel out. This is the latest high over three version two. Okay. I'm gonna leave the rest to the clear dosolator and figure out that's exactly around those points that are horizontal.
+所以我们可以抵消，比如说，首先，RQ和RQ可以被抵消，对吧？所以我们可以忽略它。如果你在写论文，可能比大一点还快。比如我们可以抵消我们的，对吧？这是16的高度除以3，这是什么？那是驱动某物。然后这个会被抵消。这是最新的三大叠高，版本二。好的。剩下的我会留给透明隔绝器，找出它正好在那些水平点附近。
+
+
+[2026-09-15 19:52:12]:
+ Okay? Now, interesting would be you go back and calculate what's the AFA IPF for HCT. We don't see a magnificent, they're eco filling the space because they have a whole size being very tough. So there's supposed to be filled in a space in the same efficiency, and they should be also this value. Right, and uh, then for things in the cube that for BCC, if you try to calculate, that should be smaller than its value, right? because it's sub unit spike and a lower thinking, right? So, if you get any number larger than 0.74, that would be a sample. Okay, so some uh likely stories. Okay.
+明白吗？有趣的是，你回头计算HCT的AFA IPF是多少。我们没有看到一个极好的，它们是在eco填满空间，因为它们有一个整体尺寸非常坚硬。所以应该在一个空间里以相同的效率填充，它们也应该是这个值。对，呃，对于立方体中BCC的某些东西，如果你尝试计算，这个值应该比它的值小，对吧？因为它是亚单位尖峰，思维更低，对吧？所以，如果你得到任何大于0.74的数值，那就是样本。好的，那就有一些可能的故事。好的。
+
+
+[2026-09-15 19:53:07]:
+ Oh. Another thing that we can play with when we know the crystal structure of a metal is to find out its theoretical density because we know everything already, right? That's why we say Unicell is the ID card, right? finger corrections, right? Because you have where the atoms are, the atomic radius we can find out from the database. Atomic ways you can also find that database, right? So how so what's the relation between R and A? Already known. So, how big is a unicell? What's density?
+哦。当我们知道金属的晶体结构时，还可以尝试找出它的理论密度，因为我们已经知道一切了，对吧？这就是为什么我们说单胞体是身份证，对吧？手指校正，对吧？因为你能从数据库里找到原子的位置和原子半径。原子层的关系也可以找到那个数据库，对吧？那么，R和A之间的关系是什么？已经知道了。那么，单胞体有多大？什么是密度？
+
+
+[2026-09-15 19:53:43]:
+ Density is mass divided by volume, right? You know the total weight, we know the total volume, you know the density, right? The density of this unit cell should be the same as the density of one million units, right? Again, the immune cell carries all the critical information. So we can calculate what's the density of, for example, a cover case, right? So we're given atomic radius, right? So from this, you can get A, right? Then you can get k to the power q. And that would be the volume of the unit cell. Right, so I'm going to skip all the drawings, trying to show you the slow of this logic.
+密度是质量除以体积，对吧？你知道总重量，我们知道总体积，你知道密度，对吧？这个单元胞的密度应该等于一百万单位的密度，对吧？同样，免疫细胞携带所有关键信息。所以我们可以计算比如一个盖壳的密度，对吧？我们给出了原子半径，对吧？从中你可以得到A，对吧？然后你可以得到k的幂次方q。这就是单位胞的体积。对，我将跳过所有图示，试图向你展示这个逻辑的缓慢。
+
+
+[2026-09-15 19:54:37]:
+ And then we also need to know the weight of the UD cell. What's the weather we discussed? That will
+然后我们还需要知道UD单元的重量。我们讨论过的天气情况如何？那会
+
+
+[2026-09-15 19:54:45]:
+ One has reversed positive. So we have the atomic wing over here. We just now already figured out how many atoms are in the unit cell, right? So everything is net everything already here. Okay. So, one tricky thing here is that we are asked to find out the radical density in this unit. This is gram per centimeter u and what we're given is nanometer and the mass of the atom is from gram per mole. So what's one more? What do you want more? One more is a way of simplifying our accounting, right?
+一个是正反转的。所以我们这里有原子翼。我们刚刚已经算出了晶胞里有多少原子，对吧？所以这里的一切都是净的。好的。这里有个棘手点，我们被要求确定这个单位的自由基密度。这是克/厘米，我们得到的是纳米，原子的质量是克/摩尔。那么再多一个又怎样？你还想要什么？再多一个是简化计算的方式，对吧？
+
+
+[2026-09-15 19:56:03]:
+ Much, how many is one more? It's a constant, right? 6.02, I think, to the power of 23, right? That's Apple Gadget's number. Ring a bell high school chemistry. I would get those numbers, but that's one law. Okay, so some tricky thing is you need to convert this units correctly. Okay, so here's a result. Three things we can write it down. So again, the unicell, the density of the unicell, is density of copper, right?
+多多少，多一个是多少？这是常数，对吧？我想是6.02，是23的幂次方，对吧？那是苹果小玩意儿的数值。听起来像高中化学课。我会得到这些数字，但那是一条定律。好，有点棘手的是你需要正确转换这些单位。好，这里有个结果。我们可以写下三件事。所以，单胞体的密度，就是铜的密度，对吧？
+
+
+[2026-09-15 19:56:39]:
+ So what's your plan? Maybe I have some mass versus volume. And mass is number of atoms times atomic mass. Volume is simply the volume of the cube, right? And we have four atoms, right? So each one has already a max given. And this is A to the power of Q level three, right? But we have to put the NA play over here to convert the law, right? So we've converted the mod, and here we use 10 to the market of a second because it's centimeters, right? And not for nanometer.
+那你的计划是什么？也许我有质量与体积的关系。质量是原子数乘以原子质量。体积就是立方体的体积，对吧？我们有四个原子，对吧？所以每个原子都已经有一个最大值。这是A的Q的幂次方，三级，对吧？但我们得把NA的操作放到这里来转换定律，对吧？我们已经转换了模组，这里用10换成一秒的市场，因为它是厘米，对吧？而且不是纳米级。
+
+
+[2026-09-15 19:57:16]:
+ Now the meter would be twins as I would buy it to die, right? So use the interfamiliar here. And then we get our calculations finished, right? obviously that cancel out. We only run centimeters a few, and we get a value of around 8.89. Okay. So, you can take a look and realize that this value is different from what we actually measured. Again, so this is another story. In a real case, right, the mass is slightly larger, right? Theoretically, ideally, this should be the correct one.
+现在仪表是双子，因为我会买它死，对吧？所以这里用互通。然后我们完成计算，对吧？显然这会相互抵消。我们只跑几厘米，得到的值大约是8.89。好的。你可以看看，发现这个数值和我们实际测量的不一样。这又是另一个故事。在真实情况下，质量稍微大一点，对吧？理论上，理想情况下，这应该是正确的。
+
+
+[2026-09-15 19:57:54]:
+ But in reality, it is actually significant. How pure is your copper sample, and how accurate is your measurement, and whether your copper crystal is perfect or not? Why? Because atoms will not be 100% packed in this perfect way in the real world. So, some variation may possibly have some foreign atoms or some missing atoms or some squeezed regions that are even denser than when we imagine. And we can get a value vectors. Okay, so there's another thing. We have plenty, many reasons that theoretical values deviate from the real-world measurement. So, we will also talk about this when we talk about defects and things like that. All right, let me move on.
+但实际上，这很重要。你的铜样品有多纯度，测量准确度如何？你的铜晶体是否完美？为什么？因为在现实世界中，原子不会以这种完美的方式百分之百排列。所以，某些变异可能包含一些外来原子、缺失的原子，或者压缩区域比我们想象的更密集。我们可以得到一个数值向量。好的，还有一件事。理论值与现实测量值有许多不同的原因。所以，我们也会在谈论缺陷等问题时讨论这个问题。好了，让我继续。
+
+
+[2026-09-15 19:58:44]:
+ So by the way, I would like to log this answer this version of this answer to Blackboard after I finish this entire topic. So you don't have to um copy it down word by word. Okay. So now we have finished talking about the simple kind of crystal structures. We need to move on to some realistic problems. So, for example, in the real world, we have many materials that have more than one crystal structure. So that means A has not because Dr. A remote to B, and sometimes they can convert from A to B or B to A. So, think the whole example we are showing here is T. Why?
+顺便说一句，我希望在完成整个主题后，把这个版本的答案记录到Blackboard。这样你就不用逐字复制了。好的。现在我们已经讲完了关于简单晶体结构的讨论。我们需要进入一些现实问题。举个例子，在现实世界中，我们有许多材料拥有多个晶体结构。这意味着A没有，因为Dr. A远离B，有时他们可以从A转换到B，或者从B转换到A。所以，我们这里展示的整个例子是T。为什么？
+
+
+[2026-09-15 19:59:36]:
+ So S N, that's his chemical symbol. So tin has two kinds.
+所以SN，那是他的化学符号。锡有两种类型。
+
+
+[2026-09-15 19:59:44]:
+ Held to one structures. Sorry, crucial structures. That is body-centered tetrachar. You notice that we haven't talked about this previously, right? Well, the simplest ones, at least for the real world, okay? So, we have even more complicated things, things of all things. So we have tin nickname is white tin, right? And we have another form of tin that is crystallizing this thyanone cubic crystal structure. Okay? Uh, we call this diamond cubic because this is how diamond presumes, right?
+固定在一个结构上。抱歉，关键结构。那是体心四晶体。你注意到我们之前没谈过这个，对吧？嗯，至少在现实世界中，最简单的那些，好吗？所以，我们有更复杂的东西，真是个东西。锡的昵称是白锡，对吧？还有另一种锡，正在结晶这个亚氧立方晶体结构。明白吗？呃，我们称之为钻石立方体，因为这就是钻石的假设，对吧？
+
+
+[2026-09-15 20:00:18]:
+ So, in the early days, people named the crystal structure based on which material they found out this first. So later on, you can see a lot of prismal structures that named after certain chemical formulas, which is quite strange, right? Some name sulfur, that's how you name a physical structure or sodium chloride, right? That's how they first want to name it, and we all have to follow, right? So white t and gray t by the nicknames have a phase transition temperature of only 13.2. That's why we show this example here. So, it's a very low temperature transition, right? So that means right uh if we cool down a piece of white tin, right, below this um thirteen point two degrees Celsius, we continue to grating. Now because this is a brittle metal, right? They actually break into pieces, right?
+所以，在早期，人们根据他们最先发现的材料来命名晶体结构。后来你可以看到很多棱柱结构以某些化学式命名，这很奇怪，对吧？有些名字叫硫，就是给物理结构或者氯化钠命名的，对吧？他们最初想用这个名字，我们都得跟着做，对吧？所以白T和灰T的相变温度只有13.2。这就是为什么我们在这里展示这个例子。这是一个非常低的温度变化，对吧？这意味着如果我们把一块白锡冷却，温度低于这13.2摄氏度，我们就继续磨擦。因为这是一种脆性金属，对吧？它们实际上会碎裂成碎片，对吧？
+
+
+[2026-09-15 20:01:17]:
+ Atomic rearrangement needs space and energy. And if you're talking about a full piece, which is costed like this, it has nowhere to move its atom, except it has to be breaking into pieces. Okay, so this is actually one evidence that crystal face has been changed from one to the other. Okay. So, we still really have to figure out why search of material has more than one crystal structure, and each one of them have different ways of packing. Example, if neither one are close-packed, then neither one are close-packed, so we don't rely. And some metals don't have other crystal structures, but some metals have more than two. Okay, more than two. But we do have some rough idea, right? There are two thertrodynamic factors: temperature and pressure, right?
+原子重排需要空间和能量。如果你说的是整块，成本如此计算，它没有地方移动原子，只能分解成碎片。这实际上是晶体面从一个晶体面变到另一个的证据。好的。所以，我们仍然需要弄清楚为什么材料搜索会有多个晶体结构，而且每种晶体结构都有不同的堆积方式。举个例子，如果两者都不是紧密堆积的，那么我们就不依赖。有些金属没有其他晶体结构，但有些金属有超过两个。好的，超过两个。但我们有一些大致的了解，对吧？有两个热力学因素：温度和压力，对吧？
+
+
+[2026-09-15 20:02:23]:
+ With atomic range group, right? This is straightforward. If you give it high enough pressure, you can squeeze the lattice because atoms are not actually hardballs. Atoms are very empty space. Have a core that is nucleus, and we have many outer spaces that we have a lacton orbital, which is actually quite empty. So, atoms are actually squeezable to a certain extent, right? One research material finds called high-pressure materials. They're actually using all kinds of high pressure in the in the in the unit of giga pass in the museum of gigapass to plus any materials they want, right? Just auto-cute also. They build a machine, they squeeze a material. And the material first, right?
+用原子射程群，对吧？这很简单。如果你给它足够高的压力，你可以挤压晶格，因为原子其实并不是硬球。原子是非常空旷的空间。我们有一个核心是原子核，我们有许多外层空间，有一个乳腾轨道，实际上相当空旷。所以，原子在一定程度上是可以被挤压的，对吧？有一种研究材料叫做高压材料。他们实际上在gigapass博物馆里的giga通道单元中使用各种高压，以及任何他们想要的材料，对吧？也就是自动切割。他们制造机器，挤压材料。而且先压缩材料，对吧？
+
+
+[2026-09-15 20:03:21]:
+ Until today, still an active research area. So they press the metal, they press whatever material, and material will have some change in their, for example, conductivity or their optical property that you can measure. When you release the pressure, some of them go back, some of them don't. So it's either reversible or irreversible. So they study these all these things, right? And we write some good papers. So that's what most of you will find people do. So, this phenomenon, this term you should know, at least the term. This phenomenon of one material having more than one structure, we call it polymorphism, right? This adjective term will be polymorphic.
+直到今天，这仍然是一个活跃的研究领域。所以他们会压制金属，压制任何材料，材料会在导电性或你可以测量的光学性质上发生变化。当你释放压力时，有些会回归，有些则不会。所以这要么是可逆的，要么是不可逆的。所以他们研究这些东西，对吧？我们写了一些很好的论文。所以你们大多数人都会这样做。所以，这个现象，这个词，你至少应该知道这个词。这种一种材料拥有多个结构的现象，我们称之为多态性，对吧？这个形容词词会是多态性。
+
+
+[2026-09-15 20:04:12]:
+ We say team is polymorphic. All right. So, if this is a single element substance like tin or carbon, carbon, we have diamond and graphite. We have number one good example of that. So, this is also called allotropy. When we are talking about single element, polymorphism is also allotropic. So carbon graphite is one allotrope of carbon. Diamond is another allotrope or carbon. Okay, so this phenomenon is allotropy, and these specific materials are allotropes of this whatever. Okay, but it's not a single atom, single atom substance, then you can only use polymorphism, right?
+我们说团队是多态性的。好的。所以，如果这是单一元素物质，比如锡或碳，那么我们有钻石和石墨。我们有第一个很好的例子。这也被称为对异性。当我们谈论单元素时，多态性也是变形态的。碳石墨是碳的一个同素异形体。钻石是另一种同素异形态或碳。好的，这个现象是对异性，而这些特定材料就是它的同素异形体。但这不是单一原子，单原子物质，所以你只能用多态性，对吧？
+
+
+[2026-09-15 20:05:01]:
+ So you if you are not sure, just use polygonal polymorphic. Always go left. All right. So, we also have ways about when we talk about the details inside the inbox. So this is really, I think, high school mass, right? 3D mass more specifically. So, please recall some of your 3D imagination. It won't be difficult. Okay? So now that we have UNICEF, I can keep saying corner ball, space center ball, diagonal center ball, but that would not be professional.
+所以如果你不确定，就用多边形多态。总是往左走。好的。我们也有方法讨论收件箱内的细节。所以这其实是，我觉得，高中弥撒，对吧？更准确地说是三维质量。所以，请回忆一下你的三维想象力。这不会太难。明白吗？现在我们有了联合国儿童基金会，我可以一直说角落球、空间中心球、斜中间球，但那样不专业。
+
+
+[2026-09-15 20:05:50]:
+ So, people working on first philography decide to come up with a system to name all the positions, right? Moreover, they not only need to name the point of the unit cell, they sometimes also want to describe a plane of this unit cell. For example, the top surface, the middle surface, the diagonal surface. Right, but these what I just said are again not professional, right? So, we want some mass numbers involved. To describe all these lines, points, and planes, right? First, we need to try to get a closer look of what a unicell looks like. So we have a given unit cell here, which is not yet known as a cube, right? Just a three-dimensional structure, right? And we put it in this three-coordinate system, X, Y, Z, right?
+所以，研究第一线谱的人决定设计一个系统来命名所有位置，对吧？此外，他们不仅需要命名单元格的点，有时还需要描述该单元格的一个平面。例如，顶部表面、中间表面、对角面。对，但我刚才说的这些又不是专业的，对吧？所以，我们需要一些质量数。来描述所有这些线、点和平面，对吧？首先，我们需要更仔细地观察单胞体的样子。我们这里有一个单元格，还不被称为立方体，对吧？只是一个三维结构，对吧？然后我们把它放进这个三坐标系，X、Y、Z，对吧？
+
+
+[2026-09-15 20:06:52]:
+ So we'll put it right at the corner, right? We can define this unit cell by exactly six parameters, including the length of these three and the angles between these three edges. So, I'm sure that no matter how I draw this, right, this wonder will keep itself, right? Even if it's not 90 degrees, it can still repeat itself. Correct? Right? So this is important. We haven't known the angles yet, but as long as you put in three coordinate system, I can draw this x-ray just forever long, and I can just parallelly shift my unicell to the right, to the left, right, and they can repeat themselves. So, I only need to know these three pieces of information plus these three pieces of angles. Okay, so we have three angels with holomabices, and we have three interaxial angles, basically the angles between these three, which are alpha, beta, and gamma.
+所以我们就把它放在角落，对吧？我们可以用恰好六个参数定义这个单元格，包括这三个参数的长度和这三条边之间的角度。所以，我相信无论我怎么画，这个奇迹都会保持它，对吧？即使它不是90度，它仍然可以重复自己。对吗？右？这很重要。我们还不知道角度，但只要输入三坐标系，我可以无限长时间地绘制这张X光，并且我可以平行地向右、向左、向右移动单胞体，它们可以重复。所以我只需要知道这三条信息加上这三条角度。好，我们有三个带有全轴的天使，还有三个轴间角，基本上就是这三者之间的夹角，分别是α、β和γ。
+
+
+[2026-09-15 20:08:19]:
+ Okay, so let's see some real samples. That would be interesting. Okay, so luckily, most of the time we talk about only six kinds of crystal structures. Sorry, seven. There must have been something bad. Okay, start button. Uh, lattices, well, we'll say crystal systems, right? So, and luckily for this course, most of the time we only look at the first two, which we just now already saw, right?
+好，那我们来看看一些真实的样本。那会很有趣。好，幸运的是，大多数时候我们只讨论六种晶体结构。抱歉，七种。肯定有什么不好的地方。好了，开始按钮。呃，晶格，嗯，我们说晶体系统，对吧？所以，幸运的是，这门课大多数时候我们只看前两种，而我们刚才已经看到了，对吧？
+
+
+[2026-09-15 20:08:50]:
+ Cubic, which is very spare forward, but all the three edges are equal to each other, and all the three angles are equal to each other, and they're all 90 degrees, right? So we already wrote their relationships here in here, right? Perhaps a hazard, right? So now we are using. By the way, this is a hydrimo, right? We're using this one-third way of expression, right? Remember just now I said the whole thing is not the simplest one. This is actually the one, right? So we're now looking at the movement. Remember, so far we haven't put any atoms inside yet.
+立方体，非常向前简洁，但三条边彼此相等，三个角度相等，且都是90度角，对吧？所以我们已经把它们的关系写进去了，对吧？也许有个风险，对吧？现在我们用的是。顺便说一句，这是水体，对吧？我们用的是三分之一的表达方式，对吧？还记得刚才我说过整个过程不是最简单的。这其实就是那个，对吧？所以我们现在在看运动。记住，到目前为止我们还没放进去任何原子。
+
+
+[2026-09-15 20:09:33]:
+ We're only talking about pure 3D mass. How we define this shape in 3D, right? Later on, we will add some scene stuff, okay? So now, for this one, the interesting thing is it's not 90 degrees different anymore. So such one of the degree is actually 120. Why? Because it's one-third of 360, right? Because three gelaments want to fill the space. So, in this case, this unit cell, when it's repeating itself, is not just shifting parallel, it's also rotating. Okay, to fill the whole space.
+我们只讨论纯三维质量。我们是如何定义这个形状的，对吧？稍后我们会添加一些场景内容，好吗？现在，对于这个，有趣的是它不再是90度的差别了。所以这个度数实际上是120度。为什么？因为它是360度的三分之一，对吧？因为三个凝胶想要填满这个空间。所以，在这个例子中，这个单元胞在重复自我时，不仅仅是平行移动，它还在旋转。好的，是为了填满整个空间。
+
+
+[2026-09-15 20:10:11]:
+ Okay, this is the special case. A special case. Okay, and then we have many more. For example, tetragonal is when two of the edges are the same, but it's different from the third one, but all of the angles are still 90 degrees. So which ones which one is the tetrachanol? The bio third. This one? This one? Yeah. Right?
+好，这是特殊情况。特殊情况。好，然后我们还有很多。比如，四边是两个边相同，但和第三个不同，但所有角度仍然是90度。那么哪个边是四焦醇？生物三分之一。这个？这个？是的。右？
+
+
+[2026-09-15 20:10:47]:
+ This one, right? Okay, so longbohedial, or is it trigonal? Is when the three edges are the same and three angles are the same, but they're all of them are not 90 degrees. So, a mass leak is more like which one have all the edges the same? This one, right? Right, so this will be more like you are holding a cube, but you're holding the two diagonal points, it starts pulling, right? So let's say these are all rotatable. We call it, but you get this, right? This is along this direction, you have some rebooting folks, right? Let's think how you understand.
+就是这个，对吧？好的，那是长边形，还是三角方？是三条边相同，三个角度相同，但它们都不是90度角。所以，质量泄漏更像是哪个边的边都一样？就是这个，对吧？对，这更像是你拿着一个立方体，但你握着两个斜角点，它开始拉动，对吧？假设这些都是可旋转的。我们称之为，但你明白了，对吧？这是沿着这个方向，你有一些重启的朋友们，对吧？让我们来想想你是怎么理解的。
+
+
+[2026-09-15 20:11:31]:
+ So that will be our bomb of each. And the big one was something one bit. Right, that's when the three edges are not the same, but and those are the same, right? So this is not what we make up, right? Is what we learned from nature, and we concluded to this table. Okay, so don't ask me why. Is definitely not all the combination right that you can imagine, right? but that's what we learn from nature. Maybe you can find the eighth one, right? And go here.
+所以这就是我们每个的炸弹。最大的那个是一点点。对，那就是三个边不一样，但它们是一样的，对吧？所以这不是我们编出来的，对吧？这是我们从大自然中学到的东西，我们总结到这张桌子上。好吧，别问我为什么。绝对不是你能想象的那些组合都对，对吧？但这就是我们从大自然中学到的。也许你能找到第八个，对吧？然后去这里。
+
+
+[2026-09-15 20:12:07]:
+ So this one orthogonal, right? We have 90 degree for angles. So basically, that left of us, this one, right? Only this one, and the three and three edges of the different. Okay. And then, oops, and then we have the prepare of names by normal clinic and tri-clinic. In both cases, your edges are now the same, right? And but for mama clinic, two of the angles are still 90. Well, for triclinic, none of them is empty, right? So this one is the most annoying one, right?
+所以这个是正交的，对吧？我们有90度角。基本上，左边这个，这个，对吧？只有这个，还有三边和三边。好的。然后，哎呀，我们准备了正常诊所和三棱的名称。在这两种情况下，你的棱现在是一样的，对吧？而且如果不是妈妈诊所，两个角还是90度。嗯，对于三棱来说，没有一个是空的，对吧？所以这个是最烦人的，对吧？
+
+
+[2026-09-15 20:12:48]:
+ Neither one are the same. So, if you look at these two examples, we already labeled them, right? So, these three angles are all the different ones. So this is actually the triclinic one, right? And this one is a market. Okay, so remember so far we only described the shape of this unit cell. Okay, so usually after this description, we have some more sentences or terms to finish the rest of the description. Right. So for example, body center cubic. We have body center as another restriction.
+这两者都不是同一个。所以，如果你看这两个例子，我们已经标记了它们，对吧？这三个角度都是不同的。所以这实际上是三斜棱角，对吧？而这个角度是一个市场。好的，记住到目前为止我们只描述了这个单元格的形状。通常在描述之后，我们会有一些句子或术语来完成剩下的描述。右。比如说，体心立方体。我们有体心作为另一个限制。
+
+
+[2026-09-15 20:13:31]:
+ And cubic is this cubic, right? So we know it's a cubic system, but it's a body-centered cubic system. So we finish the rest of this description. Okay, so I'm going to quickly bulge through how we define points. I think that would be very straightforward, right? So, one thing you may want to keep in mind if you haven't learned is we have some special letters in this smaller form, right? I do not capitalize them. Okay. So for points, we use QRS. You are QR more letters to indicate that we're talking about points now.
+立方就是这个立方，对吧？我们知道它是立方系统，但它是以体心立方系统。接下来的描述就结束。好的，我会快速讲解点的定义。我觉得这应该很直接，对吧？如果你还没学过，有一点你可能想记住，我们有一些特殊字母，是这个较小的形式，对吧？我不把它们大写。好的。对于点，我们用QRS。你用QR字母表示我们现在在讨论点。
+
+
+[2026-09-15 20:14:16]:
+ Okay, so when we write whole QRF, we write the relativization inside the cube. What do we mean by duality position? Right? One one, for example, you see this 0.8, that all the other atoms that is not as far as eight, they will have a fraction number smaller than one, larger than zero, described their position, right? So we have three access, like x, what is the axis? So the number eight has a one one one, and my origin is zero zero zero. And for example, one side happened to be the body center, so it'll be half, half, half. Okay, so for point, uh, we have nothing fancy, we just talk about their relative position, right? We don't care how exactly the system is, but we only care about its environment position within the CNSF. So, we make this a coordinated system that have a maximum of one of life, right?
+好的，当我们写整个QRF时，我们写的是立方体内部的相对化。我们所说的对偶位置是什么意思？右？比如一个，你看到这个0.8，所有其他原子，只要不是8，它们的位置会有小于1、大于0的分数，对吧？所以我们有三个访问点，比如x，轴是什么？数字8是11，我的原点是0000。比如，一边恰好是物体中心，所以是半。好，那就点了，呃，我们没什么复杂的，只谈它们的相对位置，对吧？我们不关心系统具体是什么样子，只关心它在CNSF中的环境位置。所以，我们把它设为一个有最大生命值为1的协调系统，对吧？
+
+
+[2026-09-15 20:15:29]:
+ So everything are between either zero or one or fractions between them. Okay, so that's the point. I think it's quite straightforward. Now, things get a little bit more interesting when we talk about a 1D uh matter. Okay, so inside the unit cell, sometimes we care along this line what happened. Okay, some properties like some mass transportation, like the ions or electrons, or some defects, they happen along the line, right? For example, we're talking about electricity, right? When we have a flow electrons, how you position crystal will make a difference. So, you want to figure out along this linear direction, what's the storage, where what can the materials, the information. So, we want to describe something we call crystal graphic direction.
+所以所有的都介于零或一之间，或者它们之间的分数。好的，这就是重点。我觉得这很简单。现在，当我们谈论一维物质时，事情会变得更有趣。好的，在单元内，有时我们会关注沿这条线发生了什么。好的，一些性质，比如质量运输，比如离子或电子，或者某些缺陷，它们沿着这条线发生，对吧？比如说，我们说的是电，对吧？当我们有流动的电子时，晶体的位置会有影响。所以，你想沿着这个线性方向弄清楚，存储在哪里，材料可以放在哪里，信息在哪里。所以，我们想描述一种我们称之为晶体图方向的东西。
+
+
+[2026-09-15 20:16:28]:
+ And by mass, it's basically a vector. Well it's a vector. It's a 3D vector. But it's a slimy latter that describes this direction. Okay, so in this page, I have one point, one to three points, and the next day you have another three points. This tells you how do we calculate, find out the direction lettuce. So, the long story short, we're finding a vector tail and vector hat, and we use hat minus tail. So this is a point. This is also a point. Just now we figure out how we describe a point.
+按质量计算，它基本上是一个向量。嗯，它是一个向量。这是一个三维向量。但它是一个黏滑的后者来描述这个方向。好，在这一页里，我有一个点，从一到三个点，第二天你又有三个点。这告诉你我们如何计算，找出生菜的方向。长话短说，我们找到了一个向量尾巴和向量帽子，我们用的是帽子减去尾巴。所以这是一个点。这也是一个点。刚才我们弄清楚了如何描述一个点。
+
+
+[2026-09-15 20:17:27]:
+ So now we find two points because two points simplify a lot going through V. So, as long as we can find two points that we know how to name their coordinate, then because vector has direction, right? So if it's either this direction or that direction, so you're gonna have to find out which one of these two points is the head. The other one is a two. And you use the coordinates of the hat, find this coordinate by two, right? So we name them x1, y1, z1, x12, z2, y2, z2, and that will be two minus 1, 2 minus 12 minus 1, right? So after all these, you're getting three values, right? So that would be the three differences between one of these. The rest steps will simply be normalizing these three values to an integer. For an integer, that is usually the smallest integer values, right, that we can use, okay?
+所以现在我们找到两个点，因为通过V的两个点简化了很多。只要我们能找到两个我们知道怎么命名坐标的点，因为向量有方向，对吧？所以如果是这个方向还是那个方向，你就得找出这两个点中哪个是头。另一个是二。你用帽子的坐标，把这个坐标除以二，对吧？我们给它们取名x1、y1、z1、x12、z2、y2、z2，这样就是2减1,2减12减1，对吧？所以在这些之后，你得到的是三个值，对吧？这就是其中一个的三个差别。剩下的步骤就是把这三个值归一化为整数。对于整数，通常是我们能用到的最小整数值，对吧？
+
+
+[2026-09-15 20:18:39]:
+ So let me go through the real examples. That would be much easier. Let me see what they want time. So write about article and try to digest these six points. Don't be frightened by all these terms like that. They have minus two, and then you change these differences into a smaller skimmature for the easy of all the reading. Okay, so we will continue further examples at 8.30.
+让我来看看真实的例子。那样会容易得多。让我看看他们需要什么时间。写文章，试着消化这六个要点。不要被这些术语吓到。它们有负二，然后你把这些差异换成一个更小的浏览，以便阅读更方便。好的，我们将在8：30继续进一步的示例。
+
+
+[2026-09-15 20:19:28]:
+ Yeah, they keep voting for the money
+是的，他们一直在投票争取资金
+
+
+[2026-09-15 20:19:30]:
+ I thought we were like a check every time very much. You're a packer and they're not nice because it needs to be microphone, you must just have a huge picture of it. But I don't mean to either check.
+我以为我们每次都是支票。你是个包装工，他们不友好，因为必须有麦克风，你必须有一张大照片。但我也不是故意检查。
+
+
+[2026-09-15 20:20:14]:
+ In the bottom of the sorry, but it is quite unguarded.
+在底部，抱歉，但这相当无人防守。
+
+
+[2026-09-15 20:20:30]:
+ I'll go away.
+我会离开的。
+
+
+[2026-09-15 20:20:44]:
+ Hard. Simple? So high sport on this.
+硬的。简单？这真是高雅的运动。
+
+
+[2026-09-15 20:21:19]:
+ Mr. Mm-hmm. What are you for again? Oh, you don't got to get both of the pushes on it. So it's all saying it's hard to see as they die.
+嗯哼先生。你到底是干什么来着？哦，你不必同时推两个人。所以大家都说他们死去时很难看清。
+
+
+[2026-09-15 20:22:00]:
+ Yeah, don't worry about it. You have a bunch of boxes in your pop button. That's all you're doing. It's a big puzzle.
+是的，别担心。你弹出按钮里有一堆盒子。你就这么做。这是个大谜题。
+
+
+[2026-09-15 20:22:23]:
+ I'll be in charge of skill. And this is your purpose.
+我负责技能。这就是你的使命。
+
+
+[2026-09-15 20:22:38]:
+ Mark.
+马克。
+
+
+[2026-09-15 20:23:01]:
+ I think yeah. What are you doing? Work well back in the hotel, but it's not everybody's control.
+我觉得是的。你在干什么？在酒店工作得不错，但不是每个人都能控制。
+
+
+[2026-09-15 20:24:31]:
+ Okay, it's just in what we say.
+好吧，这只是我们说的话里。
+
+
+[2026-09-15 20:25:09]:
+ Uh what's up?
+呃，怎么了？
+
+
+[2026-09-15 20:25:20]:
+ Yeah.
+是的。
+
+
+[2026-09-15 20:25:36]:
+ Because what how do I actually click to AI and shut the pattern?
+因为我到底怎么才能点击AI并关闭图案呢？
+
+
+[2026-09-15 20:25:54]:
+ Okay.
+好的。
+
+
+[2026-09-15 20:26:11]:
+ Oh, wait, wow, did that? You have a coffee.
+哦，等等，哇，真的是吗？你喝杯咖啡吧。
+
+
+[2026-09-15 20:26:21]:
+ Let's say it's had a shoe. And we're not real with people with people. We'll come back to it. Okay, it went out and went on. I'm sorry, I didn't see much on it. I think it's the hundred for a minute. The middle screen.
+假设它有个鞋。我们对人和人不真诚。我们稍后再谈。好吧，它出去了，继续了。抱歉，我没看到太多。我觉得是一百。中间屏幕。
+
+
+[2026-09-15 20:27:10]:
+ Exactly. I don't know, you just want to skip it. Yeah. Do you know what that is?
+没错。我不知道，你就是想跳过它。是的。你知道那是什么吗？
+
+
+[2026-09-15 20:27:25]:
+ I think all from seeing it off and that's your child. It's like five o'clock.
+我觉得都是送别他，那是你的孩子。现在大概五点了。
+
+
+[2026-09-15 20:27:36]:
+ If you don't do this, but I don't really say what's that news. I did well with your city choices. Thank you
+如果你不做这件事，但我其实不怎么说那是什么消息。我对你选的城市做得不错。谢谢你
+
+
+[2026-09-15 20:28:04]:
+ So very good touch on each number of reality of five points.
+所以对每个五点现实数字的处理非常出色。
+
+
+[2026-09-15 20:28:22]:
+ Thanks, Marx. I didn't have that. Cool. Yeah, so that's what I can do.
+谢谢你，马克思。我没有那个。酷。是的，这就是我能做的。
+
+
+[2026-09-15 20:28:34]:
+ So it's finished. I think I'll put it somewhere information about it.
+所以完成了。我想我会把它放在某个关于它的信息的地方。
+
+
+[2026-09-15 20:28:50]:
+ I want to make it happen. I mean, I've been shipping that button. The base is actually identical. I think we couldn't actually get this.
+我想让它成真。我是说，我一直在发那个按钮。底座其实一模一样。我觉得我们其实没法拿到这个。
+
+
+[2026-09-15 20:29:09]:
+ Maybe it was like that.
+也许就是这样。
+
+
+[2026-09-15 20:29:22]:
+ It's equal to what we saw that we're trying to all the standard standards.
+这和我们看到的一样，我们正在努力达到所有标准。
+
+
+[2026-09-15 20:29:47]:
+ Anyway, because you just get the path because I'm sure that we see it.
+总之，因为你能看到路径，因为我相信我们能看到。
+
+
+[2026-09-15 20:29:59]:
+ Oh, see the power to do it.
+哦，看看那种力量。
+
+
+[2026-09-15 20:30:04]:
+ Okay. So, by the way, next week, our team will come here to explain the rules about grouping for your project. Remember, we had an interesting voting last week, and because a very equal vote, we decided to allow both modes. So, it's either individual project or couple project, not that kind of couple, just fuel, and so. You don't have to decide if you're choosing to manage your partner yet. We will allow some talking for that where we explain the rules, for example, what's the timeline and what should first. Usually, we will form the group first and we'll name the groups for example 20 groups or 30 groups. And then we will give you a timeline for you to preview the topics that I will give to you. Then, on the following weeks, maybe one or two weeks later, we will have a drawing exercise. That's all.
+好的。顺便说一句，下周我们团队会来这里，解释你们项目分组的规则。记住，上周我们进行了一次有趣的投票，因为票数非常平分，我们决定允许这两种模式。所以，这要么是个人项目，要么是情侣项目，不是那种情侣，只是燃料，等等。你不必决定是否要管理你的搭档。我们会允许一些讨论，比如解释规则，比如时间表是什么，应该先做什么。通常，我们会先组建小组，然后给小组命名，比如20组或30组。然后我们会给你们一个时间表，让你预览我会给你们的主题。接下来的几周，可能是一两周后，我们会进行绘画练习。就这些。
+
+
+[2026-09-15 20:31:20]:
+ Randomly choose you guys to pick your topic. So it's like lucky draw. Okay, totally random. Wait, is everyone present? Maybe we'd make use of one of the break time to do that, right? So, you guys can choose what is on the train, what's the topic, and we will decide that topic right on the class. Okay, any changes after that will be uh difficult. You need to give me a valid reason why you need change of any kind, right? So uh that will be the rough idea. So, you do have a chance, but if you are still not familiar with your classmates, maybe it's time to make friends.
+随机选你们选题。所以就像幸运抽奖一样。好吧，完全随机。等等，大家都到齐了吗？也许我们可以利用休息时间来做这个，对吧？你们可以选择火车上的内容，主题是什么，我们会在课堂上决定。好的，之后的改动会很难。你需要给我一个合理的理由，说明你需要任何形式的改变，对吧？所以，呃，这就是大致的想法。所以，你确实有机会，但如果你还不熟悉同学们，也许是时候交朋友了。
+
+
+[2026-09-15 20:32:05]:
+ Okay, so don't just be yourself, right? Case you want someone to work with you, starts to make friends now, right? and it's totally okay if you want to do it by yourself. Okay, there will definitely be no bias of my grading, right? I will only based on personal performance and the overall project, right? So, it's more like if you're a teamwork person or you're more like a solo guy or girl, which is both okay, right? Because for material science, we do have really interplay discipline research. Also, have something that you can just feel yourself a little comfortable. So yeah, that's some preview guys for you. Okay.
+好，所以不要只做你自己，对吧？如果你想找人合作，现在就开始交朋友了，对吧？如果你想自己做，完全没问题。好的，我的评分绝对不会有偏见，对吧？我只会基于个人表现和整体项目来评分，对吧？所以，更像是团队合作型，或者你是个独自一人，这两种都没问题，对吧？因为材料科学确实有真正的相互作用学科研究。另外，准备一些让你感觉稍微舒适的东西。所以，是的，这就是一些预览，伙计们。好的。
+
+
+[2026-09-15 20:32:51]:
+ So let's continue. So, we are going to show one example of how we actually find out direction in a crucial system. So, in this particular cube, we have one arrow drawn. So, if we draw you something like this, you should be very able to find out what is the direction in your crystal graphic explanation. So we have arrowhead and arrow tail, so we know who is head, who is tail, right? And because they're right on the edges, we can readily find out their coordinates. Now, this coordinate is classed by ABC because we don't know if it's cube or not. Well, we haven't told you that, right? But doesn't matter, right? Because they're all going to go away in the end.
+那我们继续。我们将展示一个例子，说明我们如何实际确定关键系统中的方向。在这个特定的立方体中，我们画了一个箭头。如果我们画出这样的符号，你应该能很好地判断晶体图形解释中的方向。我们有箭头和箭尾，所以我们知道谁是正面，谁是尾巴，对吧？因为它们正好在边缘，我们可以很容易地找到它们的坐标。这个坐标是按ABC分类的，因为我们不知道它是不是立方体。嗯，我们没告诉你这个，对吧？但这无所谓，对吧？因为它们最终都会消失。
+
+
+[2026-09-15 20:33:42]:
+ Now it's for the hat, it's zero B and half C. But we write A over here, but it's cancelled out, so it's going to be zero, right? So, the head and tail coordinates, we can readily drag them in terms of A, B, C, right? And then hat minus two, remember? So pad minus two, we get the differences between pad and two, which is minus ABC over two. For zero, so straightforward. Now remember to keep the sign, okay, because it's a vector, so sign means something. Yeah, passive and active will be different. Okay, keep the sun. Then, right, based on our step four to six, just now, right, so we are normalizing them by ABC and then normalizing them by a smallest integer.
+现在是帽子，是零B和半C。但我们写A，但它被抵消了，所以应该是零，对吧？所以，正尾坐标，我们可以用A、B、C来轻松拖动，对吧？然后hat减二，记得吗？所以pad减二，我们得到pad和二的差，也就是负ABC除以二。对于零，所以很简单。现在记得保留符号，好吗，因为它是矢量，所以符号有意义。是的，被动和主动会不同。好，保持太阳。然后，根据我们刚才的第四到第六步，我们先用ABC归一化它们，然后用最小整数进行规范化。
+
+
+[2026-09-15 20:34:44]:
+ So, that preference is for us to first of all get rid of ABC expressions. So x coordinate difference we divide it by a, y divided by b, z divided by z. Of ABCs are all gone. So it's become minus one, one, and half, right? And then minus one, one and half. The half is not an integer, but we want everyone to be integer, so we multiply everyone by two. So it becomes minus two to one. Okay, so that's how it's done. And then some terminology that we, people working on prismography, they purposely do that. So they move the minus sign at all of this number.
+所以，我们首先要去除ABC表达式。所以x坐标差我们除以a，y除以b，z除以z。所有ABC都消失了。所以它变成了负一、一和半，对吧？然后是负一，一又二分之一。这一半不是整数，但我们希望每个人都是整数，所以我们把所有人乘以二。所以它变成了负二的一。好的，这就是做法。然后我们这些研究棱镜仪的人故意用了一些术语。他们在所有这个数字上移动负号。
+
+
+[2026-09-15 20:35:34]:
+ So it's neat, it's a little bit neat to see that the verticals are the thoroughly on top. With minus two to one. If you read it, it reads minus two to one. Okay, so another thing is we use this square bracket
+所以看到垂直线完全在上面，确实有点奇怪。负二比一。如果你读，是负二比一。好，还有一点我们用这个方括号
+
+
+[2026-09-15 20:35:55]:
+ This square bracket to express the direction. I think we have it on previous page. Right. Now remember this one. We use a square bracket, and we also have another set of small letters assigned to directions UEW. Okay, remember what three letters were points q or f right, right? So this is UDW. Have another three letters well planks. Okay, so do remember this. Okay, so this is for brackets, for square brackets for directions.
+这个方括号用来表示方向。我想我们在上一页有。右。记住这个。我们用方括号，还有一组小字母分配给方向 UEW。好，记住三个字母分别是点 q 或 f 点，对吧？这就是 UDW。再用三个字母的 well' planks。好的，记住这个。好，这是用方括号表示方向的。
+
+
+[2026-09-15 20:36:40]:
+ Now let's move on to planes. Oh, this is another example as a reverse, right? When we give you n to unicel and we gave you a direction, can you draw this direction in this cube? Right? So, what you do is reverting all the six steps just now. Okay, um, so let me also go through this one with you right. We have a units that already join, right? And we know the target direction is one minus one and zero, right? So we go from bottom to top, right? Final expression is this.
+现在我们来看看平面。哦，这是另一个反向的例子，对吧？当我们给你n到单一体，给你一个方向时，你能在这个立方体里画出这个方向吗？右？所以，你现在做的是把刚才的六个步骤全部反转。好的，嗯，让我也跟你一起过一遍。我们已经有单位已经连接起来了，对吧？我们知道目标方向是一减一和零，对吧？所以我们从下到上，对吧？最终表达式是这样的。
+
+
+[2026-09-15 20:37:20]:
+ So, if we give back the three BCs, right, that will be A minus B. Zero will still be zero. If you see zero, you're happy. Basically, they won't give you any trouble. And then we go up, we need to find out the head and tail. Now, the easiest one would be to choose the origin to be the tail, right? Then I can have zero zero zero, right? Course, if you want to challenge yourself, you can choose any points, right? they're all correct right by definition. So we choose origin for the tail, and the half will be tail plus the difference, right?
+所以，如果我们把三个BC还给，对吧，那就是A减B。零仍然是零。如果你看到零，你就满意了。基本上，他们不会给你添麻烦。然后我们往上看，需要找出正反对。现在，最简单的方法是选择原点作为尾巴，对吧？这样我就可以是零零零，对吧？当然，如果你想挑战自己，你可以选择任何点，对吧？它们都是对的，按定义来说都是正确的。所以我们选择尾巴的原点，这一半就是尾巴加上差值，对吧？
+
+
+[2026-09-15 20:38:01]:
+ Just the reverse, so we get a minus b zero. Very straightforward. Now we need to draw this thing on the graph. And because we have minus sign, be careful. It may not be in this cell, right? So it happens to be outside the cell, right? Because the U0 also is on the XY plane, right? Because this is minus P, so it's actually lower view now. Sometimes the person asks you to draw a direction inside yourself. If the person asks you that, then this is not your last step, or this is your second last step.
+只是反过来，所以我们得到一个-b零。非常简单。现在我们需要在图上画这个东西。因为我们有负号，所以要小心。它可能不在这个单元格里，对吧？所以它恰好在单元外，对吧？因为U0也在XY平面上，对吧？因为这是负P，所以现在是较低的视角。有时候对方会让你在自己内部画一个方向。如果有人问你，那这就不是你的最后一步，或者说这是倒数第二步。
+
+
+[2026-09-15 20:38:43]:
+ Your last step will be shifting this direction into the point, right? So that gives us another important concept of equivalent derivatives, equivalent derivatives. We can do shifting to all our directions because they're all parallel to each other and by personal graphic definition, they're equivalent. Okay, so you can actually get this idea by how we deduced this coordinate. It's hat minus two, right? So we're only carrying the difference and probably the direction of this difference. But we never mentioned where the head until must be, right? So, if you choose two parallel directions, the head and two, they shift by the same distance, then the half-tail distance will always be the same, right? So that's why you can shift your directions
+你的最后一步是把这个方向移到点上，对吧？这给了我们另一个重要的概念：等价导数，等价导数。我们可以向所有方向移动，因为它们彼此平行，按照个人图形定义，它们是等价的。好的，你实际上可以通过我们推导出这个坐标来得到这个想法。它是帽减二，对吧？所以我们只携带这个差值，可能还有这个差值的方向。但我们从没提到过头部必须在哪里，对吧？所以，如果你选择两个平行方向，头部和两个方向，它们移动的距离相同，那么半尾距离总是相同的，对吧？这就是为什么你可以移动方向
+
+
+[2026-09-15 20:39:50]:
+ Okay, we are smoking.
+好了，我们开始抽烟了。
+
+
+[2026-09-15 20:40:02]:
+ It's not written here, but you can write it down, right? All the parallel directions are equivalent to each other. Okay, and this slide derived starts from some naps from non-parallels. Parallels obviously they say they go to each other, but for some cases, even non-parallel wise can be equivalent to each other. Okay, so this happens all the time to the cubic system, right? Or cubic crystal or cubic crystal, right?
+这里没写，但你可以写下来，对吧？所有平行方向彼此等价。好的，这张幻灯片是从非平行方向的一些小休开始的。平行线显然说它们相互关联，但在某些情况下，即使是非平行的也可以等价。好的，所以这在立方系统中经常发生，对吧？或者立方晶体，或者立方晶体，对吧？
+
+
+[2026-09-15 20:40:48]:
+ Productions that are not parallel, right? They can also be equivalent. Why? Because A B C are the same. And the three angles are also the same, right? So, when that becomes the same, then if you're along the x or along the y, you happen to be the x, you're talking about the same direction. Okay. So for ease of understanding, when we have some parallel directions that are actually the same or equivalent, we call this a family of directions. Family of the pictures. So instead of using square brackets, we use angle brackets like this.
+不是平行的产生，对吧？它们也可以等价。为什么？因为A、B、C是相同的。而且三个角度也是一样的，对吧？所以，当它们变相同时，如果你沿着X或Y，你恰好是X，你说的是同一个方向。好的。为了方便理解，当我们有一些平行方向实际上相同或等价时，我们称之为方向族。图片族。所以我们不使用方括号，而是用这样的角括号。
+
+
+[2026-09-15 20:41:44]:
+ It's still uvw that is by this square. So, for example, for a cube, right, you can easily tell this 100, 010, 001 will be the three edges sitting on the axis, right? And these ones with minus on top, they're behind this cube, right? In the opposite direction of the axis, but they are all equivalent. So we use one zero zero family to include all of them. But in the audio. So, this is true for not just one zero zero case, right, but also other cases, like for example, one, two, three. Right? So, if one, two, three, and minus two, one, minus three are the same, they all belong to one, two, three system. What?
+它仍然是 uvw，靠近这个正方形。比如说，对于一个立方体，你很容易判断 100、010、001 是坐落在该轴上的三条边，对吧？而这些带负的边，它们位于立方体后面，对吗？它们在轴的相反方向，但它们都是等价的。所以我们用一个零零族来包含所有这些。但在音频中。这不仅适用于一个零零的情况，也适用于其他情况，比如一、二、三。右？所以，如果一、二、三和负二、一、减三是一样的，它们都属于一、二、三系统。什么？
+
+
+[2026-09-15 20:42:35]:
+ Now, for cubic systems, this is the most common and seen one, right? So, for cubic systems, you can even ignore the star, right? So, without regard to order or size, they're equivalent. But this is not true if we are no longer talking about cubic systems, right? For example, when A is not equal to B and not equal to C, then none of them can be changed, right? Once you change, everything changes. So that would be different, for example. Now, in this case, we're talking about a tetragonal symmetry. So that is when we have two of the edges before, but the third one is different. So 010 and 100 could be equivalent, but 001 will be a different one.
+对于立方系统来说，这是最常见且最常见的，对吧？那么对于立方系统，你甚至可以忽略恒星，对吧？所以，无论有序还是大小，它们是等价的。但如果我们不再谈论立方系统，这就不成立了，对吧？例如，当A不等于B，也不等于C时，它们都不能改变，对吧？一旦你改变了，一切都会发生变化。所以这会不同，比如说。现在，在这里，我们谈论的是四方对称性。这意味着我们之前有两个边，但第三条不同。所以010和100可能是等价的，但001会是不同的。
+
+
+[2026-09-15 20:43:37]:
+ In this case we cannot use this one zero zero seven anymore. But that would be misleading. Okay, so that's something to point out. Alright, finally, flames. Okay, so for planes, it is the most discussed one among the three. Find direction and planes because many properties are related to planes, right? For example, all the surfaces are actually points, right? So, as long as we have a surface, we have an interface, we talk about the plane, right? In three-dimensional space, like where we're sitting, we use a 2D space to separate one from the other, right? The door, for example, is a 2D surface that separates inside the outside.
+在这种情况下，我们不能再用这个1007了。但那样会误导人。好，这点值得指出。好了，最后是火焰。关于平面，这是三者中讨论最多的。找方向和平面，因为许多属性都与平面相关，对吧？比如，所有表面实际上都是点，对吧？只要我们有一个曲面，我们就有一个界面，我们就谈论平面，对吧？在三维空间中，比如我们坐着的地方，我们用二维空间来区分两者，对吧？比如门，是一个二维表面，在外部内部分开。
+
+
+[2026-09-15 20:44:31]:
+ So we need to define the door that's of plane, right? So we use plant a lot. And also, inside a material, plane is the most commonly thing that related to properties. It's also a boundary inside a material. The material is not always a perfect crystal, right? There are some defects. So that's why planes are mostly discussed, and we have many scientists have some contributions. So metal ring is one of them. You have this metal indices. It's basically another nickname, right?
+所以我们需要定义平面门，对吧？我们经常使用植物。而且，在材料内部，平面是最常与性质相关的概念。它也是材料内部的边界。材料并不总是完美的晶体，对吧？存在一些缺陷。这就是为什么平面被主要讨论，我们有许多科学家做出了一些贡献。金属环就是其中之一。你有金属指数。基本上是另一个昵称，对吧？
+
+
+[2026-09-15 20:45:13]:
+ So, you can just have it in your mind. So, we also have six steps to define a plane, right? But, like I mentioned, they're pretty much like the five-stool maps of how you define a plane using three numbers. But they're no longer co coordinates anymore. They are more like the in the reciprocal of the coordinates, right? So basically, you have a plane, and this plane is drawn in a unicell so that it can intersect this X, Y, Z axis. So you can read the value intercepts right of this axis. Can read three values and you take reciprocal with three values. This is the only difference from the direction just now. But adding the advice will be the same.
+所以，你可以把它放在脑海里。所以，我们还有六个步骤来定义一个平面，对吧？但正如我提到的，它们基本上就像用三个数字定义平面的五凳映射。但它们不再是坐标坐标了。它们更像是坐标的倒易坐标，对吧？基本上，你有一个平面，这个平面画在单胞体中，这样它可以与X、Y、Z轴相交。所以你可以读取这个轴右侧的截距值。可以读取三个值，然后取三个倒数值。这是刚才方向上唯一的区别。但加入建议后，情况是一样的。
+
+
+[2026-09-15 20:46:07]:
+ You remove the ABC values and you change them to smallest integers, right? And then you do a bracket wrapping. And this time we have HKL, right? So QRS, UBW, HKL. Okay, and a round bracket for the ratchets. Round bracket. Okay, and later on, we also have family of points, right? That's another story. Now let's look at a little example. That would be easier to understand.
+你去掉ABC值，然后把它们改成最小的整数，对吧？然后你做括号包裹。这次我们用HKL，对吧？所以是QRS、UBW、HKL。好的，还有一个用于棘轮的圆括号。圆括号。好的，之后我们还有点族，对吧？那是另一个故事。现在我们来看一个小例子。这样会更容易理解。
+
+
+[2026-09-15 20:46:39]:
+ Okay, so in this example we have a plane drawn like that, right? The yellow one. Now this plane is actually crossing origin. Now this makes us a little difficult to read what is intersection, right? Because it's intersecting with x-axis by a line, not a point. And it's also not because I can read properly. In this case, you may need to do some shifting. Again, for planes, parallel planes are equivalent. So you can shift the plane whatever you want. Just don't flip it, right? Don't rotate it.
+好，在这个例子里，我们画了一个平面，对吧？黄色的那个。现在这个平面实际上是穿越原点。这让我们很难判断什么是交点，对吧？因为它与x轴相交的是一条线，而不是一个点。而且这也不是，因为我能正确读取。在这种情况下，你可能需要做一些平移。对于平面来说，平行平面是等价的。所以你可以随意移动平面。只要不要翻转它，对吧？不要旋转它。
+
+
+[2026-09-15 20:47:15]:
+ Just parallel with shifted up or down. So in this it's on board. They actually built another UV cell next to it, right? So that's uh no, this is original, this is the new one, right? So, in a new one, this plane intersects with a z by one point and y by another point, and it happens to be parallel to the x. So, when the plane is parallel to the axis, what's intersectional reading? Right, so we define that by infinity. So the reading, oops, there's my answers. Okay, let's let's let's do that by ourselves. So we have x-axis, which is infinity
+只是平行，向上或向下移动。所以在这个屏幕上。他们实际上在旁边建了另一个UV单元，对吧？所以，呃，不，这是原版的，这是新的，对吧？在一个新的界面里，这个平面与一个z相交一个点，y与另一个点相交，恰好它与x平行。那么，当平面与轴平行时，什么是交叉读数？对，我们定义它为无穷远。所以读数，哦，这就是我的答案。好，我们自己来做这个。我们有x轴，也就是无限大
+
+
+[2026-09-15 20:48:10]:
+ And y is minus p, right? Z over here is C over two, right? And then like take reciprocal. When you take for a superposition infinity, what do you get? Do you know what is reciprocal? That would be which is one. So one should go where we can certainly go now with these zero. Right? Well, my name is Manuel. 0 minus 1 over d and 2 over c right and now I remove ABCs.
+y是负p，对吧？这里的Z是C除以2，对吧？然后取倒数。当你取叠加态为无限大时，得到什么？你知道什么是倒数吗？那就是它是一个1。所以应该去我们现在可以用这些零来确定的方向。右？嗯，我叫曼努埃尔。0减1除以d，2除以c，右边，现在我去掉ABC。
+
+
+[2026-09-15 20:49:13]:
+ So instead of dividing, now I need to multiply because now our format ABC is at the bottom, right? So I multiply the first one by A, which is still zero. The second one will become minus one, then two. Right, so that's pretty much done because they're already the smallest indigenous. They're not, then do something, make them the smallest image, right? Multiply them by the same number, or divide them by the same number. And now we simply solve in this path
+所以现在我不是除法，而是需要乘法，因为我们的格式ABC在底部，对吧？我把第一个乘以A，A仍然是零。第二个会变成负一，然后是二。对，基本上就完成了，因为它们已经是最小的土著图像了。它们不是，然后做点什么，把它们变成最小的图像，对吧？用同样的数，或者除以同样的数。现在我们就简单地沿着这条路径求解
+
+
+[2026-09-15 20:49:45]:
+ Step, we didn't do anything. Zero zero minus one two, and then we just use remember index way of writing it, right? Which is over here, right? So that's our slow gadget, mendering this is to minus one, two. Okay, so all those that to now to this reciprocal, this is not, this is basically mass. But after that, this is some special requirement that we require to read the crystal both in flame. Okay, so you can easily separate them into two major groups. Okay, so let's have a quick test, guys. So, we don't have to vote on anything, just think about it, right? Now, what is the middle indices of these two points?
+步骤，我们什么都没做。零零减一二，然后我们用记住索引的方式写，对吧？那是在这边，对吧？这就是我们的慢工，修正它，是负一，二。好，所有到现在倒数的，这基本上就是质量。但之后，有个特殊要求，我们需要读取晶体的火焰。好，你可以把它们分成两大类。好，大家来做个快速测试。我们不需要投票，只要想一想，对吧？现在，这两个点的中间指标是什么？
+
+
+[2026-09-15 20:50:47]:
+ So, for the first one, for starters, it is parallel to Z, right? No matter how you expand, so by the way, the plane we draw is always part of the 2D plane. The entire planet is infinitely large. Across all the UK cells, okay? So sometimes it's a triangle, sometimes it's a rectangle or whatever shape, but it's the only part we draw this itself, right? You can repeat it, expand it, whatever you want to make sure it can intersect with the letters you're interested in. Okay, so for this one, no matter how you expand it, it will not trust C, right? So, you immediately know based on our conclusion just now, it's parallel to x. So it ends up to have a zero for sex axis, right? So, this one you should know, it should be something, something little right now.
+首先，它与Z平行，对吧？无论你怎么展开，顺便说一句，我们画的平面总是二维平面的一部分。整个星球是无限大的。跨越所有英国单元格，明白吗？有时候是三角形，有时候是矩形或其他形状，但这是我们唯一画出来的部分，对吧？你可以重复、展开，随你喜欢，确保它能和你感兴趣的字母相交。好，所以这个，无论你怎么展开，它都不会信任C，对吧？所以，根据我们刚才的结论，你立刻知道它与x平行。所以它的性别轴最终是零，对吧？所以这个你应该知道，现在应该是个小的。
+
+
+[2026-09-15 20:51:48]:
+ I think it's quite straightforward that it intersects with eyes and X and Y exactly by their edge lengths, right? So these two are equal. So, when there you need for a separating the A and B, just like that, right? After you remove A and B, after you take reciprocal, they're still the same. So you end up to be even what one one one zero, right? Yeah, so one one zero. Okay, so this will be our miller index. All right, how about the right one? Hi, anyone have some good guesses? Any other choices?
+我觉得很简单，它和眼睛、X、Y的交点正好是边长，对吧？所以这两个相等。所以，当你需要分开A和B时，就像这样，对吧？当你去掉A和B，取倒数后，它们仍然是一样的。所以最终是1110的偶数，对吧？是的，也就是110。好，这就是我们的米勒指数。好的，那正确的那个怎么样？你好，有人有什么好猜测吗？还有其他选择吗？
+
+
+[2026-09-15 20:52:35]:
+ How about two two two? So it's not the smallest integer, that's correct. Yeah, but I need to find out that if you're studying some advanced frizzographic techniques, for example, in other codes, if they talk about XRD or something else, there is a chance that the machine can distinguish one-on-one from two to two. So there are cases you still see 222 or 224, right? Where they can still be divided, but they're not divided, it's possible. Okay, so uh, so so there's always uh rules and things that does not feel in rules, right? Medson for the world. So let me come back. So for those things you cannot direct PCs all online, right? Now, one way of doing this is you can try to push back this plane parallelly, right, to this articular triangle.
+那二呢？所以不是最小的整数，对吧。是的，但我需要弄清楚，如果你在研究一些高级毛躁技术，比如其他代码中，如果他们提到XRD或其他东西，机器有可能一对一地区分二和二。所以你仍然会看到222或224的情况，对吧？它们仍然可以被除，但它们不被整除，这是可能的。好的，所以总有一些规则和规则里感觉不存在的东西，对吧？Medson，世界。让我回来一下。对于这些东西，你不能让PC全部在线，对吧？一种方法是尝试将这个平面平行推回关节三角形。
+
+
+[2026-09-15 20:53:36]:
+ So, the triangle I draw is exactly parallel to the parallel to the triangle on top. Well, I simply push it back. The reason I did that is I wanted to intersect with XYZ. They happen to be at the three columns, right? So I do tell you it's ABC. So when you remove ABC, you normalize them by ABC, you get one one. Okay, so if it's a cube, then basically it's just a way of cutting out the corner, right?
+所以我画的三角形正好与上方三角形的平行线平行。我只是把它往后推。我这么做的原因是我想和XYZ相交。它们恰好在三列处，对吧？所以我告诉你，它是ABC。所以当你移除ABC，用ABC归一化它们时，得到一个。好的，如果是立方体，基本上就是切掉角落，对吧？
+
+
+[2026-09-15 20:54:17]:
+ That's why we can tie this out. I can also have the bottom on the help you understand where I'm copying it. Okay, so uh but we don't know if it's a cube yet, it doesn't matter. Is the value should be okay? So it should be one one one. Right. Okay. Oh, I have it. Good. Okay, so this is the other way around.
+这就是为什么我们可以把它绑起来。我也可以让底部的部分帮你理解我在哪里复制它。好的，呃，但我们还不知道它是不是立方体，这无所谓。这个数值应该没问题吗？所以应该是一一一。右。好的。哦，我知道了。很好。好，那就是反过来。
+
+
+[2026-09-15 20:54:44]:
+ So, constructing a plane when you're given the three HKL values. Okay, I'm not going to go through this in detail. Is basically reversing everything, right? Just remember when you see zero, that means it's going to be parallel in one of the axes. Okay. And also remember in a real fashion, you cannot be given an easy value as one. Right? So, you have to really make and understand the process, how we derive value or diversity. Okay, it's going to be a little bit more complicated than just one zero. Okay, this is for our easy learning.
+所以，当你获得三个HKL值时，构造一个平面。好吧，我不打算详细讲这个。基本上就是把一切都反转了，对吧？记住，当你看到零时，意味着它在其中一个轴上是平行的。好的。还要记住，你不能被简单地给出一个值。右？所以，你必须真正理解这个过程，我们如何获得价值或多样性。好的，这会比一个零更复杂一些。好，这是为了我们的简单学习。
+
+
+[2026-09-15 20:55:26]:
+ Okay, so feel free to go through this by yourself. Okay, so just like directions, planes are also equivalent if they're parallel. And for families, we use this curly bracket. So this is some terminology. Curly bracket to describe a family of planes. So for cubics and force builds, right? No matter this all one or one minus sign or two minus sign or three minus signs, they're all equivalent. They're very happy. So this is one of our sample. Okay, so uh, for cubic systems, everything's very interesting, so um, everyone loves cubic systems, right?
+好的，那你可以自己来讲解。好的，就像方向一样，平面如果平行也是等价的。对于族，我们用这个曲括号。这就是一些术语。括号用来描述一族平面。对于立方曲线和力的构造，对吧？无论这些都是一号、一号减号、两个减号还是三号，它们都是等价的。它们都很满意。这是我们的一个样本。好的，呃，对于立方系统，一切都很有趣，嗯，大家都喜欢立方系统，对吧？
+
+
+[2026-09-15 20:56:19]:
+ So, for hexagonal crystals, right, I'd like to point out some differences, right? So, first of all, we have two ways of naming a dagger unicell's plane, right? It could be three letters or four letters, right?
+对于六边形晶体来说，我想指出一些区别，对吧？首先，我们有两种方式来给匕首单胞体的飞机命名，对吧？可以是三个字母，也可以是四个字母，对吧？
+
+
+[2026-09-15 20:56:42]:
+ Here we're using, I think we're using interactions of example, right? That's why we've come up with UBW again. Okay. But it's for either way, right? The fourth index system is because we add another axis on the ground floor, right? So the last one is always lead that, but for the bottom one, sometimes we use only two coordinates. Sometimes we manage all the three, right, like that. So that's why we end up a four indexes, right? And how these two are converted, I'm given. I'm already giving it to you.
+这里我们用的是交互作用，对吧？这就是为什么我们又想出了UBW。好的。但无论哪种方式，对吧？第四个指标系统是因为我们在底层增加了另一个轴，对吧？所以最后一个总是领先，但底部那个，有时只用两个坐标。有时我们管理全部三个坐标，对吧，就是这样。所以我们最终会得到四个索引，对吧？这两条索引是如何转换的，我已经给出了。我已经给你了。
+
+
+[2026-09-15 20:57:32]:
+ This is something you can go to Ouija if you want, right? We are not required for you to memorize it, but you're required to know how to use it. Right. I know how to use them. So it's one of this past job of this course is learn how to rather than memorize things. All right, everything you can easily search from internet is actually not supposed to be memorized by yourself anymore, right? You don't know how much AI will actually move forward by new features. But the core logic should be holding by yourself, right? No matter how it changes, you know how to convert it from one to the other. Okay.
+如果你愿意，可以去做通灵板，对吧？我们不要求你背熟它，但你必须知道如何使用它。右。我知道怎么用它们。所以这门课的前一个任务是学会，而不是死记硬背。好吧，所有你能在网上轻松搜索的东西其实都不应该靠自己记忆了，对吧？你不知道AI会通过新功能真正进步多少。但核心逻辑应该能靠自己支撑，对吧？无论它如何变化，你都知道如何把它从一个转换到另一个。好的。
+
+
+[2026-09-15 20:58:19]:
+ Now that's enough for the rest of the day, right? To spend relaxed right now to go through some knowledges, right? Remember what I talked about that the world war is always different, right? So, in the real world, we can define the unicell, but the whole material is not simply repeating of a piece of unicell into all directions. They repeat themselves by some distances, and then this the thinking is interrupted, and it starts to repeat again from another distances. So, in other words, if you zoom in, right, this whole piece of material is usually made of from more than one single crystal, right? Single crystal is the one that you can repeat the unit cells without any interruption, right?
+今天剩下的时间就够了，对吧？现在放松地学习一些知识，对吧？还记得我说过的世界大战总是不同的，对吧？所以，在现实世界中，我们可以定义单晶体，但整个材料并不是单晶体在各个方向重复。它们会重复某些距离，然后思考被打断，从另一个距离开始重复。换句话说，如果你放大看，这整块材料通常由多个单晶体组成，对吧？单晶体是指你可以在不中断的情况下重复晶胞的晶体，对吧？
+
+
+[2026-09-15 20:59:16]:
+ So that's a perfect case, right? And in the real world, this happens only by a small disk, usually in the nano or microscope. Right?
+所以这是一个完美的情况，对吧？在现实中，这种情况通常通过一个小圆盘发生，通常在纳米或显微镜中。右？
+
+
+[2026-09-15 20:59:29]:
+ On the contrary, most of the time we're talking about many, many small single crystals merged together, smarged together, but they do not actually align with each other. So it's all single pieces and the force of closed metal we call this polycrystalline material, not polycrystalline material. Okay, that happens the most crystallized rosolics. All right, only in the very high-end applications that we need very high-cost processing methods to make the single dristo. And it's not going to be a large single crystal, right?
+相反，大多数时候我们谈论的是许多许多小单晶融合在一起、被擦在一起，但它们实际上并未完全对齐。所以它们都是单片，闭合金属的力我们称之为多晶材料，而不是多晶材料。好的，这就是最结晶的罗索利克材料。好吧，只有在非常高端的应用中，我们需要非常高成本的加工方法来制造单晶。而且它不会是大块单晶，对吧？
+
+
+[2026-09-15 21:00:12]:
+ So, one of the fundamental rhythms is if you look at this pathway, this is how we imagine material solidify from liquid. So, if you cool down a liquid form of metal, for example, as all these squares are simulating the unit cells, the solidification doesn't come from one point, usually. It simultaneously nucleates from multiple sites, right? So here, here, here, here, here, here. All together, right, they somehow reach their solidified point, right, below the melting point. So it starts to crystallize. So, one unicell form first, and the neighboring unicells come back, right? So they become larger and larger, but they all were isolatedly grown. So, they don't know what's the direction of their neighbor nuclear site, right? So it could be usually right by statistics.
+所以，一个基本的节奏是，如果你观察这条路径，我们想象材料是如何从液体中凝固的。比如，如果你冷却一种液态金属，当这些方形模拟晶胞时，凝固通常不会从一个点开始。它会同时从多个点成核，对吧？所以这里，这里，这里，这里，这里，这里。它们一起，某种程度上会达到固化点，也就是熔点以下。所以它开始结晶。首先形成一个单胞体，然后邻近的单胞体会重新出现，对吧？它们会越来越大，但它们都是孤立生长出来的。所以，它们不知道邻近核站点的方向，对吧？所以根据统计学，通常是正确的。
+
+
+[2026-09-15 21:01:24]:
+ Statistics, you should know they should be different, right? So, when they start to grow larger and larger and finally meet with each other, they can no longer change their directions anymore. Temperature already lower down, right? No more energy for them to rearrange themselves. Is that important? So that's why the final solid we get is only like this. Okay? So now you can imagine if I heat it again, I give it sufficient time. Will it be a single crystal or more single than before? It's possible.
+统计学上，你应该知道它们应该不同，对吧？所以，当它们开始越来越大，最终相遇时，它们就无法再改变方向了。温度已经下降了，对吧？它们没有能量去重新排列。这重要吗？所以这就是为什么我们得到的最终固体就是这样的。明白吗？现在你可以想象如果我再加热它，给它足够的时间。它会是单晶体还是比之前更单晶？有可能。
+
+
+[2026-09-15 21:01:59]:
+ Okay, this is actually one way we are making simple whistles, right? Repeated, we cannot repeat it, we can by repeated. Of course, it has to be delicately controlled because if the temperature is too high, they go back to liquid again. Damaging they go back to chaos again, right? So you have to give them energy only enough for the crystals to move as a hole instead of direct all tear apart. Okay, so a little more. Okay, so in a real material where you cut a piece of metal, for example, and you zoom in on the microscope, right? Sometimes you can see this pattern, but ignore these arrows. If it's a gray is a white, no, it's a plain flat surface, but you see some darker regions, just like the map, the boundary between different provinces, for example. It's irregular and random, right?
+好，这其实是我们制造简单口哨的一种方式，对吧？重复，我们不能重复，只能通过重复。当然，必须非常细致地控制，因为温度过高，它们会回到液态。损坏时，它们又会变成混沌，对吧？所以你必须只给它们足够的能量，让晶体作为孔移动，而不是直接撕裂。好，再多一点。好，比如在真实材料中，你切割一块金属，然后放大显微镜，对吧？有时你能看到这个图案，但忽略这些箭头。如果是灰色，那是白色，不，是平面，但你会看到一些较暗的区域，就像地图上不同省份的边界一样。它是不规则且随机的，对吧？
+
+
+[2026-09-15 21:02:58]:
+ So, it's not a US map, more like our China map, because it's all curly and not so straight, right? So, these single pieces we call them grains, right? Is basically another name of the single crystal, right?
+所以，这不是美国地图，更像是我们的中国地图，因为它都是卷曲的，不那么直，对吧？所以，这些单片我们称之为颗粒，对吧？基本上是单晶的另一种名称，对吧？
+
+
+[2026-09-15 21:03:17]:
+ With cover green, right? And this is a very frequently used term, Greek. Okay, and these boundaries are called grain boundaries. Many properties come from grid boundaries. Okay, so you should be familiar with green and green boundary. Okay, and that they all come from totally crystalline nutrition. Okay. Okay
+用盖绿色，对吧？这是一个非常常用的术语，希腊语。好的，这些边界被称为晶粒边界。许多属性来自网格边界。好的，你应该熟悉绿色和绿色边界。好的，它们都来自完全结晶的营养。好的。好的
+
+
+[2026-09-15 21:03:41]:
+ So, then we have some relaxed moments. I'm going to flash a lot of personal structures that we haven't talked about. The real-world examples, and most of them are very classic, so you need to know their presence, right? But you should get familiar with the names. So, a first pair is diamond and graphite, which are two typical examples of carbon, right? Remember, they're called allotropes, right? This pedana is allotropey, right? Materials, two crystal structures, and it's a single element. Now, diamond, we just saw that for the one of the tin, right? Have this diamond button.
+然后我们会有一些放松的时刻。我会展示很多我们还没谈过的个人结构。现实世界的例子，大多数都很经典，所以你需要了解它们的存在，对吧？但你应该熟悉这些名字。第一对是钻石和石墨，它们是碳的典型例子，对吧？记住，它们叫同素异形体，对吧？这个佩达纳是同素异形体，对吧？材料，两种晶体结构，而且是单一元素。现在，钻石，我们刚才看到锡的那个，对吧？有这个菱形按钮。
+
+
+[2026-09-15 21:04:26]:
+ So, this is not just the substance name. Of the crystal structure snatch. Okay, diamond and the crystal of brutes name too. Okay, so more than you. So molten carbon, we also have Zenaton and Germania, and just now a lot of the tin crystal structure, right? Wall fall into a diamond tape, right? So if you take a closer look, they actually leave longer ones, phase center ones, and a few more in the centers. I'm not too sure actually if you look out closely. Okay, so a lot of the atoms actually inside the single cell. Okay, and then I have graphite, which is a layered structure, right?
+所以，这不仅仅是物质名称。关于晶体结构的抓取。好的，钻石和野兽晶体的名字也包括。好的，比你还多。熔融碳，我们还有Zenaton和Germania，刚才有很多锡晶体结构，对吧？墙体坠落在钻石胶带中，对吧？如果你仔细看，他们实际上会留下较长的晶体，相中心的晶体，还有一些在中心的晶体。其实如果你仔细看，我不太确定。好的，很多原子实际上都位于单细胞内部。好的，然后我有石墨，这是一种分层结构，对吧？
+
+
+[2026-09-15 21:05:11]:
+ So, if you haven't heard the story of the Nobel Prize of graffiti, right? So we can get graphene because graphite is a layer structure with strong interplane covalent bonding and weak, sorry, strong inert and intraplane, but weak interplane interactions of ventral forces. Can actually peel off these single sheets via a scars tape. That's the beautiful thing of that number price. But yeah, you'll find something on the carbon follow, and then we also have other examples of materials that follow layered shapes, right? Like many of these 2D materials that you've probably heard about, but they all have the similar topology. And moving on from single element, we also have multi-element cases. I'll also talk about this in the ceramic part, right? But just to give you a preview, we have some names, for example, rock salt, which is also called sodium chloride sometimes. A drop salt is when you have a few elements, right?
+所以，如果你还没听说过涂鸦诺贝尔奖的故事，对吧？所以我们能得到石墨烯，是因为石墨是一种具有强烈层间共价键和弱的、呃，强惰性和平面内但较弱的腹部间相互作用的层结构。它实际上可以通过疤痕胶带剥离这些单片板。这就是这个数字价格的美妙之处。但没错，你会在碳跟踪上找到一些东西，然后我们还有其他遵循层状形状的材料例子，对吧？就像你可能听说过的许多二维材料一样，但它们的拓扑结构都相似。从单元素开始，我们还有多元素的案例。我也会在陶瓷部分谈到这个，对吧？但为了给你一个预览，我们有一些名字，比如岩盐，有时也叫氯化钠。滴盐是指你有几种元素，对吧？
+
+
+[2026-09-15 21:06:28]:
+ One of the elements they sit at the phase centers, right? The green ones. And then the red ones are sitting at the center of the edges, right? and also with body syndrome. Right, so this is a typical. If you go back and count, how many red balls and how many green balls are actually inside the cell, they should be equal, right? should be equal because the capital formula will be AX, right? For example, sodium, chlorine, magnanimous, oxygen, iron, oxal, right? So they all have one to one ratio. Okay, so this is one kind, but when we have a positive and negative ion, this is ion, these two compounds.
+其中一种元素位于相中心，对吧？绿色的。红色的则位于边缘的中心，对吧？还有体综合征。对，这就是典型的。如果你回头数数，细胞内实际上有多少个红球和多少个绿球，它们应该相等，对吧？应该相等，因为大写公式是AX，对吧？比如钠、氯、宽宏大量、氧、铁、草氢，对吧？它们的比例都是一比一。好，这是一种，但当我们有正负离子时，这就是离子，这两种化合物。
+
+
+[2026-09-15 21:07:17]:
+ How they come have one if I love salt, they don't have this one. This one really like a body center, right? But it's not a body center because the middle one is now another element. The potter wines are one allergy. The body center is another element. And you can easily count. We have one atom, one blue atom, and one green atom, eight times one eighth, right? So this is also one-to-one. And classic number would be Stevian Australia, Clara, and Cindy and Groma. I am social real personal structure.
+如果我喜欢盐，他们怎么会有一个，他们没有这个。这个真的很像身体中心，对吧？但它不是身体中心，因为中间的那个现在是另一种元素。陶艺酒是一种过敏。身体中心是另一种元素。你很容易数出来。我们有一个原子，一个蓝色原子，一个绿色原子，八乘八分之一，对吧？所以这也是一比一的。经典数字是Stevian Australia、Clara，以及Cindy和Groma。我是一个社会真实的个人结构。
+
+
+[2026-09-15 21:07:50]:
+ So this is exactly its name, seasoning fallout. So very straightforward. All right, and more over another two for A laps time, right? This one is zinc blend, right? Blends. They have zinc sulfide, silicon carbide, gallon last night. Taking this resource structure. Now, the yellow balls are at the phase center, and the blue balls are inside, right? They're actually in this hatchman venal center. And we we draw this dashed line for the understanding.
+这正是它的名字，调味落尘。非常简单明了。好了，再来两圈，A圈时间，对吧？这是锌混合物，对吧？混合物。他们昨晚用了硫化锌、碳化硅，加仑。以这个资源结构为例。黄色球在相中心，蓝色球在里面，对吧？它们实际上在这个孵化人腐败中心。我们画这条虚线来理解。
+
+
+[2026-09-15 21:08:27]:
+ So, this is kind of the changed version of this diamond.
+所以，这就是这颗钻石的变体版本。
+
+
+[2026-09-15 21:08:38]:
+ The diamond both are the same position, the same kind of atom, but now we have two kinds. Okay, we have two kinds. So, the four because they're inside a unit cell, so you know it's four atoms. And we already calculated for FCC, these are also four items, right? So four to four still one to one ratio, right? And uh we're site, right? So, we're site is very looking like a HCP structure, right? So, this unit cell just like HCP we talked about, but now the B layer is another atom. One atom and the other kind of atom, and the first kind of atom again. So, the top view, this is from another textbook.
+钻石位置相同，原子种类相同，但现在我们有两种原子。好的，我们有两种。四个是因为它们在一个晶胞内，所以你知道是四个原子。我们已经计算过FCC，这也是四个元素，对吧？所以四比四仍然是一比一的比例，对吧？嗯，我们是站点，对吧？所以，我们的站点看起来非常像HCP结构，对吧？这个单元胞就像我们之前提到的HCP一样，但现在B层是另一种原子。一种原子，另一种原子，再来一种原子。所以，顶部视图，来自另一本教科书。
+
+
+[2026-09-15 21:09:23]:
+ So, the drawing style will be different. So the top view of the footprints, right? They're close packing in terms of their position. But we don't call them cloth typing animals because they're very different. So we need to be very careful whether they are the closest package. We only call the closest kind of packing for thanking. Okay. All right, so examples are a lot like zinc cell phi, zinc cell size, heavy file file, like that. Okay, and another kind of crystal structures will be A and X2 type, right? So, these are also commonly seen in ceramics, right?
+绘图风格会不同。所以是足迹的顶部视图，对吧？它们的位置是紧密排列的。但我们不称它们为布料分类动物，因为它们差异很大。所以我们需要非常小心它们是否是最接近的包裹。我们只在感谢时称最接近的包装类型。好的。好的，例子很像锌电池φ、锌电池大小、重型文件文件等。好的，另一种晶体结构是A型和X2型，对吧？这些在陶瓷中也很常见，对吧？
+
+
+[2026-09-15 21:10:06]:
+ One is called fluoride, that one is called rutile, right? Fluoride is more straightforward, right? The blue, the green balls are fitting at a very neat lattice, where this purple small balls, right? Of alternatively sitting the at the this patch touch on regional position. It's more like it's different, it's different from this one, okay? One, you're only touching four atoms. Here, you're touching eight atoms. It's in right in the body center of this cube, okay? So again, don't ask me why, because this is what we learn from nature. We draw this model from nature.
+一个叫氟化物，那个叫金红石，对吧？氟化物更简单，对吧？蓝色和绿色的球体排列成一个非常整齐的晶格，紫色的小球，对吧？交替地位于这块区域位置。更像是它不同，和这个不同，好吗？第一，你只接触到四个原子。这里，你接触的是八个原子。它正好在这个立方体的正中央，明白吗？所以，再问我为什么，因为这是我们从自然中学到的东西。我们从自然中绘制这个模型。
+
+
+[2026-09-15 21:10:50]:
+ I also want to know why. So the truth is, there are many of these fluoride and offsides, they like this packing for some reason. And uh rutel is a special case bisc because it's no longer Q. Well it's actually authentic. I think it's a temperature interview cells. And the positions are also not quite regular, right? The outsides and these crystals, and they're sitting somewhere not on the center of the diagonal, but somewhere between the center to the corner of the side or surface. Okay, this is one person structure of titanium oxide. And then oxide also has some other structures. But if you're talking if you're learning photo or optical related applications, we're going to hear titanium dioxide a lot.
+我也想知道为什么。事实是，有很多氟化物和侧面，它们喜欢这种填充方式，不知为何。而且，鲁特尔是个特殊案例，因为它不再是Q。其实它是真实的。我认为它是一个温度访变单元。而且它们的位置也不完全规整，对吧？外层和这些晶体，它们位于中心和侧面或表面之间的某个位置，而不是对角线的中心。好的，这是钛氧化物的单人结构。氧化物还有其他结构。但如果你在学习摄影或光学相关的应用，我们会经常听到二氧化钛。
+
+
+[2026-09-15 21:11:50]:
+ Okay, so titanium, ruzinium, iridium oxides, they like this little tile structure. Okay, so the third kind of AX2 will be the cadmium iodide. Now this one is very simple because it is a layer structure. At each layer, it has sandwich structure, right? So, whatever is the two, the X, A X, the X, it's on our side, whatever is A is inside. So we can use an account if you want to picture a ratio. But it's a layers like this. These mostly are talking about, for example, hydroxides. That's hydroside is a big group of layer structures, and some diagramides like this. Okay, the last one, I believe.
+好的，钛、铯、铱氧化物，它们喜欢这种小瓦片结构。好的，第三种AX2是碘化镉。这个非常简单，因为它是一个层结构。每一层都有夹层结构，对吧？所以，无论是X、A、X，X，都在我们这边，A在里面。如果你想想象一个比例，我们可以用一个说明。但这是这样的层。这些主要讨论氢氧化物。氢氧化物是一大类层结构，还有类似这样的图示。好的，最后一个，我相信。
+
+
+[2026-09-15 21:12:48]:
+ Yeah, the last one. Yeah, so stay with me. Okay, last one. They're famous, right? And if you're a fan of science, the journal, not the science, in general, the journal science, this material is one of the star materials, right? For raw skies. Now, to all sky, the definition is not a material, exactly the crystal structure's name, right? So you can tell that to your friends. Also, it's not a material. Is the name of a crystal structure which happened to be one of the hot materials that people study for photovoltaic applications?
+是的，最后一个。是的，请继续听我说。好，最后一个。他们很有名，对吧？如果你是科学杂志的粉丝，这种材料是恒星材料之一，不是科学，而是一般的科学期刊，这种材料是恒星材料之一，对吧？对于原始天空来说。对所有天空来说，定义不是材料，准确来说就是晶体结构的名字，对吧？你可以告诉你的朋友们。而且，它不是一种材料。是不是那种被人们研究用于光伏应用的热门材料的晶体结构名称？
+
+
+[2026-09-15 21:13:29]:
+ So, Perovska is the ABX3 structure, right? So we have three kinds of atoms, right? So very straightforward. Usually we have Holder atoms, S1. These are AOB, and the body center is another AOB. And the phase centers, which contribute three atoms, remember, to the unit cell, leave this atom. Now in the tomb of the wealthy materials that people are publishing for science, right? They are not, they cannot just be an atom, they could be a molecule or a plastic or something. For example, if we're an organic salt guy, then we're replacing the whole bunch by large cell ions or something. And because of these changes, they make this material having a very complicated dam gap, which is one of these black parties, and making them very responsive to the light.
+所以，Perovska是ABX3结构，对吧？所以我们有三种原子，对吧？所以非常简单。通常我们有Holder原子，S1。这些是AOB，身体中心是另一个AOB。相中心，这些相中心，记住，向晶胞贡献了三个原子，离开了这个原子。现在，在人们为科学发表的丰富材料的坟墓里，对吧？它们不可能只是原子，它们可能是分子、塑料或其他东西。比如，如果我们是有机盐类的，那么我们就用大细胞离子等东西替代了整批。由于这些变化，这些材料形成了一个非常复杂的坝间隙，也就是黑层之一，使它们对光非常敏感。
+
+
+[2026-09-15 21:14:27]:
+ They were believed to be the next generation photovolting material, but that can totally replace, for example, the silicon anodes, right? But we don't know how far that is. One key challenge is that they always involve a heavy metal. So it could be false. Yeah, but that's not our concern here. So basically, this is typically how we draw draw side. And there are some examples. Usually, the three is the oxygen and the other two are all metals, right? Uh, in a real world, it gets even more complicated than that. All right, uh let me stop here for today.
+它们被认为是下一代光伏材料，但这完全可以替代硅阳极，对吧？但我们不知道这有多远。一个关键挑战是它们总是涉及重金属。所以可能是假的。是的，但这不是我们这里关注的重点。基本上，这就是我们通常绘制的“磁相”一面。这里有一些例子。通常，这三者是氧气，另外两者都是金属，对吧？呃，在现实世界中，情况会更复杂。好了，呃，我今天就先说到这里。
+
+
+[2026-09-15 21:15:05]:
+ Uh please come back
+呃，请回来
+
+

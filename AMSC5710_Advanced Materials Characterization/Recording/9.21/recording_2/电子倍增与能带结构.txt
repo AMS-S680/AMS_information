@@ -1,0 +1,46 @@
+电子倍增与能带结构
+日期: 2026年9月21日 12:29
+语言: 英语 → 中文
+时长: 15分21秒
+
+[0:00]
+It'll be easy. 我是真听懂了，完蛋了。
+It'll be easy. 我是真听懂了，完蛋了。
+
+[0:01]
+要死。
+Die.
+
+[0:26]
+Hello, can you hear me that?
+喂，你能听到我吗？
+
+[0:28]
+Testing, test, testing.
+测试，测试，测试。
+
+[0:31]
+Yeah, it's good.
+是的，很好。
+
+[2:07]
+30 seconds to support, right, and then we talk about into the instrumentation. Right.
+还有30秒就要上场了，对吧，然后我们再聊仪器部分。
+
+[2:30]
+Now, before we get to the end, right, there's actually one last piece of the instrumentation that needs to be covered, and I wasn't able to do that in the last lecture. Considering we're receiving electrons, right, so this part is related to how our new device receives these electrons, right, the.
+现在，在我们结束之前，对吧，仪表部分其实还有最后一部分需要讲清楚，上一节课我没能做到。考虑到我们接收的是电子，对吧，所以这部分是关于我们新设备如何接收这些电子，对吧，这个。
+
+[4:29]
+Setting is actually very straightforward, right, it consists of a series of anodes, right, so it's called a diode, right, so what happens is that the arrangement of these anodes is that one will be positioned, right, facing the other one, but at a more positive potential, right, so the idea is very simple, that is, towards the problem of why do you have incoming electrons, if the number of electrons is very small, right, now when you cut this number of electrons, right, now you are also getting a lot of the noises from the environment, right, so the signal-to-noise ratio is very low, right, but when you have a lot of electrons coming, things will be different. Right, so you worry less about the noises and everything, okay, so this diode is for that purpose, it helps you to create a lot of electrons through a so-called electron polyplication process, right, so the idea is that, okay, you have incoming electrons, this is your original signal coming from the XPS, the photoelectrons, right, now you need to, you're going to collect them, right, now before you're collecting them at this end, what happens is that these electrons will be heating, right, the first electrons maybe here, right, so by heating it, right, it will cause the second electron emission from the piece of electron, right, so this is a process when you use electrons, certain energy, to heat a piece of metal, right, then the metal electrons will be getting that amount of energy and when energy is high enough, it's coming out, so this is a so-called second electron generation process, and in order to use that a lot, the next block of the keychain, which is about electron microscopy, right, but this is just taken for granted now, you have electrons coming, heat a piece of metal, then in the piece of metal the electrons of the metal will be coming out, so this is second heating process.
+设置其实非常直接，对吧，它由一系列阳极组成，对吧，所以称为二极管，对吧，那么发生的情况是，这些阳极的排列方式是一个朝向另一个，对吧，但电势更正，对吧，所以思路很简单，即，针对为什么会有入射电子的问题，如果电子数量非常少，对吧，那么当你减少这个电子数量时，对吧，你也会从环境中得到很多噪声，对吧，所以信噪比很低，对吧，但当有很多电子进来时，情况就会不同。对吧，所以你对噪声等担忧更少，好的，所以这个二极管就是为了那个目的，它通过所谓的电子倍增过程帮助你产生大量电子，对吧，所以思路是，好的，你有入射电子，这是你来自XPS的原始信号，即光电子，对吧，现在你需要收集它们，对吧，在你在这一端收集之前，会发生的是这些电子会被加热，对吧，第一批电子可能在这里，对吧，所以通过加热它，对吧，它会从电子块上引起二次电子发射，对吧，所以这是一个过程，当你使用具有一定能量的电子加热一块金属时，对吧，然后金属电子会获得那么多能量，当能量足够高时，它会出来，所以这就是所谓的二次电子产生过程，而为了大量使用它，下一块钥匙链，关于电子显微镜，对吧，但这现在被视为理所当然，你有电子进来，加热一块金属，然后在这块金属中，金属的电子会出来，所以这是二次加热过程。
+
+[14:45]
+Until you use up all of them, all right? So we start with a topic levels, all right. Now, until we're reaching a band, which is known as the Willis band, right, which is the top most energy levels of these materials, this electron sputum, right, now the amount of that, right, depending on whether you have a piece of metal or a semiconductor insulator, right, you may or may not have an energy gap in between the Willis band, which are the few states of electrons, and the conduction band, which is, um, somewhere, all right? These are empty battery states, right, so they are still a lot of energy levels, but they are empty, right, so they are somewhere here. Right, but here I want to talk about two very important—let me, let me draw it. It's, uh, these are the parts that are missing. So we start from atomic levels, right, now here we reach a band which is known as the Willis band, all right, now above the Willis band we have another energy band which is the conduction band, all right, so this is basically the electronic structure of the materials.
+在你们用完它们之前，好吗？所以我们从主题层次开始，好吗。现在，在我们达到一个称为威利斯带的能带之前，对吧，也就是这些材料的最高能级，这些电子态，对吧，那么其数量，对吧，取决于你有一块金属还是半导体绝缘体，对吧，你可能在威利斯带——即电子的少数态——和导带之间会有或没有能隙，导带就是，嗯，在某个位置，好吗？这些是空的能带态，对吧，所以它们仍然有很多能级，但它们是空的，对吧，所以它们大概在这里。对，但在这里我想谈两个非常重要的——让我，让我画一下。呃，这些是缺失的部分。所以我们从原子能级开始，对吧，现在我们达到一个称为威利斯带的能带，好吗，现在在威利斯带之上我们有另一个能带，即导带，好吗，所以这基本上就是材料的电子结构。
+
+[15:21]
+So starting from the atomic levels and the Willis band is the last energy levels, right, we have a lot of them, and there, right, was electron sputum, right, now on top of that, right, it could be a gap, or you don't have a gap if it's a metal, right, but then you have a range of empty energy levels in there, right, so these are known as the conduction band, all right, so there are two different levels which are very important in terms of definition, uh, definition, right, the first is the so-called Kirby level, right, of materials, and that's in between—between the Willis band and the conduction band, right, so if it's intrinsic material without doping, the second.
+所以从原子层面和威廉带开始， 是最后的能量水平，对吧， 我们有很多这样的能量， 而那里，对吧，是电子"粪"，对吧， 现在在这之上，对吧， 可能会有一个空隙，或者你并没有空隙， 如果它是金属的，对吧， 但那里面会有一系列空能量水平，对吧， 所以这些被称为导电带，好吗， 所以有两个不同的水平，非常重要， 就定义而言， 呃，定义，对吧， 第一个是所谓的"Kirby level"， 对吧，对材料而言， 它位于——在威廉带之间， 以及导电带之间，对吧， 所以如果是无增幅的内在材料， 第二个。
+
+— 由 LecSync 生成

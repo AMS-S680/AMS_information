@@ -1,0 +1,720 @@
+[2026-09-10 18:54:51]:
+ But then now they have devices made of DNA. That would be DNA part of this material. That's yes, right? But then in the conventional definition, they're not, they're micromolecules. Now of course if you break down further you have single atoms and if you break the atom down so you have neutrons, protons, electrons and all getting even smaller, right? But then out. The atomic level, right? Will they call these things atoms, molecules, or can we call them materials? Well they are the so-called the single atom catalyst. So the single atom can actually work as a catalyst for the kinetic reactions of chemistry.
+但如今，他们有了由DNA制成的设备。这属于该材料中的DNA部分。是的，对吧？但在传统定义中，它们并不是，它们是微分子。当然，如果进一步分解，就会得到单个原子；如果再分解原子，就会得到中子、质子、电子等等，尺寸变得更小，对吧？再往外看，在原子层面，我们会称这些东西为原子、分子，还是可以称之为材料呢？实际上，它们就是所谓的单原子催化剂。因此，单个原子实际上可以作为化学反应动力学的催化剂。
+
+
+[2026-09-10 18:55:43]:
+ It looks like it can be caught as a physical term, right? And that is the reduction of the conventional classification or definition of materials. It looks like uh we cannot we can no longer rely on the uh definition of the bid scale to tell whether something is a piece of materials or not. Then uh what is the uh adjustment made up functionality right? So, if we're going to use certain property or function of something as a judgment for a material, well, it seems to work, right? In that sense, DNA or single atom can be done material because it provides certain functionalities, right? To enable certain advantages. Now, giving you an example, right, one of aesthetic energy. I guess everybody is familiar with chip. You're the cheapest hairware.
+看起来可以把它当作一个物理术语来理解，对吧？这就是对传统材料分类或定义的简化。看起来，呃，我们不能再依赖标值尺度的定义来判断某物是否是材料。那么，呃，调整，呃，功能，对吧？所以，如果我们要用某物的某些属性或功能作为材料的判断，嗯，它似乎是可行的，对吧？从这个意义上说，DNA或单个原子可以被做成材料，因为它提供了某些功能，对吧？以实现某些优势。现在，给你举个例子，对吧，关于美学能量。我想大家都熟悉芯片。你是最便宜的美发产品。
+
+
+[2026-09-10 18:56:45]:
+ all your reduction on the devices. Alright? And these chips uh actually phase uh very small units. known as the field effect transistors, right? So, in a simple chip, right from your smartphone or computer, right, consists of thousands and thousands of such transistors. And how would you be able to build up a transistor, right? You need a piece of material, very simple ones, right? So, if you need a piece of semiconductors, right, you need to doped it, right, with different types. Either it's a P type or that type of P, right? And you can put it like this, right?
+你所有的器件上的减排。明白吗？这些芯片实际上是相位非常小的单元。叫做场效应晶体管，对吧？所以，在一个简单的芯片里，直接从你的智能手机或电脑里拿出来，包含成千上万个这样的晶体管。你怎么组装一个晶体管呢？你需要一块非常简单的材料，对吧？所以，如果你需要一块半导体，对吧，你需要用不同类型的掺杂它。要么是P型，要么是那种P型，对吧？你可以这样说，对吧？
+
+
+[2026-09-10 18:57:25]:
+ And on top of it, you're going to have a thin layer of insulated materials. And across that, you're going to put a gate materials, which can be formal silicon or a meso-metal coatings. Is a very simple configuration of something called a ball's feet. Stands for metal semiconductor, sorry, outside semiconductor field effect transistor. That's true. So that's the very basic method that you can build up achieve, right? How does it work? Depending on the gate volume applied to the gate, right? You need to either turn on or off, right, this by letting charge carriers to pass through, right, the P and P junction or NPN junctions work that it involved. So that's how a field effect transistor works.
+此外，在其上方将有一层薄薄的绝缘材料。在该层之上，将放置栅极材料，可以是多晶硅或金属涂层。这是一种称为MOSFET的非常简单的结构配置。MOSFET代表金属氧化物半导体场效应晶体管（原文误作“ball's feet”及“outside semiconductor”，此处修正为标准术语）。没错。这就是构建器件的基本方法，对吧？它是如何工作的呢？取决于施加在栅极上的电压，对吧？你需要通过让电荷载流子穿过来开启或关闭它，这涉及PN结或NPN结的工作原理。这就是场效应晶体管的工作方式
+
+
+[2026-09-10 18:58:21]:
+ And this is a device, a small device, based on semiconductor materials. Right? So this is one of the examples. Have certain materials, you can utilize the property of the certain materials to enable certain functions throughout the users. And that's how we understand the material size. And the other example is very different from the systemic IP. So let me use the South Daily Fabric as an example. Right? So uh self-cleaning fabric uh means these are cleaners. How?
+这是一个基于半导体材料的小型器件。右？这就是其中一个例子。拥有某些材料，你可以利用这些材料的特性来在用户中实现某些功能。这就是我们理解材料规模的方式。另一个例子与系统性知识产权非常不同。让我用南方日织作为例子。右？所以，呃，自清洁面料，呃，意思是这些是清洁剂。怎么做到的？
+
+
+[2026-09-10 18:58:57]:
+ How do you sell the page, right? Is that if this surface was dirty, right, and you rinse this water, you don't have to wash it hard, you just rinse it, right? All the dirt will go together with the liquid that brings it over. Such a surface would usually be called the self-cleaning surface or fabric. Right? And what kind of materials will enable this kind of functionality? Okay the materials may be enabled as functionality. Well actually overalls of different kind of materials. Can enable this functionality because the trick lies in the microstructure of the surface is that of the fabric itself. So, the working mechanism is a bit like what is borrowed from the nature.
+你是怎么卖这页的，对吧？如果这个表面是脏的，对吧？你冲洗这些水，不需要用力清洗，只要冲洗就行，对吧？所有的污垢都会和带来污垢的液体一起流淌。这样的表面通常被称为自清洁面或织物。右？什么样的材料能够实现这种功能？好的，材料可以作为功能性来实现。实际上，不同类型的材料。能够实现这种功能，因为关键在于表面的微观结构，就是织物本身的微观结构。所以，工作机制有点像是从自然界借鉴出来的东西。
+
+
+[2026-09-10 18:59:54]:
+ Because we see this uh the leaf of the uh lutus, right? So the liquor rooters have big leaves, right? And if you sprinkle a drop of water on top of it, you see this water is like a pearl. Can roll it over on the leaf. Alright? But then it doesn't spread out. Right? The reason why this is spread out is that when we have a surface, I have a drop of water sitting on top of it. The shape of the water droplet reminds us a computation of energies in between this water droplet and the solid and also the vapor phase and the liquid and also the vapor phase and the solid. So, we pair down the energy representation in these three interfaces, and that will eventually determine the shape of the droplet. Right?
+因为我们看到的是，呃，lutus的叶子，对吧？所以酒类的根基有很大的叶子，对吧？如果你在上面滴一滴水，你会看到这水就像一颗珍珠。可以把它翻到叶子上。明白吗？但那样它就不会扩散开去。右？之所以分布较广，是因为当我们有一个表面时，有一滴水滴就在上面。水滴的形状让我们想起了水滴与固体之间的能量计算，以及蒸气相与液体之间，以及蒸气相和固体之间的能量。所以，我们将这三个界面中的能量表示配对下来，最终决定水滴的形状。右？
+
+
+[2026-09-10 19:00:59]:
+ So in the sense you can have the complete backing simulation, that is, this water droplet will completely spread out on the surface. Or you can kind of have the complete number situation. Can the topics form a spherical draw where I can roll over the surface without touching surface at all? Right? And people have been finding, is this understanding throughout the glutes beef? That when you have surface structures, right? So, you have nanostructures, you have macro structures, on top of it, you have nanostructures, and so on and so forth. So these kind of a structural settings will enable the so-called super hydrophobic or super hydrophilic situations, depending on the structures that we can make it. So, what is super high jaw super high jaw phobic, right? So super means super everybody knows. Okay?
+所以你可以实现完整的背靠模拟，也就是说，水滴会完全在表面上扩散开来。或者你可以实现一个完整的数字情况。这些主题能形成一个球形拉片，让我在表面滚动而不碰到表面吗？右？人们发现，这种理解是否贯穿了臀肌牛肉？当你有表面结构时，对吧？比如纳米结构、宏观结构，上面还有纳米结构，诸如此类。这些结构环境会使所谓的超疏水或超亲水情况成为可能，具体取决于我们能制造的结构。那么，什么是超高下颌超高下颌恐惧症，对吧？超级是指大家都知道的超级。明白吗？
+
+
+[2026-09-10 19:02:08]:
+ So hydro uh is the Latin root of water, right? Phobic means hate, right? Super hate water. So if you hate water or the water have to roll up or to a spherical shape, right? Try to minimize the interface in between the water droplet and whatever that is in the midst. So, you can form such a super hydrosphere interface by building up the nanostructures. In the sense, the specific nanostructure becomes a material because it's associated with certain functionalities. Right? So hopefully through the two examples we understand we no longer define the piece of materials using the linear scale. Now we're looking at the functionalities.
+所以，hydro 是水的拉丁词根，对吧？phobic 表示厌恶，对吧？超级厌恶水。因此，如果你讨厌水，或者水必须卷曲成球形，对吧？试图最小化水滴与周围介质之间的界面。通过构建纳米结构，你可以形成这样的超疏水界面。从这个意义上说，特定的纳米结构成为一种材料，因为它具有某些功能特性。对吧？因此，希望通过这两个例子，我们理解到不再用线性尺度来定义材料。现在我们关注的是功能性
+
+
+[2026-09-10 19:02:58]:
+ Anything that can have a functionality can be defined as a basic material. Right? Right, so in the natural world, there are a lot of different materials, right? Here, I put down a few examples coming from the network, right? So we have a piece of copper, right? Uh we have a piece of block, right? Or a boot or the sky is a bit exaggerating from the network, right? So you guys figure out where does it come from
+任何能具备功能的事物都可以定义为基本材料。右？对，所以在自然界里，有很多不同的材料，对吧？这里，我举了一些来自网络的例子，对吧？所以我们有一块铜，对吧？呃，我们有一块块，对吧？或者说是靴子，或者说是网络里的天空，对吧？你们来弄清楚它们的来源
+
+
+[2026-09-10 19:03:31]:
+ And there's a board Lord of Prince? If you guys watch a movie, A Lord of Bring Sister Proto, and he was chased by a giant spider. So this is the spider lap. So eradically there are spectral labs and spectrum suit. So that's the nature as well. Right, I ended for make four uh chooses four examples for a reason. That would be the seed. Um, you can guess what is the reason that we use two is not relevant to the kind of heroes. Right? But then let me move on first.
+还有一块《王子之主》的板子？如果你们看电影《带来姐妹普罗托的领主》，他被一只巨型蜘蛛追赶。这就是蜘蛛圈。所以偶尔有幽灵实验室和光谱战衣。这也是本质。对，我最后选择四个例子是有原因的。那就是种子。嗯，你可以猜到我们用两个的原因，这和英雄类型无关。右？但让我先说下去。
+
+
+[2026-09-10 19:04:03]:
+ Other than the natural materials, right now man or human being are making all different kinds of new materials, right? including plastic, rubber, correstenic steels, and so on so much. There are about a more than three times a class of pre-cut kind of materials nowadays. Right, so uh I'm a bit tired, right? Let me cut the break by asking you questions. To understand how the properties of materials will determine their functionality is a task of material scientists. Let me use the example of a Coke container to explain this. Everybody drank coke before? Yeah, cool, cool. Alright.
+除了天然材料，现在人类或人类还在制造各种新材料，对吧？包括塑料、橡胶、科雷斯特尼钢等等。现在预切割材料的数量大约是三倍以上。对，呃，我有点累了，对吧？让我打断，先问你几个问题。理解材料的性质如何决定其功能，是材料科学家的任务。让我用可乐容器的例子来解释。大家以前喝过可乐吗？是的，酷，酷。好了。
+
+
+[2026-09-10 19:04:49]:
+ Alright, how many different kinds of containers have we seen? Three. Right? Right? the most classical one, right? And uh Mr. Right. And the last one is classic. Alright, the classical one is made of glass, everybody knows, right? And this one is made of alcohol, right?
+好了，我们见过多少种不同的容器？三种。右？右？最经典的那个，对吧？还有，呃，“真命天子”。最后一个是经典的。好，古典的是玻璃做的，大家都知道，对吧？这个是酒精做的，对吧？
+
+
+[2026-09-10 19:05:19]:
+ Is metal. And the last one, you already said polymer or plastics, right? probably uh not all of you, at least not many of you know, is made of the special polymer called polyathyline paraffinate. So this is the composition of this polymeric material. Okay. Um have you ever thought about right why Coke uh Coke's container can be made of easy different materials? Have we ever thought about it? Or why there aren't any other materials that were used uh for the co-container. Transportation. Are easy to carry, open it and put it on very good points.
+是金属。最后一个，你刚才说过聚合物或塑料，对吧？可能不是你们所有人，至少你们很多人都不是用一种叫聚乙烷石的特殊聚合物制成的。这就是这种聚合物材料的成分。好的。嗯，你们有没有想过为什么可口可乐的容器可以用简单的不同材料制造？我们有没有想过这个问题？或者为什么没有其他材料被用在共用容器上。运输。它们易于携带，打开后放在非常好的点上。
+
+
+[2026-09-10 19:06:20]:
+ Uh process.
+呃，过程。
+
+
+[2026-09-10 19:06:23]:
+ Handle as well
+手柄也一样
+
+
+[2026-09-10 19:06:31]:
+ Alright, so I hear cost is an issue. Alright, who better that? Who questions cost? You? That would make you a good entrepreneur, right? Think about the possible things or you can make money. Right? Anything else? Store the uh store the air store the gas to maintain the taste. to maintain the taste. Right.
+好吧，我听说成本是个问题。好吧，还有谁比这更适合？谁会问成本？你？那会让你成为一个好创业者，对吧？想想可能的事情，或者你能赚钱。右？还有别的吗？储存，呃，储存空气，储存气体以保持味道。保持味道。右。
+
+
+[2026-09-10 19:07:00]:
+ So let's say taste we're going to reboot. It's an easy parry, right
+所以说，尝尝我们要重启。这很容易被格挡，对吧
+
+
+[2026-09-10 19:07:10]:
+ Anything else? Recycle processing. Cycle. In a trial processing. Stress. Yeah. Go hot, go hot songs, go hot.
+还有别的吗？回收加工。循环。在试用处理中。压力。是的。热点，热点歌，热点。
+
+
+[2026-09-10 19:07:30]:
+ 50. By the way, I find to extra that a lot. Who does this go first? People that will not borrow it about being poisoned by these containers. Poison these aren't right. So these are very good considerations and issues that you need to think about when you want to hold something, right? And that something is um liquid. Here's the ball. Right? And then it's not any liquid, it's a very special liquid.
+50. 顺便说一句，我发现这额外多很多。谁先做这件事？那些不会借用这些容器的人担心被毒害。这些毒药不对。所以这些都是你在思考时需要考虑的非常好的问题和议题
+
+
+[2026-09-10 19:08:04]:
+ What's special about the sleek around the carbon? carbon dioxide really in it.
+碳纤维周围的光滑有什么特别之处？二氧化碳真的在里面。
+
+
+[2026-09-10 19:08:10]:
+ Sort of. Can you be more specific?
+算是吧。你能具体点吗？
+
+
+[2026-09-10 19:08:17]:
+ Sure. Um yeah, you have to uh push the gas in a little bit, but that's true for uh all of the uh the uh so yeah, soda. That's true. Uh it is what? Sugar. No.
+当然。嗯，是的，你得稍微往里推一点油，但这对所有，呃，所以，是的，汽水。没错。呃，什么？糖。不。
+
+
+[2026-09-10 19:08:46]:
+ Corisine. Therefore, your parents allow you to drink cold? You pa when you when you guys are young, your parents don't say, No, you cannot drink. Correct your teachers. What? Currants in your cheese. Corrosion your teeth. Cor corrosion of your knees. Sorry. Acidic.
+科利辛。所以，你父母允许你喝冷饮吗？你小时候父母不会说，不，不能喝酒。纠正你的老师。什么？奶酪里有黑加仑。牙齿腐蚀。膝盖腐蚀。抱歉。酸性。
+
+
+[2026-09-10 19:09:17]:
+ So it's a liquid.
+所以它是一种液体，也是一种酸
+
+
+[2026-09-10 19:09:24]:
+ Right, so we are going to pour it in the liquid and how acid it is, right? Its patient level is all three, right? So I don't know if any of you coming from chemistry, and that's very interesting. That's a double for your teeth and bowls, drink less of coke, all right? That this is a task for you to face, right? We want the container, right? That is big tight
+对，我们要把它倒进液体里，酸度是多少，对吧？它的病人水平是三者，对吧？我不知道你们有没有化学专业的人，这很有趣。这是给你们牙齿和碗用的双倍，少喝可乐，好吗？这是你们要面对的任务，对吧？我们要容器，对吧？那个很紧
+
+
+[2026-09-10 19:09:57]:
+ That means when you have a liquid in it, the liquid doesn't drip, doesn't seep whatsoever. Alright, so nick tied. Right? So for this fine material, so you have to make sure that the water will go through by the continuum also coming outside. Right. So in that sense, right, that includes a number of materials, right? like the Asian people used pottery containers. Right? And old potteries are used in containers, but they are not good for liquid at all. Have you guys ever played with pottery?
+这意味着当你有液体时，液体不会滴落，也不会渗透。好了，绑着了。右？对于这种细小材料，你必须确保水能通过连续体从外部流出。右。所以从这个意义上说，这包括了许多材料，对吧？比如亚洲人使用陶器容器。右？老陶器虽然用在容器里，但根本不适合做液体。你们玩过陶器吗？
+
+
+[2026-09-10 19:10:48]:
+ uh as an art craft before right. So basically you pay with mud, okay? and you make a shape and and you burn it with tighten pictures and that's what maybe fires and you have a art art craft. Right? But then uh there's uh final finishing when you uh have this watery process. That's called uh glazing. Alright? glazing, right? Which is this
+嗯，作为一种手工艺，对吧。基本上就是用泥巴来创作，好吗？你捏出一个形状，然后用图案装饰并烧制，那可能就是火的作用，你就得到了一件艺术品。对吧？但之后还有最后的精加工阶段，就是那种水性的处理过程。这叫做上釉。好吧？上釉，对吧？这就是
+
+
+[2026-09-10 19:11:23]:
+ Right? Right? Glazing is not only making it pretty with a color or with a glassy look like a shiny surface. One of the most important function of raising is that you prevent water from seeking through your container. Right? So this is simple things, right? Make it tight, you have to think about certain ways. So glazing materials is something very similar to glass, right? Adoptoros and how who was an infant. Right?
+右？右？釉面不仅仅是让它看起来漂亮，有颜色或玻璃状的光泽表面。提高玻璃最重要的功能之一是防止水渗入容器。右？所以这些都是简单的事情，对吧？要紧密一些，你得考虑某些细节。所以釉料和玻璃非常相似，对吧？阿多托罗斯和婴儿时期的情形。右？
+
+
+[2026-09-10 19:12:00]:
+ And then now let's see the seating problem. Alright? So if it's acid, right? You know, it's crowd your teeth. And you curled a lot of different materials. Right? And now, we consider the problem of corrosion. What are the restrictions on materials to be chosen?
+现在让我们来看看腐蚀问题。好吧？如果是酸性环境，你知道的，它会腐蚀你的牙齿。而且你使用了多种不同的材料。对吧？现在，我们考虑腐蚀问题。对材料有哪些限制
+
+
+[2026-09-10 19:12:24]:
+ I guess the glass. So the things cannot react. Right? For example, glass is good, okay. Now how about plastics? Also notices are good. Yeah, right? Yeah. How about I'll move it up? No.
+我猜是玻璃。所以那些东西无法反应。右？比如，玻璃就不错，好吗。那塑料呢？通知也不错。是吧？是的。那我往前挪怎么样？不。
+
+
+[2026-09-10 19:12:46]:
+ Aluminum is a piece of metal. So if you are from a chemistry background, you will see those two be more reactive than hydrochloride and a piece of aluminum into the acid. What happened? Gas bubbles would be coming off and generating a lot of type of illusion, right? I don't just say I'm losing all of a minimum. Who has the trick? On the side. Very good. Right? So aluminum have a very unique property, it's being different than most of the other type of metals, right?
+铝是一块金属。所以如果你有化学背景，你会发现这两者比盐酸盐和一块铝对酸的反应性更高。发生了什么？气泡会冒出来，产生很多幻觉，对吧？我不是说我失去了所有最低限度。谁有这个技巧？在旁边。很好。右？铝有非常独特的特性，它与大多数其他类型的金属不同，对吧？
+
+
+[2026-09-10 19:13:21]:
+ its surface is easily oxidized. And when it's oxidized through the surface outside layer, it's extremely dense, right? The small molecules, water, or gas molecules, and oxygen can no longer penetrate through this oxide layer and reach the interface between the oxide and the metal and continue with the oxidation process. This will not be able to happen anymore once you have a thin layer of the outside form. And that is not true for a lot of metals. For example, iron. Alright? Iron is notorious for the problem to develop in the rocket t-surface of things. So that means iron gets oxidized. Right?
+其表面极易被氧化。当表面外层被氧化时，形成的氧化层极为致密，对吧？小分子、水或气体分子以及氧气无法再穿透这层氧化物到达氧化物与金属的界面并继续氧化过程。一旦形成这种薄的外层，这种情况就不会再发生。但对于许多金属而言，情况并非如此。例如铁。好吗？铁因在物体表面产生锈蚀问题而臭名昭著。这意味着铁会被氧化，对吧
+
+
+[2026-09-10 19:14:12]:
+ So they say when it's oxidized, shouldn't the oxide layer stop the further oxidation of the metal? No, it does not, because that outside layer is extremely porous. And oxygens can still fill through the layer of oxide and richly interface and continue corrode for the iron away. So, it's not everything that works, but a lot of it works, right, in this case. Alright, so uh then you can check with uh a bunch of other materials. uh to see whether it's work or not. And you check your list, right? and you will see it will weld it any one of them. The three types of glass, piece of aluminum, and the polyathy keratotite are actually the type of materials that almost satisfy every one of them is cheap. the cost is actually correct.
+他们说，当金属氧化时，氧化层不应该阻止金属进一步氧化吗？不，它不能，因为外层极其多孔。氧气仍然可以穿过氧化层，与铁充分接触并继续腐蚀铁。所以，并非所有情况都有效，但在这种情况下，很多情况是有效的，对吧。好的，那么你可以用其他多种材料进行检查，看看是否有效。检查你的列表，你会发现其中任何一种都不会焊接。三种类型的玻璃、一块铝和聚对苯二甲酸乙二醇酯实际上是几乎满足正确条件的材料
+
+
+[2026-09-10 19:15:07]:
+ This is more expensive. Right. This is probably the true mist. Right? It does not affect the taste of your drink because it does not react with the acid, right? Easy to carry, yes, you want to choose the light widget. is two of the third and the sky it will be hidden. Okay. Every cycle, right? Well clothes, aluminum and glass can be recycled.
+这更贵。对。这可能是真正的雾。对吧？它不会影响你饮料的味道，因为它不与酸反应，对吧？便于携带，是的，你想选择轻便的部件。是三分之二的天空，它会被隐藏起来。好的。每个周期，对吧？嗯，衣服、铝和玻璃都可以回收
+
+
+[2026-09-10 19:15:35]:
+ Get this guy, right? have a bit of a problem, right? And stress, right, which is a very important mechanical property of the materials, right? how strong the mature is, right? and you will see. Though all of them can be mentioned as of different strengths, right? All of them are total ones, I'm totally equipped, right? But then in terms of stress, right, uh to reduce the impact, right, this is probably the worst, right, followed by this one. And this is actually the strongest among the three types. But then plus one have an additional problem.
+把这个人带走，对吧？有点问题，对吧？还有应力，对吧，这是材料非常重要的机械特性，对吧？成熟度有多强，对吧？你会看到的。虽然它们都可以说有不同的强度，对吧？它们都是全功率，我完全装备齐全，对吧？但就应力而言，呃，为了减少冲击，这个可能是最差的，对吧，其次是这个。这实际上是三种类型中最强的。但还有一个额外的问题。
+
+
+[2026-09-10 19:16:12]:
+ It's not described by the stress, right? Thus what? is seem to be broken into classes. Now though these two are easy to be formed, but they are not as easy to grow as is. So their chemical properties are actually differs a little bit. loss of safety, right? Together with the case a little bit, referring to the reaction with the acidic liquid that it contains. Right, so that's sort of the analysis of how the property of the materials eventually determine its applications, where it can be used. Right, um, that's what you guys are familiar with. I use that before um our Monday evening class, right?
+它不是由应力描述的，对吧？因此是什么？似乎被分成了几类。现在虽然这两类容易形成，但它们不像“is”那样容易生长。所以它们的化学性质实际上略有不同。安全性的丧失，对吧？结合这个案例，稍微提及一下它与所含酸性液体的反应。对，这就是关于材料特性如何最终决定其应用、即其可用领域的分析。对，嗯，这是你们在周一晚上的课之前已经熟悉的内容，对吧
+
+
+[2026-09-10 19:16:57]:
+ Um so this is the uh mature science mature heritage, right? People used to either study material science or explain how the logic, underline logic of material science actually works. So I probably will not repeat these especially the latest class already. But then uh what I try to emphasize is that um people always try to say the correlation in between um these four spots, right? Understand the correlation between the processing parameters and the structures, the structure and the properties and the components is also worse. And then with this, the whole material science do includes multiple topics, including mathematics, physics, chemistry, biology, medical science, as well as engineering and statistics. to appreciate why it's so, right? For example, how come this isn't there? How come this isn't there? Right?
+嗯，这就是成熟科学的成熟传承，对吧？过去人们要么学习材料科学，要么解释材料科学的逻辑基础，实际上是如何运作的。所以我可能不会重复这些内容，尤其是最近的课程。但我想强调的是，人们总是试图说这四个点之间的相关性，对吧？理解加工参数与结构、结构、性质和组件之间的相关性更差。而且整个材料科学涵盖了多个主题，包括数学、物理、化学、生物学、医学科学，以及工程和统计学。要理解为什么会这样，对吧？比如说，为什么没有这个？为什么这个没有？右？
+
+
+[2026-09-10 19:10:43]:
+ The physics actually are uh in many different uh cases. For example, physicists would determine what kind of structures would decide what kind of properties each material will have
+物理学实际上在许多不同的情况下都是这样。例如，物理学家会确定什么样的结构决定每种材料的性质。
+
+
+[2026-09-10 19:10:55]:
+ Right? And you would say, Now, where is chemistry? Right? chemistry of property here, right? Now we capture and use to make certain materials. Now we're archivologists and medical scientists, right? They could be here, right? In terms of biological or biomedical applications of these materials. So nowadays material science is a truly multidisciplinary field, involving the study of metals and their applications to various areas of science in engineering. Alright, uh so let's start with the first one first, right?
+右？你会说，化学在哪里？右？这里是财产化学，对吧？现在我们捕捉并利用它们制造某些材料。现在我们是考古学家和医学科学家，对吧？他们可能在这里，对吧？就这些材料的生物或生物医学应用而言。所以现在材料科学是一个真正的多学科领域，涉及金属及其在工程科学各领域的应用。好的，呃，我们先从第一个开始，对吧？
+
+
+[2026-09-10 19:11:36]:
+ Into the study materials, we have to first make it, right? make it. This is equivalent to asking the question: how can you make a piece of material? start with what, right? Not as that, there are natural materials you can just pick up from nature. Well that's true, right? But then here I'm talking about processing or making materials really refers to, right, you want to create a new type of materials, right, instead of taking a point already there.
+进入学习材料时，我们首先得制作它，对吧？制作。这等同于问：如何制作一件材料？从什么开始，对吧？不是那样，有些天然材料你可以直接从自然中获得。这倒是真的，对吧？但我这里说的加工或制造材料，实际上是指你想创造一种新的材料类型，而不是从那里的某个点开始。
+
+
+[2026-09-10 19:12:12]:
+ In this way, how do you make materials?
+通过这种方式，你是如何制作材料的？
+
+
+[2026-09-10 19:12:13]:
+ Is made of atoms or elements, right? So to make a certain material, basically uh you have to choose certain recipes and try to put them together. Right? It's easy than easier to say uh and then to do, right? It is not random that you put everything together, that you work on making a piece of material. Certain atoms may not like to stay together with others. And there are rules that guide you in the process of making materials. So things the basic unit of materials is all these elements. I put the periodical table here. This is uh one particular periodical table I like a lot.
+它是由原子或元素组成的，对吧？所以要制造某种材料，基本上你得选择特定的配方并尝试将它们组合起来。右？说“呃”然后做起来其实比简单，对吧？把所有东西放在一起，你努力制造一块材料，这并不是随机的。某些原子可能不喜欢和其他原子保持在一起。在制造材料的过程中，有一些规则指导你。所以，物质的基本单位是所有这些元素。我把元素周期表放在这里。这是我非常喜欢的一个特定的周期表。
+
+
+[2026-09-10 19:13:01]:
+ Right, uh because it's very colorful, right? Because it not only tells you, what are these elements, but also tells you what these elements are used for. So for example, heathen, it tells you it works in batteries, for cell phones, and this kind of things, for whatever, right? That's where we're atomic talk, right? And uh what else? Uh okay, flowering. That's the worst use case. So, all the speed publications you can free in all the mobile bands and follow me file. Right now, we have some elements, right, as our implement. To make a piece of materials, we somehow have to organize these atoms or elements together.
+对，呃，因为它非常丰富多彩，对吧？因为它不仅告诉你这些元素是什么，还告诉你这些元素的用途。比如说，异教徒，它告诉你它能用于电池、手机等类似的东西，对吧？这就是我们谈论原子的领域，对吧？那还有什么？呃，好吧，开花。这是最糟糕的使用场景。所以，所有快速出版物你可以在所有移动频段和跟随我文件中自由发布。现在，我们有一些元素，对吧，作为我们的实现。要制造一件材料，我们必须以某种方式将这些原子或元素组织在一起。
+
+
+[2026-09-10 19:14:02]:
+ Right? Now, in order to see what can be done and what cannot be done, we have to have a bit of understanding on ash itself. So what we use, right, uh is the conventional accomplices and we do need a bit of a uh more correct description using the quantum mechanical uh approaches, right? But the thing is that we need a lot of it. As you will see in the later lectures by Professor J. Who is following? He's going to teach you a bit on the subject about the physics, right? Wherein, I think we will probably need a little bit introduction of an software system, right? But I don't know. That's my guess.
+右？现在，为了判断什么能做，什么不能做，我们必须对灰烬本身有一定的理解。所以我们使用的是传统的辅助工具，我们确实需要用量子力学的方法来更准确地描述，对吧？但关键是我们需要大量的这些。正如你将在J教授后续讲座中看到的。谁在跟进？他会教你一些关于物理学的知识，对吧？我想我们可能需要介绍一些软件系统，对吧？但我不确定。这就是我的猜测。
+
+
+[2026-09-10 19:14:45]:
+ I don't know how these can do that. Right? But then uh talking about the atoms, right? We should be at least familiar with people at from the model, and it tells you, right? So, and of the atoms are composed of atomic core and those electrons belonging to the oxide. And these electrons are assigned to different orbits, right, according to certain rules. And we're global authenticizing the piece create of it. So, these objects and energy levels are not continuous. And the characteristic of any curiosum is more or less well defined in terms of the orbits depending on their energies, right?
+我不知道这些怎么做到的。右？但说到原子，对吧？我们至少应该熟悉模型中的人，它告诉你，对吧？原子的部分由原子核和属于氧化物的电子组成。这些电子根据某些规则被分配到不同的轨道。我们正在全球验证它被创造出来的部分。所以，这些物体和能级不是连续的。任何奇珍异物的特性大致上都通过轨道定义，取决于它们的能量，对吧？
+
+
+[2026-09-10 19:15:22]:
+ I'm talking about this atomic model. important thing is that, right? So if you look at any orbit or one of these electrons, so they're orbiting, all right? Now they can actually jump to different levels if they absorb energy. Or they can go back to their original levels by emitting these first funding energies. So these are known as the excitation and the excitation process, right, or atoms. same thing happens to molecule and even larger one you have a lot of atoms that we have is mature and the same process will uh will happen. Right? So so that's the top of the model. So let's go to the things.
+我说的是这个原子模型。这很重要，对吧？所以如果你看任何轨道，或者这些电子中的一个，它们是绕着转的，明白吗？它们实际上可以跳跃到不同的能级，如果它们吸收能量。或者它们可以通过释放这些最初的资助能回到原本的能级。这些被称为激发过程和激发过程，或者说原子。分子也会发生同样的事情，甚至更大的分子，你会有很多成熟的原子，同样的过程也会发生。右？这就是模型的顶部。那我们来看那些东西。
+
+
+[2026-09-10 19:16:07]:
+ continues to discuss if we want to put atoms together to make a piece of material, right? What do we rely on? Alright. Uh so basically you have two add-ons. You want to push them together, uh you need a group, right? You stick the two of them together. You have more, and you want to add a bit more glue so that just like building a house, right? So what is the group that connects all these atoms together? Yes. So, here is a bit of a review of your high school chemistry.
+继续讨论我们是否想把原子拼在一起来形成一块材料，对吧？我们依赖什么？好的。呃，基本上你有两个附加元件。你想把它们推到一起，呃，你需要一个基团，对吧？你把它们两个粘在一起。你有更多，还要加一点胶水，就像建房子一样，对吧？那么连接所有这些原子的基团是什么？是的。这里是你高中化学的回顾。
+
+
+[2026-09-10 19:16:46]:
+ Have the different types of bonds, right, known as ionic bonds, covent bonds, and metallic bonds. So, those are the three types of primary clinical box. But we do have the secondary chemical bonds known as the hydrogen box or bundle box box. Right? on the nature of the later two, right? is quite different from the first degree. Right. So what is the best? What is the best? Testing on your high school pet.
+有不同类型的键，对吧，分别称为离子键、科文特键和金属键。这就是三种主要临床键。但我们也有被称为氢盒或束盒盒的次级化学键。右？关于后面两个的性质，对吧？和第一级相当不同。右。那么，什么才是最好的？什么是最好的？在你的高中宠物身上做测试。
+
+
+[2026-09-10 19:17:21]:
+ Champion Strong. Alright. So let me cover the basics first, alright? We just mentioned the three types of operatory thoughts, right? Ionic, covalent, and metallic. So what's the nature of uh ionic bonds? What's the nature?
+冠军强。好的。那我先讲讲基础，好吗？我们刚才提到了三种操作性思维，对吧？离子键、共价键和金属键。那么，呃，离子键的本质是什么？本质是什么？
+
+
+[2026-09-10 19:17:47]:
+ Right? So, one body atom evokes an electron, become a positively charged particle, and the other aquare an electron becomes a negatively charged particle. Right? So the nature of the bonding is about a positive charge particle and a negative charge particle. So that's total big interactions or electrostatic interactions. So that is the nature of the art. Right? And that is different from the collection. Why? Because in that case, right, the electrons are not really given to any of the atoms, right?
+右？因此，一个原子产生电子，变成带正电的粒子，另一个原子则变成带负电的粒子。右？所以键结的本质是关于带正电粒子和负电粒子。这就是完全大的相互作用，或者说静电相互作用。这就是这门艺术的本质。右？这和集合不同。为什么？因为在那种情况下，电子其实并没有真正分配给任何原子，对吧？
+
+
+[2026-09-10 19:18:36]:
+ And instead, they are shared by the two adults. Now what is the group? Well in the previous case the coup is the electrostatic uh attraction. Okay? Now what is the gruel? The rule is that this positive atomic core is attracting the negative charge of the electrons over there, and the other positive atomic core is attracting the electrons of this one. So they're sort of an interpreted together, right, by sharing this pair of electrons. So that's the group, right? The group of uh metallic bombs a little bit different than the previous two, because we say in that also these valence electrons are afraid. And so the cover runs in the positive uh in the C of uh positive charged uh nuclei.
+相反，这些能量由两个成年人共享。那么，这个群是什么？在前一个例子中，关键是静电吸引。明白吗？那么，稀粥是什么？规则是，这个正原子核吸引着那边电子的负电荷，而另一个正原子核则吸引这个电子的电子。所以它们有点像是一起解释的，对吧，通过共享这对电子。这就是这个群，对吧？这群金属炸弹和前面两个有点不同，因为我们说这些价电子也害怕。所以覆盖层在正原子核中，呃，正原子核。
+
+
+[2026-09-10 19:19:29]:
+ Right? So, in a sense, all the splitting around, the flying around the electrons serving as the rules, right? trying to grab everything together. Okay, so so that's the understanding. Of the three types of everybody. Now how about so did I write something? Yeah, here, okay. examples of this. So sodium chloride is typical I omit bond, right? chlorine and the electron, the sodium, lost one, right?
+对吧？所以，从某种意义上说，所有的分裂、电子四处飞散充当规则，对吧？试图把一切聚集在一起。好的，这就是对三种键合类型的理解。那么，我写点什么了吗？是的，在这里，好的。这方面的例子。氯化钠是典型的离子键，对吧？氯和电子，钠失去一个，对吧
+
+
+[2026-09-10 19:19:57]:
+ And carbon is a typical type of wind and bomb, and so does water, right? and copper is a type of a metallic bomb. Right? Now, secondary bounds is very different from obvious primary type of bounds. You are not having any of this kind of interactions or blues in terms of electrons. on the nature of both hydrogen bonds and the Vanderbash force on dipole interactions. So what's that controller? So you have a polar something, right, substance, right? Polar means you have some charge move, positive charge move to one end, some negative charge move to the other end. So, this is no longer a symmetrical thing.
+碳是典型的风和炸弹类型，水也是，对吧？铜是金属炸弹的一种。右？次级界限与明显的初级界限非常不同。你不会遇到电子的这种相互作用或蓝色现象。关于氢键的本质以及范德巴什力对偶极子相互作用的影响。那么，那个控制器是什么？所以你有一个极性物质，对吧？极性意味着你有某种电荷移动，正电荷向一端移动，负电荷向另一端移动。所以，这不再是一个对称的事情。
+
+
+[2026-09-10 19:20:47]:
+ You have a positive end, then you have negative end, right? So once you have such a thing, right? about you have another thing. Very similar coming together, and what you will have is that so you have escalator, a positive end, a negative end. Alright? Now you can have another thing coming with similar structures and pumpkin. So those two charge kind of having interactions, right, and tend to come together. But the difference is that they never exchange electrons, right? There's no laws again, and they don't share electrons either. There's no real bond forming in the sense, right?
+你有一个正极，然后有一个负极，对吧？所以一旦有了这样的东西，对吧？就会有另一个非常相似的东西靠近，结果就是你会得到一个偶极子，一个正极，一个负极。好吗？现在可以有另一个具有类似结构的东西靠近。因此这两个电荷之间会产生相互作用，对吧，并且倾向于结合在一起。但区别在于它们从不交换电子，对吧？没有电子转移，它们也不共享电子，而且从某种意义上说并没有真正的化学键形成
+
+
+[2026-09-10 19:21:23]:
+ So they are sort of the so-called dipole-dipole interactions. But that works. If a hydrogen atom is involved, you have a hydrogen vault. A hydrogen atom is not involved, then you have to solve the lander loss loss. Right? So that's a bit of the explanation of the rule. Alright? So, bugs are usually there to explain the existence of when you start with two atoms, you put it together, you make a molecule. Alright? But then here we're talking about matters and matters usually we're going to have a bit more number of atoms right grouped together in a certain way. Alright?
+所以它们有点像所谓的偶极-偶极相互作用。但这是可行的。如果涉及氢原子，你就有一个氢金库。如果没有氢原子参与，那么你必须解决着陆器损失问题。右？这就是规则的一些解释。明白吗？bug通常用来解释当你从两个原子开始，把它们组合在一起，形成一个分子时的存在。明白吗？但这里我们谈论的是物质，通常我们会有更多原子以某种方式组合在一起。明白吗？
+
+
+[2026-09-10 19:22:05]:
+ So, now what we cared about is that in that case, if you have one atom, the electrons are orbiting outside the atomic core following different atomic energy levels. Now, if you have a lot of the atoms gathered together, how these electrons will be arranged. Right? And eventually, we'll see the arrangement of the electrons are the key part determining the physical properties of materials. Alright, so another question uh we need to solve is that uh we start from one atom, we know how the electrons are arranged. Now we have two, and how will be the change? Right? And then, if we add in another one, still another one, if we have a lot of them, what's going to happen? Alright, so let me use a not so correct analogy or explanation to let you see the process. although it's not strictly correct, but it's very good for understanding
+因此，我们现在关心的是，在这种情况下，如果只有一个原子，电子会围绕原子核在不同的原子能级上运行。那么，当大量原子聚集在一起时，这些电子将如何排列？最终我们会发现，电子的排列方式是决定材料物理性质的关键因素。好的，我们需要解决的另一个问题是：我们从单个原子出发，知道电子是如何排列的；现在有两个原子，情况会发生怎样的变化？接着，如果我们再增加一个、又一个，当数量非常多时，会发生什么？让我用一个不太准确的类比或解释来帮助大家理解这个过程。虽然它并不严格正确，但对于理解来说非常有益
+
+
+[2026-09-10 19:23:05]:
+ Right? So, what happens is that let's consider two atoms, right? So these two atoms, each of them will have one electron, just for simplicity. Right? And I would say, so these electrons, let's say, I put it here, another electron, I put it here. Right? So what these two atoms are getting close together, right? The energy levels for these electrons to seed, right, is going to reorganize. So previous days, each one of one. Now you add them together, you can have two different energy levels, right?
+右？那么，我们来考虑两个原子，对吧？为了简化起见，这两个原子各自有一个电子。右？我会说，这些电子，比如说，我把它放在这里，另一个电子，我放这里。右？那么这两个原子正在靠近，对吧？这些电子的能级会重新组织。所以之前的几天，每一天都是一。现在你把它们加在一起，你就可以得到两个不同的能级，对吧？
+
+
+[2026-09-10 19:23:48]:
+ But then they're going to stay they're not going to stay here as it is. They're going to reorganize. How? Right? So we're going to reorganize by forming an energy level which is lower than both of them and with one energy level which is higher than both of them. Alright? And now we know each of the energy levels can accommodate two electrons. So instead of having one of the electrons on each side, now these two electrons are both sitting at the bottom energy levels and leaving the upper ones empty. So if you learn a bit of chemistry, you know what I'm talking about here is this is a bucking formed and the state is the anti-bucking. Right?
+但他们会留下来，不会再留在这里。他们会重新组织。怎么做？右？所以我们要通过形成一个能级，这个能级比它们都低，另一个能级也比它们两个能级高，来重新组织。明白吗？现在我们知道每个能级都能容纳两个电子。所以，这两颗电子不再分别在两侧，而是都处于底部能级，而上方的电子则空着。如果你学点化学，你就会明白我说的是什么，这就是形成的反挠，而状态是反挠。右？
+
+
+[2026-09-10 19:24:31]:
+ Right, so this theory is called the molecular optical theory. Say where I'm old, right? And chemists who call it give it different names in the molecular orbitals. this energy level. They call it the uh highest uh I forget the whole. Occupied molecular orbital, right? And this is the law. So this is the always that unoccupied the molecular orbital, right? Well then, right, I don't remember there were clearly enough. Okay.
+对，这个理论叫分子光学理论。说说我说的那个地方，对吧？化学家们在分子轨道中给它起了不同的名字。这个能级。他们称之为最高的，呃，呃，我忘了整个。占用分子轨道，对吧？这就是定律。所以这就是分子轨道中一直未被占用的那个，对吧？嗯，那我记得当时的能级不够多。好的。
+
+
+[2026-09-10 19:25:06]:
+ So this is the okay. Okay, but that explains when you have two atoms, right? They form a bound, they're forming the molecule, and how the electrons will be arranged. But let's say we add in another apple by making the tree. So how we work. So now you have two energy levels in there, right? you have another one, Johnny. Write them again. We start with three. you end up with three, right?
+这就是问题。好的，但这解释了当你有两个原子时，对吧？它们形成束缚，形成分子，电子的排列方式。但假设我们通过做树添加了另一个苹果。这就是我们的工作原理。现在你有两个能级，对吧？你还有另一个，Johnny。再写一次。我们从三个开始。你最终得到三个，对吧？
+
+
+[2026-09-10 19:25:34]:
+ So, you need to have a reshuffle of this case by forming two levels at the bottom and one level at the top. So in this way, you can keep on adding more atoms in there. But each at the time, you're going to add one on the top, one on the bottom, right? and how to fill electrons. You always try to fill the other ones first. until they all fulfill, you go to the upper ones. That is how it works eventually. And now if you think about this process continues, right, from one atom, two atoms, three atoms, to eventually infinity number of atoms. That forms a piece of materials, right? So you start with like two separate energy levels.
+因此，你需要重新排列这个案例，在底部形成两个能级，在顶部形成一个能级。这样，你就可以不断向其中添加更多原子。但每次你都会在顶部添加一个，在底部添加一个，对吧？以及电子如何填充。你总是先尝试填充其他能级，直到它们全部填满，然后再去填充上面的能级。最终就是这样运作的。现在，如果你思考这个过程持续下去，从一个原子、两个原子、三个原子，最终到无限数量的原子，这就形成了一块材料，对吧？所以你停止时就像两个分开的能级
+
+
+[2026-09-10 19:26:25]:
+ Now you have two separate bands of energy levels and that's the not very careful and accurate or correct interpretation of the band theory. And that gives you the picture how to understand the band theory that were used in the solid-state materials. Right? So you have four energy bands and in each of the energy bands, electrons, you have a lot of sub-levels, right? sort of almost increased random and your electrons are filling in on this x. Right? And based on the formation of energy bands, people defined a different type of model materials, known as conductor or metal, a second conductor, and the insulator. Now, how that was defined becomes very straightforward once we have that, right? Now, as I said, you always try to fill the electrons from the bottom of the levels that have lower energies, right, until you fill it all up, right? So it is of metal, right?
+现在你有了两个独立的能级带，这是对能带理论的一种不太严谨、准确或正确的解读。这为你理解固体材料中使用的能带理论提供了图景，对吧？所以你有四个能带，在每个能带中，电子有很多子能级，对吧？这些子能级几乎是随机增加的，而你的电子正在填充这些能级，对吧？基于能带的形成，人们定义了不同类型的模型材料，即导体或金属、半导体和绝缘体。一旦我们有了这个概念，如何定义它们就变得非常直接了，对吧？正如我所说，你总是试图从能量较低的能级底部开始填充电子，直到全部填满，对吧？所以在金属的情况下
+
+
+[2026-09-10 19:27:31]:
+ So you keep on feeling it, feeling it, feeling it. Alright? And what happens when you reach the very top, right? When you have a band with field electrons, and the top fit is the energy levels, but then there's no gap in between the two of them. In this case, we have a conductor or a metal. Now, if we have a situation like this, so these is the field bands and this is the empty bands, and in between the two of them, you actually have a gap existing. Alright? And that is a typical case. You call it semi-productor, but you call it isolation. They are actually the same.
+所以你会一直感受，感受，感受。明白吗？当你到达最顶端时，会发生什么？当你有一个带上场电子，顶端的拟合是能级，但两者之间没有间隙。在这种情况下，我们有一个导体或金属。现在，如果我们遇到这种情况，这些是场能带，这是空带，而在它们之间实际上存在一个间隙。明白吗？这就是典型的情况。你称之为半产物，但你称之为隔离。它们实际上是一样的。
+
+
+[2026-09-10 19:28:14]:
+ You have a gap. The difference between a semiconductor and an insulator is the size of the gap. In the case of semiconductor, the size of the gap is small, right
+你存在一个知识盲区。半导体与绝缘体之间的区别在于能隙的大小。对于半导体而言，其能隙较小，对吗
+
+
+[2026-09-10 19:28:30]:
+ And in case of an insulator, the size of the gun is large. So uh you may say s small and large. What do you mean by small and large? Small is small and how large is large. Right? Well, we do have that, right? To the upper action band, which is the conduction band, then this is a piece of semiconductors. That means once the electrons are jumping from the weighted band to the conduction band, these electrons become free, right? Just like the case of the conductance, right? So this says even at room temperatures, you would be able to have a bit of the free charge carriers in this material.
+对于绝缘体来说，枪的尺寸是大。所以，你可以说是小和大。你说的“小”和“大”是什么意思？小就是小，大到什么程度才算大。右？嗯，我们确实有这个，对吧？到上作用带，也就是导带，这就是一个半导体。这意味着一旦电子从加权带跳到导带，这些电子就会变得自由，对吧？就像电导率的情况一样，对吧？所以这意味着即使在室温下，你也能在这种材料中拥有一些自由电荷载流子。
+
+
+[2026-09-10 19:29:30]:
+ And that's why we call it semi-agductors or intrinsic semi-agductors. More force later on in the next class. I believe as a Jew will tell you, right, if you have a very low density of charge carriers in your semiconductor material, you can always donate by providing a donor or a septor in the bandgap of the semiconductor in order to increase the charge carrier densities. but that's a bit lamp. In the case of insulator, you have such a large band gap, a barrier, right? Now, common thermal energies at room temperature is not large enough to excite the electrons from the village band to the condition band. So it's your late. You don't have any free charge carriers, right? you can all move around. So that's insulator.
+这就是为什么我们称之为半引子或本征半引子。下节课会讲更多力。我相信，作为犹太人会告诉你的，如果你的半导体材料中载体密度非常低，你总可以通过在半导体的带隙中提供供体或隔电器来增加载流子密度。但那只是个小灯。以绝缘体为例，你有一个很大的带隙，一个势场，对吧？现在，室温下的常见热能不足以激发村带电子到状态带。所以你已经晚了。你没有自由电荷载流子，对吧？你们都可以自由移动。这就是绝缘体。
+
+
+[2026-09-10 19:30:18]:
+ Alright. So uh with this very simple analogies, right? Uh I kind of, you know, let you go through from how to field electrons in atomic levels, how the molecular bonds are formed, to the band series of solid state materials. And therein, we defined three different types of modern materials in terms of inductors, semiconductor, and insulator. So that's uh a more general picture of what these materials now, starting from a single atom. Right? Now, classification classification of materials, right? The conventional classification of materials are divided into these four categories, right? So we have metals, powders, ceramics. Last one is composite.
+好的。那么，呃，用这些非常简单的类比，对吧？呃，我让你从如何让电子在原子层级放电，分子键如何形成，到固态材料的能带系列。在这段中，我们定义了三种不同的现代材料类型，分别是电感器、半导体和绝缘体。这就是这些材料现在的更通用的图景，从单个原子开始。右？现在，材料的分类，对吧？传统的材料分类分为这四类，对吧？我们有金属、粉末、陶瓷。最后一类是复合材料。
+
+
+[2026-09-10 19:31:15]:
+ So composite is really a mixture of the first three types, right? And this kind of conventional classification is made based on the mechanical property of materials, right? because the three fundamental type of materials are very different in terms of their mechanical properties. We kind of touch that, right, when we talk about containers. You report, did you realize I actually arranged it deliberately? Right? with the three type of coke containers. actually belongs to the three category of materials. Alright? So class belongs to ceramics, right?
+因此，复合材料实际上是前三种类型的混合物，对吧？而这种传统的分类是基于材料的力学性能进行的，对吗？因为这三种基本材料类型在力学性能上差异很大。我们在讨论容器时已经涉及到了这一点，对吧？你们报告过，你们是否意识到我其实是故意这样安排的？对吧？这三种可乐容器实际上分别属于三种材料类别。好的？所以塑料属于陶瓷类，对吧
+
+
+[2026-09-10 19:31:54]:
+ Aluminum belongs to metal, and sorry, ethanol peripheralate belongs to polymer. Right? So, at that time I already explained a little bit where mechanical streams are actually different, right? And that is because they are in the three very different type of material categories. And that was fundamentally determined by the bonding of these materials. So meadows or metaphysics? right? that allows them to deform very easily. And then polybers were actually made by the covalent bond in terms of the other chains. So, in a sense, these converger chains are actually very stable because the provident bond is difficult to be broken.
+铝属于金属，抱歉，乙醇周边属于聚合物。右？那时我已经稍微解释过机械流实际上哪里不同，对吧？那是因为它们属于三种非常不同的材料类别。而这根本上是由这些材料之间的结合决定的。所以是草地还是形而上学？右？这使得它们能够非常容易地变形。而多聚体实际上是由共价键在其他链中形成的。所以，从某种意义上说，这些收敛链实际上非常稳定，因为包聚键很难被断开。
+
+
+[2026-09-10 19:32:46]:
+ But then you say that powders are actually soft and easy to deform as well. Why? Because in the piece of polymeric materials, you have a lot of polymer chains. And the interaction in between them uh among each of the chains is actually one that was caused for weaker interactions. So that makes them big. Alright? And the last one, the class, right we say is the strongest, right? It's the toughest, right? This is made of ceramic materials, and abound is two ways. either is covalent or is ionic.
+但你又说粉末其实很软，也容易变形。为什么？因为在聚合物材料中，有很多聚合物链。而它们之间的相互作用，呃，每条链之间的相互作用，实际上是为较弱的相互作用引起的。所以它们很大。明白吗？最后一个，也就是我们说的那类，是最强的，对吧？它是最坚韧的，对吧？它是由陶瓷材料制成的，Abound有两种方式。要么是共价的，要么是离子的。
+
+
+[2026-09-10 19:33:21]:
+ And these bombs are two of the most or the strongest bombs among all the materials. And that explains why this mechanical threat is very large. Right? And also, I hope that you recall deliberately. I have this chart before one user, four different types of financial materials. And that's how to revise a completely different thing. Using the conventional material classification. Copper is a piece of metallic material. Rock is a natural ceramic material. And this better silk is a natural polymeric material.
+这些炸弹是所有材料中最强的两种。这也解释了为什么这种机械威胁如此巨大。右？另外，我希望你能有意识地记住。我给一位用户准备了一张图表，列出了四种不同类型的金融材料。这就是如何修订完全不同的东西的方法。使用传统的材料分类。铜是一种金属材料。岩石是天然陶瓷材料。而这种更好的丝绸是天然聚合物材料。
+
+
+[2026-09-10 19:34:02]:
+ And this guy, look at it. It's actually a bucket of faucet, right? Is made of two different materials, which is the intonine and the cellulose, right? So they are sort of mixed and mingled together and forming a piece of food. Right? These are the classification of conventional materials existing in the natural world. And I talked about natural sanitation. Have always to go back to the history to see the early development and how we get it here today. Right? So guess.
+看看这家伙，它实际上是一个水龙头桶，对吧？它由两种不同的材料制成，即肠衣和纤维素，对吧？它们混合交融在一起，形成了一块食物。对吧？这些是自然界中传统材料的分类。我谈到了自然卫生。我们总是要回顾历史，看看早期发展以及我们如何走到今天。对吧？那么猜猜什么是
+
+
+[2026-09-10 19:34:39]:
+ What is the first material that has been researched or developed? So what is the earliest development of uh uh the type term? Stolen. Store. Stop. But you can't because it's of stolage. Okay. Who would have? Somebody say wood, somebody say stone. Any other gas?
+最早被研究或开发的材料是什么？那么，呃，类型术语的最早发展是什么？被盗。存储。停。但你不能，因为是石头的。好的。谁会？有人说木头，有人说石头。还有别的气体吗？
+
+
+[2026-09-10 19:35:06]:
+ Okay. That's actually very advanced material. No more? No other gas for mud. Mod.
+好吧。那其实是非常先进的材料。没有了？泥巴没有其他气体。改装。
+
+
+[2026-09-10 19:35:28]:
+ Anything else? Bronze. Cheese. Bronze. Bronze. Bronze. Rust. Uh the claw is the an close is the answer. For RAS actually comes later. Alright, but that's a rotatory.
+还有别的吗？青铜。奶酪。青铜。青铜。青铜。锈迹。呃，爪子是答案，接近。对于RAS来说，答案其实是后面的。好吧，但那是旋转。
+
+
+[2026-09-10 19:35:51]:
+ So that's asking about the categories and asking is it catal as a first development or is it a derivative or is it composite? So you guys are giving me all the other answers, the ceramic, sample rock, right? And you tell me uh what root that that's composite, right? And I only got an answer of brass, which is not the first metal to be developed, and that's metal. Metal is actually the first material that being developed
+所以这是在询问类别，并问它是首次开发的材料、衍生物还是复合材料？你们给了我所有其他答案，比如陶瓷、样本岩石，对吧？然后告诉我那个是复合材料，对吧？而我只得到了黄铜这个答案，但黄铜并不是最早开发的金属，而且它属于金属。实际上，金属才是最早被开发出来的材料
+
+
+[2026-09-10 19:36:26]:
+ Right? Now you you you might uh argue with me. Not right because you know, the early age of ancestors, we call it storm age. So in that case we work on scrolls, right? Yes, they use tools. Right. So how do we define and actually develop the material, right? It's not that you get to reshape it, right? like you cut a stone or you you you wind it into uh into methods, right? You use it, but you didn't change the property or the nature of the material.
+右？现在，你，你，呃，可能要和我争辩。不对，因为你知道，祖先的早期时代，我们称之为风暴时代。所以在这种情况下，我们会研究卷轴，对吧？是的，他们用工具。右。那么我们如何定义并实际开发材料呢？不是说你能重新塑造它，对吧？就像你切割一块石头，或者把它绕成各种方法，对吧？你用它，但没有改变材料的性质或性质。
+
+
+[2026-09-10 19:36:56]:
+ In that sense, you didn't make the development on it, right? So why we say metal is the first one to be developed? And you guys know who is the first developer of the the math metallic material? The smiths. Do you know the English word of Swiss? Smalls. Yeah. Right? Swiss? Oh, these guys.
+从这个意义上说，你并没有参与它的发展，对吧？那为什么我们说金属是最先被开发出来的呢？你们知道谁是最早开发这种金属材料的人吗？是铁匠。你们知道“Smith”这个词的英文意思吗？小东西。对吗？瑞士人？所有这些家伙
+
+
+[2026-09-10 19:37:20]:
+ Yeah, just your music. So what do they do? Right? So um they get a rock, they get a piece of metal, uh sorry, copper. So why are copper the first uh metals that work on actually copper and gold? Why? Because today exists in a static form in nature. They get a piece of copper and they use a rock and smash on it.
+是的，只有你的音乐。那他们是做什么的？右？所以，嗯，他们得到一块石头，一块金属，呃，抱歉，铜。那么为什么铜会成为最早对铜和黄金有效的金属呢？为什么？因为今天在自然界中以静态形式存在。他们拿到一块铜，然后用一块石头砸碎它。
+
+
+[2026-09-10 19:37:45]:
+ And nowadays the cure sense is no reason for that because when you use you can move forward to deform it many times, especially deform many times, right?
+而现在，治愈感官已经不再是这个理由，因为你使用时可以多次前进，尤其是多次变形，对吧？
+
+
+[2026-09-10 19:38:02]:
+ So this is a so-called co-working or cold hardening, right? So they have a nightmare meeting. Then, people at that time, the squeeze doesn't know, but they just say, by smashing, you become stronger. And even better for that, they say, after that, after it becomes very strong, hard to deform, I heat it up, right, to higher temperatures, then it becomes softened. But now there's also an answer for that because we hit it up. Now uh the dislocations in the lattice uh will be annihilated by moving to different directions.
+所以这就是所谓的共格或冷加工硬化，对吧？他们经历了一次噩梦般的会议。当时的人们并不了解挤压过程，但他们只是说，通过破碎，你会变得更强大。甚至更好的是，他们说，在那之后，当它变得非常坚硬、难以变形时，我将其加热到更高的温度，然后它就会软化。但现在也有一个解释，因为我们对其进行了加热。现在，晶格中的位错将通过向不同方向移动而被湮灭
+
+
+[2026-09-10 19:38:33]:
+ opposite dislocations can cancel out against each other. So you have reduced the density of a dislocation so that you're sketchy. There are all signs behind it, although they don't know the signs not until the 1970s, right? But they have the technique that you got and they see the phenomenon. So they change the properties of the materials, and this is what we so-called development of the materials. and first development are made on metal. And for a long time material science, right, even until the 70s, had the name of metallurgy. So the fatology is the forelife of a modern material science. Intelligence is a science working on patterns. But it still remains as one of the most important uh disciplines in the world, because metallic materials is so important.
+相反位错可以相互抵消。因此，你降低了位错密度，使其变得稀疏。尽管直到20世纪70年代人们才知晓这些符号的含义，但所有迹象早已存在。然而，他们掌握了该技术并观察到了这一现象。于是他们改变了材料的性能，这就是我们所说的材料开发。最初的材料开发是在金属上进行的。长期以来，材料科学——甚至直到20世纪70年代——仍被称为冶金学。因此，金相学是现代材料科学的前身。智能是一门研究模式的科学。但它仍然是世界上最重要的学科之一，因为金属材料至关重要。
+
+
+[2026-09-10 19:39:26]:
+ Right? Uh so here and I uh parked on a little bit, right, Hammered Copper, you know, first mature scientists to work on hammered copper, right? And then later on, there are actually also polymer productions for the silk productions. Now before, the symptom working uh appears much later. First of glass, dry glass makings, and followed by the Bronze Age. So we can say the graphs were actually appeared in this time corrupt by the Iron Age. Started to figure out iron is actually a very thing to work, and there was a discovery of this LD versus also for metal ages pushing forward. Right, so that's a bit to augment history. Alright, so actually
+右？呃，我刚才停在了锤铜，你知道，最早成熟的科学家研究锤打铜，对吧？后来，实际上还有聚合物生产用于丝绸生产。在此之前，症状的作用出现在很晚的时候。首先是玻璃，干玻璃制造，随后是青铜时代。所以我们可以说，这些图表实际上是在铁器时代出现的，被破坏了。开始弄清楚铁其实是一件非常值得研究的东西，并且发现了LD与金属时代的差异，推动了发展。对，这有点补充历史。好吧，实际上
+
+
+[2026-09-10 19:40:18]:
+ of soap wet metals, right? Then we have powders, continuous development of tomatoes, powders, and so on and so forth. Until in our sixties and seventies, we'll move into the next age, which is a silicon. And that is a completely different vital material. Silicon actually belongs to syrinate materials and connects it by covalent bonds. That this is really the new property property, the electronic properties of the semiconducting materials that revolutionizes application. So we're no longer staying on making it stronger or softening or whatsoever. Now we're looking at a completely new different field of the electronic properties and applications associated with these new type of materials. And then after that, things moved fast. In the 2000s, with all different types of functional materials, right?
+肥皂、湿金属，对吧？然后我们有粉末、番茄的连续开发、粉末等等。直到我们六十年代和七十年代，我们将进入下一个时代，即硅时代。这是一种完全不同的关键材料。硅实际上属于硅酸盐材料，并通过共价键连接。这真正是新的特性——半导体材料的电子特性，彻底改变了应用。因此，我们不再局限于使其更强或更软等目标。现在我们关注的是一个全新的领域，即这些新型材料的电子特性及相关应用。此后，发展迅速。所以在2000年代，出现了各种不同类型的功能材料，对吧
+
+
+[2026-09-10 19:41:24]:
+ Was the molecular age, and the reducer size is still kind of functionality cut. So there's molecular materials and now AI is coming. Alright, and what are the futures? I don't know. Maybe all of us will be replaced by the robots, right? But that's um where we were uh are at the moment. Okay. Okay, so uh I spend an hour and ten minutes explaining to you what is material science. Right. So what I did, I talk about basic information, right?
+那是分子时代，而还原剂尺寸在功能上仍有所缩减。因此，现在有分子材料，而且人工智能正在到来。好吧，未来会怎样？我不知道。也许我们所有人都会被机器人取代，对吧？但这就是我们目前所处的阶段。好的。好的，所以我花了一个小时十分钟向你们解释什么是材料科学。对。我做了什么，我谈到了基本的应用，对吧
+
+
+[2026-09-10 19:42:01]:
+ So I talk about how to make materials feeling from atoms, right? and how the things work together into this guy the property of the materials, right? So, electronic structures, then I'll briefly touch the classification of materials as well. Right? And the next topic I'm going to move into is advanced materials. So these are commissionable materials, piece trail materials, and we have the materials. And now I want to emphasize and stress on this one advanced materials. So what do I mean by advanced materials? Right, I think uh we've kind of break here, right, uh for ten minutes, we'll come back uh and continue
+因此，我会讲解如何从原子层面理解材料的性能，以及这些要素如何共同作用形成材料的特性。接下来是电子结构，然后我会简要介绍材料的分类。之后我将进入下一个主题：先进材料。这包括可定制材料、试验性材料等。我想重点强调“先进材料”这一概念。那么，我所说的先进材料具体指什么？我认为我们刚刚休息了十分钟
+
+
+[2026-09-10 19:55:30]:
+ Right? Can be explained by using differential levels, right, and by fitting the vectors in it. Just that, right, carbon has six electrons, right? So, how are we to arrange the six electrons in its energy levels, atomic energy levels? So we know the lowest and the levels uh is usually known as the key level, right? And what your candidate will be 1x electrons, right? And how many of them? two one is networks, right? And the next energy level, atomic energy level, will be L. And in such a case, right, we'll also have um s electrons, right, which is the two s electrons.
+右？可以用微分能级来解释，然后用向量拟合其中。就是这样，对吧，碳有六个电子，对吧？那么，我们如何安排这六个电子的能级，也就是原子能级？我们知道最低能级，这些能级通常被称为关键能级，对吧？你的候选能级会是1x电子，对吧？有多少个？两个1是网络，对吧？下一个能级，原子能级，是L。在这种情况下，我们还会有嗯S电子，对吧，也就是两个s电子。
+
+
+[2026-09-10 19:56:20]:
+ We'll also put two electrons in there, right? But then that's not the end of it because on L you do have a bit more of drawers or instruments to accommodate more electrons. So we have the two key levels, right? Well, it depends on whether you're going to write it in a mechanical way or not, right? And then uh how many T levels are there? you actually have three key values are there. Right? So let's say it would be two electrons in there, we put two electrons in there, alright? Now in the case of carbon, alright, um you only have two more electrons alright left. Right, one, two, three, four, right, five, six.
+我们还会放两个电子，对吧？但这还不是全部，因为在L上你确实有更多的抽屉或仪器来容纳更多电子。所以我们有两个关键能级，对吧？这取决于你是否用机械方式写它，对吧？然后，呃，有多少个T能级？实际上你有三个关键值。右？假设里面有两个电子，我们放两个电子，好吗？以碳为例，嗯，你只剩下两个电子，左边。一，二，三，四，右，五，六。
+
+
+[2026-09-10 19:57:00]:
+ Right? So if we're going to arrange electrons in a common way, we know, right, if there's no difference, there's no differentiation of these two levels, you can just randomly put two electrons on any two of these entry levels. So that fulfills the atomic electron arrangement about atomic levels of what is a carbon. Okay, so so that how it works should be, alright? But then uh carbon will do something else, right? So, this is the outer shallow United configuration of the common outlet. So you have four on the shout outs. This this is the ether channel, right? So p-level is a mature backstock. And Carl will do something different, right?
+对吧？所以，如果我们按照常规方式排列电子，我们知道，如果这两个能级没有差异、没有区分，你可以随机地将两个电子放入任意两个简并轨道中。这就满足了碳原子关于原子能级的电子排布规则。好的，这应该是如何运作的，对吧？但随后，碳会做其他事情，对吧？这是外层价电子构型。你在最外层有四个电子。这是p轨道，对吧？p能级是……（此处原文表述不清）。然后碳会做一些不同的事情，对吧
+
+
+[2026-09-10 19:57:46]:
+ And this different is so-called X hybridizations. So they hemorrhage, and the result of hemproduction will depend on how, right? So one of the ways to have adaptation is that we're going to mix up with these four energy levels to make all of them identical. So you form four identical energy levels, right? And now you have four identical energy levels and you have four electrons in there. And you're better off by putting each of the electrons in each of the energy levels. So that is the very famous sp3 hybridization of carbon metals. Right? So, as P3 hybridization, that means you have four ultra-shell electrons for these common atoms, and these electrons are widened there to co-bond with another common atom. So this is the thing, right?
+这种差异被称为X杂化。因此它们发生简并，而简并的结果取决于……对吧？所以实现适应的一种方法是将这四个能级混合，使它们全部变得相同。于是你形成了四个相同的能级，对吧？现在你有四个相同的能级和四个电子。将每个电子分别放入每个能级中会使体系更稳定。这就是著名的碳原子的sp3杂化。对吧？因此，在sp3杂化中，意味着这些常见原子有四个价层电子，这些电子被扩展以与另一个常见原子形成共价键。这就是关键所在，对吧
+
+
+[2026-09-10 19:58:45]:
+ With SP three hybridization, right? S P3 hybridization will give you a spatially symmetrical configuration and known as the heterhedral structures. Right? So um this is uh probably a better jeweling than me, right? So you have a tetrahedral structure, right? And this is the four, S P three, five, S to P four. And uh with a characteristic of one uh nine to five rays of separation among each of the directions, right, you can put a center carbon atom in there and forming chemical bonds with another four carbon atoms and forming this petahedral uh structural configuration. Okay? And now, if I have more carbon atoms coming, and let the structure deform in the three-dimensional space, right, in a continuous manner, right, then you're going to form a structure or something like that. If you look at each of the atoms in the structure, so what you see here, right?
+对于SP 3的杂化，对吧？S P3杂化会给你一个空间对称的构型，称为六面体结构。右？所以，嗯，这可能比我做得更好，对吧？你有一个四面体结构，对吧？这是四，S、P、三、五，S到P四。而且，呃，每个方向之间有一个九到五条分离射线的特征，对，你可以放一个中心碳原子，然后和另外四个碳原子形成化学键，形成这个下方体结构构型。明白吗？现在，如果我有更多的碳原子，让结构在三维空间中连续变形，对吧，那么你就会形成一个结构或者类似的东西。如果你观察结构中的每个原子，就是你看到的这些，对吧？
+
+
+[2026-09-10 19:59:49]:
+ So this one is connected to four carbon atoms in uh identical manner, and so does this one, or that one, or any one of them, right?
+所以这个碳原子以完全相同的方式连接四个碳原子，这个、那个，或者其中任何一个，对吧？
+
+
+[2026-09-10 20:00:02]:
+ you see if you you are seeking in the position of any of these carbon atoms. look around, right? you see uh exactly the same neighborhood. Alright? So, this is the so-called sp3 hybridization of forming a continuous network of structures of carbon atoms. And that gives you, well you guys know Kenoma Jero, diamond. Right? So uh diamond I guess everybody is familiar with because this is a very old material. Alright, has been there for uh centuries and centuries. Right?
+你看，如果你从任何一个碳原子的位置去观察，环顾四周，对吧？你会看到完全相同的局部环境。明白了吗？所以，这就是所谓的 sp3 杂化，形成了由碳原子构成的连续网络结构。这就给了你——你们都知道的——金刚石，也就是钻石。对吧？我想大家都熟悉钻石，因为这是一种非常古老的材料。它已经存在了好几个世纪了。而且它非常有名
+
+
+[2026-09-10 20:00:41]:
+ And it's very famous, combined with the never-tarnishing gold on the ring. This is a stone of choice to symbolize the purity and the longevity of love in the marriage. Right? So, probably every couple, every girl, will wish to have a large piece of diamond. Right? And here I show you a piece of very famous diameter. So this is uh the uh famous cutting net diamond and it's very large. Uh it's uh I don't remember the numbers. I think it's also a problem to round, so it's a huge size like this for the entire diamond, right? And the name comes from the Kalidan mine in South Africa. And of course the mine belongs to Sir Kalidan, which is a very rich guy called the Diamond Mine in South Africa.
+而且它非常有名，搭配戒指上永不褪色的黄金。这是象征婚姻中纯洁与爱情长久的宝石。右？所以，可能每对情侣，每个女孩，都会想要一大块钻石。右？这里我给你展示一块非常著名的直径。这是著名的切割网钻石，非常大。呃，我不记得具体数字了。我觉得这也是个难点，所以整个钻石的尺寸就是这么大，对吧？这个名字来自南非的卡利丹矿。当然，这座矿属于卡利丹爵士，他是个非常富有的人，叫南非的钻石矿。
+
+
+[2026-09-10 20:01:32]:
+ Then later on, they cut this 3,000 prat something of the diamond into different pieces, and with the smaller ones. So the largest one is uh three hundred pounds or something. Again, don't remember anything from numbers, but that's what known as the first star alpha agriculture or something. This is the second largest and third largest, and it's also fourth. So those two can be found now, right? One is on the submarine rain uh cross uh of uh uh Queen Elizabeth. She passed away. I don't know where it's going to pass now. And then uh the second one is here, right? uh on the crown of the uh road valve.
+后来，他们把这颗三千块的钻石切割成不同块，和小块一起。所以最大的那块大约三百磅左右。我记不清数字里的内容，但那就是所谓的第一颗恒星阿尔法农业之类的。这是第二大，第三大，也是第四个。所以这两个现在都能找到了，对吧？一个在潜艇雨上，呃，呃，伊丽莎白女王的十字架上。她去世了。我不知道它现在会流向哪里。然后，呃，第二个在这儿，对吧？呃，在呃，公路阀门的顶部。
+
+
+[2026-09-10 20:02:15]:
+ Right, uh so uh we all know these gallons are expensive stuffs. And uh why you use this pattern? Because it's red. Usually it's the case. If something is expensive, can be born, or one reason is that you need it, then you don't have it, right? So that's in the price. And you need it, well, for some of the materials, it's because it's very useful, right? where you consume it, uh you consume very fast. So it becomes uh very expensive. But in case of diamond, well there are actually a lot of print applications for diamond, but uh you know these are different.
+对，呃，我们都知道这些加仑很贵。那你为什么用这个图案？因为它是红色的。通常是这样。如果某样东西很贵，可以出生，或者某个原因是你需要它，那你就没有它，对吧？所以这就是价格里的因素。你需要它，嗯，对于某些材料来说，是因为它非常有用，对吧？你消耗它的地方，呃，消耗得非常快。所以它变得非常昂贵。但就钻石而言，实际上有很多印刷用途，但你知道，这些不同。
+
+
+[2026-09-10 20:02:59]:
+ What we say is the so-called natural diamond. You're not using that for anything, actually. you're not using your MRE to to cut glass. We do not do that, right? So uh they are expensive just because I don't know, people like it, right? What if a reason, right? It relates to how it is formed naturally. So how do you spoil that way?
+我们所说的就是所谓的天然钻石。实际上，你并没有用它来做什么。你并不是用你的莫氏硬度计去切割玻璃。我们不这么做，对吧？所以，它们之所以昂贵，只是因为……我不知道，人们喜欢它，对吧？这有什么理由呢，对吧？而且这与它的天然属性有关
+
+
+[2026-09-10 20:03:28]:
+ Bye on the Dalmat crystal balls. right at a high temperature high pressure in the depth of wall. And it takes up thousands of thousands of years for a small piece of diamond to grow to a decent size. Right? And that's why it's expensive because it's rare, right? You don't get a lot of chance to get a world of diamonds at all, naturally. But then oh this is the trick. If you can grow the element, if you can grow it, right? And if you can grow it with uh a relatively cheap price, right, that means you can have as many as diameters as you wish. And that will bring the price down, right?
+再见，关于钻石晶体。它们在地下深处的高温高压环境下形成。一小块钻石要生长到合适的尺寸需要成千上万年。对吧？这就是它昂贵的原因，因为它稀有，对吧？你自然很难获得大量的钻石。但这里有个诀窍：如果你能培育这种元素，如果你能培育它，对吧？而且如果培育成本相对低廉，那就意味着你可以拥有任意数量的钻石。这将使价格下降
+
+
+[2026-09-10 20:04:12]:
+ And that is uh exactly what Chinese people are doing nowadays, right? They grow the best artificial diamond in the world and they sell it. I think each of the domains is quite cheap. All right. Um but then uh for the natural ones, right, they form as very harsh conditions, right, and uh very difficult to obtain, right, determine the uh the price of the stalment. Uh but then uh there's another piece of uh carbon-based materials which is known as the polymorph that's covered as well, on comparison. Now, in this case, uh the bounding uh is slightly different, right? So instead of a whole big X P3 have a mark, right? Now, it's only two of the P levels hybridized with the S level, and there's the so-called SP2 hybridization. was one of the p-levels left upwards.
+这正是中国人现在所做的，对吧？他们种植世界上最好的人造钻石并出售。我认为每个领域都相当便宜。好的。嗯，但对于天然领域来说，它们形成的环境非常严苛，非常难以获得，确定分期金的价格。呃，但还有另一种碳基材料，称为多晶型，比较时也覆盖了。在这种情况下，边界稍微不同，对吧？所以不是用一个大大的X，P3有标记，对吧？只有两个P能级与S级混合，还有所谓的SP2杂交。其中一个P能级被向上放置。
+
+
+[2026-09-10 20:05:06]:
+ In such a case, right, you still have the four electrons, but now I'm going to fill the bottom three first, and we have a leftover of electrons left at the P levels, right? And then in such a case, you can form a different, completely different type of materials, right? This materials have a planar triangular configuration, right? But then uh these three typical mounts are covid. Carbon is a carbon shared two of the electrons. You do have one feet that was standing over and over there, right, on this one plane. Now, you can imagine if all of the carbon atoms are forming this triangular configuration, right? And you try to connect them, all of them together.
+在这种情况下，对吧，你仍然有四个电子，但现在我先填充底部的三个轨道，然后在P能级上剩下一个电子，对吧？在这种情况下，你可以形成一种完全不同的材料类型，对吧？这种材料具有平面三角形构型，对吧？但是这三个典型的例子是碳。碳共享两个电子。你确实有一个未配对的电子悬在上方，位于这个平面上，对吧。现在，你可以想象如果所有的碳原子都形成这种三角形构型，对吧？然后你试图将它们全部连接在一起
+
+
+[2026-09-10 20:05:59]:
+ They're hardly constructors, right? Somebody says graphite, yes, that's the basic structure of actually graphene, alright, because it's one layer of it, right? But then you can imagine, because I have one electro left over for each of the condominiums, sticking out perpendicular to the right word, right? Now all these evacuals are actually quite mobile. So there we go. Large pie round on this whole plane and moving around and making this material very electrical conductive. So graphite is electrical conductive material. is the conductor. Now compared to the piece of diamond we're just going to talk about, right, in diamonds, all of the four electrons have been neutralized to pair up with other uh electrons uh in other common atoms. Alright?
+它们几乎不是导体，对吧？有人会说石墨，是的，那实际上是石墨烯的基本结构，对吧，因为它就是其中一层，对吧？但你可以想象，因为每个碳原子都剩下一个电子，垂直于平面伸出，对吧？现在所有这些电子实际上都是相当可移动的。所以就是这样。在整个平面上形成大的离域π键并四处移动，使这种材料具有非常好的导电性。因此石墨是一种导电材料，是导体。现在与我们刚才要讨论的钻石相比，在钻石中，所有四个电子都已配对，与其他碳原子中的电子形成共价键。
+
+
+[2026-09-10 20:06:54]:
+ So there's no free factual stuff over, right? And then in the sense, no free electrons means materials is no longer deductive, right? Is a piece of insulating tool. Right? That means use the fed structure that I introduced before. There's a large band gap in between the women's bend and the confection bend. Alright, and it's also have a consequence tell you why that is actually transparent. Alright? But I'm going back to graphite. So that's the structure of the graphite.
+所以没有自由事实，对吧？从意义上说，没有自由电子意味着材料不再是演绎的，对吧？它是一种绝缘工具。右？这意味着要使用我之前介绍的引导结构。女性弯和糖果弯之间有一个很大的带状缝隙。好的，这也说明为什么它实际上是透明的。明白吗？但我还是回到石墨的话题。这就是石墨的结构。
+
+
+[2026-09-10 20:07:31]:
+ That instead of a nice transparent set of wi-fi, it's a conductor and stock in color, right? And this is the structure of the graphite. you have a layers of graphins right packed up together and you have uh power electrons sticking out or flying or flowing inside the plane of the single beam. But then uh you see the interaction in between each homography layers are actually weak. Uh there are some called the Matamas Malls. Alright? Then you could expect, right? Well, it was very difficult to break because a diamond is the hardest material in the world. And this material, also made of carbon, is actually easy to be break broken. And the way you break it, what is the easiest way that you break it?
+它不是一整套透明的Wi-Fi，而是导体和纯色，对吧？这就是石墨的结构。你有一层层紧密排列在一起的图，能量电子突出、飞行或流动于单束的平面内。但你会发现，每层同调层之间的相互作用其实很弱。呃，有些叫做马塔马斯购物中心。明白吗？那你就可以预期了，对吧？嗯，这很难打破，因为钻石是世界上最硬的材料。这种材料同样由碳制成，实际上很容易被断裂。那么，你破坏它的方式，最容易断开的方法是什么？
+
+
+[2026-09-10 20:08:21]:
+ To slice it layer by layer because these parts are the biggest part of the material, right? And that explains why, alright, you all use pencil when you're young, right? But the pencil, when you mark it down, and the fletch marks you left on the piece of paper, it's actually uh um red line. major component is red button. It's actually, the capsule is made of composite, right? Is not a graphite only. The higher content of graphite, the darker it is. So it's a softer cabinet. So we have a 3B, 4B, 6B, right? Softer type of cancer, have a more content than graphite, but it's actually a deposit of graphite and clay.
+逐层切片，因为这些部分是材料中最大的部分，对吧？这就解释了为什么，好吧，你们小时候都用铅笔，对吧？但是当你用铅笔做标记时，留在纸上的笔迹实际上是红色的。主要成分是红色颜料。实际上，笔芯是由复合材料制成的，对吧？不仅仅是石墨。石墨含量越高，颜色越深。所以它是更软的笔芯。所以我们有3B、4B、6B，对吧？更软的笔芯含有更多的石墨，但实际上
+
+
+[2026-09-10 20:09:02]:
+ Alright? So so that's graphite
+明白吗？所以那是石墨
+
+
+[2026-09-10 20:09:06]:
+ Right, so uh that is the two of the most classical type of uh polymoths of carbon materials. Right? And that suit might sort of introduce the concept of colour materials. But I just say that I want to talk about advanced materials. So what can be made events, right, based on the null form, null polyforms of diamond and graphite. Now here comes another one, alright? This is not so new, right? but it was quite popular in the uh late nineties. uh and uh early 2000. And this type of material is known as the diamond-like carbon, right?
+好的，那么呃，这是碳材料中最经典的两种同素异形体。对吧？这或许会引出碳材料的概念。但我只是想谈谈先进材料。所以，基于金刚石和石墨的零维、零多面体形式，可以制造出什么事件呢，对吧？现在来了另一个，好吧？这个并不那么新，对吧？但它在90年代末和21世纪初非常流行。这种材料被称为类金刚石碳
+
+
+[2026-09-10 20:09:56]:
+ That's like college. What is it? We know diamond, all right, is phase of this SP3 hybridization. Then the beauty of diamond is a crystal, right? The crystal means you have to arrange these atoms in a periodical manner in the three-dimensional space. The arrangement of the atoms, or actually, you order. Right? Now there's other ways you can arrange these atoms. Is that you keep SP3 hybridization in terms of funding format, but then when you arrange these different units, you can rotate them a little bit and making it not so in order. So instead of having all the structures like that in the diamonds, now you have a sort of a randomized structures in there. Alright?
+那就像大学一样。那是什么？我们知道钻石是SP3杂交的相。那么钻石的美妙之处在于晶体，对吧？晶体意味着你必须在三维空间中以规律的方式排列这些原子。原子的排列，或者说，是你有序排列的。右？现在还有其他方式可以排列这些原子。比如你在资金形式上保持SP3杂交，但当你排列这些不同单元时，可以稍微旋转它们，使其顺序不那么统一。所以，钻石里没有那么多结构，现在你就有了一种随机化的结构。明白吗？
+
+
+[2026-09-10 20:10:46]:
+ And that is no longer a crystal. But there's not crystals, right? Uh we basically lost all of the properties that we lost in crystal. Example, a band bag of the incident. So instead of a very transparent appearance, in the case of diamond, in the diamond-like colors, it actually appears black. And then uh the good thing about this stuff unlike carbon is that you actually keep the covalent bound of this sp3 hybridization. So unlike graphite, you don't have this fundamental os whatsoever. So this is still a very strong material, right? And people have been using that for the coating of washes, right? And this is uh actually quite speedy.
+那已经不再是晶体了。但现在已经没有晶体了，对吧？呃，我们基本上失去了晶体中失去的所有特性。比如，事件中的一个带状包。所以在钻石的表面上，钻石般的颜色看起来并不是非常透明的，而是呈现出黑色的。而且，这种东西的好处是，和碳不同，你实际上保持了sp3杂化的共价结合。所以不像石墨，你完全没有这种基本的有机素。所以这仍然是非常坚固的材料，对吧？人们一直用它来涂覆洗色，对吧？而且这其实相当快。
+
+
+[2026-09-10 20:11:37]:
+ If you look at this watch, right, and you buy it, and it can tell you, oh, this is a piece of a diamond watch. Why is the Diamond Watch? Diamond watch doesn't mean you got a piece of diamond stick on the screen of your your watch, right? In many case, diamond watch refers to, right, on the hairspace of the diamond they have a coating, right? And also on the surface of the watch, they have a diamond-like carbon deposited as a protection layer. Alright? So definitely much. Okay, before I talk about uh uh a new form of carbon, uh this one actually box a little bit. uh in the recent studies of moving from advanced materials into frontiers of advanced materials. Right.
+如果你看这块手表，买了它，它能告诉你，哦，这是钻石手表的一部分。为什么是钻石手表？钻石手表并不意味着你手表屏幕上有一块钻石棒，对吧？在很多情况下，钻石手表指的是，钻石的发丝上有涂层，对吧？而且在手表表面，它们沉积了类似钻石的碳纤维作为保护层。明白吗？绝对是。好，在我谈论一种新的碳纤维形式之前，呃，这个手表其实有点像盒子。呃，在最近关于从先进材料转向先进材料前沿的研究中。右。
+
+
+[2026-09-10 20:12:24]:
+ Now just to talk about, right? So this is a random arrangement of the carbon atoms, although they are keeping the sp3 hybridization. But then uh when people were trying to understand the the crystal growth, right, uh they spend a lot of time defying the symmetry of the crystals and that is how the atoms are actually arranged in a certain periodical order. Right? But that is very easy to describe, right? because you have the sugar you eat there. Right? Then, if you have a random direction, so the so-called amorphous materials, so there's no water of this atoms, right? And then think about how would you be able to describe the arrangement of the atoms. That's very difficult.
+现在只是来讨论一下，对吧？所以这是碳原子的一种随机排列，尽管它们仍保持 sp3 杂化。但当人们试图理解晶体生长时，他们花了大量时间定义晶体的对称性，而这正是原子以某种周期性顺序实际排列的方式。对吧？但这很容易描述，因为你吃的糖就是这样的。然后，如果是随机方向，即所谓的非晶态材料，那么这些原子就没有这种有序性，对吧？接着想想你将如何描述原子的排列。这非常好
+
+
+[2026-09-10 20:13:13]:
+ Is it it? Right? So uh let me give you an example. So, in the crystals, for example, let's use symbol cubic instead of demonstructure. Demonstrator is a little bit more complicated than simple to be as an example. So this is simple. Alright? That means you have atoms sitting on eight vertices of the skew. And how do you start from here to do the personal? You just plant this structure, which is a unit cell, to expand in the three-dimensional directions, right, and then it grow.
+是吗？右？那么，呃，让我给你举个例子。比如在晶体中，我们用符号立方体代替demonstructure。Demonstrator比简单来说要复杂一些。所以这很简单。明白吗？这意味着你有原子分布在斜面的八个顶点上。那么你如何从这里开始做个人的分析？你只需种植这个结构，也就是单位胞，向三维方向扩展，然后它就在三维方向上扩展。
+
+
+[2026-09-10 20:13:51]:
+ And eventually, to certain size, you have a crystal, and all of the atoms are following this periodical arrangement. Right? So, you can use, instead of the large crystals, right, to talk about how the atoms are arranged, you only need one of the unit cells to talk about the whole thing. And the symmetry is the follows. Alright? It's very easy to describe the structure of a piece of personal materials. All you need to know is the symmetry of the skin itself. That tells you everything. Right? Now if you're going to have a randomly arranged structure, say a mobile structure, how would you be able to do that
+最终，达到一定大小后，你会形成晶体，所有原子都遵循这种周期性排列。右？所以，你可以用大晶体来描述原子的排列方式，只需要一个晶胞来描述整个过程。对称性如下。明白吗？描述个人材料的结构非常简单。你只需要知道皮肤本身的对称性。这告诉你一切。右？如果你要有一个随机排列的结构，比如移动结构，你会如何实现
+
+
+[2026-09-10 20:14:31]:
+ Right. So this is a very subtle concept, all right? So let me put it in a different manner, right? We have a crystal, right? So, first of all, means you have a long-range order of the atoms that rent in this way. Now I can always cut a crystal to smaller size. Right? So uh this single crystal, I cut it into many pieces of crystals, you know, how many crystal. I can further reduce the size of the person, so making the person even smaller, smaller, smaller. And eventually, I can always cut to the size of a single unit cell if that's such a line.
+右。所以这是一个非常微妙的概念，好吗？那我换个方式说，对吧？我们有一块晶体，对吧？首先，这意味着你有一个以这种方式撕裂的原子的远程秩序。我总能把晶体切割成更小的尺寸。右？所以，呃，这个单晶体，我把它切成了许多块晶体，你知道，多少块晶体。我还可以进一步缩小人体尺寸，让这个人变得更小、更小、更小。最终，如果那条线很长，我总能切割到单一单元格的大小。
+
+
+[2026-09-10 20:15:14]:
+ So in this process, I started to lose the long-ridge order. But that is the stupid cell is still there. I still have the sort of the short range water. Alright? So you see, if I start from a crystal to a completely unfocused material, it's a continuous process. Right? So there is no clear definition of what is a morphus and what is a crystal. It's a continuous process. What you change is the range of order. You're starting to lose the long-range water, but you keep the shortage of water until you completely lost the aggregate water.
+在这个过程中，我开始失去长脊序。但那个该死的单元依然存在。我仍然保留着那种短程水。明白吗？所以你看，如果我从晶体开始到完全无焦点的材料，这是一个连续的过程。右？所以，什么是形态，什么是晶体，没有明确的定义。这是一个连续的过程。你改变的是秩序的范围。你开始失去长程水，但水的缺失会持续，直到完全失去总水分。
+
+
+[2026-09-10 20:15:49]:
+ It's a continuous process, right? But then there's a huge difficulty in making a structured model full of office material. Because for crystals, you can always rely on the symmetry to describe it, and for morphos, you cannot do it. Right? So, the field actually got stuck there for quite a while because people don't know, they don't have the structure. They cannot make the models and predict the property of the among these materials, right? And these properties include, right, under certain conditions, whether a new phase will be able to form, whether these materials will have certain properties, and so on, so forth. So people cannot repeat that. Until very recently, right, that people start to define mathematical ways to describe the long-range order to certain standards. But now modelling.
+这是一个持续的过程，对吧？但随后在构建包含大量办公材料的结构化模型时遇到了巨大困难。因为对于晶体，你总是可以依靠对称性来描述它，而对于形态物质，你却无法做到这一点。对吧？因此，该领域实际上在那里停滞了相当长一段时间，因为人们不知道，他们没有结构。他们无法建立模型并预测这些材料之间的性质，对吧？而这些性质包括，在某些条件下，新的相是否能够形成，这些材料是否具有某些性质，等等，诸如此类。所以人们无法重复这一过程。直到最近，人们才开始定义数学方法来将长程有序描述到一定标准。但现在，建模
+
+
+[2026-09-10 20:16:42]:
+ Makes modeling possible. And through the new modeling, what we found is that we found starting from amorphous materials, right? So they carry out simulations. They pressed it this way or that way, supplied different load in different directions. Be found, new forms of data structure can be formed. So what do I mean by new forms of data structures? Delma structures usually can be treated as a layer of close-packed atomic plates stacked into APC-APC edges. So, this is the common 3C demand as we mentioned. But then this new prediction uh tells you under certain pressure conditions, correct, the amorphous structures can evolve into uh two H kind of that means the A B A B layers that we have developed. So, the new forms or new phase of the talent. And following this prediction, people guess what?
+使建模成为可能。通过新的建模，我们发现从非晶态材料出发，他们进行了模拟。他们以不同方式施加压力，在不同方向上提供不同的载荷。结果发现，可以形成新的数据结构形式。那么，我所说的新数据结构形式是什么意思？通常，Delma结构可以被看作是一层层紧密堆积的原子板堆叠成APC-APC边缘。这就是我们提到的常见的3C需求。但随后这一新预测表明，在某些压力条件下，非晶态结构可以演变为H型结构，即我们所发展的ABA B层。因此，这些新形式或新相
+
+
+[2026-09-10 20:17:35]:
+ We're able to make it under the conditions. So, you see how the field is evolving, and that's into the trontiers. that right if you find new tools or you have new theories, new definitions that can solve the previous problems, and that will bring you into new knowledges and bring some new discoveries. So that's somehow from the conventional materials to the advanced materials and to fake in the frontier out to the advanced materials. Because the right note picks our post, right? But then talking about carbon, all right, uh we cannot uh discuss without these new forms, alright, uh, beyond the diamonds and glyphosate and they are known as the C sixteen. Well that actually comes quite early because the report was back in 1985, all right? And then the sub hubbin number two, also quite old, in there. And uh the newest one probably is Rapin, but that was there uh ten years ago, right? So it also has been there for quite a while.
+我们能够在这些条件下实现它。因此，你可以看到该领域是如何发展的，并进入前沿领域。如果你发现新工具或拥有新理论、新定义来解决以往的问题，这将带来新的知识并促成一些新发现。所以，这某种程度上是从传统材料到先进材料，再到前沿领域的探索。因为正确的笔记会记录我们的帖子，对吧？但谈到碳，好吧，我们不能不讨论这些新形态，除了钻石和石墨烯之外，它们被称为C60。实际上，这一发现相当早，相关报告可追溯到1985年。然后是碳纳米管，也相当古老。而最新的可能是富勒烯，但
+
+
+[2026-09-10 20:18:40]:
+ Although at that time we all say user, at least at my time, user uniforms of pub. So that that's the kind of structure of these new structures, right? By comparing the local neighboring neighborhood of these other metals, right? in the case of C sixty, permanent to graph B. Alright? How would it be differ from the conventional sp3 hybridization or sp2 hybridization? So let's look at this uh uh fuller ring or C60, also called Pakima, I have different names, right? Uh it's composed of uh I don't remember how many, but uh a basic number of petagons and petal bonds, right? forming a soccer-like structures, right? The name Sparky Ball actually coming from the Sabaki Minster which is a compensation center in Canada, right?
+虽然那时我们都说用户，至少在我那个时代，用户均匀分布。所以这就是这些新结构的结构，对吧？通过比较这些其他金属的本地邻近邻域，对吧？以C 60为例，永久地对应图B。明白吗？它与传统的sp3杂化或sp2杂化有什么不同？那么我们来看这个，呃，富环，也叫C60，也叫Pakima，我有不同的名字，对吧？呃，它由，呃，我记不清具体数量了，但基本数量的petagon和petal bond，对吧？形成一个类似足球的结构，对吧？Sparky Ball这个名字实际上来自加拿大的Sabaki大教堂，那是一个补偿中心，对吧？
+
+
+[2026-09-10 20:19:37]:
+ Named after is architecture, architectural who built this structure, right? And these structures share very similarity with the structure of the polaring 4-8. this guy tells people you can use a number of hexagons and pentabons and workheads together and make a stable uh spherical structures. And that exactly, I think, inspired Proto and Kerr and the Smalli uh for their discovery of their partners' system. Right? Uh so uh this is the motto of me there. There has been a long argument of what people have made of this before. I think researchers have still working nowadays based on possible ill properties associated with the system. Now, look at the structure of this molecule. Okay, you can guess.
+以建筑学命名，是谁建造了这个结构，对吧？这些结构与极化4-8的结构非常相似。这位先生告诉人们，你可以将多个六边形、五角柱和工作头组合在一起，形成稳定的球形结构。我认为这正是启发了Proto、Kerr和Smalli，他们发现合作伙伴的系统。右？呃，所以，呃，这就是我在那里的座右铭。人们对此的看法已经有过很长时间的争论。我认为现在的研究人员仍然基于该系统可能存在的不良特性进行研究。现在，看看这个分子的结构。好吧，你可以猜到。
+
+
+[2026-09-10 20:20:38]:
+ What might be the two properties associated with this material or about substitutions? So do you think things are SP2 uh hybridization? Not exactly, right? Because SP2 is a planner structure, right? The first one is buckled. So it can be treated as a sort of before asking to money. Alright? then if there's a signature breaking, right? The original triangular structure is actually very stable. Alright, but this one.
+这种材料或替代可能相关的两个特性是什么？那么你认为这些东西是SP2的杂交吗？不完全是，对吧？因为SP2是一种计划结构，对吧？第一个结构是弯曲的。所以它可以被视为一种“在向钱要求之前”的处理。明白吗？那如果存在特征破损，对吧？原本的三角形结构实际上非常稳定。好吧，但这个。
+
+
+[2026-09-10 20:21:14]:
+ Okay, it's no longer saving. Right, because it's bubbled. Right. All the bonds are at the stress, and also the magnitude of the race is in the threat. So this does give it an additional reactivity, chemical reactivity. Alright? So it can be serving as the reducing agent in a lot of the chemical reactions. People believe it's good to reduce the reactive oxygen species in the biological system. people trying to make it to madison isn't saucer horse. Right?
+好的，它不再保存了。对，因为它是环状的。对。所有键都处于张力状态，而且反应的幅度也处于威胁之中。因此这赋予了它额外的反应活性，即化学反应活性。好吗？所以它在许多化学反应中可以作为还原剂。人们认为它有助于减少生物系统中的活性氧物种。人们正试图将其制成药物作为抗氧化剂
+
+
+[2026-09-10 20:21:48]:
+ But the second one, recognental tubes, actually shares a lot of the similarity with the structure in terms of, you know, you're actually danding the bondings of SP2. Port in the scat of a buckle SP2 configurations, right? But instead of forming uh zero-dimensional fund dots, right, uh you are forming uh one-dimensional, right, elongated independent structures using the carbonators. Right? Uh but the funny part of this or the new properties of conductivity is that right you can think about it or treat it as uh uh folding on the graphine uh sheet. Right? So how can I explain that? I don't have even have a piece of paper. Well, let me see. Alright, let me use my tissue to explain this.
+但第二种，即碳纳米管，实际上在结构上与 sp2 杂化键合有很多相似之处。你知道的，你实际上是在构建 sp2 构型中的键合，对吧？但是，与其形成零维的量子点，不如说是利用碳原子形成一维的、细长的独立结构，对吧？有趣的是，其新的导电特性在于，你可以将其视为石墨烯片层的卷曲或折叠。我该怎么解释呢？我甚至没有一张纸。好吧，让我看看。好的，我用纸巾来画一下这个
+
+
+[2026-09-10 20:22:47]:
+ Right? So the graphite, the difference between graphite and graphene is that you can treat with graphene. Has one layer of dry fight, or is it a layer of dry fight? And if you start a graphic, alright? So if you start with a model layer or a simple layer of graphin, then how would you be able to make a public tube? We're going to call it. Right, so we can roll it over, right, making a two-middle scratch, and that make you copy number two. Right? But then remember on this sheet that you have an arrangement of the subtender triangular structures, the honeycomb structures. Right?
+对吧？所以，石墨和石墨烯的区别在于，你可以用石墨烯来处理。它是一层干式战斗，还是一层干式战斗？如果你从石墨开始，好吧？那么，如果你从单层或简单的石墨烯层开始，你如何能够制作一个公共管？我们称之为。对吧，我们可以把它卷起来，对吧，形成一个两中划痕，这让你复制编号二。对吧？但请记住，在这张纸上，你有底三角结构的排列，即蜂窝结构
+
+
+[2026-09-10 20:23:26]:
+ Now with that, if you choose it, you roll it in different ways. For example, hey, you have rowdies like this in this way. Or I can choose it to roll it. I can put it in that way. Right? See, I'm changing the chirality of how it has been brought up, right? So, the symmetry of the basic structures is honeycomb, right? It's folding in different ways. And this will manipulate giving interesting properties of carbon metal tubes, making it either conducting or semiconducting. Alright?
+有了这个，如果你选择它，你会用不同的方式掷骰子。比如，嘿，你有这样的混蛋。或者我可以选择它来掷骰子。我可以这样放它。右？你看，我正在改变它被提起的手性，对吧？所以，基本结构的对称性是蜂窝状的，对吧？它以不同的方式折叠。这将改变碳金属管的有趣性质，使其要么导电，要么半导体。明白吗？
+
+
+[2026-09-10 20:24:12]:
+ And then people were able to filter through different types of palette tubes and making it for electronics and making devices. So there has been an argument, right? people into breakthrough silicon age, right, and bring into the carbon age by replacing all of the silica base, the semiconductor tubes, uh with carbon metal tube. Right. So this that comes down in tubes. And the last one is the latest found graphene, right? Which is sort of, you see, it's a coincidence whatsoever, it's been there all the time, right? It's so similar to Graph Eye. Graph edition, particular layer of graphics stuck together. Right.
+随后，人们能够筛选不同类型的碳纳米管，将其用于电子器件和设备的制造。因此，一直存在一种观点，即人类正从硅基时代迈向突破性的碳基时代，通过用碳纳米管取代所有基于二氧化硅的半导体材料来实现这一转变。这些材料以管状形式存在。最后一种是最新发现的石墨烯，这并非巧合，它其实一直存在于自然界中。它与石墨非常相似，可以看作是由单层石墨烯堆叠而成的结构。那么，这种材料的作用是
+
+
+[2026-09-10 20:25:01]:
+ So what Gai does is that it uses a squash tape to stick on the piece of graphite and get the layer out, right? And then they found they took placetolier graphene and found this new materials, big armostructures. And they're in, we're digging into the new age of the sister graphics. There have been so many arguments. The unique properties of the graphines, right? But then real applications is yet to be filed. Alright, so these are the new forms of uh carbon. Alright. Now uh moving into a more advanced, you see, okay, so this carbon-based materials other than the funny moths, what else could be there? Alright.
+所以，盖伊的做法是用胶带粘住石墨片，然后剥离出单层，对吧？接着他们从这种石墨烯中发现了新材料——大芳香结构。我们正深入探索二维材料的新纪元。关于石墨烯的独特性质，已经有很多争论了，对吧？但实际应用尚未实现。好的，这些是碳的新形态。现在，让我们进入更高级的内容，你看，除了这些有趣的分子之外，还有哪些碳基材料呢？
+
+
+[2026-09-10 20:25:49]:
+ So, this, let me bring it back to another aspect of the diamond. So, we talk about the crystal structures of diamonds just now, right? And at that time, I said, right, these crystalline structures give it very unique electronic and optical properties, and that I haven't displayed because I need it here. So what I said is that with these kind of structures, right, diamond is actually a piece of insulin. So what do I mean by instant? Means, right, you have a waiting band for electrons to fill in, right? And you have a production band which is empty for a piece of diamond. Right? And there's a gap, which is a fairly large gap in system in between the venous band and the confection band. Right?
+那么，让我回到钻石的另一个方面。我们刚才谈到钻石的晶体结构，对吧？当时我说，这些晶体结构赋予了它非常独特的电子和光学特性，而我之前没有展示，因为我需要它。我说的是，对于这些结构，钻石实际上是一块胰岛素。那么我说的瞬间是什么意思？意思是，你有一个等待电子填充的带，对吧？而你有一个生产带，而对一块钻石来说是空的。右？而且在静脉带和糖果带之间有一个相当大的间隙。右？
+
+
+[2026-09-10 20:26:49]:
+ And how large is it? In the case of Thailand, it is over 5 electron volts. Alright, so that's a large banda. Right? Um then we do talk about dumping. I mentioned this terminology a bit earlier, right? That will help make the materials conducting, right? How does it work? So let's say if you have a piece of uh pixel materials or you have a piece of semi-charge materials, right, uh basically there's no free electrons. There's no free electrons or chunk carriers, right?
+它有多大？以泰国为例，超过5电子伏特。好的，那是一个大班达。右？嗯，然后我们确实谈到了倾倒。我之前提到过这个术语，对吧？这会帮助材料导电，对吧？它是如何工作的？比如说，如果你有一块像素材料或者半电荷材料，基本上没有自由电子。没有自由电子或块载流子，对吧？
+
+
+[2026-09-10 20:27:31]:
+ Um electricity health flows through. Right? So in order to make it conducting, what you have to do is that you have to get the electronics innovative bed right in beside you into this network bed. In which case, once that happens, right, you have free charge carriers that can move around. So that's a tree. Now, earlier I measured there's an intrinsic summary factor about that of the silicon. is that at drop temperature, the thermal energy associated is large enough to excite the electrons from the women's bed to the conduction bed. Right? Uh that must be the bed gap is really small, like in that consideration. It doesn't work in that one.
+嗯，电流健康是通过的。右？所以为了让它导电，你必须把电子创新床直接放进你旁边的网络床里。这样一旦发生了，你就有了可以移动的自由电荷载流子。这就是一棵树。我之前测量过硅有一个内在的总结因子。那就是在降温下，相关的热能足够大，能激发女性床上的电子到导电床。右？呃，那一定是床缝真的很小，就像那个考虑的那样。那个里不行。
+
+
+[2026-09-10 20:28:17]:
+ Then in for large bed gas semiconductors or insulators, if you want to make it conducting, what you can do? or you can do with our technology. So called doping, right? So what is totally, right? Don't be means you can introduce additional effects, right? is the different side of the fragments. lead to the values of this material. Alright. Now this atoms either have one more electron than carbon, or one less electron than carbon, right? And then that will serve as either the donor or acceptor of the carbon data and contribute to the charter carrying.
+那么对于大型层气半导体或绝缘体，如果你想让它导电，你可以做什么？或者你可以用我们的技术来做。这就是掺杂，对吧？那么，什么是完全的，对吧？不是指你可以引入额外效应，对吧？是片段的不同侧。导致了这种材料的数值。好的。现在这些原子要么比碳多一个电子，要么比碳少一个电子，对吧？然后这些原子将作为碳数据的供体或接受者，并贡献于载体的载体。
+
+
+[2026-09-10 20:29:04]:
+ So let's pick make uh an example using the builder page, right? And Zilca can be either polystorose or nitrogen. You see these out of it. one more electron than carbon. So, it has an additional electron that's carved. I have five ultra-shell electrons, right? So this additional electrode energy levels is here is very opposed to the production band called the exi band. What happens is that because now the energy gap is very small, so you have one electron here, one electron here, and by acquiring only this amount of energy can jump into the empty production gap of the diamond and become a free charge. Whereas if you no longer relies on somewhere in its own back on the business band, right, to get excited uh going through such a large method to go here. Right?
+因此，让我们以构建器页面为例。硅可以是磷或氮。你会看到它们比碳多一个电子。因此，它有一个额外的电子。它有五个价壳层电子，对吧？所以这个额外的电极能级在这里非常接近导带，即所谓的激发带。发生的情况是，由于现在能隙非常小，你在这里有一个电子，在那里有一个电子，只需获得如此少量的能量就可以跃迁到金刚石的空导带中并成为自由电荷。而我们现在不再依赖某个地方，一切都回到价带上，对吧，要激发通过这样一个大的隐喻来到这里，对吧
+
+
+[2026-09-10 20:29:56]:
+ So that's a donor level in there, right? By sending the electrons to the dollar level to the connection band, you can have a charge area. So, I would not bother to talk about the other time, which is the P5, right? And now you have to have a bit more energy than we don't pulse, right? So you left multiple pairs. I think that will be explained for by the Jewel in the next lecture. Right? So that's one of the properties, electronic properties. Right? Now for that one it's transparent, right?
+所以那里面是一个供体能级，对吧？通过将电子送到连接带的美元级，你就能形成电荷区域。所以，我不会费心去谈另一个时间，那是P5，对吧？现在你得比我们不脉冲更多的能量，对吧？所以你留下了多对电子。我想这会在下一节课中由宝石解释。右？这就是其中一个特性，电子特性。右？那个是透明的，对吧？
+
+
+[2026-09-10 20:30:26]:
+ And I I didn't say why is transit curve? Why is transparent? Why is transparent? Right. Well, I sort of had mentioned a little bit of the earlier uh in earlier classes that now if you have something to disparage, that means that white molecules can come through this material separate to your eye. Alright? So why can reach you? because curvature does not absorb it. Right? If absorb all of it, you will see something black, because no more light can reach your eye.
+而我并没有说为什么是透射曲线？为什么是透明的？为什么是透明的？对吧。嗯，我在之前的课程中稍微提到过一点，现在如果你有某种东西要贬低，那意味着白色分子可以穿过这种材料到达你的眼睛。好吗？所以光能到达你那里，是因为曲率不会吸收它。对吧？嗯，如果吸收了所有的光，你会看到黑色的东西，因为没有更多的光进来
+
+
+[2026-09-10 20:30:57]:
+ Right? Now uh the same thing applies to colours, right? So we do see different colors, right? And why we see colors? Window colours is associated with the wavelets of the light rays in the visible range. If you guys have any idea, what is the awareness of the visible range of light? four hundred nanometers to seven hundred nanometers. That's the visible range of the light, right? That makes you see, right? And in the terms of colour, it's corresponding to, alright, 400 nanometers is the blue-purple rigid, and 700 that's in the red rigid.
+右？现在，呃，同样的道理也适用于颜色，对吧？所以我们确实看到不同的颜色，对吧？那我们为什么会看到颜色？窗户颜色与可见光范围内光线的小波有关。如果你们知道，对可见光范围的感知是多少？400到700纳米。那是光的可见光范围，对吧？这让你看到了，对吧？从颜色角度看，400纳米是蓝紫色刚性，700纳米是红色刚性。
+
+
+[2026-09-10 20:31:35]:
+ So you have a rainbow range of different colors, right? So let's say if you're going to mature, if your material is going to absorb 400 nanometers light rays, what's the color that you will see? you will see the compensative color of blue. Alright? So what is left over? you're going to see it. Right, so so how this is how it works, right? If something is absorbed, right, by the materials, you see the rash things being left over, right? Now why diamond is transparent? Because the spend bath is so large.
+所以你会看到不同颜色的彩虹色范围，对吧？假设你要成熟，如果你的材料能吸收400纳米的光线，你会看到什么颜色？你会看到蓝色的补偿色。明白吗？那剩下的是什么？你会看到的。对，那它是怎么运作的，对吧？如果某样东西被材料吸收，你会看到那些皮疹残留，对吧？那为什么钻石是透明的？因为沉浸浴太大了。
+
+
+[2026-09-10 20:32:11]:
+ is 5.4 electron volts corresponding to what? Right, corresponding to, let's say, 400 nanometers is about 3 etc. 700 nanometers is about 1.5 mega volts, right? So, the visible range of the light has an energy from anywhere from 1 eBE to 3 EVE. Alright now. download over five mega volts. So, it basically does not absorb anything lower than that. Right? So all of the visible range of the light can pass through that piece of darkness average your eye. That's why your diamond, right?
+5.4电子伏对应什么？对，比如说400纳米大约是3，等等，700纳米大约是1.5兆伏，对吧？所以，光的可见光范围能量范围从1 eBE到3 EVE不等。好了。下载超过5兆伏。所以，它基本上不会吸收低于这个范围的任何东西。右？所以所有可见光的范围都能穿过那片黑暗，平均你的眼睛。这就是你的钻石，对吧？
+
+
+[2026-09-10 20:32:54]:
+ Pure element, if I was colorless. Right? And that brings me to the topic of diamond colors. So diamond, if you have a perfect one, it should be colourless, transparent, right? But for those of you, I don't know if you've ever cared about buying a piece of diamond, right? And if you do, you'll do a bit of research on the grade of the tablet. And one of the descriptions is the color grade. None of the grade here. So you have the D grade, and that is the best one. is to have a completely colorless, transparent endowment, and followed by G to J grade, then you have a bit of the yellowish, very light yellowish color.
+纯元素，如果我是无色的。对吧？这就引出了钻石颜色的话题。所以，钻石如果完美，应该是无色透明的，对吧？但对于你们中的一些人，我不知道你们是否关心过购买钻石，对吧？如果你关心，你会对钻石的等级做一些研究。其中一个描述就是颜色等级。这里的等级没有……所以你有D级，那是最好的。完全无色、透明，然后是G到J级，接着会有点偏黄，非常浅的黄色，但如果是D级
+
+
+[2026-09-10 20:33:37]:
+ But then, if you degrade further to a K-Disease rate, you have this yellow colour, colour doublet, right? And say what you just said tablets have a large web gap. It does not absorb the visible range of the light, then where is this colour coming from? Of the color actually coming from the effects that we're seeing in the platforming defect levels, and that will cause the absorption of the light rays in the visible image. So, one of the most common defect centers is nitrogen. And depending on the amount of nitrogens that are there uh in your sample, uh your diamond can be uh completely transparent, pale yellow, dark yellow, most like that. Right? Or you can have crystal stream in there that will make it red, or even if wrong, right? But if you have four or acidopin in it, you have the green diamonds. So if you have all this colorful diamond, usually is the case you have effects other than power itself in the crystalline lattice of diamond
+但是，如果进一步降低到 K-Disease 速率，你会看到这种黄色，即颜色双峰，对吧？正如你刚才所说，这些片剂具有较大的带隙。它不吸收可见光范围的光，那么这种颜色从何而来？实际上，这种颜色来自我们在平台缺陷能级中观察到的效应，这会导致对可见光谱中光线的吸收。因此，最常见的缺陷中心之一是氮。根据样品中氮含量的不同，你的钻石可以完全透明、淡黄色或深黄色等。或者，其中可能存在晶格应变使其呈红色，甚至其他情况。但如果你含有四酸opin（注：原文可能为“含氮空位”或特定杂质，此处保留音译），你就会得到绿色钻石。因此，如果你拥有所有这些彩色钻石，通常意味着除了碳本身之外，还有其他因素影响了钻石的晶体晶格。
+
+
+[2026-09-10 20:34:55]:
+ Right? Alright, so that displays the cover uh of the diamond. But then effects can be more useful than just the giving colour. So let me uh spend maybe uh a few minutes, right? This one, which uh is uh fancy e-text center, right, associated with ID, in the piece of crystal diamond, right. Um this is something that I work on, right? So mitigation means that it is an acid item, right? It has a very special optical properties, right? And what happens is that in this defect, you have a nitrogen atom to replace one of the carbon atoms and pair up with a weakness center nearby. As such, a defect center have a unique optical use for its optical location.
+右？好的，这显示了钻石的封面。但效果有时比单纯的颜色更有用。让我花几分钟，好吗？这个，呃，是高级电子文本中心，对，和ID相关联，在水晶钻石中。嗯，这是我研究的东西，对吧？所以缓解意味着它是一个酸性物品，对吧？它具有非常特殊的光学特性，对吧？在这个缺陷中，有一个氮原子替代了碳原子，并与附近的弱点形成匹配。因此，缺陷中心在光学上有独特的光学用途。
+
+
+[2026-09-10 20:35:43]:
+ Is dependent on the speed state of the gross state and the detectors. So it's a split triple plate basically and the current state and the electron composed of M S zero and S plus one minus one state which is generated in the absence of the magnetic field. Right? So, the tricky thing about this one is that, right, now it gives an occupation, but then anything in the environment that will affect the speed state will change the emission. So in other words, if you measure the emission, you know something has been changed in the environment. And that's the basic principle of diamond based on zip. Can be used to measure parameters such as temperature, magnetic field, strain, electrical fields, and even computer speeds. So this is uh one of the things uh we will be able uh to use right uh in using this new default properties uh in the piece of booster dialogue. And all these, as I mentioned, conventional target, right? And then on the button branch, we start looking for potty moths that even hit 660 or kind of NO2 or like 38 without P4 or some kind of materials reflecting properties and figure out what could be the implications of that.
+依赖于粗态的速度态和探测器。所以它基本上是一个分裂的三重板，当前态和电子由M、S、0和S加上1减1态组成，而电子是在没有磁场的情况下产生的。右？所以，这个方法的难点在于，它给出了一个占领，但环境中任何会影响速度状态的因素都会改变发射。换句话说，如果你测量发射，你就知道环境中发生了变化。这就是基于zip的钻石基本原理。可以用来测量温度、磁场、应变、电场，甚至计算机速度等参数。所以，呃，这是我们能够利用这个新的默认属性，在助推器对话中使用的东西之一。所有这些，正如我提到的，都是常规目标，对吧？然后在按钮分支，我们开始寻找达到660、NO2或38但没有P4或某种反映性质材料的便盆蛾，并研究这可能带来的影响。
+
+
+[2026-09-10 20:37:04]:
+ On the other hand, or even for this conventional material piece of drama, there are two things to figure out. Example faces how to be able to reduce pressure and the temperature and use the simulation to help guide you to create new faces, such as a 2H development. And the other thing is that if you look at the defects of various thousands, type of different defects in your doublet, right? Get it through, you can find a new properties associated with these events. advance all together shape the so-called advanced materials and moving into the new Euro. Right. So uh last ten minutes, I think uh I will just uh quickly go through all right uh this frontiers and that is relevant right to the rest of the lectures. uh uh for the semester. Right. Uh we have many different topics, right?
+另一方面，即使是这种传统的材料戏剧，也有两点需要弄清楚。示例面，如何降低压力和温度，并利用模拟帮助你创建新的面，比如二氢显影。还有一点是，如果你查看成千上万种不同缺陷的缺陷，对吧？把它处理完，你会发现与这些事件相关的新属性。整体推进，塑造所谓的先进材料，并进入新的欧元。对。所以，呃，最后十分钟，我想，呃，我会快速讲一下这个前沿，这和后续的讲座都相关。呃，呃，这个学期。右。呃，我们有很多不同的话题，对吧？
+
+
+[2026-09-10 20:38:02]:
+ to be covered. But each of the topic uh given by a different uh lecturer is uh uh really representative of the research field that he or she uh works on. The one following my today's lecture is given by Professor Ji Yi Chu from Official Department. And he will tell you about the semiconductor materials crucible probes, right? in which we will introduce the um theories uh of uh semiconductors.
+涵盖在内。但每位不同讲师所讲授的主题，确实都代表了其各自的研究领域。紧随我今日讲座之后的是来自官方部门的褚继义教授。他将向大家介绍半导体材料坩埚探针，对吧？其中我们将引入在工程应用中必须发挥作用的半导体理论
+
+
+[2026-09-10 20:38:37]:
+ It will be just like the details about the b
+它就像关于B的细节一样
+
+

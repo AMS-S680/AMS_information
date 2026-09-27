@@ -1,0 +1,2269 @@
+光催化原理与应用
+日期: 2026年9月24日 18:30
+语言: 英语 → 中文
+时长: 2小时16分10秒
+
+# AI 纪要
+
+本次讲座介绍了光催化（photocatalysis）的基本概念、原理及其在非自发反应中的应用。内容涵盖催化与光化学基础、光催化机制（光子吸收、电子-空穴对分离、氧化还原反应）、热力学判据、材料设计策略（如能带调控、激子结合能降低）以及反应效率的量化（量子产率）。讲座还涉及光催化在商业产品（如口罩、香水、药物合成）中的实际应用，并强调了选择光催化剂时能级匹配的重要性。
+## 考试速览
+
+- 讲座全部内容，包括催化、光化学、光催化、自发与非自发反应、光催化机制（光子吸收、电子-空穴对分离、氧化还原反应）、热力学判据、材料设计（能带调控、激子结合能）、量子产率、材料合成方法（Knoevenagel缩合、过渡金属催化交叉偶联）
+- 选择题测验（multiple choice quiz）
+- 测验严格基于讲座内容，无额外信息。
+## 对我重要的
+
+- 考点: 理解催化、光化学、光催化的定义及区别。
+- 考点: 掌握自发与非自发反应的概念，以及光催化如何实现非自发反应。
+- 考点: 掌握光催化机制的三个关键过程：光子吸收、电子-空穴对分离、氧化还原反应。
+- 考点: 掌握光催化氧化和还原反应的热力学判据（HOMO和LUMO能级匹配）。
+- 考点: 理解能带间隙宽度对光催化剂适用性的影响。
+- 考点: 掌握通过分子结构修饰（给电子/吸电子基团）调控HOMO-LUMO能级的方法。
+- 考点: 理解激子结合能的概念以及降低激子结合能的策略（增大共轭体系、构建给体-受体片段）。
+- 考点: 掌握量子产率（quantum yield）的定义和计算方法。
+- 考点: 了解光催化剂材料合成的常见方法（Knoevenagel缩合、过渡金属催化交叉偶联）。
+- 待办: 准备最终演示（final presentation）和最终论文（final essay），可从讲座末尾给出的主题列表中选择。
+## 催化与光化学基础
+
+- 催化是使用催化剂来加速或引导特定化学反应，催化剂在过程中不被消耗。
+> So catalysis is the approach of, um, to direct chemical reactions by employing a catalyst. So this means that a catalyst, it's a substance that accelerates or directs certain chemical reaction, and it is not consumed in this process.
+- 光化学是研究由光引发的化学反应的化学分支，光子是光化学反应的反应物之一。
+> What is photochemistry? It's a branch of chemistry that studies photochemical reactions. So photochemical reaction is a reaction that is enabled by light. So in other words, we can say that photons, or light, is the ingredient of a photochemical reaction.
+- 光催化是使用光作为能量来源，通过光催化剂介导来驱动特定反应。
+> So what is photocatalysis? It's a type of catalysis that uses light and the mediator, so similar to catalysis, right? So we need a mediator. So in this case, it is called a photocatalyst. That is used to drive a specific reaction.
+- 光催化是当前热门研究领域，已有商业产品应用，如含二氧化钛的光催化口罩。
+> I bought this face mask in Japan, and actually it contains a small, uh, particles of titanium dioxide. So when I wear this mask, outside, and there is some portion of UV radiation coming from the sunlight, so this titanium dioxide, the photocatalyst can absorb this light, the energy become energized, and then decompose for example germs or viruses that might be present in the air.
+- 光催化可用于合成重要有机分子，如玫瑰氧化物（rose oxide）和青蒿素（artemisinin）。
+> So it contains a molecule called rose oxide. ... in fact this molecule is produced using photocatalysis. ... This compound called artemisinin. Why it is important? Because it is used as a medical drug to treat malaria.
+## 自发与非自发反应
+
+- 化学反应可分为自发反应（实际发生）和非自发反应（仅存在于纸面上，混合后不发生反应）。
+> So basically all chemical reactions, uh, can be divided into spontaneous, meaning that they actually happen, and those which are non-spontaneous. So they only exist as reaction equations on the paper.
+- 光催化可以“开启”在标准条件下（约300K，1 bar）非自发的反应。
+> So photocatalysis can enable or we can say turn on the reactions that are non-spontaneous under the standard conditions. So standard refers to temperature, about 300 Kelvin or 25 degrees Celsius, and the pressure of one bar.
+- 水分解（water splitting）是典型的光催化非自发反应，可将水转化为氢气和氧气。
+> So it's water splitting. So water uses heat into hydrogen and oxygen, so this reaction is very appealing because it does not require any other complex reactants, it just uses sunlight and photocatalysis to dissociate water into hydrogen and oxygen.
+- 乙醇分解为乙醛和氢气也是非自发反应，需要高温（>700°C）才能发生，光催化可在温和条件下实现。
+> So thermochemical calculations indicate that ethanol at start dissociating into acetaldehyde and hydrogen at temperatures greater than 1000 Kelvin, which is more than 700 degrees Celsius.
+## 光催化机制
+
+- 光催化机制包含三个关键过程：光子吸收、电子-空穴对分离、氧化还原反应。
+> we'll talk about three of the most important processes in photocatalysis. So these are, uh, photon absorption, ... Then we will talk about separation of electron-fold pairs, and the redox reactions.
+- 光催化剂吸收光子后形成电子激发态，该状态可以介导氧化还原反应。
+> So in photo redox catalysis, a photocatalyst, ... absorbs a photon, so it forms energized state, so more specifically or more technical term would be an electronically excited state, and then this state can mediate redox reactions.
+- 光催化剂与反应物之间需要完美匹配（“hand in glove”概念）。
+> So there should be a perfect match between the photocatalyst and the reactants. So today we will talk about what are the guidelines for choosing proper photocatalyst for the right reactants.
+## 热力学判据与能级匹配
+
+- 要实现光催化氧化反应，光催化剂的HOMO能级必须低于反应物的HOMO能级。
+> So photocatalyst homo energy must be lower than reactant's homo energy.
+- 要实现光催化还原反应，光催化剂的LUMO能级必须高于反应物的LUMO能级。
+> So does lumo of photocatalyst must be higher? Higher. Yeah, so basically this is illustration with the cartoon. That summarizes these two points.
+- 能带间隙过窄的光催化剂可能无法驱动有用的氧化还原反应。
+> So if energy band gap gets too narrow, so then there is basically no useful reaction that the photocatalyst can drive.
+- 分子结构修饰可以调控HOMO-LUMO能级：增加吸电子基团使HOMO和LUMO能级降低，增加给电子基团使能级升高。
+> So the more depleted with electron density the molecular fragment representing HOMO, the lower is the energy of this molecule, molecular orbital, and vice versa. And the more enriched with electron density the molecular fragment representing LUMO, so the higher is the energy of the molecular orbital.
+- 在给体-受体（donor-acceptor）系统中，改变受体的吸电子能力可以调控LUMO能级，而HOMO能级基本不变。
+> What researchers found there is that when they measured the energy levels of HOMO-LUMO in this three systems, what they found is that HOMO didn't change much, so it remained nearly constant, but LUMO showed some decrease.
+## 激子结合能与材料设计
+
+- 增大共轭体系尺寸可以降低激子结合能，因为光生电子和空穴可以在物理上分离得更远。
+> So extending the size of conjugated system: we saw that, first of all, this is useful to narrow the energy band gap, right, to shift absorption more into the visible range of the spectrum, but this also has a positive impact on lowering the excitant binding energy. ... This allows the photogenerated electron and hole to physically move further apart, along the backbone. So this increases the excitant radius.
+- 构建给体-受体（donor-acceptor）片段也有助于电子和空穴的分离。
+> The second common approach is constructing also donor-acceptor fragments. ... it also allows opens a path for electron and hole separation, because donors are electron-rich, acceptors are electron-poor, so light absorption promotes an electron from donor to acceptor
+## 反应效率与量子产率
+
+- 化学反应的效率通常用化学产率（chemical yield）来量化。
+> So in general in chemistry, how do we quantify efficacy of a chemical reaction or, let's say, efficacy of a chemist, qualification of a chemist? So usually this is done by considering chemical yield.
+- 光催化反应的效率用量子产率（quantum yield）衡量，即每吸收一个光子产生的产物分子数。
+> So in photochemistry, photocatalysis, we use also a similar metrics. So it's also a fraction. So it compares number of products which is generated per photon.
+- 量子产率低不一定是大问题，因为光子通常过量使用，化学产率仍可达到100%。
+> Not very high, but in photocatalysis this is not a big issue. So typically in this photoreactor, as many others, so photons as reactants, they're used in much larger excess compared to chemical reactants. So we can in principle increase quantum yield by providing more photons. So well, I mean, the quantum yield still might be low, but the chemical yield can be as high as 100%.
+## 光催化剂材料合成
+
+- 材料合成采用自下而上（bottom-up）的方法，从分子等小构建单元出发，像搭乐高积木一样构建更大的材料。
+> So a robust bottom-up approach, so it's called bottom-up because we start from very small building blocks, like molecules, and then we put them together like Lego bricks to create something bigger. Materials, 1D, 2D, 3D.
+- 常见的合成方法包括亲核试剂与亲电试剂反应（如Knoevenagel缩合）和过渡金属催化的交叉偶联反应。
+> So typical, common robust methods in synthesis of materials. Are reactions between nucleophiles, electrophiles, and transition metal catalyzed cross coupling reactions between fragments featuring donors and acceptors.
+---
+*本文由 AI 根据录音自动生成*
+
+---
+
+[0:00]
+So selective as a Russian origins, but I was born and raised in Ukraine, um, who am I? I'm a researcher, my group works mainly on material science, organic chemistry, photochemistry, and photocatalysis. So in the past 10 years my group was very productive, and I'm very proud of them. So we created, at least, 10 new photocatalytic reactions. Among which is this one.
+所以，我有俄罗斯血统，但我出生并成长在乌克兰。嗯，我是谁？我是一名研究人员，我的团队主要从事材料科学、有机化学、光化学和光催化研究。所以，在过去的十年里，我的团队非常富有成效，我也非常为他们感到自豪。因此，我们至少创造了10种新的光催化反应。其中包括这个。
+
+[0:00]
+不错。
+Good.
+
+[0:03]
+So what happens there is that these two molecules—
+所以这里发生的是，这两个分子——
+
+[0:03]
+构成。
+composition.
+
+[0:31]
+—and this one, um, is called oxine, and next to it, this one, is a benzo nitrile. So if you just take these two molecules, put in the flask, nothing will happen. But if you add a photocatalyst, in this case it's this material called KPHI, and, um, purge it with oxygen, and shine light, so then they will react together and form this product.
+——这个，嗯，叫作oxine，旁边这个是苯腈。所以，如果你把这两个分子放进烧瓶里，什么都不会发生。但如果你加入光催化剂，也就是这种叫作KPHI的材料，嗯，用氧气吹扫，然后照射光，那么它们就会反应生成这个产物。
+
+[1:29]
+So although my group is mainly interested in developing, uh, transformations of organic molecules, so this is one side of research, on the other hand we also need to create our photocatalyst. So typically for research, we use the so-called heterogeneous photocatalyst. So these are materials, um, as you can see from this structure, so it's composed of many, many atoms. So we can definitely call them materials, not molecules. However, in addition to creating new organic reactions, we also try to develop new concepts in materials chemistry, for example. So here, if we replace some organic molecules, such as oxine or benzo nitrile, with another material, and in this case this is, um, this material is, um, it's a conductive polymer, so it's a soft material, it's a polymer, um, they.
+所以，尽管我的团队主要致力于开发有机分子的转化，但这只是研究的一个方面。另一方面，我们还需要制备光催化剂。所以，通常在研究中，我们会使用所谓的异相光催化剂。这些材料，嗯，从这个结构可以看出，由许多、许多原子组成。所以我们可以肯定地把它们称为材料，而不是分子。然而，除了引发新的有机反应之外，我们还尝试在材料化学等领域发展新的概念。所以在这里，如果我们用另一种材料来替换一些有机分子，比如氧化苯或苯甲腈，那么在这种情况下，嗯，这种材料是一种导电聚合物，所以它是一种软材料，是一种聚合物，嗯，它们……
+
+[2:37]
+Unique feature of these conductive polymers, they basically behave like metals. Although they are, they do not contain any metallic species, so their conductivity usually is quite comparable to copper or silver, for example. So then, if we take three ingredients, this conductive polymer, the photocatalyst, and oxygen, so we can observe very interesting interplay between these three partners. So these three components. So the photocatalyst, in this case, as we will learn today, so photocatalysis basically enables electron transfer. So when there is a light coming in, so the photocatalyst can take electron and give electron to enable this electron transfer between the reactants. So in this approach, what happens is that the photocatalyst oxidizes conductive polymer, so in other words it creates pollerons or bipollerons, which act as a charge carriers and actually responsible for the property of conductive polymers to conduct electricity. And this happens only when there is a continuous light input.
+这些导电聚合物的独特之处在于，它们基本上表现得像金属。尽管它们不含任何金属物种，但其导电性通常与铜或银相当。因此，如果我们取三种成分——导电聚合物、光催化剂和氧气——就能观察到这三个伙伴之间非常有趣的相互作用。这三个组分中，光催化剂（正如我们今天将学到的）基本上能实现电子转移。当有光照射时，光催化剂可以接受电子并给出电子，从而在反应物之间实现电子转移。在这种方法中，发生的是光催化剂氧化导电聚合物，换言之，它会产生极化子或双极化子，它们充当电荷载体，实际上是导电聚合物导电性能的原因。而这只有在持续光照输入时才会发生。
+
+[2:54]
+If light is terminated, so then the system will return to its original state. So the conductivity will again decrease. So basically using these three ingredients, we can, uh, develop, for example, um, oxygen sensors.
+如果光照终止，那么系统就会恢复到原来的状态。所以导电性又会降低。所以基本上，利用这三种成分，我们可以，呃，开发，比如说，氧传感器。
+
+[3:17]
+So the game plan for today, uh, first I will start with the introduction. I will tell about, um, catalysis, photochemistry, and photocatalysis, which basically is a sum of these two. Then I will introduce spontaneous and non-spontaneous reactions. I believe those of you who are chemists and other chemists in this room—
+那么，今天的计划是，呃，首先我先做一下介绍。我会讲解催化、光化学以及光催化，而光催化基本上就是这两者的结合。然后，我将介绍自发反应和非自发反应。我相信，这间屋子里那些化学家和其他化学家——
+
+[3:18]
+No.
+不。
+
+[3:25]
+—so students who studied at least chemistry, maybe in secondary high school, well, maybe a few people.
+所以，至少学过化学的学生，也许在中学阶段学过，嗯，可能只有几个人。
+
+[3:26]
+High school.
+高中。
+
+[3:27]
+Okay, good.
+好的。
+
+[3:38]
+So for chemists, spontaneous, non-spontaneous chemical reactions might be familiar. For the rest of you, might not, but I will try to be as simple as possible.
+所以，对于化学家来说，自发反应和非自发反应可能很熟悉。对于你们其他人，可能不会，不过我会尽量讲得尽可能简单。
+
+[3:44]
+So then you will understand why photocatalysis is particularly powerful approach.
+这样你们就会明白，为什么光催化是一种特别强大的方法。
+
+[5:39]
+To enable the so-called non-spontaneous reactions. And while, um, photocatalytic mechanism typically includes many, many steps, it's like a well-oiled mechanism with a lot of gears that interact together. So in order for photocatalysis to be efficient and actually to drive a desired reaction, so all these, uh, processes, this elementary, uh, steps, they must match perfectly. So their rate must match, um, so then in such a case, uh, the whole photocatalytic machinery will be productive. So today, because we have just one lecture on this topic, so we'll talk about three of the most important processes in photocatalysis. So these are, uh, photon absorption, so we'll talk about materials, so before you can choose any material, as a promising potential photocatalyst before you invest your time into a project, so it always makes sense to consider just by looking at the color of the different materials, which of these 3, 5, 10 material is, which of them appears as the best choice. Then we will talk about separation of electron-fold pairs, and the redox reactions. So I believe these three concepts, um, they are applicable not only to material chemistry, but also, chemistry of materials, organic chemistry, or inorganic chemistry, solar cells. So basically all the processes that deal with, uh, light conversion and the redox reactions. And then we'll do quiz, so be attentive. Yeah, so the quiz is strictly related to the content of today's lecture. So there will be no extra information. So if you manage to understand everything, in the next two hours you will be able to answer all the questions in this multiple.
+使所谓的非自发反应得以发生。虽然，嗯，光催化反应机理通常包含许多、许多个步骤，但它就像一个运转良好的机制，有许多齿轮相互作用。因此，为了使光催化高效并真正驱动所需反应，所有这些，呃，过程、这些基本，呃，步骤都必须完美匹配。所以它们的速率必须匹配，嗯，这样在那种情况下，呃，整个光催化机制就会高效运行。今天，由于我们只有一堂关于这个主题的课，所以我们将讨论光催化中三个最重要的过程。这些是，呃，光子吸收，我们接下来会讨论材料，所以在选择任何材料作为有潜力的光催化剂之前，在你投入时间开展项目之前，总是值得考虑的。只需通过观察不同材料的颜色，就能判断这三种、五种、十种材料中哪一种，哪一种看起来是最好的选择。然后我们将讨论电子-空穴对的分离和氧化还原反应。所以，我认为这三个概念不仅适用于材料化学，也适用于材料化学、有机化学或无机化学，以及太阳能电池。基本上，所有涉及光转换和氧化还原反应的过程。然后我们会进行测验，所以请认真听。对，所以这次测验与今天讲座的内容严格相关。所以不会有额外信息。所以，如果你们能理解所有内容，在接下来的两个小时里，你们就能回答所有这些多项选择题。
+
+[5:41]
+Question quiz.
+问题小测验。
+
+[6:39]
+So first, let's start with catalysis. What is catalysis? So catalysis is the approach of, um, to direct chemical reactions by employing a catalyst. So this means that a catalyst, it's a substance that accelerates or directs certain chemical reaction, and it is not consumed in this process. So it means that we need just a tiny amount of catalyst compared to the reactants. So this is the video that illustrates, uh, how biological catalysts work. So here you can see a catalase. So catalase is a biological enzyme. So biological catalyst, the enzyme, which is specific for these reactions, decomposition of hydrogen peroxide. So in this test tube you can see a solution of hydrogen peroxide, and if you just take a freshly peeled potato, drop it this inside, so then you absorb formation of bubbles. So these bubbles are oxygen.
+那么，我们先从催化开始讲起。什么是催化？催化是一种通过使用催化剂来引导化学反应的方法。这意味着，催化剂是一种加速或引导特定化学反应的物质，并且在这个过程里不会被消耗。所以这意味着，与反应物相比，我们只需要极少量的催化剂。这是一个视频，展示了生物催化剂是如何工作的。所以在这里你可以看到过氧化氢酶。过氧化氢酶是一种生物酶。所以，生物催化剂，也就是对这种反应——过氧化氢的分解——具有特异性的酶。在这个试管里，你可以看到过氧化氢溶液，如果你取一块刚削皮的土豆扔进去，那么你会看到气泡的生成。这些气泡就是氧气。
+
+[7:09]
+Catalase is very important for all the living cells because hydrogen peroxide, it's a toxic, and every living cell, those who operate under anaerobic conditions, like me, for example, so they produce certain amount of hydrogen peroxide. So this is, uh, the substance is harmful. So the biology, the nature developed a process how to decompose hydrogen peroxide, and help our cells to long, to live longer.
+过氧化氢酶对所有活细胞都非常重要，因为过氧化氢是有毒的，每个活细胞，比如像我这样在厌氧条件下运作的细胞，都会产生一定量的过氧化氢。所以，这种物质是有害的。因此，生物学、自然界发展出了分解过氧化氢的过程，帮助我们的细胞延长寿命，活得更久。
+
+[7:28]
+What is photochemistry? It's a branch of chemistry that studies photochemical reactions. So photochemical reaction is a reaction that is enabled by light. So in other words, we can say that photons, or light, is the ingredient of a photochemical reaction.
+什么是光化学？它是化学的一个分支，研究光化学反应。光化学反应是一种由光引发的反应。换句话说，我们可以说，光子或光是光化学反应的成分。
+
+[8:09]
+So on this slide you can see two videos. This one on the left, it's not a photochemical reaction. So if you take a solution of, um, calcium chloride and mix it with a solution of sodium hydroxide, simple ion exchange reaction will take place, and then you will absorb precipitation of white solid, which is nothing else but calcium hydroxide. And this reaction proceeds pretty well in full darkness and also under bright light, which means that photons are not involved in these reaction as reactants. On the other hand, uh, the most popular photochemical.
+所以在这张幻灯片上，你可以看到两个视频。左边这个不是光化学反应。所以，如果将氯化钙溶液与氢氧化钠溶液混合，就会发生简单的离子交换反应，然后你会析出白色固体沉淀，这不过是氢氧化钙。这个反应在完全黑暗和明亮光线下都进行得很好，这意味着光子在这些反应中不作为反应物参与。另一方面，嗯，最普遍的光化学。
+
+[8:22]
+Photocatalytic process on our planet is, of course, photosynthesis. So if you abandon your plant for a couple of weeks, in the dark room, even though there is enough water, nutritions, it will die.
+地球上光催化过程当然是光合作用。所以，如果你把植物放在黑暗的房间里几周，即使有足够的水和养分，它也会死亡。
+
+[8:37]
+Because photons are involved in these reactions. So H nu, it's the universal symbol for photons, for light, so H stands for Planck constant, nu it's the frequency of electromagnetic radiation.
+因为这些反应涉及光子。所以，H nu 是光子、光的通用符号。H 代表普朗克常数，ν 代表电磁辐射的频率。
+
+[8:54]
+So what is photocatalysis? It's a type of catalysis that uses light and the mediator, so similar to catalysis, right? So we need a mediator. So in this case, it is called a photocatalyst. That is used to drive a specific reaction.
+那么，什么是光催化？它是一种利用光和介质的催化类型，所以与催化类似，对吧？因此我们需要一种介质。在这种情况下，它被称为光催化剂。它被用来驱动特定反应。
+
+[9:14]
+So without doubts, photocatalysis is very hot topic nowadays. This is GMU, Professor of Chemistry, so Department of Chemistry of the Chinese University of Hong Kong, he has been highly cited researchers, I think in the past 10, maybe 20 years, very successful person.
+毫无疑问，光催化是当今非常热门的话题。这是GMU，香港中文大学化学系化学教授，我认为他在过去10年或者20年里是高被引研究者，非常成功的人。
+
+[9:59]
+In addition, for photocatalysis to be just a hot topic and everyone who works in this field, can enjoy high citation, high H index. Also, there are many products. So commercial products which are based or use photocatalysis. I bought this face mask in Japan, and actually it contains a small, uh, particles of titanium dioxide. So when I wear this mask, outside, and there is some portion of UV radiation coming from the sunlight, so this titanium dioxide, the photocatalyst can absorb this light, the energy become energized, and then decompose for example germs or viruses that might be present in the air.
+此外，为了让光催化仅是一个热门话题，且让该领域的每位研究者都能享有高引用率和高 H 指数。同时，有许多产品。有基于或利用光催化的商业产品。我在日本买了这个口罩，它实际上含有少量二氧化钛颗粒。所以当我戴着这个口罩在外面，阳光中有部分紫外线辐射，这种二氧化钛光催化剂能吸收这些光，能量被激发，然后分解空气中可能存在的细菌或病毒。
+
+[10:07]
+So this is application of photocatalysis in commercial products. So also one of the projects of Professor Yu, managed.
+这就是光催化在商业产品中的应用。这也是余教授负责的项目之一。
+
+[10:09]
+To reach.
+达到。
+
+[10:26]
+A commercial stage, I'm not sure if specifically these air purifier, but basically part of his projects on photocatalysis on environmental photocatalysis became a product. So now everyone can buy his devices available on the market.
+进入商业化阶段。我不确定具体是否就是这些空气净化器，但基本上，他关于光催化及环境光催化的项目成果已转化为产品。所以现在人们可以在市场上买到他的设备。
+
+[11:58]
+So speaking about more niche application of photocatalysis, so something that you actually you can buy some of the products of photocatalysis in duty free. So if you stop by and look for some perfumes, for example, that have a smell of roses, like this one for example. So it contains a molecule called rose oxide. It's from the name, you can guess, it has a nice smell, and in fact this molecule is produced using photocatalysis. So why photocatalysis, why not other methods? In principle, yes, we could get this molecule from real plants. But there is a catch: so in order to get one kilogram of this molecule, from actual plants, we would need to process 3,000 kilograms, so 3 tons of roses. So now if you multiply this by the market size, which is about 100 tons per year, for this specific molecule, so you can imagine that we would need an area of Hong Kong size just for growing roses. So this would be extremely material energy intensive process. On the other hand, we can use photocatalysis and then we need just three reactions. So the first step is the photocatalytic process. So in this case, rose bengal, so this is the name of this molecule, although this is not a material, it's a molecule, relatively small, it uses as the photocatalyst. And then other two steps, so these are relatively simple organic chemical reactions.
+那么，说到光催化更细分的应用，有些产品实际上你可以在免税店买到。所以，如果你路过时顺便看看香水，比如这款，它有玫瑰的香味。它含有一个叫作玫瑰醚的分子。从名字就能猜到，它闻起来很香，而且事实上，这种分子是通过光催化产生的。那么，为什么选择光催化，为什么不用其他方法？原则上，是的，我们可以从真正的植物中获取这种分子。但有个问题：要从实际植物中获得一公斤这种分子，我们需要加工3000公斤，也就是3吨玫瑰。所以，如果你把这个数字乘以市场规模，也就是每年大约100吨，针对这个特定分子，你就可以想象，仅仅种植玫瑰就需要一个香港那么大的面积。所以这将是一个极其耗材、耗能的过程。另一方面，我们可以利用光催化，然后只需要三个反应。第一步是光催化过程。在这种情况下，玫瑰红，这就是这种分子的名称。虽然它不是一种材料，而是一种相对较小的分子，可以作为光催化剂。然后是另外两个步骤，这些反应相对简单，属于有机化学反应。
+
+[12:10]
+So then the whole process of making this rose oxide can be fixed maybe in a few rooms of this size. So definitely much more material and energy efficient.
+那么，制造这种玫瑰氧化物的整个过程，也许可以固定在与这个大小相当的几个房间里。因此，它肯定在材料和能源效率上要高得多。
+
+[12:35]
+So another example of application of photocatalysis in synthesis of important organic molecules is this one, this compound called artemisinin. Why it is important? Because it is used as a medical drug to treat malaria. So South Asia, Africa, malaria it's a big problem there. And artemisinin, uh, was found out to be an effective drug. And two.
+光催化在合成重要有机分子方面的另一个应用实例是这个化合物，叫做青蒿素。它为什么重要？因为它被用作治疗疟疾的药物。在南亚、非洲，疟疾在那里是个大问题。而青蒿素被发现是一种有效的药物。还有两个。
+
+[13:06]
+UU, so she was awarded with the Nobel Prize in physiology and medicine 2015, not for photocatalysis, but for her discoveries concerning a novel therapy against malaria. And actually she looked into all Chinese literature and centuries, maybe millennia ago, people already knew how to treat malaria, but they didn't know about the chemical, what is the actual the chemical structure of the active ingredient that helps patient to be.
+UU，所以她获得了2015年诺贝尔生理学或医学奖，不是因为光催化，而是因为她发现了针对疟疾的新型疗法。实际上，她查阅了所有中国文献。几个世纪前，甚至几千年前，人们可能就已经知道如何治疗疟疾，但他们不知道活性成分的实际化学结构，而这种结构能帮助患者康复。
+
+[13:11]
+Malaria. So this was artemisinin. So inspiration came from old literature.
+疟疾。所以这就是青蒿素。所以，灵感来自古代文献。
+
+[13:37]
+Some more specific examples are synthesis of this one, which is also used in pharma, to synthesize albosphere, so this is another medical drug used to treat hepatitis C. And something I would say extremely niche application, but again it's based on photocatalysis. So this is how typical photocatalytic setup looks in a chemical company.
+还有一些更具体的例子，比如合成这种也用于制药的化合物——albosphere，也就是另一种用于治疗丙型肝炎的药物。还有一种我可以说是非常小众的应用，但它同样也是基于光催化技术。这就是一家化工公司典型的光催化装置。
+
+[14:40]
+So in general, there are three or more types of photocatalysis. So it depends on what is the actual mechanism. So we distinguish between the so-called photo redox catalysis, and this would be the topic of my today's lecture, so we'll not talk about energy transfer and atom transfer, although they also pretty popular. So what is photo redox catalysis? So in photo redox catalysis, a photocatalyst, and in this case we can be more specific, we can call it a photo redox catalyst, absorbs a photon, so it forms energized state, so more specifically or more technical term would be an electronically excited state, and then this state can mediate redox reactions. So on the one hand it can take electron from one molecule and then pass this electron to another molecule, while molecules. So the reactants themselves, they cannot exchange with electrons because of certain reasons, such as high energy barriers, etc. So the light is used to power this photo redox machinery.
+所以一般来说，光催化有三种或更多种类型。这取决于实际的机制。我们区分所谓的光氧化还原催化，这将是我今天讲座的主题，所以我们不会讨论能量转移和原子转移，尽管它们也很流行。那么什么是光氧化还原催化？在光氧化还原催化中，光催化剂——在这种情况下我们可以更具体地称它为光氧化还原催化剂——吸收一个光子，从而形成激发态，更具体地说，更技术性的术语是电子激发态，然后这种状态可以介导氧化还原反应。一方面，它可以从一个分子中夺取电子，然后将这个电子传递给另一个分子。而反应物本身由于某些原因（如高能垒等）不能交换电子。所以光被用来驱动这种光氧化还原机制。
+
+[14:53]
+So the mode of action, yeah, to be honest, depends on the chemical structure of the photocatalyst and the reactant. So it means that specific.
+所以，其作用机理，说实话，取决于光催化剂和反应物的化学结构。所以这意味着特定的。
+
+[15:26]
+Molecule or material that works as a photo redox catalyst can also act as the energy transfer or sensitizer. So this is truly like a hand in glove concept. So glove, which is too big, cannot fit in the hand. On the other hand, hand is which is too large cannot fit into the glove. So there should be a perfect match between the photocatalyst and the reactants. So today we will talk about what are the guidelines for choosing proper photocatalyst for the right reactants.
+作为光氧化还原催化剂的分子或材料，也可以充当能量转移剂或敏化剂。所以，这确实是一种“亲密无间”的概念。手套太大，无法放入手中。另一方面，手太大，无法戴入手套。所以，光催化剂和反应物之间应有完美的匹配。因此，今天我们将讨论为合适的反应物选择合适的光催化剂的指导原则。
+
+[16:07]
+So now let's move to something more general, I think this might resonate with part of you, also from secondary and high school times, let's talk about spontaneous and non-spontaneous reactions. So basically all chemical reactions, uh, can be divided into spontaneous, meaning that they actually happen, and those which are non-spontaneous. So they only exist as reaction equations on the paper. But if I attempt to mix these reactants, of non-spontaneous reaction in the flask tool, nothing will happen. That's why it's called non-spontaneous.
+那么现在让我们转向更一般的话题，我想这可能能让你们中的一些人产生共鸣，也是从中学和高中时代就熟悉的，让我们来谈谈自发反应和非自发反应。基本上，所有化学反应都可以分为自发的，即它们实际上会发生，以及非自发的。所以它们只以纸上的反应方程式存在。但如果我试图在烧瓶工具中混合这些非自发反应的反应物，什么都不会发生。这就是为什么它被称为非自发的。
+
+[16:43]
+So here are two examples and I invite you to consider only the forward ones, so reaction between hydrogen chloride for example and sodium hydroxide that gives sodium chloride and water. And we can verify that indeed the forward reaction occurs at room temperature by this very simple experiment. So if we take equal amounts of hydrogen chloride and we can verify that this is acidic by adding the universal indicator, and here we have sodium hydroxide, so the universal indicator will change color to violet and.
+这里有两个例子，我请大家只考虑正向反应，比如氯化氢与氢氧化钠反应，生成氯化钠和水。我们可以通过这个非常简单的实验来验证，正向反应确实在室温下发生。所以，如果我们取等量的盐酸，加入通用指示剂来验证其酸性，这里我们有氢氧化钠，因此通用指示剂会变色为紫色，然后……
+
+[17:24]
+Then if we mix them, so the color will disappear, meaning that the forward reaction indeed takes place. So neutralization reaction. So the forward reaction is clearly a spontaneous one. This also means that the backward reaction is a non-spontaneous and why I'm sure about this, because solution of sodium hydroxide, sodium chloride in water, so about 38%, so this is nothing else but the sea water, so it is safe to swim in ocean and not being exposed to hydrogen chloride and sodium hydroxide. So when sodium chloride is dissolved in water, so it stays just like that.
+然后，如果我们把它们混合，颜色就会消失，这意味着正向反应确实发生了。所以，中和反应。所以，正向反应显然是自发的。这也意味着逆向反应是非自发的。对此我深信不疑，因为氢氧化钠和氯化钠的水溶液，大约占38%，所以这不过是海水，因此在海洋中游泳是安全的，不会接触到氯化氢和氢氧化钠。所以，当氯化钠溶于水时，它就保持这样。
+
+[17:37]
+Another example of a spontaneous reaction, it's a burning of methane, that we use to cook food, or maybe generate heat, so the forward reaction here is spontaneous process, backward reaction is non-spontaneous.
+另一个自发反应的例子是甲烷燃烧，我们用它来烹饪食物，或产生热量。因此，这里的正向反应是自发过程，逆向反应是非自发的。
+
+[17:59]
+Because solution of carbon dioxide in water is nothing else but sparkling water. So if I take a bottle of sparkling water, in supermarket, so it can stay there on the shelf for weeks, months, years, and it will never form methane and oxygen. So again, in this case, forward reaction, spontaneous, backward reaction is non-spontaneous.
+因为二氧化碳的水溶液不过是碳酸水。所以，如果我从超市拿一瓶碳酸水，它可以在货架上放置数周、数月甚至数年，而永远不会生成甲烷和氧气。所以，同样在这个案例中，正向反应是自发的，逆向反应是非自发的。
+
+[18:35]
+So photocatalysis can enable or we can say turn on the reactions that are non-spontaneous under the standard conditions. So standard refers to temperature, about 300 Kelvin or 25 degrees Celsius, and the pressure of one bar. So what does it mean to turn on? It means that under certain condition, if we have the right photocatalyst, so we can make methane and oxygen from CO2 and water. By adding a photocatalyst and by shining light.
+所以，光催化可以启用，或者我们可以说开启在标准条件下非自发的反应。标准指的是温度，大约300开尔文或25摄氏度，以及1巴的压力。那么开启意味着什么？意思是，在特定条件下，如果我们有合适的光催化剂，我们就能从二氧化碳和水生成甲烷和氧气。通过添加光催化剂并照射光。
+
+[18:42]
+So how to, how photocatalysis enable.
+那么，光催化是如何实现的呢？
+
+[18:45]
+Non-spontaneous reactions?
+非自发反应？
+
+[19:29]
+So this is one example of very simple one, right? So it's water splitting. So water uses heat into hydrogen and oxygen, so this reaction is very appealing because it does not require any other complex reactants, it just uses sunlight and photocatalysis to dissociate water into hydrogen and oxygen. If we take again hydrogen and oxygen, mix them together, so we can release this heat, we can form water, which is the most environmentally friendly chemical, and at the same time generate large amount of heat for many different purposes.
+所以这是一个非常简单的例子，对吧？就是水分解。水在热量作用下分解为氢气和氧气，这个反应非常有吸引力，因为它不需要其他复杂的反应物，只需利用阳光和光催化作用将水分解为氢气和氧气。如果我们再将氢气和氧气混合，就可以释放出这些热量，重新生成水——这是最环保的化学物质，同时还能产生大量热量，用于多种不同的用途。
+
+[19:35]
+So it can be heat or it can be electricity if we talk about fuel cells, for example.
+所以可以是热能，也可以是电能，比如在燃料电池中。
+
+[19:51]
+So that's why water splitting was investigated actively since 1970s and Jimmy Yoo, one of the researchers, generation of chemists who contributed to this field, so what is the state of the art in this area of research?
+这就是为什么自20世纪70年代以来，水分解一直受到积极研究。Jimmy Yoo，一位为该领域做出贡献的化学家之一，那么，这一研究领域的最新进展如何？
+
+[20:24]
+Well, I must admit that indeed water splitting by photocatalysis is still somewhat behind water electrolysis. So water electrolysis is more mature technology, so there are already industrial scale setups for electrolyzing water, so using electricity. So if electricity comes from renewable sources such as solar light or wind energy, so then indeed this hydrogen produced by water electrolysis can be considered as green.
+我必须承认，光催化分解水确实仍落后于水电解。水电解是一项更成熟的技术，已有工业规模的装置用于电解水，即利用电力。如果电力来自太阳能或风能等可再生能源，那么通过水电解产生的氢气确实可被视为绿色氢。
+
+[21:16]
+But the catch with the water electrolysis will always need some kind of converter. So if we use solar light, so we need a solar panel, which generates electricity, which then powers the electrodes and enables water splitting. So in photocatalysis, in this particular example, we don't need any converters. So here you can see this is a photo of this demonstration plant, about 100 square meters, so this are not the solar cells, but these are plates of glass, gas of one square meters, and there are hundreds of them. So each of these glass sheets is coated with titanium dioxide, well, they modify it, version of titanium dioxide, and then when this flat panel for the reactors are filled with light, so then they drive this reaction, dissociation of water into hydrogen and oxygen.
+但水电解的难点在于，它总是需要某种转换器。所以如果我们使用太阳光，就需要一块太阳能电池板来发电，进而为电极供电并实现水的分解。而在光催化中，以这个具体例子而言，我们不需要任何转换器。这里你可以看到，这是这个示范装置的照片，大约100平方米，这些不是太阳能电池，而是每块约一平方米的玻璃板，有数百块之多。每块玻璃板上都涂有二氧化钛，确切地说是经过改性的二氧化钛版本。当这些平板反应器接收光照时，就会驱动这一反应，将水分解为氢气和氧气。
+
+[21:21]
+So this plant can produce up to about 4 liters of hydrogen per minute.
+所以，这套装置每分钟可生产约4升氢气。
+
+[21:33]
+So another reaction, which is non-spontaneous and conceptually it's very similar to water splitting, its production of acetaldehyde and hydrogen, from ethanol.
+另一种非自发反应在概念上与水的分解非常相似，它从乙醇生产乙醛和氢气。
+
+[21:49]
+So ethanol, I'm sure everyone knows the main application of ethanol, it's in hand sanitizers, so the solution of ethanol in water again, very similar to sparkling water, so this.
+所以，乙醇，我相信大家都知道乙醇的主要应用，就是洗手液。所以，乙醇的水溶液，再次，和苏打水非常相似，就是这样。
+
+[22:01]
+Hand sanitizers normally they don't have expiration date, so they can stay on the shelf for weeks, months, years, and they will. Ethanol doesn't simply break into acetaldehyde and hydrogen.
+洗手液通常没有保质期，所以可以放在货架上数周、数月甚至数年，而且它们会……乙醇不会简单地分解成乙醛和氢气。
+
+[22:34]
+So the forward reaction can produce hydrogen gas, so similar to water splitting, and at the same times also generate acetaldehyde, so an organic molecule that has multiple purposes, so if it's used in various tiny amounts such as parts per million, so then it's indeed used as a flavoring agent in different foods and beverages. But it's more important for chemical industry, so when it's used as a chemical commodity, to synthesize other important molecules, polymers, materials.
+所以，正向反应可以产生氢气，类似于水分解，同时也会生成乙醛——一种有多种用途的有机分子。如果以极少量使用，比如百万分之一（ppm），它确实被用作不同食品和饮料中的调味剂。但更重要的是，在化学工业中，它作为大宗化学品用于合成其他重要分子、聚合物和材料。
+
+[22:45]
+So how could we in principle enable these forward reaction to convert hand sanitizer into acetaldehyde and hydrogen?
+那么，原则上我们如何才能实现这些正向反应，将洗手液转化为乙醛和氢气呢？
+
+[22:58]
+So the most straightforward, and I must admit that in chemistry, laboratory, if some of you had experience with reaction doesn't work, the easiest way is just to heat it up.
+所以最直接的方法，我必须承认，在化学实验室里，如果你们中有人经历过反应不起作用的情况，最简单的方法就是加热它。
+
+[23:34]
+What can be simpler? So unfortunately, thermochemical calculations indicate that ethanol at start dissociating into acetaldehyde and hydrogen at temperatures greater than 1000 Kelvin, which is more than 700 degrees Celsius. So in other words, we can say that the temperature greater than 700 degrees Celsius indeed a chemical system which is composed of two carbon atoms, and six hydrogen atoms, and one oxygen atom will indeed prefer existing in form of these two species.
+还有什么能比这更简单呢？但遗憾的是，热化学计算表明，乙醇在高于1000开尔文（即超过700摄氏度）的温度下开始分解为乙醛和氢气。换句话说，我们可以说，当温度高于700摄氏度时，一个由两个碳原子、六个氢原子和一个氧原子组成的化学体系确实更倾向于以这两种形态存在。
+
+[23:48]
+When temperature is lower than 700 degrees Celsius, they tend to form bonds, so hydrogen will get attached to oxygen, and this hydrogen to this carbon, so then the chemical system will exist in the form of ethanol.
+当温度低于700摄氏度时，它们倾向于形成键，所以氢会与氧结合，而这个氢会连接到这个碳上，因此化学体系将以乙醇的形式存在。
+
+[23:55]
+Is temperature 700 degrees considered as high?
+700摄氏度算高吗？
+
+[23:55]
+High.
+高。
+
+[24:22]
+Well, if we look at the typical scale of temperature in natural sciences, so then we can conclude that physics physics, they deal with much wider range of temperature. So those which are interested in superconductors, for example, so then they can deal with a very low temperature, close to absolute zero. Those who study for example water.
+那么，如果我们看看自然科学中温度的典型范围，就可以得出结论：物理学……物理学研究的温度范围要宽得多。所以，比如那些对超导体感兴趣的人，就可以处理非常低的温度，接近绝对零度。例如，那些研究水的人。
+
+[24:40]
+Astrophysics, so temperature in intergalactic space is very close to absolute zero. So those who work with particle physics, fusion and fission reactions, so temperature there exceeds hundreds and millions of Kelvin. So much, much, much larger scale.
+天体物理学，所以星系间空间的温度非常接近绝对零度。所以那些研究粒子物理、聚变和裂变反应的人，那里的温度超过数亿开尔文。所以，尺度大得多、大得多。
+
+[24:48]
+Biology, on the other hand, deals with temperature in the range of zero to about 45 degrees Celsius, which is relatively narrow.
+另一方面，生物学研究的温度范围在零度到约45摄氏度之间，相对较为狭窄。
+
+[25:14]
+So chemistry from this standpoint is a bit better, positioned compared to biology, so we can afford temperature in slightly wider range. So from my personal experience, so meaningful for chemists, the lowest temperature would be minus 80 degrees, so minus 80 degrees we still can do some meaningful chemical reactions with exceptionally reactive species.
+所以，从这一角度来看，化学的定位比生物学稍微好一些，因此我们能够承受稍微更宽的温度范围。从我个人的经验来看，对于化学家而言，最低温度会是零下80摄氏度，在零下80摄氏度时我们仍然可以进行一些有意义的化学反应，尤其是用高活性的物种。
+
+[25:36]
+On the other hand, the highest temperature, which makes sense for chemists, I would put it at about 2000 degrees Celsius, so this is the temperature used in production of calcium carbide. So everything higher than 2000 degrees Celsius, this is too high. So there are simply no materials that can withstand temperature greater than 2000 degrees Celsius.
+另一方面，对于化学家来说，有意义的最高温度，我会设定在大约2000摄氏度，这是生产碳化钙时使用的温度。因此，任何高于2000摄氏度的温度都太高了。所以，根本没有任何材料能够承受超过2000摄氏度的温度。
+
+[25:41]
+So therefore, uh.
+所以，呃。
+
+[25:47]
+Just heating ethanol to produce acetaldehyde and hydrogen doesn't look very practical.
+只是加热乙醇来生成乙醛和氢气似乎不太实用。
+
+[26:43]
+Of course, there are many other reactions that exist where we can in principle write on the paper which look very much appealing, but they are non-spontaneous. So another example, it's a dissociation of methanol into formaldehyde and hydrogen. As you can see, conceptually it's very much similar to this one. So basically if you take any molecule, any organic molecule that contains at least two hydrogen atoms, and then you try to write the reaction equation in which these two hydrogen that they combine together form an H2 molecule, and then you also need to consider what happens with the rest of the molecule, right? And then if you take, let's say, hundreds of this molecules, and you try to draft similar reaction equations, I guarantee that at least 95.
+当然，还存在许多其他反应，原则上我们可以在纸上写出看起来非常有吸引力的反应，但它们是非自发的。再举一个例子，甲醇分解成甲醛和氢气。如您所见，从概念上来看，它与这个非常相似。所以，基本上，如果你取任何分子，任何含有至少两个氢原子的有机分子，然后试着写出反应方程式，其中这两个氢原子结合形成一个H2分子，那么你还得考虑分子其余部分会发生什么，对吧？然后，如果你取几百个这样的分子，试着写出类似的反应方程式，我保证至少有95个……
+
+[26:44]
+Out of.
+出来。
+
+[26:48]
+100 will represent non-spontaneous reactions.
+100将代表非自发反应。
+
+[26:52]
+The reason is because this is how the universe works.
+因为宇宙就是这样运作的。
+
+[27:24]
+Now I suggest that we relax a bit, before the break, last year I developed a video game to help undergraduate students to understand and practice a bit concepts in physical chemistry, and together with students we created a series of videos. So now let's watch a short video that concisely illustrate how photocatalysis and photochemistry may be used to enable a non-spontaneous reactions, such as this one or this one.
+现在，我建议我们在休息前稍微放松一下。去年，我开发了一款电子游戏，帮助本科生理解和练习物理化学中的一些概念，并且我和学生们一起制作了一系列视频。现在，让我们看一个简短视频，它简要说明了光催化和光化学如何能够实现非自发反应，比如这个或这个。
+
+[27:31]
+In level 77.
+在第77级。
+
+[27:39]
+Of chem challenge, the task is to synthesize formaldehyde and hydrogen from methanol.
+化学挑战的任务是利用甲醇合成甲醛和氢气。
+
+[27:44]
+The reaction equation is complete and balanced, at 298 Kelvin.
+该反应方程在298开尔文时完整且平衡。
+
+[27:51]
+The enthalpy change delta H is plus 124 kilojoules.
+焓变ΔH为正124千焦。
+
+[27:56]
+Two moles of gas are formed from one mole of liquid.
+从一摩尔液体生成两摩尔气体。
+
+[28:03]
+Therefore, the chemical system becomes more random when methanol rearranges into formaldehyde and hydrogen gas.
+因此，当甲醇重排为甲醛和氢气时，化学体系变得更加无序。
+
+[28:10]
+The change of entropy in this process, delta S, is plus 222 joules per Kelvin.
+该过程中熵的变化，ΔS，为每开尔文+222焦耳。
+
+[28:18]
+The combination of delta H and delta S at 298 Kelvin gives a Gibbs free energy change of plus 57 kilojoules.
+在298开尔文时，ΔH和ΔS的组合给出的吉布斯自由能变化为+57千焦。
+
+[28:31]
+This means that at 298 Kelvin, the conversion of methanol into formaldehyde and hydrogen is non-spontaneous, it also means that the backward reaction hydrogenation of formaldehyde is spontaneous.
+这意味着在298开尔文时，甲醇转化为甲醛和氢气是非自发的，同时也意味着逆反应，即甲醛的加氢反应，是自发的。
+
+[28:39]
+Given the positive delta S value, the forward reaction becomes spontaneous at temperatures greater than 556 Kelvin.
+由于ΔS值为正，正向反应在高于556开尔文的温度下变得自发。
+
+[28:44]
+Therefore, increasing the temperature of this reaction is an effective approach to solving level 77.
+因此，提高该反应的温度是解决第77关的有效方法。
+
+[28:51]
+There is, however, another way to make this reaction spontaneous.
+然而，还有另一种方法可以让这个反应自发进行。
+
+[28:55]
+The reaction might proceed even at 298 Kelvin by employing photochemistry.
+通过利用光化学，即使在298开尔文时，该反应也可能进行。
+
+[29:04]
+Photochemistry uses electromagnetic radiation in the ultraviolet visible range of the spectrum to drive chemical reactions.
+光化学利用光谱中紫外可见范围内的电磁辐射来驱动化学反应。
+
+[29:14]
+One mole of photons with specific wavelengths denoted by lambda carries an amount of energy E, which is calculated using the Planck-Einstein relation.
+具有特定波长（用 λ 表示）的一摩尔光子携带着能量 E，该能量通过普朗克-爱因斯坦关系式计算得出。
+
+[29:21]
+For example, one mole of 180 nanometers photons carries 664 kilojoules of energy.
+例如，一摩尔波长为180纳米的光子携带664千焦的能量。
+
+[29:25]
+Overall, the shorter the wavelength, the more energetic the photons are.
+总体而言，波长越短，光子的能量就越大。
+
+[29:34]
+To explain how photochemistry can turn an endothermic reaction into an exothermic one, it is convenient to consider photons as reactants.
+为了说明光化学如何将吸热反应转变为放热反应，将光子视作反应物是方便的。
+
+[29:43]
+However, unlike actual chemical substances, which chemists can weigh and add to a flask before the reaction, photons must be supplied continuously.
+然而，与化学家可以在反应前称量并加入烧瓶中的实际化学物质不同，光子必须持续供应。
+
+[29:51]
+In practice, this is done by illuminating a photoreactor with photons of specific wavelengths that are absorbed by reactants.
+实际上，这是通过用具有特定波长的光子照射光化学反应器来实现的，这些光子会被反应物吸收。
+
+[30:00]
+Ultraviolet visible absorption spectroscopy is used to identify photons' wavelength in the electromagnetic spectrum that are absorbed by a specific substance.
+紫外可见吸收光谱法用于确定电磁波谱中被特定物质吸收的光子的波长。
+
+[30:04]
+The human eye is a sensitive spectrometer by itself.
+人眼本身就是一种灵敏的光谱仪。
+
+[30:13]
+We perceive colors as a response of our eyes to interaction with photons having wavelengths in the range 400 to 750 nanometers.
+我们之所以感知到颜色，是眼睛对波长在400至750纳米范围内的光子产生反应的结果。
+
+[30:16]
+The opposite statement is also true.
+相反的说法也成立。
+
+[30:21]
+From the color of a substance, we can estimate the wavelength of photons that the substance absorbs.
+从物质的颜色，我们可以估计该物质吸收的光子的波长。
+
+[30:31]
+For example, substances that appear as colorless liquids or white solids, such as titanium dioxide, absorb photons with wavelengths shorter than 400 nanometers.
+例如，二氧化钛等呈无色液体或白色固体的物质，会吸收波长小于400纳米的光子。
+
+[30:34]
+It is outside the spectral range of the human eye.
+它位于人眼的光谱范围之外。
+
+[30:44]
+Substances that appear as yellow liquids and solids, such as elemental sulfur, absorb photons with wavelengths of approximately 460 nanometers and shorter.
+呈黄色液体和固体状的物质，例如元素硫，会吸收波长约为460纳米及以下的光子。
+
+[30:53]
+Orange substances such as cadmium sulfide absorb photons with wavelengths of approximately 590 nanometers and shorter.
+硫化镉等橙色物质吸收波长约为590纳米及以下的光子。
+
+[31:13]
+Methanol is a colorless, transparent liquid. It absorbs photons with wavelengths shorter than 200 nanometers. Calculations on the photochemical conversion of methanol to formaldehyde and hydrogen driven by 180 nanometer photons indicate that the reaction is spontaneous at 298 Kelvin.
+甲醇是一种无色、透明的液体。它吸收波长小于200纳米的光子。根据180纳米光子驱动的甲醇转化为甲醛和氢气的光化学转化计算，表明该反应在298开尔文时是自发的。
+
+[31:20]
+A graphical illustration of these thermochemical calculations is shown in the following diagram.
+这些热化学计算的图形说明如下图所示。
+
+[31:36]
+Recall that the standard enthalpies of formation of elements and their standard states are zero. When two moles of H2 gas, half a mole of O2 gas, and one mole of carbon atoms in the form of graphite combined to form one mole of liquid methanol, at 298 Kelvin.
+请记住，元素及其标准状态的标准生成焓均为零。当两摩尔氢气、半摩尔氧气和一摩尔以石墨形式存在的碳原子在298开尔文下结合形成一摩尔液态甲醇时。
+
+[31:45]
+This energy corresponds to the standard enthalpy of formation of methanol in a liquid state.
+该能量对应于液态甲醇的标准生成焓。
+
+[32:01]
+Similarly, when one mole of H2 gas, half a mole of O2 gas, and one mole of carbon atoms in the form of graphite combined to form one mole of gaseous formaldehyde at 298 Kelvin, 116 kilojoules of energy are released.
+同样，当一摩尔H₂气体、半摩尔O₂气体和一摩尔石墨形式的碳原子在298开尔文下结合形成一摩尔气态甲醛时，会释放116千焦的能量。
+
+[32:06]
+This energy corresponds to the standard enthalpy of formation of gaseous formaldehyde.
+该能量对应于气态甲醛的标准生成焓。
+
+[32:14]
+Therefore, from a thermodynamic perspective, formaldehyde is approximately 124 kilojoules less stable than methanol.
+因此，从热力学角度看，甲醛的稳定性大约比甲醇低124千焦。
+
+[32:23]
+Photochemistry can enable a chemical system to transition from a thermodynamically more stable state to a less stable state via an electronically excited state.
+光化学可以使化学系统通过电子激发态从热力学更稳定的状态转变为较不稳定的状态。
+
+[32:36]
+The absorption of one mole of 180 nanometer photons by one mole of methanol molecules formally produces species that are 664 kilojoules less stable than methanol in its ground state.
+一摩尔甲醇分子吸收一摩尔波长为180纳米的光子后，形式上会生成比基态甲醇稳定度低664千焦的物种。
+
+[32:43]
+The transition of the chemical system from this excited state to a state composed of formaldehyde and hydrogen is spontaneous.
+化学体系从这个激发态向由甲醛和氢组成的态的跃迁是自发的。
+
+[32:54]
+Therefore, in level 77 of chem challenge, the task can be solved by using a light-emitting diode that supplies 180 nanometer photons to methanol.
+因此，在 Chem Challenge 的第 77 道题中，可以通过使用向甲醇提供 180 纳米光子的发光二极管来解决。
+
+[33:10]
+In the real photochemical experiment, the absorption of photons of a specific wavelength by methanol does not guarantee its effective conversion into formaldehyde and hydrogen.
+在实际的光化学实验中，甲醇吸收特定波长的光子，并不保证能有效转化为甲醛和氢气。
+
+[33:15]
+Absorption of photons by a reactant is necessary but not sufficient for the reaction to proceed.
+反应物吸收光子是反应进行所必需的，但并不充分。
+
+[33:27]
+In practice, methanol is converted into formaldehyde and hydrogen by employing a photocatalyst, a substance that absorbs photons and drives the target reaction without being consumed itself.
+实际上，利用光催化剂，即一种能吸收光子并驱动目标反应但自身不被消耗的物质，可以将甲醇转化为甲醛和氢气。
+
+[33:38]
+One of the advantages of a photocatalytic approach compared to a purely photochemical one is that a photocatalyst can utilize photons with longer wavelengths to drive the reaction.
+与纯光化学方法相比，光催化方法的一个优点是光催化剂可以利用波长更长的光子来驱动反应。
+
+[33:43]
+Especially appealing is using natural solar light, the most sustainable source of energy.
+尤其吸引人的是利用自然阳光，这是最可持续的能源。
+
+[33:53]
+In this video, a photocatalyst immobilized on a solid surface drives the conversion of ethanol into acetaldehyde and hydrogen using natural solar light.
+在本视频中，固定在固体表面的光催化剂利用自然阳光将乙醇转化为乙醛和氢气。
+
+[34:04]
+Visit savityofgroup.com and get your copy of the game and other educational materials.
+访问 savityofgroup.com，获取游戏副本和其他教育材料。
+
+[34:31]
+Yeah, so the game is for free. If you're interested, you can download it, play it offline, and there is also a version online. And currently, with one of the my group members, we're developing a real online version with a ranking system, so everyone can register your university and then can compete with other peers globally. To see who is the best in thermodynamics.
+对，所以这个游戏是免费的。如果你感兴趣，可以下载离线玩，也有线上版本。目前，我和我的一位组员正在开发一个真正的在线版本，并加入排名系统，这样每个人都可以注册自己的大学，然后在全球范围内与其他同龄人展开竞争。看看谁在热力学方面最厉害。
+
+[34:39]
+Okay, before the break, we yeah, we can start with the general photocatalytic mechanism.
+好的，在休息之前，我们可以先从光催化的一般机理开始。
+
+[34:46]
+So photocatalysis basically is founded or grounded on one simple idea.
+光催化基本上基于一个简单的理念。
+
+[34:52]
+So upon photon absorption, a photocatalyst can drive reduction and oxidation half reaction.
+因此，在吸收光子后，光催化剂可以驱动还原和氧化半反应。
+
+[35:04]
+So this is I cannot phrase it more generally. I think this is the most general explanation how photocatalyst photo redox catalysis works.
+所以，我无法用更概括的说法来表达。我认为，这是最全面的解释，说明光催化剂的光氧化还原催化过程是如何运作的。
+
+[35:12]
+So there are three terms in this definition. It's a photon and reduction half reaction and oxidation half reaction.
+所以，这个定义中有三个术语。它们是光子、还原半反应和氧化半反应。
+
+[35:31]
+So photons yeah, from the previous video, I think you got some idea. About what is photon? So photon is a portion of electromagnetic radiation. So electromagnetic waves. So electromagnetic waves, we can characterize them based on their wavelengths and their frequency.
+所以，光子——对，从之前的视频中，我想你们已经有所了解了。什么是光子？所以，光子是电磁辐射的一部分。所以，电磁波。所以，我们可以根据电磁波的波长和频率来对其进行表征。
+
+[35:48]
+So the wavelengths means that if the wave propagates through a medium, so the distance between points having the same amplitude, like here, so their distance between these two points, or these two points, so this corresponds to the wavelengths.
+所以，波长是指波在介质中传播时，振幅相同的两点之间的距离，比如这里，也就是这两点之间的距离，这对应于波长。
+
+[35:54]
+On the other hand, frequency tells you how many times the wavelength change its amplitude per second.
+另一方面，频率表示波长每秒改变其振幅的次数。
+
+[36:42]
+So frequency in hertz wavelengths in meters or typically nanometers in photocatalysis typically we're dealing with the photons with wavelengths between 400 to 700 nanometers. Well, maybe a bit shorter. So all the photons all the electromagnetic radiation can be divided into different groups and typically division was made because of the application. How this electromagnetic radiation is applied in different areas of science and technology. So gamma radiation, extremely harmful. X-ray, for X-ray imaging in medicine, ultraviolet, can be used in disinfection in microchip production, for example.
+所以频率以赫兹为单位，波长以米为单位，或在光催化中通常以纳米为单位，我们通常处理的是波长在400至700纳米之间的光子。嗯，也许更短一些。因此，所有光子以及所有电磁辐射都可以分为不同的组别，这种划分通常基于其应用。即这种电磁辐射如何应用于科学技术的不同领域。伽马射线，极其有害。X射线，用于医学中的X射线成像。紫外线，可用于消毒，例如在微芯片生产中。
+
+[36:47]
+Visible light, obviously we need visible light, otherwise we cannot see anything.
+可见光。显然，我们需要可见光，否则什么都看不见。
+
+[36:58]
+Infrared radiation produced by heat lamps, for example, we can sense infrared radiation as a heat coming from the different sources.
+例如，由热灯产生的红外辐射，我们可以将其感知为来自不同来源的热量。
+
+[37:12]
+Microwave radiation, means that it has much longer wavelengths compared to gamma radiation. On the other hand, frequency becomes much, much lower. Radio frequencies and so on.
+微波辐射意味着其波长比伽马射线长得多。另一方面，频率变得低得多、低得多。射频等等。
+
+[37:22]
+So these two parameters, frequency and the wavelengths, they are related via this expression where C is the speed of light in vector.
+所以，频率和波长这两个参数是通过这个表达式相互关联的，其中 C 是光速。
+
+[37:38]
+So to phrase this sentence to represent it in a formal diagram, we can use the following. So if we have a particle of photocatalyst, it can be a molecule, can be a nano.
+所以，为了将这个句子以正式图示的形式呈现，我们可以采用以下方式。因此，若有一个光催化剂粒子，它可以是分子，也可以是纳米粒子。
+
+[37:46]
+Particle, quantum dots, piece of material. So when it absorbs a photon, so it forms electron.
+粒子、量子点、材料片。所以，当它吸收一个光子时，就会形成电子。
+
+[37:48]
+Excited state.
+激发态。
+
+[38:18]
+After that, it undergoes separation of electron pole pairs. So this excitons are split forming negatively charged electrons and positively charged poles. So pole, it's a quasi-particle. Unlike electrons, protons, neutrons, so these three are real particles. Pole is nothing else but the missing electron. So if you have a piece of material, which misses an electron, so this region of space is called a hole.
+之后，它经历电子空穴对的分离。所以这些激子分裂成带负电的电子和带正电的空穴。空穴是一个准粒子。与电子、质子、中子不同，这三种是真实粒子。空穴不过是一个缺失的电子。所以，如果一块材料缺少一个电子，那么这个空间区域就称为空穴。
+
+[38:33]
+So hole and electron, they can recombine together. So basically electron fills this vacancy so don't confuse holes with positrons. So these are not positrons. So hole is just missing electron.
+所以空穴和电子可以重新复合。基本上，电子会填补这个空穴。所以不要把空穴与正电子混淆。这些不是正电子。空穴就是缺少一个电子。
+
+[39:00]
+After that, what could happen is that these holes in electrons, because they have opposite charge, and this energized materials has extremely short lifetime. Typically in the range of hundreds of picoseconds to maybe milliseconds. So very short. So as I say, this sentence, typical photocatalyst can undergo excitation, relaxation, like millions and millions of times.
+之后，可能发生的情况是，这些空穴和电子，由于它们带相反的电荷，而这种被激发的材料寿命极短，通常在几百皮秒到可能几毫秒的范围内，所以非常短。因此，正如我所说，典型的光催化剂可以经历数百万甚至数亿万次的激发和弛豫过程。
+
+[39:29]
+So this process is counterproductive. So we are not interested. And today we will see what other methods or means we can apply to suppress this counterproductive recombination of electron pole pairs. Why it's counterproductive? Because it consumes energy but it doesn't use this energy to drive anything useful. So this energy can be released in the form of light. So then it's called fluorescence. Or in the form of heat.
+所以这个过程适得其反。所以我们对此不感兴趣。今天我们将探讨可以采用哪些其他方法或手段来抑制电子空穴对的这种反作用的复合。为什么它适得其反？因为它消耗能量，却不利用这些能量来驱动任何有用的东西。这种能量可以以光的形式释放出来，因此被称为荧光；或者以热的形式释放。
+
+[40:19]
+In any case, it doesn't drive any productive redox reaction. So what we are interested in is something some redox reaction. So this is an oxidation half reaction. So if we go back to example reaction, decomposition of ethanol into acetaldehyde and hydrogen. So in this case, the photogenerated holes, now used to extract electrons from these molecule. So basically what we do, what the photocatalyst does, it takes two electrons and they are represented by these dots. So one line in chemistry represents a chemical bond, chemical bonds are typically made by two electrons. So these two holes, they take two electrons from ethanol molecule so the.
+总之，它不会驱动任何有成效的氧化还原反应。所以我们感兴趣的是某种氧化还原反应。所以这是氧化半反应。那么，如果我们回到这个示例反应，乙醇分解成乙醛和氢气。所以在这种情况下，光生空穴现在被用来从这些分子中提取电子。所以基本上，光催化剂所做的是，它会吸收两个电子，而这些电子用这些点表示。所以在化学中，一条线表示一个化学键。化学键通常由两个电子形成。所以这两个空穴从乙醇分子中夺走了两个电子，所以……
+
+[40:42]
+Holes will be quenched now and now our photocatalyst holds two electrons and what happens with these molecule? It then it converted into acetaldehyde, meaning that the remaining two electrons, they will couple together forming a double bond and also keep in mind there must be something ongoing with these hydrogen atoms. So they become two protons.
+空穴现在会被淬灭，而我们的光催化剂现在携带两个电子。这些分子会发生什么？然后它转化为乙醛，这意味着剩余的两个电子会耦合形成双键，同时要记住，这些氢原子必定在发生某种过程。所以它们变成了两个质子。
+
+[40:46]
+They are released in this oxidation half reaction.
+它们在这次氧化半反应中被释放出来。
+
+[41:22]
+So what happens next is that we have still these two electrons and our photocatalyst can drive now reduction of two protons. So when two protons react with two electrons, then they form one hydrogen molecule. So then we say that this is the reduction half reaction. So as you can see, there is a light coming in. So then it executes oxidation half reaction, reduction half reaction, and the photocatalyst is recovered. So it's not consumed. And another photon comes and the cycle repeats again and again and again and again.
+所以接下来发生的是，我们仍然有这两个电子，而我们的光催化剂现在可以驱动两个质子的还原。所以，当两个质子与两个电子反应时，就会形成一个氢分子。所以，我们说这是还原半反应。所以，正如你们所看到的，有光照射进来。然后它执行氧化半反应、还原半反应，并且光催化剂得以恢复。所以它没有被消耗。另一个光子到来，循环一次又一次地重复着。
+
+[41:34]
+So now let's do a 10 minutes break with this being enough. 10 minutes. Okay. Let's meet then at 7:22.
+那么现在我们休息十分钟，这样就够了。10分钟。好的。那我们7点22分见。
+
+[41:51]
+Can we use the break? Oh my god, Minji.
+我们可以休息一下吗？天哪，敏智。
+
+[54:13]
+Structure, which is filled with electrons, overlaps with the region which is free of electrons, meaning that—so this is the reason why metals conduct electricity, why semiconductors usually do not conduct electricity, and why insulators do not conduct electricity—because electrons cannot simply go from valence band to conduction band. So this energy is too high, so thermal excitation, for example—so heating—insulators or semiconductors does not improve significantly their electronic conductivity.
+充满电子的结构与没有电子的区域重叠，这意味着——所以这就是金属导电的原因，半导体通常不导电，绝缘体也不导电——因为电子无法从价带直接跃迁到导带。所以这种能量太高了，比如热激发——加热——绝缘体或半导体并不能显著提高它们的电子导电性。
+
+[54:31]
+In photocatalysis, we're interested mainly in this type of materials: semiconductors, because they have not-so-white, not-so-narrow energy band gap. So just write for the.
+在光催化中，我们主要关注这类材料：半导体，因为它们具有不太宽也不太窄的能带隙。所以就写到这个。
+
+[54:41]
+DOS half reactions take place. Also, from first lecture, we learned about differences or similarities between.
+发生DOS半反应。另外，从第一讲中，我们了解了……之间的差异或相似之处。
+
+[55:11]
+Small substances, small molecules, I would put this limit at 1 nanometer, for example. So water molecule has a dimension or diameter of approximately 0.6 nanometer, so caffeine molecule I would say a bit bigger still, less than 1 nanometer. So these are relatively small molecules with 10 to about 100 atoms. So when we're dealing with such systems, we're sure that.
+对于小物质、小分子，我会把这个极限定为，比如说，1纳米。所以，水分子的尺寸，也就是直径，大约为0.6纳米；至于咖啡因分子，我觉得还是稍微大一些，不到1纳米。所以，这些分子相对较小，大约有10到100个原子。所以，当我们研究这类系统时，我们确信……
+
+[55:12]
+For.
+对于。
+
+[55:55]
+Molecules, what is characteristic is that molecular orbitals—so it's an energy state—they are quite discrete, they are separated by relatively large energy differences, and the electrons occupy these discrete molecular orbitals. So here we have the occupied molecular orbitals, they contain electrons, and each of the molecular orbital can hold up to 2 electrons. And here we have unoccupied molecular orbitals, particularly interesting are these two, so homo and lumo. So homo highest occupied, lumo lowest unoccupied molecular orbital. Collectively they're called frontier orbitals.
+分子的特征是，分子轨道——也就是能量状态——具有相当明显的离散性，彼此之间能量差异相对较大，电子占据这些离散的分子轨道。这里显示的是占据的分子轨道，其中含有电子，每个分子轨道最多可容纳两个电子。这里是未占据的分子轨道，其中这两个特别有意思，即 HOMO 和 LUMO。所以，HOMO 是最高占据轨道，LUMO 是最低未占据轨道。它们统称为前线轨道。
+
+[56:10]
+The most interesting molecular orbitals for chemists. So when the molecule becomes larger, so then we transit from small molecules to quantum dots, and I would put the size.
+对化学家来说最有趣的分子轨道。所以，当分子变大时，我们就会从小分子过渡到量子点，而我会标注尺寸。
+
+[56:19]
+Of around 10 nanometers, so less than 10 nanometers, we are not dealing with molecules anymore, but relative.
+大约10纳米，即小于10纳米时，我们就不再处理分子了，而是相对而言。
+
+[56:34]
+Large particles. With tens of thousands atoms. So when this happens, so this molecular orbitals, they start packing more tightly, and what also happens with the energy band gap, it becomes narrower. So this is a general trend.
+大颗粒。包含数万个原子。所以当这种情况发生时，这些分子轨道会开始更紧密地排列，并且能带隙也会变窄。所以这是一个普遍趋势。
+
+[56:40]
+And then if we put, let's say, one Avogadro—
+然后，如果我们放一个阿伏伽德数——
+
+[56:58]
+Number atoms in a material, Avogadro number 10 to 20 third power, so these are a lot of atoms. So then instead of forming discrete energy levels, they form bands. So then homo becomes the valence band, lumo becomes the conduction band.
+材料中的原子数量，阿伏伽德罗常数10的23次方，所以这些原子非常多。因此，它们不再形成离散的能级，而是形成能带。那么，HOMO 成为价带，LUMO 成为导带。
+
+[57:03]
+And then we can also differentiate or put.
+然后我们还可以进行区分或放置。
+
+[57:11]
+To draw a similarity between homo, then we can call it as a valence band maximum, and the lumo is now called conduction band minimum.
+为了将 HOMO 与 LUMO 进行类比，我们可以将 HOMO 称为价带最大值，而 LUMO 则称为导带最小值。
+
+[57:37]
+To explain you why different substances possess different colors, we need to consider what happens with the material or substance when it's interact with light, because basically color comes from the interaction of the substance with light. And there are, in general, five processes that could take place when photon.
+为了解释为什么不同物质呈现不同的颜色，我们需要考虑物质或物质与光相互作用时会发生什么，因为颜色基本上源于物质与光的相互作用。一般来说，当光子……时，可能会发生五个过程。
+
+[57:48]
+Light hits the surface of the material. So first one, transmission of light, so nothing happens, if we have a piece of transparent.
+光照射到材料表面。那么，第一种是光的透射。如果是一块透明材料，什么都不会发生。
+
+[59:00]
+Colorless glass with smooth surface, so all the light just can go through, and our eyes receive basically all the photon flux from the light source. Second process is absorption of light, sunglasses, so they coat it with the material that absorb portion of the photons. So then not all photons from the light source can reach our eyes, but only a fraction of that photons. Reflection of light, mirrors, right, so they will change direction of light. What is important here is the incident angle of light is equal to the angle of the reflected light. There is another type of reflection, which is not called reflection but a scattery. So if you take a piece of glass, just a normal glass, and then scratch the surface with the sandpaper, for example, so you don't change really the chemical structure of the material, so it's still the same glass, so silicon dioxide, so it's still composed of silicon and oxygen, but because of rough surface, so now this glass starts scattering light. Therefore.
+无色玻璃，表面光滑，所以所有光线都能透过，眼睛基本上会接收到来自光源的所有光子通量。第二种过程是光的吸收，比如太阳镜，它们会在镜片上涂上吸收部分光子的材料。所以，并不是光中的所有光子都能到达我们的眼睛，而只有其中一小部分光子能够到达。光的反射，比如镜子，对吧，所以它们会改变光的方向。这里重要的是，入射角等于反射角。还有一种反射，它不叫反射，而叫散射。所以，如果你拿一块玻璃，一块普通的玻璃，然后用砂纸把表面划伤，实际上并没有改变材料的化学结构，所以它仍然是同一种玻璃，也就是二氧化硅，仍然由硅和氧组成，但由于表面粗糙，这种玻璃现在开始散射光线。因此。
+
+[58:59]
+So you take one glass.
+所以你拿一块玻璃。
+
+[59:00]
+It doesn't look transparent anymore.
+它不再透明了。
+
+[59:01]
+Yeah.
+对。
+
+[59:10]
+And light emission, so if certain molecule—certain materials—it can absorb light, they can store this energy.
+还有光的发射，所以如果某些分子——某些材料——能够吸收光，它们就能储存这种能量。
+
+[59:11]
+Like weighing a helmet.
+就像称量头盔一样。
+
+[59:15]
+And then they can reemit the light at different wavelengths, for example.
+然后，例如，它们可以以不同的波长重新发射光。
+
+[59:16]
+So fluorescence.
+所以是荧光。
+
+[59:20]
+Or photoluminescence could be more general.
+或者光致发光可能更通用。
+
+[59:22]
+So basically all the materials.
+所以基本上是所有材料。
+
+[59:22]
+Incognito.
+匿名。
+
+[59:35]
+That you can see in this room, in your daily life, so their color is basically defined largely by the fact how they absorb light.
+你们在这个房间里、日常生活中都能看到这些材料，所以它们的颜色基本上很大程度上取决于它们如何吸收光。
+
+[1:00:19]
+So this desk, my jacket, this blackboard—whiteboard—carpet, so this I would say an ordinary material. So they don't fluoresce much, they're non-transparent, so basically their color comes from the fact that they take a portion of photons from the incident light, and then our eyes perceive what is—what remains in the reflected light. So let's look more carefully on this. So if you take a piece of colorless glass, and we put it between the light source and our eye, so white light, it's a combination of photons of all kinds of wavelengths. So perfectly white light means that there are photons of violet.
+所以这张桌子、我的夹克、这块黑板——白板——地毯，这些都可以说是普通材料。所以它们的荧光不强，也不透明，因此它们的颜色基本上来源于这样一个事实：它们吸收了入射光中的一部分光子，然后我们的眼睛感知到反射光中剩下的是什么。那么让我们更仔细地看看这一点。所以，如果你拿一块无色玻璃，把它放在光源和眼睛之间，白光是由各种波长的光子组合而成的。所以，纯白光意味着其中含有紫光的光子。
+
+[1:00:52]
+Blue, green, yellow, orange, and red, and exactly the same proportion. So their combination is perceived by our eyes as a white substance, white color. So if we put this glass in an absorption spectrometer, and then measure what types of photons this transparent glass absorbs, we will see that it doesn't absorb anything. So all the photons from 400 to 700 nanometers, so this is the spectral range of human eye. So then they just can go through and reach our eyes.
+蓝色、绿色、黄色、橙色和红色，而且比例完全相同。所以，它们的组合被我们的眼睛感知为白色物质，白色。所以，如果我们把这种玻璃放入吸收光谱仪中，测量这种透明玻璃吸收了哪些类型的光子，就会发现它不吸收任何东西。所以，所有从400到700纳米的光子，这就是人眼的光谱范围。所以，它们可以直接穿过并到达我们的眼睛。
+
+[1:00:52]
+How many.
+多少。
+
+[1:01:06]
+So titanium dioxide, it looks white because it scatters light. So similar to this situation, so it's composed of many, many small particles, and although it doesn't absorb any light here.
+所以二氧化钛看起来是白色的，因为它会散射光。所以，情况类似，它由许多许多小颗粒组成，尽管它在这里不吸收任何光。
+
+[1:01:06]
+Can we.
+我们能……
+
+[1:01:10]
+So it still scatters light a lot. So therefore it doesn't look transparent.
+所以它仍然会大量散射光线。因此它看起来不透明。
+
+[1:01:20]
+Now if we take a yellow glass, for example, so what happens with the incident light? So the yellow glass will take violet photons from the incident.
+现在，如果我们拿一块黄色玻璃，比如说，那么入射光会发生什么？所以，黄色玻璃会吸收入射光中的紫光光子。
+
+[1:01:22]
+So
+所以……
+
+[1:01:22]
+Spectrum.
+光谱。
+
+[1:01:30]
+And then our eyes will receive combination of these photons. So this is typical absorption spectrum.
+然后，我们的眼睛会接收到这些光子的组合。所以，这是典型的吸收光谱。
+
+[1:01:36]
+Yellow glass or sulfur, for example, or all kinds of yellow power.
+例如，黄色玻璃、硫磺，或者各种黄色粉末。
+
+[1:02:04]
+So photons with wavelengths approximately 450 nanometers are gone from the light that passed through yellow glass, and then our eyes receive combination of this that gives us sensation of yellow color. Orange glass, orange powders, they start absorbing at about 580 nanometers, red substances such as red stained glass or.
+因此，穿过黄色玻璃的光中，波长约为450纳米的光子消失了，然后我们的眼睛接收到这些光子的组合，从而产生黄色的感觉。橙色玻璃、橙色粉末，它们大约在580纳米处开始吸收；红色物质，例如红色染色玻璃，或者……
+
+[1:02:05]
+Medium or.
+中性或。
+
+[1:02:15]
+Made of cinnabar, so cinnabar, it's a natural mineral, mercury sulfide, it has a very strong dramatic red color.
+由辰砂制成，所以辰砂是一种天然矿物，是硫化汞，具有非常强烈的艳红色。
+
+[1:02:16]
+可能十多个。
+Maybe more than ten.
+
+[1:02:21]
+So this, they absorb photons at 600 nanometers in a short.
+所以这个，它们在很短的时间内吸收600纳米波长的光子。
+
+[1:02:21]
+I don't know.
+我不知道。
+
+[1:02:26]
+Black substances, glass, coal, graphite, you.
+黑色物质，玻璃、煤、石墨，还有你。
+
+[1:02:27]
+The case of my laptop.
+我的笔记本电脑的案例。
+
+[1:02:28]
+它有那个。
+It has that.
+
+[1:02:32]
+So they absorb all the photons between 400 and 700 nanometers.
+所以它们吸收所有波长在400到700纳米之间的光子。
+
+[1:02:33]
+相关。
+related.
+
+[1:03:01]
+So more exotic cases, such as green substances, leaves, for example, they feature two absorption bands, so the one corresponds to absorption photons in this, of these colors, and this one takes photons with that appear red, and a portion of photons that look as yellow and orange. So what's left is the photons in this range that gives us a sensation of green color.
+所以，更特殊的例子，例如绿色物质、树叶等，它们有两条吸收带。一条对应于吸收这些颜色的光子，而另一条吸收那些看起来呈红色的光子，以及一部分看起来呈黄色和橙色的光子。所以剩下的就是在这一范围内发出的光子，它们给我们带来绿色的感觉。
+
+[1:03:02]
+Now I have a tricky question to you.
+现在我有一个棘手的问题要问你们。
+
+[1:03:04]
+没有，我想看原图。
+No, I want to see the original.
+
+[1:03:14]
+So this is how sulfur or yellow glass, they look like under white light. So the light that is produced by this.
+这就是硫磺或黄色玻璃在白光下的样子。所以，这就是它产生的光。
+
+[1:03:14]
+Object.
+物体。
+
+[1:03:21]
+Ceiling light, for example, right? So we see it as a yellow. Now imagine that you are in the room and.
+比如天花板灯，对吧？所以我们看到它呈黄色。现在想象一下，你在这个房间里，而且……
+
+[1:03:24]
+We have the ceiling light that produces.
+我们有产生……的吸顶灯。
+
+[1:03:26]
+就。
+Just.
+
+[1:03:28]
+Light, for example, color like this.
+比如，灯光的颜色是这样的。
+
+[1:03:29]
+这个。
+This.
+
+[1:03:29]
+Whoa.
+哇。
+
+[1:03:30]
+它30了。
+It's 30.
+
+[1:03:32]
+It's not white, but.
+它不是白色的，但是……
+
+[1:03:34]
+看起来它是尖尖的。
+It looks like it's pointed.
+
+[1:03:34]
+Violet.
+紫。
+
+[1:03:35]
+它尖尖的。
+It's sharp.
+
+[1:03:37]
+So the question is, what color.
+所以问题是，是什么颜色。
+
+[1:03:38]
+我觉得这里。
+I think here.
+
+[1:03:39]
+Would you see.
+你会看到吗？
+
+[1:03:40]
+对。
+Yes.
+
+[1:03:41]
+Would you see it as yellow.
+你会把它看成黄色吗？
+
+[1:03:42]
+就是。
+That's right.
+
+[1:03:43]
+Or would you see it as a different color?
+还是你会把它看成另一种颜色？
+
+[1:03:44]
+然后。
+and.
+
+[1:03:45]
+为了工作。
+for work.
+
+[1:03:46]
+Right, yeah, very good.
+对，很好。
+
+[1:03:48]
+这个几乎30了。
+This is almost 30.
+
+[1:03:49]
+Except that maybe.
+不过，也许吧。
+
+[1:03:50]
+它以前在欧美。
+It was in Europe and America before.
+
+[1:03:54]
+In general, all the substances they don't absorb 100% of light.
+一般来说，所有物质都无法100%吸收光。
+
+[1:04:05]
+It's 99.9, maybe. So there is still tiny fraction which would be reflected, so I would say in this mental experiment, so this also looked like.
+可能是99.9%。所以仍然有一小部分会被反射。所以我会说，在这个心理实验中，这也看起来像是……
+
+[1:04:07]
+Nearly black, maybe violet.
+几乎是黑色的，也许是紫色的。
+
+[1:04:11]
+读这个读这个数是，然后它是在。
+Read this, read this number, and then it's in.
+
+[1:04:15]
+这个是 I will talk about soft materials.
+这个是……我会讲软材料。
+
+[1:04:16]
+下大的。
+The big one below.
+
+[1:04:18]
+Polymers, which are typically soluble in solvents.
+通常溶于溶剂的聚合物。
+
+[1:04:20]
+这个是。
+This is.
+
+[1:04:21]
+And when we deal with such materials.
+当我们处理这类材料时。
+
+[1:04:22]
+这个是。
+This is.
+
+[1:04:22]
+It's a very useful.
+它非常有用。
+
+[1:04:24]
+这里以前。
+Here used to be.
+
+[1:04:33]
+UV vis absorption spectroscopy, and in particular Deer-Lambert law. So which allows us to correlate absorption, which is defined as the logarithm of the ratio.
+紫外-可见吸收光谱，尤其是Deer-Lambert定律。因此，它使我们能够关联吸收率，而吸收率被定义为比值的对数。
+
+[1:04:42]
+Incident intensity of incident light, such as. Zooming or what's per square centimeters to the intensity of light that.
+入射光的入射强度，例如，缩放或每平方厘米的量，相对于光的强度。
+
+[1:04:43]
+这个是西班牙活动。
+This is a Spanish activity.
+
+[1:04:53]
+Can go through the cuvette filled with the solution of our substance of interest, it's molar extinction coefficient, concentration.
+穿过装有目标物质溶液的比色皿，样本的摩尔消光系数、浓度。
+
+[1:04:55]
+上下面。
+Top and bottom.
+
+[1:04:59]
+And the optical path. So in other words, the width of the glass cuvette.
+以及光程。换句话说，玻璃比色皿的宽度。
+
+[1:04:59]
+前后。
+front and back.
+
+[1:05:03]
+So in this example, for example, we have some.
+所以在这个例子中，比如说，我们有一些……
+
+[1:05:15]
+Polymer dissolved in the solvent, it doesn't absorb anything up to about 500 nanometers, and then it starts absorbing photons. So therefore, in this spectrum, we will see.
+聚合物溶解在溶剂中，在约500纳米以下不吸收任何光，然后开始吸收光子。因此，在这个光谱中，我们会看到。
+
+[1:05:16]
+你是这么。
+You are so.
+
+[1:05:18]
+We have absorbance.
+我们有吸光度。
+
+[1:05:24]
+它现在。
+It's now.
+
+[1:05:36]
+There are two important questions to light absorption, why different molecules absorb photons of specific wavelengths, and for material scientists, is there any correlation between the chemical structure of a molecule.
+光吸收有两个重要问题：为什么不同的分子会吸收特定波长的光子，以及对材料科学家来说，分子的化学结构之间是否存在任何关联？
+
+[1:05:37]
+我关注它。
+I focus on it.
+
+[1:06:03]
+And the absorption spectrum. So photons that it absorbs. Because if there is a correlation, so then if you want to define or we want to create or synthesize material, which will absorb photons of specific wavelengths, we would know what kind of reactants, what the building blocks we need to choose. So I suggest that we do this mental experiment, which actually I took from a published paper. It considers a series of.
+以及吸收光谱。因此它吸收的光子。因为如果存在这种关联，那么如果我们想要定义或创造或合成能够吸收特定波长光子的材料，我们就会知道需要选择什么样的反应物、哪些构建模块。所以我建议我们做这个思想实验，实际上我是从一篇已发表的论文中得来的。它考察了一系列……
+
+[1:06:04]
+你像有活动。
+You seem to have an activity.
+
+[1:06:08]
+The so-called LIGO type of things. So these molecules, called type of things.
+所谓的 LIGO 类东西。所以这些分子，叫作某种东西。
+
+[1:06:10]
+这里有。
+Here.
+
+[1:07:10]
+It's an aromatic heterocycle contains four carbon atoms, sulfur, and if you measure absorption spectrum of this molecule, in a solvent, so then we will see it doesn't absorb much, up to about 250 nanometers, so then we are sure to say that the solution will look as colorless, transparent. If we put two type in molecules together, covalently bound them, so now we deal with another molecule, so now this molecule has onset of absorption at about 350 nanometers. So what happens here is that onset of absorption shifts more to the visible range and the amplitude increases slightly. And if we continue this series, with molecule composed of three type in rings, four, five, six, and up to seven, so we clearly see shift of onset of absorption up to 500, 20 nanometers, so can you tell me how does this look like?
+这是一种芳香杂环，含有四个碳原子和硫原子。如果在溶剂中测量这种分子的吸收光谱，我们会发现它在约250纳米之前吸收很少，因此可以肯定该溶液看起来是无色透明的。如果我们把两个这类分子放在一起，通过共价键连接，那么现在我们处理的是另一种分子，这个分子的吸收起始波长约为350纳米。这里发生的是吸收起始波长向可见光范围移动，且吸收强度略有增加。如果我们继续这一系列，用三个这类环组成的分子，四个、五个、六个，一直到七个，我们清楚地看到吸收起始波长移到约520纳米，那么你能告诉我这看起来像什么吗？
+
+[1:07:10]
+好。
+Okay.
+
+[1:07:14]
+You don't need to tell me because I put a.
+你不需要告诉我，因为我放了一个……
+
+[1:07:32]
+Schematic illustration on the screen. Yeah, so this will look a bit like orange-ish, right? That correlates with the absorption spectrum. And the absorption will be much stronger compared to these small molecules. So what conclusion can we make from this series?
+屏幕上的示意图。对，所以这看起来会有点橙色，对吧？这与吸收光谱相关。而且与这些小分子相比，吸收会强得多。那么，我们能从这一系列中得出什么结论？
+
+[1:08:31]
+Is that when we increase the size of the conjugation, so this will lead to shift of the onset of absorption more into the visible range. Another conclusion is that absorption is the additive property. So each of these units work as a small light absorber. If we have many of them, so each of them contributes slightly to the total absorption of light, meaning that these molecule made of seven type in rings, is much stronger light absorbers compared to these small molecules. Now to quantify actually from the absorption spectrum, we can make a conclusion about the energy band gap in this series. So how this typically done? We draw a tangent. So why tangent? Because if we consider only the point where absorption starts, so this will be underestimate our energy band gap. On the other hand, if we take a maximum, so this will overestimate our energy band gap, so we'll get a greater value than.
+当我们增大共轭体系的大小时，吸收起始位置会向可见光区移动。另一个结论是，吸收具有加和性。每个单元都相当于一个小的光吸收体。如果有很多这样的单元，每个单元都对总光吸收有微小贡献，这意味着由七个环组成的分子是比这些小分子强得多的光吸收体。现在，为了定量分析，我们可以从吸收光谱中得出关于这一系列能带隙的结论。通常怎么做呢？我们画一条切线。为什么画切线？因为如果我们只考虑吸收开始的点，会低估能带隙；另一方面，如果我们取最大值，则会高估能带隙，得到更大的值。
+
+[1:08:32]
+它。
+It.
+
+[1:08:33]
+So using a tangent.
+所以用一个切线。
+
+[1:08:34]
+它。
+it.
+
+[1:08:49]
+So this is a nice compromise to get the value which is close to reality. So how do we get this value? So we use Planck-Einstein relation, so the energy of the photon required to promote an electron from comon.
+所以，这是一个很好的折衷方案，所得数值接近实际情况。那么我们如何得到这个值呢？所以我们使用普朗克-爱因斯坦关系，即从基态激发一个电子所需的光子能量。
+
+[1:08:49]
+它。
+it.
+
+[1:09:02]
+Or from the valence band maximum conduction band minimum. It's defined by these equations, Planck constant, speed of light and vacuum, and the wavelengths. And there is a very handy rule, so if you take.
+或者从价带最大值到导带最小值。它由这些方程定义，即普朗克常数、真空中的光速，以及波长。还有一个非常方便的规则，所以如果你取……
+
+[1:09:03]
+我还没拿。
+I haven't taken it yet.
+
+[1:09:28]
+All these fundamental constants, you do math, so then you should get 1,140, and then if you use wavelengths of photon and express it in nanometers, in this case will be 515 nanometers, so no need to multiply by 10 to minus 9. So then you can get 2.41 electron volts. So EV, it's a unit of energy.
+把这些基本常数代入计算，应该得到1,140。然后，如果用光子的波长并以纳米为单位表示，在这种情况下是515纳米，所以不需要乘以10的负9次方。这样就可以得到2.41电子伏特。所以，电子伏特是能量的单位。
+
+[1:09:32]
+我先我先我先用WPS搞出来的。
+I made it with WPS first.
+
+[1:09:36]
+要是搞出来以后再。
+If I get it done, I'll do it later.
+
+[1:09:41]
+没有啊我我我给你开个API教你怎么搞就行了。
+No, I, I, I'll just open an API for you and show you how to do it.
+
+[1:10:31]
+So for photochemists, also material scientists, it's much more handy, so then we can get rid of this exponential part. So this means that from absorption spectra, we can put energy band gap in this particular material, or if we treat it as a semiconductor, here, 2.43 EV. So now if we repeat this procedure for this series of LIGO type of things, so we can actually get the values of the energy band gap. So this consistent with the absorption spectrum, clearly this small molecule doesn't absorb much. Photons in the visible range, or actually it doesn't absorb any, so this gives us the energy band gap of about 5 EV, while this one, that absorbs strongly in the visible range, has relatively narrow energy band gap.
+所以对于光化学家，还有材料科学家来说，这样方便多了，这样我们就能去掉这个指数部分。这意味着，从吸收光谱中，我们可以得到这种特定材料的能带隙，或者如果我们把它当作半导体来看，这里是2.43电子伏特。那么现在，如果我们对这一系列LIGO类的东西重复这个过程，我们实际上就能得到能带隙的数值。这与吸收光谱一致，显然这种小分子吸收得不多。可见范围内的光子，或者说实际上它根本不吸收，所以这给了我们大约5电子伏特的能带隙，而这一种在可见范围内强烈吸收的，具有相对较窄的能带隙。
+
+[1:10:41]
+So now another question, why narrower energy band gap in photocatalysis in photocatalysis preferable in some cases?
+那么现在再问一个问题：为什么在某些情况下，光催化中较窄的能带隙更可取？
+
+[1:10:43]
+我。
+I.
+
+[1:11:13]
+Give you one hint. This is the solar emission spectrum, so if you measure how photons, which emitted by sun, distributed based on their wavelengths, so meaning that here we have much more photons in the visible range, there are relatively few photons in the UV range, and basically there is nothing no photon with wavelengths longer than 200 2,500 nanometers. So why in photocatalysis material.
+给你一个提示。这是太阳的发射光谱。如果你测量太阳发出的光子是如何根据其波长分布的，那么这意味着在可见光范围内我们有更多的光子，在紫外范围内光子相对较少，而且基本上没有波长为200到2500纳米的光子。那么，为什么在光催化材料中……
+
+[1:11:17]
+Having narrower energy band gap would be preferable?
+能量带隙更窄会更好吗？
+
+[1:11:26]
+它通过什么通过它的。
+It goes through what, through its.
+
+[1:11:27]
+通过指纹。
+Through fingerprints.
+
+[1:11:30]
+我要用谷歌账号。
+I'll use my Google account.
+
+[1:11:33]
+No, there is no wrong question, just express your opinion.
+不，没有错误的问题，只要表达你的观点即可。
+
+[1:11:44]
+Yeah, I agree with you.
+是的，我同意你的看法。
+
+[1:12:33]
+Yes, so basically there is a larger portion of visible light, so in photocatalysis especially if you want to use solar radiation, which comes for free, right, so there is no bill for using solar light, so if our photocatalyst has relatively narrow energy band gap, so then we can potentially use photons at 700 nanometers maybe even with a longer wavelength, so we can make the best use of solar radiation from this standpoint, narrower band gap would be beneficial. So how can we tune the energy band gap apart from increasing the size of conjugation as we did this in this series? So the more conjugated system, so the more double bonds we have, so the narrower band gap. What other other approaches here?
+是的，所以基本上可见光占很大比例。在光催化领域，尤其是如果你想利用太阳能，而太阳能是免费的，对吧，因此使用太阳能不会产生费用。所以，如果我们的光催化剂具有相对窄的能带隙，那么我们就可以利用700纳米左右的光子，甚至可能使用波长更长的光子，这样从这个角度来看，就能最大限度地利用太阳能。窄的能带隙会更有利。那么，除了像我们这一系列中所做的那样增加共轭长度之外，我们还能如何调整能带隙呢？所以共轭体系越多，也就是双键越多，带隙就越窄。这里还有哪些其他方法？
+
+[1:13:25]
+So one of the most common is building the so-called donor acceptor systems. So an example of donor acceptor system, so I took these two molecules, so this one is clearly is made of exactly the same repeating units, exactly the same monomers, so thiophene, so three of them, and this molecule has an energy band gap of about 3 EV. Now if I replace one of these thiophene, the middle one, with this molecule, which now is called an acceptor, and keep these two the same thiophenes, and then I measure absorption spectrum, so then I will get the value of 2.41 EV, which is very similar to energy band gap of this much larger molecule. So now my donor acceptor system is much more compact, but its energy band gap comparable to much larger molecule composed of thiophenes only.
+最常见的构建方式之一是所谓的给体-受体体系。以给体-受体体系为例，我选取了这两个分子——这个分子显然完全由相同的重复单元，也就是完全相同的单体构成，即三个噻吩单元，其能带隙约为3电子伏特。现在，如果我将中间的那个噻吩替换为这个被称为受体的分子，并保留另外两个噻吩不变，然后测量吸收光谱，得到的数值将是2.41电子伏特，这与这个大得多的分子的能带隙非常接近。因此，我的给体-受体体系更加紧凑，但其能带隙与仅由噻吩构成的更大分子相当。
+
+[1:13:30]
+So the concept of donor acceptors is extremely powerful.
+所以，给体受体的概念极其强大。
+
+[1:14:07]
+It is applied not only to molecules, but linear polymers, such as this one, so if we have thiophene, then this fragment, then another thiophene, and then this series continues repeating, so this n can be 10 or 100 or 1,000, so this is an example of 1D materials, so the polymers, linear, 2D materials, such as covalent triazine frameworks, so triazine stands for particularly this acceptor fragment, so triazine, so.
+它不仅适用于分子，也适用于线性聚合物，比如这一个，如果我们有噻吩，然后是这一片段，再是另一个噻吩，然后这一系列继续重复，所以这个n可以是10、100或1000，这就是一维材料的一个例子，即线性、二维材料，比如共价三嗪骨架，所以三嗪特别指的是这一受体片段，所以三嗪，所以。
+
+[1:14:12]
+It's like a hexagons, which are fused together, so you can imagine there are they form a 2D structure.
+就像六边形彼此融合在一起，所以你可以想象它们形成了一种二维结构。
+
+[1:14:26]
+And also to 3D materials, such as this one, so we have donor acceptor and L stands for linker, so basically this L used to connect donor and acceptor together.
+还有三维材料，比如这个。这里，D代表供体，A代表受体，L代表连接体。基本上，这个L用于连接供体和受体。
+
+[1:14:40]
+So if you understand the principles behind building donor acceptor systems for relatively small one-dimensional materials, so they also applicable to 2D to 2D and 3D systems.
+所以，如果你理解构建相对较小的一维材料的供体受体体系的原理，那么它也适用于二维到二维以及三维体系。
+
+[1:15:09]
+So what are general guidelines for choosing or designing donors and acceptors? Or if I say give you a series of small molecules which you can use to build materials based on them, so how you can classify them to conclude if, okay, this molecule is a donor, this one is acceptor. So why they're called first of all they're called donor acceptor, what they donate, what do they accept. They accept electron density.
+那么，选择或设计给体和受体时，一般有哪些指导原则？或者，如果我给你一系列小分子，你可以利用它们来构建材料，那么如何对它们进行分类，从而判断，嗯，这个分子是给体，这个是受体。所以，它们之所以叫作给体受体，是因为它们提供什么，又接受什么。它们接受电子密度。
+
+[1:15:28]
+So the fragments which are considered as donors are electron rich, so they can supply electron density to a material. So usually they contain electron donating groups, such as this one, typical, which feature 1.
+因此，被视为供体的片段是富电子的，因此它们可以向材料提供电子密度。所以它们通常包含供电子基团，例如这个典型的，其特征为1。
+
+[1:15:46]
+Pair of electrons on this sp3 hybridized atom of hedgerow elements. So in general all the atoms, they can be sp3, sp2, and sp hybridized. So sp3 hybridization means that atom which is placed inside this pyramid.
+在这些sp3杂化的杂原子上的电子对。一般来说，所有原子都可以是sp3、sp2和sp杂化。所以，sp3杂化意味着原子位于这个四面体内部。
+
+[1:16:38]
+So it's a carbon-nitrogen and oxygen so it has will have this tetrahedral configuration. So this fragments usually they contain less electronegative elements, such as sulfur, selenium, so in general in periodic table electronegativity in decreases from top to bottom, so if we consider halogenes, so fluorine will be the most electronegative element. So under fluorine we have chlorine, bromine, iodine. So iodine in this series will be the least electronegative element. And also electronegativity increases from left to right. So alkaline metals, lithium, sodium, potassium, so they have relatively low electronegativity. And when you move from left to right through nitrogen.
+因此，它由碳、氮和氧组成，所以会具有这种四面体构型。这些片段通常含有电负性较低的元素，例如硫、硒。一般来说，在元素周期表中，电负性从上到下递减。如果我们考虑卤素，氟将是电负性最强的元素。氟下面依次是氯、溴、碘。因此，在这一系列中，碘是电负性最弱的元素。而且，电负性从左到右递增。碱金属如锂、钠、钾，它们的电负性相对较低。当你从左向右移动经过氮时。
+
+[1:16:44]
+Oxygen, fluorine, so these three the most electronegative. So fluorine will be the most electronegative element.
+氧、氟，所以这三种是电负性最强的。所以氟是电负性最强的元素。
+
+[1:16:55]
+These are some examples which are used as a building units. So this dashed lines, they represent where typically another acceptor unit is connected.
+这些是一些用作构建单元的例子。所以这些虚线通常表示另一个受体单元连接的位置。
+
+[1:18:27]
+How about acceptors of electron density? So they feature electron withdrawing groups, such as nitrile, carbonyl, carboxyl, carboxamide, and so on. So featuring sp2 hybridized nitrogen and oxygen atoms. So n and O, they're quite electronegative, especially if these molecule contain fluorine atoms, the most electronegative element, so it pulls the electron density, so this makes these fragments are electron deficient. So why donor acceptor systems? Why in this systems when we combine donor and acceptor together, why this leads to narrowing the energy band gap. So from lecture one you might remember that when atoms come together, so they form molecular orbitals, highest occupied or bonding molecular orbitals and non-bonding. So this can happen only when symmetry and energy of individual atomic orbitals are comparable. So now if we take two molecular fragments, and link them together, so the same phenomenon takes place, so only energy in this case molecular orbitals energies of molecular orbitals that have similar energy can overlap effectively, meaning that LUMO of the donor can interact with LUMO of the acceptor. And when they do, they form two energy states.
+那么电子密度的受体呢？它们具有吸电子基团，如腈基、羰基、羧基、酰胺基等。它们具有sp2杂化的氮原子和氧原子。所以氮和氧电负性很强，尤其是当这些分子含有氟原子时，氟是电负性最强的元素，会拉走电子密度，从而使这些片段缺电子。那么为什么用供体-受体体系呢？为什么在这种体系中，当我们把供体和受体结合在一起时，会导致能带隙变窄呢？从第一讲你们可能记得，当原子结合在一起时，它们形成分子轨道，即最高占据或成键分子轨道和非键轨道。这只有在单个原子轨道的对称性和能量相当时才会发生。现在如果我们取两个分子片段并把它们连接起来，同样的现象也会发生，只是这种情况下只有能量相近的分子轨道才能有效重叠，也就是说供体的LUMO可以与受体的LUMO相互作用。当它们相互作用时，形成两个能态。
+
+[1:18:44]
+And the same happens with occupied molecular orbitals. So when donor acceptor pair is created, so it gives two energy states, one with lower energy compared to each of these and one with higher compared to each of these. And now if we put.
+占据的分子轨道也是如此。所以当形成给体-受体对时，会产生两个能态，一个能量低于这两者中的每一个，另一个能量高于这两者中的每一个。现在如果我们放上。
+
+[1:19:28]
+Now so HOMO typically holds two electrons, this HOMO also holds two electrons. If we put now place four electrons in this occupied molecular orbitals, so then this will be our HOMO, this will be our LUMO in the donor acceptor system, and the energy gap will be narrower. To conclude this part, keep in mind this very simple molecule of carotene, it contains in carrot carrot looks orange. This molecule contains 11 double bonds, so increasing conjugation of. System typically shifts onset of absorption more into the visible range this means the energy band gap narrows. In.
+那么，HOMO通常容纳两个电子，这个HOMO也容纳两个电子。如果我们现在把四个电子放入这些占据的分子轨道中，那么这将是我们供体-受体体系中的HOMO，这是LUMO，并且能隙将更窄。总结这一部分，请记住这个非常简单的胡萝卜素分子，它存在于胡萝卜中，胡萝卜看起来是橙色的。该分子含有11个双键，因此增加共轭。体系通常会将吸收起始点移向可见光范围更多，这意味着能带隙变窄。在。
+
+[1:19:38]
+Of in a sequential order, electron donor and electron acceptor. So this is another common approach to narrow the energy band gap in the materials.
+按照顺序，依次为电子给体和电子受体。因此，这是另一种在材料中缩小能带隙的常用方法。
+
+[1:20:00]
+So the second step when our molecule absorbed a light absorbed a photon, so what happens it's formation of exciton which then undergoes separation. So we form electrons and hole which are used as a particle to execute useful redox reactions.
+因此，第二步是当我们的分子吸收光、吸收一个光子时，会发生什么？形成激子，然后激子发生分离。这样我们就形成电子和空穴，它们被用作执行有用氧化还原反应的粒子。
+
+[1:20:23]
+In molecules and materials, valence band or HOMO, highest occupied molecular orbitals, are localized on electron rich molecular fragment while conduction band or LUMO sits on electron deficient molecular fragment. So I found this molecule which nicely illustrates this concept and.
+在分子和材料中，价带或HOMO（最高占据分子轨道）位于富电子分子片段上，而导带或LUMO位于缺电子分子片段上。我找到了一个能很好说明这一概念的分子，而且……
+
+[1:20:48]
+So it's composed of two parts, this one it's quite electron deficient, mainly because of presence of this sp2 hybridized nitrogen atoms, so this is one of the requirement or general observations in electron acceptor. So that molecule looks quite similar to this one, inoxidine. Fragment.
+它由两个部分组成，这个部分相当缺电子，主要是由于存在这些sp2杂化氮原子，所以这是电子受体的一个要求或一般观察结果。因此，那个分子看起来与吲哚嗪片段非常相似。
+
+[1:21:03]
+And here we have this fragment that contains nitrogen and the one pair, so this is typical for electron donors, such as this compound like aniline or similar.
+这里这个片段含有氮原子和一个孤对电子，所以它通常属于电子给体，比如苯胺之类的化合物。
+
+[1:21:08]
+And in fact quantum chemical calculations support.
+事实上，量子化学计算也支持这一点。
+
+[1:21:24]
+This very general conclusion, so indeed LUMO is localized on this fragment, so on the electron deficient electron deficient LUMO. And HOMO sits on the electron rich fragment.
+这是一个非常普遍的结论，所以LUMO确实定域在这个片段上，也就是缺电子的LUMO。而HOMO位于富电子的片段上。
+
+[1:21:24]
+Here.
+这里。
+
+[1:21:35]
+So here you can see the illustration of HOMO and LUMO, how they look like in space, how they are.
+所以在这里你可以看到HOMO和LUMO的示意图，它们在空间上的样子，以及它们的样子。
+
+[1:21:38]
+Overlap with the geometry of these molecule.
+与这些分子的几何结构重叠。
+
+[1:21:40]
+So clear splitting between HOMO and LUMO.
+因此，HOMO 和 LUMO 之间有明显的分离。
+
+[1:22:32]
+So let's use this molecule as our model to illustrate what happens when it absorbs a photon. So for absorbs a photon, forms an exciton, so schematically I would draw it like this, so it's mirrored over the whole molecule. So separation of pole electron pair means that now this pole and electron can overcome electrostatic attraction and they move to opposite parts of the molecule. So now because these one is electron deficient, because of presence of these sp2 hybridized nitrogen atoms, so they can stabilize effectively this extra electron on this fragment. While the hole which is nothing else but missing electron positively charged species can be stabilized by this electron rich fragment.
+那么，我们以这个分子为例，说明它吸收光子时会发生什么。当它吸收一个光子并形成一个激子时，我会把它示意性地画成这样，即在整个分子上镜像。孤对电子的分离意味着，现在这个孤对和电子可以克服静电吸引力，分别移动到分子的相反两端。由于这些部分缺电子，因为存在这些sp²杂化氮原子，因此它们可以有效地稳定这个片段上的额外电子。而空穴，也就是带正电荷的缺电子物种，可以被这个富电子的片段稳定住。
+
+[1:22:53]
+To make the whole process effective and afterwards use electron and hole, so we must suppress the combination of hole and electron pairs. So we can do this by changing somehow our molecule.
+为了使整个过程有效，并在之后利用电子和空穴，我们必须抑制空穴和电子对的结合。因此，我们可以通过某种方式改变分子来实现这一点。
+
+[1:22:56]
+To suppress this counterproductive process.
+抑制这种反常过程。
+
+[1:23:29]
+So first of all, in order to move to what are the methods to suppress this counterproductive recombination. So what are the methods which are used to quantify how efficient exciton separation into electron hole pair. There is a very handy feature of many molecules, materials, so if a semiconductor shows high photoluminescence, we can use temperature dependent photoluminescence measurements to quantify the efficacy of exciton.
+那么首先，为了了解抑制这种反向复合的方法，我们先来看看。那么，有哪些方法可以用来量化激子分离成电子-空穴对的效率呢？许多分子和材料都具有一种非常方便的特性。因此，如果一种半导体表现出高光致发光，我们就可以利用温度依赖的光致发光测量来量化激子的效率。
+
+[1:24:06]
+Splitting into electron hole pair and their recombination with emission of light. So in general luminescence the term means that emission of light. So depending what is the energy input, the triggers this light emission, so we distinguish between photoluminescence, meaning that energy comes with light, so the molecule material absorbs. Photon and after that it reemits photon. It can be cami luminescence when energy comes from the energy of a chemical reaction. Can be bioluminescence for example, electroluminescence,
+分裂成电子-空穴对，并通过发射光进行复合。一般来说，发光这个术语指的是光的发射。因此，根据能量输入的方式，我们区分光致发光，即能量来自光，分子材料吸收光子，然后重新发射光子。也可以是化学发光，当能量来自化学反应的能量时；可以是生物发光，例如，电致发光，
+
+[1:24:13]
+tribal luminescence because of friction, so this process can also emit light. Typical.
+摩擦发光，因为摩擦，所以这个过程也能发光。典型。
+
+[1:24:18]
+Every molecule material which.
+每种分子材料，这……
+
+[1:24:22]
+Is used in photocatalysis as well as different light.
+也用于光催化，以及不同的光。
+
+[1:24:50]
+Energy conversion applications, it's characterized by the so-called Yablonsky diagram. So here you can see different energy levels. So they do not represent molecular orbitals, but rather relative energies of the ground state, so as zero for example it represents this molecule. So the ground state of the photocatalyst or a molecule which is used in.
+在能量转换应用中，它的特点是所谓的雅布隆斯基图。所以在这里你可以看到不同的能级。所以，它们并不代表分子轨道，而是代表基态的相对能量，例如零代表这个分子。所以，光催化剂或用于……的分子的基态是……
+
+[1:24:58]
+This process. So as one represents the electronically excited state. For example, this one.
+这个过程。所以，1代表电子激发态。例如，这个。
+
+[1:26:01]
+So it needs some light input, energy input in order to move the molecule from this lower energy state to higher energy state. And when this molecule reached this energy state, so there are several possibilities. It will not stay there forever as I said the lifetime of the excited state is in the range of hundreds of picoseconds typically up to microseconds. So it must return somehow to the ground state. It's like a ball which is lifted above the ground, it will not stay there forever, as long as released it will fall on the ground. So there are several possibilities. So this one FL stands for fluorescence, so the molecule returns to the ground state with the emission of light. It can also return to the ground state without emission of light but emitting heat for example, or molecular vibrations. And there might be some more complex situation but in this lecture I will not tell about this intersystem crossing. And this will not be in your quiz.
+所以，它需要一些光输入，即能量输入，才能使分子从较低能态移动到较高能态。当分子达到这个能态时，有几种可能性。正如我所说，它不会永远停留在那里——激发态的寿命通常在几百皮秒到几微秒的范围内。所以它必须以某种方式回到基态。这就像被举到地面以上的球，不会永远停留在那里；只要释放，它就会落到地面。所以有几种可能性。那么，这个FL代表荧光，即分子通过发射光返回基态。它也可以在不发射光的情况下返回基态，例如通过发射热量或分子振动。可能还有一些更复杂的情况，但在这节课中，我不会讲这个系间窜越。这也不会出现在你们的测验中。
+
+[1:26:39]
+So how do we see fluorescence? It's a pretty spectacular when molecule material polymer dissolved in the solvent and the excited with UV light. So then it can emit red, green, yellow, and other colors. It doesn't need to be in the solution. So many materials in the solid state films so they also emit light. So this is how material look like under ambient light when we shine UV light, so then it turns blue. So here color comes not from the absorption but because of the well technically because of absorption but also because of reemission of light. Because of fluorescence.
+那么我们是如何看到荧光的呢？当分子材料、聚合物溶解在溶剂中并被紫外光激发时，这是一个相当壮观的景象。因此它可以发出红色、绿色、黄色以及其他颜色。它不需要处于溶液中。许多固态薄膜材料也会发光。这就是材料在环境光下和照射紫外光时的样子，然后它会变成蓝色。所以这里的颜色不是来自吸收，而是因为——严格来说是因为吸收，但也因为光的再发射。因为荧光。
+
+[1:27:30]
+Usually fluorescence intensity depends on temperature and typically it's stronger at lower temperature. Such as minus 190 degrees Celsius and weaker at higher temperature. So for example it means that if you take some sample and this is how it looks like at ambient temperature 25 degrees Celsius and if you cool it to minus 190 so then it will look much, much brighter. And the schematic illustration of how the emission spectrum would look like so this at relatively low temperature, high fluorescence, and this how it will schematically look like at higher temperature. So weaker luminescence. So why is it so?
+通常，荧光强度取决于温度，而且通常在较低温度下更强，例如零下190摄氏度；在较高温度下则更弱。例如，这意味着，如果你取一些样品，它在室温25摄氏度时是这样的；如果你将其冷却到零下190度，它就会亮得多得多。这是发射光谱会是什么样子的示意图——这是相对较低温度下的情况，荧光较强；这是较高温度下的示意图，发光较弱。那么，为什么会这样呢？
+
+[1:27:41]
+So when temperature increases thermal energy which is defined by the product of Boltzmann constant kV times temperature a.
+所以，当温度升高时，热能由玻尔兹曼常数 k 和温度 T 的乘积定义。
+
+[1:27:48]
+Can overcome at some point Colombic interaction holding electron and hole pairs together.
+在某个临界点，库仑相互作用能够被克服，从而使电子和空穴对得以分离。
+
+[1:27:57]
+Yeah so the hole and electrons which exist in exciton so they will split into electrons and holes.
+是的，所以激子中的空穴和电子会分裂成电子和空穴。
+
+[1:28:35]
+So this causes the exciton to dissociate into a free non-radiatively recombining charge carriers meaning that when electron and hole the oppositely charged so they can recombine together and when this recombination happens no light is emitted but energy is released in form of heat. So heat can be considered as infrared radiation. So it's still electromagnetic radiation but with wavelengths much longer compared to that of visible light. So then we don't detect light.
+因此，这会导致激子解离为自由的、非辐射复合的载流子，这意味着当电子和空穴带有相反电荷时，它们可以重新复合在一起，而当这种复合发生时，不会发出光，而是以热的形式释放能量。因此，热量可以被视为红外辐射。因此，它仍然是电磁辐射，但波长比可见光的波长长得多。因此，我们就无法探测到光。
+
+[1:28:42]
+Emission with our eyes but there might be some this energy released in the form of heat.
+用我们的眼睛发射，但释放的能量可能有一部分以热的形式存在。
+
+[1:29:37]
+Instead of visible light. So visible light so when temperature is relatively low so this whole electrons they recombine emitting photons between 400, 700 nanometers. So the relationship between integrated fluorescence intensity so this I0 in temperature is modeled using this modified Arrhenius equation. So you don't need to memorize it. I'll give you a hint so you will not have this equation in your quiz. Yeah this is just for your general education. So Arrhenius equation it's used in chemistry to characterize chemical reactions. So there is a very important parameter in Arrhenius equation called activation energy. So in this modified equation we use a slightly different parameter which is not called the activation energy but exciton binding energy. But the concept idea is the same.
+而不是可见光。所以是可见光。所以当温度相对较低时，所有这些电子会复合并发射波长在400至700纳米之间的光子。因此，积分荧光强度与温度之间的关系，也就是这个I₀，是用这个修正的阿伦尼乌斯方程来模拟的。所以你不需要记住它。我给你一个提示，这样你的测验中就不会有这个方程了。是的，这只是为了你的通识教育。所以阿伦尼乌斯方程在化学中用来表征化学反应。所以在阿伦尼乌斯方程中有一个非常重要的参数，叫做活化能。所以在这个修正方程中，我们使用了一个略有不同的参数，它不叫活化能，而是激子结合能。但概念思想是一样的。
+
+[1:29:56]
+So it's an energy which is required by excitons of all electron pairs to overcome in order to split into free charge carriers, electrons and holes. So the greater this eV value so the more difficult for the exciton to split into a free diffusing.
+所以，这是所有电子对的激子需要克服的能量，以便分裂成自由载流子，即电子和空穴。所以这个 eV 值越大，激子就越难分裂成自由扩散的……
+
+[1:30:15]
+Electron and hole. So the same is applicable to chemical reactions. So the higher activation energy so the higher temperature we need to turn on that reaction. So the lower activation energy the lower exciton binding energy the easier for exciton to split into electrons and holes.
+电子和空穴。同样的道理也适用于化学反应。所以活化能越高，我们就需要越高的温度来启动该反应。所以，活化能越低，激子结合能越低，激子就越容易分裂成电子和空穴。
+
+[1:30:31]
+As often happens in natural sciences we don't like dealing with these very complex non-linear dependencies. We try to convert that into something that look nicer. So this is done by applying.
+正如自然科学中经常发生的那样，我们不喜欢处理这些非常复杂的非线性依赖关系。我们试着把它转换成看起来更漂亮的形式。这是通过应用来实现的。
+
+[1:30:56]
+The logarithm to the left and right part and some typical algebraic transformations. Basically you can convert this complex and not very much appealing equation into this one. And then if you plot this versus this so then we can have a straight line. So now we have this offset value and the slope will be nothing else but the exciton binding energy in this case.
+对左右两边取对数，以及一些典型的代数变换。基本上，你可以把这个复杂且不太吸引人的方程转换成这个。然后，如果你把这个对那个作图，就可以得到一条直线。所以我们有了这个偏移值，斜率在这里就是激子结合能。
+
+[1:31:01]
+So what are the typical exciton binding energy values?
+那么，典型的激子结合能值是多少？
+
+[1:31:59]
+They range from hundreds of milli-electron volts to tens of milli-electron volts. So is this a lot? Well if you take temperature to 198 Kelvin so the same temperature in this room so this will give us the so-called thermal excitation. So basically every material molecule that exists in this room it receives a portion of energy from the environment because we are not at absolute zero but at nearly 300 Kelvin which is equal to 26 milli-electron volts. Meaning that if in some material the exciton binding energy is similar to this value means that the excitons can split nearly without a barrier into a free diffusing electrons and hole pairs. So example how this value can be modulated by changing a chemical structure is this one.
+它们的范围从几百毫电子伏到几十毫电子伏。那么这个值大吗？嗯，如果把温度设为198开尔文，也就是这个房间的温度，那么这将给出所谓的热激发。基本上，这个房间里存在的每种材料分子都会从环境中获得一部分能量，因为我们不在绝对零度，而是接近300开尔文，即26毫电子伏。这意味着如果某种材料中的激子结合能与这个值相近，那么激子几乎可以无阻碍地分裂成自由扩散的电子和空穴对。例如，这个值如何通过改变化学结构来调节，就是这样一个例子。
+
+[1:32:06]
+Can somebody tell me where is the donor where is acceptor?
+有人能告诉我，给体在哪里，受体在哪里吗？
+
+[1:32:11]
+So acceptor is it red or blue?
+所以受体是红色的还是蓝色的？
+
+[1:32:12]
+Blue.
+蓝色。
+
+[1:32:13]
+Yeah the blue.
+对，蓝色的。
+
+[1:32:15]
+Blue.
+蓝色。
+
+[1:32:16]
+Acceptor for the blue.
+蓝色的受体。
+
+[1:32:17]
+Do you say it louder?
+你说得 louder 吗？
+
+[1:32:21]
+Blue donor.
+蓝色供体。
+
+[1:32:21]
+Blue.
+蓝色。
+
+[1:32:26]
+Okay let's vote. Who thinks that blue is donor?
+好的，我们来投票。谁认为蓝色是供体？
+
+[1:32:27]
+Yeah.
+对。
+
+[1:32:29]
+Who thinks that blue is acceptor?
+谁认为蓝色是受体？
+
+[1:32:30]
+Ever.
+曾经。
+
+[1:32:32]
+Yeah too sure.
+也是，很确定。
+
+[1:32:33]
+Blue too sure.
+蓝色，也确定。
+
+[1:32:35]
+It's more people who think that blue is sure.
+更多人认为蓝色是确定的。
+
+[1:32:36]
+Too sure.
+太确定了。
+
+[1:32:37]
+Blue too sure.
+蓝色也太确定了。
+
+[1:32:45]
+So blue is acceptor. Why is it so? Because it contains many sp2 hybridized nitrogen atoms. Actually seven of them.
+所以蓝色是受体。为什么会这样？因为它含有许多sp2杂化氮原子。其实有七个。
+
+[1:33:00]
+So if you look again on these summary so this for donors here for acceptors. So that blue part looks it contains many of these nitrogen atoms which are in this type of configuration.
+所以，如果你再看一下这些总结，这里是供体，这里是受体。所以蓝色部分看起来包含许多这种构型的氮原子。
+
+[1:33:05]
+So very similar to this one. This one. This one.
+所以和这个非常相似。这个。这个。
+
+[1:33:07]
+So the blue is the acceptor.
+所以蓝色的是受体。
+
+[1:33:28]
+So sometimes it's difficult to clearly conclude which one is donor which is acceptor. So then you always need to it's relative. So if some part of the molecule looks very much electron deficient so this must be acceptor. The rest which doesn't look very much electron rich must be donor then.
+所以有时很难明确判断哪一个是供体，哪一个是受体。所以你总是需要——这是相对的。所以，如果分子的某个部分看起来非常缺电子，那么它就一定是受体。其余看起来不太富电子的部分，则一定是供体。
+
+[1:33:37]
+On the other hand if something that looks very much electron rich like a lot of thiophenes yeah like this.
+另一方面，如果某个部分看起来非常富电子，比如很多噻吩，对吧，像这样。
+
+[1:33:49]
+Thiophene this fragments so this must be electron donor. And the rest must be electron acceptor.
+噻吩这个片段，所以它一定是电子给体。其余部分必须是电子受体。
+
+[1:34:30]
+So it's not absolute but relative. So you always need to look at the how the relationships between them. So going back to the system. So the difference between them is the lengths of these donor fragments. And it was found that by increasing the lengths of these donors so exciton binding energy can decrease nearly four times. Meaning that in this system having relatively large donor fragments excitons can split nearly without any barrier any difficulties at room temperature. Which in fact had very positive impact on performance of these material in photocatalysis.
+所以不是绝对的，而是相对的。所以你总是需要看看它们之间的关系。所以，回到这个体系。所以，它们之间的区别在于这些供电子基团的长度。人们发现，通过增加这些供体的长度，激子的结合能可以降低近四倍。这意味着，在这个体系中，具有相对较大的供体片段的激子几乎可以在室温下毫无障碍、毫无困难地分离。这实际上对这些材料在光催化中的性能产生了非常积极的影响。
+
+[1:34:48]
+Okay let's do a break another 10 minutes.
+好的，我们再休息10分钟。
+
+[1:44:44]
+Yep.
+对。
+
+[1:45:03]
+So using these examples as one of many, available in literature, let's see—or summarize—what are the general guidelines for lowering the excitant binding energy, because this is—this would be very much useful for photocatalysis.
+那么，以这些例子作为文献中众多可供参考的例子之一，让我们来看看——或者总结一下——降低激发剂结合能的一般指导原则，因为这——这在光催化领域会非常有用。
+
+[1:45:33]
+So extending the size of conjugated system: we saw that, first of all, this is useful to narrow the energy band gap, right, to shift absorption more into the visible range of the spectrum, but this also has a positive impact on lowering the excitant binding energy. Like here, we increased the lengths of the donor unit, and this led to a decrease of the excitant binding energy.
+扩大共轭体系的大小：我们看到，首先，这有助于缩小能带隙，对吧，从而将吸收更多地移至光谱的可见光范围内，但这也对降低激发剂的结合能有积极作用。比如这里，我们增加了供体单元的长度，从而降低了激发剂的结合能。
+
+[1:45:46]
+So why is it so? This allows the photogenerated electron and hole to physically move further apart, along the backbone. So this increases the excitant radius.
+那么，为什么会这样呢？这使得光生电子和空穴沿着骨架物理上分得更远。因此，这增大了激子半径。
+
+[1:46:25]
+As a result, we reduce mutual coulombic attraction. And this is one of the greatest advantages of materials or polymers compared to small molecules, because you can imagine that if somebody uses this molecule as a photocatalyst—so there is physically no way how this photogenerated hole and electron can move away longer than about 1 nanometer—so they remain confined on a single molecule. So in materials, in principle, when we're dealing with conjugated systems, such as.
+因此，我们降低了它们之间的库仑相互作用。这是材料或聚合物相对于小分子的最大优势之一，因为你可以想象，如果有人用这种分子作为光催化剂——那么光生空穴和电子在物理上不可能移动超过大约1纳米——所以它们仍局限于单个分子上。所以在材料中，原则上，当我们处理共轭体系时，比如……
+
+[1:46:34]
+This one, it does not end like this. So there is another ring attached here, and there, so the conjugation—
+这个不是这样结束的。所以这里还接着另一个环，那里也有，所以共轭——
+
+[1:46:35]
+A bit more, a little bit.
+再多一点，再多一点。
+
+[1:46:36]
+—is much, much larger.
+——大得多，大得多。
+
+[1:46:37]
+Hold on, yeah.
+等一下，对。
+
+[1:46:45]
+So this means that the photogenerated hole and electron, in principle, they have a possibility to migrate much, much farther from each other.
+所以这意味着，光生空穴和电子原则上有可能彼此迁移得远得多。
+
+[1:46:53]
+And this is to the question: what are the fundamental differences between materials and molecules?
+这就引出了一个问题：材料和分子之间有哪些根本差异？
+
+[1:47:27]
+The second common approach is constructing also donor-acceptor fragments. So again, we saw that bridging or linking covalently donor and acceptor can narrow the energy band gap, but it is also allows opens a path for electron and hole separation, because donors are electron-rich, acceptors are electron-poor, so light absorption promotes an electron from donor to acceptor, and this allows the.
+第二种常见方法也是构建供体-受体片段。我们再次看到，通过共价桥接或连接供体和受体可以缩小能带隙，但也为电子和空穴分离开辟了路径，因为供体富电子，受体贫电子，所以光吸收会将电子从供体转移到受体，从而……
+
+[1:47:36]
+Electron-rich part of the fragment, of the molecule of material, a stabilizes the hole, and the electron deficient part stabilizes—
+材料分子中富电子的部分稳定空穴，而缺电子的部分则稳定——
+
+[1:47:36]
+The ps.
+Ps。
+
+[1:47:37]
+—the electron.
+电子。
+
+[1:47:42]
+And this favors their splitting, helps to our count the coulombic attraction.
+这有利于它们的分裂，并有助于我们计算库仑吸引力。
+
+[1:48:13]
+So the last part related to photoredux catalytic mechanism, actual redox reaction. So the story would be incomplete without giving you some insights about how to choose reactants and what general considerations. Can we make any conclusion if knowing some spectroscopic data about certain material? If this particular material will be good photocatalyst for that particular reaction.
+所以最后一部分涉及光还原催化机制，即实际的氧化还原反应。因此，如果不向你们介绍如何选择反应物以及一般的考虑因素，这个故事就不完整。如果我们了解某种材料的一些光谱数据，我们能得出任何结论吗？这种特定材料是否会成为该特定反应的良好光催化剂。
+
+[1:49:10]
+So again, let's look at the general photocatalytic mechanism: light absorption creates exciton, then it undergoes separation to form free hole and electron. Now let's say we're dealing with a molecule that can effectively suppress recombination of hole and electron, and allows their effective splitting. Into free charges. So now we have one reactant, which is oxidized, so it injects an electron and quenches this hole. So this forms this type of intermediate, which holds an extra electron, which can be used to reduce another reactant, like in the example at the beginning, it was conversion of ethanol into acetaldehyde and hydrogen. So oxidation of ethanol could take place at this step, and reduction of proton at this step. Why this electrons?
+那么，我们再来看一下光催化的一般机理：光吸收产生激子，然后激子发生分离，形成空穴和电子。现在假设我们处理的是能够有效抑制空穴和电子复合、并使它们有效分裂的分子。成为自由电荷。现在有一个反应物被氧化，因此它会注入一个电子并淬灭这个空穴。它形成这种含有额外电子的中间体，可以用来还原另一种反应物。就像开头的例子中，乙醇转化为乙醛和氢气。因此，乙醇在此步骤可被氧化，质子在此步骤可被还原。为什么是这些电子？
+
+[1:49:22]
+So there are two questions to address: can a photocatalyst electronically excited state drive any reduction and any oxidation reaction?
+因此，有两个问题需要解决：光催化剂的电子激发态能否驱动任何还原反应和任何氧化反应？
+
+[1:49:50]
+If not, then what are the thermodynamic criteria for the reduction and oxidation reactions to be spontaneous? So spontaneous meaning that we have a reaction that not only exists on the paper as a purely theoretical concept, but actually happens. When the photocatalyst electronically excited state can really oxidize one reactant and really reduce another one. So what are these thermodynamic criteria?
+如果没有，那么还原反应和氧化反应自发进行的热力学判据是什么？自发性意味着，我们有一个反应，它不仅存在于纸上作为纯粹的理论概念，而且实际上会发生。当光催化剂的电子激发态能够真正氧化一种反应物，并真正还原另一种反应物时。那么，这些热力学判据是什么？
+
+[1:50:16]
+So let's look at the general so-called photoinduced electron transfer. So very central concept in photocatalysis materials science. So it's an electron transfer induced by photon absorption. So it's a—this diagram that you will see now—this is a bit different perspective on these and these steps here.
+那么，我们来看一下所谓的光诱导电子转移。这是光催化材料科学中非常核心的概念。所以，这是由光子吸收引起的电子转移。所以，这就是——你们现在会看到的这张图——从这个角度来看，这里这些和这些步骤有点不同。
+
+[1:50:16]
+Well, mainly this one.
+嗯，主要是这个。
+
+[1:51:13]
+So we can present it in a bit different way. Instead of using chemical structures, we can write an energy of highest occupied molecular orbital in the photocatalyst, lowest unoccupied, or valence band conduction band. So if we intend to remove an electron from one reactant, so in other words, we want to oxidize it, create the so-called radical cation, in this case it's impossible because every molecular orbital can hold up to two electrons, and now these molecular orbital is occupied. So we cannot add a third electron. So quantum chemistry prohibits this. So the only possibility of this electron moves there, but this is not possible because the electron in such a case would need to move to higher energy state. So it's like this laser pointer on the.
+所以我们可以用稍微不同的方式来展示它。与其使用化学结构，我们可以写出光催化剂中最高占据分子轨道的能量、最低未占据轨道，或者价带、导带的能量。所以，如果我们打算从一个反应物中移除一个电子，也就是说，我们想将其氧化，生成所谓的自由基阳离子，在这种情况下这是不可能的，因为每个分子轨道最多可以容纳两个电子，而现在这些分子轨道是被占据的。所以我们不能添加第三个电子。所以量子化学禁止这种情况。所以电子唯一可能的去处是那里，但这不可能，因为在这种情况下，电子需要移动到更高能态。就像这个激光笔指在……上。
+
+[1:51:17]
+Desk, it will stay there on the desk. It will not jump spontaneously.
+台子上，它会留在那里。它不会自发跃迁。
+
+[1:51:26]
+Against the gravitation. So the same concept is applicable here: electron cannot move by itself to higher energy state.
+对抗重力。所以同样的概念在这里适用：电子不能自发地移动到更高的能量状态。
+
+[1:51:58]
+So how can we enable this? If our photocatalyst absorbs a photon, so then electron is promoted to homo to lumo. So now we generate a vacancy, which is nothing else but the hole and now this vacancy can be occupied by the electron coming from the reactant ground state. So in such a case, electron, if I release my laser pointer, it will fall. So this electron will fall into thermodynamically more stable state. So a state with lower energy.
+那么，我们如何实现这一点呢？如果我们的光催化剂吸收一个光子，电子便会从HOMO跃迁到LUMO。这样，我们产生了一个空位，这实际上就是空穴。这个空穴可以被来自反应物基态的电子占据。因此，在这种情况下，如果我松开激光笔，电子就会掉下来。这个电子会落入热力学上更稳定的状态，即能量更低的状态。
+
+[1:52:28]
+So basically we create a photocatalyst radical cation, why it's called radical cation, radical anion, correct term, radical anion, because now this species has one extra electron. So here we have two electrons on the homo, now we have another electron sitting on this molecular orbital. And our reactant is now converted into the radical cation, because now it misses one electron.
+基本上，我们生成了一个光催化剂的自由基阳离子。为什么它叫自由基阳离子，正确的术语是自由基阴离子，因为这个物种现在多了一个电子。所以这里有两个电子位于HOMO，现在又有一个电子位于这个分子轨道上。我们的反应物现在转化为自由基阳离子，因为它现在缺少一个电子。
+
+[1:52:43]
+That two electrons now, well, electron is gone, electron is a particle that has a negative charge, so if we remove one elementary charge from a molecule, so then we turn that molecule into a positively charged species. So now it's called radical cation.
+这两个电子现在，嗯，电子消失了。电子是一种带负电荷的粒子，所以如果我们从一个分子中移走一个基本电荷，那么这个分子就会变成一个带正电荷的物种。所以现在它被称为自由基阳离子。
+
+[1:52:47]
+Radical, because now it has one uncoupled electron.
+自由基，因为它现在有一个未成对电子。
+
+[1:53:08]
+So overall, transition from this state where the electron transfer is impossible to this state driven by photon absorption is called photoinduced electron transfer, also in literature abbreviated as EET. So by considering this diagram, so we can outline—
+因此，从电子转移不可能的这种状态到由光子吸收驱动的这种状态的总体转变，称为光诱导电子转移，文献中也缩写为 EET。因此，通过考虑此图，我们可以概述——
+
+[1:53:30]
+The general guideline or the rule, thermodynamic criteria, in what cases this photoinduced electron transfer will be spontaneous. So let's say we consider one electron oxidation of a reactant. So in this case we can call this reactant as a donor of electron, because it provides an electron to a photocatalyst.
+一般指导原则或规则，即热力学判据，说明在哪些情况下这种光诱导电子转移将自发发生。假设我们考虑一个反应物的单电子氧化。在这种情况下，我们可以把这种反应物称为电子供体，因为它向光催化剂提供电子。
+
+[1:53:36]
+So photocatalyst homo energy must be lower than reactant's homo energy.
+所以，光催化剂的HOMO能量必须低于反应物的HOMO能量。
+
+[1:53:44]
+So this is homo, so this energy scale, it's lower compared to the reactant homo energy level.
+所以这是HOMO能级，因此这个能量尺度低于反应物的HOMO能级。
+
+[1:53:55]
+So when photocatalyst absorbs a photon, so this promotes an electron from homo to lumo, from homo to lumo.
+所以，当光催化剂吸收光子时，电子会從HOMO跃迁到LUMO，从HOMO到LUMO。
+
+[1:54:10]
+This creates hole in the homo, the vacancy, and since reactant's homo energy is higher than that of the hole, so electron can transfer spontaneously from reactants to photocatalyst electronically excited state.
+这会在最高占据分子轨道中产生空穴，即空位，由于反应物的最高占据分子轨道能量高于该空穴的能量，电子可以从反应物自发转移到光催化剂的电子激发态。
+
+[1:54:13]
+So now transition from this state to this is spontaneous.
+所以，现在从这个状态到这个状态的转变是自发的。
+
+[1:54:25]
+So now I have a question to you. So now if we are looking at not oxidation of the reactant, but reduction of the reactant.
+那么现在我有一个问题要问大家。那么现在，我们来看的不是反应物的氧化，而是反应物的还原。
+
+[1:54:37]
+Right? Because in photocatalysis there are always two reactants. So one which we oxidize and another which we reduce. So what would be the thermodynamic criteria for.
+对吧？因为在光催化中总是有两种反应物。一个被氧化，另一个被还原。那么，对于……的热力学判据是什么？
+
+[1:54:42]
+A different process? What would be—what.
+一个不同的过程？会是什么——什么。
+
+[1:54:52]
+Must the relative alignment of the photocatalyst and reactant lumo energies be to make photoinduced electron transfer from the photocatalyst to reactant spontaneous?
+光催化剂和反应物的 LUMO 能量的相对排列必须满足什么条件，才能使光诱导的电子从光催化剂转移到反应物是自发的？
+
+[1:55:00]
+Hmm? Hello?
+嗯？喂？
+
+[1:55:11]
+So we verified that in order to oxidize a reactant by the photocatalyst, so this energy must be lower than this one. So if we want to reduce—
+所以我们验证了，为了使光催化剂氧化反应物，这个能量必须低于那个。所以，如果我们想还原——
+
+[1:55:18]
+A reactant, so what would be the relative alignment of lumo.
+反应物，那么 LUMO 的相对排列会是什么？
+
+[1:55:22]
+Of the photocatalyst and lumo of the reactant?
+光催化剂的空穴轨道和反应物的 LUMO 的相对取向？
+
+[1:55:28]
+So does lumo of photocatalyst must be higher?
+所以，光催化剂的 LUMO 必须更高吗？
+
+[1:55:29]
+Higher.
+更高。
+
+[1:55:34]
+Yeah, so basically this is illustration with the cartoon.
+对，所以基本上这是用卡通图来说明的。
+
+[1:55:48]
+That summarizes these two points. So this one for reactant oxidation, this one for reactant reduction. So we have a photocatalyst, homo lumo separated by certain energy band gap.
+这概括了这两点。这个用于反应物氧化，这个用于反应物还原。所以，我们有一个光催化剂，其HOMO和LUMO之间存在一定的能量带隙。
+
+[1:55:53]
+So there is a driving force for the electron transfer from reactant.
+因此，电子从反应物转移存在驱动力。
+
+[1:56:27]
+Homo, and there is a driving force for transfer of the electron, once electron is promoted to here, it can migrate spontaneously to other reactant's lumo. Another question: I told you that in some cases, or we concluded in some cases, photocatalyst with narrower energy band gap is beneficial. Then we can use larger portion of solar radiation. Why in some cases having photocatalyst with very narrow energy band gap is actually a bad thing?
+HOMO，而电子转移有一个驱动力。一旦电子被激发到这里，就可以自发地迁移到另一个反应物的LUMO。另一个问题：我跟你说过，在某些情况下，或者说我们得出的结论是，在某些情况下，能带间隙较窄的光催化剂更有利。这样我们就可以利用更大比例的太阳辐射。为什么在某些情况下，光催化剂的能带间隙非常窄实际上会是一件坏事？
+
+[1:56:32]
+所以说啥？
+So what?
+
+[1:56:36]
+没啥，就光催化剂间隙非常窄，时间坏事。
+Nothing. It's just that the photocatalyst gap is very narrow, and time is bad.
+
+[1:56:37]
+啊？
+啊？
+
+[1:56:40]
+为啥又是坏事？不是好事吗？
+Why is that a bad thing? Not good?
+
+[1:56:43]
+它会，你驱动你接下来就有个自发。
+It will spontaneously occur once you drive it next.
+
+[1:56:51]
+Then there is no wrong question after all there are quizzes, right, for those for quiz you can get a point for this is just a discussion.
+那么，毕竟还有小测验，对吧？对于那些小测验，你可以得一分。这只是讨论。
+
+[1:56:51]
+No, no, no.
+不，不，不。
+
+[1:56:53]
+Yeah, I want to hear your opinion.
+对，我想听听你们的意见。
+
+[1:56:57]
+好，就发生其他的不必要的杂，杂项反应。
+Okay, other unnecessary miscellaneous reactions occur.
+
+[1:56:57]
+嗯。
+嗯。
+
+[1:57:03]
+更容易发生杂项，easier to have some extra thing。
+更容易发生杂项，更容易产生一些额外的东西。
+
+[1:57:04]
+Phenomenas, right?
+现象，对吧？
+
+[1:57:11]
+Okay, I will give you the answer. So imagine that here we have a photocatalyst.
+好的，我会给你答案。想象一下，这里有一个光催化剂。
+
+[1:57:13]
+Well, if you want, you can share your opinion.
+嗯，如果你愿意，可以分享一下你的看法。
+
+[1:57:14]
+Okay.
+好的。
+
+[1:57:47]
+Yeah, basically yeah, that's the point. So here, let's say we have relative photocatalyst with relatively wide or large energy band gap, so there is a larger number of molecules which this photocatalyst electronically excited state can oxidize and at the same time large number of molecules, just.
+对，基本上就是这样，这就是重点。那么这里，假设我们有一种相对较宽或较大能带隙的光催化剂，那么就有更多的分子可以被这种光催化剂的电子激发态氧化，同时也有大量的分子，只是……
+
+[1:57:49]
+Tokyo, this photocatalyst can reduce.
+在东京，这个光触发器可以降低。
+
+[1:58:01]
+So if we have another photocatalyst with which energy band gaps, let's say, be here, so then it cannot oxidize this reactant and it cannot reduce this reactant.
+所以如果我们有另一个光催化剂，其能带间隙，比如说，在这个位置，那么它就无法氧化这个反应物，也无法还原这个反应物。
+
+[1:58:04]
+So, although in.
+所以，虽然在......
+
+[1:58:20]
+Science, I would say there is a competition or, let's say, one of the goals that researchers that work in this community, they outlined, is to narrow the energy band gap in photocatalysts to use larger portion of solar.
+在科学领域，我会说存在一种竞争，或者说，这个群体里工作的研究人员提出的目标之一，是缩小光催化剂中的能量带隙，以利用更大比例的太阳能。
+
+[1:58:44]
+Light, so there is a good compromise. So if energy band gap gets too narrow, so then there is basically no useful reaction that the photocatalyst can drive. So there are basically ethanol, for example, the molecule that I mentioned before, so it has an oxidation potential of about 1.
+光，所以有一个不错的折中方案。所以如果能量带间隙变得太窄，那基本上就没有任何有用的反应，可以由光触发器来推动。所以基本上比如说，乙醇，就是我之前提到的那个分子，它的氧化势能大约是 1。
+
+[1:58:46]
+So 1 volt versus.
+所以是 1 伏，相比之下。
+
+[1:59:07]
+Reference electrode, yeah, but we are working on the physical scale, so its potential would be relatively here. It meaning that if we have a photocatalyst which HOMO is higher than the energy of ethanol HOMO, so then that photocatalyst will not be able to oxidize ethanol or any other molecule. Yeah.
+参考电极，是的，但我们是在物理尺度上讨论，所以它的电位会相对在这里。这意味着如果我们有一个光催化剂，其 HOMO 高于乙醇的 HOMO，那么这个光催化剂将无法氧化乙醇或任何其他分子。是的。
+
+[1:59:33]
+Well, keep in mind also this diagram, yeah? So if you want a simple memory aid rule, to memorize what this should be the relative alignment, so recall that water always flows from the top to the bottom, so if we want to move water from the bottom, from the valley to the top, so you need some energy input, some pump or mechanism. So in photocatalysis, this pump, it's a the material, and the energy is.
+好，也请记住这张图，好吗？如果你想要一个简单的记忆辅助规则，来记住这个相对排列应该是什么，那么回忆一下，水总是从高处流向低处，所以如果我们想把水从低处，从谷底移到高处，那就需要一些能量输入，某种泵或机制。所以在光催化中，这个泵，就是材料，而能量是……
+
+[1:59:43]
+Supplied by the photons. So is there any correlation between the chemical structure of the photocatalyst and the HOMO-LUMO energy levels?
+由光子提供。那么，光催化剂的化学结构与HOMO-LUMO能级之间是否存在相关性？
+
+[2:01:13]
+So there is a correlation between these two so the more depleted with electron density the molecular fragment representing HOMO, the lower is the energy of this molecule, molecular orbital, and vice versa. And the more enriched with electron density the molecular fragment representing LUMO, so the higher is the energy of the molecular orbital. So this is the our model molecule, which was published, and I did some chemical modifications. To this molecule, so I don't know if somebody synthesized this molecule, but let's say I followed the simple guidelines for tuning chemical structure of a molecule, to modify its redox potential, to make it stronger reductant, stronger oxidant or vice versa. So I added more electron donating groups on this fragment, and I added some electron withdrawing groups, so fluorine is the most electronegative element, as I mentioned, so now I modified this fragment with a lot of, lot of fluorine atoms. So now the question to you, so in your opinion, if now I compare this properties of this photocatalyst and this one, so compared to the reference, so this would be the reference one, which is relatively simple, so how would such a structure modification affect HOMO-LUMO energy levels?
+所以这两者之间确实存在相关性：代表HOMO的分子片段电子密度越匮乏，该分子轨道能量越低，反之亦然。而代表LUMO的分子片段电子密度越丰富，分子轨道能量越高。这就是我们已发表的模型分子，我对其做了一些化学修饰。我不确定是否有人合成过这个分子，但假设我遵循了通过调节分子化学结构来改变其氧化还原电位的简单规则，以使其成为更强的还原剂、更强的氧化剂或反之。因此，我在这个片段上增加了更多的给电子基团，同时添加了一些吸电子基团；如我之前提到的，氟是电负性最强的元素，所以我用大量氟原子修饰了这个片段。那么现在问你一个问题：在你看来，如果我现在比较这个光催化剂和这个的性质，相对于参考物（也就是这个相对简单的参考），这种结构修饰会如何影响HOMO-LUMO能级？
+
+[2:01:19]
+And I will give you one illustration.
+我给你一个示意图。
+
+[2:01:24]
+So let's say we have our energy.
+比如说我们有这个能量。
+
+[2:01:29]
+So this is reference, so HOMO-LUMO.
+这个是参考， 也就是 HOMO-LUMO。
+
+[2:01:38]
+And energy diagram for this modified molecule.
+这是对这个修改后分子的能量图。
+
+[2:01:48]
+So LUMO gets lower HOMO gets higher, or.
+所以 LUMO 变低，HOMO 变高， 或者。
+
+[2:01:51]
+HOMO gets lower and.
+HOMO 变低，而且。
+
+[2:01:52]
+LUMO gets higher.
+LUMO 变高。
+
+[2:01:57]
+So this one on the left, or this one on the right.
+所以左边这个，或者右边这个。
+
+[2:02:06]
+So which of these two situation do you think happens when we do some chemical modification to this molecule?
+那么，你觉得当我们对这个分子进行一些化学修饰时，这两种情况中哪一种会发生？
+
+[2:02:07]
+Lower and higher.
+变低和变高。
+
+[2:02:08]
+Lower and higher.
+变低和变高。
+
+[2:02:09]
+Or the newest.
+或者最新的那个。
+
+[2:02:10]
+This situation left or right?
+这个情况是左边还是右边？
+
+[2:02:12]
+Left and right.
+左边和右边。
+
+[2:02:15]
+Yeah, it's both.
+对，是两种都有。
+
+[2:02:16]
+Both for the left one.
+左边那个也是两种。
+
+[2:02:17]
+Yeah.
+对。
+
+[2:02:18]
+Left one.
+左边那个。
+
+[2:02:20]
+Both for the right one.
+右边那个也是两种。
+
+[2:02:26]
+Well, if you—
+嗯，如果你——
+
+[2:02:29]
+What?
+什么？
+
+[2:02:31]
+Well, the I would expect this situation.
+嗯，我会预期会出现这种情况。
+
+[2:02:32]
+接着啊。
+Continue.
+
+[2:02:46]
+Because so the more depleted with electron density the molecular fragment representing HOMO, so in this case this is HOMO, so electron-rich part, so if we—
+因为代表 HOMO 的分子碎片电子密度越被耗尽，所以在这种情况下，这就是 HOMO，也就是电子较丰富的部分，所以如果我们——
+
+[2:02:52]
+Put some electron withdrawing groups, so this will pull the energy of HOMO down.
+加入一些吸电子基团，这样会把 HOMO 的能量拉低。
+
+[2:03:11]
+So in other words, we can consider—so here you have a positive charge, and you have fluorine, which is quite electron deficient, electronegative, so it pulls more electron density from this fragment which already carries a positive charge.
+换句话说，我们可以考虑—— 这里有一个正电荷， 还有氟， 它的电子很缺， 也就是电负性， 所以它会从这个已经带正电荷的碎片中， 吸引更多的电子密度。
+
+[2:03:30]
+This will destabilize the whole molecule. On the other hand, here we have one extra electron added to this part, and in addition we have a lot of these groups which are also electron-rich, and then they give more electron density to this part. In addition to having negative charge on this part, it also more.
+这会让整个分子变得不稳定。另一方面，这里我们往这一部分多加了一个电子，而且我们还有很多这样的基团，它们同样是富电子的，于是它们会向这一部分提供更多电子密度。除了这一部分带有负电荷之外，它还更……
+
+[2:03:37]
+Electron density supplied by this, this, this substituent. This will destabilize the.
+这个、这个、这个取代基提供的电子密度。这会使……不稳定。
+
+[2:03:44]
+This fragment. So it will leave the molecular orbital even higher.
+这个片段。因此它会使分子轨道变得更高。
+
+[2:03:55]
+So basically this is the summary, which I will illustrate it with one example. So now let's look at something which was really published.
+所以基本上这就是总结，我会用一个例子来说明。现在我们来看一个真正发表过的东西。
+
+[2:03:55]
+Is it yours?
+是你的吗？
+
+[2:04:01]
+Because this—well, I invented this, I don't know if somebody synthesized this molecule.
+因为这个——嗯，我发明了它， 我不知道有没有人合成过这个分子。
+
+[2:04:01]
+I do.
+我有。
+
+[2:04:01]
+Probably not.
+可能没有。
+
+[2:04:02]
+Not at the moment.
+目前还没有。
+
+[2:04:05]
+So let's look at something which was already published.
+那我们来看看某种东西， 它已经发表过了。
+
+[2:04:05]
+Okay.
+好。
+
+[2:04:09]
+So this—three types of donor acceptor systems.
+所以这个——三种类型的捐献接收系统。
+
+[2:05:11]
+As you can see, they contain the same type of electron donors. I'm sure that they are electron donors because they contain type things, so they agree the type things in general are quite electron-rich. Plus we have this S-methyl group, which is also sp3 hybridized, hydro elements with domain some electron density. So as you can see, the structures of this blue parts, they are essentially the same, except maybe this one, so we have one substituent. This exyl group, but it's not crucial, it's only needed to solubilize this molecule. So what the difference between them, it's the chemical structure of this central fragment. So they are put them in red, just to emphasize that they are electron acceptors. Right? So here we have this carboxamide group, typical for electron acceptor, so here sulfur bound to oxygen atoms, which is also pulls electron density from this fragment. And here we have both.
+如您所见，它们含有相同类型的电子供体。我确定它们是电子供体，因为它们含有类型物质，所以总体来说，这些类型物质的电子密度相当高。此外，我们还有这个S-甲基基团，它也是sp3杂化的，带有一定电子密度的氢元素。因此，如您所见，这些蓝色部分的结构基本相同，除了这一个，我们有一个取代基。这个乙基基团，但它并不关键，它只是用来溶解这个分子。那么它们之间的区别在于这个中心片段的化学结构。所以它们被标成红色，只是为了强调它们是电子受体。对吧？所以这里我们有这个羧酰胺基团，这是典型的电子受体结构，这里硫与氧原子结合，它也从该片段中拉走电子密度。而这里两者都有。
+
+[2:05:17]
+So this S-oxide and this carboxamide. So.
+所以这是 S-氧基和这是羟基基。 所以。
+
+[2:05:34]
+What researchers found there is that when they measured the energy levels of HOMO-LUMO in this three systems, what they found is that HOMO didn't change much, so it remained nearly constant, but LUMO showed some decrease. So why is it so?
+研究人员发现，在这三个系统中测量 HOMO-LUMO 的能级时，HOMO 变化不大，几乎保持不变，但 LUMO 有所下降。那这是为什么呢？
+
+[2:05:45]
+So the chemical structure of donors is nearly identical, so as I said, this exyl group is needed just for to solubilize the molecules, but it does not affect really the.
+所以供体的化学结构几乎相同，所以如我所说，这个己基只是为了溶解分子，但它并不真正影响……
+
+[2:05:48]
+Properties electronic position.
+电子位置的性质。
+
+[2:06:20]
+Which means that HOMO energy level is nearly the same in these three cases, about minus 5 eV. So from left to right, chemical structures of acceptors change from less electron deficient to more electron deficient, right? So here we have only this electron accepting fragment, carboxamide here only this one, and here we have both. So this results in a shift of LUMO energy to more negative values. So pulling LUMO down.
+这意味着在这三种情况下，HOMO能级几乎是相同的，大约为-5电子伏特。所以从左到右，受体的化学结构从不那么缺电子变为更加缺电子，对吧？所以这里我们只有这个吸电子片段，这里的甲酰胺只有这一个，而这里我们两者都有。这导致LUMO能级向更负的值移动，也就是把LUMO拉低。
+
+[2:06:24]
+By about 0.
+大约 0。
+
+[2:06:27]
+8 eV.
+8 eV。
+
+[2:06:49]
+So what conclusion just considering the relative alignment of this HOMO-LUMO energy levels in these three systems and the trend from left to right, what conclusion can you make about the ability of this substances, this structures, to drive oxidation reaction and reduction reaction?
+那么，仅考虑这三个系统中HOMO-LUMO能级的相对排列以及从左到右的趋势，你能就这些物质、这些结构驱动氧化反应和还原反应的能力得出什么结论？
+
+[2:06:56]
+So what do you think, if we talk about oxidation reaction, would you—
+那么你怎么看，如果我们谈氧化反应，你会——
+
+[2:07:01]
+Say that molecules on the left is.
+说左边的分子 是。
+
+[2:07:07]
+More stronger oxidant compared to those on the right, or vice versa? Or they are the same?
+比右边的更强的氧化剂，还是反过来？还是说它们是一样的？
+
+[2:07:23]
+So for oxidation reaction, so these molecule as catalyst to drive oxidation reaction. So their ability to oxidize anything.
+所以对于氧化反应，这些分子作为催化剂来驱动氧化反应。因此，它们有能力氧化任何东西。
+
+[2:07:25]
+Are they the same?
+它们是一样的吗？
+
+[2:07:31]
+Is this stronger? This weaker? Or this weaker? This stronger?
+这个更强吗？这个更弱吗？还是这个更弱？这个更强？
+
+[2:07:32]
+Almost the same, I guess.
+我想差不多是一样的。
+
+[2:07:35]
+Okay, let's hope we think they are the same.
+好，那就希望我们认为它们是一样的。
+
+[2:07:37]
+I guess the same.
+我想是一样的。
+
+[2:07:40]
+Who thinks that this is weaker, this is stronger?
+谁认为这个更弱， 这个更强？
+
+[2:07:42]
+In oxidation?
+在氧化中？
+
+[2:07:47]
+Who think the opposite?
+谁认为相反？
+
+[2:07:49]
+Who vote for three?
+谁投3票？
+
+[2:08:03]
+Well, I would say they are the same, because potential of HOMO in these three cases are nearly the same. So at this point, 1 eV is not that significant. So they are nearly the same in terms of oxidation.
+嗯，我会说它们是相同的，因为在这三种情况下HOMO的电势几乎相同。所以这一点上，1 eV并不那么显著。因此在氧化方面它们几乎相同。
+
+[2:08:04]
+Nearly the same.
+几乎一样。
+
+[2:08:15]
+So recall this diagram. So potential of HOMO in this case is in three substances, exactly the same. So it means that we want to oxidize a certain molecule or a range of molecules.
+所以回想一下这张图。 所以在这种情况下，HOMO 的潜力 在三种物质中完全相同。 这就意味着我们想要氧化 某个分子，或一组分子。
+
+[2:08:17]
+In your evolutionary upside?
+在你的进化上升点上？
+
+[2:08:25]
+So then they will provide exactly the same driving force for the electron abstraction from the reactant.
+那么它们就会提供完全相同的驱动力，用于从反应物中抽取电子。
+
+[2:08:25]
+Almost.
+差不多。
+
+[2:08:26]
+So how about reduction?
+那還元呢？
+
+[2:08:33]
+Do you think there is a trend this is stronger, this is weaker, or this is weaker, this is stronger reductant, or they are the same?
+你觉得有没有一种趋势是这个更强，这个更弱，或者这个更弱，这个是更强的還元剂，还是它们是一样的？
+
+[2:08:39]
+Who vote for this one being the strongest reductant?
+谁投票认为这个是最强的還元剂？
+
+[2:08:43]
+Different.
+不一样。
+
+[2:08:44]
+Yes, this is correct.
+对，这是正确的。
+
+[2:08:46]
+This one has the highest LUMO.
+这个的 LUMO 是最高的。
+
+[2:08:52]
+Can provide most of the driving force, the largest driving force for reduction of the reactants.
+它能提供大部分驱动力，也就是最强的驱动力来进行反应物的還原。
+
+[2:09:06]
+Okay, last few points related, which I think relatively easy, related to quantification of reaction efficacy.
+好，最后几点相关的，我觉得相对简单，与反应效率的量化有关。
+
+[2:09:16]
+So in general in chemistry, how do we quantify efficacy of a chemical reaction or, let's say, efficacy of a chemist, qualification of a chemist?
+所以一般来说在化学中，我们如何量化化学反应的效率，或者说，化学家的效率，也就是化学家的资格？
+
+[2:09:34]
+So usually this is done by considering chemical yield. So let's say, let's go back to this very original, not for the catalytic reaction. So simple ion exchange reaction. So this reaction gives calcium carbonate. So let's say a certain amount of reactant.
+所以通常这是通过考虑化学产率来做的。那我们回到最开始的那个例子，不是催化反应。就是简单的离子交换反应。这个反应会产生碳酸钙。比如说，一定量的反应物。
+
+[2:09:38]
+Calcium chloride reacts with excess of sodium.
+氯化钙与过量的钠反应。
+
+[2:09:50]
+Carbonate. So this gives certain mass of calcium carbonate. So what is the yield of calcium carbonate? So simple math, this gives us 90%.
+碳酸钙。这样就会产生一定质量的碳酸钙。那么碳酸钙的产率是多少？简单计算，得到90%。
+
+[2:09:58]
+So if chemist is able to isolate calcium carbonate with 90% yield, I would say that person is a decent chemist.
+所以如果化学家能以90%的产率分离出碳酸钙，我会说那个人是个不错的化学家。
+
+[2:10:05]
+So if yield is lower than 90%, I would say that need to improve qualification. Because this is very simple reaction.
+所以如果产率低于90%，我会说需要提高资质。因为这是一个非常简单的反应。
+
+[2:10:13]
+So in photochemistry, photocatalysis, we use also a similar metrics. So it's also.
+所以在光化学、光催化中，我们也使用类似的指标。所以也是如此。
+
+[2:10:31]
+A fraction. So it compares number of products which is generated per photon. So let's say if in some photocatalytic reaction there are 100 photons absorbed by the photocatalyst, and that photocatalyst produces 100 molecules of the product. So then the quantum yield in such a case will be 100%.
+一个分数。 它比较的是每个光子产生的产物数量。 比如说，在某种光催化反应中， 光催化剂吸收了 100 个光子， 而这个光催化剂产生了 100 个分子的产物。 那么在这种情况下，量子效率就是 100%。
+
+[2:10:34]
+If 100.
+如果是 100。
+
+[2:10:44]
+Photons are converted into 10 molecules, 100 photons converted into 10 molecules, it means that the quantum yield is only 10%.
+把 100 个光子转换成 10 个分子，也就是说 100 个光子转换成 10 个分子，那就意味着量子效率只有 10%。
+
+[2:10:54]
+So one simple example, simple math, arithmetics. So in this particular case, quantum yield is 5%.
+举一个简单的例子，简单的数学、算术。所以在这个特定情况下，量子效率是 5%。
+
+[2:11:23]
+Not very high, but in photocatalysis this is not a big issue. So typically in this photoreactor, as many others, so photons as reactants, they're used in much larger excess compared to chemical reactants. So we can in principle increase quantum yield by providing more photons. So well, I mean, the quantum yield still might be low, but the chemical yield can be as high as 100%.
+不算很高，但在光催化中这不是什么大问题。所以通常在这种光反应器中，和其他许多反应器一样，光子作为反应物，其用量比化学反应物过量得多。因此原则上我们可以通过提供更多光子来提高量子效率。所以，嗯，我的意思是，量子效率可能仍然很低，但化学产率可以高达100%。
+
+[2:11:45]
+So the last point, which I would like to highlight, is about synthesis of materials for photocatalysis. So a robust bottom-up approach, so it's called bottom-up because we start from very small building blocks, like molecules, and then we put them together like Lego bricks to create something bigger. Materials, 1D, 2D, 3D.
+所以最后一点，我想强调的是，关于光催化材料的合成。这是一种稳健的自下而上方法，之所以称为自下而上，是因为我们从非常小的构建单元（如分子）开始，然后像乐高积木一样将它们组合起来，创造出更大的东西。材料：1D、2D、3D。
+
+[2:11:52]
+So typical, common robust methods in synthesis of materials.
+所以这些是典型、常见的强大方法， 用于材料合成。
+
+[2:12:53]
+Are reactions between nucleophiles, electrophiles, and transition metal catalyzed cross coupling reactions between fragments featuring donors and acceptors. So a few words about the first approach. So when we don't need any transition metal catalyst, so a classical example is the so-called Novenagel condensation. So this requires a molecule that features CH acidity, such as this compound, a base. So in this case, a base, it's a pipyridine. So it can deprotonate the CH acid. That's why it's called CH acid. Forming this molecule or this one, so it's the same. Carbon anion, which is called a nucleophile. So nucleus contains neutrons and protons. So neutrons do not have charge. Protons have a positively charged. Meaning that nucleus has a positive charge. So nucleophile is attracted to positive.
+这些是亲核试剂与亲电试剂之间的反应，以及过渡金属催化的、在带有供体和受体的片段之间的交叉偶联反应。那么先简单说一下第一种方法。当我们不需要任何过渡金属催化剂时，经典例子就是所谓的诺文纳格尔缩合。这需要一个具有CH酸性的分子，比如这种化合物，以及一个碱。在这种情况下，碱是哌啶。它可以脱去CH酸的质子。这就是它被称为CH酸的原因。形成这个分子或这个，其实是一样的。碳负离子，也就是所谓的亲核试剂。因此，原子核里有中子和质子。中子不带电荷。质子带正电荷。也就是说，原子核带正电荷。因此亲核试剂会被正电荷吸引。
+
+[2:13:03]
+Charged species because it has a negative charge. So in this approach, we have always one nucleophile and another partner must be electrophile.
+带电物种，因为它带有负电荷。因此在这种方法中，我们总是有一个亲核试剂，另一个伙伴必须是亲电试剂。
+
+[2:13:55]
+So why electrophile? It's attracted to a negative charge. So in this case, electrophile is this compound featuring carbonyl group. So then these two can react, and this is a classical Novenagel reaction. So reaction between small molecules and other small molecules that gives a small molecule. So the same idea is applied to synthesis of materials, except that here you need to design or choose such nucleophile, electrophile, that allows for developing either 1D or 2D or 3D structure. So here, we don't deal with just carbonyl compounds featuring one carbonyl group, but the one with three. And here we have a CH acid. With two reaction sites. So then this electrophile can react with this nucleophile and then can form a 2D structure.
+那么为什么是亲电体呢？ 它会被负电荷吸引。 所以在这种情况下，亲电体是这种含有羰基的化合物。 那么这两者就可以反应，这是一个经典的诺文格尔反应。 即小分子与其他小分子之间的反应，生成一个小分子。 同样的理念也应用于材料合成，只不过在这里你需要设计或选择这样的亲核体、亲电体，使其能够形成一维、二维或三维结构。 所以在这里，我们不只是处理含有一个羰基的羰基化合物，而是含有三个羰基的化合物。 而这里我们有一个CH酸，它有两个反应位点。 那么这个亲电体可以与这个亲核体反应，然后形成二维结构。
+
+[2:14:17]
+Transition metal catalyzed cross coupling reactions are extremely powerful. There was Nobel Prize for this. There are many different subclasses of reactions that involve this approach. So basically here you also need one partner, which some are real allies.
+过渡金属催化的交叉偶联反应极为强大。这一领域曾获诺贝尔奖。涉及该方法的反应有许多不同的亚类。因此基本上这里也需要一个伙伴，其中有些是真烯丙基。
+
+[2:15:08]
+So allied is typically chlorine or bromine. So this works as the electrophile and it needs another partner. In this case, on the slide, it's an example of the so-called Steele reaction. That relies on organoid team compounds, which can be also organoboron compounds. So this second partner acts as the nucleophile. So again, electrophile, nucleophile. But this approach also relies on palladium catalysis. So then they can couple.
+所以烯丙基通常是氯或溴。因此它作为亲电体，并且需要另一个伙伴。在这个例子中，幻灯片上展示的是所谓的斯蒂尔反应。该反应依赖于有机锡化合物，也可以是有机硼化合物。所以这第二个伙伴作为亲核体。再次强调，亲电体、亲核体。但这种方法同样依赖于钯催化。这样它们就能偶联。
+
+[2:15:10]
+Form the coupling product between these two fragments.
+形成这两个碎片之间的交联产物。
+
+[2:15:16]
+So this was applied, for example, in synthesis of these donor.
+因此，例如，这在合成这些供体时得到了应用。
+
+[2:15:19]
+Acceptor system.
+以及接收系统的合成。
+
+[2:15:29]
+Electrophile, nucleophile, two of them coupled together forming the product.
+亲电体、亲核体，两者偶联在一起，形成该产物。
+
+[2:15:32]
+Okay, that's all with the.
+好，这就是全部内容。
+
+[2:15:33]
+Content.
+内容。
+
+[2:15:46]
+So these are the final presentation topics. I think I covered all of them. As for the final essay topics, I talked all of them except these time resolved for the minisem spectroscopy.
+所以这些是最终的演示主题。我想我已经把它们全部涵盖了。至于最终论文的主题，我谈到了所有内容，除了这些与微型光谱相关的时间分辨部分。
+
+[2:15:50]
+So if you want some challenge, choose this one.
+所以如果你想挑战一下， 就选这个。
+
+[2:15:52]
+Although it's not very difficult.
+不过它并不太难。
+
+[2:16:02]
+All the learning materials available, I'm sure you can prepare 10, 15 minutes presentation on any of these topics.
+所有可用的学习资料，我相信你可以准备10到15分钟的演示，涵盖这些主题中的任何一个。
+
+[2:16:03]
+And the rest was covered.
+其余的都已经讲过了。
+
+[2:16:08]
+Are there any questions about lecture content?
+关于讲座内容还有问题吗？
+
+[2:16:09]
+Everything is clear.
+一切都很清楚。
+
+[2:16:10]
+Okay, now.
+好，现在。
+
+— 由 LecSync 生成

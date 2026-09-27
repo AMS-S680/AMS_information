@@ -1,0 +1,1310 @@
+XPS与UPS原理及考点
+日期: 2026年9月21日 12:44
+语言: 英语 → 中文
+时长: 1小时59分26秒
+
+[0:00]
+In between the bullet stand and the conduction band, but then if you have doping, um, the stripping label is going to shift either toward the valence band or conduction band, depending on your doping situation. Alright, so this is very important. Alright, the other energy level that is relevant to the SbS interpretation is here, right, is all about every level's and is called effective level. So the importance of active level is that if an electron—so you don't have atomic force here, right—if an electron from any of these levels can go above the friendly level and above the vacuum levels, right, it becomes completely free from the trapping of the atomic force. So it becomes a free cell, and it could go to the space, and that is actually the ejection of photoelectrons. So in order to receive a photoelectron, this specific electron has to acquire enough energy to let it, right, overcome the barrier from this level to above the friendly level, then to above the vacuum level. Okay, so this is the process. Now, accordingly, right, when we put definition of the so-called bending energy of certain electrons, uh, electrons being 1s or 2s or anywhere in the specific levels, right, the bending energy is defined from a specific energy level in the materials to the friendly level of the materials.
+在价带和导带之间，但如果存在掺杂，嗯，剥离能级会向价带或导带偏移，具体取决于掺杂情况。好的，所以这一点非常重要。好的，与 SbS 解释相关的另一个能级在这里，对吧？它指的是每个能级，称为有效能级。所以，主动能级的重要性在于，如果一个电子——这里没有原子力，对吧——如果它从这些能级中的任何一个跃迁到高于友好能级和真空能级的位置，对吧，它就完全摆脱了原子力的束缚。于是它就变成了自由电子，可以进入空间，这实际上就是光电子的发射。为了接收一个光电子，这个特定的电子必须获得足够的能量，让它克服从这个能级到费米能级，再克服到真空能级的势垒，对吧？好的，这就是这个过程。相应地，对某些电子，呃，也就是1s、2s电子或处于特定能级的任何电子，所谓弯曲能的定义是：从材料中的特定能级到材料的友好能级。
+
+[0:04]
+So this is the definition of the bending energy. Right?
+这就是弯曲能的定义。对吗？
+
+[0:05]
+I want to jump over to the—
+我想跳到——
+
+[0:09]
+The bending energy from here to anywhere throughout here, right? Bending energy.
+从这里到这里的任意一点之间的弯曲能，对吧？弯曲能。
+
+[1:03]
+Energy of this electron.
+这个电子的能量。
+
+[1:13]
+Over a couple of parts, and that's not all; it has also to go overcome the work function of the material.
+跨越几个部分，而且这还不止；它还必须克服材料逸出功。
+
+[1:22]
+And the rest will be all given to the specific electron that are here now.
+其余的将全部给予现在这里的那个特定电子。
+
+[1:24]
+All right?
+好吗？
+
+[1:29]
+And that is the kinetic energy of.
+那就是……的动能。
+
+[1:30]
+The specific electron.
+那个特定的电子。
+
+[1:46]
+Okay, so that's how you get this equation, all right? So Ek is the kinetic energy of the electron, and Hq is the energy associated with the access source, and Eb is the bending energy of this electron by the work function of the material.
+好，所以这就是你如何得到 这个方程的，对吧？ 所以 Ek 是动能， 也就是这个电子的动能， 而 Hq 是与之相关的能量， 与接触源相关的能量， 而 Eb 是弯曲能量， 由这个电子的工作功能决定， 也就是材料的工作功能。
+
+[1:46]
+All right?
+好吗？
+
+[1:56]
+So with that, I have explained, all right, all of the important definitions that you're going to need to use, all right, in SbS process.
+所以至此，我已经解释了，好，你们在 SbS 过程中需要使用的所有重要定义。
+
+[1:57]
+Are we good with it?
+我们都明白了吗？
+
+[1:59]
+No problems, all right?
+没问题，好吗？
+
+[2:03]
+So if not, all right, we can move on, all right? So this is.
+如果没有的话，好吧，我们可以继续往下，好吗？所以就是这个。
+
+[2:23]
+Whatever you see in the case of X, uh, SbS spectrum, all right? So as that, you are collecting, or you are counting the number of electrons that, if you divide axis, all right, by intensity, all right? As a function of the energy, well, now, what do you measure? What do you measure in SbS process?
+无论你在 X 的情况下看到什么，呃，SbS 光谱，好吗？所以在这里，你是在收集，或者你在计数电子数量，如果你把轴除以，好吗，用强度来除，好吗？作为能量的函数，那么现在，你测量什么？在 SbS 过程中你测量什么？
+
+[2:42]
+You're measuring the kinetic energy of this incoming electrons, right? And they're in. If you know this, if you know that, you will be able to deduce the bending energy of the electrons, is that right? All right? And that bending energy should be characteristic or signature of the specific element that are of interest.
+你在测量这些入射电子的动能，对吗？它们在里面。如果你知道这个，如果你知道那个，你就能推导出电子的束缚能，对吗？好吗？而这个束缚能应该是你所感兴趣的那个特定元素的特征或标志。
+
+[2:58]
+Is that right? Okay, so that's the correlation. Now, you are plotting it. You can plot it as a function of the kinetic energy. Then if you change it to bending energy, it's the same, right? Because they have a simple correlation.
+对吗？好的，所以这就是相关性。现在，你在绘制它。你可以把它绘制为动能的函数。然后如果你把它改成弯曲能量，结果是相同的，对吧？因为它们有简单的相关性。
+
+[3:14]
+Is that right? So basically what you measure is the intensity of electrons or the number of electrons as a function of kinetic energy. All right? But here I'm manipulating the axis a little bit, all right, by using the bending energy. All right?
+对吗？所以基本上你测量的是电子的强度，也就是电子的数量，作为动能的函数。好吗？但这里我稍微调整一下轴，好吗，通过使用弯曲能量。好吗？
+
+[3:17]
+Borrowing this equation.
+借用这个方程。
+
+[3:18]
+All right?
+好吗？
+
+[3:20]
+Okay? So that's okay, I guess.
+好吗？所以我想这样也可以。
+
+[3:27]
+Do you know the x-ray? Do you know the x-ray source?
+你知道 X 射线吗？你知道 X 射线源吗？
+
+[3:28]
+Right?
+对吧？
+
+[5:28]
+So you know the specific energy associated with the source, all right? But you do have a bit of problem here on the work function, but that will come a bit later, all right? I'm going to explain that. But here, you can forget about this work function. So this becomes simpler, all right? So you read this, you know that, and you plot it this way. Okay? So that's the SbS. Now we have a few things to do. We look at the spectrum, all right? Now we see some features, all right? The first feature is that the, uh, as I put it, right, about. All right? Sorry, as I move from low bending energy to high bending energy, I see this, uh, SbS spectrum, uh, stays on the, uh, tilting background, right? Which is to say, at low bending energy, the background is low; at high bending energy, the background is high, right? This is the first feature. We have to figure out why. And then if that is soft, right, and all the rest I cared about is that there are a lot of pins. I just said, all right? The pins to read actually should correspond to the specific bending energies of a specific energy level of a certain element. Is that right? So that's the signature of this element. Like its names. So by reading out these energy levels, I should know who is there, right? So the next task is that, all right, but I want to figure out who is there in my material, all right? Now, of course, to do it better, uh, after you figure out there are A, B, C, D, E, F, G elements in your material, you want to figure out how much are A, B, C, D, E, F, G. All right? So that actually refers to quantitative interpretation or spectrum interpretation of SbS and quantification of SbS. Now, which are the two things we're going to mention, right, in the lecture of SbS? All right? Now, first task first, all right? We see this very strange background in there. All right? We see this strange very strange background there. So, well, but where do they come from?
+所以你知道那个特定的能量， 是与源头相关的，对吧？ 但你在这里确实有点问题， 在功能函数这里， 不过这个稍后再说，好吗？ 我会解释一下。 但在这里，你可以先不考虑这个功能函数。 所以这样会更简单，好吗？ 所以你读了这个，你就知道了， 然后按这种方式去画。 好吗？ 所以这就是 SbS。 现在我们还有几件事要做。 我们来看光谱，好吗？ 现在我们看到一些特征，好吗？ 第一个特征是，呃， 就像我刚才说的，对吧，大概是。 好吗？ 抱歉，当我从低弯曲能量 移到高弯曲能量时， 我会看到这个，呃，SbS 光谱，呃， 它会停留在，呃，倾斜背景上，对吧？ 也就是说，在低弯曲能量时， 背景是低的； 在高弯曲能量时，背景是高的，对吧？ 这是第一个特征。 我们得弄清楚为什么。 然后如果那是软的，对吧， 其他我在意的就是 有很多尖点。 我刚才说过了，好吗？ 这些可读的尖点其实应该对应 某个特定能量级的特定弯曲能量 属于某个元素的。 对吗？ 所以这就是这个元素的标志性能量。 就像它的名字一样。 所以通过读出这些能量级， 我应该知道那里有什么，对吧？ 所以下一步是，好吗， 但我想弄清楚那里有什么 在我的材料里，好吗？ 当然，为了做得更好，呃， 在你弄清楚有 A、B、C、D、E、F、G 这些元素之后 在你的材料里， 你要算出 A、B、C、D、E、F、G 各有多少。 好吗？ 所以这其实指的是定量解释 或 SbS 的光谱解释 以及 SbS 的量化。 那么，我们要提到的两件事是什么，对吧， 在 SbS 的讲座里？ 好吗？ 现在先做第一个任务，好吗？ 我们看到里面有一个很奇怪的背景。 好吗？ 我们看到那里有一个非常奇怪的背景。 那么，嗯，它们是从哪里来的？
+
+[5:30]
+So this is the situation.
+所以情况是这样的。
+
+[5:40]
+All right? So at the low bending energy, we have low background. At high bending energy, we have high background. Any guess?
+好吗？所以在低弯曲能量时，我们有低背景。在高弯曲能量时，我们有高背景。有猜到吗？
+
+[5:45]
+我第一次去他上课，好困的。
+The first time I went to his class, I was very sleepy.
+
+[5:48]
+关键是你快搬去其他的庙。
+The key thing is, you're about to move to another temple.
+
+[5:49]
+Any guess?
+有猜到吗？
+
+[5:50]
+不行，不接受。
+No, I won't accept it.
+
+[5:53]
+你说啥？
+What did you say?
+
+[5:55]
+Now, of course, you can read it.
+当然，现在你可以读了。
+
+[5:55]
+对。 And figure out
+Yes.
+
+[5:56]
+. But then.
+然后去弄明白。 但是然后。
+
+[5:56]
+如果是。
+If it is.
+
+[6:29]
+Usually, uh, once see this, I will have a guess, right? Now, uh, I need some hints before making a guess. So what is the hint? The hint is that. So the bending energy is low. The background is low. Bending energy is high. The background is high. All right? So that means what? That is a bit unintuitive because bending energy is not directly linked to the electrons that are measuring. So what I'm measuring? I'm measuring the kinetic energy of the electrons. Is that right? So a high bending energy means what?
+通常，呃，一旦看到这个，我就会先猜一下，对吧？现在，呃，我需要一些提示才能做出猜测。那提示是什么？提示是这样的。弯曲能量很低。背景也很低。弯曲能量很高。背景很高。好吗？那这意味着什么？这有点不直观，因为弯曲能量并不直接关联到所测量的电子。那我在测量什么？我在测量电子的动能。对吗？那高弯曲能量意味着什么？
+
+[6:31]
+Overheat.
+过热。
+
+[6:32]
+High kinetic energy?
+高动能？
+
+[6:46]
+Come on. We have a universal relationship. If this term is large, that means this term is small. How can this term be large and this term also be large?
+得了吧。我们有一个普遍的关系。如果这一项大，那就意味着那一项小。这一项怎么可能大而那一项也大呢？
+
+[7:01]
+Okay. So I mean, high bending energy means the kinetic energy of this particular electron is actually low. All right? So when the kinetic energy of the electron is low, all right, that means what?
+好。 所以我的意思是，高弯曲能量意味着 这个特定电子的动能 实际上很低。 好吗？ 所以当电子的动能 很低的时候，好吗， 那意味着什么？
+
+[7:05]
+All right? So the.
+好吗？ 所以这个。
+
+[7:06]
+能量被转移了呗。
+The energy got transferred, basically.
+
+[7:06]
+Sorry?
+什么？
+
+[7:09]
+能量被分散了。能量被消耗。
+The energy got dispersed. The energy got consumed.
+
+[7:11]
+Easier to what?
+更容易做什么？
+
+[7:12]
+Reduce.
+减小。
+
+[7:26]
+Easier to be free. The kinetic energy, why? How, uh, whether it will be free or not, depending on this. Depend-depending on where this electron energy.
+更容易被释放。动能，为什么？呃，它会不会被释放，取决于这个。取决于这个电子能量在哪里。
+
+[7:26]
+能量被。
+The energy gets...
+
+[7:27]
+Transformed on the atomic core.
+在原子核处被转化。
+
+[7:28]
+对。
+Yes.
+
+[7:28]
+Is that right?
+对吗？
+
+[7:39]
+Right? So this concept has been mentioned a bit earlier, all right? Let me give you a hint. We talk about the MITRE paths of electrons before. Agree?
+对吧？所以这个概念之前提到过一点，好吗？我给你一个提示。我们之前讲过电子的 MITRE 路径。同意吗？
+
+[7:48]
+We talk about MITRE paths of electrons before, at the very beginning, all right, when we're talking about the general interaction of SbS. Now, we say it forms a general U-shape.
+我们之前讲过电子的 MITRE 路径， 在一开始的时候，好吗， 当我们讨论 SbS 的通用相互作用时。 现在我们说它形成一个通用的 U 形。
+
+[7:49]
+什么？
+What?
+
+[8:20]
+Is that right? At very low energy, the MITRE path is long. That, uh, very high energy, the MITRE path is long, only at somewhere in between. You have a local minimum. All right? The MITRE path is very short. And that range, if you remember, is a few paths to hundreds of electron volts. And that's the operation range of SbS. So basically, for SbS, we analyze these electrons with kinetic energies in that range, 50 to 300. All right? And in that range, you see, as energy.
+对吗？在非常低的能量下，MITRE 路径是长的。而在非常高的能量下，MITRE 路径也是长的，只有在中间的某个位置，你才会有一个局部最小值。好吗？MITRE 路径非常短。而那个范围，如果你还记得，是从几个电子伏到几百个电子伏。这就是 SbS 的运行范围。所以基本上，对于 SbS，我们分析那些动能在这个范围内（50 到 300）的电子。好吗？在那个范围内，你会看到，随着能量的变化。
+
+[8:21]
+转移。 Of
+Transform.
+
+[8:30]
+electrons is getting larger from low bending energy. All right? As the energy of electrons is getting larger, your MITRE path is getting longer.
+随着低弯曲能量下电子能量的增加，电子路径在变长。好吗？随着电子能量的增加，你的MITRE路径会变长。
+
+[8:34]
+看，这么长。
+Look, it's this long.
+
+[8:55]
+All right? Or we just said here, okay, if be is high, that means the kinetic energy is low. If in that range, the kinetic energy is low, then the MITRE path is short. MITRE path is short means what? There are a lot of collisions of electrons in the experience. Is that.
+好吗？或者我们刚才在这里说，好吧，如果 be 很高，那就意味着动能很低。如果在那个范围内，动能很低，那 MITRE 路径就短。MITRE 路径短意味着什么？在这个实验中，电子会发生很多碰撞。是这样吗。
+
+[8:58]
+Is that right?
+对吗？
+
+[9:00]
+对。 So for this
+Yes.
+
+[10:11]
+range of electrons, they have much higher probability to have multi-collisions within the materials and further lose its energies to multiple events in the materials. And these multiple events, uh, pretty much have nothing to do with the core-level expectations at all. All right? And they contribute together to the background. And that explains why, all right, in the high bending energy range, we do have a much higher background. All right? So that's the explanation. Now, that is worked, all right, we have to go back to our main task. Is that to figure out what are these peaks. All right? So the general way to figure out what are these peaks, or the general way of acting as an indication, is that you actually have to measure a lot of materials, the standard materials. All right? And figure out what are each of the individual peaks are, and create an atlas or database of SbS. Now, in a later identification process, you're going to do your own measurement. Then you're going to match the peaks that you measured to your database and figure out who is who. All right? So this is what you do for SbS. All right? But then, uh, see, we have a lot of peaks. All right? Now, in order to find, uh, what one correlation, we need to first give them names.
+所以在这个电子范围内，它们在材料内部发生多次碰撞的概率要高得多，并进一步在材料中通过多个事件失去能量。而这些多个事件，呃，基本上与核心层面的预期完全无关。好吗？它们共同构成了背景。这就解释了为什么，好吗，在高结合能范围内，我们确实有高得多的背景。好吗？所以这就是解释。现在，这算是完成了，好吗，我们必须回到我们的主要任务，也就是弄清楚这些峰是什么。好吗？所以，弄清楚这些峰是什么的一般方法，或作为指示的一般方式，是你实际上必须测量大量材料，即标准材料。好吗？并弄清每个单独的峰是什么，并创建一个SbS的图谱集或数据库。在后续的识别过程中，你会进行自己的测量。然后你将测量到的峰与数据库进行匹配，弄清楚谁是谁。好吗？所以这就是你对SbS所做的。好吗？但是，呃，你看，我们有很多峰。好吗？现在，为了找出，呃，某种关联，我们需要先给它们命名。
+
+[10:12]
+我问你啥课了。
+I asked you what class you took.
+
+[10:21]
+All right? So, uh, the first task is that we're going to figure out how electrons are filled in the different energy levels of the materials.
+好吗？那么，呃，第一个任务是我们要弄清楚在这些材料的不同能级中电子是如何填充的。
+
+[10:22]
+那我问一下。
+Then let me ask something.
+
+[10:44]
+So this is supposed to be a background information that you have. Okay? If you don't, all right, you need probably to study it by yourself. All right? Because we don't really have a lot of time to tell you, all right, how the electrons are filled in different energy levels. But then, let me do it very fast. All right? So this is supposed you will be able to do it by yourself. And definitely we'll be required in the quiz.
+所以这应该是一些背景信息 你们已经有了，对吧？ 如果你没有，好吧， 你可能需要自己去研究。 好吗？ 因为我们其实没有太多时间 来告诉你，好吧， 电子是如何被填充的 在不同能量水平上。 不过，那我就很快讲一下。 好吗？ 所以这个你们应该能做到 自己就能做。 而且在测验里肯定会要求你们。
+
+[10:45]
+怎么样？
+How is it?
+
+[10:57]
+All right? Uh, so basically, to fill in the electrons, we need to know the property of the electrons. And we know in the basic quantum mechanics, all right, we use four different whole numbers to describe it.
+好吗？呃，基本上，为了填充电子，我们需要知道电子的性质。而我们在基础量子力学中知道，我们用四个不同的整数来描述它。
+
+[10:58]
+什么名称？
+What's the name?
+
+[15:41]
+All right, starting from the main quantum number, uh, n. That can take, uh, 1, 2, 3, 4, and so on and so forth. All right? L is the absolute quantum number. All right? And that can be taken from 0 to n minus 1. And then this, uh, mL is the magnetic quantum number. All right? And tells the orientation of the, uh, orbit. And the last one is the spin quantum number that can usually take us a hop. And the negative a hop. All right? So we use basically these four quantum numbers to describe the state of the electrons. All right? And there are some general rules that you put in the electrons. Basically, you create energy levels. All right? Using these four quantum numbers. And the electrons are filled in, all right, from the bottom to above, until you use up all of the electrons. All right? But there are some subtle rules, like the colleagues put in principles and things. I will not mention it. But, uh, this is the general picture. Now, for example, if we start with the quantum number of n, so that is always the level also known as the K-shell. All right? And then, uh, you have L, the absolute quantum number, can be taken only as 0 because it's n minus 1. All right? So it's only 0. All right? That's corresponding to the x-orbit. All right? So that's the so-called 1s level. All right? Which is commonly used in the SbS nomenclature. All right? So for this 1s level, how many electrons can be filled in there? Two, right? The spin up and spin down. All right? So a half and the negative a half. All right? So that's how you fill in the, the, the energy levels, all right, of the materials. Now, of course, this picture doesn't get into consideration of the spin orbit coupling. All right? So the general physics picture of the spin orbit coupling is that, all right, so the electrons are orbiting outside the atomic core. All right? So you have some, uh, sort of the orbital, uh, angular momentum concerned. All right? So we take it cell. But then, the electron itself is also spinning. All right? And that's a spin properties. So that has an additional, uh, quantum, uh, momentum contribution, which is the, uh, contributed by the spin quantum numbers. All right? So what you consider a coupling in between the orbits and the spin of the electrons. All right? So basically, you have to manipulate, uh, with L and S, all right? So that will give you a new quantum number, which is known as J. All right? And sometimes, all right, uh, J is a good quantum number, but it's known as the total electron angular momentum. All right? So the calculation of J is straightforward. You also stay in your background of atomic physics. All right? J equals to L plus S. All right? Now, this is an easy calculation. For example, if L equals 1, then S equals to plus or minus a half. So your J can only be taken 1 plus a half, 1 minus a half. So that will be 1 over 2 or 3 over 2. All right? So that's how you calculate. All right? But then, uh, with that, you're going to use, uh, this J as the good quantum number to describe the state of the electrons. And that will cause a little bit difference in energy levels. Now, this is what we have previously. All right? So we say, with that from p level, all right, that is 1s, all right? L level is the second one, all right? So you will have, suppose, 2s and 2p. All right? But 2p level, all right, are degenerated. That allows, all right, three sub-levels. And they're at the same positions, same energies. But each of the level allows two electrons in there. All right? But then, with the spin orbit coupling, all right, this level will be split into two. All right? Because now you can have, uh, J equals to a half. And the J equals to 3 over 2. All right? So split into two levels. And now, how are you going to fill the electrons? Not the same. You put the two electrons in the lowest levels. Then there are two levels in there. Each fill the two. So that counts as four. All right? You still accommodate six electrons in total. But then, the energy of these six electrons now becomes different. With four on the upper level and two on the lower level. All right? So that's how you fill the electrons. Then you give these electron names when you're reciting there. All right? Now, for example, uh, this one, you call this 1s electrons. All right? You put this two as 2s electrons. But then for the 2p electrons, you actually have two of the identities. One is 2p and a half. The other is 2p 3 over 2. All right? So in XPS, if all these electrons, you have electrons in there, you read them out as total electrons. You're going to see 1s electrons. You're going to see 2s electrons. Then when you see 2p electrons, you come at the 2p's. 1p corresponding to 2p 1 over 2. And the other one corresponding to 2p 3 over 2. All right? So that's how you see, right, in the XPS vector.
+好，从主要量子数开始，呃，n。 它可以是，呃，1、2、3、4， 等等之类。 好吗？ L 是绝对量子数。 好吗？ 它可以从 0 到 n-1。 然后这个，呃，mL 是磁量子数。 好吗？ 它表示轨道的、呃、方向。 最后一个是旋转量子数 通常可以让我们跳一下。 以及负的跳一下。 好吗？ 所以我们基本上用这四个量子数 来描述电子的状态。 好吗？ 而且有一些通用规则 你会把它们写进电子里。 基本上，你会生成能量水平。 好吗？ 用这四个量子数。 然后电子被填进去，好吧， 从下往上， 直到把所有电子都用完。 好吗？ 但也有一些微妙的规则， 比如同事们会写进原理之类的东西。 我就不提了。 但是，呃，这就是总体大致的情况。 现在，比如说，如果我们从 量子数 n 开始， 那它一直都是所谓的 K 壳。 好吗？ 然后，呃，你有 L， 也就是绝对量子数， 只能取为 0 因为它是 n-1。 好吗？ 所以它只是 0。 好吗？ 这对应于 x 轨道。 好吗？ 所以那就是所谓的 1s 层。 好吗？ 这在 SbS 命名体系里很常用。 好吗？ 所以对于这个 1s 层， 那里面能填入多少个电子？ 两个，对吧？ 上旋和下旋。 好吗？ 所以是 1/2 和负的 1/2。 好吗？ 所以这就是你填入能量水平的方法， 也就是材料的能量水平。 当然，这张图并不会考虑到 旋转轨道耦合。 好吗？ 所以旋转轨道耦合的通用物理图像是 也就是说，电子在轨道上运行 在原子核外。 好吗？ 所以你会有一些，呃，类似轨道的、呃、角动量 相关的。 好吗？ 所以我们把它取为 cell。 但电子本身也在旋转。 好吗？ 这就是旋转的性质。 所以这还有额外的，呃，量子的、呃、动量贡献， 也就是由旋转量子数所贡献的。 好吗？ 所以你在两者之间考虑的耦合 是轨道与电子的旋转。 好吗？ 基本上，你需要操作，呃，L 和 S，好吗？ 这样就会得到一个新的量子数， 它叫 J。 好吗？ 而且有时，好吧，呃，J 是一个不错的量子数， 但它被称为电子总角动量。 好吗？ 所以计算 J 很简单。 你也要保持在原子物理的基础上。 好吗？ J 等于 L 加 S。 好吗？ 现在，这是一个很简单的计算。 比如说，如果 L 等于 1， 那么 S 等于加或减 1/2。 所以你的 J 只能取为 1 加 1/2， 或者 1 减 1/2。 所以那就是 1/2 或 3/2。 好吗？ 所以这就是你的计算方法。 好吗？ 但接下来，呃，你会用，呃， 把这个 J 当作一个好的量子数 来描述电子的状态。 而这会带来一点差异 在能量水平上。 现在，这就是我们之前有的。 好吗？ 所以我们说，从 p 层来看，好吧， 那是 1s，好吗？ L 层是第二个，好吗？ 所以你会有，比如说，2s 和 2p。 好吗？ 但 2p 层，好吧，是退化的。 这就允许，好吧，三个子层。 而且它们在同一位置、同一能量。 但每个层都允许在里面放入两个电子。 好吗？ 但接着，在旋转轨道耦合方面，好吧， 这个层会被分成两个。 好吗？ 因为现在你可以有，呃，J 等于 1/2。 而 J 等于 3/2。 好吗？ 所以分成两个层。 那现在，你要怎么填充电子呢？ 不一样。 你把两个电子放在最低的层。 然后里面就有两个层。 每个层各填充两个。 所以这就算作四个。 好吗？ 你总共仍然能容纳六个电子。 但这六个电子的能量 现在就不一样了。 上层是四个， 下层是两个。 好吗？ 所以电子就是这样被填充的。 然后你给这些电子命名 在你在那里复述的时候。 好吗？ 现在，比如说，呃，这个， 你把它叫作 1s 电子。 好吗？ 你把这两个写成 2s 电子。 但对于 2p 电子， 实际上你有两个同位素。 一个是 2p 和 1/2。 另一个是 2p 3/2。 好吗？ 所以在 XPS 里，如果所有这些电子， 你把电子放在里面， 你就把它们读出来作为总电子数。 你会看到 1s 电子。 你会看到 2s 电子。 然后当你看到 2p 电子时， 你就看 2p 的那一组。 1p 对应 2p 1/2。 另一个对应 2p 3/2。 好吗？ 所以在 XPS 向量里，你就是这样看到的。
+
+[17:10]
+All right? So are we good with, uh, this nomenclature? So this, uh, is very important. All right? This is basically the foundation of XPS. All right? How we're going to read out this, uh, uh, p positions. All right? If that is clear, all right, now we can move on. How to corresponding what you measured in the spectrum to a real identity of the element. All right? Now, in order to do that, now we think about some process. It's actually quite complicated. Why? Now, we have a large database for atoms. Of a lot of elements. And for each of the elements, they have a lot of energy levels. All right? And each of the energy levels may happen at a specific position. All right? But then you think about element A and B. Is it possible that two of the energies may happen at a similar energy locations? It is possible. Is that right? They may get very close. All right? But that question becomes, how close are they? If it's far apart enough, all right, within the spatial within the energy resolution of the spectrometer, you'll still be able to tell they are two different p's. And therein, identify two different elements. All right? But then, if it's with beyond energy resolution of the spectrometer, now we're in trouble. And the two of them are getting together. All right? I cannot tell which one is which. So this is a common problem that will be encountered in XPS. All right? Now, if that happens, what are we going to do?
+好吗？ 那么，我们对这个命名体系，呃，就这样就行了吗？ 所以这个，呃，非常重要。 好吗？ 这基本上就是 XPS 的基础。 好吗？ 我们要如何读出这些，呃，呃，p 位置。 好吗？ 如果这些清楚了，好吗， 那我们就可以继续了。 如何把你测量到的内容对应起来， 在光谱中对应到一个真实的同位素， 也就是这个元素的。 好吗？ 现在，为了做到这一点， 我们要考虑一些过程。 其实相当复杂。 为什么？ 现在，我们有一个很大的数据库， 用于原子。 包含很多元素。 而且对每一个元素， 都有很多能量水平。 好吗？ 而且每一个能量水平 可能都发生在某个特定位置。 好吗？ 但接着你再想想元素 A 和 B。 有没有可能两种能量 发生在相近的能量位置？ 是有可能的。 对吧？ 它们可能会非常接近。 好吗？ 但这就变成了一个问题： 它们到底有多接近？ 如果距离足够远，好吗， 在空间里，在能量分辨率范围内， 在光谱计的范围内， 你仍然能判断 它们是两个不同的 p。 并由此识别出两种不同的元素。 好吗？ 但如果它在超出能量分辨率范围的情况下， 在光谱计的范围之外， 那我们就麻烦了。 而且这两者会碰到一起。 好吗？ 我就无法判断哪个是哪个。 所以这是一个常见问题， 在 XPS 中会遇到。 好吗？ 现在，如果发生了这种情况， 我们要怎么做？
+
+[17:12]
+What are we going to do?
+我们要怎么做？
+
+[19:04]
+Well, we have tricks. We have ways that can sort it out. All right? So basically, we can do two different types of self-consistent check. All right? Uh, the first check also lies in the feature of the XP itself. Because, you know, for one of the elements, you're going to have 491p. You're going to have a lot of p's. All right? Or unless you have very little, uh, electrons. For example, hydrogen, you only have 1s electrons. That's hard. All right? But usually, all right, uh, you're going to have a lot of electrons in the spherous. For example, a piece of copper and you have 2s electrons, 2p electrons. All right? 2p a half, 2p 3 over 2, and 3s and 3p. So you're going to have a lot of them. All right? So if one of them is going to overlap with another element, it's not likely every one of them is going to overlap. All right? So you check, all right, all the possible p's with all of them appear in the right position. And chances are high that you're going to have this cover in your material. So this is one of the checks. All right? The second check you're going to have is to utilize something we just learned between orbital. Coupling. All right? That causes a splitting of the energy levels. All right? So let me use this, uh, as an example to illustrate. So, uh, what I just talked about is the p levels. So due to this incompetent coupling that you have two different energy states when there were two and three over two for J. All right? So we say, uh, in the slower level that allows only two electrons to be filled in there. And the upper levels allows four electrons. How it was calculated. So there is actually a rule. And the rule is the total number of electrons that are allowed with a specific quantum number of J equals to 2J plus 1. All right? So that is the total number of electrons which is allowed, all right, uh, with specific J. Now, how to calculate? For example, 这就把门打开了。
+嗯，我们有一些技巧。我们有办法把它解决掉。好吗？基本上，我们可以做两种不同类型的自洽检查。好吗？呃，第一个检查也体现在XP本身的特性上。因为你知道，对于某一个元素，你会有491p。你会有很多p。好吗？除非你只有很少的电子。例如，氢，你只有1s电子。那很难。好吗？但通常来说，好吧，呃，你会在球体里有大量电子。例如，一块铜，你有2s电子、2p电子。好吗？2p二分之一，2p二分之三，还有3s和3p。所以你会有很多这样的。好吗？所以如果其中一个与另一个元素重叠，很可能不是每一个都会重叠。好吗？所以你检查，好吧，所有可能的p是否都出现在正确的位置。很可能你会得到这种覆盖在你的材料里。所以这是其中一种检查。好吗？你要做的第二个检查是利用我们刚学到的轨道之间的耦合。好吗？它导致能级的分裂。好吗？所以让我用这个，呃，作为例子来说明。所以，呃，我刚才讲的是p能级。由于这种耦合不完整，你有两个不同的能量态，对应J的二分之二和二分之三。好吗？所以我们说，呃，在较低能级中只允许填充两个电子。而较高能级允许四个电子。这是怎么计算的。其实有一条规则。规则是，具有特定量子数J的允许电子总数等于2J加1。好吗？所以这就是允许的电子总数，好吧，呃，对应于特定的J。那么，怎么计算呢？例如，这就打开了大门。
+
+[19:14]
+All right? So 2J plus 1 equals to 2. That means that level only accommodates two electrons. All right? So if J equals 2J over 2, so times 2 equals 3, 3 plus 1 equals 4.
+好吗？所以 2J 加 1 等于 2。 这意味着那个能级只容纳两个电子。 好吗？ 所以如果 J 等于 2J 除以 2， 那么乘以 2 等于 3， 3 加 1 等于 4。
+
+[19:14]
+Integral. All
+积分。
+
+[21:18]
+Energies, uh, starting from 84 electrovolts to about 87.
+能量，呃，从84电子伏特到大约87。
+
+[21:18]
+Right?
+对吧？
+
+[21:21]
+So why is that?
+那为什么会这样？
+
+[21:43]
+Well, it appears strange at first sight, but if you think about it through, it's actually quite intuitive. Now, what is bending energy? Bending energy, basically, is a barrier right how difficult that electron is coming from that specific level to the vacuum. Is that right? So it's a barrier, basically.
+嗯，乍一看确实很奇怪，但如果你仔细想想，其实挺直观的。那么，什么是弯曲能量？弯曲能量基本上是一道屏障，就是电子从那个特定能级到真空的难度。对吧？所以它基本上就是一道屏障。
+
+[21:50]
+As described, the difficulty level of this electron to be excited to above the vacuum level.
+如所述，这个电子被激发到真空能级之上的难度。
+
+[21:55]
+Right. What will affect the difficulty level?
+对。什么会影响难度等级？
+
+[22:00]
+What will affect the difficulty level?
+会影响难度等级的是什么？
+
+[22:15]
+Well, because it's basically a prolonged interaction process the electrons are attracted by the positive potential of the atomic core. Is that right? So in order to let it go out, we have to overcome that.
+嗯，因为这基本上是一个持续很久的相互作用过程，电子会被正电势吸引，也就是原子核的正电势。对吧？所以要让它释放出来，我们就得克服这个障碍。
+
+[22:17]
+Right? So if you make.
+对吧？ 所以如果你做......
+
+[22:48]
+The atomic core stronger, for example, increasing this charge, then the difficulty level is increased. Then if you're going to use ultrasound electrons to screen it so that this specific electron doesn't see that much of a charge, the difficulty level is reduced. All right? So you see it is possible that you're going to see a bit of a different energy levels even though you're dealing with slim element, but this element is sitting in different chemical environment.
+原子核更强了，比如说，增加这个电荷，那么难度等级就会提高。然后如果你要用超声电子来屏蔽它，让这个特定电子不至于感受到那么大的电荷，那么难度等级就会降低。好吗？所以你可能会看到能量水平会有些不同，即使你处理的是同一种元素，但这个元素却处在不同的化学环境里。
+
+[22:59]
+Right? So if you say elemental gold, it will be probably different with gold and aluminum compound, with another material, for example, tin. Or so on and so forth.
+对吧？所以如果你说元素金，它和金铝化合物的情况可能会不同，比如与另一种材料，例如锡。等等之类的。
+
+[23:07]
+Okay? Now, this is the general understanding of the chemical shift.
+好吗？现在，这就是对化学位移的总体理解。
+
+[25:10]
+All right. We're currently thinking people can use this charged potential model to explain how the chemical shift actually happens, and what would be expected chemical shift. So the model is actually very straightforward. All right? Now, we're looking at an electron in this atom 2i. All right? So you're going to eject the fourth electron from this atom, and then measure it. Right? Now, what determines its barrier? Obviously, the charge on this atom will affect it. But what else? Well, the charge in its vicinity or neighboring atoms will have an effect on it. Of course, the further away of these neighbors, the less effect it's going to have it on. All right? So it will be a function of both the charge of the neighbors and the separation distance between the neighbor and itself. Okay? So this is a very simple model. Then you come with a very quick equation that describes this difficult principle. Right? So EI is the bending energy of a particular core level electrons on the atom i. So that's why you care about it. All right? So that equals to EI naught. So it is naught. See, we're talking about the chemical shift so whenever you talk about shift, you have a reference. You have a reference you can shift. Okay? So this EI naught is the energy reference usually taken from its elemental state. So when it's zero. All right? And then you have to incorporate the contribution of the charge on this specific atom. Right? And the contribution of the charge from this neighborhood. Right? And divide it by a distance vector. All right? So it's a simple model. You will be able to figure out, all right, whether the shift will be a red shift or a blue shift. That means it's shifted to lower energies or higher energies. All right? Now, let's think about the simple situation just intuitively. You will be able to use both. You may not know the exact number it shifts. Right? So you have a piece of silicon. Right? And you can measure this 2p.
+好。 我们目前在想，人们可以用这个电势模型 来解释化学转移到底是如何发生的， 以及预期会出现什么样的化学转移。 所以这个模型其实非常直观。 好吗？ 现在，我们看的是一个电子在这个原子 2i 里。 好吗？ 所以你要把第四个电子从这个原子里抛出去， 然后再去测量它。 对吧？ 那么，它的屏障是什么决定的？ 显然，这个原子上的电荷会影响它。 但还有什么？ 嗯，它附近或邻近原子的电荷 也会对它产生影响。 当然，这些邻居离得越远， 它对它的影响就越小。 对吧？ 所以它会取决于电荷 以及邻居之间的距离 也就是邻居与它自身之间的距离。 好吗？ 所以这是一个非常简单的模型。 然后你会得到一个非常快的方程 来描述这个复杂原理。 对吧？ 所以 EI 是某个核心层级的弯曲能量 也就是原子 i 上的电子。 所以这就是你关心它的原因。 对吧？ 所以它等于 EI 零。 也就是说它是零。 你看，我们说的是化学转移 所以每当你谈到转移时， 你都会有一个参照物。 你有一个可以移动的参照物。 好吗？ 所以这个 EI 零就是能量参照物 通常取自它的元素态。 也就是当它为零时。 对吧？ 然后你还要考虑它的贡献 也就是这个特定原子对电荷的贡献。 对吧？ 以及电荷的贡献 来自这个邻近区域。 对吧？ 再用一个距离向量去除。 对吧？ 所以这是一个简单的模型。 你就能弄清楚，对吧， 这个转移会是红色的转移 还是蓝色的转移。 这意味着它转移到了更低的能量层级 还是更高的能量层级。 对吧？ 现在，我们来想一个简单的情况 纯粹凭直觉。 你会能够两者都用到。 你可能不知道它到底转移了多少。 对吧？ 所以你有一块硅。 对吧？ 你可以测量它的 2p。
+
+[25:25]
+Electrons. Right? 2p electrons. And then if the silicon is oxidized, now what's your guess on the chemical shift? This is shifting to higher energy or lower energy? Now, without looking at the answers. Okay.
+电子。对吧？2p电子。然后如果硅被氧化了，那你猜测化学位移会怎样？是向更高能量还是更低能量移动？现在，先别看答案。好。
+
+[25:42]
+If you think about it, it's very straightforward. All right? So silicon now is oxidized. So what's the relationship between silicon and oxygen? Does electrons being attracted more to the silicon or attracted more to the oxygen?
+你仔细想想，这很直观。对吧？所以现在硅已经氧化了。那硅和氧之间的关系是什么？是被吸引到硅的电子更多，还是被吸引到氧更多？
+
+[25:42]
+Oxygen.
+氧。
+
+[25:54]
+Oxygen, obviously. Right? So oxygen has a larger electronegativity. So when you pair it up with silicon, right, it grabs silicon away from grab electron away from the silicon. Okay? So that's the case.
+显然是氧。对吧？所以氧的电负性更大。所以当你把它和硅配对时，对吧，它把电子从硅那里拉走。好吗？情况就是这样。
+
+[26:05]
+Now, if electrons are dragged away from the silicon, that means that's equivalent to the silicon core atomic core appears more positive or negative. Okay?
+现在，如果电子从硅那里被拉走，那就相当于硅核——原子核——表现得更为正电性或负电性。好吗？
+
+[26:08]
+You have electrons attracted away.
+你有被吸引走的电子。
+
+[26:08]
+No.
+不。
+
+[27:34]
+From the core. So this is appear more positive or negative. Positive. All right? So it's more positive. Now, your core is more positive. Because the electrons want to get away from it. Right? Want to jump up. This is more difficult or easier? More difficult. Right? So you would expect, depending on energy, it will shift into higher energies. And this is exactly what you see. Right? It's shifting upside. It has a corresponding signal at 104, corresponding to 99, 99, 99 here. All right? So you have a blue shift of 4 to 5 electron volts. All right? So now, with this kind of a very simple model and the fitting, you basically can guess the chemical shift of any compounds if you can compare the electronegativity of itself and the other chemical states of it. All right? So here is another example. If you look at nitrogen, right, when it's abundant so the elemental nitrogen actually sits here. Right? Around 404 herself. But then you see, if you the nitrogen is oxidized to an O2, an O3, or it combines with some hydrogen forming hydrazine, right, they have different chemical shifts. And obviously, these oxidized forms always occurring at higher bending energies compared to this hydrogen bonding nitrogen. All right?
+从核心那里。所以这看起来更正还是更负。更正。对吧？所以它更正了。现在，你的核心更正了。因为电子想要离开它。对吧？想要跳上去。这更难还是更容易？更难。对吧？所以你会预期，根据能量，它会移向更高的能量。这正是你所看到的。对吧？它在向上移动。它在104处有对应的信号，对应到这里的99、99、99。对吧？所以你有4到5电子伏的蓝移。对吧？所以现在，用这种非常简单的模型和拟合，你基本上可以猜测任何化合物的化学位移，如果你能比较它自身的电负性和它的其他化学状态。对吧？所以这里是另一个例子。如果你看氮，对吧，当它丰富时，元素氮实际上在这里。对吧？大约在404附近。但你会看到，如果氮被氧化成O2、O3，或者与氢结合形成肼，对吧，它们有不同的化学位移。显然，这些氧化形式总是出现在比氢键氮更高的结合能处。对吧？
+
+[29:19]
+So that's chemical shift. All right? But that's right. So what I've been talking about is pretty much the most important part you have to handle with SbS. Right? First is your molecular picture. How the electrons are filled in. And this energy levels. You have got to be figured out. Right? If I take SbS spectrum of certain elements, right, how many peaks are there to expect? And what are they? So this is something you need to be able to do. All right? And also to understand. Based on chemical shifts. Right? So origin and model and the predictions. Right? And the rest, I will go a bit faster. Right? So all I've been talking about is the core level excitations. Right? And you say, but then if you move up, you still have electron and valence bands. But that's true. All right? So you will be able to read out the information in the valence band of these electrons where are they as well. All right? But then it's not very commonly used by SbS. Right? The reason why is the interaction cross-section of axillary with the materials in exciting the valence band electrons is really low. Right? So instead, right, people can use a slightly different technique, which is coming next, known as the UPS, ultraviolet fully electron spectroscopy. And we're going to see that in a minute. All right? So I'm going to skip this part. But then it does contain information of the valence band you can read in there. Right? Now, other peaks in SbS, I will skip this part. This is optional. All right? This is tell you, right, other than the main peaks, core level excitations, right, you do have other possibilities such as. Of J. Right? Now, J, we're going to come back with that.
+所以这就是化学转移。 对吧？ 不过没错。 所以我一直在说的基本上是 你在化学转移中需要处理的最重要部分 就是 SbS。 对吧？ 第一是你的分子图。 电子是如何被填充进去的。 以及这些能量水平。 这些你必须弄清楚。 对吧？ 如果我取某些元素的 SbS 光谱，对吧， 预计会有多少个峰值？ 它们是什么？ 所以这是你需要能够做到的事情。 对吧？ 还要理解。 基于化学转移。 对吧？ 所以要有源头、模型和预测。 对吧？ 其余的部分，我会讲得快一点。 对吧？ 所以我一直在讲的都是核心层级的兴奋。 对吧？ 你会说，但如果你再往上走， 你仍然会有电子和价值带。 但这是真的。 对吧？ 所以你就能读出这些信息 在这些电子的价值带里 它们到底在哪里。 对吧？ 但这在 SbS 里并不常用。 对吧？ 原因是，轴突的相互作用截面 与材料之间的交集，会激活价值带电子 非常低。 对吧？ 所以相反，人们可以用一种稍微不同的技术， 也就是接下来要讲的，称为 UPS， 紫外全电子光谱学。 我们马上就会看到这个。 对吧？ 所以我会跳过这一部分。 但它确实包含价值带的信息 你可以在里面读到。 对吧？ 现在，SbS 里的其他峰值，我会跳过这一部分。 这是可选的。 对吧？ 这只是告诉你，除了主要峰值之外， 核心层级的兴奋，对吧， 你确实还有其他可能性，比如。 关于 J。 对吧？ 现在，J，我们会回到这个内容。
+
+[33:30]
+Maybe I will talk about a bit. All right? But there are RJ that say there are plasma losses. Right? There are multiplex fleeting. And there are shake-up and shake-up satellites. So these are just further information if you're interested. All right? You can take a read of yourself. But these are not required. But other than RJ, because RJ will be standing out as an independent topic, so we do cover RJ in this process. Let me just spend a few minutes to explain the RJ process. Right? For you to have a warm-up before we get into the topic in the next chapter. All right? So what is the RJ process? RJ is cohabiting process when you have the x-ray photoelectron excitation. All right? So what happens is that when you have x-rays, it excites one of the core level electrons. So it's going up. All right? But consequence is that you're going to create a hole in the core level of this material. Right? And this makes the whole system extremely uncomfortable and unstable. Right? Now, ultrasound electrons, right, upper levels will see this hole. And it has a desire to jump into this hole and this is known as a recombination or de-excitation process. Right? We actually have said that before. When did we mention that before? In the x-ray generation. So you have to excite one, then some upper ones will jump back in this process. So de-excitation will default energies. Right? If that energy happens to be in the x-ray range, you generate x-ray. Okay? So we have said that before. But now the process is a little bit different. So when this electron is going back to this hole and going back to this hole, it gives out energy. But this energy is happened not to be coming out as a form of x-ray. Instead, this part of energy is provided to a third electron and comes in this electron to acquire enough energy and to be excited about different new level and about the electron level and get all of the material. This is taking the electron. This guy. It's known as the RJ electron. All right? So you see, RJ electron excitation process is a deterrent process. Why is it deterrent? It's a third process. So the primary is that you have a source shed out the excitation of this core electrons. First process. Second process is that another electron, the upper level, jumped back to this core hole and recombination process, the second process. But this energy is passed to the third electron. All right? So this electron will be ejected. So that's the third process. It's a deterrent process. All right? And it's involved. Instead of only one electron, it involves how many electrons. It involves one, two, three. Right? It involves three electrons. So it's RJ, it's a three electron process as well. All right? So that's pretty much you have to know now. All right? We'll come back to that. All right? Just have an understanding of what is the RJ process. All right? And later on, we're going to tell how these will also be used in interpreting the conversation of the materials or chemical analysis. All right? So that can be used as well. But you probably can figure out that can be used as well because it's also relevant to the energy levels to the specific material. Like a serving as a signature. All right? And if it's a three electron process, then in terms of the nomenclature, give it a name. It's the most straightforward to name it from this level, this level, and this level. Right? And that's how the RJ name is actually given. All right? So you see, this is a piece of copper 2p electrons. All right? A 2p 1 over 2 and 3 over 2. And this is an RJ electron from the same piece of copper. All right? And its name is Lmn. Right? Making sense? L level. M level. M level. So corresponding to the three electrons. Now we're going to take a closer look at the RJ later. But I'm going to skip the rest of it. All right? And coming back to this very important interpretation.
+也许我会再讲一点。 对吧？ 但有些 RJ 说存在等离子体损失。 对吧？ 有多层聚变。 还有摇振与摇振卫星。 所以这些只是进一步的信息 如果你感兴趣的话。 对吧？ 你可以自己去看一看。 但这些不是必需的。 但除了 RJ 之外，因为 RJ 会作为一个特征突出 作为一个独立主题， 所以我们在这个过程中确实会讲到 RJ。 我先花几分钟 来解释一下 RJ 过程。 对吧？ 让你做个热身 在我们进入主题之前 在下一章里。 对吧？ 那么，什么是 RJ 过程？ RJ 是一种共存过程 当你有 X 射线光电子兴奋时。 对吧？ 所以会发生的是， 当你有 X 射线时， 它会兴奋核心层级的某个电子。 所以它在往上走。 对吧？ 但结果是， 你会在核心层级形成一个洞 在这种材料的核心层级里。 对吧？ 这会让整个系统变得极其不舒服 而且不稳定。 对吧？ 现在，超声电子，对吧， 在更高层级会看到这个洞。 它有一个目的 就是跳进这个洞里 这被称为复合 或去兴奋过程。 对吧？ 我们其实之前说过这个。 我们之前什么时候提过这个？ 在 X 射线生成里。 所以你得先兴奋一个， 然后一些更高层级的会在这个过程中跳回来。 所以去兴奋会把能量设为默认值。 对吧？ 如果那个能量正好在 X 射线范围内， 你就会产生 X 射线。 好吗？ 所以我们之前说过这个。 但现在这个过程有点不一样。 所以当这个电子回到 这个洞里、再回到这个洞里时， 它会释放能量。 但这个能量并不是以 X 射线的形式释放出来的。 相反，这部分能量是由 第三个电子提供的，并进入这个电子 获得足够的能量 从而对不同的新层级产生兴奋 以及对电子层级产生兴奋 并把全部材料都吸收进去。 这就是在接收电子。 就是这个。 它被称为 RJ 电子。 对吧？ 所以你看，RJ 电子兴奋过程 是一种抑制过程。 为什么它是抑制的？ 它是第三个过程。 所以主要原因是你有一个源头 把这些核心电子的兴奋释放出来。 第一个过程。 第二个过程是另一个电子， 也就是更高层级的电子，跳回到这个核心洞里 并进入复合过程，也就是第二个过程。 但这个能量会传递给第三个电子。 对吧？ 所以这个电子会被射出。 这就是第三个过程。 它是一种抑制过程。 对吧？ 而且它是参与的。 不只是单独一个电子， 而是涉及多少个电子。 它包括一、二、三。 对吧？ 它涉及三个电子。 所以这是 RJ，也是一个三电子过程。 对吧？ 所以这基本上是你现在需要知道的。 对吧？ 我们会再回到这个。 对吧？ 先理解一下什么是 RJ 过程。 对吧？ 之后我们会说明这些也会如何被使用 来解读材料之间的"对话" 或者化学分析。 对吧？ 所以这也可以用。 但你大概也能想出来这也可以用 因为这也与能量水平有关 对应到某个特定材料。 比如它起到"签名"的作用。 对吧？ 如果这是一个三电子过程， 那么在命名方面， 就给它起个名字。 最直接的叫法是 从这个层级、这个层级、还有这个层级。 对吧？ RJ 的名称就是这样得出来的。 对吧？ 所以你看，这是一块铜 2p 电子。 对吧？ 一个 2p：1/2 和 3/2。 而这个 RJ 电子也来自同一块铜。 对吧？ 它的名字叫 Lmn。 对吧？ 明白吗？ L 层。 M 层。 M 层。 所以对应的是三个电子。 现在我们要更仔细地看看 稍后的 RJ。 但我会跳过其余的部分。 对吧？ 然后回到这个非常重要的解读。
+
+[35:45]
+All right? So this is to tell you, all right, remember what I mentioned is that from this equation, all right, you measure the kinetic energy. All right? And you know that any energy. You calculate. All right? But then you have to know the work function of the sample. Okay? But how do we know the work of the sample? This is very complicated. The work function of a sample or a different sample will be all different. All right? So the trick that we use experimentally is that, all right, you are going to ground your sample. All right? To the spectrometer so that the fermi level of your sample and your spectrometer will be aligned. All right? Once it's done so, all right, now in order to have a core electron to be excited about the fermi level and above to the vacuum level, all right, it's not the vacuum level of the material. Instead, it will become the vacuum level of the spectrometer. Before it had its case, this material had been collected. All right? So that difference will modify the early equation that we learned, the kinetic energy. All right? Will equal to, all right, Hb is the energy of X-ray. All right? Any energy is the same. But you minus the phi sample, which is the work functional sample, but also there's an additional, which is a difference between the work function of the spectrometer and the work function of the sample. So you have to minus that one as well because you have to add this additional energy difference. All right? So you work it out and it becomes a new equation with kinetic energy of the electrons equals to the X-ray energy minus the bending energy of the specific core level electron minus the work function of the spectrometer. Now things become straightforward because I don't care about the work function of any of my materials anymore. It becomes a universally calibrated work function of my spectrometer. And that can be done. All right? So now I know everything. I can measure the kinetic energy of my electrons. I know the X-ray energy and I know the work function of my spectrometer. All right? And that is the general case. All right? You're going to be used to figure out the SPS.
+对吧？ 所以这是为了告诉你，对吧， 记住我提到的是， 从这个方程里，对吧， 你要测量动能。 对吧？ 而且你知道任何能量。 你就计算。 对吧？ 但接着你还得知道 样本的功。 好吗？ 但我们怎么知道样本的功呢？ 这非常复杂。 样本的功 或者不同样本的功，都会完全不同。 对吧？ 所以我们在实验中用的技巧是 就是，对吧， 你要把样本接地。 对吧？ 接到光谱仪上 这样你样本的费米层级 和光谱仪的层级就会对齐。 对吧？ 一旦这样做好了，对吧， 那么为了让一个核电子 对费米层级产生兴奋 并且在其上方到真空层级，对吧， 这不是材料的真空层级。 相反，它会变成真空层级 也就是光谱仪的真空层级。 在它有它的情况之前， 这种材料还没有被收集到。 对吧？ 所以这个差异会改变 我们学到的早期方程， 也就是动能。 对吧？ 会等于，对吧， Hb 是 X 射线的能量。 对吧？ 任何能量都是一样的。 但你减去 φ 样本， 也就是功的样本， 另外还有一个额外的， 也就是工作函数与 光谱仪工作函数之间的差额， 也就是样本的功。 所以你必须把那个数减掉 因为你还得把 这个额外的能量差加上去。 对吧？ 所以你把它算出来 就会得到一个新方程 其中电子的动能 等于 X 射线能量 减去弯曲能量 也就是特定核电子层级的弯曲能量 再减去光谱仪功。 这样一来就很直观了 因为我不在乎功 我的任何材料都不在乎了。 它就变成了一个通用校准的功 对应我的光谱仪。 而这可以做到。 对吧？ 所以现在我什么都知道了。 我可以测量动能 也就是我的电子。 我知道 X 射线能量 也知道功 我的光谱仪功。 对吧？ 这就是一般情况。 对吧？ 你会用它来弄清楚 SPS。
+
+[36:09]
+All right? But then there's only one problem. The problem is, all right, you have to make sure there's two fermi levels. Your sample and the spectrometer is perfectly aligned. So that means both of them have to be grounded. Well, you ground your spectrometer. That's okay. No big deal. All right? Now, in order to make sure your sample is grounded, there is a requirement on your sample.
+对吧？但接下来只有一个问题。问题是，对吧，你必须确保有两个费米能级。你的样本和光谱仪完全对齐。所以这意味着两者都必须接地。当然，你可以把光谱仪接地。这没问题。不是什么大事。对吧？现在，为了确保你的样本是接地的，你的样本有一个要求。
+
+[36:18]
+That is, the sample, how can you ground the piece of sample? Your sample has to be conducting. Otherwise, there's no way to ground it.
+也就是说，这个样本，你怎么给样本接地呢？你的样本必须是有导电性的。否则就没有办法把它接地。
+
+[36:52]
+All right? So ground means, all right, it's of the same potential as the ground. If there's a charge on this material, that can flow into the ground so that, all right, it is kept there. All right? But then if your sample is insulated, there's no pathway for charge to flow. All right? You're going to have a trouble. Our experimentally, you can either use the electron gun or you can coat a conducting material on the surface of the sample in order to solve this problem. You have to do something. All right? If your sample is insulated. And that is very important in the experiment. All right? And because what.
+对吧？ 所以接地的意思是，对吧，它的电势和接地电势一样。如果这个材料上有电荷，它就能流向接地层，这样一来，对吧，它就能保持在那里。对吧？但如果你的样本是绝缘的，就没有电荷流动的通道。对吧？你就会遇到麻烦。从实验上讲，你可以用电子枪，或者给有导电性的材料涂层，在样本表面上来解决这个问题。你必须做点什么。对吧？如果你的样本是绝缘的。而这非常重要，在实验中。对吧？因为……
+
+[37:02]
+To rely on is a number of bending energy. All right? X-ray energy is fixed. Okay? And you have to measure.
+你要依赖的是弯曲能量。对吧？X射线能量是固定的。好吗？你必须进行测量。
+
+[37:29]
+The kinetic energy. That is also good. It can be measured very accurately. But don't forget you have to minus this phi, spectrometer. All right? But that is a fixed value. No problem. The problem is that if these two levels are not properly aligned, then this value becomes uncertain. All right? And there will be error. And that's why this process is extremely important. All right? Now, of course, when.
+动能。 这也很好。 它可以非常精确地测量。 但别忘了你还得减去 这个光谱仪的 φ。 对吧？ 但那是个固定值。 没问题。 问题是，如果这两个层级 没有正确对齐， 那这个数值就会变得不确定。 对吧？ 就会出现误差。 所以这个过程极其重要。 对吧？ 当然，现在，当......
+
+[37:46]
+That is done, there's one thing you also have to think about is that you have to always calibrate the spectrometer before any other measurement. So calibration means you don't know where the energy is zero. All right? But you have to make sure you know where the energy is zero. That is simply done by using one piece of.
+做完之后，还有一件事 你也要考虑的是， 你必须始终校准 在进行任何其他测量之前的光谱仪。 所以校准意味着你不知道 能量在哪里为零。 对吧？ 但你必须确保你知道 能量在哪里为零。 这很简单，就是使用一块......
+
+[38:44]
+So these are the commonly known piece of materials or their core levels used for the calibration purpose. For example, we know for gold, before S7 or 2p occurs at 84 electron volts. All right? And we're going to use that to mark it at 84. And then we know where it is zero. All right? In terms of calibrating the spectrometer. All right? So by looking at this table, there is a kind of interesting. This is an after-class thing I'm going to give to you to think about. Look at this table. All right? So on this line, I tell you the calibration p can be used. All right? So I have a view. I have a different materials. I can use either the core level or I can use RJ. Okay? But then I have two different X-ray sources. The aluminum source and the magnesium source. All right? Now, what happens here? You look at these numbers. All right? There is an interesting pattern of the numbers.
+所以这些是常见的材料，或者说是用于校准目的的核能级。例如，我们知道对于金，S7 或 2p 出现在 84 电子伏特。对吧？我们用它来标记为 84。然后我们就知道零在哪里。对吧？就校准光谱仪而言。对吧？所以看这张表，有点意思。这是课后我要给你们思考的内容。看这张表。对吧？在这一行里，我告诉你可以使用校准 p。对吧？所以我有一些不同的材料。我可以用核能级，或者我可以用 RJ。好吗？但我有两种不同的 X 射线源。铝源和镁源。对吧？那这里会发生什么呢？你看这些数字。对吧？这些数字有一个有趣的规律。
+
+[38:47]
+Is there an interesting pattern of the numbers?
+这些数字有没有一个有趣的规律？
+
+[38:52]
+You don't actually need.
+其实你并不需要。
+
+[39:18]
+Right? It should be very straightforward. I mean, this is sort of the data analysis. All right? Even though you know nothing about XPS, you should be able to tell, you know, what is the pattern that you see in the table. Right? Solely from the data. All right? So what you see is that for gold, silver, and copper, if they use the core levels, right, it doesn't matter. All right? Whether you use aluminum source or magnesium source, right, the bending energy are the same.
+对吧？这应该很简单。我的意思是，这算是数据分析。对吧？即使你对XPS一无所知，也应该能看出表格中的规律。对吧？仅凭数据。对吧？所以你会看到，对于金、银和铜，如果它们用核心能级，对吧，没区别。对吧？不论用铝源还是镁源，对吧，结合能是一样的。
+
+[39:47]
+Right? But however, if you're going to use RJ, all right, it becomes more dependent. All right? So this is the general pattern you should see. All right? Now, I'm going to read this to you. All right? You got the time. We'll come back to that. All right? I'm going to read this to you. All right? To think about why it is like so. And this actually passed into your basic understanding of the XPS process and RJ process.
+对吧？ 但如果你要用 RJ， 对吧，那就会更依赖。 对吧？ 所以这就是你应该看到的总体规律。 对吧？ 现在，我把这个读给你听。 对吧？ 你有时间。 我们会再回到这个。 对吧？ 我会把这个读给你听。 对吧？ 让你思考为什么会这样。 而这实际上进入了你对 XPS 过程和 RJ 过程的基本理解。
+
+[39:53]
+All right? Or your deeper understanding of the concepts that I have been repeating in the past hour.
+对吧？或者你对这些概念的更深入理解，也就是我过去一小时一直在重复的内容。
+
+[40:02]
+All right? So if you get a very good understanding of what is going on in XPS and RJ, this becomes very straightforward.
+对吧？ 所以如果你能很好地理解 XPS 和 RJ 中发生了什么， 这会变得非常直接。
+
+[41:42]
+All right? So with that, I can review a little bit. All right? On the bending energy of the elements and indications. So this part belongs to the so-called spectrum interpretation. Spectrum interpretation. All right? So in that part, I would require you to understand what is the notation of the core electrons and how the chemical shape are actually occurring. All right? And on the practical side, all right, there are experimental cautions. One thing is that you have to calibrate the spectrometer before the measurement. All right? And the other is that you have to make sure the Fermi level of your sample and the Fermi level of your spectrometer is well aligned in order to make proper analysis. All right? So that is that part. All right? And the next part is actually the rest of XPS is just a very brief introduction. All right? We're going to move to extremely fast. All right? The first thing is the quantification. Although I've put it a very long equation in there. All right? Don't be intimidated because the only thing, all right, you have to figure out is that what is this I and what is n. All right? All the rest, our parameters corresponding either to the spectrometer, specifics, or geometrical configurations, and so forth. All right? So you can take all of them as a sort of constant for a specific experiment conducted on a specific equipment. All right? So what is IC? Well, IC is the photoelectron intensity. You read out from a specific core electrons of an element. All right? So it's the XPS. Y-axis that you read. Okay? Then what is nI? nI is the number of atoms of an element I per unit volume. So this is the amount of the element you have.
+对吧？ 所以到这里，我可以稍微复习一下。 对吧？ 关于元素的弯曲能量， 以及它们的指示。 所以这一部分属于所谓的 光谱解释。 光谱解释。 对吧？ 所以在那一部分，我会要求你 理解这个光谱的标记是什么， 也就是核电子的标记， 以及化学形态实际上是如何出现的。 对吧？ 而在实践层面上，对吧， 有一些实验性的注意事项。 其中一点是你必须校准 测量之前就把光谱仪校准好。 对吧？ 另一点是你必须确保 你样本的费米层级 以及你光谱仪的费米层级 对齐得很好，才能进行正确的分析。 对吧？ 所以这就是那一部分。 对吧？ 接下来这一部分其实是剩下的部分， XPS 的内容只是一个非常简短的介绍。 对吧？ 我们会非常快地继续往下讲。 对吧？ 第一件事是量化。 虽然我在那里面写了一个很长的方程。 对吧？ 别被吓到，因为唯一的问题是， 对吧，你需要弄清楚的是， 这个 I 是什么，n 是什么。 对吧？ 其余部分，我们对应的参数 可能是光谱仪的参数、特性， 或几何构型等等。 对吧？ 所以你可以把它们都当作某种常数来看， 用于在特定设备上进行的某个实验。 对吧？ 那么 IC 是什么？ 嗯，IC 是光电子强度。 你从一个特定的核电子读出来， 也就是某个元素的核电子。 对吧？ 所以这就是 XPS。 你读的是 Y 轴。 好吗？ 那 nI 是什么？ nI 是元素 I 的原子数， 按单位体积计算。 也就是你所拥有的元素量。
+
+[43:00]
+All right? So this equation is telling you there is a very straightforward, linear correlation in between the amount of the elements you have in your sample and XPS intensity you measured. All right? So if that is the case, the quantification becomes very straightforward. Say you have A, B, C, D, E, F, G. All right? Now, how can you know how much A is there? That is the XPS intensity for A electron. Divided by the XPS intensity of A plus B plus C plus whatsoever. So that's what you have. All right? That's simple. All right? Now, first practically is a little bit more complicated. All right? Because for each of the X-ray peaks, you see, you have two S peaks. That S peak to peak. All right? Their intensity could be different. And the intensity of XPS actually relies on the excitation matrix of a certain core electrons to be excited to upper levels. So that's called the sensitivity of the peak of the specific peak. All right? Now, of course, you have to normalize the sensitivity before you can add up and get the right composition of the specific element. All right? So that normalization process is done by dividing the measured intensity to the sensitivity factor. That's all you have to do.
+对吧？所以这个方程告诉你，样品中元素的数量与你测得的XPS强度之间存在非常直接的线性相关性。对吧？如果是这样，定量分析就变得非常直接。假设你有A、B、C、D、E、F、G。对吧？那么，你怎么知道A有多少呢？那就是A电子的XPS强度除以A加B加C等的XPS强度之和。所以这就是你要的。对吧？很简单。对吧？现在，实际操作中稍微复杂一点。对吧？因为对于每个X射线峰，你看，你有两个S峰。那个S峰到峰。对吧？它们的强度可能不同。而XPS的强度实际上依赖于某个核心电子被激发到更高能级的激发矩阵。所以这被称为特定峰的灵敏度。对吧？当然，你必须先对灵敏度进行归一化，然后才能相加并得到该特定元素的正确组成。对吧？所以这个归一化过程是通过将测量强度除以灵敏度因子来完成的。这就是你要做的全部。
+
+[43:51]
+All right? So that's also straightforward. All right? And then a bit of the knowledge of how would you be able to get a sensitivity factor given that you have all different kinetic compounds. All right? So that sensitivity factor is actually coming from a combination or average of all possible materials you tested. All right? So it's a empirical summary or average of all of the sensitivity from that element staying different chemical environments. All right? So that's it. All right? And the rest would be a bit of a different techniques that you can have in XPS. Now, for example, depth profiling is a very popular method in XPS. All right? This is coming from the fact. XPS, all right, we say it's a surface translation technique. All right? So how deep of the surface you can get into, for XPS?
+对吧？这也很直接。对吧？然后稍微了解一点，考虑到你有各种不同的动能化合物，如何能够得到灵敏度因子。对吧？所以那个灵敏度因子实际上来自于你测试的所有可能材料的组合或平均值。对吧？所以它是一个经验的总结或平均值，来自该元素在不同化学环境中的灵敏度。对吧？就是这样。对吧？其余的会是一些你在XPS中可以使用的不同技术。例如，深度剖析是XPS中非常流行的方法。对吧？这源于一个事实。XPS，我们说是表面表征技术。对吧？那么对于XPS，你能深入到表面多深呢？
+
+[43:56]
+How deep? That dimension? It's the surface calculation technique.
+多深？那个维度？这是表面计算技术。
+
+[50:18]
+And that's providing you a method to differentiate the different compositions along the depth of the materials. The so-called end-of-result, the depth profile. Now, taking examples becomes straightforward, right? You can have a layer of silica oxide on top of the silicon, right? Now, if you're going to collect the FPS from silica ecoserial, that is a perpendicular direction, and you have seen both the silica oxide and then the silica. And then if you're going to collect the photoelectrons from an angle greater than 0, for example 45 degrees, now you see the contribution of the silicon to the oxide is increasing, but then the contribution from the silica is decreasing because the silica— the signals coming from the silica now have to pass much longer pathways before it reaches the surface. So through this one, you can get some of the depth information of the materials without introducing the argon to start your sample surface.
+这为你提供了一种方法来区分材料深度方向上的不同成分，即所谓的最终结果——深度剖面。现在，举例子就变得直接了，对吧？你可以在硅上面覆盖一层二氧化硅，对吧？现在，如果你从垂直方向收集来自二氧化硅的光电子，你已经看到了二氧化硅和硅。然后，如果你从大于0的角度（例如45度）收集光电子，你会看到硅对氧化物的贡献在增加，而硅的贡献在减少，因为来自硅的信号现在必须经过更长的路径才能到达表面。因此，通过这种方式，你可以获得材料的深度信息，而无需引入氩气来蚀刻样品表面。
+
+[50:20]
+All right.
+好的。
+
+[50:25]
+So that will work. And then the problem is obvious, right? In this technique. Yes.
+所以那样就行。然后问题就很明显了，对吧？在这种技术中。
+
+[50:26]
+There's no way you can go really far.
+你不可能走得很远。
+
+[50:26]
+Right.
+对。
+
+[50:31]
+You cannot really go really deep, right? It's only still limited to the surface layers.
+你不可能真的做得很深，对吧？它仍然只局限在表面层。
+
+[50:31]
+Right.
+对。
+
+[50:57]
+All right. So the last one, all right, and I'll be short on this one, is the XPS imaging, all right? Now, instead of reading through the slides, all right, let me talk about this imaging technique is different from the conventional imaging, right? Now, since we are not talking about any microscopy, microscopy is about the imaging, right? So let me just— I'm going to sort of—
+好的。那么最后一个，好的，这个我会简短一点，就是XPS成像，好吗？现在，我们不再逐条看幻灯片，好，我来讲讲这种成像技术它和传统成像有所不同，对吧？现在，因为我们不是在讲任何显微镜学，显微镜学主要是做成像，对吧？所以我就——我会稍微——
+
+[50:58]
+Connotations on it.
+把它的含义联想出来。
+
+[50:59]
+So when you take a picture.
+所以当你拍照的时候。
+
+[51:01]
+What do you do?
+你会怎么做？
+
+[51:04]
+When you use a digital camera to take a picture.
+当你用数码相机来拍照的时候。
+
+[51:05]
+What do you do?
+你会怎么做？
+
+[51:08]
+Modern.
+现代。
+
+[51:09]
+Good evening. 很长短的。
+晚上好。 It's very long.
+
+[51:14]
+All right. So this is basically optics, right? So for example, I take a picture of you, right?
+好的。所以这基本上就是光学，对吧？比如，我给你拍张照，对吧？
+
+[51:15]
+Sure. And
+当然。
+
+[51:19]
+all of your face pictures, right? So by.
+还有你所有的人脸照片，对吧？ 所以通过......
+
+[51:20]
+我想这么快吗？
+Do I want to go this fast?
+
+[51:21]
+So they—
+所以他们——
+
+[51:21]
+我们这个人影。
+Our silhouette.
+
+[51:22]
+Light imaging tools.
+光学成像工具。
+
+[51:24]
+我看困了。我看手机才不困。
+I'm sleepy from looking. I'm not sleepy when looking at my phone.
+
+[51:25]
+Basically.
+基本上。
+
+[51:25]
+找不住了。
+I can't keep up.
+
+[51:29]
+A device that collecting. So it's totally different.
+一个用于采集的设备。所以这完全不一样。
+
+[51:30]
+Plain photography.
+素描摄影。
+
+[51:31]
+Emitted, all right?
+发出来的，对吧？
+
+[51:32]
+Okay.
+好。
+
+[52:06]
+So at the end, I have a one-time, all right, mapping of all of the photocons right so I get a picture, right? So that's a conventional microscopy-based imaging, all right? Now here, in this XPS mapping, or imaging, this is referring to completely different process. So you are not, like, really take a picture, right? Instead, for all of the pictures that you have, right, for each of the pixels, it actually contains spectrum.
+所以最后，我有一个一次性的，对吧，把所有光子对应的映射，这样我就能得到一张图，对吧？所以这就是传统的基于显微镜的成像，对吧？现在在这里，这个XPS映射，或者说成像，指的是一个完全不同的过程。所以你并不是真的去拍一张图，对吧？相反，你手头所有的图片，对吧，每一个像素，其实都包含光谱。
+
+[52:07]
+All right?
+对吧？
+
+[52:15]
+So this kind of imaging, another name is called spectral imaging. All right? Instead of common imaging.
+所以这种成像，另一个名字叫光谱成像，对吧？而不是常规成像。
+
+[52:16]
+So what does it mean?
+那这是什么意思？
+
+[52:29]
+So you are basically collecting the spectrum from any spatial locations, right? So if you have for example—
+所以你基本上是在收集来自任何空间位置的光谱，对吧？所以如果你比如说——
+
+[52:32]
+你们还有钱呢。
+You guys still have money.
+
+[52:42]
+唉。
+Sigh.
+
+[52:58]
+So if you have a sample, right, like this, now what I'm going to do is that I'm going to collect information for a spectrum, from this region.
+所以如果你有一个样本，对吧，像这样，那我接下来要做的是，我会从这个区域收集光谱信息。
+
+[52:58]
+是。
+Yes.
+
+[53:00]
+All right? So this region. 是。
+对吧？所以这个区域。是。
+
+[53:01]
+I have a spectrum.
+Yes. 我有一个光谱。
+
+[53:03]
+Right?
+对吧？
+
+[53:08]
+Then I'm going to collect information from the right next pixel.
+然后我要从左边的下一个像素收集信息。
+
+[53:10]
+Right? And do the same thing.
+对吧？然后做同样的事。
+
+[55:35]
+Right. The priest will ask on that hour. But you only have 3 questions.
+好。 那一刻祭司会提问。 但你只有3个问题。
+
+[55:37]
+All right. We're only 3 questions.
+好。 我们只有3个问题。
+
+[55:37]
+Okay. So
+好的。
+
+[55:50]
+these 3 questions are, uh, analytical type of questions, right? That means it's not the multiple answers, or, uh, or, uh, 2 or 4 questions, nothing like that.
+这3个问题，呃，是分析类型的问题，对吧？也就是说，不是那种多选项式的，或者，呃，或者，呃，2到4个问题，不是那样的。
+
+[55:51]
+All right?
+好吗？
+
+[56:05]
+So I gave you a question, and I asked you to analyze, um, like the spectrum imputation of XPS, like I talked about today. All right? Using your basic energy memory, of the XPS techniques.
+所以我给了你一个问题，并且让你分析，嗯，比如XPS的光谱推导，就像我今天讲的那样。好吗？用你对XPS技术的基础能量记忆。
+
+[56:05]
+Mm-hm.
+嗯哼。
+
+[56:19]
+Maybe a bit testing on your understanding of what I mentioned about this, uh, experimental, uh, procedures, or important things that you have to, uh, make—like XPS experiment. So this kind of questions.
+也许稍微测试一下你对我的理解， 关于我提到的这些，呃，实验性的，呃，程序， 或者一些重要的事情，你需要，呃，去做—— 比如XPS实验。 所以就是这类问题。
+
+[56:20]
+All right?
+好吗？
+
+[56:41]
+And, uh, uh, one hour is not enough. Okay? So there's no worries. So if, like, if the question is extremely dense, I don't have time to finish the question, or there's no—nothing like that. All right? The thing is that you need to know it, you need to finish it rather fast. If you don't know it, I give you 10 days; you probably don't know it either. All right?
+而且，呃，呃，一个小时是不够的。好吗？所以不用担心。所以如果，比如说，问题非常密集，我没时间把问题问完，或者没有——不是那种情况。好吗？关键在于你得知道它，你得尽快完成。如果你不知道，我给你10天；你可能也不知道。好吗？
+
+[56:41]
+Mm-hm.
+嗯哼。
+
+[56:46]
+So this is kind of the thing. All right? Um, what else?
+所以大概就是这么回事。好吗？嗯，还有什么？
+
+[56:58]
+Right. So what will be covered? All right? Uh, everything taught, uh, until the end of today. What we covered. So we'll cover to the last minute of today's class.
+对。那会涵盖哪些内容？好吗？呃，到今天结束为止教的所有内容。我们讲过的。所以我们会讲到今天课的最后一分钟。
+
+[56:59]
+Okay?
+好吗？
+
+[57:02]
+Um,
+嗯，
+
+[57:04]
+what else?
+嗯，还有什么？
+
+[57:39]
+Devices.
+设备。
+
+[58:03]
+There's no way that I can judge you are just looking at the notes, or you're checking with some online sources, and that becomes extremely unfair for the rest of the students. Who are honestly taking the exam, all right? So no electronic devices, right? No cell phone, right? No iPad, no computer, right? Well, you can still print; you have to put it in your bag. Okay?
+我无法判断你只是看笔记，还是在查阅一些网络资源，这对其他认真参加考试的学生来说极其不公平。所以不允许使用电子设备，对吧？不允许带手机，对吧？不允许iPad，不允许电脑，对吧？不过，你还是可以打印出来；但必须放在包里。好吗？
+
+[58:40]
+And so why are we saying that? I need my phone to look at the top. Don't worry. TA will put the time, right, in the computer, and the projector on the screen, so you will have a quick look at the time, right? So the thing is that no electronic devices, and let me emphasize on this: the Chinese University of Hong Kong have a very strict regulation on not using the electronic devices during any type of the exams, including quiz and everything. All right? So TA will be in this classroom and imaginate the whole process.
+那我们为什么要这么说？我需要我的手机来看上面的时间。别担心。助教会把时间放在电脑上，投影在屏幕上，这样你就可以快速看一眼时间，对吧？所以关键是没有电子设备，我要强调这一点：香港中文大学在包括小测在内的任何考试中都有非常严格的规定，禁止使用电子设备。好吗？所以助教会在教室里，想象整个过程。
+
+[59:36]
+Right? So I just, you know, lead that: please do not use the electronic devices, because if, for example, you put your iPhone on the table and TA spots it, then he has to stop your examination right so just please we'll go 0 for you and he has to report to the faculty of this case. And the consequence is significant because each year although I understand this batch had to say it's the first year but we have other embassy programs each year where there are students right being careless and I trust there's no intention to want to copy something or use the iPhone but it happened the electronic devices he just take it out from the pocket and then put it on the table during the exams then if TA saw it there's no choice TA has to report right?
+对吧？所以我就这么说：请不要使用电子设备，因为比如说，如果你把iPhone放在桌上，助教看到了，那他就必须停止你的考试，所以拜托，我们就给你记0分，而且他必须向学院报告这个情况。后果很严重，因为每年，虽然我理解这一批是第一届，但我们还有其他使馆项目，每年都有学生不小心，我相信没有人想抄袭或使用iPhone，但电子设备就这么发生了，他从口袋里拿出来放在桌上，在考试期间，如果助教看到了，没办法，助教必须报告，对吧？
+
+[59:56]
+That will put you and me and TA all in very difficult situations because about that line there's not much we can do because all goes to the procedures it has to report it to the faculty and the faculty will have a committee working on that one once it's established the case you did use or.
+这会让你、我和助教都陷入非常困难的处境，因为在那条线上我们没什么能做的——一切都得按程序走，必须上报给学院，学院会成立一个委员会来处理，一旦确认你确实使用了，或者……
+
+[1:00:34]
+Take out your electronic devices right likely you're going to have a demerit for this degree right and you don't want to do that because the demerit even is removable it takes time right let me spend the time you're graduating one year you're going to have a demerit right that's a huge damage you don't want to do that that's very stupid right so be careful don't take your electronic device out and let me emphasize it okay right so with that okay let's just take a break if you have questions you can talk to me during the break.
+把电子设备拿出来，你很可能会因为这个学位而被记过，对吧？你不想那样做，因为记过即使可以撤销，也需要时间，对吧？让我用你毕业的时间来说，你一年后就会有一个记过，对吧？那是巨大的损失，你不想那样做，那非常愚蠢，对吧？所以要小心，不要把电子设备拿出来，让我强调一下，好吗？好吧，那就这样，让我们休息一下，如果你有问题，可以在休息时跟我谈。
+
+[1:00:36]
+问一下。
+May I ask something?
+
+[1:00:39]
+我们是不是三个问题？
+Do we have three questions?
+
+[1:00:39]
+好。
+Okay.
+
+[1:00:41]
+三个三个大问题好像三个问题。
+Three big questions—seems like three questions.
+
+[1:00:42]
+就是我本身。
+It's just me.
+
+[1:00:44]
+没上洗手间去教育。
+I didn't go to the restroom to get an education.
+
+[1:00:56]
+不想活了。
+I don't want to live anymore.
+
+[1:00:57]
+好难啊。
+That's so hard.
+
+[1:00:59]
+放弃了。
+I gave up.
+
+[1:14:45]
+It's ultraviolet, photoelectron spectroscopy, UVS, right, and by looking at it you see this is very similar to XPS.
+这是紫外光电子能谱，UVS，对吧？通过观察，你会发现它与XPS非常相似。
+
+[1:14:46]
+Is that right?
+对吗？
+
+[1:14:49]
+So the only difference is it's letter Q, and—
+所以唯一的区别是字母 Q，而且——
+
+[1:14:50]
+Okay, so that helps you.
+好的，所以这对你有帮助。
+
+[1:14:50]
+Okay.
+好的。
+
+[1:14:53]
+Can you think of two options different?
+你能想到两个不同的选项吗？
+
+[1:14:58]
+Two years space, we'd use X-ray, and now we're going to use ultraviolet light.
+两年后，我们会使用X射线，现在我们要使用紫外线。
+
+[1:14:59]
+All right.
+好的。
+
+[1:15:01]
+出现的体温。
+The temperature appeared.
+
+[1:15:07]
+All right, the same thing, all right, so in this technique we utilize photonizing probe and real electrons.
+好，同样的道理，好，所以在这项技术中，我们利用的是光子探测器和真正的电子。
+
+[1:15:07]
+Okay.
+好的。
+
+[1:15:27]
+And just a little difference, all right, I'll let you appreciate where is the ultraviolet, all right. So it's just the right below the soft X-rays, all right, with the energy of wavelengths that can do 27 meters, right, and with energy range about 10 to 100 of megavolts.
+有一点区别，好，我会让你看看紫外区域在哪里，好。所以，它就在软X射线下方，能量约为27兆电子伏特，能量范围约为10至100兆电子伏特。
+
+[1:15:31]
+All right, so that's ultraviolet light.
+好的，这就是紫外线。
+
+[1:15:44]
+All right, and again, a few things I will go through, all right. In a rather fast manner, because in this part you see there are actually a lot of overlapping with what we learned in XPS.
+好的，接下来我再快速过几件事。因为在这一部分，你们会看到很多与 XPS 中学到的内容重叠。
+
+[1:15:52]
+Basically, XPS, UPS, are identical methods, but then there's subtle difference.
+基本上，XPS 和 UPS 是相同的方法，但存在细微差异。
+
+[1:15:52]
+You?
+你？
+
+[1:16:00]
+That enable a lot of different capability of the technique in analyzing different aspects of the materials.
+这使得该技术能够分析材料的不同方面，具备许多不同的能力。
+
+[1:16:02]
+Now we're going to see that in a moment.
+现在我们马上就会看到这一点。
+
+[1:16:08]
+All right, so we'll skip that one and talk.
+好的，那我们跳过这个，继续讲。
+
+[1:16:43]
+About a bit here, all right. So in the previous case, we all cared about is spinning energy, that refers to the specific energy levels in the atomic core of the specific element, all right. But then, UPS really allow us to measure the density of states in the valence band, all right. Now, during the break, some of you actually come to ask me, all right, the probability of exciting a particular electron's specific energy levels using X-ray, all right.
+这里稍微讲一下，好吗？所以在前面的情况中，我们关心的都是自旋能，它指的是特定元素原子核中的特定能级，对吧。但是，UPS 确实让我们能够测量价带中的态密度，对吧。现在，在休息期间，你们中的一些人实际上来问我，好吧，用 X 射线激发某个电子的特定能级的概率是多少，对吧。
+
+[1:16:48]
+So this is actually relevant to the use of.
+所以这实际上与……的使用有关。
+
+[1:16:49]
+UPS instead of XPS.
+UPS 而不是 XPS。
+
+[1:17:06]
+All right, so in short, XPS are commonly used to study the core electrons, or figure out the core levels of electrons in the specific element. But UPS are commonly used to study the valence band of electronic structures and materials.
+好的，简而言之，XPS通常用于研究核心电子，或确定特定元素中电子的核级。但 UPS 常用于研究电子结构和材料的价带。
+
+[1:17:18]
+All right, but the difference is think about we just mentioned that X-ray and ultraviolet light, so what is the difference? The difference in the energy, all right, in the excitation energy.
+好的，但区别在于，想想我们刚才提到的X射线和紫外光，那么它们有什么区别呢？区别在于能量，对，就是激发能量上的差异。
+
+[1:17:30]
+Now, you do really have to have a match in between the excitation energy and the energy needed for the specific excitation process in order to maximize the ionization cross-section.
+现在，确实必须使激发能与特定激发过程所需的能量相匹配，才能使电离截面最大化。
+
+[1:17:44]
+All right, so that is say, if you want to excite a deep level core electrons, you have to use high enough energy, so that energy has to be close to the excitation levels, all right.
+好的，也就是说，如果你想激发深能级芯电子，就必须使用足够高的能量，使能量接近激发能级，对吧。
+
+[1:22:09]
+Right.
+对。
+
+[1:22:20]
+Now, why is that a threat? This is also relevant to the UV absorption, as I said. Many people absorb UV, including the gas molecules.
+那么，为什么那是一个威胁呢？这也与紫外线吸收有关，正如我所说。许多物质会吸收紫外线，包括气体分子。
+
+[1:22:36]
+All right. So once you generate UV, it's very easy to get lost, right? This is a very different from X-ray. X-ray you don't get a lot of worry on that. And for XPS, that's pretty cool. Do we need vacuum in the XPS? Yes, because when we.
+好的。所以一旦你产生了紫外线，就很容易“丢”掉，对吧？这和X射线很不一样。X射线方面你不用太担心。而对XPS来说，这挺酷的。XPS需要真空吗？需要，因为当我们……
+
+[1:23:08]
+Analyze the samples, the surface analysis, we see vacuum is always important. We protect a piece of the sample as one thing, right? And the other thing is that when you analyze the XPS, right, you actually read out the book of electrons. So whenever you read out the electrons, you will need a UV conditions because electrons are light particles when they scattered by the gas molecules they're going to be scattered away. You get lost, right? So when anything relies on analyzing electrons, you also need UV. But then what happens to the later part, right, of the system?
+分析样品、进行表面分析时，我们看到真空始终很重要。我们保护样品的一部分，对吧？另一件事是，当你分析XPS时，对吧，你实际上是在读取电子书。所以每当你读取电子时，你就需要真空条件，因为电子是轻粒子，当它们被气体分子散射时，它们会被散射开，你就丢失了，对吧？所以任何依赖分析电子的事情，你都需要真空。那么系统的后面部分呢，对吧？
+
+[1:23:59]
+是变成会稍微——
+It ends up becoming a bit—
+
+[1:24:32]
+If we look at how UV is generated, how UV is generated, you're using a small chamber right now as a discharge chamber, like this. Now, what happens is that you're going to pump the heat in, which is a gas phase, into this chamber, and then you're going to put an electroconfiguration, so basically ionize this helium and create a contrast, right, and then the excitation of the helium ions will cause the emission of the UV. So in all, what do you need? You need a gas chamber.
+如果我们来看UV是如何产生的，UV是怎么产生的，你现在用一个小腔体作为放电腔体，就像这样。接下来会发生的是，你要把热量输入进去，而热量是气相，进入这个腔体里，然后你要做一个电子配置，也就是电离这个氦气并产生一个对比，对吧，然后氦离子的激发会导致UV的发射。所以总的来说，你需要什么？你需要一个气室。
+
+[1:24:47]
+And then when UV is generated, right, you have resist UV to be used as the protein source for your material. All right. Now, think about the rest of the column for analyze.
+然后当UV产生时，对吧，你就有了用于材料蛋白质来源的UV抗蚀剂。好，现在考虑分析用的色谱柱剩余部分。
+
+[1:24:49]
+This UV condition, right? And
+这个UV条件，对吧？
+
+[1:24:57]
+when UV is generated from this chamber anywhere from here, it's going to be the UV condition as well, because otherwise you'll be absorbed. All right.
+当UV从这个腔体产生时，从这里开始的任何位置，也都会是UV条件，因为否则你会被吸收。好。
+
+[1:24:59]
+Then. But
+然后。
+
+[1:24:59]
+here.
+但在这里。
+
+[1:25:01]
+You need gas.
+你需要气体。
+
+[1:25:02]
+If you have gas.
+如果你有气体。
+
+[1:25:04]
+Then it's not UV.
+那它就不是UV。
+
+[1:25:05]
+Okay.
+好。
+
+[1:25:27]
+I would say, okay, how about with seal, this chamber, right? So that UV is created here, then because it's a sealed completely separate from the rest of it, right, then when UV passes through this window, then we use it because all the rest are in vacuum condition. Sounds good, right? But what I just said, no window. Okay.
+我会说，好，那封闭的情况呢，这个腔体，对吧？也就是UV在这里产生，因为它是完全隔离的，与其余部分分离，对吧，那当UV穿过这个窗口时，我们就利用它，因为其余的部分都处于真空状态。听起来不错，对吧？但我刚才说的，没有窗口。
+
+[1:25:45]
+You cannot use window because window materials will absorb UV as well. So that's not working. So you have to leave a space where if it opens, so you're opening the sky to the sky, and somehow from here and on you need UV. But here, you know, you cannot be UV.
+你不能用窗口，因为窗口材料也会吸收紫外线。所以那样行不通。所以你必须留出一个空间，如果它打开了，你就是在向天空敞开，而且不知怎么的，从这里开始你需要紫外线。但在这里，你知道，你不可能有紫外线。
+
+[1:25:46]
+How to do it?
+怎么做到的？
+
+[1:25:51]
+How to do it?
+怎么做到的？
+
+[1:25:59]
+How to manage a non-vacuum vacuum semiconductor?
+如何管理一个非真空的真空半导体？
+
+[1:26:10]
+Any idea?
+有想法吗？
+
+[1:26:13]
+Don't go over.
+别超出去。
+
+[1:26:15]
+什么时候？
+When?
+
+[1:26:24]
+Sounds like difficult, right? But then if I use an analogy.
+听起来很难，对吧？但如果我用一个类比的话。
+
+[1:26:25]
+不够长。
+It's not long enough.
+
+[1:27:00]
+In numbers.
+用数字来说。
+
+[1:27:02]
+Right.
+对。
+
+[1:27:15]
+And now I have another door connecting to the other rooms, and that door is open basically. I can let the students get into that classroom to actually, from that door, very fast.
+现在我有另一扇门连接到其他房间，那扇门基本上是开着的。我可以让学生从那个门很快地进入那个教室。
+
+[1:27:17]
+Right.
+对。
+
+[1:27:21]
+Now, my question is that: do you think I can create or maintain a.
+现在，我的问题是：你觉得我能否创造或维持一个
+
+[1:27:27]
+Number difference in between this classroom and that classroom?
+这个教室和那个教室之间的人数差异呢？
+
+[1:27:35]
+Can I do that? Or in simple words, can I have more students in this classroom and less students in that classroom?
+我能做到吗？或者简单地说，我能让这个教室有更多学生，而那个教室有更少学生吗？
+
+[1:27:37]
+The door is tight.
+门很紧。
+
+[1:27:37]
+Yeah.
+嗯。
+
+[1:27:39]
+Yeah, very good.
+嗯，很好。
+
+[1:27:40]
+You can.
+你可以。
+
+[1:27:43]
+By controlling the door size.
+通过控制门的大小。
+
+[1:27:47]
+Is that right?
+对吗？
+
+[1:27:57]
+Right. So I have a large door over there, I have a large door over there. So in that door, a lot of students keep on coming in, right? So you see, the number of students is going up very fast in this classroom.
+对。所以我那边有一个大门，我那边有一个大门。所以在那扇门里，很多学生不停地进来，对吧？所以你看，教室里学生的数量增长得非常快。
+
+[1:27:59]
+But how do they leave this classroom?
+但他们怎么离开这个教室呢？
+
+[1:28:18]
+They can only go through this door, and this door can be extremely small, and each time only one student can pass, right? But then, for that classroom, right, you have another door on the other side that's exactly being student very fast. So for any student going into that door, that will exit from the back door immediately. Right.
+他们只能通过这个门，而这个门可能非常小，每次只能有一个学生通过，对吗？但是，对于那个教室，另一边还有另一个门，恰好在快速地接收学生。所以任何进入那个门的学生，都会立即从后门出去。对。
+
+[1:28:18]
+Right.
+对。
+
+[1:28:29]
+So in this way, right, I can establish a balance in between the number of students in this classroom and the one in that classroom. And here you have a lot of students, and there you have almost no students.
+所以用这种方式，对吧，我可以在教室里的学生数量和那个教室里的学生数量之间建立一种平衡。而这里有很多学生，而那边几乎没有学生。
+
+[1:28:35]
+Can I do that? Yeah. So this kind of technique is known as the confidential company.
+我能做到吗？可以。所以这种技术被称为“保密公司”。
+
+[1:28:44]
+Right. So the whole idea, okay, the technique later, I will skip the calculations, but if you're interested, you can delve into that, right?
+对。所以整体思路，好的，技术部分我之后会跳过计算，但如果你感兴趣，可以深入了解一下，对吧？
+
+[1:28:56]
+So calculation itself is not important to the important is the concept. The concept is that you can create a vacuum-level difference of two connecting containers.
+所以计算本身并不重要，重要的是概念。概念是你可以创造两个连接容器之间的真空水平差异。
+
+[1:28:57]
+Right.
+对。
+
+[1:29:10]
+And the trick is that you will control the pumping speed and the leaking speed on both sides, and also the connection entrance in between. The two containers or chambers.
+诀窍在于你要控制两侧的泵速和泄漏速度，以及中间的连接入口。这两个容器或腔体。
+
+[1:29:11]
+Right.
+对。
+
+[1:29:43]
+So that's the whole idea. You generate a so-called confidential pumping. And that is a very important technique. I use the in the ultra-high vacuum or a high vacuum. Right. So some of you asked me, during the break, say that, "What will be tested?" Right. In the quiz, right? Well, I spent a lot of time talking about XPS, for sure. I also spent a lot of time talking about vacuum. Right. So vacuum will definitely be tested. And we actually through the.
+所以这就是整个思路。你产生所谓的机密泵送。这是一项非常重要的技术。我在超高真空或高真空中使用它。对。所以你们有些人课间问我，“会考什么？”对吧？在测验中，是吗？我花了很多时间讲XPS，当然。我也花了很多时间讲真空。对。所以真空肯定会考。而且我们实际上通过……
+
+[1:29:57]
+Right, at different levels, we have quite a bit to get understanding of the vacuum. I trust that every one of you will be able to read a chart of the vacuum by yourself. But now we have deeper understanding by introducing the confidential pumping.
+对，在不同层级上，我们对真空有不少需要理解的地方。我相信你们每个人都能自己读懂真空图表。但现在通过引入"机密泵"，我们有了更深入的理解。
+
+[1:29:58]
+Right.
+对。
+
+[1:30:09]
+Now, this is one of the stories using a heating source to generate UV light photons, right? But as a matter of fact, right, the design.
+现在，这是其中一个故事，用一个加热源来产生紫外光子，对吧？但事实上，对吧，这个设计。
+
+[1:30:54]
+Of a synchrotron radiation becomes another possibility, right, that is can be used not only for UV, right, UPS, but also for XPS as well, right? This is one of the major advancements in instrumentation in the past years. Right. So what is the synchrotron radiation that refers to a radiation emitted by electrons traveling in a circular orbit at near light speed? Right. And synchrotron radiation happens, right, in X-rays and ultraviolet regions for the spectrum. So it does give a continuum of a broadband of light photons covering from the X-ray to the UV visible range.
+同步辐射的设计成为另一种可能性，对吧，它不仅可以用于紫外线，对吧，UPS，也可以用于XPS，对吧？这是过去几年仪器方面的主要进步之一。对。那么什么是同步辐射，指的是由电子在环形轨道上以接近光速运动时发射的辐射，对吧？同步辐射发生在光谱的X射线和紫外区域，对吧。所以它确实提供从X射线到紫外可见范围的连续宽带光子。
+
+[1:31:00]
+Right. So there are a few things in terms of as a requirement.
+对。 所以从要求来说，有几点。
+
+[1:31:27]
+To generate the synchrotron radiation, right? Now, first of all, right, it requires accelerating charged particles. Now, in our case, it is electrons, usually. Right. And how fast do we need to accelerate these electrons? To relative distance speed. So what is relative distance speed? So that is very close to the speed of light. Okay. Very close to the speed of light.
+要产生同步辐射，对吧？ 现在，首先，对吧，它需要加速带电粒子。 在我们的例子里，通常是电子。 对。 那我们需要把这些电子加速到多快？ 到相对论速度。 那么什么是相对论速度？ 那就是非常接近光速。 好。 非常接近光速。
+
+[1:31:28]
+Right.
+对。
+
+[1:31:36]
+Then later on, we're going to use the relativistic vectors, gamma, right, that is the.
+然后后面，我们会使用相对论向量 gamma，对吧，就是那个。
+
+[1:32:21]
+Larger the gamma, right, you will see what it will be exact. Right. So when you have this electrons traveling very fast, this is one of the requirements. And the other is that they have to go in a circular pathway. Right. They have to travel in a circular pathway that is the second thing. If these two requirements are satisfied, right, then you will be able to emit synchrotron radiations. Right. Now, here is a bit of physics, right? So you can accelerate electrons. That's no problem. You can use electric fields to do that. Okay. So how to make electrons to travel in a circular pathway?
+更大的 gamma，对吧，你会看到它确切会是什么。对。所以当这些电子运动得非常快，这是要求之一。另一个是它们必须走圆形轨道。对。它们必须走圆形轨道，这是第二件事。如果这两个要求都满足了，对吧，那么你就能发射同步辐射。对。现在，这里有点物理，对吧？所以你可以加速电子。那没问题。你可以用电场来实现。好。那么如何让电子在圆形轨道上运动？
+
+[1:32:48]
+This is, yeah, this is a relevant question to what we learned previously. So to manipulate the trajectory of electrons to travel in that. One is using electric field. All right. And the other is using magnetic field. Right. So imagine if you have electrons traveling in this direction. So this is the velocity in this direction. If you're going to apply a magnetic field perpendicular to.
+这个，嗯，这是一个与我们之前学到的内容相关的问题。所以要操控电子的轨迹使其沿那条轨道移动，一种方法是利用电场。好的。另一种是利用磁场。对。所以想象一下，如果你有电子朝这个方向移动，那么这就是这个方向的速度。如果你要施加一个垂直于……的磁场。
+
+[1:32:49]
+这图给你先。
+I'll give you this diagram first.
+
+[1:33:00]
+Right. So you say, "Look at law," right? That will tell you you're going to create a force. Right. You're going to create a force. Being perpendicular to those.
+对。所以你说："看看规律，"对吧？那会告诉你你将会产生一个力。对。你将会产生一个力。它与那些垂直。
+
+[1:33:00]
+对。 The
+Yes.
+
+[1:33:03]
+velocity of the electron and the behavior of light.
+电子的速度以及光的行为。
+
+[1:33:11]
+Right. So that force is known as the central capital force.
+对。所以这种力被称为中心力。
+
+[1:33:15]
+好困。今天最困的一节课。
+So sleepy. This is the most tiring class today.
+
+[1:33:16]
+走不住。
+I can't keep up.
+
+[1:33:18]
+真的很困。
+I'm really tired.
+
+[1:33:20]
+Because?
+为什么？
+
+[1:33:26]
+That is perpendicular to your velocity.
+它与你的速度垂直。
+
+[1:33:32]
+Okay. So you have a B field, basically, here. Okay.
+好。所以基本上这里有一个 B 场。好。
+
+[1:33:59]
+So this B field, right, perpendicular to the velocity, will lead to the generation of this central capital force F, okay? And this F working on this charged particle traveling in this way, well, will make it need to circular pathway. All right. That's how, all right? So that's how you can generate or manipulate the trajectory of the electrons into a circular pathway.
+所以这个 B 场，对，与速度垂直，会导致产生这个中心力 F，好吗？而这个 F 作用在这个带电粒子上，以这种方式移动时，嗯，就会让它需要沿着环形轨道运动。好。就是这样，好吗？所以这就是你如何产生或操控电子在环形轨道上的轨迹。
+
+[1:34:20]
+So when these two conditions are satisfied, right, you're going to have the so-called synchrotron radiation. And this radiation will be coming out from so this is the circular pathway, right? So this is the velocity of the electrons. So the synchrotron radiation will be coming out in.
+所以当这两个条件都满足时，对吧，你就会得到所谓的同步辐射。而这种辐射会从——所以这是环形路径，对吧？所以这是电子的速度。所以同步辐射会从里面发射出来。
+
+[1:34:29]
+Core-like shape, right? Tangential to the radius of the circle.
+呈核状，对吧？与圆的半径相切。
+
+[1:34:56]
+All right. So this is the synchrotron radiation. Right. And the features of the synchrotron radiation, as I said, right, it's continuable. So you have a range of movements. To cover. Now, if this is the case, so I do have mentioned another kind of continuum of axial generation in the previous lectures. You guys do remember?
+好。 所以这就是同步加速器辐射。 对。 而同步加速器辐射的特征， 就像我说的，对吧，它是连续的。 所以你会有一段运动范围。 需要覆盖。 现在，如果是这种情况， 我确实提到过另一种连续体 在之前的讲座里。 你们还记得吗？
+
+[1:35:04]
+We're talking about the XPS, axial regeneration. So I'm talking about there's a, like, a large background.
+我们在讲XPS，轴向再生。所以我说的是，有一个，比如，一个很大的背景。
+
+[1:35:08]
+In the axial regenerated.
+在轴向再生的情况下。
+
+[1:35:11]
+I'm talking about axial source in the last lecture.
+我说的是上一节课讲到的轴向源。
+
+[1:35:40]
+Right. Now, I say the axial source itself is composed of the different axial lines where K alpha, one, K alpha two, K beta. So you have a width, right? And not only have a width, it has a background, right, which is very wide, right? And that is coming from an effect known as Gram's coulomb. Remember that, right? That is coming from the acceleration of the electrons
+对。现在，我说轴向源本身由不同的轴向线组成，其中有K α1、K α2，还有K β。所以你会有一个宽度，对吧？而且不只是有宽度，它还有一个背景，对吧，而且非常宽，对吧？而这来自于一种效应，称为格拉姆的库仑。记住这个，对吧？它来自于电子的加速度
+
+[1:38:29]
+from the acceleration of the electrons and the nature is due to electrical field. Right. So that gives me the Gram's coulomb emission. Right. Now, here, you see another two of them, the synchrotron radiation and the Gram's coulomb, shares quite a bit in common. Right. This is also about acceleration of the electrons. Right. But here is a de-acceleration. Deceleration can be considered as your acceleration is opposite to the direction of the velocity. All right. Right. And in this case, what is the acceleration? Your acceleration is perpendicular to your velocity. Right. So in Gram's coulomb, you have acceleration to the opposite direction of your velocity. All right. And in this case, you have acceleration perpendicular to your direction of the velocity. Right. And in this case, you get continuing range of axial rays known as the synchrotron radiation. And the other case, you get Gram's coulomb. All right. But then, Gram's coulomb is by no means similar to the synchrotron radiation. It's because the synchrotron radiation are of a few different, important features. One is it's a highly coordinated radiation. So the coordination means, right, that you have a very narrow angle for the coulomb generated. So it means these axial generated are almost parallel beam. Right. So this is a coordinated radiation. Right. Then it's a continuous spectrum. This is very similar to that of the Gram's coulomb. But then, this synchrotron radiation generated is also extremely strong. Right. Confirmed Gram's coulomb is actually not strong. It's weak. The broadband. Right. But synchrotron radiation, the axial ray or the UV light generated, is of extremely high intensity. So it's a bright source. Right. And the last layer is linear polarized within the orbital plane and the electrically polarized outside the plane. Right. So this synchrotron radiation generates an axial ray and a UV light source of unique properties. Experimentally, right, how would you realize it? It relies on, first of all, the application. Now, of course, you have to first accelerate the electrons using the EQ. But why is that? It's accelerated. You will pass, you will add electrons to pass through this magnet. Right. And so that it create a curved trajectory of the electrons. Right. So when that happens, you see, so this is the ring the electrons travels. Right. And what happens is that you have generated this coordinated axial sources. Right. And when you let it pass through, so the directions tend to go to the circle. Right. You let this beam come out and use it for different analytical purpose. Right. Now, with that, I'm getting very tired. Right. I'm going to show you a short video.
+来自于加速度 以及它的性质 是由于电场。 对。 所以这就得到格拉姆的库仑放射。 对。 现在，这里你看到另外两个， 同步子子射线和格拉姆的库仑， 有相当多的共同点。 对。 这也涉及加速度 也就是电子的加速度。 对。 但这里是一个减减速度。 减速度可以理解为你的加速度 与速度方向相反。 好。 对。 那在这种情况下，加速度是什么？ 你的加速度是垂直于 你的速度。 对。 所以在格拉姆的库仑里，你有加速度 与速度方向相反。 好。 而在这种情况下，你有加速度 与速度方向相垂直。 对。 而在这种情况下，你会得到连续范围 这种轴向射线称为同步子子射线。 而在另一种情况下，你得到格拉姆的库仑。 好。 但是，格拉姆的库仑并不相似 于同步子子射线。 因为同步子子射线有几种不同的， 重要特征。 其中一个是它的辐射高度非常高。 所以所谓的"同步"，对吧， 就是你会有一个非常窄的角度 来产生库仑。 也就是说，这些轴向产生的辐射几乎是平行波。 对。 所以这就是同步辐射。 对。 然后它是一个连续光谱。 这和格拉姆的库仑非常相似。 但这种由同步子子辐射产生的辐射 也极其强。 对。 确认的格拉姆的库仑其实并不强。 它很弱。 宽带。 对。 但同步子子辐射、轴向射线 或由紫外线产生的辐射，强度极高。 所以它是一个很亮的源。 对。 最后一层是线性极化的 在轨道平面内，并且在外部电极化 在平面之外。 对。 所以这种同步子子辐射会产生一束轴向射线 以及一种具有独特性质的紫外线源。 从实验上讲，对吧，你会怎么实现它？ 首先，它依赖于应用。 当然，你首先必须让电子加速 用到 EQ。 但为什么要这样做？ 它是加速的。 你会通过，你会增加电子来穿过 这个磁体。 对。 这样就会形成一条曲线轨迹 由电子组成。 对。 所以当这发生时，你会看到， 这就是电子穿行的环。 对。 然后会发生的是，你已经产生了 这些同步的轴向源。 对。 当你让它穿过时， 两个方向往往会朝向圆。 对。 你让这束光出来 并用于不同的分析用途。 对。 现在说到这里，我开始很累了。 对。 我给你们看一个短视频。
+
+[1:38:35]
+Of synchrotron radiation.
+关于同步子子辐射。
+
+[1:38:36]
+Welcome to the Stanford.
+欢迎来到斯坦福。
+
+[1:42:22]
+Right. Welcome to Bruss
+对。
+
+[1:44:36]
+Or as a shuffle, they go, "Okay," and you come with the facility, you ask RF, or is the third generation building taking the late '80s, early '90s, right? Now, of course, in different parts of the world, there are all different facilities. For example, the Argonne National Labs also. Used in Beijing as well in England.
+或者像一种洗牌一样，他们说：“好吧，”然后你带着设施来，你问射频，或者第三代建筑是不是建于80年代末、90年代初，对吧？当然，现在在世界不同地方，有各种不同的设施。例如，阿贡国家实验室也是如此。在北京以及英格兰也有使用。
+
+[1:44:42]
+Right, so these are the facilities, how it looks like. The major part
+对，所以这些就是设施的外观。主要部分
+
+[1:45:26]
+is actually as you will see, a lot of the pictures in this is rain, right, and that allows electrons to travel. Right, and how the beam line works is that at each of the tangential directions in these lines, right, they can let the synchrotron coming out, right? So for each of the devices coming out, this is called a beam lines, right, they are actually devoted to different purposes. So as shown in the video, some of them are used to study biological samples, so this is soft x-rays, right, some of them are used to study battery materials, and others may be used to study the solid-state physics. So it's all different kind of applications that you can use, by tuning the beam lines to a special purpose in the research.
+其实正如你会看到的，这里很多图片都是雨，对吧，这能让电子传播。对吧，光束线的工作原理是，在这些线的每个切线方向上，对吧，它们能让同步辐射出来，对吧？所以对于每个出来的装置，这就叫做光束线，对吧，它们实际上用于不同的目的。正如视频所示，有些用于研究生物样本，这是软X射线，对吧，有些用于研究电池材料，其他的可能用于研究固态物理。所以这都是你可以通过将光束线调谐到研究中的特定用途来使用的不同应用。
+
+[1:45:29]
+Right, so this is that, right?
+对，所以就是这样，对吧？
+
+[1:46:26]
+Now, UPS principles, I will be brief on this, because this part is the will be quite difficult to explain and understand without enough solid-state physics background. Asset, because this part of the information is relevant to, right, the density of states, field density of states in the dataset. So that is what we hope, right? Now, I said XPS is not very easy to probe this part of the information, simply because the XPS the X-ray ionization cross-section, right, was materials in this band is rather low. But there are other reasons. Summarizing the last slides, but then, for UV, what is the ultraviolet light, right, that circular purpose. Now, what's going to happen is that, right, starting from the fermi level, right, and down, and you will have a number of density states, and that basically tells you the energy level distributions of a specific material.
+现在讲讲UPS的原理，我会简要说明，因为这部分内容如果没有足够的固态物理背景，会相当难以解释和理解。而且这部分信息与态密度有关，对吧，即数据集中的态密度场。所以这就是我们所期望的，对吧？我之前说过XPS不太容易探测这部分信息，仅仅是因为XPS的X射线电离截面，对吧，在此能带中的材料相当低。但还有其他原因。总结一下前面的幻灯片，然后，对于紫外光，也就是紫外光，对吧，它有环形作用。接下来会发生的是，对吧，从费米能级开始，对吧，向下，你会有一系列态密度，这基本上告诉了你特定材料的能级分布。
+
+[1:49:51]
+It's UPS.
+是 UPS。
+
+[1:51:27]
+The general understanding is we're going to talk about that, we're going to work at least the two parts to explain physics, right? So we're going to skip that part and let you see and jump into this last part going back to XPS.
+总体理解是，我们会谈到这一点，我们至少会用两个部分来解释物理，对吧？所以我们会跳过那一部分，让你们看一看，然后直接进入最后一部分，回到 XPS。
+
+[1:54:09]
+Yes. Great. A lot of you have come to ask me, you know, this and that. Right. The whole idea—let me repeat it a little bit if you forgot—right, involves that excitation of four-level electrons, creating cohort, then another electron jumping from a higher level back to the cohort, causing recombination that gives out the amount of energies, and two, another electron nearby, and that causes excitation of this electron and what to collect will be this electron and you can read out the kinetic energy.
+是的。很好。 很多人来问我这个那个。 对。 整个想法——我再简单重复一下， 如果你们忘了的话——就是涉及四能级电子的激发， 形成一个相干组， 然后另一个电子从更高的能级跳回这个相干组， 导致复合， 释放出一定的能量， 再者， 附近另一个电子， 这会引起这个电子的激发， 要收集的就是这个电子， 你可以读出它的动能。
+
+[1:54:48]
+Right. Now, if you ever thought about a question I ask, you know, remember in that table, I give you the gold, silver, that the copper, four levels, right, different x-ray sources with the same bending energy. But the RJ, right, they have different energies. Right. This is relevant to the process. So what is important about the RJ process is that it's a free electron-involved process, and the kinetic energy of this RJ electron is irrelevant to whatever excitation source that it's using. This is also.
+对。现在，如果你想过我问过的一个问题，你知道的，还记得在那张表里，我给你金、银、还有铜，四个能级，对吧，不同的X射线源具有相同的弯曲能量。但RJ，对吧，它们的能量不同。对。这与过程相关。所以关于RJ过程重要的是，它是一个涉及自由电子的过程，而这个RJ电子的动能与它所使用的任何激发源都无关。这也是。
+
+[1:54:53]
+Important things about RJ. First of all, it's a free electron process.
+关于RJ的重要事情。首先，这是一个自由电子过程。
+
+[1:55:19]
+Okay. Second, second of all, the kinetic energy of this RJ electron has nothing to do with the source that it's used. Is that right? Yeah, because the kinetic energy of this electron depends on the energy difference between this one, this one, and this one. Is that right? That's all you need. That's a fixed value. The kinetic energy of a specific RJ.
+好。第二，其次，这个RJ电子的动能与所用的源无关。是这样吗？对，因为这个电子的动能取决于这个、这个和这个之间的能量差。是这样吗？你需要的就这些。这是一个固定值。某个特定RJ的动能。
+
+[1:55:45]
+And you'll say, "How do we define the specific RJ?" Well, we have to define it just like we have to give it to the SBS, right? Then how do we give it names? Very straightforwardly. We'll give it names to about this level, this is the initial level, the recombination level, and the excitation level. So we're going to use this three levels, right, to define the name of the RJ electrons. Here. Right. Now,
+你会说："我们怎么定义这个特定的RJ？" 嗯，我们必须定义它，就像我们必须把它交给SBS一样，对吧？ 那我们怎么给它命名呢？ 非常直接。 我们会给它命名到大约这个层级， 这是初始层级， 复合层级， 以及激发层级。 所以我们要用这三个层级，对吧， 来定义RJ电子的名称。 在这里。 对。
+
+[1:55:49]
+so this is the equation I just mentioned.
+所以这就是我刚才提到的那个方程。
+
+[1:55:49]
+Thank you.
+谢谢。
+
+[1:56:09]
+Right. So that is the kinetic energy you measured from the electrons, right? The lowest level, right, k level, minus the excitation level, right, I'm sorry, the recombination level, and minus the excitation level. And of course you have to subtract the work function as well, before you can get the kinetic energy. So that's the equation we're going to use.
+对。所以那就是你从电子中测量到的动能，对吧？最低的能级，即K层，减去激发能级，抱歉，是复合能级，再减去激发能级。当然，你还得减去功函数，之后才能得到动能。所以这就是我们要用的方程。
+
+[1:56:23]
+Right. And the nomenclature. Very straightforward. Right. Now consider, uh, you're going to excite initially a k-level electrons, create a hole, right, and now you're going to have a.
+对。 还有命名方式。很简单。 对。 现在考虑一下，呃，你最初要激发一个k层电子，形成一个空穴，对吧，然后你会有一个。
+
+[1:56:54]
+L2-level electron sitting in this hole and coming back and recombined, right, and this amount of energy will be passed to this electron, then going up. Right. So how do we name it? The first level comes from L, right? The second coming from the recombination level, L2, and the third one coming from L3. Right. But usually, L2 and 3 are not discernible, so it's okay as well. This is just an example. Right. So that's how the name is defined.
+L2层电子落在这个洞里，回来并重新复合，对吧，这部分能量会传递给这个电子，然后它继续往上。对。那我们怎么命名呢？第一层来自L，对吧？第二层来自复合层，L2，第三层来自L3。对。但通常L2和L3不易分辨，所以这样也可以。这只是一个例子。对。所以名称就是这样定义的。
+
+[1:57:02]
+Right. Now, then looking at this table. So I put in the k electrons, 2L, m, and.
+对。现在，我们来看这张表。我把k个电子放进去，2L、m，还有。
+
+[1:57:12]
+And so on and so forth. Right. So you see, you have different energy levels. K is only one level. L, you will have actually three. So this is the. Okay.
+等等诸如此类。对。所以你看，你有不同的能级。K只有一个能级。L实际上有三个。所以这就是。
+
+[1:57:48]
+2S level, correct? But this one is coming from the spin orbital company, so you have p1/2 and p3/2. Right? All right. So that's why you have three levels in this case. Right. But if you were not able to discern the difference in between two, these two levels, sometimes these two levels are written as L23 all together. Right. It depends on whether you can discern it or not. Right. But then, you see, if this is the case, if I'm going to excite this core level electrons from the very beginning, leaving the hole there, right? So I can have, like, k
+2S层，对吗？但这个来自自旋轨道耦合，所以你有p1/2和p3/2。对吧？好。所以在这种情况下你会有三个能级。对。但如果你无法分辨这两个能级之间的差异，有时这两个能级会一起写成L23。对。这取决于你是否能分辨出来。对。但你看，如果是这种情况，如果我要从一开始激发这些核心层电子，把空穴留在那里，对吧？所以我可以有，比如k
+
+[1:58:10]
+L1, right? So L1 electrons come in there. Then causing these electrons to come out. Right. But at the same time, what can happen is that this electron can jump in, causing this electron to jump out. Or causing the same level to jump out. So you see, there are different combinations of RJ ions.
+L1，对吧？所以L1电子会进入那里，然后导致这些电子出来。对。但与此同时，可能会发生的是，这个电子可以跳进来，导致这个电子跳出去。或者导致同一能级的电子跳出去。所以你看，有不同的RJ离子组合。
+
+[1:58:23]
+That is true. So for RJ, the computation lies in you're going to have a lot of combinations of RJ ions. And they're not necessarily the same. You have the SBS, SBS is basically how many energy levels you have. How many peaks you're going to see. Right.
+这是真的。所以对于RJ（俄歇）计算，关键在于会有很多RJ离子的组合。而且它们不一定相同。你有SBS，SBS基本上是你有多少能级，你会看到多少个峰。对。
+
+[1:58:34]
+Now, RJ is that you have to list all the energy levels and think about all possible combinations. Right. So that's the amount you're going to see in the RJ spectrum.
+现在，RJ就是你必须列出所有的能量层级，并考虑所有可能的组合。对。所以这就是你在RJ光谱中会看到的数量。
+
+[1:59:23]
+Right. Then why use electrons? Well, a lot of reasons using electrons. In RJ, right? So this is one of the key differences for AES. RJ electrons microscopy, and SBS. Now, in SBS, we did mention in SBS spectrum, you do see these RJ electrons. Right. That means SBS process, you generate RJ electrons. Right. But, right, we don't really analyze RJ electrons using SBS spectrum. Right. Instead, right, the devotee technology of RJ electron spectroscopy relies on, right, using the excitation source of electrons. Right.
+对。 那为什么要用电子呢？ 好吧，使用电子有很多原因。 在RJ里，对吧？ 所以这是AES的关键区别之一。 RJ电子显微镜，以及SBS。 现在，在SBS中，我们确实提到过 在SBS光谱中，你确实会看到这些RJ电子。 对。 这意味着在SBS过程中，你产生RJ电子。 对。 但是，对吧，我们并不真正通过SBS光谱来分析RJ电子。 对。 相反，对吧，RJ电子光谱学的技术依赖于，对吧，使用电子作为激发源。 对。
+
+[1:59:26]
+To excite the piece of material.
+用来激发这块材料。
+
+— 由 LecSync 生成
