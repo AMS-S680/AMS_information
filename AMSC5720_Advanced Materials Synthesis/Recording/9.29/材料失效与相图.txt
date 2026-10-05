@@ -1,0 +1,2210 @@
+材料失效与相图
+日期: 2026年9月29日 18:54
+语言: 英语 → 中文
+时长: 2小时14分59秒
+
+[0:00]
+Thank you. The crack rolling already started, right? Because internally the local stress is much, much higher, right? It's much, much higher than the loading you actually apply externally, right?
+谢谢。裂纹滚压已经开始了，对吧？因为内部的局部应力高得多，对吧？它比你实际在外加载荷高得多，对吧？
+
+[0:06]
+This is something you can't physically measure, right? We can only deduce using the theoretical model.
+这是无法通过物理测量得到的，对吧？我们只能通过理论模型推导出来。
+
+[0:06]
+I don't know.
+我不知道。
+
+[0:10]
+But we can only measure and control this original.
+但我们只能测量和控制这个原始的。
+
+[0:10]
+这是内BPM。
+This is internal BPM.
+
+[0:10]
+Maximum.
+最大值。
+
+[0:12]
+这个BPM是。
+This BPM is.
+
+[0:26]
+Right, so basically when we have a core, you have a building bump, right, that may be exploding. Well, you're applying normal load, right? So all these internal cracks could be then dangerous, right?
+对，所以基本上，当我们有一个核心时，就会有一个建筑凸起，对吧，它可能会爆炸。嗯，你施加的是法向载荷，对吧？所以，所有这些内部裂纹都可能变得危险，对吧？
+
+[0:38]
+Could be dangerous. Okay? So people have come up ways to experimentally qualitatively compare the factors there, right?
+可能很危险。明白吗？所以，人们已经想出了通过实验定性比较其中各因素的方法，对吧？
+
+[1:19]
+It's like I mentioned, we can never really know the sigma n, right, for real piece of sample or material, but we have come up with a standard measurement. We cut all the material to this kind of shape, right? It's a square cross section long dot, right, and in this rod we have specifically controlled all these dimensions, right? It's 10 millimeter times 10 millimeter, and we carved a 2 millimeter deep crack, right?
+就像我提到的，对于实际的样品或材料，我们永远无法真正知道 σₙ，对吧？但我们已经想出了一种标准测量方法。我们把所有材料都切割成这种形状，对吧？这是一个长方形截面的长条，对吧？在这根杆中，我们对所有这些尺寸进行了严格控制，对吧？它是10毫米乘10毫米，我们刻出了一条2毫米深的裂纹，对吧？
+
+[1:56]
+So the shape angle is all fixed, right? If you're ever testing such kind of thing, they will hand you a piece of standardized mold for you to cut the material, right? So once we cut all our sample like that, we put it under this very classic, very straightforward machine to try to break it into two. And we see how large is the loading we need to break it, and we have an idea about its ultimate external fracture strength that it can sustain for fracture, okay?
+所以形状角度都是固定的，对吧？如果你要测试这类东西，他们会给你一块标准化的模具，让你用它切割材料，对吧？所以，一旦我们像这样切好所有样品，就会把它们放进这种非常经典、非常简单的机器里，试图把它们掰成两半。然后我们会看到，需要多大的载荷才能将其断裂，从而大致了解它在断裂时所能承受的最大外在断裂强度，好吗？
+
+[2:04]
+We call that fracture tolerance. Okay?
+我们称之为断裂韧性。明白吗？
+
+[2:43]
+All right. Now, this is, I think, where we really ended, right, last week. So that's about simple fracture. Let's continue to do some special cases. Right? Fatigue is a very important and in the previously missed type of fracture, and that people take some time to realize it's important. Okay? So fatigue is still a kind of fracture caused by external stress, but the stress is not a static one, right?
+好的。现在，我想，我们上周真正讲到这里，对吧？所以，这大约就是简单骨折的内容。我们继续讲一些特殊情况。对吧？疲劳是一种非常重要，而且在之前被忽略的骨折类型，人们需要一段时间才能意识到它的严重性。明白吗？所以，疲劳仍然是一种由外力引起的骨折，但这种应力不是静载荷，对吧？
+
+[2:49]
+Now we're looking at a dynamic and fluctuating stress.
+现在我们研究的是动态且不断变化的应力。
+
+[3:02]
+All right? So instead of applying one source, that will break my piece of material, right, I every day I come here and I bend it once, I bend it for one year, and see what happens. Okay? So every time I do my single stress.
+明白吗？所以，我不再施加一个会破坏这块材料的载荷，对吧？我每天来这里，每次把它弯一下，持续一年，看看会发生什么。明白吗？所以每次我都会施加单向应力。
+
+[3:47]
+Uh, to the material: I don't see any changes. Right. But after a year, right, it starts to get some internal crack, internal, uh, failure that are only micro-sized, right, and I come for another 10 years, right, and I see maybe I ask someone to do it for another century, right, eventually you see it gets weaker and weaker and one time it cracks into two pieces. Okay. Now, this is originally not so considered by the engineers because it's a built-in damage, that role inside.
+呃，关于材料：我看不到任何变化。对。但一年后，对吧，它开始出现一些内部裂纹，内部，呃，失效，而且只有微米级，对吧。再过十年，对吧，我可能会请别人再观察一个世纪，对吧，最终你会发现它越来越弱，直到有一天裂成两半。好的。最初，工程师们并没有把这当成一个需要考虑的问题，因为这是一种内生损伤，是内部起作用的。
+
+[4:38]
+But people start to see some serious failures of some important, uh, structural materials in aircraft, right, and people realize even for small threads, if you're continually apply that, the same kind of frequency, same kind of direction, over and over for countless or thousands of times, right, they can still be considerably important. Okay. So the kind of crack that is fluctuating can vary; it could be very— for example, in this case, a very symmetric one, right, so one direction, the other direction. This happens to materials that are undergoing compressive stress and then fully stress, like some springs, right, so they can vibrate, right, so their materials that undergo such things.
+但人们开始发现，一些重要的，呃，飞机结构材料会出现严重的失效，对吧？人们意识到，即使是小螺纹，如果持续以相同频率、相同方向反复作用无数次或数千次，对吧，它们仍然可能产生相当大的影响。好的。所以，这种波动的裂纹可以有所不同；它可以非常——例如，在这种情况下，非常对称，对吧，也就是一个方向、另一个方向。这种情况发生在承受压缩应力并随后完全受力的材料上，比如某些弹簧，对吧？所以它们会振动，对吧？也就是承受这类情况的材料。
+
+[5:19]
+And they also can be something like this, right, so notice that the zero line is over here, right, so basically although the force is fluctuating, it's not always positive and negative to a certain safe amplitude, but it's more to the positive side than to the negative side. But this also happens to some, uh, structural materials, where they're mostly in the time compressed and sometimes cooling or the other way around. Okay. And it could also be totally random. Right. There's no pattern or periodicity at all.
+它们也可能像这样，对吧？注意，零线在这里，对吧？所以，尽管力在波动，但在一定安全范围内，它并不总是正负交替，而是正向多于负向。但这种情况也发生在一些，呃，结构材料上，它们大多处于压缩状态，有时会冷却，或者反过来。好的。而且也可能完全是随机的。对。完全没有规律或周期性。
+
+[5:33]
+It could be possible. Now, one good example I'm showing here is actually this one. Right. This is, I think, a very classic example of fatigue, which everyone can do, right, if you go home, right, you don't need 1,000 time, or maybe 5 times you can break it already.
+这有可能。现在，我在这里展示的一个很好的例子，其实就是这个。对。我觉得这是一个非常典型的疲劳测试例子，每个人都可以做，对吧？如果你回家，对吧，你不需要做一千次，也许做五次就已经能破坏它了。
+
+[5:56]
+Right. So you can imagine the kind of force you're applying to this cannon holder, right, it's definitely much smaller than the actual force you need to pull this thing to two pieces. Right. But if you're just doing it by a few times, right, the small chore or cracks get started to melt it well.
+对。所以你可以想象一下，你对这个炮架施加的力有多大，对吧？它肯定比你真正需要的把东西掰成两半的力小得多。对。但如果你只是做几次，对吧，小活儿或者裂缝开始把它融化得很好。
+
+[6:04]
+Right. Potentially. So after maybe, I don't know, 5, 10 times, right, you can break a piece of metal into two pieces.
+对。有可能。所以，也许经过五次、十次，对吧，你可以把一块金属分成两块。
+
+[6:14]
+Right. This is a good example of fatigue. Right. But it's much— well, it's actually designed to be that way for cannons, right, you can break it easily.
+对。这是一个很好的疲劳破坏例子。对。但这要严重得多——嗯，实际上大炮就是设计成这样，对吧？很容易把它弄坏。
+
+[6:49]
+Okay. So, um, if we're talking about structural materials like, for example, bridges, aircraft, right, so you can imagine, for aircraft, for example, every time it kicks off and every time it lands, right, the entire piece will undergo a lot of pressure. Right. And it's very— the amplitude is very, very similar, but they're repeating it like 10 times a day, maybe 5 times a day, right, and days after days.
+好的。所以，嗯，如果我们谈论的是桥梁、飞机之类的结构材料，对吧？你可以想象，比如飞机每次起飞、每次降落时，整个部件都会承受很大的压力。对。而且它的振幅非常非常相似，但每天重复大约10次，也许5次，对吧，而且会持续很多天。
+
+[7:13]
+Right. So there could be thousands after a year, right, and this is something very, very dangerous and has caused some catastrophic failure. Right. So one feature of fatigue, really, is that although it happens mostly to ductile material, right, it happens mostly to ductile material, but it is brittle-like.
+对。所以一年后可能会有数千次，对吧？这是一件非常非常危险的事情，也导致了一些灾难性的故障。对。所以，疲劳的一个特点实际上是，尽管它主要发生在延性材料上，对吧，主要发生在延性材料上，但它具有脆性特征。
+
+[7:29]
+In nature. Okay. So that means, originally, you have some building, they look like they can still be there for a few days, and when you try to, for example, play with this knob, right, it feels like it's still tactile.
+本质上。好的。所以这意味着，最初，你有一些建筑，看起来似乎还能在那里维持几天；当你试着，比如说，转动这个旋钮，对吧，它仍然会有触觉反馈。
+
+[7:37]
+Right. Very smooth when you do the bending. But suddenly it breaks into a sharp teeth, two pieces cracks.
+对。弯曲时非常顺滑。但突然它裂成锋利的齿状，裂成两块。
+
+[7:44]
+Right. So that's why it's catastrophic.
+对。所以这就是为什么它会造成灾难性的后果。
+
+[8:06]
+All right. So, um, people have came up with another, um, machine, right, to help us to study the fatigue, resistance before they actually go to service. Right. So we call this, uh, this, uh, test, a rotating bending fatigue test.
+好的。所以，嗯，人们又发明了一种，嗯，机器，对吧，用来帮助我们在设备投入实际服役前研究其抗疲劳性能。对。所以我们把这种，呃，这种，呃，试验称为旋转弯曲疲劳试验。
+
+[8:12]
+And with this test, we can draw an S-n curve of stress versus cycles of stress. Right.
+通过这项试验，我们可以绘制应力与应力循环次数之间的 S-N 曲线。对。
+
+[8:34]
+So the stress applied is usually much, much smaller than your tensile stress or your yielding stress, right? But we care about cycles. The cycles are usually at least 100, right?
+所以，施加的应力通常要比你的抗拉应力或屈服应力小得多，对吧？但我们关注的是循环次数。循环次数通常至少是100次，对吧？
+
+[8:56]
+Most of the time thousands, or tens of thousands of more to check, which is, right, okay? I'm not going to go through the detail about this test. This is very standardized industry tests, so just— you just need to know what is fatigue, right, and what's the difference between fatigue and a simple fracture.
+大多数情况下，需要检查数千个，甚至数万个，对吧，明白吗？我不会详细讲解这个测试。这些是非常标准化的行业测试，所以只需要——你只需要了解什么是疲劳，对吧，以及疲劳和简单断裂有什么区别。
+
+[9:03]
+Then it'll be good enough.
+这样就足够了。
+
+[9:21]
+All right, so some more information about Vaseline curve and different behaviors, right? So we're seeing two SN curves in this slide, right? So some of the curves is when you have the exponentially increasing cycling, right?
+好的，再补充一些关于凡士林曲线及其不同行为的信息，对吧？所以，这张幻灯片中展示了两条 SN 曲线，对吧？所以，其中一些曲线是当你进行指数级递增的循环时，对吧？
+
+[10:08]
+And you see a gradually decrease stress before it's fatigue, the appearance of fatigue failure, right? So this is one time we say this material does not have a particular limit. Right? So that means no matter how small or your stress may be, or how the cycles are longer, right, you're always experiencing a decrease of stress when you increase the cycles.
+你可以看到，在发生疲劳失效之前，应力会逐渐降低，对吧？所以，这就是我们说这种材料没有特定极限的情况。对吧？所以这意味着，无论应力有多小，或者循环次数有多长，对吧，当你增加循环次数时，应力总会有所下降。
+
+[10:20]
+All right? But on the left side, right, we have a fatigue limit. This is when you apply a stress that is smaller than the fatigue limit.
+明白吗？但在左边，对吧，我们有一个疲劳极限。这是指施加的应力小于疲劳极限时的情况。
+
+[10:24]
+Right? They don't break at all. Right?
+对吧？它们根本不会断裂。对吧？
+
+[10:28]
+They don't break at all. No matter how many cycles you're applying. Okay?
+它们完全不会断裂。无论你施加多少个循环。明白吗？
+
+[10:34]
+So some features about the SN curve.
+那么，关于 SN 曲线的一些特征。
+
+[10:43]
+Okay? Right? So we have some more factors or concepts here.
+明白吗？对吧？所以这里还有一些其他因素或概念。
+
+[10:49]
+These are mostly for your information. Okay? So no need to memorize them or go by.
+这些主要是供你们参考的。明白吗？所以不需要记住它们，也不需要按这些来。
+
+[10:57]
+Okay, let me continue.
+好的，我继续。
+
+[11:21]
+So just like the coin cup, right? Crack for fatigue, we also have similar interesting kinds of patterns of the cracks. And this is actually where people started to learn about fatigue at the beginning. At the beginning, people think just another kind of fracture.
+所以就像硬币杯一样，对吧？疲劳裂纹也有类似且有趣的裂纹形态。这实际上是人们最初开始研究疲劳的地方。起初，人们以为这只是另一种断裂。
+
+[11:31]
+Right? So why does this material fail under so small stress? Then they realize that when the stress is happening every day, then for many, many more cycles.
+对吧？那么，为什么这种材料在这么小的应力下就会失效呢？然后他们意识到，当应力每天都在发生时，那么循环次数就会多得多。
+
+[11:50]
+So they study the failure sample and realize some special things. Right? So because this crack is growing for after thousands of cycles, when you open this crack, you see the surface, you can see the message, the disease.
+于是，他们研究了失效样品，并发现了某些特殊之处。对吧？所以，因为这条裂纹在数千个循环后仍在扩展，当你打开这条裂纹并观察其表面时，可以看到一些信息，也就是这种病态。
+
+[12:00]
+Right? Almost after each cycle. So instead of seeing a straight cut, you're always seeing fringes like this or like that.
+对吧？几乎每个循环之后。所以，你看到的不是一条直切口，而总是会看到像这样或那样的条纹。
+
+[12:10]
+Right? Or it could be wrinkled in some cases. But they still, you see a clear sign that this thing happens step by step.
+对吧？或者在某些情况下，它可能会出现褶皱。但它们仍然，你可以清楚地看到，这个过程是循序渐进发生的。
+
+[12:23]
+Right? Bit by bit. And sometimes this fracture growth also comes with some sharp crack.
+对吧？一点一点地。有时，这种裂纹扩展也会伴随着一些尖锐的裂纹。
+
+[12:49]
+Right? So if I choose the right one, right, so this is actually the part. Now, if you check this one, this is very radical, right? Just like our coin cup. Right? So this is the bigger part here is actually the simple fracture we just saw.
+对吧？所以，如果我选对了，对吧，那么这其实就是那个部分。现在，如果你看一下这个，这是非常激进的，对吧？就像我们的硬币杯。对吧？所以，这里较大的部分实际上就是我们刚才看到的简单骨折。
+
+[13:09]
+But the simple fracture where in nature it were triggered by some fatigue, a crack growth. And the crack growth was actually here. So if you take a closer look at this region, which this one is now a bit better here, but you will see a lot of fringes.
+但简单断裂是指在自然界中由某种疲劳、裂纹扩展引发的断裂。而裂纹实际上是在这里扩展的。所以，如果你仔细观察这个区域——这里这个区域现在看得更清楚一些——你会看到很多条纹。
+
+[13:14]
+Right?
+对吧？
+
+[13:16]
+Just like this one. Right? Just like this one.
+就像这个一样。对吧？就像这个。
+
+[13:24]
+Right? On the surface. Right? So if without this, this material will not undergo that.
+对吧？在表面上。对吧？所以，如果没有这个，这种材料就不会发生那种情况。
+
+[13:30]
+And it will not fail. Right? In the beginning. So something tricky, right?
+而且它不会失效。对吧？一开始。所以有点棘手，对吧？
+
+[13:40]
+So fatigue may initiate a simple fracture. Right? That's why it looks like a brittle fracture.
+所以，疲劳可能会引发简单的断裂。对吧？所以它看起来像脆性断裂。
+
+[13:40]
+Right?
+对吧？
+
+[13:50]
+Okay? So we also have two kinds of fracture names. Fatigue names.
+明白吗？所以我们也有两种类型的断裂名称。疲劳名称。
+
+[13:58]
+Right? Benchmark, beach marks, are those that are visible to our eyes. Right?
+对吧？基准、海滩纹，这些是我们肉眼可见的。对吧？
+
+[14:15]
+So you can easily see by our naked eye that we have a lot of fringes. The other kind is creations. It's something we use to examine what we call, right, after we put this material under SEM, a microscope.
+所以肉眼就能很容易看出，我们有很多条纹。另一种是创作。这是我们在把这种材料放到扫描电子显微镜下后，用来检查我们所说的，对吧，显微镜图像的。
+
+[14:29]
+So whether you want to know whether this is a naked eye information or EM information, you check their scale bar. Right? This is 2 cm. So our eye can see that.
+所以，无论你想知道这是肉眼观察的信息还是电子显微镜观察的信息，都可以查看它们的刻度尺。对吧？这是2厘米。所以我们的眼睛能看到它。
+
+[14:33]
+This is 1 micron, something we can't see.
+这是1微米，是我们肉眼看不到的。
+
+[14:34]
+Right? So that's the difference.
+对吧？所以这就是区别。
+
+[14:39]
+Okay? Because these images in the old days, they're all black and white. Right?
+明白吗？因为在过去，这些图像都是黑白的。对吧？
+
+[14:45]
+So we have to rely on a scale bar to know.
+所以我们必须依靠比例尺来判断。
+
+[14:53]
+Okay? So that's enough about fatigue. We have another kind of special fracture called creep.
+明白吗？关于疲劳，就讲到这里。还有一种特殊的断裂形式，称为蠕变。
+
+[15:14]
+Right? So creep is also undergoing static stress, just like simple fracture we talked about. But the operating or the service condition is slightly different as in we're using a standardized technique.
+对吧？所以，蠕变也是在承受静应力，就像我们刚才讨论的简单断裂一样。但其工作或服役条件略有不同，因为我们采用的是标准化技术。
+
+[15:22]
+Right? So why is that important? Because many services are down when the maximum temperature is hot, for example, near an engine.
+对吧？那么，为什么这很重要呢？因为当最高温度很高时，许多服务会中断，例如在发动机附近。
+
+[15:38]
+Or in a summer region. Or in a environment that has a fluctuating temperature. Right? So usually, right, when people do things in the lab, we assume room temperature to be what?
+或者在夏季气候区。或者在温度波动的环境中。对吧？所以通常，对吧，人们在实验室做实验时，会把室温假设为多少？
+
+[15:43]
+25 degrees Celsius. Right? But imagine how many days in Hong Kong.
+25摄氏度。对吧？但想象一下，香港有多少天。
+
+[15:47]
+Actually 25 degrees Celsius. Outside. Right?
+实际上，是25摄氏度。外面。对吧？
+
+[16:01]
+So that definitely less than one year. But less than half a year. Right? So most of the time, when they're in the service, they're actually servicing in a higher temperature than what they were tested in the lab.
+所以那肯定不到一年。但不到半年。对吧？所以，大多数时候，它们在服役时实际承受的温度都高于实验室测试时的温度。
+
+[16:07]
+So we call them elevated temperatures. Okay? Now, in some cases, this small, a few degrees have done not matter.
+所以我们称之为高温。明白吗？现在，在某些情况下，这小小的几度可能并不重要。
+
+[16:35]
+But creep looks for those materials that are really sensitive to this a few degrees of energy. The temperature inputs. Okay? So one good example we recognize from here is I'm not sure if you guys experienced old days like in later China when you can see some water pipes.
+但蠕变研究的是那些对这种几度能量非常敏感的材料。温度输入。明白吗？所以，我们在这里可以举一个很好的例子：我不确定你们是否经历过过去，比如中国后来的一些地方，你们可以看到一些水管。
+
+[16:44]
+They're hanging outside buildings. Like around second or third floor high. They're outside the building.
+它们悬挂在建筑物外面。大概有两三楼那么高。它们在建筑物外面。
+
+[16:50]
+There's a panel. Right? So these pipes, some are of them actually carrying hot water.
+那里有一块面板。对吧？所以这些管道，其中一些实际上输送热水。
+
+[17:02]
+If they're living in the north part of China, right, so they're actually supplying hot water to the entire building. And so they are actually servicing at higher temperatures. Right? Than the environment.
+如果他们住在华北地区，对吧，那么这些管道实际上为整栋楼供应热水。所以，它们实际上是在较高温度下运行的。对吧？比环境温度高。
+
+[17:06]
+Now, the building is really old. The pipe is really old. Right?
+这栋楼真的很旧。管道真的很旧。对吧？
+
+[17:22]
+So you will see that in some old buildings, instead of seeing a straight pipe, the pipes are actually kind of bent down. But because they're hold by some pin points, like the pin points, they're still there. But between pin points, instead of seeing a straight pipe, you see a pipe that is bending down.
+所以你会看到，在一些老建筑里，管道并不是笔直的，而是有点向下弯曲。但由于它们被一些销钉点固定住，就像这些销钉点一样，所以它们仍然存在。但在销钉点之间，你看到的不是直管，而是一根向下弯曲的管子。
+
+[17:33]
+As if they were elongated. Right? But they're still one piece, but they were somehow elongated, and they start to drop down because of the gravitational force.
+就好像它们被拉长了一样。对吧？但它们仍然是一个整体，只是不知怎么变长了，然后开始因重力作用而向下掉落。
+
+[17:39]
+They're actually going down. Okay? So that is a very, very one good example: creep.
+它们实际上正在往下掉。明白吗？所以这是一个非常非常好的例子：蠕变。
+
+[17:49]
+Right? So creep failure is a time-dependent deformation.
+对吧？所以，蠕变破坏是一种与时间相关的变形。
+
+[17:49]
+Right?
+对吧？
+
+[17:57]
+When we have a constant load or strength to the material. Right? So imagine you're hanging something on the pipe.
+当材料承受恒定载荷或恒定应力时。对吧？所以，想象一下，你把什么东西挂在管子上。
+
+[18:05]
+Then we tend to let it go down. Right? But just now, what I'm saying is that the force or the loading is actually its own gravitation.
+然后我们往往会让它往下掉。对吧？但刚才我说的是，作用力或者说载荷实际上是它自身的重力。
+
+[18:15]
+Right? Its own gravitational force that makes it going down. Right? So this happens to structure materials that were there permanently.
+对吧？它自身的引力使它向下运动。对吧？所以，这会发生在那些一直存在于此的结构材料上。
+
+[18:26]
+Right? They were meant to be servicing either permanently for a very, very long time. But you still see the gradually change over time.
+对吧？它们原本是要永久使用，或者使用非常非常长的时间。但你仍然能看到它随着时间逐渐发生变化。
+
+[18:40]
+Maybe decades, maybe even centuries. Right? But it starts to deform. So this is creep. And creep is important because ideally, or theoretically, they are observed in all materials.
+也许需要几十年，甚至几个世纪。对吧？但它开始发生变形。所以这就是蠕变。蠕变之所以重要，是因为理想情况下，或者说从理论上讲，所有材料都会发生蠕变。
+
+[18:44]
+It's just a matter of time. And temperature. Right?
+这只是时间问题。温度。对吧？
+
+[19:00]
+Maybe they failed after 2,000 years, which we don't care. But they're still creep. Right? Going on as we speak. Okay? So for important parts, you need to really care about their creep failure.
+也许它们在两千年之后就失效了，这并不重要。但他们仍然会发生蠕变。对吧？就在我们说话的此刻还在继续。明白吗？所以，对于重要部件，你需要密切关注其蠕变失效。
+
+[19:15]
+Right? So they don't fail by creep within their design surface time. Okay? So especially if you're talking about lifetime, evaluation, right, you need to know about creep.
+对吧？这样它们就不会在设计使用寿命期内因蠕变而失效。明白吗？所以，尤其是谈到使用寿命评估时，对吧，你需要了解蠕变。
+
+[19:23]
+Right? You need to know about creep. Because again, creep is not something that you need a very strong stress for.
+对吧？你需要了解蠕变。因为，再说一次，蠕变并不是需要非常高的应力才会发生的现象。
+
+[19:35]
+Just like fatigue. Right? In both cases, the stress applied to this particular kind of failure is usually much lower than the expected end-up or GOV stress.
+就像疲劳一样。对吧？在这两种情况下，导致这种特定失效的应力通常远低于预期的最终应力或 GOV 应力。
+
+[19:47]
+Right? But they still change over time. Right? So time factor, temperature factor, right, or frequency factor are these things that control their failing rate most of the time.
+对吧？但它们仍然会随时间变化。对吧？所以，时间因素、温度因素，对吧，或者频率因素，这些因素通常会控制它们的失效率。
+
+[19:51]
+Okay?
+明白吗？
+
+[20:06]
+Okay? So on the picture here, we're showing some examples to increase the resistance to creep. Right? So this is a triple blade. Which is, of course, operating under elevated temperatures.
+明白吗？所以，在这张图中，我们展示了一些提高蠕变抗力的例子。对吧？所以这是一个三叶片的。这当然是在高温下运行的。
+
+[20:26]
+Right? And they're actually doing a what we call a single crystallization by this we have a yeah, we have a we're going to mention it here. We actually have a special heat treatment applying to this. So we are changing their grain orientation.
+对吧？而且它们实际上是在进行我们所说的单晶化。通过这个，我们有一个，嗯，我们有一个，我们会在这里提到它。我们实际上对这个采用了特殊的热处理。所以，我们正在改变它们的晶粒取向。
+
+[20:38]
+Right? So they're actually orienting grains. And eventually, ultimately, if we can do a very good annealing, which we may have time to discuss today or not. I don't know. But for that part, we'll talk about this.
+对吧？所以，他们实际上是在调整晶粒取向。最终，如果我们能够进行非常充分的退火——今天是否有时间讨论这个问题，我也不确定——我不知道。不过关于这部分，我们会讨论一下。
+
+[21:13]
+Right? So we can actually control the way they solidify. Right? Either it's organized grain or it's a single piece of crystal. And in this way, right, we're increasing their resistance of getting creep failure by reducing their internally embedded cracks or defects, which may become the cause of the crack problem. Okay? So we're basically eliminating possibilities of growing some small and invisible things inside.
+对吧？所以我们可以控制它们凝固的方式。对吧？要么是有序排列的晶粒，要么是一整块晶体。通过这种方式，对吧，我们可以通过减少材料内部的裂纹或缺陷来提高其抗蠕变破坏能力，而这些裂纹或缺陷可能会引发裂纹问题。明白吗？所以，我们基本上是在消除内部一些微小且看不见的缺陷扩展的可能性。
+
+[21:17]
+That we can't control.
+我们无法控制的。
+
+[21:23]
+Okay?
+明白吗？
+
+[21:23]
+Okay.
+好的。
+
+[21:41]
+So creep, when we measure creep, it's a curve where it says relation between a stress and time. Right? Remember just now, for fatigue, it's about stress versus cycles.
+所以，蠕变。当我们测量蠕变时，会得到一条曲线，表示应力与时间之间的关系。对吧？还记得刚才讲的疲劳吗？疲劳是应力与循环次数之间的关系。
+
+[22:02]
+Number of cycles. But for creep, it's stress versus time. Right? So if you look at, for example, the curves on the top right, right, so this is a creep string the creep string means the deformation caused by creep.
+循环次数。但对于蠕变，是应力与时间的关系。对吧？所以，比如说，如果你看右上方的曲线，对吧，那么这就是蠕变曲线。蠕变曲线指的是由蠕变引起的变形。
+
+[22:08]
+Right? Versus time. And we typically see a curve look like this.
+对吧？随时间变化。我们通常会看到这样的曲线。
+
+[22:18]
+First of all, it has some primary changes. Right? We have a decreasing slope.
+首先，它有一些主要的变化。对吧？它的斜率是递减的。
+
+[22:22]
+Right? And then we have an almost linear deformation. Right?
+对吧？然后，变形几乎是线性的。对吧？
+
+[22:39]
+So it's called this steady state. Deformation. Right? And the last period of a service time where we're going to see a sudden change of a string.
+所以这叫作稳态。变形。对吧？服务时间的最后一个阶段，我们将看到字符串发生突然变化。
+
+[22:49]
+Right? So basically, when you see a gradual change of your deformation, you still say. But one day, when it suddenly gets longer, right, be very careful.
+对吧？所以基本上，当你看到变形发生逐渐变化时，你仍然会说。但有一天，它突然变长了，对吧，就要非常小心。
+
+[23:03]
+Because they're very close to the rupture. Right? They're really close to the rupture. And then you can imagine the direction or the entire shape of this curve would be highly related to operating temperature.
+因为他们非常接近破裂。对吧？他们离破裂面非常近。然后你可以想象，这条曲线的方向或整体形状会与运行温度密切相关。
+
+[23:24]
+Right? Just now, we talked about creep is usually happening when the operating temperature is beyond the room temperature or beyond regular service temperature. So we have some examples here. Right? So on the left side, on the left-hand corner, we have different kind of temperatures.
+对吧？刚才我们谈到，蠕变通常发生在工作温度超过室温或超过常规使用温度时。所以这里有一些例子。对吧？所以在左侧，也就是左上角，我们有不同种类的温度。
+
+[23:44]
+Right? So when the temperature is low enough when the temperature is low enough, typically, about 0.4, 40% of its melting temperature, this is just a rough rule. Right? Don't rely on that. But still, when the temperature is low enough, when time goes, right, there's almost no creep string.
+对吧？所以，当温度足够低时，当温度足够低时，通常大约是熔化温度的0.4，也就是40%，这只是一个粗略的经验法则。对吧？别依赖那个。但即便如此，当温度足够低时，随着时间的推移，对吧，几乎没有蠕变弦。
+
+[23:48]
+Right? String means deformation. Right?
+对吧？弦表示变形。对吧？
+
+[23:52]
+So that means the time is going on, there's no creep. Right? So it doesn't deform.
+所以这意味着时间在流逝，没有蠕变。对吧？所以它不会变形。
+
+[24:10]
+But when the temperature is slightly high, it will see it will undergo creep. Right? And when the temperature is higher, right, p1, p2, p3 are higher, right, they can undergo a right, a shorter and shorter period of time before they actually go to the fracture.
+但当温度稍高时，它就会发生蠕变。对吧？当温度更高时，对吧，p1、p2、p3会更高，对吧？它们在实际发生断裂之前，经历的周期会越来越短。
+
+[24:25]
+And this applies to stress as well. Right? Because this is a steady stress, we assume. So the higher is the original stress, we're talking about, right, the shorter time they can withstand before a fracture.
+这同样适用于应力。对吧？因为我们假设这是一个恒定的应力。所以，我们讨论的初始应力越高，它们在发生断裂前能承受的时间就越短。
+
+[24:27]
+Right? So very reasonable. Right?
+对吧？所以这是很合理的。对吧？
+
+[24:33]
+Okay.
+好的。
+
+[24:33]
+Okay. Let's have a break now.
+好的。我们现在休息一下。
+
+[24:33]
+Come back at 7.
+7点回来。
+
+[35:37]
+Wait.
+等等。
+
+[35:45]
+It started from that. Now we continue to look at ways of reinventing a problem. Here, right, so that's one of our outputs.
+它就是从那里开始的。现在我们继续探讨如何重新思考一个问题。这里，对吧，所以这是我们的一项成果。
+
+[36:00]
+We go anyway. So, um, the problem turns to maintain including some of the parts we're going to talk about later about processing. Right, so we have pretty much only one goal, right?
+我们继续吧。所以，嗯，问题变成了要保留其中一些部分，而这些部分我们稍后会谈到处理。对，所以我们基本上只有一个目标，对吧？
+
+[36:23]
+First of all, we hope they don't deform, and if they really do, they deform by absorbing a lot of energy and they fracture, behave by bearing up a lot of warnings or, uh, plus deformations. So that's our ultimate goal. So based on that, I'd like to briefly talk about three—
+首先，我们希望它们不会变形；如果确实发生变形，也会通过吸收大量能量来变形并断裂，表现出承受大量警告，或者，呃，加上变形。所以，这就是我们的最终目标。所以，基于这一点，我想简要谈谈三个——
+
+[36:22]
+Sorry, we cannot.
+抱歉，我们不能。
+
+[36:57]
+—common strategies. That we use for metal strengthening, right? So again, in all these strengthening features, we have one goal: that we don't want them to deform classically, and to do that, right, remember, if you— let me go back. So if you remember, with the deformation and especially the plus deformation, we talked about only one theory, right, which is the dislocation motion.
+——常见策略。我们用来增强金属强度的，对吧？所以，再强调一下，在所有这些强化特征中，我们的目标只有一个：我们不希望它们发生经典意义上的变形。要做到这一点，对吧，记住，如果你——让我回到刚才的内容。所以，如果你们还记得，在讨论变形，尤其是塑性变形时，我们只讲过一种理论，对吧？那就是位错运动。
+
+[37:23]
+Right, so we think plus deformation takes place in metals when the dislocation usually adds to other kinds of dislocation this line inside the material. Okay? So this is what people believe currently the most energy-saving way of deforming a piece of material.
+对，所以我们认为，当位错通常沿着材料内部的这条线与其他类型的位错发生结合时，就会发生正应变。明白吗？所以，目前人们认为这是使一块材料发生变形最节能的方式。
+
+[37:31]
+Now, this is a plastic deformation. So it's irreversible, permanent deformation, right? You bend the material, it's permanent, right?
+现在，这是一种塑性变形。所以这是不可逆的、永久性的变形，对吧？你弯曲这个材料，变形是永久性的，对吧？
+
+[37:38]
+It doesn't go back, right? It's not like a spring, right? It's a totally permanent.
+它不会恢复原状，对吧？它不像弹簧，对吧？它是完全永久性的。
+
+[38:02]
+So— oops. Right? So here, how we strengthen the material is to restrict or hindering the ability of dislocation to move. Right? Either stop you from moving or give you very high energy barrier for you to move.
+所以——哎呀。对吧？所以，要增强材料的强度，就是限制或阻碍位错的移动。对吧？要么阻止你移动，要么给你设置非常高的移动能垒。
+
+[38:06]
+Right? You have to. So that becomes our main goal.
+对吧？你必须。所以这成了我们的主要目标。
+
+[38:31]
+Okay? Now, dislocations move when there's a lattice. And they move along the lattice based on what we learned about dislocation motion, right? So one of the things that may naturally hinder or stop dislocation from moving are when the lattice becomes discontinued.
+明白吗？现在，位错在存在晶格时会发生移动。它们沿着晶格移动，这取决于我们所学的位错运动，对吧？所以，可能自然阻碍或阻止位错移动的一种情况，就是晶格发生中断。
+
+[38:45]
+Which is the brain boundary. Right? Because grains are single crystals, right? Brain boundaries are when the single crystal stops and another single crystal is a new lattice direction continuing.
+也就是晶界。对吧？因为晶粒是单晶体，对吧？当单晶终止，而另一个单晶沿新的晶格方向继续时，就形成了晶界。
+
+[38:49]
+Right? So brain boundaries are natural there. And they're quite crystalline material.
+对吧？所以，晶界在那里是自然形成的。而且它们是相当结晶的材料。
+
+[39:28]
+So if we want to make sure dislocation moves movement is stopped by brain boundary as much as possible, we can create more brain boundaries. There's a sense straightforward. Okay? So, for a given piece of metal, given piece of material, right, with the same amount of atoms, the same amount of single crystals, what we can do is, by processing other methods, we let the grains grow smaller. Because if the volume is fixed, the smaller is my protein blocks, the more protein blocks I have.
+所以，如果我们想确保位错尽可能被晶界阻挡，我们就可以制造更多的晶界。有一种直截了当的感觉。明白吗？所以，对于给定的一块金属、给定的一块材料，对吧，如果原子数量相同、单晶数量相同，我们可以通过其他加工方法，让晶粒变得更小。因为如果体积不变，我的蛋白质块越小，我拥有的蛋白质块就越多。
+
+[39:34]
+Right? So the brain boundaries become larger. When the brain boundaries— brain boundaries— the grains become more, the brain boundaries become larger.
+对吧？所以，脑边界会变大。当脑边界——脑边界——颗粒变得更多时，脑边界就会变大。
+
+[39:52]
+Right? So we can have a larger grain boundary area when we have a smaller grain size. Right? Smaller grain size means we have larger grain area.
+对吧？所以，当晶粒尺寸较小时，晶界面积会更大。对吧？晶粒尺寸越小，晶界面积就越大。
+
+[39:58]
+Right? And remember, brain boundaries are 2D designed. Okay?
+对吧？记住，脑边界是二维设计的。明白吗？
+
+[40:08]
+Although it looks like a line here, but it's actually only a cut-off of a 3D image. Right? So dislocation comes here and there's a whole plane of discontinuity.
+虽然这里看起来像一条线，但它实际上只是三维图像的截断。对吧？所以位错出现在这里，而且有一整片不连续面。
+
+[40:21]
+So it has to be able to move, turn its direction before it moves further. Okay? So this is a way of blocking edge dislocation from moving.
+所以它必须能够移动，并在进一步移动之前改变方向。明白吗？所以，这是阻止位错移动的一种方式。
+
+[40:33]
+Right? So we call this grain size reduction strategy. Right? It works almost on all kinds of polycrystalline material, as long as you have grain and plate is there.
+对吧？所以我们称之为晶粒细化策略。对吧？只要存在晶粒和片层，它几乎适用于所有类型的多晶材料。
+
+[40:37]
+Density of brain boundary.
+脑边界密度。
+
+[40:39]
+Okay?
+明白吗？
+
+[40:58]
+Okay, the second strategy is called salt solution alloying. This is when we— instead of introducing more 2D defects, now we introduce more 0D or 1D defects, caused by acute impurity atoms. Remember what is solid solution.
+好的，第二种策略叫盐溶液合金化。这时我们——不是引入更多二维缺陷，而是引入更多由尖锐杂质原子造成的零维或一维缺陷。还记得什么是固溶体吗？
+
+[41:10]
+Solid solution is how you make alloys. Right? Alloys are matrix of patterned metal elements as a solvent.
+固溶体就是制造合金的方式。对吧？合金是以有序排列的金属元素为溶质的基体。
+
+[41:20]
+A solid solvent. And you have some additives, small amount of other elements, either metals or even carbons, no metals. They dissolve as if it's a solution.
+固体溶剂。还有一些添加元素，少量的其他元素，可以是金属，甚至可以是碳，也可以不含金属。它们溶解后就像溶液一样。
+
+[41:34]
+Right? So in this solid solution, we will have impurities. And when we have impurities, right, there could be larger size impurities or smaller size impurities. Right? So these are substitutional solid solution.
+对吧？所以在这种固溶体中，我们会存在杂质。当我们有杂质时，对吧，可能会有较大尺寸的杂质，也可能会有较小尺寸的杂质。对吧？所以这些是置换型固溶体。
+
+[42:01]
+Right? If you recall, substitutional is when the brain plays the host site. Right? Now, there could be different kinds. If we have a smaller substitutional atom like this, right, and usually there are more than one, so sometimes they aggregate together, and they will be energetically driven to look for a spot like this.
+对吧？如果你还记得，置换型固溶体是指原子占据晶格位点。对吧？现在，可能有不同类型。如果我们有一个像这样更小的置换原子，对吧，而且通常不止一个，所以它们有时会聚集在一起，并会受到能量驱动，去寻找像这样的位置。
+
+[42:25]
+Now, this is naturally already an edge dislocation. Right? So again, dislocations are naturally there. And my smaller atoms define this spot a more comfortable place to sit because I have 3 atoms here, 2 atoms here, so naturally I want to reduce my local space occupation.
+现在，这自然已经是一个边位错。对吧？所以，位错本来就是存在的。而我的小原子会把这里定义为一个更舒服的坐姿位置，因为这里有3个原子，这里只有2个原子，所以我自然会想减少局部的空间占据。
+
+[42:44]
+Right? And the space I now have changed from 3 bigger atoms to 3 smaller ones. So this local string is somehow relieved partially. Okay? So in other words, by placing 3 floating atoms here, I kind of locked or stabilized this dislocation.
+对吧？现在，我所占据的空间已经从三个较大的原子变成了三个较小的原子。所以这个局部的张力在某种程度上得到了部分缓解。明白吗？换句话说，通过在这里放置3个漂浮原子，我算是固定或稳定了这个位错。
+
+[43:02]
+Right? So if I want to move this, particular dislocation, because of plastic deformation, I need to move these 3 together. If I don't, if I have to pass my strain to neighboring ones, there are larger ones, they're not so happy.
+对吧？所以，如果我想通过塑性变形移动这个特定的位错，就需要一起移动这三个原子。如果我不这样做，如果我必须把应变传递给相邻的位错，也就是更大的位错，它们会不太高兴。
+
+[43:16]
+They're going to need higher energy to do that. Okay? So by having some floating atoms, to fix a local dislocation, you give it larger energy barrier for it to move.
+它们需要更高的能量才能做到这一点。明白吗？所以，通过引入一些游离原子来固定局部位错，就会提高位错移动所需的能量势垒。
+
+[43:26]
+All clear? So if you're— we are talking about this bigger substitution. They will tend to come to the bottom side.
+都清楚了吗？所以，如果你——我们正在讨论这种更大的取代。它们往往会移到底部。
+
+[43:37]
+Right? Which is over here, on the edge dislocation. Right? Because, again, going from 3 to 2, right, so instead of having 3 smaller ones, I have more happy to have 2 bigger ones.
+对吧？也就是在这里，在位错边缘处。对吧？因为，同样，从3变成2，对吧？所以与其有3个较小的，我更乐意有两个较大的。
+
+[43:43]
+This is naturally an energetically warranted. Okay? You don't have to purposely do that.
+这在能量上是自然合理的。明白吗？你不必刻意这样做。
+
+[43:49]
+They will be happy to come here and fix a local dislocation. Right? Just like that.
+他们会很乐意来这里，修复局部的错位。对吧？就像那样。
+
+[44:09]
+Right? It's more comfortable than other kinds of positions. So this dislocation is also somehow locked. Right? Locally. Okay? So we're going to need in either cases, we're going to need a higher force— right, a higher force— right, required to move this dislocation.
+对吧？这种姿势比其他姿势更舒服。所以这种脱位在某种程度上也被锁住了。对吧？局部。明白吗？所以无论哪种情况，我们都需要更大的力——对，更大的力——对，需要更大的力来移动这个位错。
+
+[44:20]
+Right? So another way of fixing that okay? So this is actually a kind of interesting phenomenon.
+对吧？所以，还有一个解决这个问题的方法，好吗？所以，这其实是一种很有意思的现象。
+
+[44:26]
+Especially we're now having ancient Greek Olympics. Right? Nowadays, in Japan.
+尤其是我们现在举办古代希腊奥运会。对吧？如今，在日本。
+
+[44:42]
+So people were getting a gold medal in the past. They really liked to put it in their mouth— not in their mouth, between your teeth and try to bite it. For pure peace of gold, this is how people distinguish whether the gold is pure.
+所以过去人们会获得金牌。他们真的很喜欢把它放进嘴里——不是放进嘴里，而是夹在牙齿之间，试着咬它。为了辨别黄金的纯度，人们会这样做。
+
+[44:48]
+Right? Because for pure piece of gold, they're very ductile and soft. You can easily leave a mark by your teeth.
+对吧？因为纯金非常延展，而且很软。你的牙齿很容易在上面留下印记。
+
+[44:56]
+Okay? But that will not be good for a gold medal. Right? You don't want it to be deformed.
+明白吗？但这可不利于赢得金牌。对吧？你可不想让它变形。
+
+[45:13]
+Right? Right after your award. So actually, nowadays, we're all using alloys of gold. And that is by solid solution alloy. Okay? And our— one of the purposes is to make them resistant to such kind of binding.
+对吧？就在你获奖之后。所以实际上，如今我们用的都是金合金。这是通过固溶体合金实现的。明白吗？我们的——目的之一是使它们不易发生这种结合。
+
+[45:21]
+So when you bite it, they don't easily leave a mark. Okay? But that's just one of its purposes.
+所以当你咬它时，它们不会轻易留下痕迹。明白吗？但这只是它的一种用途。
+
+[45:39]
+Right? For gold medal, they also want it to be shiny and resistant to all kinds of things. So they do some alloying. But yeah, this is a good example. Right? When you add a floating atom, right, just like that, just like these 2 kinds, right, either bigger or smaller than the gold atom, they can make your material stronger.
+对吧？对于金牌，他们还希望它既光亮又耐各种东西。所以他们会进行一些合金化处理。不过，是的，这是一个很好的例子。对吧？当你加入一种游离原子，对吧，就像这样，就像这两种，对吧，它们要么比金原子大，要么比金原子小，都可以使你的材料更坚固。
+
+[45:45]
+So not so easily to leave a mark.
+所以不容易留下痕迹。
+
+[46:06]
+Okay? And we have a third type, called spring hardening. Which is kind of related to the casting method we're going to talk about later on. But now we can just focus on the simple story here. This is actually one of methods to process a metal material.
+明白吗？第三种类型叫作弹簧硬化。这与我们稍后将要讨论的铸造方法有些关联。但现在我们可以只关注这里这个简单的故事。这实际上是一种加工金属材料的方法。
+
+[46:22]
+But let's not focus on how, but focus on why for now. So remember, plastic deformation happens when there are dislocations. And on the very point of dislocation, motion, we talk about how dislocation number can increase.
+不过，现在我们先不要关注怎么做，而是关注为什么。所以请记住，当位错存在时，就会发生塑性变形。在位错运动的这一点上，我们讨论位错数量如何增加。
+
+[46:42]
+When there is plastic deformation. So basically, when you move— when you deform a material, plastically, it's dislocation multiplies. Right? The reason is because you have dislocation at the 1d, defect, and they were growing in the material as a network.
+当发生塑性变形时。所以基本上，当你使材料发生塑性变形时，位错就会倍增。对吧？原因是，材料中存在位错这种缺陷，而且它们会以位错网络的形式在材料中扩展。
+
+[47:17]
+So you can imagine a lot of 1d defects in all directions, like wires, tangled together. When you pull material, you deform it, like you can— this is not a good example. They're actually people folding a piece of metal sheet and they put it longer and fold it again. Right? So when you do such kind of multi-layer folding, right, you are not decreasing the number of dislocations, but you are making the dislocations entangled in a denser way.
+所以你可以想象，各向都有很多一维缺陷，就像缠绕在一起的电线。当你拉伸材料时，它就会发生变形，就像你可以——这个例子不太好。实际上，人们会把一块金属板折起来，再把它拉长，然后再折。对吧？所以，当你进行这种多层折叠时，对吧，你并没有减少位错的数量，而是让位错以更密集的方式缠绕在一起。
+
+[47:29]
+Right? Every time you fold it, right, you doubled the number of lines per unit area. Right? And when they entangled, they don't get any less, but they actually multiply.
+对吧？每次折叠它，对吧，单位面积内的线条数量都会翻倍。对吧？当它们交织时，数量不会减少，反而会成倍增加。
+
+[47:37]
+Right? You can imagine 1 dislocation meets another at an angle. Then they split and multiply, become 4. Right? Or even more.
+对吧？你可以想象，一条位错以一定角度与另一条位错相遇。然后它们分裂并倍增，变成4个。对吧？甚至更多。
+
+[47:54]
+So when you simply deform a material, they get harder and harder to be deformed. Okay? So that's the idea why people, especially making some ancient swords, right, so before they become hard, you actually already beating it for a thousand times.
+所以，当材料发生变形时，它会变得越来越难变形。明白吗？所以这就是人们，尤其是制作古代剑时的想法，对吧？在它变硬之前，其实你已经把它锻打了上千次。
+
+[48:10]
+Right? So that's one way of multiplying dislocation before its service. Right? You can hit it hard. Right? And do the kind of strain tree straining, right, before the service.
+对吧？所以，这是在服役前通过塑性变形来引入位错的一种方法。对吧？你可以狠下心来。对吧？在服役前进行某种应变树应变，对吧。
+
+[48:20]
+Okay? So this is— so depending on the temperature, how this is done, we have cold working. This is usually room temperature. We don't have hard working.
+明白吗？所以，这取决于温度以及具体的操作方式，我们有冷加工。这通常是室温。我们没有硬加工。
+
+[48:32]
+And we'll talk about this in the processing again. Right? So we have some numerical appreciations about density of the dislocation.
+我们稍后在处理部分还会再讨论这一点。对吧？所以我们对位错密度有一些数值上的认识。
+
+[48:59]
+So for example, if we find out a piece of undeformed metal, right, you just naturally cool down from melt metal, right, this density of the dislocation is about 10 to the power of 5 to 6. Right? In this order. But if we do cold work, the piece of metal, right, so just like the rolling here, right, you can make it very thin, and you fold it, and you do the rolling again.
+例如，如果我们发现一块未变形的金属，对吧，它就是从熔融金属自然冷却下来的，对吧，那么位错密度大约为10的5次方到6次方。对吧？这个数量级。但如果进行冷加工，金属件，对吧，就像这里的轧制，对吧，你可以把它轧得很薄，然后折一下，再进行轧制。
+
+[49:07]
+Right? You can multiply their density by this much. Right?
+对吧？你可以把它们的密度提高这么多。对吧？
+
+[49:17]
+So the outer actually increase about 4 orders. Right? So 10,000 more density dense of the dislocation.
+所以外层实际上增加了大约4个数量级。对吧？所以位错密度增加了约一万倍。
+
+[49:21]
+Right? So that's the way of doing that.
+对吧？所以，这就是实现这一点的方法。
+
+[49:22]
+All right?
+明白吗？
+
+[49:32]
+So so far so good?
+到目前为止都还好吗？
+
+[49:36]
+No.
+不。
+
+[49:38]
+I'm going to.
+我要。
+
+[49:40]
+Injure that term.
+伤害那个术语。
+
+[49:42]
+Okay.
+好的。
+
+[49:46]
+Continue. Which last part of metal?
+继续。金属的最后一个部分？
+
+[49:54]
+Okay.
+好的。
+
+[50:10]
+So we're going to continue to talk about ways of playing with metals. Right? And unfortunately, we're going to touch one of the hard topics called phase diagram.
+所以，我们将继续探讨与金属互动的各种方式。对吧？不幸的是，我们会接触到一个比较难的话题，叫作相图。
+
+[50:16]
+If you ever studied material science, you're probably already learned that somewhere. But don't worry, we're only going to touch some basics. Right?
+如果你学过材料科学，可能已经在某个地方学过这个了。不过别担心，我们只会简单讲一些基础知识。对吧？
+
+[50:29]
+Because this is something you really need to know. Right? And then we're going to talk about briefly on the kinds of metal alloys and how we may fabricate them in a traditional way.
+因为这是你们真正需要知道的。对吧？然后我们会简要讨论金属合金的种类，以及我们如何用传统方式加工它们。
+
+[50:35]
+Okay?
+好吗？
+
+[50:37]
+So phase diagram. Right? What is a phase diagram?
+那么，相图。对吧？什么是相图？
+
+[51:14]
+Right? To know that, we need to first of all learn some concepts. Right? So if you look at the photo the bottom water on the left side, right, in this water ice system, right, we have a liquid water, and we have some solid water, which is ice. Right? And this is actually one example of 2 kinds of substances or 2 kinds of phases coexisting if we consider this a system, being a single system.
+对吧？要理解这一点，我们首先需要学习一些概念。对吧？所以，如果你看这张照片，左边底部的水，对吧，在这个水-冰体系中，对吧，我们有液态水，也有固态水，也就是冰。对吧？如果我们将这个整体视为一个系统，那么这实际上就是一个由两种物质或两种相共存的例子。
+
+[51:18]
+Right? And basically, things like this happen all the time. Right?
+对吧？基本上，这类情况随时都在发生。对吧？
+
+[51:44]
+Mixture of 2 or more kinds of things coexisting in one system that we're interested in. And we also have this example here, when we are trying to add a lot of sugar into a bottom water. So what is happening is, first of all, the sugar will dissolve. Right? But you continue to add them, right, a lot of sugars, and at a certain point, you see them stop dissolving.
+我们所关注的某个系统中，两种或多种不同事物的混合共存。这里还有一个例子，就是当我们试图向底部的水中加入大量糖时。所以发生的情况是，首先，糖会溶解。对吧？但你继续加入它们，对吧，加入大量的糖，到了某个时候，你会发现它们不再溶解了。
+
+[51:50]
+Right? The solid sugar cannot be dissolved anymore. Right?
+对吧？固体糖不能再溶解了。对吧？
+
+[52:01]
+So we say it reached its solubility limit. Right? There is always a limit. And at this point, it starts to see 2 kinds of things in this water solution.
+所以我们说它达到了溶解极限。对吧？总是有一个限度。在这个时候，它开始在这个水溶液中看到两种东西。
+
+[52:11]
+First is what we call syrup, which is basically saturated sugar solution. Right? And then we have solid sugar, right, on the bottom, probably.
+第一种是我们所说的糖浆，基本上就是饱和糖溶液。对吧？然后底部可能还有固体糖，对吧？
+
+[52:19]
+Right? This is total solid. So it's a solid liquid binary phase system.
+对吧？这是总固体。所以这是一个固液二相体系。
+
+[52:45]
+Okay? So just like this liquid solution, right, in all the alloys that we're talking about, there are always a parent material and a solute element. So the parent or we say the solvent atom, right, will have a limit of dissolving my solute atoms. And this is what we call solubility limit.
+明白吗？所以就像这种液相溶液一样，对吧？在我们讨论的所有合金中，总有一种母相材料和一种溶质元素。所以母相，或者说溶剂原子，对溶解溶质原子是有一定限度的。这就是我们所说的溶解度极限。
+
+[52:49]
+Okay? And this is actually the origin of having a phase. Right?
+明白吗？而这实际上就是相存在的起源。对吧？
+
+[52:56]
+Because there's always a limit.
+因为总是有一个极限。
+
+[53:12]
+There's always a limit of how much one atom you can put into the other. Especially if it's a solid solution. Right? In a liquid one, usually we have a very wide range that, for example, sugar or sodium chloride, it can dissolve.
+一个原子能放入另一个原子中多少，总是有一个限度。尤其是当它是固溶体时。对吧？在液体中，通常范围很广，例如糖或氯化钠都可以溶解。
+
+[53:28]
+But for solid, you can imagine a limit. Okay? It's usually quite strict. So because of that, if we're talking about mixing 2 or more kinds of metal atoms together, there will be places when they stop to be happily staying with each other.
+但对于固体，你可以想象它有一个限度。明白吗？通常相当严格。所以，如果我们谈论将两种或多种金属原子混合在一起，就会有一些地方，它们不再能够愉快地彼此共存。
+
+[53:34]
+So there will be a saturation. Right? So saturation causes bond formation of a single phase.
+所以就会出现饱和。对吧？所以，饱和会导致单相的键形成。
+
+[54:36]
+So what is a phase? A phase, in a phase diagram context, right, it's a homogeneous portion of a system that has uniform physical and mechanical properties. Okay? So if I take if I consider this is a phase, a single phase, if I, for example, on the left side, this is a single phase of liquid water, maybe some sugar already dissolved, but I don't see some undissolved ones. So it's a very homogeneous system. If I take one piece out of this part and I take another droplet out of this part, I measure their physical, chemical properties, their composition, their conductivity, their melting point, boiling point, they will always be the same. So I say this is a whole phase. Right? But if I look at the right side and I have a solid sugar, and beside that I have a syrup, right, then this will become a 2-phase.
+那么，什么是相？在相图中，相，对吧，是指系统中具有均匀物理和力学性质的同质部分。明白吗？所以，如果我把这个看作一个相，一个单相，那么例如在左边，这是一个液态水的单相，可能已经溶解了一些糖，但看不到未溶解的糖。所以这是一个非常均匀的体系。如果我从这部分取一块，再从这部分取一滴，测量它们的物理、化学性质、组成、电导率、熔点和沸点，它们总是会相同。所以我说这是一个整体相。对吧？但如果我看看右边，那里有固体糖，旁边还有糖浆，对吧，那么这就变成了两相。
+
+[54:40]
+Right? And these 2, they actually are both chemically different and physically different. Okay?
+对吧？而且这两种物质在化学性质和物理性质上实际上都不同。明白吗？
+
+[54:50]
+Now, I need to emphasize that for a phase, we call it a phase, it has to be the same in physical and chemical properties. But for 2 phases to be distinguished as 2 different phases, they don't.
+现在，我需要强调的是，一个相要称为相，就必须具有相同的物理和化学性质。但两个相要被区分为两个不同的相，它们并不……
+
+[55:00]
+You have to be different in both chemical and physical properties.
+它们的化学性质和物理性质都必须不同。
+
+[55:00]
+嗯。
+Mm.
+
+[55:09]
+对吧，就是 this is a simple logical issue, right? For example, here, both of them are chemically the same, right? H2O.
+对吧，这就是一个简单的逻辑问题，对吧？例如，这里两者在化学性质上是相同的，对吧？H2O。
+
+[55:08]
+嗯。
+Mm.
+
+[55:20]
+But physically, one is solid, one is liquid, and it's still considered in two phases. Right? Right? So that's how we have two phases. Now, this is another interesting example of a mixed phase.
+但从物理状态来看，一种是固态，另一种是液态，它们仍然属于两个相态。对吧？对吧？所以，我们就是这样有两相的。现在，这是另一个有趣的混合相例证。
+
+[55:43]
+Remember we talked about, uh, polymorphism, right, where, uh, a piece of material being, uh, chemically identical, they can crystallize in different crystal structures, right? Like tin, like carbon, right? Now, this is an example of silicon carbide, right? Silicon carbide is a well-known polymorphic material.
+还记得我们讲过多晶型，对吧？也就是说，化学成分相同的物质可以结晶成不同的晶体结构，对吧？就像锡，就像碳，对吧？现在，这是碳化硅的一个例子，对吧？碳化硅是一种众所周知的多晶型材料。
+
+[55:53]
+Naturally, it has different ways of atomic packing. Even in a single piece of material. So it can have what we call 3C, 2H, 4H, 6H kind of packing.
+当然，它有不同的原子堆积方式。即使在一块材料中。所以它可能具有我们所说的 3C、2H、4H、6H 类型的堆积方式。
+
+[56:07]
+There are distinguishing the kind of repeating block we have, right? ABC, ABC is called 3C, or for metal we call it FCC, right? And AB packing we call it HCT for metals, for silicon carbide we call it 2H.
+这取决于我们所拥有的重复单元的类型，对吧？ABC、ABC 叫做 3C，或者对金属来说，我们称之为面心立方，对吧？AB 堆积在金属中称为 HCT，在碳化硅中称为 2H。
+
+[56:38]
+It's just another kind of, uh, way of naming it. But they can happen together simultaneously in the same piece of material. If that's the case in a piece of silicon carbide, you see some part is one crystal structure, the other part is one another crystal structure, and because they're all different just by layer of packing, right, so they happen to coexist. Right? And that is also a way of having more than one phase, one piece of material.
+这只是另一种，呃，命名方式。但它们可以同时出现在同一块材料中。如果碳化硅中存在这种情况，你会看到一部分采用一种晶体结构，另一部分采用另一种晶体结构，而它们之所以不同，只是因为原子排列方式不同，对吧？所以它们恰好共存。对吧？这也是同一种材料中存在多个相的一种方式。
+
+[56:46]
+Right? So in this case, they're chemically identical. Physically, not sure, maybe also very close, but their crystal structures are different.
+对吧？所以在这种情况下，它们在化学性质上是相同的。从物理性质来看，也不确定，也许也非常接近，但它们的晶体结构不同。
+
+[56:50]
+Right? If you take out their unit cell, they're different. Right?
+对吧？如果你把它们的晶胞拿出来，就会发现它们是不同的。对吧？
+
+[56:58]
+This is also a way of having different plates. Okay?
+这也是制作不同晶格的一种方式。明白吗？
+
+[57:02]
+Okay, so a few more concepts. Phase equilibrium. Right?
+好的，再讲几个概念。相平衡。对吧？
+
+[57:27]
+Let's talk about the tricker issue again. Right? Remember we have a bottle of water, where we can add as much as sugar as we want, right? But then we reach a solubility limit. And then you're going to see right at certain sugar, if I draw a curve, right, at certain sugar concentration, I cannot dissolve anymore.
+我们再谈谈那个棘手的问题。对吧？还记得我们有一个水瓶，可以往里面加任意多的糖，对吧？但之后就会达到溶解度极限。然后你会看到，对吧，在某个糖浓度时，如果我画一条曲线，对吧，在某个糖浓度下，我就不能再溶解了。
+
+[57:41]
+So my point of seeing a solid sugar will be the point I can dissolve the maximum amount of sugar. Right? Whenever you see solid sugar, you no longer dissolving.
+所以，我看到固体糖出现的点，就是我能溶解最大量糖的点。对吧？每当你看到固体糖时，它就不再溶解了。
+
+[57:47]
+You know I reached my limit. Right? So you can draw a point of where this concentration is, right?
+你知道，我已经到了极限。对吧？所以你可以标出这个浓度所在的位置，对吧？
+
+[57:57]
+For example, 61 degree, uh, 61 wait percent, for example. Right? And then you realize that this dissolving issue is related to temperature.
+比如，61度，呃，61……等百分比，比如。对吧？然后你意识到，这个溶解问题与温度有关。
+
+[58:07]
+Right? Usually, higher temperature means higher solubility. Right? Usually. So you try to figure out when temperature increases, how much solubility change.
+对吧？通常，温度越高，溶解度越高。对吧？通常。所以你要弄清楚，当温度升高时，溶解度会发生多大变化。
+
+[58:54]
+So I have this kind of curve. Right? So when temperature increases, my maximum point where I can have a dissolved, uh, sugar gradually increase from around 60 all the way to around 80 percent in the water. Right? So if I connect all these dots together, I draw a line, right, on the left side of this line, right, no matter what point I'm positioned in here, right, I can read, for example, 20 percent of sugar at 20 degrees Celsius, I can I can locate a point here, or 40 degree of sugar and, uh, sorry, 40 percent of the sugar at 60 degrees Celsius, I get a point here. These are all will be a single phase of dissolved sugar in water.
+所以我有这样一条曲线。对吧？所以，随着温度升高，糖在水中的最大溶解度会逐渐从大约60%增加到大约80%。对吧？所以，如果我把所有这些点连起来，画一条线，对吧？在这条线的左侧，无论我位于这里的哪个点，比如，我可以在20摄氏度下读出20%的糖，我可以在这里找到一个点；或者40……呃，抱歉，40%的糖在60摄氏度下，我可以在这里找到一个点。这些都处于糖溶解在水中的单相状态。
+
+[59:09]
+Right? There's only, uh, there's only a piece of clean solution that I can see right now. Right? But at any point on the right side of this line, I will see two phases.
+对吧？现在我只能看到一小块干净的溶液，对吧？对吧？但在这条线右侧的任意一点，我都会看到两个相。
+
+[59:13]
+Both are solid. Right? And a, uh, solid sugar.
+两者都是固体。对吧？以及，呃，固体糖。
+
+[59:27]
+Some some amount of solid sugar. The low, uh, uh, at the bottom of this, uh, bottle. Okay? So this is actually exactly what we call as a phase diagram.
+一定量的固体糖。这个，呃，瓶子底部的低，呃，呃。好吗？所以，这正是我们所说的相图。
+
+[59:29]
+Right? A phase diagram. Okay?
+对吧？相图。明白吗？
+
+[59:41]
+So it's basically a map. Right? So I want to know at certain coordinate, what is the system look like? Is it, uh, uh, in this side origin or this side origin?
+所以它基本上是一张图。对吧？所以我想知道，在某个坐标下，这个系统是什么样的？它是在，呃，呃，这边的原点还是那边的原点？
+
+[59:51]
+I just read my x-axis, I read my y-axis, and I locate a point. Okay? And usually this boundary lines are determined experimentally.
+我只看我的 x 轴，再看我的 y 轴，然后确定一个点的位置。明白吗？通常，这些边界线是通过实验确定的。
+
+[1:00:34]
+So people just measure every single temperature, they find out the solubility limit, and this limit they stop connected, become a line, and they become a guidance for people who don't have to do this experiment again. They just check this map, and they know where this, uh, system will be located at. Okay? So another thing we need to emphasize here is that, um, for this thing, right, to be completely recordable, right, we need to wait until all the sugars are dissolved. Right? If I measure only one second after I dissolve, I add the sugar, I always see some solid.
+所以人们只需测量每一个温度，确定溶解度极限，然后把这些极限点连接起来，形成一条线，作为不必重复做这个实验的人的参考。他们只要查看这张图，就知道这个，呃，体系会位于哪里。明白吗？所以，这里我们还需要强调的是，嗯，为了让这个东西，对吧，能够被完整记录，对吧，我们需要等到所有糖都溶解了。对吧？如果我只在溶解并加入糖后一秒钟就进行测量，我总会看到一些固体。
+
+[1:00:44]
+Right? So make sure you stir well. Make sure they're fully dissolved. And maybe after 10 minutes or something, right, you measure, you know they're totally steady state already.
+对吧？所以一定要充分搅拌。确保它们完全溶解。然后大概过10分钟左右，对吧，你测量一下，就知道它们已经完全达到稳态了。
+
+[1:01:03]
+Right? So that's why we we need to emphasize that everything showing on this map, right, they're the equilibrium or the steady state of the system. You make sure they all dissolved completely. Right? They won't change with time anymore.
+对吧？所以这就是为什么我们需要强调，这张图上显示的一切，对吧，都是系统的平衡态或稳态。确保它们全都完全溶解。对吧？它们不会再随时间发生变化了。
+
+[1:01:23]
+Okay? They may change with temperature, but they may not change with time anymore. Okay? So when the system is at this equilibrium, right, we say that this phase characteristics do not change over time.
+明白吗？它们可能会随温度变化，但不会再随时间变化了。明白吗？所以，当系统处于这种平衡状态时，对吧，我们就说这些相特征不会随时间变化。
+
+[1:01:27]
+Right? Do not change over time. So this is very important.
+对吧？不会随时间变化。所以这一点非常重要。
+
+[1:01:39]
+And, uh, after that, you got a map, and this map is what we call a phase diagram, where we say equilibrium diagram.
+然后，呃，你会看到一张图，这张图就是我们所说的相图，也叫平衡图。
+
+[1:01:50]
+Right? So just like a normal map, you'll you'll have your x-axis and y-axis. For a phase diagram, we also have x-axis and y-axis.
+对吧？所以就像普通地图一样，你会有 x 轴和 y 轴。对于相图，我们也有 x 轴和 y 轴。
+
+[1:02:02]
+And actually, we have, uh, usually three kinds of things that we're interested in. Right? In most cases, we care about temperature and composition, because pressure usually is set as a constant.
+实际上，我们通常关注三种情况。对吧？在大多数情况下，我们关注的是温度和组成，因为压力通常保持不变。
+
+[1:02:20]
+But there are also reactions of systems where we can change pressure. So sometimes pressure can also be a coordinate. So, uh, it's either two-axis 2D maps, or in some extreme cases, they can be a 3D map when you add another vertical line for pressure.
+但也有一些体系的反应中，我们可以改变压力。所以，有时压力也可以作为一个坐标。所以，呃，要么是二维双轴图，或者在某些极端情况下，当你再加一条表示压力的竖线时，它们可以变成三维图。
+
+[1:02:22]
+It's possible. It's possible. Okay?
+这是可能的。这是可能的。好吗？
+
+[1:02:49]
+So but in either way, right, it's just simply a map of showing you where I should find my material access. Okay? And I need to, for this diagram, we need to constantly point out that, uh, in the real state, right, in the real world, right, we we can almost never reach a equilibrium.
+所以，不管怎样，对吧，它只是一个地图，告诉你在哪里可以找到我的材料访问权限。明白吗？而且我需要，对于这张图，我们需要不断指出，呃，在现实状态中，对吧，在现实世界中，对吧，我们几乎永远无法达到平衡。
+
+[1:03:03]
+Right? The reason is because, um, in most of the systems we're interested in, we're talking about thousands of temperatures. Right? And, uh, at the maximum, right, so when you you want to reach that point, you you're going to need forever.
+对吧？原因是，嗯，在我们感兴趣的大多数系统中，我们讨论的温度有数千个。对吧？而且，呃，在最高温度下，对吧，所以当你想达到那个点时，你需要永远也达不到。
+
+[1:03:30]
+Right? So usually, the the rate which we experimentally realize to measure that point is much, much faster than the natural cooling down or heating up. So we're all in real cases, we're all almost always at non-equilibrium. Or metastable state. Right? So this is some terms, right, that we should be aware of.
+对吧？所以通常，我们通过实验实现到那个点的速度，要比自然冷却或加热快得多。所以在实际情况下，我们几乎总是处于非平衡态。或者亚稳态。对吧？所以，这些是我们应该了解的一些术语，对吧？
+
+[1:03:38]
+Right? It's either called non-equilibrium or metastable.
+对吧？它要么称为非平衡态，要么称为亚稳态。
+
+[1:03:38]
+All right?
+明白吗？
+
+[1:03:44]
+Okay. So let's look at the real phase diagram. Right?
+好的。那么，我们来看一下实际的相图。对吧？
+
+[1:03:58]
+Just now, the second one is so far. Okay? Uh, we are more interested in, uh, real world material. Now, here, what we are seeing is a real phase diagram for a copper-nickel anode.
+刚才，第二个到此为止。好吗？呃，我们更感兴趣的是，呃，现实世界中的材料。现在，我们看到的是铜镍阳极的真实相图。
+
+[1:04:04]
+Right? Copper-nickel anode.
+对吧？铜镍阳极。
+
+[1:04:21]
+So and it's a it's a phase diagram of temperature versus composition. Right? So, uh, usually if you're given phase diagram and if you're given this max y-axis, they will tell you what is the third parameter.
+所以，这是一张温度与成分关系的相图。对吧？所以，呃，通常如果你看到一个相图，并且给定了这个最大 y 轴，他们会告诉你第三个参数是什么。
+
+[1:04:27]
+Right? For example, in this case, they will tell you what is the pressure. Of course, we didn't show it here, but you should know.
+对吧？例如，在这种情况下，他们会告诉你压力是多少。当然，我们这里没有展示，但你应该知道。
+
+[1:04:31]
+Right? Because the three parameters that will affect how it looks like. Right?
+对吧？因为有三个参数会影响它的外观。对吧？
+
+[1:04:39]
+If you only showing too, that means that the other one is fixed. Right? So it's either one atmosphere or some other pressure.
+如果你只显示这个，那就意味着另一个是固定的。对吧？所以要么是一大气压，要么是其他某个压力。
+
+[1:04:51]
+The pressure, but they there must there must be a fixed constant. So they we don't care about that anymore. Right? So in this particular phase diagram, we have two lines.
+压力，但它们那里必须有一个固定的常数。所以我们不再关心那个了。对吧？所以在这个特定的相图中，我们有两条线。
+
+[1:04:57]
+That means we're separating this part of the diagram to three regions. Right? So this region, we call it liquid.
+这意味着我们将这个图的部分区域分成了三个区域。对吧？所以这个区域我们称之为液相。
+
+[1:05:03]
+Right? Just like the fully dissolved sugar, we have, uh, uh, uh, uh, syrup. Right?
+对吧？就像完全溶解的糖，我们有，呃，呃，呃，呃，糖浆。对吧？
+
+[1:05:10]
+Here, we have a liquid. So usually, you can imagine that means it's a very high temperature. So those metals are melted.
+这里，我们有一种液体。所以通常，你可以想象，这意味着温度非常高。所以那些金属是熔化的。
+
+[1:05:16]
+Right? Those are melted. And then we have a bottom part we call alpha.
+对吧？那些金属被熔化了。然后我们有一个底部，称为α相。
+
+[1:05:20]
+Which is the phase name. Right? Usually, in phase diagram, we use simple ways of naming them.
+这是相的名称。对吧？通常，在相图中，我们会用简单的方式来命名它们。
+
+[1:05:30]
+It's either alpha, beta, or some other small, uh, Greek letters. And then in the middle, these two lines, we have alpha plus L. L is for liquid.
+要么是 α、β，要么是其他一些小写希腊字母。然后中间的这两条线表示 α + L。L 代表液相。
+
+[1:05:42]
+So that means we have a region, we have coexistence of two phases. Right? Just like the sugar case, we have undissolved sugar and some, uh, clear liquid.
+所以这意味着存在一个区域，在这个区域中两种相共存。对吧？就像糖的情况一样，我们有未溶解的糖和一些，呃，澄清液体。
+
+[1:05:54]
+And it's it's also solid, and liquid mixture. Right? Solid liquid mixture. Okay? So from a phase diagram, we can immediately interpret three things.
+它也是固体和液体的混合物。对吧？固液混合物。明白吗？所以，从相图中，我们可以立即解读出三件事。
+
+[1:05:59]
+Right? Phase is a presence. Oops.
+对吧？相就是一种存在状态。哎呀。
+
+[1:06:09]
+And in each phase, what is its composition? Right? So composition means the percent of my nickel or copper.
+那么，在每个相中，它的组成是什么？对吧？所以，成分就是镍或铜的百分比。
+
+[1:06:17]
+Basically, the x-axis information. Right? And we can find out the percentage of each phase.
+基本上，就是 x 轴上的信息。对吧？我们可以计算出各相所占的百分比。
+
+[1:06:25]
+Right? So if I have two phases, what's the percentage of phase A? What's the percentage of phase B?
+对吧？所以，如果我有两个相位，A相的百分比是多少？B相的百分比是多少？
+
+[1:06:41]
+Okay? Now, let's look at this look at this, uh, phase diagram. We have two questions already listed here. So at, uh, 60 wave percent nickel, right, and 1,100 degrees Celsius, what are phases present?
+明白吗？现在，我们来看一下这个，呃，相图。这里已经列出了两个问题。那么，在，呃，60%波数的镍，对吧，以及1100摄氏度时，存在哪些相？
+
+[1:06:48]
+So it's just like how you locate in a map. Right? We give you x and y-axis.
+这就像你在地图上定位一样。对吧？我们给你 x 轴和 y 轴。
+
+[1:06:52]
+The x-axis is 60, so it's over here.
+x 轴是 60，所以在这边。
+
+[1:06:58]
+And for 100 and 1,100 is over here. So we're talking about 0.8.
+100 和 1,100 在这里。所以我们说的是0.8。
+
+[1:07:02]
+So what phase is in 0.8?
+那么，0.8 在哪个相位？
+
+[1:07:04]
+Solid state.
+固态。
+
+[1:07:04]
+Only the solid anode. Right?
+只有固体阳极。对吧？
+
+[1:07:06]
+Yeah.
+对。
+
+[1:07:06]
+Yeah. Only alpha phase.
+对。只有α相。
+
+[1:07:08]
+Right? This is just how this map tells you. Right?
+对吧？这张图就是这么告诉你的。对吧？
+
+[1:07:10]
+Yeah.
+对。
+
+[1:07:20]
+So how about the points with 35% of wave percent of nickel and 1,250 degrees Celsius?
+那么，镍含量为35%，温度为1250摄氏度的点呢？
+
+[1:07:20]
+How do you know the difference?
+你怎么知道它们之间的区别？
+
+[1:07:24]
+Divide over here. Right? Where are the point it out.
+在这里除一下。对吧？在哪里指出这一点。
+
+[1:07:25]
+Point B.
+B点。
+
+[1:07:25]
+Point B is 10.
+点 B 是 10。
+
+[1:07:31]
+And point B is in this mixed phase region. So that means.
+点 B 位于这个混合相区。所以这意味着。
+
+[1:07:31]
+Two phases.
+两个相。
+
+[1:07:41]
+Right. We have both liquid and solid. Okay? So we already tackled the first point.
+对。我们既有液相，也有固相。明白吗？所以我们已经解决了第一点。
+
+[1:07:43]
+Right? What phases are present?
+对吧？存在哪些相？
+
+[1:07:43]
+Yeah.
+对。
+
+[1:07:51]
+Okay? Now, let's continue. For example, to look at the point B, what are the other things we can get?
+明白吗？现在，我们继续。例如，来看点 B，我们还能得到什么？
+
+[1:07:59]
+Okay? So this question now follow up. Right? So at point B, what is the composition of each phase in terms of wave percent of nickel?
+明白吗？那么，现在来看这个问题的后续内容。对吧？那么，在B点，各相中镍的重量百分比是多少？
+
+[1:08:03]
+Let's focus on this this question first. Okay? So now I have point B.
+我们先重点讨论这个问题。好吗？所以现在我有点B。
+
+[1:08:15]
+Right? Point B is alpha and liquid. But I don't know. Right? For alpha, right, it looks like alpha phase have a wide range of possible composition.
+对吧？点 B 是 α 相和液相。但我不知道。对吧？对于α相，对吧，它看起来α相可能具有很宽的成分范围。
+
+[1:08:23]
+Right? So what is exactly the composition of alpha phase at this point? And what is the exactly the liquids?
+对吧？那么，此时α相的确切组成是什么？那么，液相究竟是什么？
+
+[1:08:34]
+Right? How much how much nickel are inside copper? Right? So we have a very straightforward rule or tool.
+对吧？铜里有多少镍？对吧？所以我们有一个非常简单明了的规则或工具。
+
+[1:08:38]
+Right? We call it Tie Line. Or isotherm line.
+对吧？我们称之为“连接线”。等温线。
+
+[1:08:42]
+Right?
+对吧？
+
+[1:08:56]
+So whenever you were point now, if my point is, for example, here. Right? If my point is here. Then you don't need to worry about the two phase issue because it's only a single phase here.
+所以，无论你现在在哪里，如果我的点，比如说，在这里。对吧？如果我的点在这里。那么你就不必担心两相问题，因为这里只有一个相。
+
+[1:09:00]
+It's liquid. Right? So the composition of my liquid, I can read from my x-axis.
+它是液体。对吧？所以，我可以从 x 轴读出我的液体的组成。
+
+[1:09:12]
+Right? But the thing becomes tricky when I have two phase in this region. So whenever your point is in a two phase region, that means you are surrounded by at least two boundaries.
+对吧？但当这个区域内存在两个相时，情况就会变得棘手。所以，每当你的点位于两相区域时，就意味着它至少被两条边界包围。
+
+[1:09:21]
+Right? One boundary from liquid, the other boundary from solid. Or one boundary from phase A, one boundary from phase B.
+对吧？一条边界来自液相，另一条边界来自固相。或者一个界面来自相 A，另一个界面来自相 B。
+
+[1:09:25]
+Right? It could work on all other kinds of mixed phases. Right?
+对吧？它也可以用于所有其他类型的混合相。对吧？
+
+[1:09:31]
+So basically, I have two phases in the middle. I have a mixture. So that means I must have two lines.
+所以基本上，中间有两个相位。我有一种混合物。所以这意味着我必须有两条线。
+
+[1:09:45]
+Right? That is surrounding me. So I'm what I'm we're doing is we enjoy a horizontal line from the point of our interest until it intersects with the two boundaries.
+对吧？它包围着我。所以我们正在做的是，从我们感兴趣的那个点开始画一条水平线，直到它与两条边界相交。
+
+[1:09:51]
+Now, why do a mixed phase always have two boundaries?
+那么，为什么混合相总是有两个界面呢？
+
+[1:09:55]
+Right? A mixed phase doesn't come from nowhere. Right?
+对吧？混合相并不是凭空产生的。对吧？
+
+[1:10:03]
+You have mixed phase, that means near your mixed phase, you have a pure phase. Or some other foreign phase. Right?
+你有混合相，这意味着在混合相附近，你有一个纯相。或者某种其他异相。对吧？
+
+[1:10:16]
+So that's why I can I don't worry that I won't have an intercept. There will always be intercept. Okay? So I'm now intersecting with this this boundary is two points.
+所以这就是为什么我不担心没有截距。总会有一个截距。明白吗？所以我现在与这个边界相交，这个边界有两个点。
+
+[1:10:24]
+Now, these two points tells you exactly what are the compositions of the two phases. Okay? Like we we are showing here.
+现在，这两个点准确地告诉你两相的组成。明白吗？就像我们在这里展示的。
+
+[1:10:48]
+Right? So for this point B, it intersects with our liquid phase. And the alpha liquid phase boundary at this point, which corresponding to 31% 31.5% of nickel. Right? And this exactly will be the concentration composition of nickel.
+对吧？所以，对于这个点 B，它与液相相交。而α-液相边界在这个点，对应于31%、31.5%的镍含量。对吧？而这正是镍的浓度组成。
+
+[1:11:05]
+Right? What we call a Cl, the composition C for composition, L for liquid. Right? So composition of nickel in liquid. And the other intercept will read another nickel composition, which is around 42.
+对吧？我们称之为 Cl，C 表示成分，L 表示液相。对吧？所以，液相中的镍组成。另一个截距对应的是另一个镍组成，约为42。
+
+[1:11:11]
+5. And this will be the composition my alpha phase adopt. Right?
+5。而这将是我的α相所采用的成分。对吧？
+
+[1:11:35]
+Is one of this. Okay? Just one of this. Okay? Now, if you're interested to know how they are divided, because this is not a math course, I'm going to go into this write you some very straightforward basic rules.
+是这些之一。明白吗？只是其中之一。明白吗？现在，如果你们有兴趣了解它们是如何划分的，因为这不是一堂数学课，我会讲一下这些，给你们写一些非常简单明了的基本规则。
+
+[1:12:14]
+Okay? Now, before that, another set of parameter right, C for composition, W is for mass fraction. Right? Mass fraction of phase A or phase B. So what we know in the beginning is only C0, which is the overall composition in this case, nickel.
+好吗？现在，在此之前，还有一组参数，对吧？C 表示组成，W 表示质量分数。对吧？相 A 或相 B 的质量分数。所以一开始我们只知道 C0，也就是这种情况下的总体组成，也就是镍。
+
+[1:12:28]
+Right? So C0 is the x-axis of B point. The only point that we know we can measure by microscope scopic method over here.
+对吧？所以，C0 是 B 点的 x 轴坐标。我们唯一知道可以通过显微镜测量的点。
+
+[1:12:51]
+All the other things W and C, L, alpha, and L, these are things we at the beginning we don't know. Right? We try to divide or measure. But they should follow some rules. For example, the wave fraction of my liquid and the wave fraction of my alpha, they're they're represented in percentage form.
+其他所有参数，如 W、C、L、α 和 L，都是我们一开始不知道的。对吧？我们尝试进行划分或测量。但它们应该遵循一些规则。例如，我的液体的波分数和我的α的波分数，它们以百分比形式表示。
+
+[1:13:00]
+So it means it's 50% or 20%. So if if I add these two together, what should be the value?
+所以这意味着它是50%或20%。所以，如果我把这两个加起来，结果应该是多少？
+
+[1:12:59]
+1.
+1。
+
+[1:13:01]
+1. Right? So it's always 1.
+1。对吧？所以它始终是1。
+
+[1:13:19]
+No matter how they are changing. Right? No matter which point I find from the map, they're always a 1. What's the other thing we can find that is permanent? If we fix this C0, right, I may have certain point of concentration change.
+无论它们如何变化。对吧？无论我在地图上找到哪个点，它们始终都是 1。我们还能找到什么是恒定不变的？如果我们固定这个 C0，对吧，我可能会有某个浓度点发生变化。
+
+[1:13:58]
+Of nickel, in my liquid or alpha and basis. But when if I add them together, for example, C alpha, which is the nickel composition in alpha phase, times my fraction of weight of alpha phase, that will be my composition, total composition, countable for nickel in alpha phase. And if I add that with Cl, which is the composition of nickel in liquid form, multiply the weight percent of liquid form, they should be the total composition of nickel.
+镍，在我的液体或阿尔法和基质中。但如果我把它们加起来，比如，α相中的镍组成 Cα 乘以 α相的重量分数，就会得到我的组成，也就是总组成，也就是 α相中镍的可计算含量。如果把它们加上 Cl，也就是液相中的镍组成，再乘以液相的重量百分比，它们应该就是镍的总组成。
+
+[1:14:18]
+Right? So these two equations are always correct no matter which point you choose. So with with these two, you can derive the the Tie Line and derive the the other rule I'm going to talk about very soon. Right?
+对吧？所以，无论选择哪个点，这两个方程始终都是正确的。所以，利用这两个方程，你可以推导出平衡线，以及我很快会讲到的另一个规则。对吧？
+
+[1:14:23]
+So they're all connected. So it's very simple math. If you're interested, you can derive at home.
+所以它们都是相互关联的。所以这是一道非常简单的数学题。如果你感兴趣，可以在家推导一下。
+
+[1:14:37]
+Okay? So basically, by applying the Tie Line, right, we can easily know the concentr the the composition of nickel. Right?
+明白吗？所以，基本上，通过绘制平衡线，对吧，我们可以很容易地知道镍的组……组成。对吧？
+
+[1:14:51]
+Or we say just the composition of for each phase. Right? In any given two phase system. Right? And we can also further answer the third question is the mass fraction of each phase.
+或者说，我们只需知道各相的组成。对吧？在任意给定的两相系统中。对吧？我们还可以进一步回答第三个问题：各相的质量分数。
+
+[1:14:57]
+So by this what we call the lever rule. Right? The lever rule.
+所以，这就是我们所说的杠杆规则。对吧？杠杆规则。
+
+[1:15:07]
+Okay? Right? Now, the lever rule says that now, still this Tie Line, right, we still need a Tie Line.
+明白吗？对吧？现在，杠杆规则说，现在，这条共熔线仍然存在，对吧，我们仍然需要一条共熔线。
+
+[1:15:40]
+This Tie Line right, now we're not just looking at the intercept point, the x readings. Now we look at the section left, right, the segment left, and the overall length. Right? And we have a simple rule. Right? For my liquid portion, over the overall portion, I will use the distance from B to the right side of this intersection, divided by the overall length.
+这条相图线，对吧，现在我们看的不只是截距点，还有 x 轴上的读数。现在我们看左边的这一段，对吧，也就是左边的线段，以及整个线段的长度。对吧？我们有一个简单的规则。对吧？对于我的液体部分占整体部分的比例，我将使用从 B 到该交点右侧的距离，除以整体长度。
+
+[1:16:13]
+Okay? In other words, the closer I am to liquid, actually the larger liquid fraction will there be, to this in this entire binary system. Okay? So if I write it by equations, that will be the liquid form will be the alpha composition minus C alpha composition minus C overall composition, which is this distance, over alpha composition minus the liquid composition, which is overall distance.
+明白吗？换句话说，我越接近液相，这个二元体系中液相所占的比例就越大。明白吗？所以，如果用方程来表示，液相的组成就是 α 组成减去 C，α 组成减去 C，也就是这个距离，除以 α 组成减去液相组成，也就是总距离。
+
+[1:16:33]
+Okay? So again, the closer you are to that particular region, the more portion you're going to have for this region. Okay? So for alpha phase, it's opposite. Right? My B point, I have a distance from the other side, which is the liquid side.
+明白吗？所以，你越接近那个特定区域，这个区域所占的比例就越大。明白吗？所以对于α相，情况正好相反。对吧？我的B点到另一边，也就是液相一侧，有一段距离。
+
+[1:16:39]
+This distance over the overall distance is my portion of my alpha phase.
+这个距离除以总距离，就是我的 α 相所占的比例。
+
+[1:16:41]
+Okay? So this is the lever rule. Okay?
+明白吗？所以这就是杠杆规则。明白吗？
+
+[1:16:49]
+Again, you can derive that from these two equations. Okay?
+同样，你可以根据这两个方程推导出来。明白吗？
+
+[1:16:49]
+All right?
+明白吗？
+
+[1:16:53]
+So far so good?
+到目前为止都明白吗？
+
+[1:17:06]
+We're stepping into one of the most difficult parts in material science, this diagram. So it's okay. You need to take it slowly.
+我们即将进入材料科学中最难的部分之一，也就是这张图。所以，没问题。你需要慢慢来。
+
+[1:17:10]
+And it happened to be a break time. So let's take a break, maybe. Try to dissolve digest this further. And we will come back and continue at later.
+而且正好是休息时间。那我们也许可以休息一下。试着进一步消化一下。我们稍后回来继续。
+
+[1:34:50]
+What?
+什么？
+
+[1:34:50]
+啊？
+Huh?
+
+[1:34:52]
+他说你有什么喜欢的乐队？
+He asked, “What bands do you like?”
+
+[1:35:02]
+我有喜欢的，然后就你来我后我自己不足，我的实力还太差，拉逼了。我就是一个，我我是鼓手嘛。
+I have a favorite band, and then you came. I’m behind, and I’m not good enough. I’m a loser. I’m just, I’m a drummer.
+
+[1:35:18]
+So, uh, again, you know, try to follow me. Well, we're talking about, uh, one of the simplest phase diagrams, for now. So let me just try to repeat, uh, some of the questions you guys are asking me about.
+所以，呃，还是那句话，尽量跟上我的思路。嗯，我们现在讨论的是最简单的相图之一。那么，我来试着重复一下，呃，你们刚才问我的一些问题。
+
+[1:35:42]
+So, if I'm locating any point in the liquid region, right, I can directly read what is my composition, which is now in the, uh, form of wave percent and nickel. But it's a binary system, it's neither nickel nor copper. So if I know the composition of nickel, I know the composition of copper.
+所以，如果我在液相区的任意一点，对吧，我可以直接读出我的成分，也就是波的百分比和镍的百分比。但这是一个二元体系，既不是镍，也不是铜。所以，如果我知道镍的组成，也就知道铜的组成。
+
+[1:35:48]
+Right? So it's just people choose one of them to be the axis. But you know the other immediately.
+对吧？所以人们只需选择其中一个作为坐标轴。但你知道另一个是什么。
+
+[1:35:55]
+Okay? So this question is never about nickel or copper. Right?
+明白吗？所以这个问题从来不是关于镍或铜的。对吧？
+
+[1:36:09]
+It's just simple about composition with same composition, just in this case just nickel. Another thing, right, C0, C0 is overall concentration you can measure for the whole system. Right?
+这只是关于成分相同、只是在这种情况下是镍的简单问题。还有一点，对吧，C0，C0 是你可以针对整个系统测得的总体浓度。对吧？
+
+[1:36:25]
+If it's pure liquid or pure solid, it's very straightforward. Just take a piece out and measure it. Right? But we're talking about a mixed system, and since we'll be complicated, right, in some cases you don't get to take out part of that phase and measure it.
+如果是纯液体或纯固体，那就非常简单明了。只要取一块出来测量就行了。对吧？但我们讨论的是一个混合系统，而且由于情况会比较复杂，对吧，在某些情况下，你无法取出该相的一部分来测量。
+
+[1:36:48]
+Right? So it's a mixture. And it could be small, small solid in liquid, or sometimes small liquid in solid. Right? So it's a very, very random and chaotic so things become slightly complicated when we have these questions about their composition or mass fraction.
+对吧？所以这是一个混合物。它可以是固体中很小的固体，有时也可以是固体中很小的液体。对吧？所以它非常随机、非常混乱，因此，当我们遇到关于它们的组成或质量分数的问题时，事情就会变得稍微复杂一些。
+
+[1:37:14]
+When we have a mixed phase, and this mixed phase have two or more pieces of regions where they have different compositions. So in this case I have an alpha solid phase, and I have a liquid phase. Right? And depending on the point I locate in this map, right, my solids in this region can have all kinds of composition.
+当存在混合相时，而这个混合相包含两个或多个成分不同的区域。所以在这种情况下，我有一个α固相和一个液相。对吧？根据我在这张图中所处的位置，对吧，这个区域中的固体可以具有各种不同的成分。
+
+[1:37:18]
+Right? I don't know. Right?
+对吧？我不知道。对吧？
+
+[1:38:09]
+And my liquid in this region can also have all kinds of composition. It is not necessarily related to the C0. Right? If, luckily, right, my point, for example my B point, is right in the middle, center, of this tie line that I draw, that's somewhere over here, then the Cl and Cl-like I'm going to read will be symmetric. Right? Like mirror image, one to the other. Then that means that in this in this alpha phase it has one nickel concentration, in this liquid phase it has 11 nickel concentration, but because they are both share the exactly same half-half, fraction, so their concentration when you take an average they should be C0.
+而且这个区域中的液体也可以有各种不同的成分。它不一定与 C0 有关。对吧？如果，幸运的话，对，我的观点，比如说我的B点，正好位于我所画的这条连接线的中间、中心，也就是这里某处，那么Cl和Cl-like，我会读作，将是对称的。对吧？就像镜像一样，彼此对称。那么这意味着，在这个α相中镍浓度为1，在这个液相中镍浓度为11，但由于它们的半半比完全相同，所以取平均值时，它们的浓度应该等于C0。
+
+[1:38:19]
+But if I'm not in the middle point, that means my portions of liquid and solid are not half-half. Right? Then things might be a little bit complicated.
+但如果我不在中间点，那就意味着液相和固相所占的比例不是各一半。对吧？那么情况可能会稍微复杂一点。
+
+[1:38:30]
+That's why we have these two things. Right? So that's why when I my point is closer to liquid or closer to solid, right, my larger portion will be liquid or solid.
+所以我们才会有这两样东西。对吧？所以，这就是为什么当我的点更接近液体或更接近固体时，对吧，我的大块部分就会是液体或固体。
+
+[1:38:34]
+Right? So it's a map. So you can imagine the closer to liquid, that means I have more liquid.
+对吧？所以这是一张图。所以你可以想象，越接近液体，就意味着我有越多的液体。
+
+[1:38:48]
+Right? Closer to solid means I have more solid. So when these two fractions changes, they're corresponding concentrations of nickel must change so that they overall concentration of nickel is still C0.
+对吧？更接近固体，就意味着固体更多。所以，当这两个分数发生变化时，它们所对应的镍浓度也必须随之变化，以使镍的总浓度仍为 C0。
+
+[1:38:54]
+Right? Right? So hopefully I'm making things clearer.
+对吧？对吧？所以，希望我现在讲得更清楚了。
+
+[1:38:56]
+All right?
+明白了吗？
+
+[1:39:04]
+Okay. Let's continue. Now, what are the other things we can read from a phase diagram?
+好的。我们继续。那么，我们还能从相图中读出哪些其他信息呢？
+
+[1:39:08]
+Right? So one thing is how your material may actually form. Right?
+对吧？所以，其中一点是材料实际上可能会如何形成。对吧？
+
+[1:39:13]
+We call development of microstructure. Now, this is a technical term. Right?
+我们称之为微观结构的演变。这是一个专业术语。对吧？
+
+[1:39:17]
+Although it doesn't look like one.
+虽然看起来并不像。
+
+[1:39:18]
+Oops.
+哎呀。
+
+[1:39:31]
+Right? So this is a very technical term called development of microstructure. You can you can put this on before any kind of binary or ternary alloy systems.
+对吧？所以，这是一个非常专业的术语，叫作“微结构演化”。你可以，你可以先把这个应用到任何二元或三元合金体系中。
+
+[1:39:49]
+Right? We call them development of microstructure because these all these small solids that we actually see, they all come from this phase diagram certain pathway down to the thing we're interested in. Right? We care about grain, grain size, grain orientation, they all can come from this phase diagram, reading from this diagram.
+对吧？我们称之为微观结构的演变，因为我们实际看到的这些小固体，都是从这个相图中的某个路径演化而来的，最终形成我们感兴趣的东西。对吧？我们关注晶粒、晶粒尺寸和晶粒取向，它们都可以从这个相图中得出，也就是通过读取这个图。
+
+[1:39:59]
+Now, let's first look at an ideal case. Right? Remember, in the real world it's almost never fully inequilibrium, but let's see what's inequilibrium look like.
+现在，我们先来看一个理想情况。对吧？记住，在现实世界中，几乎从未完全处于非平衡状态，不过我们来看看非平衡状态是什么样的。
+
+[1:40:22]
+Right? So let's imagine we can cool down the system, right, for one cell in 300 to room temperature, you know, very, very, very slow way. If we can do that, right, so we start from pure liquid, usually. Right? Because usually when we do the metal forming, they're usually liquid in the first place.
+对吧？那么，我们假设可以冷却这个系统，对吧？把一个300开尔文的单元冷却到室温，你知道，要非常、非常、非常缓慢地进行。如果我们能做到这一点，对吧，那么通常我们会从纯液体开始。对吧？因为通常进行金属成形时，它们一开始通常是液态的。
+
+[1:40:30]
+Right? So we naturally cool down. So this alloy, right, when they when it's cooling down, it's going vertically downwards.
+对吧？所以它们会自然冷却。所以这种合金，对吧，当它冷却时，它是垂直向下的。
+
+[1:40:32]
+Right? The composition shouldn't be changing. Right?
+对吧？成分不应该发生变化。对吧？
+
+[1:40:36]
+Because it's it's already fixed. Right? When we fix a point.
+因为它已经固定了。对吧？当我们固定一个点时。
+
+[1:40:57]
+So it's a it's a, for example, a bottle of 35% of nickel, right, and starts to cool down. So when they touch the first line, that means part of the liquid starts to change to solid. Right? And the solid, if we can really zoom in, we will see them as some small crystals.
+所以，比如说，一瓶35%的镍，对吧，开始冷却。所以，当它们接触到第一根线时，就意味着部分液相开始转变为固相。对吧？而固体，如果我们真的放大来看，就会看到一些小晶体。
+
+[1:41:33]
+Right? They're randomly nucleated along inside this liquid piece of very hot metal melting. Right? They become small islands. Right? And I continue to cool down, these islands will grow larger and larger and until my pathway further my pathway further hits the second line, right, which is from between the binary map to this single solid phase region.
+对吧？它们随机地在这一块正在熔化的非常热的金属液体内形成晶核。对吧？它们形成一个个小岛状结构。对吧？随着我继续降温，这些岛将变得越来越大，直到我的路径进一步前进，我的路径进一步到达第二条线，对吧？这条线是从二元图中的……到这个单一固相区域。
+
+[1:41:39]
+Right? So when I hit this line, that means I my solidification pretty much finished. Right?
+对吧？所以，当我到达这条线时，就意味着我的凝固基本上已经完成了。对吧？
+
+[1:41:58]
+And any line below that, I won't see much change. Right? Just all the pieces, they grow together. This is a polycrystalline polycrystalline look. Now, if you take a closer look at this region, right, this will actually explain the the just now the two rules we talked about.
+而在这条线以下的任何一条线，我都会看到变化不大。对吧？所有这些部分都会融合在一起。这是一种多晶的、多晶的外观。现在，如果你仔细观察这个区域，对吧，这实际上可以解释刚才我们提到的两条规则。
+
+[1:42:02]
+Right? So I can draw a tie line whenever I'm in this region. Right?
+对吧？所以，只要我在这个区域内，就可以画一条共轭线。对吧？
+
+[1:42:20]
+So I can draw a tie from here all the way to here, all the way to here. Now, this tie line will tell me what is the exact composition of the binary systems two phases. And they're not certified in pure liquid or in pure solid, but somewhere in between.
+所以我可以从这里一直画到这里，一直画到这里。现在，这条连接线会告诉我，二元体系中两相的精确组成是什么。它们既不是纯液相，也不是纯固相，而介于两者之间。
+
+[1:42:38]
+Okay? When I'm exactly in the middle, that will be symmetric. But before that, let's see if we're just touching them. If we're just touching them, right, if I draw a tie line, I'm reading a 46% for nickel.
+明白吗？当我在中间时，它将是对称的。但在那之前，我们先看看它们是否只是刚好相切。如果我们刚好接触到它们，对吧？如果我画一条共轭线，我读出镍的含量是46%。
+
+[1:42:45]
+So that will be my concentration of my initiating solid. Right? So it's a high concentration nickel solid.
+所以，这将是我的起始固体的浓度。对吧？所以，这是一种高浓度的镍固体。
+
+[1:43:01]
+You can imagine that means my liquid must have a lower concentration. Right? To balance the same amount of nickel. Right? And as I continue to grow, I'm actually reading the point intersection point that is shifting to the left.
+你可以想象，这意味着我的液体浓度一定更低。对吧？为了平衡相同量的镍。对吧？随着我不断增长，我实际上正在读取不断向左移动的点交点。
+
+[1:43:21]
+Right? So my so my nickel concentration in the solid part is actually decreasing. Until I reach the final outcome. Okay? So basically, when the solidification is ongoing from a small nuclei all the way to big things, there are constantly changing your concentration.
+对吧？所以，固体部分中的镍浓度实际上正在下降。直到我得到最终结果。明白吗？所以基本上，当凝固从微小的晶核一直进行到较大的结构时，浓度会不断变化。
+
+[1:43:36]
+Every moment. Okay? This is the ideal case. Right? So the ideal case they're moving the atoms, right, the nickel, the copper atoms, they're continuously moving towards the region boundaries.
+每一刻。明白吗？这是理想情况。对吧？所以，在理想情况下，它们会移动原子，对吧？镍原子、铜原子会不断向区域边界移动。
+
+[1:43:40]
+Okay? They're move changing your concentrations.
+明白吗？它们的移动会改变你的浓度。
+
+[1:43:44]
+All right? Until they're fully fixed at this point. Right?
+明白吗？直到它们在这个点上完全固定。对吧？
+
+[1:43:58]
+When they're fixed at this point, all the concentration is still to the side. Okay? So beginning and ending concentration not changing. But in the middle, there is a abrupt increase in the solid part, and then decreasing.
+当它们固定在这个点时，所有的浓度仍然都在侧面。明白吗？所以起始浓度和终浓度不变。但在中间，固体部分突然增加，然后又减少。
+
+[1:44:02]
+Right? Until they reach to the final end. Okay?
+对吧？直到它们到达末端。明白吗？
+
+[1:44:16]
+All right. Now, let's see the real case. Right? 现在做 the real case, you know, when the atoms, they move, we call them diffusion.
+好的。现在，让我们来看一个真实案例。对吧？现在来看真实案例。你知道，当原子移动时，我们称之为扩散。
+
+[1:44:37]
+Right? Especially in a solid context, we usually call this diffusion. So when the atoms excessive amount of nickel want to move out of the solid, they need energy. And what our cooling condition is not 然后被烤成五级 sufficient sufficient does not give sufficient time to this process, the diffusion may not be completed.
+对吧？尤其是在固体中，我们通常称之为扩散。所以，当过量的镍原子想要从固体中迁出时，它们需要能量。而我们的冷却条件并不……然后被烤成五级……不够，不足以让这个过程有足够的时间完成，扩散可能无法完成。
+
+[1:45:26]
+So the real case is, right, when we try to still cool down from the same point, right, gradually, right, our core is a hung high concentration nickel and the high concentration nickel cannot fully be diluted while it's grow larger. So what it's doing is it's partially diluted, so my core is still high concentration, but when I grow larger, my outer part starts to become less concentrated in nickel. And eventually, I will end up somewhere that deviated from the original point. Right? Because I need to compensate the excessive concentration amount of nickel to my outer part will be actually less than the 35 middle line.
+所以实际情况是，当我们仍然从同一个点开始逐渐冷却时，我们的核心会形成高浓度镍，而高浓度镍在不断增大的过程中无法完全稀释。所以它所做的就是部分稀释。我的核心仍然具有高浓度，但随着它不断长大，外层的镍浓度开始降低。最终，我会到达一个偏离原点的位置。对吧？因为我需要补偿过量的镍浓度，所以我的外部分实际上会低于35的中位线。
+
+[1:45:34]
+Right? Somewhere even depleted. Right? So it can balance the the nickel that are not does not have enough time to escape.
+对吧？甚至在某处有所贫化。对吧？这样它就可以平衡那些没有足够时间逸出的镍。
+
+[1:45:46]
+Out of the original nuclei. Okay? So the real real case when we see grains, right, they're usually gradient of concentration.
+从原始原子核中。明白吗？所以，真正的情况是，当我们看到颗粒时，对吧，它们通常是浓度梯度。
+
+[1:46:04]
+The concentration is not uniform in this whole small core, but it's actually from center is more highly concentrated, and outer part is slightly less concentrated. Right? And all the way to the outer shell, which is actually below the average 35.
+整个小核心内的浓度并不均匀，实际上从中心到外侧，浓度逐渐降低。对吧？一直延伸到外层，其浓度实际上低于平均值35。
+
+[1:46:15]
+Because my middle part is higher than 35, so my outer part has to be smaller than 35 to compensate. Right?
+因为我的中间部分高于35，所以外部分必须低于35才能抵消。对吧？
+
+[1:46:23]
+Okay? So this is typical what we call this non-equilibrium microstructure. Right?
+明白吗？所以，这就是我们通常所说的非平衡微结构。对吧？
+
+[1:46:45]
+And you can imagine how this situation will be obvious or not depending on the process or cooling rate and whether you can reprocess this for example, I heat it back. Right? And I let you there for a very, very long time.
+你可以想象，这种情况是否明显，取决于工艺或冷却速率，以及是否可以重新处理。例如，我把它重新加热。对吧？然后我让你在那里待上很长很长的时间。
+
+[1:46:55]
+So you can actually rearrange your nickel. Then you may get this perfect so eventually you get this perfect uniform concentration again. Okay?
+所以你其实可以重新排列你的镍。然后你可能会得到这个完美的……所以最终你会再次得到这个完美的均匀浓度。明白吗？
+
+[1:47:06]
+All right. Okay. So are you ready for a more complicated baseline graph?
+好的。好的。那么，你们准备好迎接更复杂的基准图了吗？
+
+[1:47:18]
+Okay. So just now, we talked about copper-nickel. Which is a quite straightforward one because in both solid and liquids, we have full solubility.
+好的。刚才我们谈到了铜镍合金。这是一个相当简单的情况，因为铜和镍在固态和液态下都是完全可溶的。
+
+[1:47:45]
+In other words, right, if you look at yeah, if you look at this this whole piece, right, I can find any concentration in any of my liquid or solid composition in this section I provided. Right? I can find a 20% weight percent in my L space.
+换句话说，对吧，如果你看，嗯，如果你看这一整块，对吧，我可以在你提供的这个范围内找到任何浓度的任何液相或固相组成。对吧？我可以在我的 L 空间中找到 20% 的重量百分比。
+
+[1:47:53]
+I can also make this L space have a 50% of nickel. But in real world, many solid. Especially solid phases, they have a limitation.
+我也可以让这个 L 空间含有 50% 的镍。但在现实世界中，很多都是固体。尤其是固相，它们存在局限性。
+
+[1:48:17]
+Right? So there's there's a solubility limit for most of the solid phases. So in the real world, when you have a two-metal alloy, usually you're talking about several saturated solids, say, phases. So that means even for a solid, you cannot dissolve from 0 to 100 all the time.
+对吧？所以，大多数固相都有溶解度极限。所以在现实世界中，当你说一种双金属合金时，通常指的是几种饱和的固相，也就是相。所以这意味着，即使对于固体，你也不能一直从0溶解到100。
+
+[1:48:25]
+Right? For liquid, usually it's okay. For liquid, if you heat a system to high enough temperature, they can dissolve anything.
+对吧？对于液体来说，通常没问题。对于液体，如果你把一个系统加热到足够高的温度，它们就能溶解任何东西。
+
+[1:48:38]
+Right? They will just give a submission energy. They can move around. But when they solidify, become solid, right, there could be, for example, in this case, a copper-silver, just not copper-nickel.
+对吧？它们只会提供一种提交能量。它们可以四处移动。但当它们凝固、变成固体时，对吧，可能会有，比如说，在这种情况下，是铜银合金，而不是铜镍合金。
+
+[1:48:48]
+This is copper-silver phase diagram. We have an alpha phase. On this part, we have a beta phase at this part.
+这是铜-银相图。我们有一个α相。在这个部分，我们有β相，在这个部分。
+
+[1:48:54]
+And in the middle, the broader region, it's a two-solid fixed mixture.
+而在中间这个较宽的区域，是两种固相的固定混合物。
+
+[1:49:20]
+Right? So because I have a solid one, solid two, I have one, two together, I also have solid one with liquid or solid two with liquid. So each pure phase in between you will have a buffer region when there is a coexistence of two phases. Right? This is reasonable. Right? So basically, now I have a map with one, two, three, four, five, six regions.
+对吧？所以，因为我有固体一、固体二，我有它们一起的组合，也有固体一与液体，或者固体二与液体。所以，在每种纯相之间，当两种相共存时，都会有一个缓冲区。对吧？这是合理的。对吧？所以基本上，现在我有一张包含一、二、三、四、五、六个区域的地图。
+
+[1:49:26]
+Right? Just now it's three regions. Now I have six because I have two solid phases.
+对吧？刚才只有三个区域。现在我有六个，因为我有两个固相。
+
+[1:49:35]
+Okay? So in this phase, in this system, we call this is a eutectic system. Right?
+明白吗？所以在这个相中，在这个体系中，我们称之为共晶体系。对吧？
+
+[1:49:37]
+Eutectic. System. Right?
+共晶。体系。对吧？
+
+[1:49:47]
+Because I can find the place where my liquid will directly turn into two solids.
+因为我可以找到液相直接转变为两种固相的点。
+
+[1:49:55]
+Now, do you do you read where is this particular path, where my liquid directly become two liquids? The two solids?
+那么，你能看出来这条特定的路径在哪里吗？我的液体直接变成两种液体的地方在哪里？两种固体？
+
+[1:50:09]
+My liquid, pure liquid is here. Right? My two solids are here. If I want to directly change my liquid to two solid, without going through any buffer region, which path should I take?
+我的液体，纯液体在这里。对吧？我的两种固体在这里。如果我想直接把液体变成两种固体，而不经过任何缓冲区，应该走哪条路径？
+
+[1:50:18]
+D point. Right? So if I find this position, this composition, that's 71.
+D点。对吧？所以，如果我找到这个位置、这个构图，那就是71。
+
+[1:50:28]
+9, I cool down from this composition, I can directly change one liquid to a coexistence of two solids. Right? So that's my eutectic point.
+9，如果我从这个组成冷却下来，可以直接从一种液体变成两种固体共存。对吧？所以那就是我的共晶点。
+
+[1:50:44]
+Now, eutectic point specifically talk about the temperature at this position. So basically, this point, right, we have a composition over here, and we have a temperature over here. Which is actually this value over here.
+现在，共晶点具体指的是这个位置的温度。所以基本上，这个点，对吧，这里有一个成分，这里有一个温度。也就是这里这个数值。
+
+[1:50:50]
+Right? So you can read that. That's the critical temperature.
+对吧？所以你可以读出这个值。那是临界温度。
+
+[1:50:56]
+But of course, you also need a critical composition, right, to make this happen.
+但当然，你也需要一个临界组成，对吧，才能实现这一点。
+
+[1:51:11]
+Okay? And parallel to eutectic, we also have two other terms. Eutectoid talking about a phase where we can change from one solid to two solids.
+明白吗？与共晶并行，我们还有另外两个术语。共晶是指一种相，其中我们可以从一种固相转变为两种固相。
+
+[1:51:21]
+We also have one example later on for iron-carbon system. Right? Where we have one solid on top, and another two solid on the bottom.
+稍后我们还会看到一个铁碳体系的例子。对吧？上面有一种固相，下面有两种固相。
+
+[1:51:33]
+Right? And we also have a less common one called the peritectic which is one liquid plus one solid and they change to a new solid.
+对吧？还有一种不太常见的相变，叫作共晶相变，即一种液体和一种固体转变为一种新固相。
+
+[1:51:39]
+Okay? I'm not sure if we have an example for that. But they do exist in certain systems.
+明白吗？我不确定我们有没有这个的实例。但在某些系统中确实存在。
+
+[1:51:43]
+Right?
+对吧？
+
+[1:51:47]
+Okay?
+明白吗？
+
+[1:51:57]
+Okay. So here are some a little bit more abstract information about phase diagrams.
+好的。那么，这里有一些关于相图的稍微抽象一些的信息。
+
+[1:52:06]
+Try to follow me, but if it's it's not so easy to understand, it's okay. Right? We don't fly this, particularly for this work.
+尽量跟上我，但如果不太容易理解，没关系。对吧？我们不使用这个，尤其是针对这项工作。
+
+[1:52:16]
+Hopefully, they should aid you in understanding the phase diagram. Okay? So people try to, well, make some sense of the phase diagrams.
+希望它们能帮助你理解相图。明白吗？所以人们试图，嗯，弄清楚这些相图。
+
+[1:52:32]
+So they come up with this Gibbs Phase Rule. Right? So Gibbs Phase Rule is a way that people can understand how free or what is the degree of freedom of the particular interested point.
+于是他们提出了这个吉布斯相律。对吧？所以，吉布斯相律是一种让人们了解特定感兴趣点的自由度，或者说有多少自由度的方法。
+
+[1:52:46]
+Okay? So all these letters, they have some meanings, but the most important one is an F. Which is the number of degrees of freedom, which is usually an integer. Right? One, two, three, something like that.
+明白吗？所以，这些字母都有各自的含义，但最重要的是 F，它表示自由度数，通常是一个整数。对吧？一、二、三，诸如此类。
+
+[1:52:50]
+Okay? So how do we get this F value? Right?
+好吗？那么，我们怎么得到这个 F 值呢？对吧？
+
+[1:53:13]
+So for a given system, we usually know the number of phases present. Right? We usually know what is the number of non-composition variables basically if you fix a point, you fix a composition already. Right? So you want to know what are the other things you can change, like temperature and time.
+所以对于给定的体系，我们通常知道存在多少个相。对吧？我们通常知道非组成变量的数量。基本上，如果你固定一个点，就相当于已经固定了组成。对吧？所以，你想知道还能改变哪些其他因素，比如温度和时间。
+
+[1:53:23]
+Nothing pressure. Right? And C is the number of components. So for a binary system like copper-nickel, copper-silver, this would be two.
+没什么，压力。对吧？C 是组分的数量。所以，对于铜镍、铜银这样的二元体系，这个数就是2。
+
+[1:53:37]
+Right? Two components. And if we're talking about the number of non-composition variable, that's usually just temperature and pressure.
+对吧？两个组分。如果我们谈论的是非组成变量的数量，通常只有温度和压力。
+
+[1:53:58]
+Right? And if we're talking about a fixed pressure, for example, if we're talking about any of these phase diagrams, like I just mentioned, whenever they're giving you such a thing, with temperature versus composition, that means pressure is fixed. They will tell you what's the pressure.
+对吧？如果我们讨论的是固定压力，例如，如果我们讨论刚才提到的这些相图中的任意一种，只要它们给你这样的图，以温度对组成为横坐标，纵坐标，那就意味着压力是固定的。他们会告诉你压力是多少。
+
+[1:54:06]
+It is usually standard will be one atmosphere. Right? So that means pressure is already no longer variable.
+通常标准压力为一个大气压。对吧？所以这意味着压力已经不再是变量了。
+
+[1:54:16]
+So this number of compositional variable will only remain in the temperature.
+所以，组成变量的数量只会在温度中保留。
+
+[1:54:18]
+No longer looking.
+不再看。
+
+[1:54:32]
+Right. So that means the number the value for n is usually just one. So basically, that means P plus F is three.
+对。所以这意味着 n 的数值通常就是 1。所以基本上，这意味着 P 加 F 等于 3。
+
+[1:54:49]
+Okay? So what's P? P is the number of phases. So if I have located point, for example, here, any point here, so P value will be one.
+明白吗？那么，P 是多少？P 是相数。所以，如果我选一个点，比如这里的任意一点，那么 P 的值就是 1。
+
+[1:54:53]
+Right? Because I only have one liquid phase. So what's the value for F?
+对吧？因为我只有一个液相。那么 F 的值是多少？
+
+[1:55:01]
+What's one plus F equals to three? What's F? Two.
+1 加上 F 等于 3，那么 F 等于多少？F 是多少？二。
+
+[1:55:05]
+Two. Right? So that means my degree of freedom is two.
+二。对吧？所以这意味着我的自由度是二。
+
+[1:55:28]
+So that means F is what? F is the number of variables right that can be changed can be changed independently. Okay? So that means if I have a degree of freedom of two, that means in this region, I can change my composition.
+所以这意味着 F 是多少？F 是可以独立变化的变量数量，对吧？明白吗？所以这意味着，如果我有两个自由度，那么在这个区域内，我可以改变我的组成。
+
+[1:55:46]
+I can change my temperature. I'm still in this region. Okay? So that's what we mean by having a degree of freedom for two. Now, if I'm talking about this region, right, this region, P plus F still equals to three, but P becomes two.
+我可以改变温度。我仍然在这个区域内。明白吗？所以，这就是我们所说的两个自由度。现在，如果我说的是这个区域，对吧，这个区域，P+F 仍然等于 3，但 P 变成了 2。
+
+[1:55:58]
+We cannot have two phases. Right? So F becomes one. So that means in this part, it cannot change my composition or temperature together.
+我们不能有两个相。对吧？所以 F 变为 1。所以这意味着，在这一部分中，它不能同时改变我的成分或温度。
+
+[1:56:08]
+I can only change one thing at a time. If I change my temperature, my composition will change with it. If I'm changing composition, my temperature must adapt with it.
+我一次只能改变一个因素。如果我改变温度，成分也会随之变化。如果我要改变成分，温度就必须随之调整。
+
+[1:56:14]
+Right? That's why I have only one degree of freedom.
+对吧？所以我只有一个自由度。
+
+[1:56:15]
+Okay?
+明白吗？
+
+[1:56:21]
+I see some loss phases. Which is fair enough. Okay?
+我看到一些损耗相位。这也很合理。好吗？
+
+[1:56:31]
+Yeah. Try to digest it for a while. Right? Next week, I will mention this again.
+对。试着消化一下。对吧？下周我会再提一下这个。
+
+[1:56:35]
+The first time you hear it, it's definitely abstract. Okay? So it's fair enough.
+第一次听到它时，肯定会觉得很抽象。明白吗？所以这很合理。
+
+[1:56:49]
+For such kind of phase diagram, we actually don't need to don't need that equation to know how much you can change. Right? But there are more complicated phase diagrams in the real world, like ternary systems.
+对于这类相图，我们其实不需要用那个方程来判断可以改变多少。对吧？但在现实世界中，还有更复杂的相图，比如三元系。
+
+[1:56:55]
+There could be a lot more regions. So people need to know how much they can change. Okay?
+可能还有更多区域。所以人们需要知道可以改变多少。明白吗？
+
+[1:57:05]
+Okay. So we are stepping forward to a little more complex. Okay?
+好的。所以，我们接下来进入稍微复杂一些的内容。好吗？
+
+[1:57:12]
+You count how many regions are there?
+你数一数有多少个区域？
+
+[1:57:16]
+This is not even complete. Right? This is only we presented six.
+这甚至还没有完成。对吧？我们只展示了六个。
+
+[1:57:22]
+Right? So it's just very small portion of this diagram. Okay?
+对吧？所以这只是这张图中很小的一部分。明白吗？
+
+[1:57:28]
+So don't worry. You're not going to be asked to draw this thing. Right?
+所以别担心。你们不会被要求画这个东西。对吧？
+
+[1:57:40]
+Just this is all the database. Right? So this is important.
+这只是整个数据库。对吧？所以这一点很重要。
+
+[1:57:48]
+I think most of the people, they talk about pine and pine-carbon phase diagram. Because this is what we use most. Right?
+我想，大多数人谈到的都是松木和松木-碳相图。因为我们最常用的就是这个。对吧？
+
+[1:58:11]
+And most study. Right? Because this is how we get many of these steels or iron alloys. Right? From the raw iron-carbon this mice that we get this material, raw material with meltdown.
+而且研究最多。对吧？因为正是通过这种方式，我们才能获得许多这类钢材或铁合金。对吧？从铁碳原料——这种小鼠——中，我们得到这种材料，也就是熔化的原料。
+
+[1:58:17]
+Right? In high temperature, and we cool down. And by tuning the carbon concentration, we get different phases.
+对吧？在高温下，然后我们将其冷却。通过调节碳浓度，我们可以得到不同的相。
+
+[1:58:33]
+And that's how we get different kinds of structural materials that we use nowadays. Okay? So in the real iron-carbon phase diagram, we have some important solid phases that we should know.
+这就是我们如今所使用的各种结构材料的制备方式。明白吗？所以在实际的铁碳相图中，有一些我们应当了解的重要固相。
+
+[1:58:39]
+So don't be frightened by these names. Right? Just these are just some I don't know who named that.
+所以，不要被这些名称吓住。对吧？这些只是些……我不知道是谁给它们命名的。
+
+[1:58:48]
+Right? Just some names. They may have you can if you don't like, you can just choose alpha, gamma, and all that kind of thing.
+对吧？只是一些名字。他们可能有……如果你不喜欢，也可以只选择 α、γ 之类的。
+
+[1:58:54]
+Right? It's the same. So basically, we have some key kinds of solid phases.
+对吧？是一样的。所以，基本上，我们有一些关键的固相类型。
+
+[1:59:10]
+For example, we have ferrite. Which is alpha phase of iron, which is ECC iron. Right? And we have which is and also we have austenite.
+例如，我们有铁素体。也就是铁的α相，也就是ECC铁。对吧？我们还有……还有奥氏体。
+
+[1:59:14]
+Right? Austenite. We call it gamma iron, which is a phase intercubic.
+对吧？奥氏体。我们称之为γ铁，它是一种体心立方相。
+
+[1:59:20]
+Crystal structure. Right? Which is, by the way, over here. Right?
+晶体结构。对吧？顺便说一下，它就在这里面。对吧？
+
+[1:59:28]
+This alpha iron is over here, by the way. Which is not so obvious. Okay? And we have cementite.
+顺便说一下，这种α铁在这里。这并不那么明显。明白吗？我们还有渗碳体。
+
+[1:59:34]
+Right? Cementite is basically iron carbide. Right? This is has a formal chemical formula, 3:1 ratio.
+对吧？渗碳体基本上就是碳化铁。对吧？它的化学式是Fe₃C，比例为3:1。
+
+[1:59:43]
+Right? So cementite is also an important part of iron carbide, which is somewhere over here. Right?
+对吧？所以，渗碳体也是铁碳体的重要组成部分，它位于这里的某个位置。对吧？
+
+[1:59:57]
+Usually, people just write their chemical formula. Right? And the interesting thing is, right, this is a liquid region. So after the liquid region, when you cool down, right, we have a layer of solid region.
+通常，人们只写出它们的化学式。对吧？有意思的是，对吧，这是一个液相区域。所以在液相区域之后，当你冷却时，对吧，我们会有一层固相区域。
+
+[2:00:19]
+And below like a temperature around seven to 700 to 27 degrees Celsius, we have another solid region. Right? So that means if I find a point from, for example, here, right, that would be from one solid to another two kinds of solid.
+在大约700到27摄氏度的温度以下，我们又有一个固相区。对吧？所以这意味着，比如说，如果我找到这里的一个点，对吧，那么它就处于两种不同固相之间。
+
+[2:00:29]
+Right? From austenite to alpha and iron carbide. So that is a eutectoid reaction we just talked about.
+对吧？从奥氏体到α相和铁碳化物。所以，这就是我们刚才谈到的共析反应。
+
+[2:00:34]
+Right? One solid to two new solids. That's eutectoid.
+对吧？一种固相分解成两种新固相。那是共晶反应。
+
+[2:00:40]
+And if we talk about eutectic, we also have one. Right? From liquid to two solids over here.
+如果我们谈共晶，也有一个。对吧？从液相到这里的两种固相。
+
+[2:00:46]
+Right? So whenever we identify a point like this, we know exactly its x and y-axis. Right?
+对吧？所以，每当我们确定这样一个点时，就能准确地知道它的 x 轴和 y 轴坐标。对吧？
+
+[2:00:56]
+So we know exactly what's the composition and the temperature. Right? So now you should be used to how to read a map.
+所以我们确切地知道它的成分和温度。对吧？所以现在你们应该已经习惯如何读地图了。
+
+[2:01:02]
+Right? No matter how complicated it looks like, there's always boundaries and intersections. Just look for those boundaries and intersections.
+对吧？不管它看起来多么复杂，总会有边界和交叉点。只要寻找那些边界和交叉点。
+
+[2:01:06]
+Okay?
+明白吗？
+
+[2:01:10]
+All right. So luckily, we were not asked to research. Right?
+好的。所以幸运的是，我们没有被要求做研究。对吧？
+
+[2:01:16]
+Just for your information. Okay. Now, locating things from a map is one thing.
+仅供参考。好的。现在，从地图上定位东西是一回事。
+
+[2:01:39]
+When things are migrating or changing from one space to the other, that will be a whole new story that actually much more complicated. Right? So like we mentioned, when we cool down the liquid, right, from the real world, it's almost never fully stable or fully in equilibrium.
+当事物在迁移或从一个空间转移到另一个空间时，那就会是一整套全新的情况，实际上要复杂得多。对吧？所以，正如我们提到的，当我们在现实世界中冷却液体时，它几乎永远不会完全稳定，也不会完全处于平衡状态。
+
+[2:02:01]
+Right? Because when we have one phase, new phase to form, right, there's new composition in this phase. So the atoms in the original liquid, they must diffuse. Diffusion costs time. And energy. If we fix energy or we can't change energy too much, then it basically time-dependent.
+对吧？因为当存在一个相时，新的相就会形成，对吧？这个相中会有新的组成。所以，原始液相中的原子必须发生扩散。扩散需要时间。以及能量。如果我们固定能量，或者不能对能量进行太大调整，那么它基本上是时间依赖的。
+
+[2:02:09]
+Right? Basically time-dependent. So if we are not talking about ideal cases, which, by the way, we have names for the ideal cases.
+对吧？基本上是时间相关的。所以，如果我们讨论的不是理想情况的话——顺便说一下，理想情况是有名称的。
+
+[2:02:28]
+Right? If it's extremely slow, and in a very impractical rate, we have superheating or supercooling. Describing the most ideal slow heating or slow cooling that we can achieve.
+对吧？如果变化极其缓慢，而且以一种非常不切实际的速度发生，我们就称之为过热或过冷。描述我们所能实现的最理想的缓慢加热或缓慢冷却过程。
+
+[2:02:52]
+And yeah, these just two new terms for you to know. And then we have some new terms other terms. Right? So for any phase phase transformation, especially if we're talking from liquid, to solid, right, from liquid to solid, we will always have two stages.
+对，这两个新术语你们需要知道。然后还有一些新术语和其他术语。对吧？所以，对于任何相变，尤其是从液相到固相，对吧，从液相到固相，我们总会经历两个阶段。
+
+[2:03:09]
+One is when there's new small particles forming. Right? Actually, even for solid to solid, it also works. Right? But just for you to understand, let's just focus on liquid to solid. So originally, everyone are free-moving atoms in the liquid form.
+一个是新形成小颗粒的时候。对吧？实际上，即使在固态到固态的转变中，它也适用。对吧？不过为了便于大家理解，我们先只关注液态到固态。所以最初，液态下的所有原子都是自由移动的。
+
+[2:03:31]
+And they start to be fixed by the locally nucleated crystal structure. So this nucleation will cause you to form some very tiny particles, typically well, they usually start from one atom. But when we see that, it's usually already hundreds of atoms. But they're still very, very small if you think about how small is one atom. Right?
+它们开始被局部成核的晶体结构固定住。所以，这种成核会导致形成一些非常微小的颗粒，通常，它们通常从一个原子开始。但当我们看到它时，通常已经由数百个原子组成。但如果你想想一个原子有多小，它们仍然非常非常小。对吧？
+
+[2:03:45]
+Even for a 10 times 10 square, right, that's 100 atoms. That's only about one atom. Right? So very small. And this nuclei, they will work as a seed, or we say template.
+即使是一个10乘10的正方形，对吧，那也是100个原子。那只有大约一个原子。对吧？所以非常小。而这些核将作为种子，或者说模板。
+
+[2:03:53]
+Right? Because they form the crystal structure first. And the other atoms come here, they will repeat this pattern.
+对吧？因为它们首先形成晶体结构。其他原子来到这里时，会重复这种图案。
+
+[2:04:02]
+So they will follow how you crystallize. They will crystallize just like that. And they grow larger and larger, and they become eventually the whole piece.
+所以它们会按照你结晶的方式排列。它们会像那样结晶。它们会不断变大，最终形成整个晶粒。
+
+[2:04:30]
+Right? They will fill up a gap. And they squeeze all the liquids And by the way, we also have two kinds of nucleation. I don't think we have that. We don't have the name on the slide, but you should know we have let me keep the top part.
+对吧？它们会填满一个空隙。它们会挤出所有的液体。顺便说一下，我们也有两种成核方式。我觉得我们没有那种情况。幻灯片上没有写名称，但你们应该知道我们有——让我保留顶部部分。
+
+[2:04:49]
+So we have two kinds of nucleation: one is called homogeneous, and the other one is called heterogeneous.
+所以我们有两种成核方式：一种叫均相成核，另一种叫非均相成核。
+
+[2:05:19]
+You may hear this in some other in some other like catalysis or other you as well. So I need to mention this because in the real world, although in the ideal case, we're talking about homogeneous nucleation, so it's pure liquid. And then suddenly, out of nowhere, randomly, you start to see a liquid solid particle.
+你可能在其他一些领域也听说过，比如催化或其他领域。所以我需要提到这一点，因为在现实世界中，尽管在理想情况下我们讨论的是均相成核，也就是纯液体。然后突然间，不知从哪里，随机地，你开始看到液态固体颗粒。
+
+[2:05:33]
+But in the real world, it's almost always heterogeneous. Heterogeneous means before I nucleate, there's already something here. Like an island or a handle that I can lean on.
+但在现实世界中，几乎总是异质核化。非均相意味着在我成核之前，这里就已经存在某种东西了。就像一个岛，或者一个我可以依靠的把手。
+
+[2:06:06]
+So I'm not totally free. Like moving around, but I'm physically standing by something next to me. Now, why heterogeneous nucleation will happen all the time before you homogeneous? Because it requires lower energy. Right? So a good example would be if you ever try to drink a soft drink, and you sit in a chopstick or something similar, and you start to see small bubbles.
+所以我并不完全自由。就像四处走动，但我的身体靠着旁边的东西。那么，为什么异质成核会一直发生，而不是先发生均质成核？因为它需要更低的能量。对吧？一个很好的例子是，如果你试着喝汽水，然后坐在筷子之类的物体上，就会开始看到小气泡。
+
+[2:06:18]
+Climbing, growing, just near this chopstick or straw, for example, if you are a straw. The straw will bounce back. Why?
+攀爬、生长，就在这根筷子或吸管附近。比如，如果你是一根吸管。吸管会弹回来。为什么？
+
+[2:06:29]
+Because there are bubbles surrounding it. The bubble will slow up. Right? So the bubbles are nucleations of carbon dioxide.
+因为周围有气泡。气泡会减慢速度。对吧？所以，这些气泡是二氧化碳的成核点。
+
+[2:06:39]
+And they have they are nucleating because you are giving them a physical handle. Right? If you don't give that, they nucleate by themselves.
+它们会成核，因为你给了它们一个物理上的抓手。对吧？如果你不提供这个，它们就会自行成核。
+
+[2:06:53]
+They don't nucleate this fast and this dense. But when you are staking in a straw, right, this becomes a lower energy absorption spot. So all the bubbles will come here and nucleate first. That's why that's why the nucleating factor.
+它们不会这么快、这么密集地成核。但当你用稻草做支架时，对吧，这就会成为能量吸收较低的点。所以所有的气泡都会先到这里成核。所以，所以这就是成核因素。
+
+[2:06:59]
+Okay? So heterogeneous and homogeneous will be you should know that. Okay.
+明白吗？所以，异质性和均质性你们应该知道。好的。
+
+[2:07:05]
+Okay. So let's look at the real world. Right?
+好的。那么，我们来看看现实世界。对吧？
+
+[2:07:24]
+So this is how some of these phases are formed. In real carbon iron-carbon binding systems. Okay? So first of all, right, we are looking at this region.
+所以，这些相就是这样形成的。在实际的碳铁-碳结合体系中。明白吗？那么首先，我们来看这个区域。
+
+[2:07:34]
+Let me go back. We are looking at this particular region.
+让我回到刚才的内容。我们正在观察这个特定区域。
+
+[2:07:40]
+We start from Austenite. Okay? We start from Austenite but not exactly this one.
+我们从奥氏体开始。明白吗？我们从奥氏体开始，但不完全是这个。
+
+[2:07:52]
+Maybe somewhere here. Maybe somewhere here. We start from this around this temperature, while we're the system is purely this Austenite phase.
+也许在这里的某个地方。可能在这里的某个地方。我们从这个温度左右开始，此时系统完全是这种奥氏体相。
+
+[2:07:56]
+At first. And we start to cool down. So let's just examine.
+起初。然后我们开始冷却。那么我们来考察一下。
+
+[2:08:04]
+If we cool down, but we use different cooling rate. So phase transformation is basically about kinetics. Right?
+如果我们进行冷却，但采用不同的冷却速率。所以，相变基本上与动力学有关。对吧？
+
+[2:08:17]
+It's about the speed and temperature. Right? So we need to talk about the time scale now. Right? So if I cool down very, very, very slowly, so that would be one of the ideal case we want.
+它与速度和温度有关。对吧？所以现在我们需要谈谈时间尺度。对吧？所以，如果我非常、非常、非常缓慢地冷却，那就会是我们想要的理想情况之一。
+
+[2:08:41]
+All right? So in this case, if you you can check the this drawing here or what we're trying to use different color to show different phases. So originally, it's all Austenite phase. Right? So they had different grain, but still already a piece of solid. And now it starts to cool down, and we start to see the growth of two kinds of phases.
+明白吗？所以在这种情况下，如果你……你可以看一下这里的这张图，或者我们正试图用不同的颜色来表示不同的相态。所以最初，全都是奥氏体相。对吧？所以它们有不同的晶粒，但已经是一块固体了。现在它开始冷却，我们开始看到两种相的生长。
+
+[2:08:51]
+Remember, we have two resulting phases here. Right? One is alpha, one is this iron carbide.
+记住，这里得到了两种相。对吧？一个是α相，另一个是这种碳化铁。
+
+[2:08:55]
+Right? So for alpha, we call it ferrite. The other one, we call it the cementite.
+对吧？所以，对于α相，我们称之为铁素体。另一个我们称之为渗碳体。
+
+[2:09:01]
+Right? So people just like to name new things. Right?
+对吧？所以人们就是喜欢给新事物命名。对吧？
+
+[2:09:10]
+So it starts to form. We have ferrite, and we have this gray one, which is cementite. Right?
+所以它开始形成。我们有铁素体，还有这个灰色的，是渗碳体。对吧？
+
+[2:09:26]
+And this these two phases still will form alternatively. Like a sandwich. So when we see this kind of alternative stranges, we call this whole thing perlite.
+这两种相仍然会交替形成。就像三明治一样。所以，当我们看到这种交替层状结构时，我们就把整个结构称为珍珠岩。
+
+[2:09:30]
+Right? Don't ask me why. I don't know why.
+对吧？别问我为什么。我不知道为什么。
+
+[2:09:46]
+So they're calling this perlite. And the best part is they throw eutectoid phase. So basically, what is whatever is left, in this original Austenite parent matrix, after forming this concentration will change.
+所以他们称这种物质为珍珠岩。最棒的是，它们会形成共晶相。所以基本上，形成这个浓度后，原本奥氏体母相中剩下的任何东西，其浓度都会发生变化。
+
+[2:09:52]
+Right? But we don't know for sure. It's just some remaining thing we call this per throw eutectoid.
+对吧？但我们无法确定。这只是残留下来的一些东西，我们称之为每次抛掷共晶。
+
+[2:10:05]
+Now, depending on the original composition, there could be two kinds. Right? Because I don't know the original concentration whether we're talking about this part or this part.
+现在，根据原始成分的不同，可能会有两种。对吧？因为我不知道原始浓度，也不清楚我们讨论的是这一部分还是那一部分。
+
+[2:10:21]
+So some of them may be in a higher concentration. Right? So after I form this perlite, which have a rather fixed ratio, the rest will be squeezed to the boundaries.
+所以其中一些可能浓度更高。对吧？所以，在我形成这种比例相对固定的珍珠岩之后，其余部分会被挤到边界处。
+
+[2:10:33]
+Right? So it's either a boundary which is rich in alpha phase, or it's a boundary rich in carbide. Right? It's either way. Okay?
+对吧？所以，要么是富含α相的界面，要么是富含碳化物的界面。对吧？两种情况都有可能。明白吗？
+
+[2:10:44]
+But in the middle, if we call this still a grain, the grain will all look like this. Right? So this alternating alternating ferrite and the cementite.
+但在中间，如果我们仍然把这个称为晶粒，那么所有的晶粒都会看起来像这样。对吧？所以，这是交替的、交替的铁素体和渗碳体。
+
+[2:10:52]
+We call this perlite. Right? The only difference is when they when they are about close, the boundary, they could be different composition.
+我们称之为珠光体。对吧？唯一的区别是，当它们……当它们彼此接近时，界面处的成分可能会有所不同。
+
+[2:10:56]
+Okay? Whatever is left.
+明白吗？剩下的任何东西。
+
+[2:11:02]
+Okay? And then we have moderate cooling. Moderate cooling is when we when they have a new name.
+好吗？然后是中度冷却。中度冷却是指当他们有一个新名称时。
+
+[2:11:20]
+Baneite. Okay? And this baneite is you when you have alpha phase, and some carbide, but these carbide, they're forming this elongated particles, or you can call them plates.
+Baneite。明白吗？而这种贝氏体是，当你有α相和一些碳化物时，但这些碳化物会形成细长的颗粒，或者你可以称之为片状物。
+
+[2:11:24]
+Right? If it's a 2D image, it may look like a rough. It's actually a plate.
+对吧？如果是二维图像，它可能看起来像一个粗糙的……它其实是一块板。
+
+[2:11:37]
+Right? But we don't see a clear formation of this middle boundary layers. Right? It's just a piece of mixture of two kinds of things.
+对吧？但我们看不到这个中间边界层的清晰形成。对吧？它只是两种东西混合在一起的一块。
+
+[2:11:39]
+Right? So we call them baneite. Right?
+对吧？所以我们称它们为 baneite。对吧？
+
+[2:11:51]
+And then we have another path. We call this rapid quenching. Okay? So this path, right, is for a more important later step.
+然后我们还有另一条路径。我们称之为快速淬火。明白吗？所以这条路径，对吧，是用于之后一个更重要的步骤。
+
+[2:12:01]
+Right? If we only stop at rapid quenching, we'll get a very unstable intermediate phase. We call it Martensite. Right?
+对吧？如果我们只停留在快速淬火这一步，就会得到一种非常不稳定的中间相。我们称之为马氏体。对吧？
+
+[2:12:13]
+Martensite. Martensite is basically you rapidly freeze everything. As they were. And they will tend to form a new metastable phase called body center catastrophic.
+马氏体。马氏体基本上就是把所有东西快速冷却。就像它们原本的样子。它们往往会形成一种称为体心灾难性的新亚稳相。
+
+[2:12:15]
+Right? Body center catastrophic. BCT phase.
+对吧？体心灾难性的。BCT 阶段。
+
+[2:12:19]
+Right? So it's crystal structure. If it took no meaning, they look like this.
+对吧？所以这是晶体结构。如果它没有意义，它们看起来就像这样。
+
+[2:12:30]
+Right? It's on strips. It starts strips are these Martensite. Because even for rapid quenching, it could be very it couldn't couldn't be very ideal.
+对吧？它呈带状。这些条带是马氏体。因为即使进行快速淬火，也可能不太……不太理想。
+
+[2:12:38]
+So they're still places. They're not fast enough. So they will follow the first two patterns.
+所以它们仍然是某些地方。不够快。所以它们会遵循前两种模式。
+
+[2:12:44]
+Right? But the major part of BCT, we call it Martensite. And this Martensite will be further tampered.
+对吧？但BCT的大部分，我们称之为马氏体。而这种马氏体还会进一步转变。
+
+[2:12:54]
+Tampered is a process that we reheat. Things that will quench down. We'll be reheated to certain temperature range.
+“Tampered”是一个我们重新加热的过程。会淬火硬化的东西。我们会重新加热到一定的温度范围。
+
+[2:12:58]
+Not totally melted. Usually just slightly above. The temperature.
+没有完全熔化。通常只是略高于熔点。温度。
+
+[2:13:19]
+So give it some energy to to to actually rearrange itself. So we can end up with another final product which is a alpha phase in in in in major, and we have some tiny zero-dimensional carbide particles. Okay?
+所以要给它一些能量，让它真正重新排列。所以最终可以得到另一种产物，即主要为α相，同时存在一些微小的零维碳化物颗粒。明白吗？
+
+[2:13:33]
+So this tampered Martensite happen to have a very good strength. Right? So that's why we want so by the way, this is a comparison of their mechanical strength and the facility of all these kinds of names that we mentioned in here.
+所以，这种变形马氏体恰好具有非常好的强度。对吧？所以这就是为什么我们想要……顺便说一下，这是对它们机械强度以及我们在这里提到的所有这些名称的适用性的比较。
+
+[2:13:39]
+Right? The fine, perlite, coarse perlite, and this baneite, and Martensite. Right?
+对吧？细粒、珍珠岩、粗粒珍珠岩，以及这种 baneite 和马氏体。对吧？
+
+[2:13:43]
+T is tampered. Tampered Martensite. Right?
+T 是篡改的。变形马氏体。对吧？
+
+[2:13:47]
+So this tampered over here. Right? Same same same tampered.
+所以这里这个是经过处理的。对吧？一样，一样，一样，是经过处理的。
+
+[2:14:06]
+This is something I'm talking about. Right?
+这就是我正在谈论的内容。对吧？
+
+[2:14:06]
+Okay.
+好的。
+
+[2:14:18]
+Okay. So that's a fun part for today. Right?
+好的。所以，这是今天有趣的一环。对吧？
+
+[2:14:20]
+We don't have no no more thick right now. Totally. Right?
+我们现在没有，没有，没有更厚的了。完全正确。对吧？
+
+[2:14:32]
+So so but still, how we use Lever Rule, how we use read the composition, something you should still be aware of. Right? So and yeah.
+所以，不过我们仍然要了解如何使用杠杆规则、如何解读组成，这些你仍然应该掌握。对吧？所以，是的。
+
+[2:14:46]
+Probably going to finish very soon here. So from the best part of this metal part, we'll keep up the informational. So that means you just need to know and memorize some of this information.
+可能很快就会在这里结束。所以，从这个金属部分最精彩的部分来看，我们会继续提供信息。所以这意味着你只需要了解并记住其中的一些信息。
+
+[2:14:57]
+I know calculations involved. And we're going to talk about the categories, metal alloys. And how they may be processed.
+我知道这涉及计算。接下来我们要讨论的类别是金属合金。以及它们可能如何加工。
+
+[2:14:59]
+Right? Different images.
+对吧？不同的图像。
+
+[2:14:59]
+So I think we can stop here for today because very.
+所以我想我们今天可以到这里，因为非常……
+
+— 由 LecSync 生成

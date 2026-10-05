@@ -1,0 +1,910 @@
+XPS/UPS/LEIS 测验讲评与电子
+日期: 2026年10月5日 12:30
+语言: 英语 → 中文
+时长: 2小时23分15秒
+
+[0:00]
+How's it going?
+进展怎么样？
+
+[0:50]
+The learning expectation at least is to the standard distribution of the learning expectations. It's supposed for a large quantity of, say, over 50 students. I mean, if you get a right testing paper, you would expect somebody to behave very well, some performance is very poor, but then the majority are sitting in the middle, which is the situation, right?
+至少，学习预期符合学习预期的标准分布。这是针对大量学生设计的，比如说，超过50名学生。我的意思是，如果你拿到一份右偏的试卷，你会期望有人表现非常好，也有人表现很差，但大多数人都处于中间位置，就是这种情况，对吧？
+
+[1:23]
+But then I will have a few comments so that the way we deal with this deal with peace is that I will transfer the quiz questions and your answers, and if I see there's a major problem of certain points that I try to deliver during the lectures, I will not quote by the majority of the students, and I'll have a comment on that, all right? So make sure that the quote is not missing. But then, for individual questions, I mean, I will not be able to tailor to every one of you's needs, right?
+不过，我有几个意见。我们处理这个问题、处理和平的方式是，我会把测验题和你们的答案转交……如果我发现某些问题存在严重问题，而这些问题正是我在课堂上试图讲解的，那么我不会引用大多数学生的答案，而且我会对此作出评论，好吗？所以要确保引用部分不缺失。但是，对于个别问题，我的意思是，我无法针对你们每个人的具体需求进行调整，对吧？
+
+[1:58]
+So if you do feel that I don't feel comfortable on certain questions or I have problems or whatsoever, right, you come to see me and ask me specific questions, and we can go through the questions you have problems. Okay, so that's some individual cases you have to find me, right, to do that. Otherwise, I will not be analyzed no matter what. Right, so we have three quiz questions, right? The general comment is that the distribution is that we put one vacuum well, basically I told you what the mean test do, right?
+所以，如果你觉得某些问题让我感到不舒服，或者我遇到什么困难之类的，对吧，你可以来找我，问我具体的问题，我们可以一起讨论你遇到的问题。好的，所以对于一些个别情况，你们得来找我，对吧，才能处理。否则，无论发生什么，我都不会被分析。对，所以我们有三个小测验问题，对吧？总体来说，这种分布是：我们放一个真空阱。基本上，我告诉过你们什么是 mean test，对吧？
+
+[2:14]
+So I taught you three main factors: XPS, UPS, and LJ, right, and I taught you the sample craft, the main thing is the vacuum technology. So these are the things in the test. So I'm going to test you on vacuum for sure, right?
+所以我教了你们三个主要因素：XPS、UPS 和 LJ，对吧？我还教了你们样品制备，其中最主要的是真空技术。所以这些就是测试中的内容。所以我肯定会考你们关于真空的知识，对吧？
+
+[2:39]
+So there's one question on vacuum, and the purpose of that question is studying from, you know, where you start, right? You should, at this point, you should be able to do that, a vacuum system, by your own, by knowing what you choose, right? What you have and what you choose. You have whatever system that's closed, then you need to have constant wages.
+所以，关于真空有一道题，这道题的目的是考察你们从哪里开始的，对吧？到这个阶段，你们应该能够自己搭建一个真空系统，只要知道你们选择的是什么，对吧？你所拥有的和你所选择的。你有一个封闭的系统，那么你需要保持工资不变。
+
+[2:45]
+That's what you need to know, right? But then the question asks you a bit more on that. I think the details, right?
+这就是你需要知道的，对吧？但题目在这一点上问得更深入一些。我觉得是细节，对吧？
+
+[3:09]
+So if you're going to build up the chamber, right, the system's what kind of things you need to choose in terms of integration, right? The type of pumps, corresponding to specific range of vacuums you want to intend it for, right? And then the gauges. For the measurement, you have to be read out the specific pressure range that are on the gauges, right?
+所以，如果你要搭建这个腔室，对吧，从集成的角度来看，你需要选择什么样的设备，对吧？泵的类型，要根据你打算用于的特定真空范围来选择，对吧？然后是真空计。对于测量，你必须查看仪表上标示的具体压力范围，对吧？
+
+[3:36]
+So these are the things that are tested. Right, most of you get it partially right, right? I think only one or two of you get it, like, full marks, right? So we're looking for is that in the first part I ask you, right, you look at the chart, right, you tell me what is the intended vacuum that is with such a setting.
+所以这些就是被测试的项目。对，你们大多数人部分答对了，对吧？我觉得只有你一两个人能拿满分，对吧？所以我们希望的是，在第一部分，我问你们，对吧，你们看图表，对吧，然后告诉我，在这种设置下，预期的真空度是多少。
+
+[3:40]
+What do you want to achieve in terms of vacuum? Right? And the answer is actually quite straightforward.
+你想要达到的真空度是多少？对吧？答案其实相当简单明了。
+
+[3:58]
+You read it through, right, you see pumps, right? Some of you talk about the most type of chambers, well, I explained to you before, I don't test on you for things that I didn't teach. Right? I only test.
+你把它通读一遍，对吧？你看到泵，对吧？你们有些人谈到了最多的那种腔室。嗯，我之前已经解释过了，我不会考你们那些我没有教过的内容。对吧？我只考。
+
+[4:14]
+Right? On what you know, not what you don't know. Now somebody say, "Oh, I don't know how these small chamber do not testing you on that." So if you based on what is the small chamber to be used, the vacuum that it needed, that is not the test around before. Right?
+对吧？考的是你知道的，不是你不知道的。现在有人会说：“哦，我不知道这些小房间怎么会不在这方面测试你。”所以，如果你根据要使用的小型腔室及其所需的真空度来判断，那就不属于之前测试的范围。对吧？
+
+[4:21]
+So that means you didn't get the part. It is not a small chamber. If any other chamber, you will miss the point.
+所以这意味着你没有拿到那个零件。这不是一个小房间。如果是其他任何腔室，你都会错过要点。
+
+[4:27]
+Right? So the point is that you look at the pumps. Right? You identify the two major pumps.
+对吧？所以重点是，你要看看这些泵。对吧？你确定了两个主要的泵。
+
+[4:45]
+One is high and the other is triple molecular pump. Then you will know the intended pressure is towards high vacuum, ultra high vacuum. Right? So if you put the range of pressures by some, say, it must be around 20 minus 8, some, say, 20 minus 6 to 20 minus 10.
+一个是高……另一个是三分子泵。那么你就知道目标压力是高真空、超高真空。对吧？所以，如果你把压力范围定为，比如说，必须在 20 到负 8 左右，比如说，20 到负 6 到 20 到负 10。
+
+[4:57]
+All I give you points, as long as you know, okay, the turbo pump and iron pump tend to work in the high vacuum, ultra high vacuum range. You have the points. Right?
+我只给你们一些要点，只要你们知道，涡轮分子泵和扩散泵通常在高真空、超高真空范围内工作。你有这些要点。对吧？
+
+[5:05]
+Then the missing point is that only very few of you know this. We use a CF feeding instead of KF feeding. Right?
+那么，缺少的一点是，你们当中只有极少数人知道这一点。我们使用 CF 饲料，而不是 KF 饲料。对吧？
+
+[5:18]
+And that's kind of like during class I emphasized the CF is intended for ultra high vacuum. KF is for low vacuum. Right? So you missed a little bit there, but it's based on the information you should arrive at the right conclusion.
+这有点像我在课堂上强调的，CF 是为超高真空环境设计的。KF 适用于低压。对吧？所以你那里漏掉了一点，但根据这些信息，你应该能得出正确的结论。
+
+[5:24]
+Right? Then I ask you, okay, so what is being missing? Well, it's the similarity of answers.
+对吧？然后我问你，好吧，那么缺少了什么？嗯，就是答案的相似性。
+
+[5:36]
+This is missing, that is missing. Well, if I ask you what is missing, that must be a logically open means what? Without it, right, logically, you will see that's the only answer.
+这缺失了，那缺失了。那么，如果我问你缺少什么，那必须是一个逻辑上开放的……是什么意思？没有它，对吧，从逻辑上讲，你会看到，这是唯一的答案。
+
+[5:40]
+Right? Some people say, "Oh, some other parts are missing." Some other chambers are missing.
+对吧？有些人会说：“哦，还有其他一些部分漏掉了。”还缺少一些其他腔室。
+
+[5:48]
+Well, there are a lot of things that are missing because I only show part of the graphs. Right? So you have to based on what is there to be used what is missing.
+嗯，有很多内容都缺失了，因为我只展示了部分图表。对吧？所以你必须根据现有的内容来判断缺少什么。
+
+[6:01]
+So what is missing? The vacuum pump. At least half of you get it right. Right? Because we say iron pumps, the turbo pumps, both of them cannot work from atmosphere.
+所以缺少什么？真空泵。至少有一半的人答对了。对吧？因为我们说的是铁泵和涡轮泵，这两种泵都不能在大气压下工作。
+
+[6:13]
+You need a vacuum pump. Right? So that's why you say that the vacuum pump, somebody says the rotary pump, somebody says displacement pump, are all correct, right? That means you know this is a prerequisite. Right?
+你需要真空泵。对吧？所以这就是为什么你们说真空泵——有人说是旋转泵，有人说是容积泵——都是正确的，对吧？这意味着，你知道，这是先决条件。对吧？
+
+[6:27]
+And the last one I ask you, so if you're going to use a gauge, to measure. What I'm testing is basic knowledge of gauges. Is that you are trying to measure a range, from atmosphere to a certain ultra high vacuum range.
+最后一点，我再问你一下，所以如果你要用量具来测量。我测试的是对量具的基本了解。你试图测量的范围是从大气压到某个超高真空范围。
+
+[6:33]
+Right? So that's a range. And each of the gauges could read only a certain range.
+对吧？所以这是一个范围。而且每个仪表只能测量某个特定的范围。
+
+[6:47]
+So you need more than one. Right? And if you get the name right, that's fine. You don't get the name right, tell me that you need a gauge that works in the relative low vacuum, a gauge working in the relative high vacuum.
+所以你需要不止一个。对吧？如果你拼对了名字，那就可以了。如果你拼错名称，就告诉我你需要一种适用于相对低压的测量仪表，或者一种适用于相对高压的测量仪表。
+
+[6:58]
+You still get the points. So I'm here to lose some points. Right? But what I'm looking for is that you really master what is needed in building up a vacuum system.
+你仍然会得到分数。所以我在这里是为了扣掉一些分。对吧？但我真正希望看到的是，你们真正掌握建立真空系统所需的知识。
+
+[7:06]
+Right? So you know the basics, right, the fundamentals, you get it all right. Right?
+对吧？所以你掌握了基础知识，对吧？掌握了基本原理，这些都理解正确。对吧？
+
+[7:14]
+So this is the vacuum, right, which I think is not bad. Most of you get at least a half marks and above. Right?
+所以这就是真空，对吧？我觉得还不错。你们大多数人都至少拿到了半分以上。对吧？
+
+[7:18]
+A few of you get two marks. Right? On that one.
+你们当中有几个人得了两分。对吧？在那道题上。
+
+[7:26]
+Then two questions. One is on XPS, practical sense. That is, right, I give you XPS spectrum.
+然后是两道题。一道题是关于 XPS 的，也就是实际意义。也就是说，对吧，我给你们一张XPS谱图。
+
+[7:32]
+Right? I tell you what do I see in the data. Then I ask you what had happened.
+对吧？我告诉你，我从这些数据中看到了什么。然后我会问你发生了什么。
+
+[7:49]
+That's the first question. Right? And the last question is a bit a combination of integrated with your knowledge and understanding of XPS, UPS, and LJ. Right? We focus on XPS and LJ.
+这是第一个问题。对吧？最后一个问题稍微综合了你对 XPS、UPS 和 LJ 的知识和理解。对吧？我们重点考察 XPS 和 LJ。
+
+[7:55]
+Right? But again, fundamentals. Right? Just fundamentals that emphasize during the class.
+对吧？但还是那句话，基本面。对吧？只是课堂上强调的基础知识。
+
+[7:59]
+Right? Let me comment on the last question first. Right? So in the class, what I emphasized?
+对吧？我先评论一下最后一个问题。对吧？那么，在课堂上，我强调了什么？
+
+[8:07]
+I said, right, you need to know the limitators. At least. Right? You need to know the basic principles.
+我说过，对吧，你需要了解这些局限性。至少。对吧？你需要了解基本原理。
+
+[8:17]
+So XPS corresponding to what? Right? You're sending X-ray in, you're trying to excite a specific level of electrons.
+那么，XPS对应什么？对吧？你发射X射线，试图激发电子到某个特定能级。
+
+[8:27]
+Right? To above the vacuum level, and you collect them. Then by analyzing the kinetic energy, right, you figure out what is the bending energy of that specific energy level.
+对吧？到真空能级以上，然后收集它们。然后通过分析动能，对吧，你就能算出那个特定能级的弯曲能是多少。
+
+[8:44]
+Correct? So if you need to remember anything about XPS, this is the thing you need to remember. Right? Otherwise, you didn't learn nothing. Okay? So if you know that, you know how electrons are tuned in, right, you shouldn't have any problem.
+对吗？所以，如果你需要记住XPS的任何内容，这就是你需要记住的。对吧？否则，你什么都没学到。明白吗？所以，如果你知道这些，也知道电子是如何调谐的，对吧，你应该不会有任何问题。
+
+[8:58]
+At least to tell me, right, if you have phosphorus in there with a certain number of 15, right, how the electrons are arranged, and one s, two s, two, two, three s, three p. Right? So counting numbers, I assume that all you can do.
+至少告诉我，对吧，如果里面是磷，15号元素，对吧，电子是如何排布的，一个s，两个s，两个，两个，三个s，三个p。对吧？所以，数数，我想这些就是你们能做的全部了。
+
+[9:00]
+Right? So you should end up with three p, three. Right?
+对吧？所以最后应该得到三个 p，三个。对吧？
+
+[9:08]
+So these are the questions. Some of you written three p, five. Some have written five coming from.
+所以，这些就是问题。你们有些人写的是三P，五。有些人写了“五来自”。
+
+[9:14]
+But you add them together and numbers doesn't get right. Right? So pay a bit of attention to that. But most of you get that right.
+但你把它们加起来，数字就不对了。对吧？所以要稍微注意一下这一点。但你们大多数人都答对了。
+
+[9:27]
+Right? And then you started to count the number of picks. So for XPS, there's one thing very important. In the limitator of energy levels is the so-called J Ge coupling, or just being optical coupling.
+对吧？然后你们开始数选票的数量。所以对于 XPS，有一件事非常重要。在能级限制器中，存在所谓的 J Ge 耦合，或者简称为光学耦合。
+
+[9:47]
+Right? So when the typical feature is that if you look at the p electrons, usually instead of one p, you're going to have two because you have two p, one over two, and two p, three over three. Well, so this is again something that I emphasized during class. Right? So I would expect you to tell me, all right, for p levels, you're going to have that.
+对吧？所以，典型的情况是，如果你看 p 电子，通常不会只有一个 p，而是有两个，因为有两个 p：一个 p 有一半，另一个 p 有三分之二。嗯，所以这也是我在课堂上再次强调过的内容。对吧？所以我希望你们告诉我，好吧，对于 p 值，你们会得到那个。
+
+[9:49]
+You're going to see that picks. Instead of a single pick. Right?
+你会看到那些选取项。而不是一个单独的峰值。对吧？
+
+[10:05]
+So if you do that, you'll get that kind of balance. Right? Last one is a little bit tricky, but still, I'm actually quite appreciate that a few of you, and it's not a few, a number of you, did get it right.
+所以，如果你这样做，就能获得那种平衡。对吧？最后一个有点棘手，不过我还是很欣赏你们当中有几位——不是只有几位，而是相当多的人——答对了。
+
+[10:10]
+I didn't expect. That was the tricky part. You said, "Well, you moved to three s and three p.
+我没想到。这就是棘手的地方。你说：“嗯，你转到三个 s 轨道和三个 p 轨道了。”
+
+[10:26]
+" Right? If you look at the principles, I just mentioned, you would expect to see one pick from three s levels and two picks from three p levels for the same reason as two. Right? However, right, there's a significant point that I emphasized.
+对吧？如果你看一下我刚才提到的原理，你会预期看到三个 s 能级产生一个峰，三个 p 能级产生两个峰，原因与第二个例子相同。对吧？不过，对吧，有一个我强调过的重要点。
+
+[10:50]
+If you look at the valence levels, you don't use XPS. You're going to switch to UPS. For the reason why is because the interaction cross section of X-ray was the valence electrons is so weak, you don't get much signals. So particularly if you set a phosphorus chamber into the XPS chamber, you do XPS, you don't see the three s between the picks at all.
+如果你看价态水平，你就不用XPS。你会改用 UPS。原因是，X射线与价电子的相互作用截面非常小，所以信号不强。所以，尤其是如果你把磷室放入 XPS 室，进行 XPS 测量，你根本看不到峰之间的三个 s。
+
+[10:54]
+Right? They're not really missing, and they're there, and they're so weak. Right?
+对吧？它们其实并没有缺失，而是存在的，只是太弱了。对吧？
+
+[11:02]
+If you want to see that, you go to switch to UPS. If you're without being asking, asking XPS picks. Right? Right?
+如果你想看，就切换到 UPS。如果你不问，就问 XPS 选项。对吧？对吧？
+
+[11:17]
+Some of you miss that point that quite a few of you actually get that. Right? So it's very good. Right? So if you get that, that was testing on the XPS basic principles nomenclatures and understanding about the energy levels and the difference between XPS and UPS.
+你们有些人没有抓住这一点，而实际上你们当中相当一部分人明白这一点。对吧？所以这非常好。对吧？所以，如果你们理解了这一点，那这次测试考察的就是XPS的基本原理、命名以及对能级的理解，还有XPS和UPS之间的区别。
+
+[11:31]
+So if you get that all right, you get a few marks. Now, LJ, right, some of you talked to me after class saying that I was getting a little bit fast. On the later part of it, like XPS.
+所以，如果这些都答对了，你就能得几分。现在，LJ，对吧，有些同学下课后跟我说，我讲得有点快。在后面的部分，比如 XPS。
+
+[11:43]
+Right? So I'm going to slow it down a little bit in the following lectures. Right? But the reason why I go too fast is that because UPS is so similar.
+对吧？所以在接下来的讲座中，我会稍微放慢一点节奏。对吧？但我之所以讲得太快，是因为 UPS 太相似了。
+
+[11:58]
+To XPS. And LJ, right, we still have a lot of chance to repeat in the later microscopies in terms of the electron quality interactions. Right? But my test on XPS is stemming from the understanding of XPS.
+与 XPS。至于LJ，对吧，我们在后续的显微技术中，就电子质量相互作用而言，仍然有很多机会进行重复。对吧？但我的 XPS 测试是基于对 XPS 的理解。
+
+[12:10]
+I only test on the nomenclatures. So that is, if you learn LJ, right, that is probably the first thing you've got to figure out. And that is based on you already understanding on XPS.
+我只测试命名法。所以，如果你学习 LJ，对吧，那可能是你首先得弄清楚的事情。这取决于你已经了解 XPS。
+
+[12:14]
+So it's not asking a lot. That's why I was going kind of fast. Right?
+所以这并没有要求太多。所以我才说得有点快。对吧？
+
+[12:22]
+So if you get that right, I mean, still, I mean, quite a few of you get it right. Although some of you just keep it up. You say that, "I don't know nothing about that." Right?
+所以，如果你们答对了，我的意思是，还是，我的意思是，你们当中相当一部分人答对了。不过你们中有些人就是一直保持住。你说：“我对那件事一无所知。”对吧？
+
+[12:42]
+So we say, "LJ, what do you want to remember?" You want to remember Benson has LJ is a three electron process. So what do you need to know? Right? So you need to know that you want three energy levels. Right? So I'm asking how many LJ picks in there that you just look at which three energy levels are there.
+所以我们问：“LJ，你想记住什么？”你想记住，Benson 有 LJ 是一个三电子过程。那么你需要知道什么？对吧？所以你需要知道，你需要三个能级。对吧？所以我的问题是，有多少个 LJ 选项，你只需要看里面有哪些三个能级。
+
+[12:46]
+Right? What are the combinations of the three energy levels? That's all you need.
+对吧？三个能级有哪些组合？这就是你所需要的全部内容。
+
+[12:55]
+Right? So that's the second and the last one is I was asking you about a tensile shift. Right?
+对吧？所以这是第二个，也是最后一个。我刚才问你的是拉伸位移。对吧？
+
+[13:05]
+Again, that's a little bit difficult for LJ part, but for XPS, I mean, I'm emphasizing so many times. Right? You get oxidized, what happens in terms of electron configurations.
+再说一次，这部分对 LJ 来说有点难，但对于 XPS，我是说，我已经强调了很多次。对吧？你会被氧化，从电子排布的角度来看会发生什么？
+
+[13:11]
+Whether many energy should be switched and shifting to high or low. Make. You should know.
+是否应该切换大量能量，并转移到高能级或低能级。。你应该知道。
+
+[13:13]
+Right? I was surprised that some of you didn't get it. Right?
+对吧？我很惊讶你们有些人没听懂。对吧？
+
+[13:39]
+Then for LJ, right, now again, even if you didn't really get it, but analyzing from a three electron or three energy level process, some of you still arrive at the correct answer, which is very good. Right? LJ is duplicated. Why? Because right, when you have tensile shift, right, so this is something I want to emphasize.
+那么对于LJ，对吧，现在再来说，即使你们并没有真正理解，但如果从三电子或三能级过程来分析，你们中的一些人仍然得出了正确答案，这非常好。对吧？LJ 是重复的。为什么？因为，对吧，当你发生拉伸移位时，对吧，所以这一点我想强调一下。
+
+[13:52]
+At least half of you get it wrong with the wrong concept. This is the thing I want to say. The answer the wrong answer was that half of you is the LJ energy will not change.
+至少有一半的人理解错了，概念也错了。这就是我想说的。错误答案是：你们中有一半认为LJ能不会改变。
+
+[13:54]
+Right?
+对吧？
+
+[14:02]
+Whether there will be a tensile shift or not, there's no tensile shift. If you think about it, this is not right intuitively. Why?
+会不会发生拉伸位移，不会发生拉伸位移。仔细想想，这从直觉上是不对的。为什么？
+
+[14:08]
+What LJ tells you? LJ mentioned it's negative energy. Is that right?
+LJ 告诉你什么？LJ 提到这是负能量。对吗？
+
+[14:18]
+So it's negative energy is determined by what? By the three energy levels. Okay? Then the question becomes, well, chemical environment affect the three energy levels?
+那么，负能量是由什么决定的？由三个能级决定。明白吗？那么问题就变成了：化学环境会影响这三个能级吗？
+
+[14:22]
+Yes. Why not? Right?
+是的。为什么不呢？对吧？
+
+[14:28]
+It definitely will be affected. Right? It's just that how it will be affected will get you a little bit of trouble.
+这肯定会影响。对吧？只是它会受到怎样的影响，会让你有点麻烦。
+
+[14:33]
+Right? And what is the difference? Because you have an A level minus B minus C.
+对吧？那有什么区别呢？因为你有一个 A 水平减去 B，再减去 C。
+
+[14:45]
+Right? There will be a little bit tricky. Right? So that is partially depending on experience, whether it will illustrate the red shifts is a little bit difficult.
+对吧？会有点棘手。对吧？所以，这在一定程度上取决于经验，要判断它是否会说明红移现象，还是有点困难的。
+
+[15:03]
+Right? But when we're looking for is that at least you should know LJ will be sensitive to the chemical environment as well. This is not a difficult answer. Right? And actually, I give marks to your analysis if you say, "Right, I think it will go higher or lower.
+对吧？但我们要找的是，至少你应该知道，LJ也会对化学环境敏感。这个答案并不难。对吧？事实上，如果你说：“对，我认为它会上升或下降。”我会给你的分析打分。
+
+[15:13]
+" You give a reason. For example, some students say, "I think it will be lower because LJ measured the kinetic energy." Right? And the bending energy based on the XPS analysis will go higher.
+“你要给出理由。例如，有些学生说：“我认为会更低，因为LJ测量了动能。”对吧？而基于 XPS 分析的弯曲能会更高。
+
+[15:21]
+So kinetic energy will go lower. Well, you still get quite a bit of part of the points. Right? Only missing very little.
+所以动能会降低。嗯，你仍然会得到相当一部分的分数。对吧？只差一点点。
+
+[15:36]
+Right? And the best answer would be, right, it depends on the chemical states. But then how this chemical environment would affect the three levels is a little bit trouble. So the answer may vary.
+对吧？最好的答案是，对，这取决于化学状态。但这种化学环境会如何影响这三个层次，这一点有点棘手。所以答案可能会有所不同。
+
+[15:38]
+Right? So I want you to get that. You get different points.
+对吧？所以我想让你明白这一点。你会得到不同的分数。
+
+[15:58]
+Right? So you see, the whole point is truly analyze of these three questions. I hope you realize I've been a test you on anything that is like off track. Off track means you learn a main track of the things, and there are some side things, a lot of details.
+对吧？所以你看，关键是要真正分析这三个问题。我希望你们明白，我一直在测试你们是否偏离了主题。偏离主题意味着，你要掌握主要的要点，还有一些次要内容和大量细节。
+
+[16:02]
+Right? Some teachers may like to test on these details. I don't.
+对吧？有些老师可能会喜欢考察这些细节。我不喜欢。
+
+[16:06]
+All right? I never do that. I test you on the main understanding.
+明白吗？我从不做那种事。我会测试你们对主要理解内容的掌握。
+
+[16:25]
+Right? All those questions, as I explained, is intended for the main understanding. So if after you study this XPS, UPS, and LJ, right, you're able to answer most of these questions, that means you mastered everything that you think of.
+对吧？正如我所解释的，所有这些问题都是为了考查主要理解能力。所以，如果你学习完 XPS、UPS 和 LJ 后，能够回答这些问题中的大部分，那就意味着你已经掌握了你认为需要掌握的所有内容。
+
+[16:29]
+All right? You're good to move on.
+明白吗？你们可以继续往下学了。
+
+[16:37]
+All right? So questions, problems, quickly, please.
+好吗？那么，请大家快速提问或提出问题。
+
+[16:39]
+What would the marks be posted?
+成绩会公布吗？
+
+[16:39]
+Sorry?
+什么？
+
+[16:41]
+What will the marks be posted?
+成绩会公布吗？
+
+[16:49]
+What will not post a mark? You can come to ask me if you want to know how you behaved. All right?
+什么不会发布分数？如果你想了解自己的表现，可以来问我。明白吗？
+
+[17:04]
+And if I again, and if I again, we may have a rush.
+如果我再……如果我再……我们可能会很赶。
+
+[17:10]
+Right? Or the same thing. If you think you have some concerns, certain problems or questions.
+对吧？或者同样的情况。如果你觉得有什么顾虑、某些问题或疑问。
+
+[17:15]
+Right? You can also come to discuss with me. No problem.
+对吧？你也可以来和我讨论。没问题。
+
+[17:16]
+Okay?
+好吗？
+
+[17:18]
+就不好好读吧。它有一些点没打到好像。
+Then don’t study properly. It seems like some points weren’t hit.
+
+[17:27]
+它最后那个就是它最后那个变化里面 even reasonable 我咋记得没变 reasonable。问了吧我都忘了。我没写 reasonable。
+At the end, in that last change, “even reasonable”—I don’t remember it changing. “Reasonable.” Ask them. I forgot everything. I didn't write "reasonable."
+
+[17:30]
+我也没有。
+I didn't either.
+
+[17:32]
+Very good. Okay. So that's done.
+很好。好的。所以，这部分完成了。
+
+[17:34]
+All right. What did we pass? Did we pass?
+好的。我们通过了什么？我们通过了吗？
+
+[17:36]
+Okay. All right. So let's move on.
+好的。好的。那么我们继续。
+
+[17:49]
+So in second class, right, we're going to talk about something which is an extension of LJ, actually. But.
+那么在第二节课，我们将会讨论一个实际上是LJ的扩展。但是。
+
+[17:49]
+那个题是哪一题？
+Which question was that?
+
+[17:51]
+The very different reason.
+非常不同的原因。
+
+[17:51]
+第三题就会。
+I know how to do question three.
+
+[17:59]
+Electron microscopy. All right? But remember, in the first block, the reason why I defined two different blocks is that the first is on spectroscopy.
+电子显微镜。明白吗？但请记住，在第一个模块中，我之所以划分了两个不同的模块，是因为第一个模块是关于光谱学的。
+
+[18:03]
+Right? Spectroscopy means you obtain a spectrum. All right?
+对吧？光谱学意味着你会得到一个光谱。明白吗？
+
+[18:11]
+And here is microscopy. Very different techniques. Right? So spectroscopy is a spectrum.
+这里是显微镜技术。非常不同的技术。对吧？所以，光谱法就是一种光谱。
+
+[18:21]
+Microscopy, you get a image. All right? But then in English, I did mention even if you have reconstructed the so-called spectrum imaging.
+显微镜观察，你会得到一张图像。明白吗？但在英语课上，我确实提到过，即使你重构了所谓的光谱成像。
+
+[18:25]
+Right? So you build the image. Spectrums.
+对吧？所以你会生成图像。光谱。
+
+[18:36]
+Right? But that is not equivalent to you take a picture all at a time. Right? Now we're going to talk about you just take one-time picture, and that's spectroscopy information.
+对吧？但这并不等同于一次拍下整张图像。对吧？现在我们要讨论的是，你只需拍一张照片，其中就包含光谱信息。
+
+[18:35]
+All right?
+明白吗？
+
+[18:38]
+那就。
+Then...
+
+[18:52]
+So again, for microscopy here, we're talking about electron microscopy. We're talking to our favorite rabbit. Right? So this time, instead of sending in the photons, we're going to send it in the electrons.
+所以，这里我们再次讨论的是电子显微镜。我们正在和最喜欢的兔子交谈。对吧？所以这次，我们不是发射光子，而是发射电子。
+
+[18:54]
+The same as LJ. Right? And then for readout, right, we're going to readout two different things.
+和LJ一样。对吧？然后对于读出，对吧，我们要读出两个不同的东西。
+
+[18:55]
+Right? The majority will come as electrons. So.
+对吧？大多数会以电子的形式出现。所以。
+
+[19:07]
+Study electrons will be not electrons, right? That, um, partly we're also able to read out the photons, right?
+研究电子将不是电子，对吧？嗯，部分情况下，我们也可以读出光子，对吧？
+
+[19:07]
+对。
+Right.
+
+[19:20]
+And all this depends on the excitation and de-excitation process. Now, during the learning process and the whole thing, you always make an analogy or comparison what we had learned before. I mean, XPS and LJ, or UPS, right?
+所有这些都取决于激发和去激发过程。那么，在学习过程中，以及整个过程中，你们总会把所学内容与之前学过的内容进行类比或比较。我的意思是，XPS 和 LJ，或者 UPS，对吧？
+
+[19:26]
+Don't be blocked, right? Now, why? Because toward the second piece—
+不要被卡住了，对吧？现在，为什么？因为朝着第二块——
+
+[19:46]
+Government secret, please. Although the focus will be put on the second part of the lectures, right, that's what my trustee— But we do have a bit of integrated questions based on— we're assuming that you have the basic energy of XPS.
+请保密。虽然讲座的重点会放在第二部分，对吧，这就是我的受托人——但我们确实会有一些综合题，基于——我们假设你们具备 XPS 的基本能量。
+
+[19:50]
+Right, or UPS, or elsewhere. Okay.
+对，或者 UPS，或者其他地方。好的。
+
+[20:49]
+So, uh, electron— my trustee will be based on electron microscopy, right, and that used electrons to illuminate specimen and then produce, um, magnified image. So basically it's like you take a photo using the digital camera, right, the same thing. Right, and once you get the readout from such an image, include the structure, quality, morphology, and also, uh, composition of the material. So you see, these three are four in the category you can figure out from the image, right, but here it's sort of a going back to the spectrum we're talking about, yeah, we're going to go back to that a little bit because in the process, depending on the signals you're going to receive, right, that also contains part of the, for example, chemical information of the materials that we can use, and we're going to talk about that a bit later.
+所以，呃，电子——我的受托人将基于电子显微镜，对吧？它使用电子来照射样品，然后生成，嗯，放大图像。所以基本上就像用数码相机拍照一样，对吧，原理相同。对，然后从这样的图像中获取读数后，要包括材料的结构、质量、形态，以及，呃，成分。所以你看，这三四个类别你可以从图像中判断出来，对吧？不过这里有点回到了我们刚才谈到的光谱，嗯。我们稍后会再回到这一点，因为在这一过程中，根据你接收到的信号，对吧，其中也包含了一些材料的化学信息，我们可以利用这些信息。我们稍后会讨论这一点。
+
+[22:03]
+Now, talking about a microscope, I guess, though all of you may not be familiar with an electron microscope, but I trust all of you are familiar with optical microscopes that I think using, um, everyone, using in your high school class, right, at the biology classes, right. So the electron microscope will be very similar to the settings of that. So let's review a little bit of what to expect, right, based on the electron microscope. Basically, this is a optical microscope you use, and you guys remember how it works. You have a light source coming from the bottom, so the light goes up, and you put your specimen, right, on here, right, and the light will pass through, right, your specimen, and this is the most important part, which is the optical lens, right, and that will collide with the photons that pass through the sample, and through that, and eventually reaching the eyepiece, or that can be a specific camera or your eye, right. So the whole system, what you need to have is that we need to have a light source, right, producing light photons.
+现在，说到显微镜，我想你们可能并不熟悉电子显微镜，但我相信你们都熟悉光学显微镜，我想，嗯，每个人，你们高中生物课上都会用到，对吧？所以，电子显微镜的设置会和光学显微镜非常相似。那么，我们来简单回顾一下电子显微镜下会看到什么，好吗？基本上，这是你们用过的光学显微镜，大家还记得它是如何工作的。光源从下方射出，所以光线向上。你把标本放在这里，对吧？光线会穿过标本，对吧？这一点最重要，也就是光学镜片，对吧？它会与穿过样本的光子发生相互作用，最终到达目镜，或者可以是专门的相机，或者你的眼睛，对吧？所以整个系统需要具备的是光源，对吧，也就是产生光子的光源。
+
+[22:27]
+You need to have a sample, right, and you need to have the light photos to interact with the samples, which is, in this case, transmission passing through the samples, and you need this spare optical, very important optical system which is a lens, right, and I trust all of you know the role of lens, right, so what does lens do? What does lens do?
+你需要有样品，对吧？还需要让光子与样品相互作用，在这种情况下，就是让光穿过样品，还需要这个备用光学……一个非常重要的光学系统，也就是透镜，对吧？我相信大家都知道透镜的作用，对吧？那么，透镜有什么作用呢？透镜有什么作用？
+
+[23:27]
+So if you have a lens, you have light going there, right, the lens will bend the trajectory of the light, right, so this is the same if you tell parallel, right, or focus, and the bifocal plane, right, so if it's passing through the middle, it goes in that way, and so on and so forth. Right, so this is the thing. But then, you also know the role of lens, as you learned, if you put an object here, if you put an object here, right, then the imaging plane should receive an inward enlarged image of your object. So this is what you learned from high school, all right, and the role of the lens is really to bend the light and the effect will produce a magnification, a magnification of your object.
+所以，如果有透镜，光线就会射到那里，对吧？透镜会弯曲光的路径，对吧？所以，如果你说平行，对吧？或者聚焦，以及双焦点平面，对吧？所以，如果它从中间穿过，就会朝那个方向行进，诸如此类。对，这就是关键所在。但你也知道透镜的作用。正如你们所学的，如果你把物体放在这里，对吧，那么成像平面应该接收到物体的放大倒像。所以，这些就是你们在高中学过的，对吧？透镜的作用就是使光线发生偏折，其效果会放大物体，也就是对物体进行放大。
+
+[23:26]
+见证永恒吧。
+Witness eternity.
+
+[23:41]
+So this is how you see it. And in the electron microscope, you pretty much do the same thing, instead of using microscopes, now you're going to use electrons.
+所以，你们就是这样看到它的。在电子显微镜中，你做的基本上是同样的事情，只不过不用显微镜，而是使用电子。
+
+[24:11]
+Right, so now, before we get into thinking about how electrons can be used, right, electrons, it's quite different from, like, photons, right, before we figure that out, now let's first think about why do we have to do that? Right, why do people ever thought about using electrons for electron microscopy? Why don't we just settle with the optical images? Right, now this is really stemming from the need of we want to see smaller things, right, now how do we see smaller things?
+好，那么现在，在我们开始思考如何利用电子之前——电子和光子之类的东西很不一样——在弄清楚这一点之前，我们先来想一想：为什么我们必须这样做？那么，为什么人们会想到用电子来做电子显微镜呢？为什么我们不直接用光学图像呢？对，这其实源于我们想要观察更小物体的需求，对吧？那么，我们该如何观察更小的物体呢？
+
+[24:29]
+Now the high school question, our high school answer would be, you magnify it because it's so small, you cannot see it, right, so you magnify it as small as a magnification is large enough, you would be able to see something, right, which is not true.
+现在回到高中阶段的问题，我们高中时的答案是：把它放大，因为它太小了，你看不见，对吧？所以你把它放大，直到放大倍数足够大，你就能看到东西，对吧？但事实并非如此。
+
+[24:58]
+All right, which is not true, right, magnification does not determine the smallest feature you can see. So it's not like you have very small feature if you have a very strong lens, you can magnify many, many times, you will be able to see that. That's not the case, right, so what determines? Right, the smallest thing you can see, which is the resolution. Right, and that is determined by the nature of the light photons.
+好吧，这是不正确的，对吧？放大倍数并不能决定你能看到的最小特征。所以并不是说，如果你有非常小的特征，而你有一副非常强的镜片，你就可以放大很多很多倍，然后就能看到它。不是这样的，对吧？那么，是什么决定的呢？对，你能看到的最小物体，也就是分辨率。对，而这是由光子的性质决定的。
+
+[25:10]
+Right, so if you're coming from a physics background, this is French classroom, everything is missing.
+对，所以如果你有物理背景，这是法语课堂，所有内容都缺了。
+
+[25:47]
+Right, so if you have a bit of a background in physics, you know that we primarily say light travels in straight lines. Right, but opposition, right, opposition is that there's no obstacles in front of it, so light travels in straight lines. But then, if we're going to put a small thing,
+对，如果你有一点物理背景，就会知道我们通常说光是沿直线传播的。对，但前提是，对，前提是它前面没有障碍物，所以光会沿直线传播。但是，如果我们放一个很小的东西，
+
+[26:08]
+for example, a small hole in it, right, now I have a light source, I guess what's going to happen? Well, it depends on how small it is. If not that small.
+比如，在它前面开一个小孔，对吧？现在我有一个光源，你们猜会发生什么？嗯，这取决于它有多小。如果它不够小。
+
+[26:10]
+那怎么能拍半年拍不到啊。
+Then how is it possible to film it and not get it in six months?
+
+[26:12]
+Well, light travels in straight lines.
+嗯，光是沿直线传播的。
+
+[26:14]
+嗯？那放在你电脑这个屏幕上。
+Hmm? Then put it on this screen on your computer.
+
+[26:26]
+Right, so you have a light source, you have a hole in there, and you put a screen in there, and you see a big blob in there. That's the light. Okay, then the other part, what happens to this part?
+对，所以你有一个光源，里面有一个孔，然后放上一个屏幕，你会看到里面有一个大黑影。那就是光。好的，那么另一部分呢，这部分会发生什么？
+
+[27:00]
+Blocked away. Okay, now we're going to reduce the size of this hole to very small. And now you're going to see something very interesting. Right, so the light no longer travels in straight lines, producing a point in there, instead, you see it seems the light bending up and down, staying enlarging this dot.
+被阻断了。好的，现在我们要把这个孔缩小到非常小。现在你们会看到一个非常有趣的现象。对，所以光不再沿直线传播，在那里形成一个点；相反，你们会看到，光似乎在上下弯曲，使这个点不断变大。
+
+[27:23]
+So instead of a point, now you're going to have a disc, right, so this is the so-called diffraction effect. Of light. Right, and the requirement of this small hole is that it's going to be comparable to the wood lens of the light that you use.
+所以，现在你看到的不再是点，而是一个圆盘，对吧？这就是所谓的衍射效应。光的。对，这个小孔的要求是，它的尺寸要与所用光的木制透镜的尺寸相当。
+
+[28:14]
+Right, so that's the if you have a university physics student, you know, oh, you have done this Young's interference or whatsoever experiment, that's all based on the same principle. Right, so this is what you can see if you start from a light source starting at p1, all right, now when it's through, goes through, so then holes, right, instead of having a single point on the collection screen, you're going to have a ring, whichever name, called the airy ring or airy disc. Right, and the intensity distribution of the airy ring is that, right, first of all, this is the intensity, you have the strongest intensity, and the middle, right, which is in the center, right, and then you have a certain size and later on ripples.
+对，所以，如果你是一名大学物理专业的学生，你知道，哦，你做过杨氏干涉之类的实验，那全都是基于同一个原理。对，所以如果你从 p1 处的光源开始，就能看到这个。好，现在它穿过、经过，也就是穿过这些孔，对吧，而不是在接收屏上形成一个点，你会看到一个环，不管叫什么，叫作艾里环或艾里圆盘。对，而阿贝环的强度分布就是这样，对吧？首先，这是强度，最强的强度在中间，也就是中心，对吧？然后它有一定的尺寸，之后是波纹。
+
+[28:36]
+Right, so that gives you the intensity profile, right, of the light that passes through a small hole, the so-called diffraction effect. Right, but the whole idea is that now you have a width, right, and the width is much larger than you expected by assuming straight line travel of the light.
+对，所以这给出了通过小孔的光的强度分布，也就是所谓的衍射效应。对吧，但整个想法是，现在这个光斑有一个宽度，对吧，而且这个宽度比你假设光沿直线传播时预期的要大得多。
+
+[28:59]
+Okay, all right, now imagine if I put another light source next to p1, right, now similar thing will be happened, it's just because p1 is a side away from the middle place, so its image will be projected to here.
+好的，现在想象一下，如果我把另一个光源放在 p1 的旁边，对吧？现在也会发生类似的情况，只是因为 p1 偏离了中间位置。所以它的像会被投影到这里。
+
+[30:02]
+Okay, but then you have the same thing, due to the diffraction effect, you're going to have a span of the size, right, instead of a single spot. Okay, now if that happens, right, there are three different situations. Now first, right, p1, p2 are far away from each other, far apart from each other, right, so you see this one, you see that one, although most of them have enlarged disc. Right, so you know these are two features. Right, now the second situation is that the two features are so close together, right, in this case, you no longer can read out, they are actually two things, you thought they actually are one, so this is a situation you can no longer discern, they are two different objects, instead you think they're one. This is the point, you cannot tell the difference. Right, now of course you have to define somewhere in the middle, say one would I be able to still tell p1 from p2.
+好的，但接下来也会出现同样的情况。由于衍射效应，你会得到一个具有一定尺寸的范围，对吧，而不是一个单一的光斑。好的，现在如果发生这种情况，对吧，会有三种不同的情况。首先，对吧，p1、p2彼此相距很远，间隔很开，对吧？所以你会看到这个，也会看到那个，尽管它们大多数都是放大的圆盘。对，所以你知道，这是两个特征。对，现在第二种情况是，这两个特征非常接近，对吧？在这种情况下，你已经看不清它们其实是两个东西，你反而以为它们其实是一个。所以，这就是一种你无法再辨别的情况：它们其实是两个不同的物体，但你却把它们看成一个。关键就在于，你无法分辨其中的差异。对，当然，你必须在中间某个位置进行界定，比如说，我是否还能分辨出 p1 和 p2。
+
+[30:28]
+Right, so mathematically this is determined now both have this distribution of the light intensities, okay, so if the first maximum overlaps with the minimum of the second one, now this one gives you the limit or the smallest separation distance of these two objects that you can tell.
+对，所以从数学上来说，这现在是确定的。两者都有这种光强分布，好吧，所以如果第一个极大值与第二个极小值重合，那么，这给出了这两个物体能够被分辨的最小间距或极限间距。
+
+[31:09]
+Okay, and that gives you the resolution, which has a special name of Rayleigh resolution, the Rayleigh limit or Rayleigh criterion, or diffraction limit. So you read the books, you see all these different nomenclatures, they talk about the same thing. Right, this is determined by the diffraction of the light that tells you the optical limit of the smallest feature you can see. So if we're using a visible light, which have a wood lens in the range of a 400 to 700 nanometers, then you know that the smallest feature you will be able to discern using the optical system will be in the range of sub-micron.
+好的，这给出了分辨率，它有一个特殊的名称：瑞利分辨率、瑞利极限或瑞利判据，也称为衍射极限。所以你看书时，会看到各种不同的命名方式，但它们说的都是同一件事。对，这由光的衍射决定，它告诉你能看到的最小特征的光学极限。所以，如果我们使用可见光，也就是波长在400到700纳米范围内的光，那么，你知道，使用光学系统时，你能分辨的最小特征将处于亚微米量级。
+
+[31:18]
+Right, that's kind of basic nanometers. But no more.
+对，这基本上就是纳米级的。但仅此而已。
+
+[31:40]
+Right, and the question becomes, but if I want to see smaller things, right, what can I do? Now let's go to the equation that describes the diffraction limit or the Rayleigh resolution. Right, so this smallest distance is determined by or affected by three parameters.
+对，那么问题就变成了：如果我想观察更小的东西，对吧，我该怎么做？现在我们来看描述衍射极限或瑞利分辨率的方程。对，所以这个最小距离由三个参数决定或影响。
+
+[32:31]
+The first one is the wavelength of the waves that you use, right, it could be photons, it can be X-rays, or it can be electrons, later on, right, that n is the refractive index of the medium, that the wave is passing through, and alpha is the sum and angle of collection, or collection sum and angles of the magnified lens. Right, now usually it's smaller than 70 degrees, but then you see this inside here, right, so that means the largest value is y, right, it cannot be larger than y, so you have a limit in there. Right, so if you read about this, then you will see if I want this p value to be smaller that means smaller features I can see, right, right, what can I do?
+第一个是所用波的波长，对吧？它可以是光子，也可以是X射线，或者以后的电子，对吧？n是介质的折射率，波所通过的介质的折射率，而 α 是放大镜的收集角之和，或者说收集角之和。对，通常这个角度小于70度，但你看这里，对吧？所以这意味着最大值是y，对吧？它不能大于y，所以这里有一个限制。对，所以如果你读一下这个，就会看到，如果我想让这个 p 值更小，就意味着我可以看到更小的特征，对吧？对吧？我能怎么做呢？
+
+[33:16]
+I can either make this large, or make this small, right, so we can make it large, for example we can increase the alpha angle, but I say there's a limit, right, the largest angle you can increase to make it 10 alpha close to 1, that's all. All right, you can use some media with a larger n refractive index, for example oil, right, will be larger than. Water, okay, so that helps you a little bit, right, but that's all you have to do. Right, now we still have this parameter to manipulate, which is the wood lens, of the waves you use.
+我可以让这个变大，也可以让这个变小，对吧？所以我们可以让它变大，比如可以增大 α 角，但我说这是有限制的，对吧？你可以增加的角度最大值，使 10α 接近 1，仅此而已。好的，你可以使用一些 n 值较大的介质，比如油，对吧，它会大于……水，好的，所以这会对你有一点帮助，对吧，但这就是你必须做的全部。对，现在我们还有一个参数可以调整，也就是所用波的木制透镜。
+
+[35:08]
+Now we say use visible light, a range of the light that gives you hundreds of nanometers resolution, right, then if you use shorter wood lens, that means this value can get almost smaller, is that right? So shorter wood lens what can I do? So what is a shorter wood lens compared to a visible light? Ultraviolet, we just learned, right, so in terms of a visible light, you have energy range of, let's say, 1 to 3 or 1 to, yeah, 1 to 3 electron volts, right, now UV light, we just learned in a, you tens of electron volts, right, right, but what's wrong with UV radiation? Help me just with the ultraviolet radiation, what we can, but the problem is that, right, anything that you use will absorb this UV light, right, so it doesn't really work, and here you want to build a microscope, so you want to have ways to bend the light waves, now for visible light we use glass or plastic, right, now if you use UV, you can use nothing, right, so it doesn't work. Now how about X-rays? Right, again, and then remember we do control the X-ray beams, go different directions, right, you use common materials, it doesn't work either, right, now electrons, a very different thing, right, now here we need two things, one thing is that we need to control the work lens, of this wave, the other thing is that we want to bend this wave, this is a two requirement that you need to build up a microscope, is that right?
+现在我们说，使用可见光，也就是能提供几百纳米分辨率的光谱范围，对吧？那么，如果使用更短的木制透镜，就意味着这个值几乎可以更小，对吧？那么，使用更短的木透镜，我能做什么？那么，与可见光相比，更短的木透镜是什么？紫外线，我们刚刚学过，对吧？所以就可见光而言，它的能量范围大约是1到3，或者1到，对，1到3电子伏特，对吧？现在紫外光，我们刚刚在……学过，几十电子伏特，对吧，对吧，但紫外线辐射有什么问题呢？帮我讲一下紫外线辐射，我们能做什么，但问题是，对吧，你用的任何东西都会吸收这种紫外光，对吧，所以它其实不太可行，而这里你想制造一台显微镜，所以你需要有办法弯曲光波。对于可见光，我们使用玻璃或塑料，对吧？但使用紫外光时，什么都不能用，对吧？所以这行不通。那么X射线呢？对，同样，然后记住，我们确实可以控制X射线束，让它们朝不同的方向传播，对吧？但使用普通材料也不行，对吧？现在来看电子，情况就大不一样了，对吧？这里我们需要两样东西，其中一点是，我们需要控制这种波的工作透镜；另一点是，我们希望弯曲这种波。这就是构建显微镜所需的两个条件。对吗？
+
+[35:16]
+Right, so work lens of electrons, can we control that?
+对，那么电子的功函数，我们能控制吗？
+
+[37:35]
+We can, right, because anything have a wave particle duality, right, it's a bit opposite to light photons, light photons, people enter it at first as the electron magnetic waves, and later on realize the photon nature, the particle nature of these waves, right, electrons use just the opposite, now people know it first as a particle, but later on realize, right, it's a question of a particle wave, right, so the theory I want to talk about, and you know this guy De Broglie, right, with this wave particle duality, right, but then that equation connect the particle nature and the wave nature of the same thing, now for any particles, if it has energy, right, that means that can be interpreted into the work lens, right, so the larger the energy, the shorter the work lens. Right, now we want to have very short work lens waves, say electrons, what can we do? We want the electrons to have a lot of energy, is that right? Can we give electrons a lot of energy? That's easy, electrons are charged particles, it's very easy to accelerate it and give it a lot of kinetic energy, so that's how you can make very short work lens electron beams. Right, high energy electron beams, so that is all, right, now here are some membranes you can look at for the long relativistic regime, right, when the velocity of the electrons are not so fast, you can use this equation to estimate, right, so it tells you if the acceleration voltage is about 150 electron volts, the lens can already go down to 0.1 nanometers, to 0.1 nanometers, what does that mean? Visible light, 500, 400 nanometers, and here we're talking about, you only give a little bit energy, it already goes to 1 angstrom, 3 to 4 order magnitude decrease, right, of course in electron microscopes, right, in many cases we use much higher energies, right, in a range of 100, thousands of kilovolts, right, and that you have to modify the equation a little bit, considering the relativistic effect, right, now here this is a table, right, giving you
+我们可以，对吧？因为任何东西都有波粒二象性，对吧？这有点与光子相反。光子，人们最初把它理解为电子的电磁波，后来才意识到它的光子性质。这些波的粒子性，对吧？电子的情况正好相反。现在人们首先把它看作粒子，但后来又意识到，对吧？这是一个粒子——波的问题，对吧？所以我想讲的理论，你们都知道这个人，德布罗意，对吧？他提出了波粒二象性，对吧？然后，这个方程把同一事物的粒子性质和波性质联系起来了。现在，对于任何粒子，如果它具有能量，对吧，那就意味着可以用波长来解释，对吧？能量越大，波长越短。那么，现在我们想要获得非常短的波长，比如电子，我们能做什么呢？我们希望电子具有很高的能量，对吗？我们能让电子获得很高的能量吗？这很简单，电子是带电粒子，很容易加速，也能获得很大的动能，所以这就是如何制造非常短的工作长度电子束。对，高能电子束。就这些，对。现在这里有一些膜，你可以看看它们在长相对论区的情况，对，也就是电子速度不是那么高的时候。你可以用这个方程来估算，对吧？所以，如果加速电压约为150电子伏特，透镜的分辨率就已经可以达到0.1纳米，0.1纳米。这是什么意思呢？可见光的波长是500到400纳米，而这里我们说的是，你只给它一点点能量，它就已经能降到1埃，相差3到4个数量级，对吧？当然，在电子显微镜中，对吧，在许多情况下，我们会使用高得多的能量，范围在100到几千千伏，对吧？这时就必须对这个方程稍作修正，以考虑相对论效应，对吧？现在这里是一张表，对，给出的
+
+[38:22]
+a few numbers, right, using this equations, based on the energy of the electrons and calculate this work lens, so this is the relative work lens, if you use a microscope with 120 accelerating p electron volts accelerating voltage, so here that's come, 0.00335 nanometer, right, that means what? If you put this number back into the relay criteria, right, now we say sine alpha, the largest will be 1, right, then refractive index of air, where you use oil, right, 1.1, 1.5, right, then you put this number in, lambda, and times 0.
+一些数值，对吧？使用这些方程，根据电子的能量计算这个工作焦距。所以这是相对工作焦距。如果你使用加速电压为120 keV的显微镜，所以这里是0.00335纳米，对吧？那是什么意思呢？如果你把这个数值代回绕射判据，对吧？那么我们说，sin α 最大为 1，对吧？然后是空气的折射率，使用油时，对吧？1.1、1.5，对吧？然后把这个数值代入，也就是 λ，再乘以 0。
+
+[38:26]
+6, and that gives you what?
+6，结果是多少？
+
+[38:48]
+Smaller than 1 angstrom, is that right? A value smaller than 1 angstrom, so what is the 1 angstrom? We say an atom is about the size of 3 angtrons, so that gives you a relay limit for optical limit smaller than a size of an atom, just use the term about it, do you care about it?
+小于1埃，对吗？小于1埃的数值，那么1埃是多少？我们说一个原子大约有3个埃的大小，所以这给了你一个光学极限的下限，小于原子的大小。就用“大约”这个词吧。你在意这个吗？
+
+[41:20]
+Right, so that gives you a potential, right, you can reach, very, very good resolution, at least it's no longer limited by the optical limit or relay criteria, right, so that's why, people want to use electrons, here are some numbers for your reference, right, now this is an example showing you, right, what can be shown electron microscope, right, so this is the in-scale, right, now in 0.1 nanometers is what we say 1 angstrom is the size of the atoms, right, so here are a few, I think these two are scanning electron microscopy images, right, showing B, right, and this is the red blood cells, and here is 好困啊 Right, this is better, so this is also electron microgrid, taken from MOSFET device, right, so you have the source, right, which is made of silicon germanium, and drain, and you have a gate put on top, so if you look at the scale bar, this is about 20 nanometers, so for example the surface offset layer is only about 3 or 4 nanometers, then all can be nicely disclosed by the electron microscope, microgrid, and that cannot be done with the common optical microscope, right, all right, so to do that, a microscope, we still have to come to go through a lot of details, but at advance, right, what do we need? This is going back to our optical microscope, and remember what we have with optical microscope, it starts from the light source, producing light photons, then that comes through this specimen, then when it's transmitting through, it will be collected, right, by the optic lens, which have some important principles of the wave optics, and before eventually projected to the viewing screen or your connector, so that's how you see things in the optical microscope, for electron microscope, you do exactly the same thing, exactly the same thing, all right, but now because you are changing the probe, from light photons into high energy electrons, you have to make changes accordingly, all right, now let's go through what are the changes, now first of all, you have the change source, to
+对，所以这给了你一个可以达到的极限，对吧？分辨率非常高。至少它不再受光学极限或中继准则的限制，对吧，所以这就是为什么，人们想用电子。这里有一些数值供你参考，对吧？现在这个例子向你们展示了，对吧，电子显微镜能展示什么，对，所以这是按比例显示的，对吧？现在，0.1纳米就是我们所说的原子大小，1埃。对，这里有几个。我想这两张是扫描电子显微镜图像。对，显示的是B，对吧？这是红细胞，这里……好困啊，对吧？这个更好，这也是电子显微镜图像，拍摄自 MOSFET 设备，对吧？这里有源极，对吧？由硅锗制成，还有漏极，顶部还有一层栅极。所以，如果你看标尺，这里大约是20纳米。例如，表面偏置层只有大约3或4纳米，因此所有这些都可以被电子显微镜、电子显微镜很好地揭示出来。而普通光学显微镜无法做到这一点，对吧？好，那么要做到这一点，显微镜……我们仍然需要讲很多细节，不过先说一下，对吧？我们需要什么？这又回到了我们的光学显微镜。还记得光学显微镜的原理吗？它从光源开始，产生光子，然后这些光穿过样本，再透射时会被收集，对，由光学透镜收集，光学透镜有一些重要的波动光学原理，最后投射到观察屏或连接器上，这样你就能在光学显微镜中看到东西。至于电子显微镜，你做的是完全相同的事情，完全相同的事情，明白吗？但现在，因为你要更换探测器，把光子换成高能电子，所以必须相应地进行调整，明白吗？现在我们来了解一下有哪些变化。首先，你需要改变光源，以……
+
+[43:07]
+an electron source, an electron gun that gives you high energy electrons, this will actually have done before, but we'll talk about RJ, right, we already talked about how to produce electrons, electron guns, all right, so we cannot have that, but then you have to light electrons, to pass through your specimen, all right, now that depends, depends, you are collecting the best scattered electrons, from the top surface, for example, right, or you need to collect the transmitted electrons that pass into the sample, just like this one, so this one is the light photon passing through, in this case the light electron passing through the sample, this sample will have a little bit different, right, so if you consider the best scattered electrons from the top surface of the sample, right, you don't care about how thick is the sample, because you already collect the top surface layers, right, but then if you want to collect the transmitted electrons, you have some, you have to have some requirement on the sample, the sample got to be very thin, can I go? The sample got to be very thin, otherwise electrons, not like light photons, cannot pass through your sample, in a very short deeper depth, because scattered at atoms inside the material, right, so this is one other difference, right, now the next one is that we say, for any microscope, you have to be able to bend the light rays, right, like in this case, you have to bend the electron beams, or that is equivalent to hedge trajectory of the electron beams, right, can we do that? So this is the, well, first we explain the wavelengths, the second thing is that we will have to explain how we're going to bend it, can we do that?
+电子源，也就是发射高能电子的电子枪。这个其实之前讲过，不过我们会讲到RJ，对吧？我们已经讲过如何产生电子，也就是电子枪。好。所以我们不能那样做，但之后必须让电子穿过样品。好，这取决于……取决于……例如，你要从顶表面收集最佳散射电子，对吧？或者你需要收集穿透样品的透射电子，就像这个一样。所以这个是光子穿过样品，而在这种情况下，是低能电子穿过样品。这个样品会有一点不同，对吧？所以，如果你考虑从样品顶表面散射的最佳电子，对吧，你就不用考虑样品有多厚了。因为你已经收集了最表层的电子，对吧？但如果你想收集透射电子，那么对样品有一些要求：样品必须非常薄。我可以继续吗？样品必须非常薄，否则电子——不像光子——无法穿透样品，否则电子会在很短的深度内被材料内部的原子散射，对吧？所以这是另一个区别，对吧？接下来，我们说，对于任何显微镜，你都必须能够弯曲光线，对吧？就像在这种情况下，你必须能够弯曲电子束。或者说，这相当于控制电子束的路径，对吧？我们能做到吗？所以这是……嗯，首先我们要解释波长，第二件事是解释我们打算如何弯曲它，能做到吗？
+
+[43:10]
+Yeah.
+是的。
+
+[45:17]
+So we have already talked about that in the previous chapters, right, we have ways to manipulate the trajectory of the electrons, either by electron field or by magnetic field, so we can do that, so that's a four, right, that's pass, right, then we consider electrons are very light particles, so if I have a lot of gas, for example, a little gas atmosphere, all right, and we have trouble, because these electrons, even though they control the trajectories, when it got scattered with, say, oxygen molecule or nitrogen molecule, will be scattered away, right, so that doesn't work, but that can be solved, we can go through vacuum, all right, so we reduce the number of gas molecules in the container that solves the problem, so you need vacuum, all right, now lastly, right, so if your electrons survive all this process, you eventually reach the viewing screen, or your detector, because you have a waste to collect electrons, all right, then you say, hey, we have learned how to collect electrons, the electron multiplier, yeah, you put the numbers, but here it's a little bit different, why? See, we are getting an image, right, we're taking an image, that means what? That means think about optical system, how do you see a picture, or how can you see me? Because I might be meter, right, although I'm myself is not a meter, it's a light shed on me, reflected, but then we can consider me as an emitter, so every part of me, or emitting light photons, and these light photons reach your eye, which detector, on the back of your eye, all right, so basically each small part of me, are getting light photons, and in your detector, are mapping these light photons, right, in a special distant way, all right, so you see me, all right, as a 2D image, okay, so this is how it works, now for electron microscope, the detector, you got to do the same thing, all right, so your object, right, there are different parts of the object, now there are electrons coming from different parts, right, like you've got to see these
+所以我们之前几章已经讨论过这个问题了，对吧？我们可以通过电场或磁场来操纵电子的轨迹，所以这是可以做到的，所以这是四，对吧？那就是通过，对吧？然后我们把电子视为非常轻的粒子，所以如果我有大量气体，比如说，一点点气体大气，好吧，而且我们遇到了问题，因为这些电子，尽管它们控制着轨迹，当它们与，比如说，氧分子或氮分子发生散射时，就会被散射走，对吧？所以这行不通，但这个问题可以解决，我们可以穿过真空，好吗？所以，我们减少容器内的气体分子数量，就能解决问题，因此需要真空，对吧？最后，如果电子能顺利通过整个过程，最终就会到达观察屏，或者你的探测器，因为你有一个用来收集电子的废料，好吗？然后你会说：“嘿，我们已经学会了如何收集电子，电子倍增器。”对，你把数字放进去，但这里有一点不同，为什么？看，我们正在获取图像，对吧，我们正在拍摄图像。这意味着什么？这意味着，想想光学系统：你是如何看到一张图片的，或者你怎么能看到我？因为我可能是一米高，对吧，尽管我自己不是一米高，但光线照射在我身上并被反射。不过我们可以把我认为是一个发射体，所以我身体的每个部分都在发射光子。这些光子到达你的眼睛，也就是你眼睛后部的感光器，对吧？所以基本上，我身体的每个小部分都在接收光子，而你的感光器会把这些光子映射出来，对吧？以一种特殊的方式，好，所以你看我时，会看到一个二维图像，好，这就是它的工作原理。现在对于电子显微镜，探测器也必须做同样的事情，好。所以你的样品，对吧，样品有不同的部分。现在有电子从不同的部分射出，对吧，就像你必须看到这些……
+
+[46:36]
+electrons, in a spatially different manner, all right, so what's this, what we learned in SBS, or RJ, or UPS, is that you're collecting electrons, in an energy different manner, all right, so it's a spatially different manner, so instead of using the original electron multiplier, right, we're using new devices, known as simulators, or charge couple device, CCD device, I'm sorry, right, so this is a camera, basically collecting electrons, right, all right, in a way, right, in a 2D, in a two-dimensional array, right, so you put a pixel manner, you're receiving the signals, right, so the electrons, the electron signals, that can be connecting each, so that's how electrons reach them, right, now of course, and what the question is that, so we know, taking a picture, tell the morphology, or the surface topography of me, right, even to be different, then if you get to these electron microscope, to take a photo of the material, what do you see in there? Do you see, again, the surface topographies, or do you see something else, in there, right, so what do you see? Depends on what?
+电子，以空间上不同的方式，对吧？那么这是什么？我们在 SBS、RJ 或 UPS 课程中学到的是，你以不同的能量方式收集电子，对吧？所以这是以空间上不同的方式，所以，我们不再使用原来的电子倍增器，而是使用一种称为模拟器或电荷耦合器件的新型设备，CCD 设备，抱歉，对吧？这基本上就像一台相机，以某种方式收集电子，对吧？好。以二维、二维阵列的形式，对吧？所以你会看到像素排列，接收信号，对吧？电子，也就是电子信号，可以连接起来，这样电子就会到达它们，对吧？当然，问题是，我们知道，拍照可以告诉我们自身的形态或表面形貌，对吧？即使它们彼此不同，那么如果你拿到这些电子显微镜，要给材料拍照，你会在里面看到什么？你看到的还是表面形貌，还是在里面看到了别的东西，对吧？那么你看到了什么？取决于什么？
+
+[46:40]
+What do you see?
+你看到了什么？
+
+[46:44]
+What do you see? What information you can get from the sample?
+你看到了什么？你能从这个样本中获得什么信息？
+
+[47:24]
+Right, so if, now, the way that's the question is that, you cannot, as your question is that you don't know, is that right? You cannot, as your question, you don't know, so what is the technique to answer questions? You always have to sort it back to something you know, so you find a clue, and that will lead you to the answer, right, so you don't know if I say, I put a sample in the electron microscope, I'm asking you what kind of information you can get, you have no clue, right, but you know, right, if you're going to take a photo of some material, using light photons, right, what do you see?
+对，所以，如果……现在这个问题是，你不能……你的问题是，你不知道，对吗？你不能，因为你的问题是你不知道，那么回答问题的技术是什么？你总是得把它归结为你知道的东西，所以你要找到线索，而线索会引导你得出答案，对吧？所以，如果我说：“我把一个样品放进电子显微镜里，”你不知道……我问你能获得什么样的信息，你完全不知道，对吧？但你知道，对吧？如果你要用光子拍摄某种材料，对吧，你会看到什么？
+
+[47:51]
+Depends on what? This is some question you should be able to answer, is that right? Now we think about this process, so you have, if you have a slice of transparency, right, let's talk about the slice projection, so you have a slice transparency, right, now you have shed light on it, right, now on the projector you see a large image of this, so how would you be able to do that?
+取决于什么？这是你应该能够回答的问题，对吧？现在我们来思考一下这个过程。假设你有一个透明切片，对吧？我们来谈谈切片投影。你有一个透明切片，对吧？现在你给它照射了光，对吧？现在投影仪上会显示这个的大图，那么你是怎么做到的呢？
+
+[49:47]
+Well, because light pass through certain parts, that's transparent, so it goes through, right, without it stopping, right, some parts, you have some things that absorb the light, so the light will be stopping there, right, so for those parts, you don't get a lot of light photons, so that appears dark, right, so on the viewing screen, you will have dark light contrast, right, so that depends on what? That depends on how my light photons interact with the material that I put in there, is that right? Be it transmitted, so light matter interactions can be, referred to as transmission, absorption, reflection, or in general scattering, that's what you will have, right, so you determine what is the interaction between the light photons and your material, you can deduce what you see on your projection screen, is that right, and what kind of information can be obtained, same thing, then you apply the same principle to the electron microscope, right, you get the same thing here, what is that? We have to figure out a set electrons to the materials, what had happened in terms of the electron matter interaction, right, so we need interpretation, all based on this important charge, right, which will repeat a few times when you get, eventually you will get familiar with it, right, so that's described what happens, now you have the high energy incident electrons, coming, right, heater samples, this is an example, right, so there are a few things that can happen, right, now first thing is that these electrons were likely to be back scattered without being changed at all, right, the so-called elastic scattering, right, and this will produce some electrons, right, of a special name, which is called back scattered electrons, so who are these electrons?
+嗯，因为光会穿过某些透明的部分，对吧？所以它会穿过，对吧，不会被阻挡，对吧？有些部分会吸收光，所以光会在那里被阻挡，对吧？所以对于那些部分，你接收到的光子不多，所以看起来是暗的，对吧？因此，在观察屏幕上，你会看到明暗对比，对吧？那取决于什么？这取决于我的光子如何与我放入其中的材料相互作用，对吗？无论是透射，光与物质的相互作用可以分为透射、吸收、反射，或者一般意义上的散射，对吧？所以，你要确定光子与材料之间的相互作用是什么。你可以推断出投影屏幕上看到的图像，对吧？还能获得什么样的信息？同样，然后你把同样的原理应用到电子显微镜上，对吧？这里也会得到同样的结果。那是什么？我们必须弄清楚电子与材料之间发生的一系列电子物质相互作用，对吧？所以我们需要进行解释，而这一切都基于这个重要的电荷，对吧？这会重复几次，最终你会熟悉它，对吧？所以这描述了发生的情况。现在，高能入射电子来了，对吧？加热样品，这是一个例子，对吧？所以可能会发生几种情况，对吧？首先，这些电子很可能会发生背散射，完全不发生改变，对吧？这就是所谓的弹性散射，对吧？这会产生一些具有特殊名称的电子，称为背散射电子。那么，这些电子是什么？
+
+[52:07]
+These electrons are the same as these electrons, they're the same, right, they're just being bounced back, right, like this, right, but the other thing is that you consider a range of high energy electrons, chances are in the sample you don't do the same, right, because they're going very fast, so likely they're going to pass through the chamber, I'm sorry, sorry, pass through the special. Result being affected, right, so these we call the directing or electron that are elastically scattered, right, elastic scatters means if energy has not been lost, okay, so basically you have electrons coming from, in the backward directions, or in the forward directions, the nature of these two electrons, are the same as the incident one, they are the original electrons, right, but somehow, this is back scattered, right, backward direction, this is a forward scattered, okay, so both of these electrons can be used for imaging, right, and what will be the focus of this lecture, right, so we'll talk about how we can use the back scattered electrons to look at the surface topographies and also the composition, so a little bit, right, and for this forward scattered electrons, we're going to use that for electron direction studies, that is called the structure of the materials, and looks for coming images of the transmission electron microscope, all right, so elastically scattered electrons, now what are the other process, right, now, see, in this process, what I emphasize is that the incident electrons, although scattered by your material, didn't lose its own energy, right, so its energy is conserved, right, now first you ask, is there any possibility they're going to lose a certain amount of energy? Now of course, right, otherwise all these hydration beams are being processed for nothing, right, so these incident electrons do transfer certain part of the energy to the materials, right, and we know if the energy is lost, right, if you look at the incident beam, you will see these electrons, there's still
+这些电子和这些电子是一样的，对吧？它们只是像这样被弹回，对吧？但另一点是，你要考虑一系列高能电子，在样品中，它们可能不会发生同样的情况，对吧？因为它们速度非常快，所以很可能会穿过……抱歉，抱歉，穿过那个特殊的……结果会受到影响，对吧？所以这些我们称之为背散射电子，对吧？“弹性散射”意味着电子没有损失能量，好吗？所以基本上，电子会从……方向射来。或者朝前方向。这两种电子的性质与入射电子相同，它们是原来的电子，对吧？但不知怎么的，这个是背散射，对吧，朝后方向；这个是前散射，好吗？所以这两种电子都可以用于成像，对吧？那么，这堂课的重点是什么，对吧？所以我们会讨论如何利用背散射电子来观察表面形貌和成分，也就是稍微讲一下，对吧？至于前向散射电子，我们会用它来进行电子方向研究，也就是研究材料的结构。接下来会看到透射电子显微镜的图像，好吗？那么，弹性散射电子。现在还有哪些过程呢？现在，大家看，在这个过程中，我强调的是，入射电子虽然被材料散射，但并没有损失自身的能量，对吧？所以它的能量是守恒的，对吧？现在首先大家会问，它们有没有可能损失一定量的能量？当然，对吧，否则所有这些入射束都白白被处理了，对吧？所以这些入射电子确实会将一部分能量传递给材料，对吧？我们知道，如果能量损失了，对吧，如果你观察入射束，就会看到这些电子，它们仍然……
+
+[52:53]
+the same electrons at the primary beam, however, they're going to lose a certain amount of its energy, right, if you're going to use that, now if they know where the energy has been to, right, what will be able to figure out the relevant process of the materials that are inside, so we're going to use that one as well, okay, and now how about say, if the energy of this primary electrons had been transferred to materials, right, now what did this material do? Well, these are the process we're familiar with, right, so we've been talking about object process, so next slide is there, okay, do you guys remember object process?
+与初级束中相同的电子，不过它们会损失一部分能量，对吧？如果你要利用这一点，那么现在，如果它们知道能量去了哪里，对吧，就能弄清楚内部材料的相关过程，所以我们也需要用到这个，好吗？那么现在，比如说，如果这些初级电子的能量已经转移到材料中了，对吧，那么这个材料发生了什么？这些是我们熟悉的物理过程，对吧？我们一直在讨论物体过程，所以下一张幻灯片就是关于这个的。好吗？大家还记得物体过程吗？
+
+[55:12]
+Right, now first of all, we have to figure out what core electron, right, now we can use the primary electrons to pick up one core electron, of the material, for that pick up core electron, who have a name, although in our day we're going to say, the name is secondary electrons, all right, so the pick up core electrons, do you have a name which is the secondary electrons, and they can be used, as well, right, and now the next process you're familiar with, when the core electrons are out, right, then other electrons at higher level will see this code, and the recombination will happen, right, and this recombination process will default a certain amount of this energy if it's coming out in the range of X-ray, you're going to have X-ray, all right, or if that energy has been passed to a third electron, you're going to collect already electrons, all right, or if that amount of energy happened not to be in the range of X-ray, but in the range of visible light, you're going to have light emissions, known as the pathogenics, right, so each of this excitation, the excitation process, will lead to a generation of certain particles being like photons or electrons, and all the signals can be collected and analyzed, right, and you say, so what information are there? Well, it depends on which are you looking at, and what are the interactions in between, this primary electrons, what's the material having here, right, so that's the whole idea of using the electron microscope, all right, to study all these processes, and eventually get information about the material, all right, so this is a bit going back to the Rabbit model, the rabbit, looks very simple, now what really happens is something inside is here, all right, what inside the rabbit is showing here, right, so you send the beam to the rabbit, all right, the inside rabbit, a lot of things are happened, then the rabbit produced some things, all different things, and you collect them, and you know what happens inside, all right,
+好，首先，我们必须弄清楚什么是核心电子，对吧？然后我们可以利用初级电子从材料中夺取一个核心电子。这个被夺取的核心电子有一个名称，虽然在我们这个时代，我们会说，这种电子叫作次级电子，好吧。那么，捕获的内层电子，它的名称是次级电子，也可以被利用，对吧。现在，下一个你们熟悉的物理过程是：当核心电子逸出后，对吧，那么更高能级的其他电子会看到这个空穴，就会发生复合，对吧。而这种复合过程会释放一定量的能量；如果它属于X射线的波长范围，就会产生X射线，好吗？或者，如果这部分能量已经传递给了第三个电子，那么你就会收集到电子，好吗？或者，如果这部分能量不在X射线的波长范围内，但如果能量处于可见光的波长范围内，就会产生光发射，称为光致发光，对吧？所以，每一次这种激发，也就是激发过程，都会产生某些粒子，比如光子或电子。所有信号都可以被收集和分析，对吧？那么，你们说，这些信号包含哪些信息呢？嗯，这取决于你观察的是什么，以及它们之间的相互作用。这些初级电子与什么材料相互作用，对吧？这就是使用电子显微镜的全部原理。好。研究所有这些过程，并最终获得有关材料的信息。好，这多少又回到了兔子模型。这个兔子看起来很简单，但实际上内部发生的是这里的一些东西，好，这里展示的是兔子内部的情况，对吧？所以你把电子束射向兔子，好，兔子内部发生了很多事情，然后兔子产生了一些东西，各种不同的东西。然后你把它们收集起来，就能知道里面发生了什么，好吗？
+
+[57:16]
+right, so a bit more words on the elastic electron interactions, right, we emphasize no energy loss, right, and for this part we say for the back scattered electrons and the forward scattered electrons, if they're elastic scatters, right, they can be used for imaging in two different types of microscope, one is a scanning electron microscope, the other is transmission electron microscope, now of course both can be used for electron deflection method, which is one of the focus of this block of knowledge, right, now here is a summary of the possible de-elasticated process that happened for this macros, and all this information can be used for material analysis, right, now accordingly, we're going to introduce two different microscopes, right, and the difference of these two microscopes is really, one collects the signals from the top surface of the sample, the other is collects from the bottom surface of the sample, all right, so the top one has the name of a scanning electron microscope or microscopy, right, and that analyzes both the secondary electrons and also the back scattered electrons, right, so to remind you, we are use, these are back scattered electrons, these are the secondary electrons, so the detectors in the SEM are on top of the sample, okay, and the other one is called a transmission electron microscopy, now as the names, transmission means it's passed through, all right, so if a sample is passed through, that means you collect the signals from the back surface of the sample, all right, and here our going to introduce a few different techniques, ranging from the bright field, dark field imaging, to electron deflections and also high resolution images, right, and a bit of the interesting argument is that, now we're using electrons that have very short wavelengths, all right, now we say, relay limits, for the deflection limit is no big issue now, right, because it's so small, right, but then with this electron microscope, we still have a limit, which is way beyond the
+对，再详细说一点关于弹性电子相互作用的内容。我们强调没有能量损失。对于这部分，我们说，对于背散射电子和前向散射电子，如果它们发生的是弹性散射，对吧，它们可以用于两种不同类型的显微镜成像：一种是扫描电子显微镜，另一种是透射电子显微镜。当然，这两种显微镜都可以采用电子偏转法。这是本知识块的重点之一，对吧？这里总结了这些宏观物体可能发生的所有非弹性散射过程，所有这些信息都可以用于材料分析，对吧？现在，我们将介绍两种不同的显微镜，对吧？这两种显微镜的区别在于，一种从样品的顶表面采集信号，另一个则从样品的底表面采集信号，好吗？所以，前者称为扫描电子显微镜或显微术，对吧？它会分析二次电子和背散射电子，对吧？提醒一下，我们用的是……这些是背散射电子，这些是二次电子。所以，扫描电子显微镜中的探测器位于样品上方。好的，另一种叫作透射电子显微镜。从名字可以看出，“透射”就是指电子穿过样品，对吧？所以，如果样品被透射，就意味着你要从样品的背面收集信号。好，接下来我们会介绍几种不同的技术，包括明场、暗场成像，到电子偏转，以及高分辨率图像，对吧？这里有一点有趣的说法是，我们现在使用波长非常短的电子，对吧？现在我们说，分辨率极限，至于衍射极限，现在不是什么大问题，对吧，因为它非常小，对吧，但使用这种电子显微镜时，我们仍然有一个极限，远远超出了……
+
+[59:29]
+relay limits, all right, so that means now the resolution of the microscope is determined from the infinity by something else, it's no longer an optical limit, but there are limitations, and through electrons, we're going to explore what are these limitations, limiting the resolution with ultimate resolution that you can see, with the image, right, now the green one appeared as an analytical electron microscopy, sometimes you see in journals, or textbooks, all right, so these are really not a new type of microscope, all right, analytical electron microscopy are techniques that are linked either to SEM or TEM, two different types of microscopes, all right, or in other words, for example, energy dispersion X-ray, all right, analyze X-ray that emitted during the de-excitation process, which is characteristic of the pathogenization of the sample, but that technique can be used in either SEM or TEM, all right, now of course we have a few others that we're going to cover in this lecture, to summarize, all right, what to expect in this block, all right, so we have, all right, electrons, all right, going into the sample, and we collect electrons out, well, this is not necessary from the other side, it can be from the same side, all right, so what do we have, we have e-elasticity scattered electrons, and we have elasticity scattered electrons, difference is, this the primary electrons does not suffer from any of the energy loss, but this the primary electrons actually pass through some of the energy to the materials, right, therefore the elastic scattered electrons, right, if we're going to look at the energy loss, primary electrons, that is the code, how much energy can be lost, right, now we can also look at the secondary electrons, now this is not primary electrons, this is primary electrons, energy loss primary electrons, secondary electrons is not from the beam, secondary electrons is from your sample, okay, and we can also look at tertiary electrons, that also coming from your samp
+绕射极限，好吧，所以这意味着，现在显微镜的分辨率不再由绕射极限决定，而是由其他因素决定；它不再是光学极限，但仍然存在一些限制，而且通过电子，我们将探讨这些限制是什么，以及它们如何限制分辨率，也就是图像所能达到的极限分辨率，对吧？现在绿色的那个出现了，作为分析电子显微镜，有时你会在期刊或教科书中看到它，好的，所以这些其实并不是一种新型显微镜。分析电子显微镜技术与扫描电子显微镜或透射电子显微镜相关，而这两者是两种不同的显微镜。换句话说，例如，能量色散X射线，对去激发过程中发射的X射线进行分析，这些X射线是样品致病过程的特征，但该技术既可用于扫描电子显微镜，也可用于透射电子显微镜。当然，我们还会有其他几种，会在本讲中介绍。总结一下，这一部分会讲什么。我们有，电子进入样品，然后我们收集射出的电子。嗯，这不一定是在另一边，也可以在同一侧。好，那么我们有什么呢？我们有弹性散射电子，还有非弹性散射电子。区别在于，初级电子不会发生任何能量损失，但初级电子实际上会将部分能量传递给材料，对吧？因此，弹性散射电子，对吧，如果我们来看能量损失，初级电子，也就是代码，能损失多少能量，对吧？现在我们也可以看次级电子，这些不是初级电子，这是入射电子，能量损失入射电子；次级电子不是来自电子束，而是来自样品，好吗？我们还可以观察三级电子，它们也来自你的样品……
+
+[1:01:47]
+le, which are the auxiliary electrons, so the tertiary electrons, right, and of course you can collect both, for elastic scattered electrons, all right, there are back scattered electrons, or forward scattered electrons, all right, so these are the two things we can use, now if we're going to use a forward scattered electrons, we have to use the transmission mode, so that has to be the transmission electron microscopy imaging, all right, but then for both the back scattered and forward scattered, we can use it for diffraction analysis, which is a very important technique to understand the crystalline structure of materials, and that can be done in both SEM and TEM actually, right, using transmission electron diffraction method, or low energy electron diffraction method, right, and these two parts, right, the secondary electrons and back scattered electrons, can be used in SEM for imaging, right, now if you're going to look at light photons, there are two different categories, if that happens in the visible light range, that's the so-called hazard luminescence, if it's in accelerated range, it's called energy dispersive acceleration, right, now of course if you're going to look at and rule out the primary electrons, you also have a special technique called electron energy loss spectroscopy, right, and all this process, right, can happen CL, EDX, SEM imaging, and the diffraction can happen in the scanning electron microscope, and the rest of it, can be done in the transmission electron microscope, right, so this is what we're going to expect, right, in the following lectures, when we focus on two different types of microscopes, SEM and TEM, and all these techniques, other than the open ones, or the shaded ones, will be introduced, in the next months or two, all right, so with that, we've finished the brief introduction, of electron microscopy, and we're going to move into SEM, scanning electron microscopy, right, now this is how it looks, right, it's not very large, the size of a
+……的辅助电子，也就是三能级电子，对吧？当然，你可以同时收集弹性散射电子，也就是背散射电子和前向散射电子。所以，我们可以利用这两类电子。如果我们使用前向散射电子，就必须采用透射模式，也就是透射电子显微成像，好吗？但对于背散射电子和前散射电子，我们都可以将其用于衍射分析，而衍射分析是了解材料晶体结构的一种非常重要的技术。这实际上既可以使用扫描电子显微镜，也可以使用透射电子显微镜来完成，对吧？采用透射电子衍射法或低能电子衍射法，对吧？至于这两部分，也就是二次电子和背散射电子，可以用于扫描电子显微镜成像，对吧？现在，如果你要观察光子，它们可以分为两类。如果这种现象发生在可见光范围内，那就是所谓的“hazard”发光，如果它在加速范围内，就称为能量色散加速，对吧？当然，如果你要观察并排除初级电子，还有一种特殊技术，称为电子能量损失谱，对吧？所有这些过程，对吧，都可以在CL、EDX、SEM成像中进行；衍射可以在扫描电子显微镜中进行，其余的则可以在透射电子显微镜中进行，对吧。所以，这就是我们在接下来的课程中会探讨的内容，对吧？我们会重点介绍两种不同类型的显微镜：扫描电子显微镜（SEM）和透射电子显微镜（TEM），以及所有这些技术，除了那些开圈的或阴影标注的。将在接下来的两三个月里陆续介绍。好，那么，我们已经完成了对电子显微镜的简要介绍，接下来要讲扫描电子显微镜，也就是SEM，对吧？现在，它看起来是这样的，对吧？它不是很大，一个……的尺寸。
+
+[1:03:52]
+large desktop, right, again, we follow similar outlines, right, sample principle, two data analysis, right, and now, we're coming to this part, all right, a very important chart that describes the configuration of electron sample interaction, this chart actually has been shown before, if you remember, in our day, but I was very bad on that part, all right, now what happens is that you start from the primary electrons, right, this is mentioned, right, and the shadowed samples, right, these are, now these are high energy electrons, so it does have a certain penetration depth, now, see, remember when we talk about X-rays, we say the penetration depth of X-ray is actually very deep, all right, so it actually can pass through the body, you have to have a footprint, right, electrons are very likely to stop, right, by the matters, so the scattering of electrons is very significant, now of course, right, you can let it pass through the pickup, right, the way is that you can increase the energy loss, the higher the energy, right, the pickup will be closer, all right, so at the end, all right, when electrons go into the material, right, it does not go straight lines, because there can be scattered, right, this way and that way, right, so that depends on the probe, so the initial probe may be this small, right, but when they're into the material, because of the scattering process, it will sit back, go this way and that way, so eventually the volume of interaction is expanded, it's no longer the initial size of the electron probe, and that's why you see this pear-shaped, right, pattern, right, which indicates the impact of the electrons once it enters the materials, all right, and in terms of the type of interaction we just mentioned, we look at the elastic scattering, and the enhanced scattering, now for elastic scattering, we only have one type of electrons, which are the back scattered electrons, right, coming from the top surface of the samples, for enhanced scattering, we
+一张大桌子，对吧？同样，我们遵循类似的框架，对吧？样品原理、数据分析，对吧？现在，我们来看这一部分，对吧？一张非常重要的图表，描述了电子与样品相互作用的配置。这张图其实之前已经展示过了，如果你们还记得的话，那天我们讲过，但我当时这部分讲得很差。好，现在的情况是，你从初级电子开始，对吧？这里提到过，对吧？以及阴影中的样品，对吧？这些是高能电子，所以它们确实有一定的穿透深度。现在看，还记得我们讲X射线时，我们说过，X射线的穿透深度实际上很深，对吧？所以它实际上可以穿过身体。你必须要有脚印，对吧？电子很可能会被物质阻挡，对吧？所以电子的散射非常显著。当然，你可以让它穿过探测器。方法是增加能量损失，能量越高，对吧？探测器会更靠近，好，所以最后，好，电子进入材料时，并不会沿直线传播，因为它们可能会向各个方向散射，对吧？所以这取决于探针。初始探针可能很小，对吧，但当它们进入材料后，由于散射过程，它会向后退，这样来这样去。所以最终相互作用的体积会扩大，不再与电子探针的初始尺寸相同，这就是为什么你会看到这种梨形的图案，对吧？这表明电子进入材料后所发生的影响。好，就我们刚才提到的相互作用类型而言，我们会观察弹性散射和增强散射。现在，对于弹性散射，我们只有一种电子，也就是从样品顶表面发出的背散射电子，对吧？对于增强散射，我们……
+
+[1:05:56]
+have a few different things, we have in terms of electrons, both secondary electrons and our days, right, our days, you see, the algae analysis is based on how to remember electrons as a function of this energy, but here, for microscopy, we're actually collecting electrons as a function of this single location, right, so these detectors, you can imagine, it's very different, that's why, all right, algae and SEM are usually two different microscopes, you don't do it together, that will make the thing too crowded, all right, since we've already talked about algae, so with a longer discussion anymore, all right, and here we need to focus on the secondary electrons, and also X-rays can be used, but X-rays as I said, EDX can happen in TEM as well can happen in SEM, so we're going to revisit the later topic when we finish TEM, we'll come back to the analytical electron microscopy, but covering both the energy dispersive absolute and electron energy loss microscopy, all right, so we're going to dig it out, because luminescence is a topic we're not going to cover, all right, so here in this chapter, we basically will be focused on the back scattered electrons and the secondary electrons, right, so algae process, now I guess I don't have to go through it anymore, all right, and here the focus is here, now here, yeah, secondary electrons, right, we don't look at this, right, now of course this one is the back scattered electrons, which are actually these ones, primary energy electrons, they will be onto that, all right, so these are two things we look at, right, now the energy distribution of electrons in the sample surface, here's this thing, you can see, for back scattered electrons, because they're going through, right, the, sorry, for the secondary electrons, because they're going through many different cycles of scattering, so when they eventually can exit the surface of the materials, right, their energy, their kinetic energy are actually quite low, and that's why, right, they
+有几种不同的电子，包括二次电子和背散射电子，对吧？背散射电子，你看，藻类分析是基于如何记住电子作为该能量的函数，但在这里，对于显微成像，我们实际上是在记录某个特定位置的电子，对吧？所以，可以想象，这些探测器非常不同。因此，扫描电子显微镜和SEM通常是两种不同的显微镜，不会同时使用。那会让画面太拥挤。好，既然我们已经讲过藻类，就不再多讨论了。好，这里我们需要关注二次电子，也可以使用X射线。但正如我所说，X射线，也就是EDX，既可以用于TEM，也可以用于SEM。因此，等我们完成TEM之后，会再回到这个主题，也就是分析型电子显微镜。但要涵盖能量色散谱和电子能量损失显微镜，好吗？所以我们会深入讲解，因为发光不是我们要讲的主题，好吗？那么，在这一章中，我们基本上会重点关注背散射电子和二次电子，对吧？所以是藻类过程。我想我不用再讲了，好吗？重点在这里，现在这里，对。二次电子，对吧，我们不看这个，对吧。当然，这个是背散射电子，其实就是这些。初级能量电子，它们会落到那个上，对吧。所以，我们关注的是这两类，对吧？现在是样品表面电子的能量分布。这里这个东西，你可以看到，对于背散射电子，因为它们穿过，对吧，抱歉，对于二次电子，因为它们经历了许多次散射，所以当它们最终能够离开材料表面时，对吧，它们的能量，也就是动能，实际上相当低，这就是为什么，对吧，它们……
+
+[1:08:18]
+usually stay in the range of lower than 50 electron volts, right, back scattered electrons, okay, although they intended for the elastic scattered electrons, they should have the same energy of the primary electrons, right, but then you see these primary electrons are not losing their energies, one time, all right, so it can lose certain amount of energies, pass through the material electrons, then be scattered, then maybe it will be scattered again, losing a bit more, be scattered, so the range of the back scattered electrons overall, right, have a wide range of energy, all right, now if you look at the elastic vector paths of the electrons, now here we see some trend in this table, now here I listed a number of atoms from top to bottom, you see the number of the z, atomic numbers is increasing, all right, and from left to right, you see I'm increasing the energy, right, of these, of the primary electrons, now you see the elastic vector paths of these electrons, closer was the energy, and it also goes down was the atomic number, all right, this is the trend we see, and then make any sense, so memory paths tells more, memory paths tells how likely you're going to be scattered, right, short memory paths that means you keep on scattering, all right, so if the long memory paths means it doesn't scatter much at all, all right, so here, as the energy of the electrons is getting larger, the memory path is getting longer, does that make any sense, yeah, because the energy is higher, it's less likely to be scattered, tend to go straight, all right, and it goes small when the atomic number of the material is getting larger, does that make any sense, yes, because you have heavy atoms in there, the stopping power is higher, all right, so electrons tend to be stopped more times, right, than compared to the light atoms, so the memory paths is getting shorter, so it keep on getting scattered, all right, and this, we're actually going to use it to have, to serve as a main differentiation
+通常低于50电子伏特，对吧，背散射电子。好的，虽然它们原本是弹性散射电子，但它们应该具有与入射电子相同的能量，对吧。但你看，这些入射电子并没有一次就失去能量。好，所以它们可能会损失一定能量，穿过材料，然后发生散射，之后可能还会再次散射。损失更多，再次被散射，所以背散射电子的整体能量范围很宽。好，现在如果你看一下电子的弹性矢量路径，现在我们从这张表中可以看到一个趋势。这里我从上到下列出了若干种原子。你们可以看到，原子序数，也就是 z，是逐渐增加的。好，然后从左到右，你们可以看到，我正在提高这些初级电子的能量，对吧？现在你们可以看到这些电子的弹性矢量路径。能量越接近，原子序数也越低，好吗？这就是我们看到的趋势。然后，这有什么意义呢？所以，记忆路径能提供更多信息。记忆路径表明电子发生散射的可能性有多大，对吧？短记忆路径意味着电子会不断散射，好吗？所以，如果长记忆路径意味着电子几乎不会发生散射，对吧？那么在这里，随着电子能量增大，记忆路径也会变长。这样讲得通吗？对。因为能量更高，它不太容易发生散射，往往会直线前进。好的，而且当材料的原子序数变大时，这个路径就会变短。这样讲得通吗？是的。因为里面含有重原子，其停止本领更高。所以电子比轻原子更容易被停止，因此平均路径会变短。所以它会不断散射，好吗？而这一点，我们实际上会用它来作为主要的区分依据。
+
+[1:10:34]
+in between the back scattered electrons and the secondary electrons, all right, so secondary electrons are what, secondary electrons are elastic scattered electrons, all right, now two guys have any impression of this chart before, this is the very early chart that you use when you're talking to the XPS, you're right, okay, so what does it tell us, it tells you the memory paths of the electrons as a function of the energy, remember, I was saying they have this U shape, all right, now the previous one in the elastic scattered electrons, they have not really linear, but proportional relationship, all right, so the energy goes larger than memory paths goes longer, all right, and here, you have the energy goes larger than memory paths first decrease, then increase, all right, so we explain why, because it's in elastic scattering process, whether these electrons do, all right, will be scattered, depends on the energy it has, all right, if it's too low energy, these energy cannot be absorbed by the materials, all right, so there's no interactions, the memory paths is not, all right, but then if you have very high energy electrons, also they tend to go too fast without the interacting with the materials, so memory paths is slow as well, only somewhere in the middle, all right, the memory paths is the lowest, so that's the difference, if you look at the elastic scattered electrons and the in elastic scattered electrons, they also have different dependence of this energy, the memory paths, okay, all right, now we go back to the interaction module, all right, now both experimentally were used in Monte Carlo simulations, you see this pear shaped interaction module, all right, which is much larger, the little size is much larger than the initial electron protons, all right, now what we care about is, okay, we're doing microscopy, now at the very beginning, we're talking about what's the most important in microscopy, resolution, all right, so in the spectroscopy, we also care about resolution,
+在背散射电子和二次电子之间，对吧？所以，什么是二次电子呢？二次电子就是发生弹性散射的电子，对吧？现在，有没有人之前看过这张图，这是你们在讨论XPS时最早会用到的图表。你说得对。好，那么它告诉了我们什么？它告诉你的是电子的平均路径长度随能量的变化，记住，我刚才说，它们呈U形。好，而之前的弹性散射电子图，并不完全是线性的，而是成比例关系。好，也就是说，能量越大，路径就越长。好的，这里，随着能量增大，路径先减小，然后增大。好的，我们来解释一下为什么。因为在弹性散射过程中，这些电子是否会……会被散射，取决于它的能量。如果能量太低，这些能量无法被材料吸收，所以不会发生相互作用，记忆路径也不会，但如果电子的能量非常高，它们也会因为速度太快而无法与材料发生相互作用，所以平均路径也很短。只有在中间某个能量范围内，对吧？记忆路径最短，这就是区别。如果你看弹性散射电子和非弹性散射电子，它们对能量的记忆路径也各不相同。好的，好。现在我们回到相互作用模块。在实验和蒙特卡罗模拟中都使用了它。你们看到这个梨形的相互作用模块，它要大得多。这个小尺寸比初始电子、质子大得多。好，现在我们关心的是，我们做的是显微成像。一开始，我们讨论显微成像中最重要的因素是什么：分辨率。好。所以在光谱学中，我们同样关心分辨率。
+
+[1:12:48]
+we care about what resolution energy resolution, now here is the microscopy, we take a image, we take a photo, so what resolution we care about, spatial resolution, all right, now so the whole thing of the microscopy process, where we have to emphasize on what determines the spatial resolution, what is the smallest resolution we can achieve, so that's the most important thing, all right, now in SEM, all right, now due to this interaction module, all right, the determination of the resolution is actually quite complicated, we have a few factors that can make it, now we already learned the first thing, the relay image, diffraction image, we know it doesn't matter, all right, because that's too small, all right, now we're to sort out, first thing, all right, based on the interaction module, you see, even if, all right, you can have very good resolution on other aspects, think about, if your electron probe coming in and the signals you are collecting, it's coming from the probe, all right, then the probe determine your resolution, is that right, but then if the probe goes in and the signal coming out are from extended volume, now who determine the resolution, the volume determine the resolution, is that right, so that's why the interaction module is quite important that we have to figure out what effect the interaction module, the first is atomic number of material being set, now have a guess, all right, for atomic number, lower atomic number materials or higher atomic number materials, which one has the largest interaction module, that's will not be too difficult to guess, all right, so if you have high Z number, the stopping power is strong, all right, so the electron will actually not go in that deep, also the interaction module is a bit small, I mean volume is the whole size, okay, because it's a lot shallower, and at this point, acceleration energy dependence, that's even easier, so you can high energies, that go deeper and the interaction module is larger, all right, if you
+我们关心的是什么分辨率？能量分辨率。现在这里是显微镜，我们拍摄图像、拍照，所以我们关心的是什么分辨率？空间分辨率。好，那么整个显微镜成像过程，我们必须强调，什么决定了空间分辨率，以及我们能够达到的最小分辨率是多少。所以这是最重要的。好，现在在扫描电子显微镜中，由于这种相互作用模块，分辨率的确定实际上相当复杂，有几个因素都会影响它。现在我们已经学过第一个因素，即中继图像、衍射图像。我们知道这并不重要，好吧。因为那太小了，好吧。现在我们要弄清楚，首先，好吧，基于相互作用模块，你看，即使，好吧，你在其他方面可以获得非常好的分辨率，想想，如果电子探针进来，而你收集的信号来自探针，那么探针决定了你的分辨率，对吧？但如果探针进入后，产生的信号来自扩展体积，那么现在是谁决定了分辨率？是体积决定了分辨率，对吧？所以这就是为什么相互作用模块相当重要，我们必须弄清楚相互作用模块会产生什么影响。首先，材料的原子序数被设定。现在猜一猜，好吧，对于原子序数，原子序数较低的材料，还是原子序数较高的材料，哪一种的相互作用模块最大？这个应该不难猜。好的，所以如果原子序数较高，它的停止本领就很强。好的。所以电子实际上不会深入那么远，而且相互作用的体积也较小。我的意思是，体积就是整体尺寸。好的，因为它要浅得多，而在这一点上，加速能量的依赖性，这更容易，所以你可以使用高能电子，它们会穿透得更深，而且相互作用模块也更大。好的，如果你……
+
+[1:14:59]
+have low energies, the interaction is smaller, all right, electron go shallower, incident angle, we also not easy, it's not difficult to think about, if you have like electrons coming from a vertical directions or coming from a side, then obviously from the vertical directions, the impact is larger if it's coming from the side, all right, it will go a lot shallower or smaller interaction module, all right, so this is one of the most important chart, all right, and you have to spend a bit time to digest, all right, it tells you, all right, based on the interaction module, what would be the depth of analysis and the lateral resolution you will be able to obtain in this technique, based on the electron sample interactions, all right, so what do we see in here, all right, now first of all, all right, let's forget about algae, we talk about it before, all right, first of all, secondary electrons, all right, so now these are electrons coming from your own materials, all right, now because this energy is so low, so it's rather limited in the subsurface layers, it doesn't go very deep, all right, so if you're obtaining electrons from this region, you see the expansion, the lateral expansion of this part is not significant, all right, because it's not going too deeply yet, all right, so in this sense, all right, the secondary electrons are actually coming from a few tens of nanometers deep from the subsurface layer, and the lateral or spatial resolution is similar to the probe size that you have, all right, so that determines actually if we're using the secondary electron for your imaging, the spatial resolution can be quite good, it depends on the size of the probe, okay, but now things become different if you look at the back secondary electrons, these are high energy electrons, now back secondary electrons are not your own electron, now the material's own electron, this is the primary electrons, they're of high energies, all right, so they go deep into the materials and being bounced back, all right,
+能量低时，相互作用较小，电子穿透得更浅。入射角度也不容易……不过不难理解，比如电子是从垂直方向来的，还是从侧面来的。那么很明显，如果电子从垂直方向入射，撞击会更大；如果从侧面入射，就会进入更浅的区域，或者相互作用模块会更小。好的，所以这是最重要的图表之一。好的，你得花点时间消化一下。好的，它告诉你，基于相互作用模块，根据电子与样品的相互作用，这种技术能够获得的分析深度和横向分辨率是多少。好，那么我们在这里能看到什么？好。首先，好吧，我们先别管藻类，我们之前讲过。首先，次级电子，也就是这些来自样品本身的电子。因为这个能量很低，所以它在材料表层以下的范围相当有限，不会穿透很深。因此，如果你从这个区域获得电子，就会看到扩展，这部分的横向扩展并不显著，因为此时还没有深入太多。所以从这个意义上来说，次级电子实际上来自距表面几十纳米的亚表层，而横向或空间分辨率与探针的尺寸相似，好。所以，这实际上决定了，如果我们使用二次电子进行成像，空间分辨率可以相当高，具体取决于探针的尺寸，好吗？但现在情况就不一样了。如果你看背散射二次电子，它们是高能电子。背散射电子不是材料自身的电子，而是材料自身的电子。这是入射电子。它们的能量很高，所以会深入材料内部，然后被弹回。
+
+[1:17:16]
+now as they go deep, they're expanding the volume, all right, so not only they are assessing much deeper part of the information of the materials, but also the lateral spatial solution is much wider than what you can have for the secondary electrons, all right, and usually in a range of tens or even hundreds of nanometers, all right, now last but not least is there's X-ray photons coming out, now so these are the things, all right, comes even deeper because the high energy electrons can go, all right, deep, all right, but then the back secondary electrons, have to consider they have certain ways to travel, so it goes hot, all right, but X-rays, it doesn't have this penetration depth problem, all right, so the very deep X-rays can also actually the surface and be collected, so the penetration, so the depth of analysis for X-ray is the largest for all the techniques, and accordingly, the lateral spatial resolution is the poorest, poorest, all right, so in this chart, you will have a good understanding of what, what effect the depth of analysis and the lateral spatial resolution of different techniques, based on sample electron interactions, all right, so these are the things for you to pay attention to, all right, these two slides are optional due to sleep, but the details and the sampling depths, all right, now here I want to make a comparison on the back secondary electrons and the secondary electrons which are the two major type of electrons we're going to collect and analyze for microscopy, now the dependence on atomic number, now here in this chart we plot the electron yield as the number of electrons that are generated as a function of the atomic number, now you see for secondary electrons in the same substance dependence, that is, you start with carbon, you end up uranium, all right, the secondary electron yield will not change much, all right, that is what, that means you will not be able by just looking at the secondary electron microscopy imaging, you will not be able to tell car
+随着它们深入材料，它们所覆盖的体积也在扩大。因此，它们不仅评估了材料更深部分的信息，而且横向空间分辨率比二次电子的分辨率要宽得多，通常可达数十甚至数百纳米。最后但同样重要的是，还会产生X射线光子。这些光子会穿透得更深，因为高能电子可以深入材料内部。但背散射二次电子必须考虑它们有一定的传播方式，所以它会发热，好吗？不过X射线不存在这种穿透深度问题，好吗？所以，非常深的X射线实际上也可以到达表面并被收集。因此，X射线的穿透深度，也就是分析深度，是所有技术中最大的，相应地，横向空间分辨率是最差的，最差的。好，所以通过这张图，你们会对不同技术的分析深度和横向空间分辨率分别有什么影响有一个很好的理解。基于样品与电子的相互作用。好的，这些是你们需要注意的。好的，这两张幻灯片因睡眠而可选，但细节和采样深度，好的，现在我想比较一下背散射电子和二次电子。这两种电子是我们将在显微镜分析中采集和分析的主要电子类型。现在，关于它们对原子序数的依赖性，现在，在这张图中，我们绘制了电子产率，也就是作为原子序数函数生成的电子数量。可以看到，对于同一种物质中的二次电子，这种依赖关系，也就是说，你从碳开始，到铀结束。好的，次级电子产率不会有太大变化。好的，也就是说，仅仅通过观察次级电子显微成像，你将无法……你将无法辨别碳……
+
+[1:19:29]
+bon from uranium, okay, however, look at what you see here, the back secondary electron yield actually goes up with the atomic number, so it's being said, you see light scattering, you have a higher chance of being scattered by heavy atoms, all right, so that provide you a way though it's not, it's actually imaging, it's not chemical analysis, but it contains chemical information, is that right, so because if you have both light elements and heavy elements in the view, the heavy elements will scatter electron more in terms of back scattered electrons, the light elements will scatter less, so if you collect these electrons, you will see the bright one which means the collect more electrons, is the heavy element, light one have a darker contrast, okay, you will usually see that difference, all right, now of course there are big magnetic impedance, now this is sort of mentioned before, all right, BFE doesn't depend on the beam energy much at all, but the secondary electron does due to the interaction nature, all right, so you have to have energies to be, not too small and not too large in order to interact the most, for the secondary electron generation, all right, now specimen two dependence, they're similar, all right, and now we can move to the instrumentation, now instrumentation we're actually don't have a lot left to cover, all right, now what we have here is that let's talk from the top, now remember we start from the electron source, all right, electron microscope, that we have cut already, all right, electron back, all right, now of course you have to cut through the vacuum, vacuum cut as well, all right, now we move down, all right, now we move down is that we need a net system that can bend the trajectory of electrons, you kind of mentioned that, we know the general principles, you can use either electrical field or electrical net or magnetic field, but now here we need to get a bit into the detail to see how it really works, all right, so that's the one thing we need to mention,
+bon 与铀，好的，不过，看看这里看到的，背散射二次电子产额实际上会随着原子序数增加而增加，所以它是在说，你会看到光散射，被重原子散射的可能性更大，对吧？所以这提供了一种方法，尽管它并不是……实际上，它不是化学分析，但它包含化学信息，对吧？所以，如果你的视野中既有轻元素，也有重元素，重元素会更多地散射电子，也就是背散射电子；轻元素则较少散射。因此，如果你收集这些电子，你会看到亮的，这意味着收集到的电子更多，是重元素；轻元素的对比度更暗。好的，通常你会看到这种差异。现在当然存在很大的磁阻抗，这个之前也提到过。BFE实际上几乎不取决于束流能量，但次级电子由于其相互作用的性质，会受到束流能量的影响。所以你必须有能量来……既不太低也不太高，以便在二次电子产生过程中获得最强的相互作用。好，现在来看样品的依赖性，它们是相似的。好，现在我们可以转到仪器设备了。现在关于仪器设备，其实已经没什么要讲的了。好，我们从顶部开始讲。还记得我们是从电子源开始的，对吧？电子显微镜，我们已经切过了，好，电子回……好，当然，你必须穿过真空，真空部分也要切开，好，现在我们往下移，好，现在往下看，我们需要一个能够弯曲电子轨迹的系统。你刚才也提到过这一点。我们了解其一般原理，可以使用电场、电网或磁场。但现在我们需要稍微深入一些，看看它究竟是如何工作的。好，这是我们需要提到的一点。
+
+[1:21:31]
+now there's a second way, well, second point is the same thing, all right, so you standardize in there to manipulate the physical location of this probe to move it around, so that's kind of easy, but we don't have to mention specifically, and lastly is a little bit different, you say you need a circulator, all right, basically it's a full cathode ray, all right, or CRT, all right, now you collect electrons at a specially different locations, all right, so that we're going to talk about a little bit because that's kind of relative to the resolution of the microscopy, all right, now first of all, let's all right, now we say there are only two different type of lens, electrical lens and magnetic lens, all right, now we put a table of comparison of the trigger variance of these two type of lens and you see obviously magnetic lens, all right, is more energy efficient, all right, and you see the trigger applied, and so for electron microscopes, all right, magnetic lens are commonly used, all right, so this is how the lens or looks like, so you don't think electron magnetic lens are like very huge ones with average, they're not, all right, the only thing you need is the difference or magnetic field, yeah, that magnetic field works in a way, all right, that helps you bend the ray of electrons, now here, this is a cross section of the so-called magnetic lens, so cross section means I have a lens here and I cut this and I look from outside, all right, so what are lens, lens are actually coils, all right, so you have a coil using a couple of wires, all right, you want to do with the center that is hollow, so you have a coil, all right, so here is a cross section of the coil with each of the circle representing the cross section of the copper wire, all right, so you have many layers of wires running around, all right, so now you see, okay, so I have wires going this way, all right, and the wires will work for current to pass through, all right, that's how you generate magnetic field,
+现在还有第二种方式，嗯，第二点也是一样的。好，所以你可以在里面标准化，操纵这个探针的物理位置，让它四处移动。这相对来说很容易。但我们不必具体提到。最后一点有点不一样，你说你需要一个环行器，好吧，基本上它是一个完整的阴极射线管，也就是CRT，好吧。现在，你把电子收集在一些特定的不同位置，好吗？所以我们会稍微讲一下，因为这与显微镜的分辨率有关，好吗？首先，好，现在我们说，透镜只有两种不同的类型：电透镜和磁透镜。好。现在我们列出一张比较这两种透镜触发方差的表格，你可以清楚地看到，磁透镜的能效更高，而且你可以看到所施加的触发……所以，电子显微镜通常使用磁透镜。那么，磁透镜看起来是这样的。你可能觉得电子磁透镜会很大，其实并不是。好的，你只需要磁场的差异。对，磁场的作用方式是，它可以帮助你弯曲电子束。现在这里，这是所谓的磁透镜的横截面。所谓横截面，就是我这里有一个透镜，把它切开，从外面看。好，那么什么是透镜呢？透镜实际上就是线圈。好的，所以你用几根导线绕成一个线圈。好的，你希望中间是空的，所以你有一个线圈，好的。所以，这是线圈的截面图，每个圆圈代表铜线的截面。你看到很多层电线绕着线圈缠绕。现在你明白了，好，所以这些导线是这样绕着的，导线之间可以让电流通过。这就是产生磁场的方式。
+
+[1:23:48]
+so if you have a coil going this way and you have current passing through, then what is the V field generated, the V field generated this way, all right, all right, so generally if you have a coil it's not very nice lighting on class, the pen is not working too well, all right, so you have a coil, now we say if you go this, all right, you have a V field, generated like this, and of course, all right, getting away, you have a V field, all right, not always straight, all right, only in the middle of the straight, all right, in the side, all right, the magnetic field or going sideways, all right, this is the general case, but that's not, that's not the configuration for a lens, now of course, the role of the lens is try to, all right, bend the electrons that are coming in and drag it in the forward directions, all right, now other than the major part, which is the coil, all right, this whole thing are sealed into iron case, all right, so this is to restrict the magnetic field to be within the region instead of expanding too much outside, all right, and special design is this part, the case is sneaking at this specific location, so you have the special designs control the field distribution, it's also important, and this part is called the co-piece, all right, and the role of the iron case within the coil, the iron case and the co-piece are illustrated in the next slides, it's shown here, so this is the common coil, and I said you have generated the electrical, sorry, magnetic field, all right, with the middle ones going up and down straight, and then the other ones have this what you say, rotational symmetry, all right, so the fields are going out, all right, different ways, like this on the side, all right, now having a case, which is to introduce an iron shield, that will squeeze the V field, all right, in the inner part and get intensified, so this is the straight line, the solid line, is the magnetic field, all right, distribution along the Z directions, you see it has
+所以，如果线圈朝这个方向绕，而电流流过它，那么会产生什么方向的 V 场？朝这个方向产生的 V 场，好，好。所以一般来说，如果你有一个线圈——教室里的灯光不太好，笔也用不太动——好，你有一个线圈，现在我们说，如果你这样……好，你会产生一个像这样分布的 V 场。当然，好吧，偏离中心时，你会有一个 V 场，好吧，不总是笔直的，好吧，只有中间是笔直的，好吧，在侧面，好的，磁场会横向延伸。这是一般情况，但这并不是透镜的结构。当然，透镜的作用是尽量……好的，弯曲进入的电子，并将其朝向前方拖动，好吗？除了主要部分，也就是线圈之外，整个装置都被密封在铁壳中，好吗？所以，这是为了限制磁场只在该区域内，而不是向外扩展太多。好的，而特殊的设计在于这一部分：铁壳在特定位置微微凸出。所以，特殊的设计可以控制磁场分布，这一点也很重要。这部分叫作磁轭。好的，那么铁壳在线圈中的作用是……铁壳和磁心在下一张幻灯片中有所说明，就在这里。所以这就是常见的线圈。我说过，你们已经产生了电场——抱歉，是磁场。好。中间的这些电线上下直立，而其他的则具有你们所说的这种旋转对称性。磁场以不同的方式向外延伸，就像侧面这样。现在有一个情况，就是引入一个铁屏蔽，它会在内部压缩 V 场，使磁场增强。所以这条直线，实线，就是磁场。好的，沿 Z 方向的分布，你们可以看到它有……
+
+[1:26:13]
+a spread, all right, on the Z direction with the middle mostly intense, all right, so if you have a iron shield, all right, which is a dashed line, all right, now you're squeezing the V field to be inner part of this coil, special locations, and then with the co-piece, so this is the design that introduced to the case of sneaking out that direction, now where you squeeze the V field, all right, to the inner part, here, all right, so this is the distribution along the Z axis, all right, you can imagine here is the strong case and then this waking up, all right, up or down, but now with the iron shield and the co-piece, now the V field is very much squeezed, all right, in this region, all right, and that is the most important design of the magnetic lens, all right, and here is a membrane, all right, kind of out, all right, now this is the part to tell you how you control the electron motion, all right, and it's funny, we generate the V field of rotational, the reason why I'm saying rotational, the V field is just hovering up, all right, but then away from the middle line you will see the V field actually going this way, but in the three-dimensional, all right, that's the so-called rotational, this way, okay, this is bending, you will see V field projections, one projection is projected, all right, the other is that you have a projection on the XY directions, all right, now electrons are coming from either close to down or automatically this matter, so it travels in this way, all right, so let's say with a velocity going this way, now you have a V field, all right, which is pointing to this rotational symmetry, pointing to XY directions, all right, now let's assume you have a velocity electrons going this way, you have a V field going that way, so that will generate what, that will generate a Lorentz force, is that right, right, being perpendicular to both the velocity and the V field, that's pointing in, so that means enter the central panel force, the electrons will also
+在 Z 方向上的分布，中间部分最为强烈。所以，如果你有一个虚线所示的铁屏蔽，现在，你把 V 场压缩到这个线圈的内部，也就是特定位置，然后用 co-piece，所以这就是针对从那个方向偷偷逸出的情况提出的设计。现在，你把 V 场挤压到内部，对吧？这里，对吧？所以这是沿 Z 轴的分布。对吧？你可以想象，这里是强磁场，然后这个……醒过来，好的，向上还是向下，但现在有了铁屏蔽和磁芯，V场在这个区域被大大压缩了。这就是磁透镜最重要的设计，好吗？这里有一张膜，有点向外，好吗？现在这部分会告诉你如何控制电子的运动。好的，这很有意思，我们产生的是旋转的 V 场。我之所以说它是旋转的，是因为这个 V 场只是向上悬空，好的。但离开中心线后，你会发现磁场实际上会朝这个方向弯曲。不过在三维空间中，对吧，这就是所谓的旋转磁场。这个方向，好，这就是弯曲。你会看到V场的投影，一个投影被投影出来，好吧，另一个是它在XY方向上的投影，好吧，现在电子要么从下方靠近，要么自动进入这个物质，所以它以这种方式运动，对吧？假设电子以这个方向的速度运动，现在存在一个 V 场，对吧？这个 V 场指向这个旋转对称性，指向 XY 方向，对吧？现在假设电子以这个方向运动，而 V 场朝那个方向，那么会产生什么？会产生洛伦兹力，对吧？对。垂直于速度和 V 场，那个方向是向内的，所以这意味着进入中心面板的力，电子也会……
+
+[1:28:26]
+going circles, is that right, they will go in circles, with the central pedal force, all right, but then because it's going down, that going circles, so that means the electrons are travels in a spiral format, from top to down, all right, and in this is always being dragged to be close to the optical axis, which is the center, all right, so this is the way how electron trajectory are bent by this electromagnetic bands, all right, now that's the lens, all right, now we're moving into the next important question, which is, now as I mentioned a bit earlier, all right, obviously how small the electron probe is, will be very important, all right, because probe is the part that touch the sample, and only with this probe right, so smaller probe means you can have smaller absence of smaller portion of samples, that will determine the special function of the microscope, all right, another question will become in electron microscope, how small you can make the probe, all right, how small you can make the probe, now this is determined by what, well, first of all, I say, okay, you have a probe in there, generated, there's always a probability pass through the lens system, there's always problem of diffraction data, but now as we said, because the wavelength is so short, so optical image is not the issue, we can forget about it, all right, but then, all right, there are a few things. Next, it's not a perfect system, so there's no so-called perfect batch, so if there's a lens, there are so-called aberrations, so what are aberrations? Aberrations is the non-perfectness of the lens, all right, so there are a few different types of aberrations, which is relevant to expand the size of the probe, there are no as a spherical aberration, chromatic aberration, and as a, all right, so for those of you, many of you are wearing glasses, all right, you guys know what are they,
+绕圈，对吧？它们会在中心的力作用下绕圈运动。好，但因为它们向下运动，而这个……绕圈，所以这意味着电子以螺旋形运动。从上到下，好，而且它始终被拉近光轴，也就是中心，好，所以电子轨迹就是这样被这些电磁带弯曲的。好，现在讲到透镜。好，接下来我们进入下一个重要问题。正如我刚才提到的，电子探针的尺寸显然非常重要。因为探针是接触样品的部分，而且只能用这个探针，对吧？所以探针越小，就能观察到样品上越小的区域，这将决定显微镜的特殊功能，好吗？另一个问题是在电子显微镜中，探针可以做得多小？好，探针可以做得多小？这取决于什么？嗯，首先，我说，好吧，你有一个探针在里面，它被生成。它总是有一定概率穿过透镜系统，总会存在衍射数据的问题。但现在，正如我们所说，因为波长非常短，所以光学图像不是问题。我们可以把它忽略，好吧，不过，好吧，还有几件事。接下来，这不是一个完美的系统，所以不存在所谓的完美批次。如果有透镜，就会存在所谓的像差。那么，什么是像差呢？像差是指透镜的不完美性。好，像差有几种不同类型，其中与探针尺寸的扩展有关的有球差、色差，还有……好的，你们当中很多人戴眼镜，对吧？你们知道它们是什么，
+
+[1:31:07]
+so what are they, spherical aberration, all right, spherical aberration means dense but not perfect spheres, although you're thinking this is part of, but there's no perfect spheres, all right, so what happens is that, all right, for electrons or waves that travels in close to the optical axis, and those far away from the optical axis, will be focused at different locations in the optical axis, all right, so you can imagine, all right, you have lens that was close to the optical axis is focused here, and then travels away from the optical axis will be focused here, so if you consider all the rays, some are focused here, others focused here, there's always here, all right, there's no location on the optical axis that these beams can actually be focused, all right, so at any locations you can cut, and you're not seeing to a point, which should be the source size, all right, you always have a large piece, all right, so that's the impact, spherical aberration, chromatic aberration, probable, all right, that means colored and means energy, so that means if your electrons are coming with slightly different, 这种就很好看，白化的， right, then for electrons of different energies, we again will be focused at different locations, optical axis, all right, so there's no real difference, for the size of the probe, quite a bit, the last one is the only one that can be completely corrected, which is known as the asymmetric, all right, you guys know asymmetric, across those of you who wear glasses should know, example, you already know asymmetric, all right, so who knows what is that, you guys all know that, what is asymmetric, 偏移率。 So a lot of you must have asymmetric, all right, that means your eyeball is triggered, is symmetrical, all right, so it's not, it's not symmetrical, means what, so the light travels, let's say, this way, and that way, all right, will be focused on different locations on the optical axis, all right, so as a result, there's no location on the optical axis will have this problem,
+那么它们是什么？球差。好，球差意味着密度高，但不是完美的球体。虽然你们觉得这是……的一部分，但没有完美的球体，好吧。所以会发生的情况是，对于靠近光轴传播的电子或波，而那些远离光轴的电子或波，会在光轴上的不同位置聚焦。好的，所以你可以想象，靠近光轴的光线聚焦在这里，然后远离光轴传播的光线会聚焦在这里。所以，如果你考虑所有光线，有些聚焦在这里，另一些聚焦在这里，总是在这里。好的，光轴上没有一个位置能让这些光束真正聚焦。好的，所以无论在哪个位置截取，你看到的都不是一个点，而应该是源的尺寸。好的，你总会看到一大块，好的，这就是球差的影响。色差，可能，好吧，意思是“有色的”，也意味着能量。所以这意味着，如果电子以略有不同的……这种很好看，白化的，对吧，那么对于不同能量的电子，我们再次会聚焦在不同的位置，也就是光轴上。好的，所以实际上并没有什么区别。对于探针的尺寸，影响相当大。最后一种是唯一可以完全校正的。这被称为非对称像差。好，你们都知道非对称像差，戴眼镜的人应该都知道。比如，你们已经知道什么是散光了。好吧，谁知道那是什么？你们都知道。什么是偏移率？所以你们很多人可能都有偏移率，对吧？这意味着你们的眼睛球不是对称的，对吧？所以它不是对称的，这是什么意思呢？也就是说，光线会这样传播，也这样传播。好的，光线会聚焦在光轴上的不同位置。因此，光轴上没有一个位置会存在这个问题。
+
+[1:33:18]
+always this potential, all right, but then because this asymmetrical result, you can always wear glasses, that have the opposite to it, so that can be completely corrected, so asymmetric is something that can be completely corrected, all right, but here is an image showing such an effect, all right, now of course you have to focus, all right, when you have, when you do not have asymmetric, all right, so you have this overfocus and underfocus, of course the image is not clear, but when it's in focus, all right, you will see very clear images, but then if you have asymmetric in there, so you will see with underfocus and overfocus, all right, underfocus and overfocus, you have, elongation, all right, in one of the directions, so this you have elongation in this direction, and with that you have elongation in that direction, which is 90 degrees away from each other, so that's a feature of asymmetric, is that your travels perpendicular and horizontal to the optical axis will be focused on different locations, all right, so only in the middle you will find it's very spherical, whereas there is no elongation along any of the directions, but then it's not clear, all right, because asymmetric is there, you're not really focused there, all right, all right, so lastly, we finally get there, determination of the instrumentation spatial resolution, all right, now by now you probably will realize the resolution of the microscope is never determined, right, optical limit, all right, we're good with that, but then your optical system, all right, do have an effect, that includes the smallest electron probe size, you can achieve, that you can sum it up, all right, and then your lens system, whether there's aberrations in there, all right, will spread beam of it, all right, and lastly, we haven't talked about also there's the issue of the signal reporting process, but then before we reach here, we'll also mention there's a problem with the interaction volume, all right, so these are the four things
+总是存在这种潜在问题，好吧，但由于这种不对称的结果，你总是可以佩戴能够抵消它的眼镜，从而完全矫正，所以不对称是可以完全矫正的，好吧。但这里有一张展示这种效应的图片。当然，你必须进行对焦。当存在不对称时，就会出现过度对焦和欠对焦的情况。当然，图像并不清晰，但当它对焦时，你会看到非常清晰的图像。但如果存在像散，就会出现欠焦和过焦，好吗？欠焦和过焦，你会看到图像在某个方向上发生拉长。所以这个方向上图像会拉长，而那个方向上也会拉长，它们彼此相差90度。所以，这就是非对称性的一个特征：垂直于光轴和水平于光轴的光线会被聚焦在不同的位置。只有在中间，它才会呈现非常球面的形状。而在任何方向上都没有拉长，但这样还不清楚，对吧？因为存在非球差，所以这里实际上并没有真正聚焦，对吧？好，最后，我们终于讲到这里了。仪器空间分辨率的确定。好，到目前为止，你们可能已经意识到，显微镜的分辨率永远无法达到光学极限，对吧？这个我们已经讲清楚了，但接下来是你们的光学系统，好，确实会产生影响，包括你能达到的最小电子探针尺寸，可以把它总结起来，然后你的透镜系统，其中是否存在像差，会扩展它的光束，好的，最后，我们还没有谈到信号报告过程中的问题，不过在此之前，我们也会提到相互作用体积存在一个问题，好吗？所以，这就是四个问题。
+
+[1:35:34]
+that determine ultimately the resolution of the SVM, all right, now last part, all right, is how the detector works, all right, now we say the general principle is very straightforward, and you have a simulator, or you have a two by two array, all right, two-dimensional arrays, all right, of detectors, now you can report the electrons in a spatially different manner, all right, just like this, all right, now what happens is that, all right, you can consider your view screen or your collector, all right, is a two-dimensional array, all right, with individual pixels of different sizes, all right, if you map it to the samples that you actually have that may have actually one to one correlations, all right, so this region refers to this region, all right, so how many pixels you have on your CRT is actually how many pixels that you have, on the space events only, the size of the pixels will be different, and the two of them are linked with the magnification, all right, so you can imagine that way, now what matters is that, now you have a detector with certain pixel size that is obviously important for eventual resolution of the image, all right, but at the same time we also mention your probe size matters, how do we understand that, all right, now we look at two different situations, then one situation is that, all right, if we look at the sample, now we have the corresponding pixel size defined by the small open circles, now I mean here's an electron probe with much larger size and covering a number of pixels on the specimen, what's going to happen, what's going to happen, for our average you can tell, right, I should be able to get a finer information, but I didn't, because my probe is too large, that counts as a drop, all right, now on the opposite, if you use a very small electron probe with much smaller than the size of the pixel, then I can obtain what's going to happen, but because the smallest size I can collect signal with is determined by my pixel, right, so if I only
+最终决定SVM分辨率的四个因素，好。现在最后一部分是探测器的工作原理。好，我们说，总体原理非常简单，你有一个模拟器，或者你有一个二乘二的阵列，对吧，也就是二维的探测器阵列。现在，你可以以不同的空间方式报告电子，就像这样。那么接下来会发生的是，好的，你可以把视屏或收集器看作一个二维阵列，其中各个像素的尺寸各不相同。如果你把它映射到实际存在的样本上，它们之间可能确实存在一一对应关系。好，所以这个区域对应这个区域，好。所以，你的 CRT 上有多少个像素，实际上就是你有多少个像素。对于空间事件，像素的大小会有所不同，而它们与放大率有关。好的，所以你可以这样理解。现在重要的是，探测器有一定的像素尺寸，这显然对最终的图像分辨率很重要。好的，但与此同时，我们也提到探针的尺寸很重要。我们该如何理解这一点呢？好，现在我们来看两种不同的情况。第一种情况是，好，如果我们观察样品，现在我们用小实心圆表示相应的像素尺寸。这里有一个尺寸大得多的电子探针，它会覆盖样品上的多个像素。会发生什么？会发生什么？对于平均值，你们可以看出来，对吧？我本应能够获得更精细的信息，但我没有，因为我的探针太大了，这就相当于分辨率下降了。好，现在反过来，如果你使用一个比像素尺寸小得多的电子探针，那么我就能获得……但因为我能收集信号的最小尺寸是由我的像素决定的，对，所以如果我只……
+
+[1:37:39]
+have that part of the small information, it means all the rest are background noise, so my signal to noise ratio is very low, in that case I still don't get the best resolution, so the best resolution is actually obtained, all right, with some matching pixel size to the electron probe size, all right, so that's the case you will be able to get the best resolution, all right, now of course, all right, this is the resolution we talked about, the secondary electron image, all right, if you are using the best scattered electrons, remember the interaction volume issue, all right, this resolution is getting poor, all right, due to the large interaction into the electron probe and your sample considering that scattered electrons, all right, now composition difference, this is a kind of mentioned, all right, so best scattered electrons still have a dependence, all right, on the atomic member, but as the secondary electrons doesn't have, all right, so with this, what you will be able to see is the actual image, all right, is a panicle difference that can be told by the best scattered electrons, but not in the secondary electrons, all right, so here we have iron particle in carbon, all right, now in the secondary electrons, this I haven't talked about, you will be able to see the surface topographies, all right, but then in the best scattered electrons, other than the surface topography, you can see a bit, you can see a strong contrast coming from the iron particles that you see here, because this is much heavier than carbon, all right, so you can tell the difference, yeah, the best scattered electrons, and the last part is a bit explanation of what kind of information you can see from a secondary electron image, all right, so what is in there, secondary electrons, this is depending on three different principles, one is so-called the edge or spike effect, all right, so it tells you the pointed spike or edge show higher secondary electron emissions, you have an edge in there, electron emissions are
+只获得那部分小信息，就意味着其余部分都是背景噪声，因此信噪比非常低。在这种情况下，我仍然无法获得最佳分辨率。所以，最佳分辨率实际上是在像素尺寸与电子探针尺寸相匹配时获得的。这样就能获得最佳分辨率。当然，好的，这就是我们刚才谈到的分辨率，也就是二次电子图像。如果你使用最佳散射电子，记住相互作用体积的问题，这种分辨率会变差。由于电子探针与样品之间的大范围相互作用，考虑到散射电子，分辨率会变差。现在来看成分差异，这一点之前也提到过。因此，最佳散射电子仍然存在依赖性。取决于原子成分，但二次电子则不取决于原子成分。所以这样一来，你就能看到实际的图像。是可以通过背散射电子分辨出来的颗粒差异，但二次电子无法分辨，好吗？所以这里有一个碳中的铁颗粒，好吗？现在在二次电子中，这个我还没讲过。在二次电子中，你可以看到表面形貌，对吧？但在最佳散射电子中，除了表面形貌，你还可以看到一点……你可以看到这里铁颗粒产生的强烈对比，因为铁比碳重得多，对吧？所以你可以分辨出来。对，背散射电子，最后一部分是对次级电子图像中能看到的信息做一些说明。好，那么里面是什么？次级电子。这取决于三个不同的原理。一种是所谓的边缘或尖峰效应。好的，它告诉你，尖锐的尖峰或边缘会产生更高的二次电子发射。这里有一个边缘，电子发射……
+
+[1:39:42]
+higher, in condition effect, so if you have more, if you have an angle of incidence, we increase the angle of the incidence of the electron beam, all right, then your secondary electron emissions will be higher, all right, now last one will be the shadowing effect of the detector, all right, now here. We have a bit of ground field suspicions, which is easier to understand, all right, now if you look at the incident electrons, all right, with this inclination effect, we consider, electrons are collected from location C, B, and A, so you see is actually the edge, the so-called edge effect, and that has the highest electron emission, secondary electron emissions, all right, then B part, compared to A part, is that now in this case, electrons come instantly, electrons come in in straight lines, or then you raise away from the surface, and here you have the inclination, because the surface is tilted, so in this case, this tilted surface, or enlarged inclination angles, always also give you a bit more secondary electrons in terms of generation, so this is also a bit bright, although not as bright as C, A will be the brightest color, so in this case you will expect to see the brightest contrast here, followed by here, and the darkest in here, and then in this case you will see, oh, the surface up and downs, all right, as you can tell, from the pictures, now the last one, the so-called shadowing effect, this is because the secondary electron detectors are actually sitting on the side instead of on top of the surface, all right, so if you consider, you have a spike like the picture, all right, the electrons come and traveling from this side, of the picture, compared to this side of the picture of this one, that will split the distance, that lower chance of being lost, and this one has to travel longer distance, so you have more chance to be to get lost, so as a result, when you picture this one, you will have a bright contrast on this side, and dark contrast on the other side, all right
+更高，这是条件效应。所以，如果……如果入射角……我们增大电子束的入射角，那么二次电子发射就会更高。最后一种是探测器的遮挡效应，好，现在这里。我们有一个比较容易理解的地面场效应，好，现在如果观察入射电子，好，对于这个倾角效应，我们考虑电子是从 C、B 和 A 位置收集的，所以，你们看到的是边缘，也就是所谓的边缘效应，那里有最高的电子发射，也就是二次电子发射。然后，与A部分相比，B部分……在这种情况下，电子会立即到达，电子以直线射入，或者它们会从表面抬高，而这里存在倾角，因为表面是倾斜的。所以在这种情况下，这种倾斜表面，或者放大的倾角，在二次电子的产生方面，也会稍微多一些，所以这个也会稍微亮一些，虽然没有 C 亮，A 会是最亮的颜色。所以在这种情况下，你会看到这里对比度最亮，然后是这里，这里最暗。接着你会看到，哦，表面的起伏，好。正如你们从这些图片中看到的，最后一种所谓的遮蔽效应，是因为二次电子探测器实际上位于侧面，而不是表面之上。好。所以，如果你考虑一下，假设有一个像图中这样的尖峰，电子从图中这一侧过来并行进，与这一侧相比，这会拉开距离。……被损失掉的概率更低，而这个必须行进更长的距离，所以被损失掉的概率更高。因此，当你拍摄这个时，这一侧会有高对比度，而另一侧会有低对比度，好吗？
+
+[1:42:01]
+, so this is the so-called shadowing effect, now with that, you will be able to look at, all right, the surface topography features of a sample, for example, this you would expect these are the compositions, all right, and the sharp edges, and also these are the inner holes that are going down, all right, and giving the type of contrast that you see, all right, the last is kind of an interesting advancement of SDM, I understand, SDM has to be operated in vacuum, which is actually not true, I mean, in vacuum, yes, but not very high vacuum, it's also okay, all right, and let's see how this will work, all right, this advancement actually is done from a knee, the knee is that when you have insulating samples, putting in the scanning electron microscope, in most cases you don't get very good images, due to the charging effect, all right, so what happens is that, all right, you have the incoming flux of electrons into the samples, and the sample is non-conducting, all right, it's non-conducting, this is a fully coated, all right, fully coated means you make the conductive layer on the surface, so if it's not conducting, or electrons will be accumulated on the surface of the sample after a while, all right, so if you have electrons accumulated on the surface, which can happen, that creates the intrinsic electrical field, and you have further electrons coming, this can happen, but if you recall it, all right, that's the problem, all right, make further imaging very difficult, this is a not very good comparisons, I don't know if you will be able to see that, so here you see some sort of a layered structures, in there, all right, so this is actually caused by charging effect, all right, so charge, release the charge, this kind of effect, so the true morphology should be like this, there's no layer dependence at all, okay, and a way to do it is, of course, you can put a coating on the surface, conductive coating on the surface of the sample, if you can do so, all right, that will solve the problem, however,
+，所以这就是所谓的遮蔽效应。有了它，你就可以观察样品的表面形貌特征。例如，你会预期这些是成分，对吧。还有锋利的边缘，以及这些向下延伸的内部孔洞。好的，这些会形成你们看到的那种对比。好的，最后这个算是SDM的一项有趣进展，我明白。SDM 必须在真空中运行，其实并不完全是这样。我的意思是，确实需要在真空中运行，但不需要很高的真空度，一般的真空也行。好，我们来看看它是如何工作的。好。这一改进实际上源于一个难点。难点在于，当把绝缘样品放入扫描电子显微镜中时，大多数情况下由于电荷效应，无法获得清晰的图像。好。所以会发生的情况是，电子会入射到样品上，而样品是不导电的。它是不导电的，这是完全涂覆的，“完全包覆”意味着你在样品表面涂上一层导电层。所以，如果样品不导电，一段时间后电子就会积聚在样品表面，好吗？所以，如果电子在表面累积——这种情况确实会发生——就会产生内禀电场，而且会有更多电子继续进来，这种情况确实会发生。但如果你回想一下，好吧，这就是问题所在，好吧。这会使得后续成像变得非常困难。这个比较不太理想，我不知道你们是否能看到。这里可以看到某种分层结构，好吗？所以这实际上是电荷效应造成的。电荷……释放电荷，就是这种效应。因此，真实的形态应该是这样的，完全不依赖于层数。好的。当然，一种方法是在表面涂覆一层材料，也就是在样品表面涂上导电涂层。如果能做到这一点，就可以解决问题。不过，
+
+[1:44:18]
+for a lot of samples, you cannot put a coating on top of it, because you can damage it, all right, so in that case, people have to develop this very smart type of environmental SDM, all right, that allows the observation to be carried out in a sort of a not really vacuum condition, I shouldn't say non-vacuum conditions, all right, so those types of other very similar to the standard SDM, but the principle is that it introduces some gas molecules in there, all right, in this specific case, it's quartz molecules, all right, now, what happens is that you have the primary beams, all right, that going down to touch the sample, but before you can do so, they can go you have to go through a range of what's the molecules, that are in your eyes, all right, now, because your primary electrons are on very high energy, all right, so it doesn't have too much interaction with the water molecules, although they're there, because they're traveling too fast, they're a bit scattered, that's okay, however, when this primary electron sweeps the sample, all right, then generating secondary electrons, all right, things are different, because when the secondary electrons are coming out, these secondary electrons are all very low energy, they are going to interact with the molecules, the water molecules, so interaction is that these secondary electrons will ionize the water molecules, and then generate one electron, and what ion, okay, and then you can imagine how this is done, so one electron is generated, this electron will kick another electron from the water, and generate another water ion, and another electron, so this is an avalanche effect, in this process, a single secondary electron will generate a wall of secondary electrons, and this electrons, instead of being kicking away, due to the presence of the water molecules, its quantity is enlarged, it increased, and they will eventually be collected by the collector, so we're still good, one electron becomes a hundred electrons, a hundred electrons, all right,
+对于很多样品，你无法在上面涂覆一层，因为可能会损坏它们。那么在这种情况下，人们就必须开发一种非常智能的环境SDM，好吗？这使得观测可以在一种并非严格意义上的真空条件下进行——我不应该说是非真空条件——好吧，所以这些类型与标准SDM非常相似，但其原理是将一些气体分子引入其中。在这个特定案例中，是石英分子。现在，发生的情况是，你有初级束，向下照射到样品表面，但在照射之前，它们必须穿过一系列……你们眼前是什么分子？好，那么，因为入射电子的能量非常高，所以它们与水分子的相互作用并不太强。尽管水分子确实存在，但由于它们的运动速度太快，会稍微发生一些散射，这没什么问题。然而，当这些初级电子扫描样品时，就会产生次级电子。情况就不一样了，因为次级电子出来时，它们的动能都非常低。它们会与分子，也就是水分子发生相互作用。这种相互作用是，这些次级电子会使水分子电离，然后产生一个电子和一个离子，好吗？然后你可以想象这是如何发生的：产生一个电子后，这个电子会从水中再电离出一个电子，从而生成另一个水离子和另一个电子。所以在这个过程中，这就是一种雪崩效应。一个次级电子会形成一整层次级电子，而这些电子不会因为水分子的存在而被逐出，而是数量会扩大、增加。它们最终会被收集器收集，所以还是没问题的。一个电子变成一百个电子，一百个电子，好。
+
+[1:46:40]
+so what happens to the water ions once they're generated, remember when I say, the surface of your sample is now covered with a layer of negative charge, all right, now we have added a potential on the sample surface, now it's going to drag, all right, the positive charge of water ions towards the sample surface, and at that location, the negative charge and positive charge is going to be neutralized, all right, and they become water again, all right, so that's the whole process, now you see the trick of this is that you introduce something in there, all right, and the primary electrons there are not effective, because they're traveling too fast, but then the secondary electrons, which are traveling slow, will cause this avalanche effect, all right, so their quantities are enlarged, so their signals are not effective, but at the same time, that create a quantity of ions neutralized, the negative specific charge, that are built up on the surface of the sample for this insulating sample, all right, so that perfectly solves the problem, and that allows for what we showed the two mediums, let me see, 不是好强啊 that you will be able to see live props or something, all right, so it's observed in SDM, and the other is not, that it consists of a pair, all right, so you have a piece of hair, and this is the water that coming from the squeezing, and that's go vacuum through the surface of the hair, all right, so this is the direct evidence that that water actually is allowed, think about it, it's a vacuum water, will be neutralized, all right, will not be there, now you can have water in the chamber, all right, so that allows a lot of versatile type of experiments to be carried out in the SDM, all right, now let's see, okay, we're learning a little bit late, let me, let's stop here for 55 minutes, take a break, all right, after we continue with a little bit on the transmission electron microscopy simple reduction, that we're going to move the class walk today, okay.
+那么，水离子一旦生成后会发生什么？还记得我说过，你的样品表面现在覆盖着一层负电荷。好，现在我们在样品表面施加了电势，它就会把水离子拖……好的，水离子的正电荷会被吸引到样品表面，在那里，负电荷和正电荷将会中和，好。它们又变成水了。好，这就是整个过程。现在你们看，这里面的诀窍是，你往里面加入某种东西，好的，而那里的初级电子并不有效，因为它们的运动速度太快了。但随后，速度较慢的次级电子会产生这种雪崩效应，好的，所以它们的数量被放大了，因此它们的信号是有效的。但与此同时，这会产生大量被中和的离子，负比电荷，这些电荷会在绝缘样品的表面积累，好。所以这完美地解决了问题，并且能够实现我们刚才展示的两种介质，让我看看，不是很强啊，这样你就能看到现场道具之类的。好的，所以这在SDM中是观察到的，而另一种则没有。它由一对组成，好的，所以你有一根头发，而这是从挤压中产生的水，然后它会穿过头发表面的真空，好吗？所以这是直接证据，证明水确实会被允许……想想看，真空中的水会被中和，好吗？就不会存在了。现在你可以在腔室里放水，好吗？所以这使得可以在SDM中进行很多种多用途的实验，好吗？现在我们来看一下，好吧，我们学习得有点晚了，让我……我们先到这里，休息55分钟，好吗？之后我们继续讲透射电子显微镜和简单的还原。今天我们要移动一下课堂，好吗？
+
+[1:57:57]
+Yeah, I can try. So, so—so these are the major microscopy users, and in terms of the team development, I, um, want to have two vendors first among your earlier tiniest varieties.
+好的，我可以试试。所以，这些是主要的显微镜用户。至于团队发展，我，嗯，想先从你们早期最小的几个品种中选择两家供应商。
+
+[1:57:58]
+就那个流星有点奇怪，吃不习惯。
+That meteor thing was a bit weird. I couldn’t get used to eating it.
+
+[2:00:22]
+Across the topic of electron microscopy, particularly I was published in 1977 and the Bible of the year, right, and that was my regular writing color in hardcovers, right, so amazing thing about that book is that it's old, the technology is that we're talking about in that book is a bit obsolete, right, if you look at the microscopy work today, but then everything on that, everything was correct, right, so it's quite amazing though. I, uh, this is a very popular tech technology, but then if you compare scanning electron microscope pass, which is mentioned in the transmission electron microscope, you see the two of them are actually very similar, right, the only difference is probably this is a shorter, right, this is a taller, and the reason is quite straightforward, right, because SEM, you write, you collect all the information from the top surface of the sample, right, so for TEM, what you have to do is that now you have to add the bottom parts because everything is collected from the back surface of the sample, you have to have electrons to pass through, right, and because of that, you also have to have a few different things, right, in the optical pathways to use allowing different functions to be executed, right, now here is a table, quickly compare the difference between scanning electron microscope and transmission electron microscope, the most distinct difference is that for SEM usually works on 10 to 14 kilovolts, which is not very high energy as a matter of fact, right, the reason is straightforward, right, because you don't want to, you don't need the electrons to pass through the sample, right, you don't have to be that high energy, but for TEMs we have microscopes with energy ranging from 80 to over 1,000 actually, 10,000 KVs are also available in there, but it's very rare of course, right, and samples took about 3 years change, and in terms of the signals, now we just mentioned we have based on the secondary and back secondary electrons, right, one is least el
+关于电子显微镜这个主题，尤其是我1977年出版的那本，堪称年度经典，对吧？那是我经常写的一本精装书，对吧？这本书令人惊叹之处在于，它很旧，我们在这本书里讨论的技术，如今已经有些过时了，对吧？如果你看看今天的显微镜研究，就会发现，但当时书里的所有内容都是正确的，对吧？所以还是很了不起的。呃，这是一种非常常见的技术，但如果你比较一下扫描电子显微镜和透射电子显微镜中提到的扫描电子显微镜，你会发现两者其实非常相似，对吧？唯一的区别可能是这个更短，对吧，这个更高，原因很简单，对吧，因为扫描电子显微镜，你会写，你会从样品的顶表面收集所有信息，对吧，所以对于透射电子显微镜，你必须把底部也加进去，因为所有信息都是从样品的后表面采集的，电子必须穿过样品，对吧？而且因为这个原因，光学路径中还必须有几种不同的东西，对吧，以便实现不同的功能，对吧？现在这里有一张表，快速比较一下扫描电子显微镜和透射电子显微镜之间的区别。最明显的区别是，扫描电子显微镜通常在10到14千伏下工作，实际上能量并不算高，对吧？原因很简单，对吧？因为你不希望，你不需要电子穿过样品，对吧？你不需要那么高的能量。但对于透射电子显微镜，我们使用的显微镜能量范围实际上从80千伏到1000千伏以上，甚至也有1万千伏的，不过当然非常罕见，对吧？而且样品大约需要三年才能更换。至于信号，刚才我们提到，我们基于二次电子和反向二次电子，对吧？一种是最少的 el
+
+[2:02:29]
+astic, and the other is elastic, this one is coming from your sample, and this one is coming from the primary, right, but then for the TEM works you actually analyze this is always the primary one, right, which has maybe been that are coming from the source, but then that experience quotes elastic and least elastic scattering was the samples, so we can analyze quotes as part of the transmissions, and that gives you the problem of the structures of materials and also the crystal structures of materials, as well as the defects, right, now one of the major difference as you will see here is that for SEM for here the image resolution you come at a little bit and hope you still remember what determines the image resolution of an SEM, you see there are a few, we have the electron band as the source, right, now we have the band system, right, we have the detection system, and also the sample electron beam interaction volume, right, so that's the issue, okay, but now here in TEM you see things a little bit different, right, because what I put here is electron instead of nanometers, so you see much improved the spatial resolution, and you can think about where does it come from, first of all, the sample interaction volume is no longer there, why, because the sample is so thin, right, so we don't allow interaction volume in the TEM sample anymore, that's done, right, that's always that is that remaining, it's not matter anymore, right, now the only thing that is the electron band source, right, and the second thing is that the lens system, right, the lens system, so in this sense, right, both of them are electron microscopes, right, even TEM can't have a spatial resolution done to electron, that means the SEM
+弹性散射，另一个是弹性散射。这个来自样品，而这个来自初级电子，对吧？但对于透射电子显微镜，你分析的实际上始终是初级电子，对吧？这可能是来自源的，但随后，经验表明，弹性散射和非弹性散射来自样品，因此我们可以将其作为透射的一部分进行分析。这使我们能够研究材料的结构、晶体结构以及缺陷，对吧？现在，正如你们将在这里看到的，两者之间的一个主要区别是，对于扫描电子显微镜，这里的图像分辨率会稍微……希望你们还记得，什么决定了扫描电子显微镜的图像分辨率。你们可以看到，有几个因素：电子束作为源，对吧？现在我们有带电系统，对吧？我们有检测系统，还有样品与电子束的相互作用体积，对吧？所以这就是问题所在。好的，不过现在在TEM中，你们看到的情况略有不同，对吧？因为我这里写的是电子，而不是纳米，所以你们可以看到，空间分辨率得到了显著提高。你可以想想这是从何而来。首先，样品的相互作用体积已经不存在了。为什么？因为样品非常薄，对吧？所以在TEM样品中，我们不再允许存在相互作用体积。这就完成了，对吧？剩下的就只有这个了，已经不重要了，对吧？现在唯一的就是电子束源，对吧？第二件事是透镜系统，对吧？透镜系统，所以从这个意义上说，两者都是电子显微镜。即使是透射电子显微镜，也无法达到电子的分辨率。这意味着扫描电子显微镜……
+
+[2:02:26]
+写了本书。
+Wrote a book.
+
+[2:02:36]
+But then people are not into that for reasons, very simple, because the researchers are not into interactions, what's the point of a really
+但人们并不热衷于这个，原因很简单，因为研究人员并不研究相互作用，那么真正……有什么意义呢？
+
+[2:02:42]
+Right, people don't do that for SEM, it's not made as
+对，人们不会用扫描电子显微镜来做这个，它不是为了……
+
+[2:02:46]
+你要他的那个参考书目不错，参考书目。
+His bibliography is good. Bibliography.
+
+[2:03:20]
+Reference is not worth it, right, so for improving the optical system when people forget this electron range of this big resolution and only do have a bit discussion on that in the later slides, right, now we're going to look parts by parts in order to understand a bit of the difference in between the TEM and SEM, so if you look at the front, the top part, it's very similar, right, for TEM you still have the electron band, right, and it has to pass through a l
+参考文献不值得，对吧？所以，为了改进光学系统，当人们忘记这个大分辨率的电子范围时，后面几页幻灯片里只有一点关于这一点的讨论，对吧？现在我们将逐部分来看，以便稍微了解透射电子显微镜（TEM）和扫描电子显微镜（SEM）之间的区别。如果你看正面，也就是顶部，它们非常相似，对吧？对于TEM，你仍然有电子带，对吧，而且它必须穿过一个……
+
+[2:05:36]
+ens system which is basically so in the electron beam more diversion, conversion, parallel, right, so you have lens systems, but that lens system also exists, SEM, so they're pretty much the same, now of course you say, for electron band, TEM operate at much higher voltage, which is true, right, so this usually works at over 100 KV, SEM is a potential state, okay, the difference comes here, right, when you have the sample, of course the sample needs to be thin, right, and because the sample after the beam pass the sample you collect all the signal from the back surface of the sample, so the sample cannot be standing still on something, you have to make sure all the pathways are leaved open, right, because you're collecting electrons, so you have to instead of an SEM you're just stuck to a sample on the table, right, now you have to put a holder in, right, the sample doubling in the between and letting electrons to pass through the sample and collect the electrons, from there, okay, so you have to have sample holders, right, holding sample signals, and for this reason, right, the sample holder is actually very small, so this size of the ring is about 3 millimeters in diameter, right, that small, right, so that's a typical size of the sample, now of course nowadays this is a only same version of the sample holder, right, and allow you if you put the sample in a bottle and the sample holder can be tilted either this way or that way or rotated or moving, right, in the X-Y directions, right, now nowadays, right, people have a lot of different designs to put the samples, for example, you can see there are electrical circuits, right, you can make some sample holders which are allowing the current to pass through the samples while doing electron microscopy, and this one is was a small chamber, right, sitting in between these ridges, right, and that chamber could allow gas or liquid to flow through and allowing certain chemical reactions to be observed during the microscopy process,
+透镜系统，基本上，电子束要经过更多的偏转、转换和平行化，对吧？所以有透镜系统，但SEM中也有这种透镜系统，所以它们基本上是相同的。当然，你可能会说，对于电子束，TEM 的工作电压要高得多，这是正确的，对吧？所以它通常在 100 kV 以上运行。SEM 是一种势态，好吧，区别就在这里，对吧？当你有样品时，当然，样品需要很薄，对吧？而且因为电子束穿过样品后，你会从样品的后表面收集所有信号，所以样品不能固定在某个东西上，你必须确保所有路径都畅通，对吧？因为你要收集电子，所以你不能像扫描电子显微镜那样，把样品直接放在桌子上，对吧？现在你得放上一个样品架，对吧？样品架把样品夹在中间，让电子穿过样品，并从那里收集电子，好吗？所以你必须有样品架，对吧？固定样品信号。因此，样品架实际上非常小，这个圆环的直径大约为3毫米，非常小。所以，这是样品的典型尺寸。当然，如今这种样品架只有一个版本，对吧？它允许你把样品装在瓶子里，然后样品架可以朝这边或那边倾斜，或者旋转、移动。对，在X-Y方向上，对。如今，人们设计了各种不同的样品放置方式。例如，你可以看到这里有电路，对。你可以设计一些样品架，让电流在进行电子显微镜观察时穿过样品。这个是一个小腔室，对吧，位于这些脊状结构之间，对吧。这个腔室可以让气体或液体流过，并在显微镜观察过程中观察某些化学反应。
+
+[2:05:33]
+right, you have all this interesting settings allowed.
+对，所有这些有趣的设置都是允许的。
+
+[2:05:35]
+它能不能断一断。
+Can it be broken down into sections?
+
+[2:05:42]
+To take place in the microwave, right, so that's simple, right, so if you look at the
+在微波中发生，对吧？所以这很简单，对吧？所以如果你看这个……
+
+[2:05:41]
+稍微等一下。
+Wait a moment.
+
+[2:05:46]
+Right, after you have the samples, right, you still have a few lens.
+对，拿到样品之后，对吧，你还有几个镜头。
+
+[2:05:48]
+翻译还是可以的。
+The translation is still fine.
+
+[2:07:36]
+Changes before is received by the string, but then in the middle, we have a few amplitudes, right, which is not specifically mentioned in the SEM, and these amplitudes are you'll ask there's an amplitude between these different here objective amplitude and this objective area amplitude, and they have different nodes in there, right, so amplitudes and what I'd like to tell about here okay, so three amplitudes, where are they, right, they are actually sitting, especially for this two, they're sitting on a very special locations in the electron microscope, right, so this has to, in order to understand where are they, we have to go back to explain the optical settings of the microscope, not necessarily the nature microscope, it's the same for any microscope, right, in general, right, so there are very important locations for a microscope, right, one is where you put your material or sample, so this is supposed to be known as the objective plate, right, and then if you put the object there you know there must be an imaging plate, right, so you say you put the objective the sample on the objective plate, the right plate, then on the imaging plate you should be able to get a inverse large image of the object, so this is what we learned from the logo lens, right, but then other than this, you actually have a very important location which is known as the macrophone plane of the microscope, right, so using the part that we draw before,
+变化之前由字符串接收，但中间有几个振幅，对吧，而 SEM 中并没有明确提到这一点。这些振幅，你会问，这些不同的振幅之间有一个振幅，这里是目标振幅和这个目标区域振幅，它们有不同的节点，对吧？所以振幅，以及我想在这里说明的，好吧，所以有三个振幅，它们在哪里呢？对，它们实际上位于——尤其是这两个——位于电子显微镜中一些非常特殊的位点，对吧？所以要理解它们位于何处，就必须……我们必须回到显微镜的光学设置来解释，不一定是自然显微镜，任何显微镜都是一样的，对吧？一般来说，对吧？显微镜中有一些非常重要的位置，对吧？一个是你放置材料或样本的位置，所以这应该被称为物镜台，对吧？然后，如果你把物体放在那里，你知道那里必须有一个成像台，对吧？所以，你把样本放在物镜板，也就是右板上，然后在成像板上应该能看到物体的倒立放大图像。所以，这就是我们从物镜中学到的，对吧？但除此之外，还有一个非常重要的位置，称为显微镜的物平面，对吧？所以，利用我们之前画出的那部分，
+
+[2:07:32]
+我们三点。
+We’re at three.
+
+[2:07:38]
+So we have a lens here, so this lens
+所以我们这里有一个透镜，所以这个透镜……
+
+[2:07:42]
+我先出去我去拿我的充电器。
+I’ll go out first. I need to get my charger.
+
+[2:07:44]
+Locations,
+位置，
+
+[2:07:48]
+我们直接。
+We’ll just go straight in.
+
+[2:08:00]
+Right, and this locations, right, is known as this position is the structural complaint, and this position is known as the angle complaint.
+对，而这些位置，对，这个位置称为结构缺陷，这个位置称为角度缺陷。
+
+[2:08:04]
+就是应该这样
+That’s how it should be.
+
+[2:08:09]
+You have parallel beams coming, right,
+有平行的射束射来，对吧，
+
+[2:08:08]
+我们前面说的是。
+What we said earlier is...
+
+[2:08:32]
+It will be converged at the focal point of the macro complaint, right, so and if you are putting your object at any locations, right, it's supposed to get inwards in large image, right, the best in-focus position is that you put your object
+它会汇聚在宏观像差的焦点处，对吧？所以，如果你把物体放在任意位置，对吧？它应该会向内成像，对吧？最佳对焦位置是把物体放在……
+
+[2:10:44]
+on the front focal plate, right, so these are the old textbook informations that you will learn from a common optical system, right, but here for electron microscope we're using wave optics, so it's the same, it's the same thing, the longer lens you hold, right, so here what I want to stress is that this location, right, the left focal plane is an extremely important location, right, because later on you'll see when you connect something for the diffraction pattern of the material, and that will happen on the back focal plane of the microscope, right, now we're getting into that with the other understand why we're going to explain why is that, and we're going to also look at short experiment to see that really happens, okay, but now for now you just have to remember this then, macro complaint, right, now who is on the macro complaint, the objective amplitude sitting on the macro complaint, right, now of course you have an imaging plane for your microscope system, now who is sitting on the imaging plane, select the area amplitude, right, so these are the special locations of these amplitudes, right, now of course unless the amplitudes happens much earlier on the sample, right, so I say we say amplitudes, what are amplitudes for the amplitude described, amplitudes or poles basically, right, so if you have small poles that means what, you only allow direction things to pass through the hole and outside hole is all blocked, so that's the whole idea of the amplitude, right, but then the electron microscope amplitude is much more important than that, right, now earlier we mentioned something as a spherical aberration, right, hopefully you remember, we say that system is not perfect, we have a pretty important elastic pretty important aberrations when the spherical aberration kinetic aberration and elastic mechanism, right, so we say estimation can be get rid of, but I didn't talk about the first two, the first two will be trouble to get rid of it, especially the kinetic aberration,
+在前焦平面上，对吧？这些是你们通常会从普通光学系统中学到的教科书信息，对吧？但在这里，电子显微镜使用的是波动光学，所以它是一样的，是一样的东西。你拿着的镜头越长，对吧？所以在这里，我想强调的是，这个位置，对吧，左焦平面是一个极其重要的位置，对吧。因为之后你会看到，当你连接一些东西来获取材料的衍射图样时，它会出现在显微镜的后焦平面上，对吧？现在我们就要讲到这一点。我们还会解释为什么，也会做一个简短的实验，看看这究竟是如何发生的。好的。但现在你只需要记住这一点，物镜，对吧？那么谁在物镜上？物镜的振幅位于物镜上，对吧？当然，显微镜系统有一个成像面。那么，谁位于成像面上呢？物镜，对吧？所以，这些就是这些透镜的特殊位置，对吧？当然，除非这些振幅在样品上发生得更早，对吧？所以我说到振幅时，指的是什么振幅？振幅或极点，基本上，对吧？所以，如果你有小极点，那意味着什么？你只让某些方向的电子通过孔，孔外的电子全部被挡住。这就是相位板的全部原理，对吧？但电子显微镜中的相位板远比这重要，对吧？刚才我们提到了球差，对吧？希望你们还记得。我们说过，光学系统并不完美。球差、像散和色差是相当重要的像差，对吧？所以我们说，可以消除球差，但我没有讲前两种。前两种很难消除，尤其是像差。
+
+[2:12:57]
+right, but people can do something for the spherical aberration is very important, right, ultimate resolution of the microscope. But of course besides an amplitude you play a role here as well, right, so the role of amplitude I would love to go through, right, the main role is to limit the collection angle of the lens, right, because you can really control the image contrast, then the collection contaminates, right, right, so these are the locations of the amplitudes, right, and here we're going to look at the discussion of the resolution, now as said, right, the resolution of a transmission electron microscope can be much, much better than a scanning electron microscope, right, now we understand, so we don't have to think about the fundamental limit, right, but then we have to care about what else is in here, now what else in there is actually the spherical aberration that caused the beam to enlarge the probe, enlarge of it, right, so here I give you the overall resolution that I consider the related limit together with the contribution from the spherical aberration, right, now as you will see that this term is pretty much you can forget about it, right, the real term is this line, so if you can reduce the CS which is known as the spherical aberration coefficient, right, you can significantly enhance the resolution of the microscope, by the way, to do some calculations and use the factor result, it tells you, right, your point resolution in a microscope is determined, right, by the spherical aberration coefficient is still affected by the wavelengths of the electrons, the shorter the better is always the case, right, so that's pretty much then you can have sort of estimation of how good it can be, right, so spherical aberration has really this chart here, right, tell you the events is not perfect sphere, so for those troubles on and off axis we'll be focused at different locations, right, and you will say, so if this is an intrinsic feature of the spherical lens, spherical
+对，但人们可以采取一些措施来应对球差，因为球差非常重要，对吧，它会影响显微镜的最终分辨率。但当然，除了振幅之外，相位在这里也起作用，对吧？所以我想讲一下相位的作用。主要作用是限制透镜的收集角，对吧？因为你可以真正控制图像对比度，然后收集光会受到污染，对吧，对吧。所以这些就是振幅的位置，对吧？在这里，我们要讨论分辨率。正如刚才所说，对吧，透射电子显微镜的分辨率可以比扫描电子显微镜高得多，对吧？现在我们明白了，所以不必考虑其基本极限，对吧？但接下来我们还得关注这里面还有什么。那么，里面还有什么？其实就是球差，它会导致电子束使探针变大，扩大它，对吧？所以这里我给出的是整体分辨率，其中考虑了相关极限以及球差的贡献，对吧？现在你会看到，这个项基本上可以忽略，对吧？真正起作用的是这一项，所以如果你能减小 CS，也就是所谓的球差系数，对吧，你就能显著提高显微镜的分辨率。顺便说一下，进行一些计算并利用因子结果，它会告诉你，对吧，显微镜的点分辨率由球差系数决定，对吧，而球差系数仍然受电子波长的影响。越短越好，这一点总是成立的，对吧？所以基本上，你就可以大致估算出它能达到的效果有多好，对吧？所以球差确实有这张图，对吧？告诉你，电子不是完美的球体，所以对于轴上和轴外的那些问题，我们会在不同的位置聚焦，对吧？你会说，那么如果这是球面透镜固有的特性，球面……
+
+[2:15:04]
+aberration, right, so basically you cannot make a perfect lens, perfect sphere, that's not exist, now what you can do, right, or the idea is that you're going to add some correction, so spherical lens will produce a positive spherical aberration coefficient, so CS, this coefficient is usually in a range of millimeters, right, millimeter, two millimeters, something like that, right, so how would you be able to correct it, so if you can create a lens system that have a negative CS, you put it together, right, plus a negative, you cancel out together, so that's the way you correct the spherical aberration, and that's how people do, so who have a negative spherical aberration coefficient, hexagon lens, right, so if you have hexagon lens, right, that corresponding to a negative spherical aberration coefficient, right, so you put the two output together, right, you do adjust the right, you can have a very small spherical aberration spherical aberration coefficient, right, so the thing is that you will challenge me, say, there's no way you can just make it just right and make it zero, you're right, there's no way I can make it just zero, right, but then I can make the file the same, so put it together, now the best spherical aberration corrected microscope now have a spherical aberration coefficient in the range of python, now remember what I said just now, spherical aberration coefficients come to microscope, it's in millimeter, now I can reduce it to micron, that is close enough to zero, right, and with that, right, this kind of microscope we call the spherical aberration corrected microscope, right, the rest part of the system terminology is I tend to skip because it's so easy to follow, you can read it by yourself, they're known as the depth of image, right, and depth of the field, right, so if you skip that part and jump to the last part, right, so you need something to collect the electrons to see, right, but first of all, can you see electrons, no, you cannot see electrons because your eye doesn't have a sens
+像差，对吧？所以基本上，你不可能做出完美的透镜、完美的球体，因为这样的东西并不存在。那么你能做什么呢？对吧？或者说，想法是加入一些校正，所以，球面透镜会产生正的球差系数，也就是 CS。这个系数通常在毫米量级，对吧，一毫米、两毫米之类的，对吧？那么，你该如何校正它呢？所以，如果你能设计出一个CS为负的透镜系统，把它组合起来，对吧，加上一个负的，它们就会相互抵消。这就是校正球差的方法，人们也是这样做的。所以，谁的球差系数是负的？六边形透镜，对吧？所以，如果你有六边形透镜，对吧？它对应的球差系数是负的，对吧？所以，你把两个输出放在一起，对吧？你进行调整，对吧？你可以把球面像差系数做得非常小，对吧？问题是，你会质疑我，说：“你不可能把它调到正好为零。”你说得对。我没办法把它完全调到零，对吧，但那样的话，我可以让文件保持一致，所以把它放在一起，现在，最佳的球差校正显微镜的球差系数在 Python 范围内。现在请记住我刚才所说的内容：显微镜的球差系数单位是毫米。现在我可以把它降到微米量级，这已经足够接近零了，对吧？因此，这种显微镜我们称之为球差校正显微镜，对吧？系统中其余的术语我通常会略过，因为很容易理解，你们可以自己阅读。它们分别称为像的深度，对吧，和景深，对吧。所以，如果你跳过那一部分，直接看最后一部分，对吧？那么你需要某种东西来收集电子，以便观察，对吧？但首先，你能看到电子吗？不能。你看不见电子，因为你的眼睛没有感……
+
+[2:17:16]
+or that responds to the electrons, right, so usually if you were going to see, right, you have to transfer it to something, no, you can't read, so we are sensitive to light, so one of the ways to see directly electrons is to use a fluorescent eye, right, so electrons will come to inside the eyes, the eyes will give emissions and emits, right, so that's a very common way to actually see these electrons, like you see from the displays, of course, when you want to record the data, in electron microscope, right, you can use different recording systems, right, conventional we use photographs, so you use the negatives, right, which is made of highlight, right, and you ionize it, right, you transfer it to silver, and you have to develop into positives, so these are all the days that we do, right, we have a fun, right, but then nowadays everybody uses digital recorders, like the charge positive wires, so simulator, so that is what we do, right, and then what do we read from a transmission electron microscope, now here are the three things we read and the techniques we use, accordingly, mainly the elastic scattering electrons, right, there we do the diffraction, now of course we care about the elastic scattering electrons, we're going to learn electronic loss spectroscopy, and of course don't forget about this X-rays, that can be collected either from a p-m or s-p-n, right, or whatever you're talking about at the end of the p-m sessions, right, now this chart, which is the old slide that we use, I actually have trouble to explain because without explaining what is diffraction, right, because it's a big part to understand, but that's just quickly go through, presumably have the impression of what's going to happen, right, so the last part of it, you can forget about it, it's basically the enlargement of what you record, so the important is actually the front part, this part, right, so this is telling you, right, if you have an object, put it on the objective plane, right, the back ph
+或者对电子有响应，对吧？所以通常，如果你想看到，对吧，你必须把它转换成某种东西。不，你看不见，所以我们对光敏感。所以，直接观察电子的一种方法是使用荧光眼，对吧？电子会进入眼睛内部，眼睛会产生发射，对吧？所以，这是实际观察这些电子的一种非常常见的方法。比如你在显示器上看到的电子，当然，当你想在电子显微镜中记录数据时，可以使用不同的记录系统，对吧？传统上，我们使用照片，所以你要使用负片，对吧？负片由高光制成，对吧？然后对其进行电离，对吧？再把它转移到银上，最后必须显影成正片。所以这些就是我们过去一直采用的方式，对吧？虽然很有趣，对吧？但如今大家都使用数字记录器，比如电荷正线，也就是模拟器，所以我们就是这么做的，对吧？那么，我们从透射电子显微镜中读取什么呢？现在这里有三种读取内容以及相应的技术。主要是弹性散射电子，对吧？我们在这里进行衍射，当然，我们关注的是弹性散射电子。我们将学习电子损失谱。当然，也不要忘记这些X射线，它们可以从p-m或s-p-n中收集，对吧？或者无论你在 p-m 课程结束时讲什么，对吧？现在这张图是我们用过的旧幻灯片，其实我很难解释，因为不解释什么是衍射，对吧？因为这部分很难理解，不过我们只是快速过一遍，大概了解一下接下来会发生什么，对吧？所以最后这部分可以先忽略。它基本上就是对所记录内容的放大，所以重要的其实是前面这部分，对吧？所以这告诉你们，如果有一个物体，把它放在物镜平面，对吧，后面的 ph
+
+[2:19:27]
+oto plane of the microscope, you use the diffraction pattern of this material, the diffraction pattern of a material, it sounds very strange, right, but later on we're going to see what is that, right, then on the imaging plane you're going to see an enlarged and inverse image of this object, which is not quite popular for that, anyways, so this is the whole idea, telling you that different location of the microscope will collect a different information, right, and then there are a few different techniques we're going to encounter, one is a curriculum because the curriculum, right, as in days, curriculum is to see a lot of light, right, dark field, you see mainly dark, right, so this is, again, it's very difficult to explain at this moment because we haven't talked about diffraction yet, right, then see, you have this electron beams, further beams coming down, right, and you can imagine some of them are not refracting at all, right, so these are part of it, but others are diffracted by the constrained planes, for example, so they are, basically, everywhere, spatially distributed, now this idea is saying, these are going to collect only the transmitted beam, or collect only the diffracted beam, and use these beams for imaging, whatever you see, right, that's very easy to imagine, so if you're going to get the transmitted beam, right, so the imaging contrast will be very straightforward, right, rows does not stop electrons around, right, will attract contrast, those stuffed electrons will attract contrast, right, but if you're going to collect instead of this transmitted beam, you're going to collect the diffracted beam, right, now when you have this part to imagine, good, sort of, right, depends on who diffracted that, right, so if I'm going to collect that beam, that means I can see who diffracted that, the one who diffracted that will be bright, other parts will be dark, so this is the idea of bright field image, versus the dark field image, and this is a comparison, right
+显微镜的后焦面，你利用这种材料的衍射图案，材料的衍射图案，听起来很奇怪，对吧，但之后我们会看到那是什么，对吧。然后在成像平面上，你会看到这个物体的放大倒立像，不过这种说法不太常用。总之，这就是整个原理。告诉你，显微镜的不同位置会采集不同的信息，对吧？然后我们会遇到几种不同的技术。其中一种是课程，因为课程，对吧，就像“days”一样，课程是让大量光线通过，对吧？暗场下，你看到的主要是暗的，对吧？所以这同样很难解释，因为我们目前还没有讲过衍射，对吧？然后看，你有这些电子束，还有进一步向下射出的电子束，对吧？你可以想象，其中一些根本不会发生衍射，对吧？所以这些是其中的一部分，但其他电子束会被约束平面衍射，例如，所以它们基本上是到处分布的。现在这个想法是，它们只会收集透射束，或者只收集衍射束，并利用这些束进行成像，无论你看到什么，对吧。这很容易想象。所以，如果你要获取透射束，对吧，那么成像对比度就会非常直接，对吧。行不会让电子四处散开，对吧，会形成对比度；那些聚集的电子会形成对比度。对吧，但如果你不是收集这个透射束，而是收集衍射束，对吧？现在，要想象这一部分，好，算是吧，对吧，这取决于谁发生了衍射，对吧？所以，如果我要收集那束光，就意味着我可以看到是谁发生了衍射。发生衍射的部分会亮，其他部分会暗。这就是明场图像的原理。与暗场图像，这是两者之间的比较，对吧？
+
+[2:21:51]
+, so you can see from, there you see this image, right, there it is bright, and dark field image, the only thing that effected the electron beams are now appearing bright, the other parts are dark, right, and of course, these diffracted beams, you can collect it at high angles, at that time something magical appeared is that if the diffracted beams are collected at high angles, these beams are completely intensity of continuous of proportional to atomic member of the material, so you will see the larger the atomic member, the brighter it becomes, right, so in this case, you will be able to see the composition of the materials in a extremely high resolution at atomic scale, so here is a strong entitling oxide, right, because the strong dip, titanium, and oxygen, right, now we know strongium is a very heavy metal, followed by titanium and oxygen is a light element, and in this crystal, you see strongium is on the eight corners, you can even see it in the photo, and here you have octahedral formed with some corners having oxygen, atoms, in there, right, so if you point here as a projection, you can look at it, put your electron beams from top to bottom, so this is the projection you see, you do see the strongium atoms in there, and you sort of see the titanium which is on lower contrast than in the middle, then you don't see any of the oxygens because they're too light to be seen, right, so this way you have some atomic information, right, now please talk to us about the solution, again, it's a very difficult part to understand at the moment, but this is basically what people say, you see atomic images, right, but they're actually not atomic images, they have sort of a correlation between the atomic structures of the materials, and the contrast you see, but because you see this say, the 2D images with 3D, so telling you the location of the atomic planes, right, so these are known as the high resolution images, but they are actually the phase contrast, again, I don't explain too h
+所以你可以从这里看到这张图，对吧？那里是亮的。而暗场图像中，唯一影响电子束的部分现在呈现为亮的，其他部分是暗的，对吧？当然，这些衍射束，你可以以大角度收集。这时出现了一个神奇的现象：如果以大角度收集衍射束，这些衍射束的强度完全取决于材料中原子的种类，因此你会看到，原子种类越大，它就越亮，对吧？所以在这种情况下，你将能够以极高的分辨率、在原子尺度上观察材料的成分。这里是一个强实体氧化物，对吧？因为是强二……钛和氧，对吧？现在我们知道，锶是一种非常重的金属，接下来是钛，而氧是一种轻元素。在这个晶体中，你可以看到锶位于八个角上，甚至可以在照片中看到。这里形成了八面体，有些角上有一些氧原子，对吧？所以如果你把这里作为投影，就可以观察它，让电子束从上到下穿过，所以这就是你们看到的投影。你们确实能看到里面的锶原子，也能大致看到钛原子，只不过它的对比度比中间的低一些。然后你看不到任何氧原子，因为它们太弱了，无法被看到，对吧？所以这种方式可以提供一些原子信息，对吧？现在请再给我们讲讲这个溶液。这部分目前很难理解，但基本上就是这么回事：你们看到的是原子图像，对吧，但它们其实并不是原子图像。材料的原子结构与你看到的对比度之间存在某种关联。但因为你会看到这种二维图像与三维结构，所以它能告诉你原子平面的位置，对吧？所以这些被称为高分辨率图像，但它们实际上是相衬图像。再次强调，我不太解释……
+
+[2:23:15]
+ard, right, the last part is the electron tomography, which is not so near, it was developed about 20 to 30 years ago, and now it becomes a quite common technique, using electron microscope, you can see for electron microscope, we're letting the electrons pass into this specimen and collect electrons at the back surface of the sample, right, so that is a two-dimensional projection, we don't have a three-dimensional information of the material, now how are we going to make it up, right, now the idea is like to do a CT, right, we do this tomography in the hospital, right, so basically you have the electrons in there, but then you tune the sample as large angles, right, so you do the projection, where you collect the projection from different angles, then you're using all these projected images from different angles to reconstruct a three-dimensional image of the materials, and that's what you get, right, in terms of tomography, electron tomography, for the last two will be two analytical techniques, one is energy dispersed accelerate, and the other is electron energy loss spectroscopy, right, now we'll use the ENA scattering electrons and also the accelerate generated to analyze the position of the materials, so these are what to expect, right, in the following weeks, that will be developed, right, as introduction of this particular, right, so we're supposed to, right, it's already three.
+难，对吧。最后一部分是电子断层成像，它并不那么接近，大约在20到30年前才发展起来，现在已经成为一种相当常见的技术。使用电子显微镜，你可以看到，对于电子显微镜来说，我们让电子穿过这个样品，并在样品的后表面收集电子，对吧？所以这只是一个二维投影，我们无法获得材料的三维信息。那么我们现在要怎么弥补呢？对吧？想法就像做CT一样，对吧？我们在医院里做断层扫描，对吧？所以基本上，电子会进入其中，但随后你让样品以大角度旋转，对吧？这样你就得到投影，也就是从不同角度采集投影。然后，你利用这些不同角度的投影图像，重建材料的三维图像，这就是你得到的结果，对吧？至于断层成像，电子断层成像，最后两种将是一种分析技术。一种是能量色散加速，另一种是电子能量损失谱，对吧？现在，我们将利用 ENA 散射电子以及加速产生的……来分析材料的位置。所以，这就是我们所预期的，对吧？在接下来的几周里，这些内容会逐步展开，对吧？作为对这一特定内容的介绍，对吧？所以我们应该……对吧？已经三点了。
+
+— 由 LecSync 生成
