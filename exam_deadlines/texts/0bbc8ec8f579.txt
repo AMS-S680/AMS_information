@@ -1,0 +1,615 @@
+=== PAGE 1 ===
+AMSC 5710
+Advanced Materials Characterization
+Ultraviolet photoemission spectroscopy (UPS)
+ 
+
+=== PAGE 2 ===
+Primary beam
+(source)
+Secondary beam
+(result)
+Photons
+Electrons
+Ions
+…
+Photons
+Electrons
+Ions
+Phonons
+…
+2
+[Speaker notes]
+2
+
+=== PAGE 3 ===
+Ultraviolet light ~ 10
+-6 
+to 10
+-8
+ meter
+3
+UPS-Ultraviloet light
+[Speaker notes]
+3
+
+=== PAGE 4 ===
+Content
+Nomenclature
+Instrumentation
+UV source
+Synchrotron radiation
+Principles
+UV Photoemission analysis
+Angle-integrated UPS
+Angle-resolved UPS
+4
+UPS
+
+=== PAGE 5 ===
+X-ray photoelectron spectroscopy, XPS
+ is also known as “
+Electron Spectroscopy for Chemical Analysis (ESCA)
+.
+Actually, it belongs to a family of 
+Photoemission Spectroscopy (PES)
+, in which a photon source is used to excite a sample surface, the energy of those electrons ejected after the photoemission process (photoelectrons) are detected and analyzed.  Specifically, if x-ray is used as the photon source, the technique is named as “X-ray Photoelectron Spectroscopy (XPS)”.
+If UV source is used instead, the technique is called the “
+Ultraviolet Photoemission Spectroscopy (UPS)
+ 
+”.
+With the emergence of Synchrotron Radiation, tunable photon source can be generated.
+Nomenclature
+UPS-Nomenclature
+5
+
+=== PAGE 6 ===
+Vacuum level
+6
+UPS-band structures
+
+=== PAGE 7 ===
+UPS Instrumentation-Photon source
+In UPS, a He discharge lamp is usually used to generate 
+He I (21.2 eV)
+ and 
+He II (40.8 eV)
+ emissions.
+UV
+He gas in
+Differential
+pumping
+High
+tension
+Ground
+Discharge chamber
+He gas is fed into the discharge chamber;
+Upon high tension discharge, He I & II will be formed. 
+UV source
+7
+[Speaker notes]
+A most common method to generates characteristic UV emission lines by exciting rare gas atoms via electrical discharge.
+Gas Filling: A sealed discharge lamp tube is filled with a high-purity rare gas (e.g., He, Ne, 
+Ar
+). Helium (He) is the most widely used because its emission lines are sharp, stable, and cover the key energy range for valence electron analysis.
+Electrical Discharge Excitation: A high voltage (typically several kilovolts) is applied between two electrodes inside the lamp. This creates an electrical discharge that ionizes the rare gas atoms, promoting their electrons to high-energy excited states.
+Photon Emission via Relaxation: When the excited gas atoms relax back to their ground state, they emit photons with discrete energies corresponding to the energy difference between the excited and ground states. These discrete photons form the characteristic UV lines used for UPS.
+7
+
+=== PAGE 8 ===
+XPS
+UPS
+Source
+Al K
+; Mg K
+He I; He II
+Photon energy
+1486.6eV; 1253.6eV
+21.2eV; 40.8eV
+Source line width
+0.85eV; 0.7eV (non-
+monochromated
+)
+<0.1eV
+Peaks
+Core level emission; valence band emission; Auger electrons
+Valence band emission
+8
+UPS Instrumentation-Photon source
+[Speaker notes]
+In Ultraviolet Photoelectron Spectroscopy (UPS), the 
+UV source
+ is designed to generate photons with energy in the range of 
+10–45 eV
+ — this energy window is ideal for exciting valence electrons (and some shallow core electrons) of materials, while avoiding deep core-level excitation that dominates in XPS. 
+8
+
+=== PAGE 9 ===
+9
+Critical Components for the UV source
+Windowless design
+No suitable materials that can pass the UV photons.  
+Floride windows are sometimes used but their cutoff energy is about 10eV, so not suitable for He source at all.  
+Monochromator
+Narrows the line width of the UV beam (to ~0.01–0.05 eV FWHM) is essential for high-resolution valence band structure analysis.
+Different grating choice 
+Diffraction grating in reflection mode
+Grazing incidence
+Highly reflective material (Pt/Au)
+UPS Instrumentation-Photon source
+[Speaker notes]
+For UPS, which operates in the vacuum ultraviolet (VUV) range (He I at 21.2 eV / 58 nm; He II at 40.8 eV / 30 nm), the grating must reflect and disperse these shorter wavelengths efficiently without strong absorption. Platinum-coated gratings are standard because Pt maintains high reflectivity down to ~20–50 nm in VUV, while gold works for somewhat longer wavelengths and aluminum for near-VUV; the substrate (e.g., 
+CaF
+₂) must also be VUV-compatible to avoid absorption during manufacture or use.
+9
+
+=== PAGE 10 ===
+10
+VUV condition
+VUV  refers to ultraviolet light with wavelengths typically from 10–200 nm (energies ~6–124 eV), which requires a vacuum for transmission because most gases, including air and oxygen, strongly absorb it.
+But the UV emission is created by ionization of Helium (gas phase)
+How to manage non-vacuum and vacuum simultaneously?
+UPS Instrumentation-VUV
+[Speaker notes]
+10
+
+=== PAGE 11 ===
+11
+UPS Instrumentation-differential pumping
+Considering a capillary tubing of length L and inner diameter D.  When a pressure difference 
+dP
+ is established across the length of this tube, the gas flow rate S (in liter- torr/s) is given by 
+dP
+ (torr) x C (liter/s), where C is known as the conductance. Given C as 12D
+3
+/L liters/sec. (D and L in centimeters). 
+For tubing of length 
+10cm
+ and inner diameter 
+0.1cm
+, if the low-pressure end of the tubing is evacuated by a pump speed of 
+10 liters/s
+ at a pressure of 
+10
+-9
+ torr, what is the pressure at the other end of the tubing?
+The conductance of the tubing is 
+C = 12D
+3
+/L=12 x 0.001/10 
+    = 1.2 1E-3 
+liters
+/sec
+The gas removal rate is 
+S=10-9 x 10 =10-8 
+liter
+-torr/sec
+The pressure differential is 
+dP
+=S/C=10-8/1.2 x 10-3 
+    = 0.83 x 10-5 torr
+Then the pressure is 0.83 x 10-5 + 10 -9 torr = 0.83 x 10-5 Torr
+[Speaker notes]
+The conductance of the tubing is C = 12 
+liters
+/s x 0.001/10 = 1.2 1E-3 
+liters
+/sec
+The gas removal rate is 10-9 x 10 =10-8 
+liter
+-torr/sec
+The conductance is 1.2 1E-3 
+liter
+/sec
+So the pressure differential is 10-8/1.2 x 10-3 = 0.83 x 10-5 torr
+Then the pressure is 0.83 x 10-5 + 10 -9 torr = 0.83 x 10-5 Torr
+11
+
+=== PAGE 12 ===
+Definition:
+ 
+Radiation emitted by electrons travelling in a circular orbit at near light speed. Synchrotron radiation occurs in the x-ray and ultraviolet regions of the spectrum. Once considered a dissipative nuisance by accelerator physicists, it can be used to investigate phenomena as diverse as the structures of solids and the interiors of heart vessels
+Synchrotron Radiation
+12
+UPS Instrumentation-synchrotron radiation
+[Speaker notes]
+Synchrotron radiation facilities provide a superior 
+tunable
+ UV source that surpasses gas discharge lamps in performance.
+Electron Acceleration: Synchrotrons accelerate electrons to relativistic speeds (close to the speed of light) in a storage ring.
+Synchrotron Radiation Generation: When these high-speed electrons are deflected by magnetic fields (dipole or undulator magnets), they emit broadband, tunable electromagnetic radiation that spans from infrared to hard X-rays.
+UV Band Selection: By using monochromators (e.g., grazing-incidence gratings) to select the UV spectral region (10–45 eV), a tunable, high-brightness UV beam is obtained.
+12
+
+=== PAGE 13 ===
+13
+Basic principle of synchrotron radiation
+Synchrotron radiation is a type of 
+high-intensity, broadband, highly collimated electromagnetic radiation
+ emitted 
+tangentially
+ along the trajectory of
+ 
+relativistic charged particles
+ 
+when they undergo 
+curved motion 
+in a 
+magnetic field
+.
+The generation of synchrotron radiation first requires accelerating charged particles (usually electrons or positrons) to 
+relativistic speeds
+ (close to the speed of light, GeV)
+Dipole magnets generate a uniform bending magnetic field whose direction is perpendicular to the charged particle motion direction (subjected to the Lorentz force 
+F
+=
+qv
+×
+B
+) 
+. 
+The particles to move in a uniform circular motion along a circular orbit, with a 
+centripetal acceleration 
+ 
+that is the direct cause of synchrotron radiation generation.
+vs. Bremsstrahlung
+[Speaker notes]
+13
+
+=== PAGE 14 ===
+14
+Features of synchrotron radiation
+Highly collimated radiation
+The axis of the cone coinciding with the tangential direction of the particle motion. 
+The cone angle θ is inversely proportional to the relativistic factor γ, so that the radiation cone angle is only on the order of milliradians. 
+The collimation of the radiation beam is comparable to that of a laser.
+Continuous spectrum
+Covering a wide wavelength range from far-infrared, visible light, and ultraviolet to soft X-rays and hard X-rays, with extremely high photon flux.
+Energy range 
+E
+~
+ℏ
+ω
+0
+g
+3 
+, 
+where
+ 
+g=
+(
+1-
+v
+2
+/c
+2
+) 
+-1/2 
+ 
+is the ratio of electron mass to its rest mass, and 
+ω
+0 
+is the orbital angular frequency.
+Linearly polarized 
+within the orbital plane and elliptically polarized outside the plane. 
+[Speaker notes]
+14
+
+=== PAGE 15 ===
+Synchrotron radiation characteristically is highly 
+polarized
+ and 
+continuous
+. Its intensity and frequency are directly related to the strength of the magnetic field and the energy of the charged particles affected by the field.  Accordingly, the stronger the magnetic field and the higher the energy of the particles, the greater the intensity and frequency of the emitted radiation.  Synchrotron radiation is thus often termed nonthermal radiation.
+Synchrotron Radiation
+Classical theory of synchrotron radiation
+Characteristics of synchrotron radiation
+Supplementary reading:
+15
+Synchrotron radiation-instrumentation
+
+=== PAGE 16 ===
+European Synchrotron Research Facility (ESRF) in Grenoble, France
+Advanced Photon Source
+(APS) Argonne, USA
+Synchrotron Radiation
+A synchrotron radiation facility is composed of an injector and a storage ring.  The injector generates an electron beam and accelerates electrons to high energies.  The storage ring has a shape of a ring and accumulates the accelerated electrons in it. 
+16
+Synchrotron radiation-instrumentation
+[Speaker notes]
+Key Historical Synchrotron Facilities:
+First Observation (1947): General Electric (GE) Research Laboratory (Schenectady, NY).
+First Characterization (1947/48): Cornell University (using a 300 MeV synchrotron).
+First Generation (Parasitic): SURF (USA), Frascati (Italy), and DESY (Germany) used synchrotrons built for particle physics to produce light.
+Second Generation (Dedicated): 
+The Synchrotron Radiation Source (SRS) at Daresbury
+ in the UK was the first specifically designed for synchrotron light, starting operation in the early 1980s.
+Third Generation: 
+The European Synchrotron Radiation Facility (ESRF)
+ (France) was the first dedicated, high-energy third-generation source (1994). 
+16
+
+=== PAGE 17 ===
+The National Synchrotron Radiation Laboratory (NSRL) is the first dedicated synchrotron radiation facility in China, which locates at the west campus of the University of Science and Technology of China (USTC), in Hefei city, Anhui Province.  
+A new one has been operational in Shanghai since 2009
+First Synchrotron Radiation in 
+China
+17
+Synchrotron radiation-instrumentation
+
+=== PAGE 18 ===
+Shanghai Synchrotron Radiation Facility
+  (SSRF)
+ Energy
+ 3.5GeV
+ Circumference
+ 432m
+ Lattice
+ DBA
+ Number of Cells
+ 20 
+ Straight Sections
+ 4×12m, 16×6.50m
+ Current
+ 200~300mA
+ Emittance
+ 3.9 nm-rad
+ Life time
+ > 10hrs (Top-up injection available later)
+ Beam position stability
+ ±10% (< ± 3mm)
+18
+
+=== PAGE 19 ===
+Ultraviolet photoemission spectroscopy (UPS) is very similar to XPS.  However, instead of an x-ray source, a UV source is used to excite the sample.
+Upon UV excitation, photoemission proceeds, leading to ejection of photoelectrons as in XPS.
+The UV photons have an energy of about several tens eV, which is not enough to photo-ionize core level electrons.
+Electrons of more loosely bound states (e.g. VB in semiconductors; HOMO in organic substances) could  be photo-emitted upon UV illumination.
+These photoelectrons can reveal details about the electronic band structure (energy level and crystal momentum) of the sample under study.
+UPS Principles
+19
+
+=== PAGE 20 ===
+In high resolution UPS analysis, the valence band structure of a compound, a molecule or a crystal structure can be revealed;
+the UPS peaks can be assigned to different valence energy levels;
+the UPS peaks can be regarded as the fingerprint for a specific compound, molecule or crystal structure;
+also, UPS peaks may be used to construct the valence band energy diagram;
+usually, the UPS spectra will be compared with theoretical energy levels calculated through computation.
+20
+UPS Principles
+Ruddlesden–Popper Perovskites
+
+=== PAGE 21 ===
+in angle-integrated UPS, a large cone of photoelectrons are collected
+	i.e. photoelectrons originated from different 
+k
+ values are collected
+as a result, the angular effect is averaged out
+detailed band structures are hidden
+Angle-integrated UPS
+in angle-resolved UPS, a very small cone of photoelectrons is collected, i.e. photoelectrons originated from different 
+k
+ values can be collected separately by varying the detection angle
+detailed band structures can thus be revealed
+Angle-resolved UPS
+UV Photoemission Analysis
+21
+
+=== PAGE 22 ===
+Angle integrated UPS
+Taking a semiconductor as an example
+22
+
+=== PAGE 23 ===
+Angle integrated UPS
+𝐸
+𝑉𝐵𝑀
+=
+ℎ
+𝜈
+−
+𝐸
+𝑘
+−
+𝜙
+𝑠𝑝𝑒𝑐
+ - sample is connected to the spectrometer
+This  holds for metal, in which the VBM line up with Fermi level
+In semiconductors 
+𝐸
+𝑉𝐵𝑀
+=
+ℎ
+𝜈
+−
+𝐸
+𝑘
+−
+𝜙
+𝑠𝑝𝑒𝑐
+- 
+𝐸
+𝑉𝐹
+ 
+23
+
+=== PAGE 24 ===
+ARUPS
+ is commonly known as Angle-Resolved Photoemission Spectroscopy (
+ARPES)
+When UV photoelectrons are collected at different angles, the resultant UPS spectrum will reflect the specific band structure at a certain 
+k
+ value corresponding to the specific angle of collection.
+24
+Angle resolved UPS (ARUPS)
+It is one of the most direct methods of studying the electronic structure of solid surface
+[Speaker notes]
+24
+
+=== PAGE 25 ===
+Measured
+25
+The key of ARPES is to establish a quantitative connection between the 
+emission angle of photoelectrons
+ and the 
+in-plane momentum of electrons inside the sample
+, thereby deriving the intrinsic electronic structure of the material.
+.
+E
+k
+ 
+         
+kinetic energy of the outgoing electron
+hk
+vacuum
+   
+       
+momentum of the outgoing electron
+Vertical momentum component (
+p
+⊥​)
+: Perpendicular to the sample surface, its magnitude is related to the binding energy of electrons and the surface barrier (work function).
+In-plane momentum component (
+p
+∣∣​)
+: Parallel to the sample surface, it is the key physical quantity for ARPES to characterize the electronic structure.
+
+=== PAGE 26 ===
+Measurement of the dispersion curve requires a determination of the initial wave vector of the emitted photoelectrons.
+26
+𝑝
+𝑣𝑎𝑐𝑢𝑢𝑚
+, 
+∥
+=
+ℏ
+𝑘
+𝑣𝑎𝑐𝑢𝑢𝑚
+,
+∥
+=
+2
+𝑚
+𝐸
+𝑘
+,
+∥
+		        
+=
+2
+𝑚
+𝐸
+𝑘
+sin
+𝜃
+ 
+ 
+Three-step model
+:
+1) The electron is excited from an initial to a final state within the crystal;
+2) The electron travels through the solid towards the surface;
+3) The electron crosses the surface and is emitted into the vacuum with a certain kinetic energy.
+𝑘
+𝑠𝑎𝑚𝑝𝑙𝑒
+,∥
+ 
+𝑘
+𝑣𝑎𝑐𝑢𝑢𝑚
+,
+∥
+ 
+𝑘
+𝑖𝑛𝑖𝑡𝑖𝑎𝑙
+,∥
+ 
+
+=== PAGE 27 ===
+Photon momentum is neglected because of its smallness compared with electron momentum. Therefore, 
+electron momentum is conserved
+ after the photon-electron interaction.
+Momentum conservation
+Electron momentum:
+ Photon momentum:
+X
+27
+k
+//
+𝑖𝑛𝑖𝑡𝑖𝑎𝑙
+=
+k
+//sample
+=
+k
+//vacuum
+=
+2
+𝑚
+𝐸
+𝑘
+sin
+𝜃
+ℏ
+ 
+The in-plane momentum of the photoelectron escaping from the sample surface is 
+equal to the in-plane momentum of the electron in the sample before excitation
+ 
+Intensity profile N (E
+k
+, 
+
+) measured
+—DOS dispersion as a function of 
+k
+//
+𝑖𝑛𝑖𝑡𝑖𝑎𝑙
+  
+ 
+X
+[Speaker notes]
+The momentum brought by the incident ultraviolet photons can be 
+completely ignored
+ in the photoelectric process.
+27
+
+=== PAGE 28 ===
+m* is the effective mass of the electron and with inner potential V
+0
+, there is: 
+To determine 
+To determine 
+𝒌
+⊥
+𝒔𝒂𝒎𝒑𝒍𝒆
+*
+ 
+28
+The surface represents a scattering potential with only 2D translational symmetry. 
+
+=== PAGE 29 ===
+Angle resolved UPS*
+in ARUPS, UPS spectra are collected as various acceptance angle, 
+q
+, the position and relative intensity of the UPS peaks are carefully traced and recorded.
+if enough accurate data are acquired, a band structure diagram can be constructed, giving us more detailed information on the valence band structure of the sample.
+29
+
+=== PAGE 30 ===
+Inverse photoemission (IPES)
+UPS give information about occupied states
+IPES gives information about unoccupied states.
+e-
+h
+n
+e-
+h
+n
+30
+
+=== PAGE 31 ===
+Why XPS not good for study of bands?
+XPS indeed can excite valence bands to get information about such as density of states, however, it is not suitable for the study of valence bands, especially for the study of energy dispersion (k dependence).
+XPS photon energy is too high, the transition probability for valence bands is very small compared with UV light. 
+XPS photon have too large energy which leads the electrons from valence bands with very high E
+kin
+.  It is hard to analyze spectra with high kinetic energy with high resolution. 
+31

@@ -1,0 +1,3455 @@
+=== PAGE 1 ===
+1
+Chapter 3 Evaporation
+3.1 Thermodynamics of evaporation
+3.2 Evaporation rate
+3.3 Alloys
+3.4 Compounds
+3.5 Sources
+3.6 Transport
+3.7 Vapor flux monitoring
+3.8 Deposition monitoring
+In this chapter we will address the thermal evaporation of the source 
+material and its transport to the substrate within a high-vacuum 
+environment.
+
+
+=== PAGE 2 ===
+2
+3.1 Thermodynamics of Evaporation
+We first consider the vapor-liquid or vapor-solid 
+equilibrium situation. Here a single element or a pure 
+compound that does not dissociate upon evaporation is 
+considered. Our objective is to predict the evaporation 
+rate of a material from the available data such as the 
+boiling point and heat of evaporation.
+At equilibrium, the pressure in the vapor phase is the 
+(saturation) vapor pressure, pv. The equilibrium is a 
+dynamic process in which the molar condensation rate, 
+Qc, is equal to the molar evaporation rate, Qv.
+The system is closed. No mass crosses its boundaries.
+Energy in the form of heat, q, can be added, causing evaporation.
+The energy in the form of mechanical work, w = pvV, is removed as the vapor 
+pushes back the surrounding atmosphere.
+Not all of the heat is transformed into work. Most of it is consumed in increasing 
+the energy of the molecules within the system, which is called the internal energy, 
+U. The internal energy includes the kinetic energy and potential energy of the 
+molecules.
+
+
+=== PAGE 3 ===
+3
+The total energy must be conserved 
+according to the first law of 
+thermodynamics
+For reversible processes, the total entropy of the system plus the surrounding 
+is constant. For irreversible processes, the total entropy increases.
+dq
+dW
+dU
+
+
+We need to introduce the concept of 
+entropy to further discuss 
+equilibrium. For reversible 
+processes, the second law of 
+thermodynamics tells us
+0
+
+
+
+dS
+T
+dq
+T
+dq
+dS 
+
+
+=== PAGE 4 ===
+4
+At fixed energy, entropy tends toward a maximum as a system approaches 
+equilibrium.
+The reason for the appearance of the natural logarithm is that S appears in an 
+energy term, which is additive, whereas probability terms are multiplicative.
+
+
+ln
+B
+k
+S
+kB: Boltzmann’s constant
+: number of states
+At fixed entropy, energy tends toward a minimum as a system approaches 
+equilibrium.
+During evaporation, both energy and entropy vary. Removal of the molecule 
+from the potential well into the vapor phase increases its potential and kinetic 
+energy. Removal also increases its entropy, since a molecule in the vapor 
+phase has more states available to it than in the condensed phase.
+
+
+=== PAGE 5 ===
+5
+The equilibrium relationship between the competing factors of energy and entropy can 
+be described by
+The Gibbs free energy, G, can be introduced as
+0
+
+
+
+TdS
+pdV
+dU
+TS
+H
+TS
+pV
+U
+G
+
+
+
+
+
+H is the enthalpy. H is the energy term to be used for constant-p
+processes, while U is the term to be used for constant-V processes.
+SdT
+TdS
+Vdp
+pdV
+dU
+dG
+
+
+
+
+
+At constant T and p,
+TdS
+pdV
+dU
+dG
+
+
+
+A system held at constant T and p is at equilibrium when dG = 0 for any disturbance. 
+This implies that G for the system is at a minimum.
+During evaporation, H is raised, but this is compensated by an increase in S so that G
+remains at the minimum.
+
+
+=== PAGE 6 ===
+6
+The chemical potential is introduced to express the incremental change in G for an 
+increase in the amount of a material in a system at constant T and p
+j
+N
+p
+T
+i
+i
+N
+G
+m
+,
+,
+m 
+
+
+
+
+
+
+
+
+
+
+
+i is the chemical potential of component i, and Nmi is the number of moles of that 
+component. For a single-component system such as the evaporation of pure 
+condensate, is just the free energy per mole of condensate, Gmc.
+v
+c
+
+
+c and v denote the condensed and vapor phases, respectively. This is the another way 
+of stating the equilibrium condition.
+We have known that at vapor-liquid equilibrium, G for a closed system does not 
+change as evaporation proceeds at constant T and p. Therefore,
+
+
+=== PAGE 7 ===
+7
+Now we can quantify the dependence of pv on T. As 
+we move up along the curve, the values of both 
+phases increase. They must increase at the same 
+rate. So,
+v
+c
+
+
+d
+d
+
+pdV
+TdS
+dU
+
+
+j denotes condensate (c) or vapor (v), and m denotes per mole. At equilibrium 
+between the two phases,
+For a pure material,
+mv
+mc
+dG
+dG
+
+Since we are at equilibrium,
+So,
+dT
+S
+dp
+V
+dG
+j
+j
+j
+m
+m
+m
+
+
+dT
+S
+dp
+V
+dT
+S
+dp
+V
+mv
+mv
+mc
+mc
+
+
+
+m
+m
+mc
+mv
+mc
+mv
+v
+V
+S
+V
+V
+S
+S
+dT
+dp
+
+
+
+
+
+
+Clapeyron equation
+Gibbs-Duhem relation
+
+
+=== PAGE 8 ===
+8
+Since Gm = 0 for evaporation, we have vH = TSm. vH is the latent heat (enthalpy 
+change) of vaporization per mole. Substituting vH/T for Sm leads to the equation
+m
+v
+v
+V
+T
+H
+dT
+dp
+
+
+
+Vmc is negligible since it is typically 1/1000 of Vmv at 1 atm. For ideal gases, Vmv = 
+RT/p. Thus,
+dT
+RT
+H
+p
+dp
+
+
+
+
+
+
+
+2
+v
+v
+v
+B
+T
+R
+H
+p
+p
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+log
+3.2
+ln
+v
+v
+10
+v
+
+
+
+
+
+
+
+
+
+RT
+H
+B'
+p
+v
+v
+exp
+B and Bare the constants of integration. vH is assumed to be independent of T, 
+which is not exactly so but nevertheless is reasonable in regions far from the critical 
+point.
+Clausius-Clapeyron equation
+
+
+=== PAGE 9 ===
+9
+We can make estimations of the vapor 
+pressures of materials from their known 
+thermodynamic data, such as boiling 
+points and the molar enthalpies of 
+formation fH (vH = fHv fHc).
+An estimate of pv is very useful:
+1) Predict the source T that will be required.
+2) Predict whether a material has to be cooled or capped off to prevent its evaporation 
+at room temperature.
+3) Predict how cold a cryogenic trap has to be to pump a material.
+4) Predict how hot the walls of a CVD chamber have to be to prevent vapor 
+condensation.
+
+
+=== PAGE 10 ===
+10
+
+
+=== PAGE 11 ===
+11
+
+
+=== PAGE 12 ===
+12
+
+
+=== PAGE 13 ===
+13
+3.2 Evaporation Rate
+Qc: the condensation rate of the vapor
+Qv: the evaporation rate
+Qe: the effusion rate
+An orifice is opened and it is small enough so that the 
+resulting effusion does not significantly reduce the 
+pressure in the vapor phase.
+Because the orifice is small, Kn > 1 (in the molecular-
+flow regime). Here Kn is calculated using the orifice 
+diameter as the characteristic dimension. If the orifice 
+thickness is much smaller than the orifice diameter, the 
+orifice is termed ideal. If the vapor is effused into high 
+vacuum, this situation is known as a Knudsen cell. The 
+effusion rate (molecules s–1) can be expressed as
+MRT
+A
+p
+N
+Q
+
+2
+v
+A
+e 
+A is the orifice area.
+
+
+=== PAGE 14 ===
+14
+Qe is known, but we do not know Qc and Qv. Qv is very difficult to 
+determine. Usually two more parameters are introduced. They are 
+the evaporation coefficient v and the condensation coefficient c. 
+We know the impingement flux from the vapor phase to the vapor-
+liquid interface. Upon impingement, not all the molecules get 
+condensed. The portion of those molecules that do get condensed 
+corresponds to c
+i
+c
+c
+J
+J
+
+
+Since there is no parameter corresponding to Ji in evaporation, we 
+introduce Jv0 for evaporation to correspond to Ji. We would expect 
+Jv0 to be unchanged if we were to remove the vapor phase and 
+were to consider evaporation from an open crucible or surface.
+i
+0
+v
+J
+J
+
+0
+v
+v
+v
+J
+J
+
+
+
+
+=== PAGE 15 ===
+15
+v is generally unknown, and the factors that influence it are not well 
+understood. This means that unless evaporation is being carried out from a 
+Knudsen cell (Qe << Qv), the evaporation rate cannot be predicted accurately 
+and must be measured directly in thin-film deposition processes. Even for 
+metals that have atomic vapors, where v 1, the evaporation rate can be 
+significantly reduced by the formation of an oxide skin covering on the 
+surface of the molten liquid metal.
+
+
+=== PAGE 16 ===
+16
+3.3 Alloys
+We have considered the evaporation of single-component materials. With multi-
+component materials, we must consider that the composition of the vapor phase is 
+generally different from that of the condensed phase. We will first talk about alloys and 
+then compounds.
+Alloy is used to designate either a solid solution or a mixture of solid phases, for example, 
+the solder alloy PbSn or PbxSn1x. A compound has a specific ratio of chemical elements 
+(stoichiometry), such as GaAs and SiO2.
+Consider a general binary metal alloy BxC1x in which B and C are completely miscible at 
+the evaporation T. The total vapor pressure will be the sum of the component pv values: pB
+and pC. These values will be lower than those of the pure elements because of the dilution 
+of one element by the other.
+vB
+vB
+B
+B
+xp
+xp
+a
+p
+
+
+
+
+
+
+vC
+vC
+C
+C
+1
+1
+p
+x
+p
+x
+a
+p
+
+
+
+
+aB and aC are activity coefficients. They are assumed to be very close to 1 here.
+If the evaporation coefficients are unity, the evaporation flux of each element is given 
+by the Knudsen equation. The ratio of these two fluxes is
+B
+C
+vC
+vB
+vC
+vB
+1
+M
+M
+p
+p
+x
+x
+J
+J
+
+
+
+
+=== PAGE 17 ===
+17
+The vapor flux will be richer than the melt in the more volatile element for any 
+composition x. The melt will continue to deplete in that element as the 
+evaporation proceeds and will never reach a steady state flux ratio.
+There are two ways to achieve a steady state flux ratio. One is to use 
+separate sources of the two pure elements, whose effusion can be reliably 
+set by T control.
+B
+C
+vC
+vB
+s
+1
+1
+1
+M
+M
+p
+p
+y
+y
+x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The second way is to feed an alloy wire steadily 
+into the melt during evaporation. If the volume 
+feed rate, W, is adjusted to hold the melt 
+volume V constant, the mass conservation 
+dictates that a steady state must eventually be 
+reached in which the evaporation atomic flux 
+ratio of the two elements is equal to their atomic 
+feed ratio, y/(1y). At the steady state, the melt 
+composition xs will become
+
+
+=== PAGE 18 ===
+18
+An estimate of the time required to reach the steady state can be made by 
+applying a transient mass balance to one of the elements. Doing so for B in 
+units of atoms/s, we have
+n is the atomic density (atoms/cm3). We assume that n does not vary with 
+composition. The evaporation rate (output) has been expressed as a fraction of 
+the steady state value. V is further simplified as a constant.
+dt
+dx
+Vn
+x
+x
+Wyn
+Wyn
+
+
+s
+input
+output
+accumulation
+
+
+/
+s
+s
+s
+/
+exp
+t
+e
+Wy
+Vx
+t
+y
+x
+x
+x
+
+
+
+
+
+
+
+
+
+
+
+
+
+For typical values of V and W in alloy evaporation, the approach to the steady 
+state can take many hours and consume much source materials. This 
+transient can be avoided by starting with a melt having the steady-state 
+composition. In special cases where the elemental vapor pressures and 
+molecular weights are similar, xs will be so close to y that the drift of x from y
+to xs may not matter.
+
+
+=== PAGE 19 ===
+19
+3.4 Compounds
+Compounds behave differently from alloys during evaporation. Some compounds 
+evaporate as molecules that have the composition of the condensed phase, such as 
+alkali halide (KI) and alkaline-earth halides (MgF2). Oxides can vary from no 
+dissociation to partial dissociation to complete dissociation.
+Sometimes reduction from a higher to a lower oxide 
+occurs during evaporation. For example, SiO2 evaporates 
+as SiO in the presence of a reducing agent (Si, C, H2). 
+Also falling into the category of partial dissociation are the 
+group IV-VI compounds. For example, PbTe evaporates 
+mostly as PbTe, but partly as Pb + (1/2) Te2.
+III-V and II-VI semiconductors completely dissociate 
+during evaporation. Their vapors usually consist of 
+atoms of the metallic element and dimers (Y2) of the 
+nonmetallic element. The existence of MY is usually 
+indicated by a vertical line at x = 0.5, but in fact there 
+is always a narrow range of x over which the 
+compound can exist as a single phase. This range is 
+known as the single-phase field.
+
+
+=== PAGE 20 ===
+20
+The range of x over which the single-phase field exists is usually less than 
+104. Because it is difficult to chemically determine such small changes in 
+stoichiometry, the positions of the phase boundaries are unknown for most 
+compounds. The compound accommodates nonstoichiometry within the 
+single phase by generating native point defects within its crystal lattice.
+Defect type
+Symbol
+Stoichiometry
+Vacancy (V)
+VM
+VY
+Y-rich
+M-rich
+Interstitial
+Mi
+Yi
+M-rich
+Y-rich
+Antisite
+MY
+YM
+M-rich
+Y-rich
+
+
+=== PAGE 21 ===
+21
+pv values of M and Y2 vary by orders of magnitude from one boundary 
+to the other. The pv of each element increases with the atomic fraction 
+of that element. In each case, upon reaching the phase boundary, the 
+pv of the enriched element levels out at the value for the pure element. 
+Meanwhile, the pv of the other element becomes much less than that 
+over the pure element.
+The pv values happen to cross each other 
+within the single-phase region. If at some 
+point, the evaporation flux of M becomes 
+twice as large as that of Y2, evaporation 
+will proceed congruently, that is, in the 
+stoichiometric proportion. This can often 
+be realized for II-VI compounds. It is a 
+good way to maintain a constant and 
+known II/VI flux ratio at the substrate.
+
+
+=== PAGE 22 ===
+22
+The III-V compounds present a different situation, because the pv of M is 
+often lower than that of Y2 even at the M-rich boundary.
+The right figure shows pv vs T data for Ga and 
+As2 along each phase boundary. The upper 
+curve for each element is the one 
+corresponding to the phase boundary rich in 
+that element. For T > ~680 C, pv(As2) > 
+pv(Ga), even at the Ga-rich boundary. So at 
+high T, congruent evaporation is not possible. 
+The maximal T for GaAs for congruent 
+evaporation is just over 600 C. At this 
+temperature, the evaporation fluxes of Ga and 
+As2 are too slow for film deposition at 
+reasonable rates. GaAs is therefore deposited 
+instead from separate Ga and As sources. This 
+is the case for other III-V compounds as well. 
+Elemental As evaporates as As4, which has a 
+lower sticking coefficient than As2. As4 vapor is 
+often superheated in a small furnace over the 
+source crucible to crack it into As2.
+
+
+=== PAGE 23 ===
+23
+3.5 Sources
+Basic designs
+A filament is a single- or multiple-strand W wire 
+bent into a shape that suits a particular power 
+electrode spacing and mounting. The evaporant
+material is deposited on the wire by melting or 
+from a salt solution. When sufficient current 
+passes through the wire, the material evaporates. 
+The filament source is used only for single 
+materials and is typically used once.
+Filaments
+A boat is usually made of W, Ta, or Mo foil and is 
+designed to meet mounting or deposition pattern 
+requirements. Its shape can be a simple flat sheet 
+with a dimple to hold the source or one that 
+resembles top hats, inverted top hats, canoes, 
+kayaks, troughs, etc. The boat usually has notches at 
+either side of the dimple. The resistance at the 
+notches is higher, causing those areas to be hotter 
+than other parts. With judicious choice of notch sizes, 
+the conductive thermal losses to the ends can be 
+reduced giving a more uniform temperature along the 
+length of the dimple.
+Boats
+
+
+=== PAGE 24 ===
+24
+When the thermal evaporation requires larger 
+amounts of evaporant than can be placed on a 
+filament or in a boat, crucibles and crucible 
+heaters are used. Since the wire filament is 
+coiled to fit the crucible’s outside dimensions, 
+the evaporant’s upper temperature is somewhat 
+limited. Nevertheless, for evaporants with a high 
+vapor pressure at modest temperatures, this is a 
+good method of providing adequate material.
+Crucible (made of AlOx, BN, 
+Ta, Mo, quartz, carbon)
+Because of the exponential dependence of pv on T, T control needs to be very 
+good. Typically, pv increases about 20 percent per 1 percent rise in evaporant
+T (dp/p ~ 20dT/T). Crucible sources provide the best T uniformity and control, 
+especially if they are well designed. 
+
+
+=== PAGE 25 ===
+25
+Contamination
+General consideration: degrease all materials, 
+minimize surface areas, avoid volatile constituents, 
+and employ baking.
+For crucibles, the surface area is minimized by using nonporous grades 
+(“pyrolytic grade”) of ceramic for crucibles. Much of the volatile contaminants 
+can be removed from crucibles and associated components by “firing” them at 
+a higher T than the desired evaporation T, prior to filling the crucible with 
+evaporant.
+For evaporant materials, chemical analysis should be obtained to determine if 
+there are contaminants that will be harmful to the film being deposited. In 
+general, only metallic impurities are reported by manufacturers. That is, a 
+99.99% pure material will have <0.01% (100 ppm) total metallic impurity 
+content, but it might also contain a great amount of O, C, Cl, etc. The 
+evaporant should be obtained in large pieces rather than in powdered form to 
+minimize the surface area. The amount of outgassing of adsorbed water from 
+large surface areas is considerable.
+
+
+=== PAGE 26 ===
+26
+
+
+=== PAGE 27 ===
+27
+Much of the volatile impurity content in the evaporant can be removed 
+before film deposition. This includes adsorbed gases and also dissolved 
+elements of higher pv than the evaporant. Removal is accomplished by 
+“soaking” the source at a T somewhat below the T for film deposition, both 
+before substrate loading and again afterwards while blocking the source 
+from the substrate. The second soak removes water adsorbed during the 
+loading process.
+The dissolved impurities having higher pv will progressively deplete relative 
+to the evaporant. Conversely, impurities with pv significantly less than that 
+of the evaporant will selectively remain in the crucible. As the evaporant
+charge becomes depleted, the fraction of low-pv impurities in it increases. 
+Therefore, it is unwise to evaporate the source material to completion 
+when the film purity is important.
+Impurities with pv similar to that of the evaporant cannot be selectively 
+removed and will remain part of the evaporation flux.
+
+
+=== PAGE 28 ===
+28
+Temperature control
+To maintain a constant crucible temperature, the power supply for the heater 
+is driven by a feedback control loop which compares the thermocouple voltage 
+with a set-point voltage. The simplest kind of T control is “on-off”. The 
+heater power is fully on when T is below the set point and fully off when it is 
+above, so that T continues to oscillate about the set point. For most thin-film 
+applications, this type of control is inadequate.
+A more sophisticated type of T control is the “PID” type. It has three 
+modes of control: proportional, integral or “reset”, and derivative or “rate”. If 
+the thermocouple T is lower than the set point by T, the proportional control 
+signal driving the power supply is a fraction of “full on”. With proportional 
+control alone, the power will remain “on” enough to maintain steady T only if 
+there remains a finite offset T from the set point. The integral control mode 
+gradually removes this offset by adding a control signal. Finally, the derivative 
+mode reduces T overshoot past the set point on initial heat-up by adding a 
+third control signal proportional to the minus of the rate of approach of T to the 
+set point.
+
+
+=== PAGE 29 ===
+29
+Auber Instruments
+
+
+=== PAGE 30 ===
+30
+The maximal speed of response to a step change in the set point 
+depends on the thermal time constant of the evaporation source or 
+other thermal system. The response speed is important in applications 
+involving multilayer films, where it is desired to quickly change the T of 
+a source or of the substrate between layers. A shutter may be closed 
+between the source and substrate to interrupt the deposition during 
+this transit period. However, this allows background contaminants to 
+build up on the substrate surface. To avoid this problem in multilayer 
+film deposition, separate sources of the same evaporant operating at 
+the temperatures and therefore fluxes desired for each layer are often 
+employed in conjunction with synchronized shutters. This technique is 
+used, for example, in the deposition of quantum-well structures by 
+MBE.
+
+
+=== PAGE 31 ===
+31
+The thermal time constant, , for the 
+T-control response can be estimated 
+using the heat continuity equation: 
+input output = accumulation.
+For radiation impinging on a surface, 
+the fraction absorbed is given by 
+absorptivity , which is a function of 
+wavelength and incident angle. The 
+radiation flux from a blackbody is 
+given by the Stefan-Boltzmann law:
+4
+2
+b
+T
+n 
+
+
+b:
+blackbody radiation flux, W cm2
+:
+Stefan-Boltzmann constant, 5.67 1012 W cm2 K4
+n:
+refractive index of the medium over the surface
+The fraction of the spectral blackbody flux that is 
+emitted by surfaces not completely black in a 
+given interval is accounted for by the 
+emissivity at that :
+
+
+
+
+b
+
+
+
+
+
+=== PAGE 32 ===
+32
+We assume that and are independent of , 
+and = for the crucible. For the heater, we 
+assume that = = 1. According to the continuity 
+equation for the crucible:
+cg is the heat capacity (J g1 K1), m is the mass, and mT is the overall thermal 
+load or thermal mass. We can combine the two terms on the left, and factor 
+the polynomial to give:
+
+
+dt
+dT
+m
+dt
+dT
+m
+c
+m
+c
+T
+A
+T
+A
+c
+T
+c
+e
+ge
+c
+gc
+4
+c
+4
+h
+
+
+
+
+
+
+input
+output
+accumulation
+
+
+
+
+
+c
+h
+3
+c
+2
+c
+h
+c
+2
+h
+3
+h
+4
+c
+4
+h
+T
+T
+T
+T
+T
+T
+T
+T
+A
+T
+T
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+c
+h
+c
+h
+T
+T
+Ah
+T
+T
+T
+A
+
+
+
+
+r
+3
+4
+3
+r
+4
+T
+h
+
+
+
+2
+/
+c
+h
+T
+T
+T
+
+
+hr is the radiative heat transfer coefficient.
+
+
+=== PAGE 33 ===
+33
+We now have a differential equation, which can be solved readily to give:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+t
+Ah
+m
+t
+t
+T
+T
+t
+T
+T
+exp
+/
+exp
+0
+r
+T
+c
+h
+c
+h
+is the time constant for heat-up or cool-down.
+We can calculate for a typical situation consisting of a crucible with A = 4 
+cm2, containing 5 g of Sb (cg = 0.23 J g1 K1) at room temperature. The 
+temperature of the heater is 500 C. The mass of the crucible is neglected, 
+and = 1.
+mT = 1.15 J K1
+hr = 0.0035 W cm2 K1
+= 82 s
+This is a fairly long time to have to interrupt the deposition waiting for Tc to 
+reach the steady state.
+
+
+=== PAGE 34 ===
+34
+Thermal evaporation system
+
+
+=== PAGE 35 ===
+35
+Thermal evaporation system
+Kurt J. Lesker
+
+
+=== PAGE 36 ===
+36
+Thermal evaporation system
+
+
+=== PAGE 37 ===
+37
+Energy enhancement
+In many thin-film deposition processes, energy input to the film surface is 
+required in order to increase the reaction rate of the depositing species with 
+each other or with the substrate, or to help the depositing species move 
+around on the surface.
+In thermal evaporation, the energy content of the evaporant is much smaller 
+than typical chemical bond energies, so it does not have much effect on film 
+growth.
+
+
+=== PAGE 38 ===
+38
+There are many ways to enhance evaporant energy so as to modify film 
+growth: laser ablation, sputtering, glow-discharge plasma, etc. We consider 
+the supersonic nozzle below.
+The downstream pressure is 
+neglected. In the molecular flow 
+regime (Kn > 1), the throughput Qe
+(molecules/s) upstream p. In the 
+fluid-flow regime (Kn << 1), Qe p2. 
+One factor of p comes from the vapor 
+concentration increase with p. The 
+second factor comes from the fact that 
+the fluid flow velocity through an orifice 
+increases with the p driving force.
+From the molecular viewpoint, collisions between molecules in the movement 
+to the orifice serve to convert random thermal translational energy into 
+directed kinetic energy moving downstream. Downstream of the orifice, 
+further acceleration into the supersonic regime is enhanced by incorporating 
+a conical nozzle. Typical parameters for thin film deposition would be a p of 3 
+atm, an orifice diameter of 0.3 mm, and a cone angle of 15.
+
+
+=== PAGE 39 ===
+39
+Two characteristics of supersonic nozzles are important. One is that considerable 
+vapor cooling takes place due to the transfer of kinetic energy from thermal to 
+directed. Cooling is efficient for two reasons: (1) Because u is so high, little heat is 
+received from the orifice wall. The expansion is adiabatic; (2) For an optimized 
+cone angle, there are negligible friction losses, which would transfer kinetic 
+energy back to thermal energy.
+The second arises from the fact that all components of a gas mixture get 
+accelerated in any fluid flow regime. This results in a large flow of the carrier gas, 
+which must be pumped away. Most of the pumping is done between the nozzle 
+and skimmer. The skimmer serves both to isolate the deposition chamber from the 
+higher-p region and to deflect the carrier gas out of the supersonic stream to 
+minimize collisional losses.
+
+
+=== PAGE 40 ===
+40
+It is often difficult to resistively or thermally evaporate high-melting-point 
+materials. Ceramics are very inefficient evaporation sources because they can 
+either be non-conducting or poor thermal conductors.
+Electron Beam (E-Beam) Evaporation
+Nat. Energy 2018, 3, 1031.
+
+
+=== PAGE 41 ===
+41
+Electron Beam (E-Beam) Evaporation
+The electron beam technique uses an electron beam to heat the 
+source from the top.
+In an e-beam evaporator, a wire filament 
+is heated and thus emits a stream of 
+electrons. These electrons are 
+accelerated, directed, and focused to hit 
+the source material. The source material 
+can be held in a crucible that can be 
+cooled or not. Some materials operate 
+best using a water-cooled metallic 
+crucible and rely on the thermal gradient 
+between the crucible and surface to 
+enable a molten pool to form at the 
+surface for evaporation, while the 
+material in contact with the crucible 
+remains solid. In this way the material 
+stays pure and is much less likely to react 
+with the crucible than if it were molten.
+
+
+=== PAGE 42 ===
+42
+The e-beam, when hitting the source material, will also generate 
+secondary electrons, which, together with the backscattered electrons 
+and thermionic electrons, need to be captured by an electron trap. 
+Without being captured, they can hit the substrate and cause problems 
+in some cases.
+
+
+=== PAGE 43 ===
+43
+E-Beam Control
+There are many styles of e-beam guns. In some, the beam is pointed straight at the 
+source material and the beam sweep coils are used to move the beam across the entire 
+surface to provide a large area rather than a point source. In others, the e-beam is bent 
+around as much as 180or 270into the source crucible. These tend to be operated as 
+point sources.
+
+
+=== PAGE 44 ===
+44
+Angstrom Engineering
+
+
+=== PAGE 45 ===
+45
+
+
+=== PAGE 46 ===
+46
+
+
+=== PAGE 47 ===
+47
+A magnetron sputtering source uses very strong magnets to confine 
+electrons in the plasma at or near the surface of the target.
+Magnetron sputter deposition does not require melting and evaporation of
+the source material. Nearly all materials can be deposited by magnetron
+sputtering regardless of their melting temperatures. The sputtering voltage
+of commonly used targets (Cu, Al, Ti) is generally 400–600 V.
+Magnetron Sputtering
+Magnetron sputtering is a 
+deposition technique involving a 
+gaseous plasma, which is generated 
+and confined to a space containing 
+the target. The target surface is 
+eroded by high-energy ions within 
+the plasma, and the liberated 
+atoms travel through the vacuum 
+environment and deposit onto a 
+substrate to form a thin film.
+
+
+=== PAGE 48 ===
+48
+Magnetron Sputtering
+
+
+=== PAGE 49 ===
+49
+Process Steps
+Solid materials are vaporized by heat 
+or by an energetic beam of electrons, 
+photons (laser ablation), or positively 
+ions (sputtering) in order to transport 
+them to substrates. These methods 
+are categorized as physical vapor 
+deposition (PVD). Thin-film 
+processes that use gases, 
+evaporating liquids, or chemically 
+gasified solids as source materials 
+are categorized as chemical vapor 
+deposition (CVD).
+
+
+=== PAGE 50 ===
+50
+3.6 Transport
+The main issues in the first step, the supply of the source material, are 
+the supply rate and contamination. The second step is the transport of 
+the source material to the substrate, where the main issue is the 
+arrival-rate uniformity at the substrate.
+The uniformity depends on whether the process is operated in the 
+molecular-flow or fluid-flow regime. We will examine transport in the 
+molecular-flow regime with Kn > 1. The characteristic dimension L is 
+the distance from the source to substrate. Under this condition, 
+transport is along the line of sight from the source to substrate.
+Consequently, the arrival-rate uniformity across the substrate is 
+determined solely by geometrical factors.
+
+
+=== PAGE 51 ===
+51
+3.6 Transport
+Consider an evaporation geometry, 
+where the material is being evaporated 
+from a source centered at point B onto a 
+flat substrate situated at a perpendicular 
+distance r0 away. Several source shapes 
+are shown: a circular disc, which is 
+emitting materials from the top surface 
+only (representing the boat, Knudsen-
+cell orifice, and filled crucible), a sphere 
+(representing the filament source), and a 
+collimated source (representing a partly 
+filled crucible or a non-ideal orifice).
+If you think of yourself as an observer 
+looking into the source from radius r0, it 
+is clear that Jwill be proportional to the 
+projected area of the source in that 
+direction.
+
+
+=== PAGE 52 ===
+52
+For a sphere, Jis independent of 
+. For a total evaporation rate of 
+Q (molecules/s), we have:
+For a disk source, looking into this 
+source from r0, the projected area 
+changes from a circle to an ellipse to 
+a line as one moves away from the 
+perpendicular:
+
+
+cos
+0
+J
+J 
+The total evaporation rate from the 
+disk source can be calculated as:
+0
+2
+0
+2
+/
+0
+0
+0
+0
+sin
+2
+cos
+J
+r
+d
+r
+r
+J
+Q
+
+
+
+
+
+
+
+
+2
+0
+0
+r
+Q
+J
+
+
+J0 denotes the evaporation flux 
+along the vertical direction.
+𝐽𝜃= 𝐽0 =
+Τ
+𝑄
+4𝜋𝑟0
+2
+
+
+=== PAGE 53 ===
+53
+The flux that determines the deposition rate is the flux perpendicular to the substrate at 
+point S, J, and that flux is reduced from Js by another cosfactor. Combining all of 
+these factors together, we have
+For the collimated source, the projected area drops off much more rapidly with increasing , 
+due to the shadowing from the lip. This leads to the lobe-shaped flux distribution. Although 
+there is some angle, c, above which the evaporant surface is not visible at all, there will still be 
+some flux at higher angles because of evaporant scattering from the collimating side walls. The 
+deposition uniformity over large substrates is a major concern with lobed flux distributions.
+
+
+2
+s
+cos
+J
+J 
+Let us consider the uniformity across a flat substrate for the simpler case of the disk 
+source. There are two more factors that attenuate the flux with increasing . One is 
+that the substrate point S is at radius rrather than at r0 from the source, and r= 
+r0/cos. Since J is inversely proportional to r2, we have for the flux through the r
+sphere at the substrate point S
+2
+0
+4
+4
+0
+cos
+cos
+r
+Q
+J
+J
+
+
+
+
+
+
+
+=== PAGE 54 ===
+54
+Various refinements can be incorporated to improve the flux 
+uniformity:
+(1) Rotation of a substrate about its own axis.
+(2) Numerous small substrates such as lenses can be coated uniformly 
+from a single source by placing the substrates on a planetary fixture. 
+The substrates rotate simultaneously about the overall central axis and 
+there own individual central axis so that over the course of the 
+deposition, their complex orbits cover a large fraction of the 
+hemisphere.
+(3) For large-area substrates, multiple, distributed sources of the same 
+material and rate can be used, but rate balancing can be difficult. 
+Alternatively, several sources are distributed along a line, and the 
+substrate is passed perpendicular to the line.
+
+
+=== PAGE 55 ===
+55
+Three 20″ mirrors in a planetary rotation fixture. Optical Mechanics, Inc. 
+
+
+=== PAGE 56 ===
+56
+The left figure illustrates a web coating process, 
+in which a flexible substrate is supplied from one 
+roll, taken up by a second, and suspended as a 
+web between the two rolls during coating. This 
+process is widely used to apply Al or SiO2
+moisture-barrier layers to plastic film for food 
+packaging, and metal electrodes to plastic films 
+for capacitors. Multilayer coatings can be applied 
+by placing sources of different materials in 
+succession along the substrate motion direction. 
+With these techniques, uniform coatings of many 
+m2 area can be achieved, as with heat-control 
+coatings on window glasses. 
+Nano-silica coated high oxygen barrier PET (polyethylene 
+terephthalate) films for food packaging
+
+
+=== PAGE 57 ===
+57
+3.7 Vapor Flux Monitoring
+It is often difficult to predict accurately the flux arriving at the substrate, due to uncertainty in 
+the evaporation rates of various species or due to the presence of lobed flux distributions. Flux 
+monitoring is therefore needed. Flux can be monitored either as the concentration of the 
+source vapor near the substrate or as the actual deposition rate. Monitoring both is especially 
+useful, because one can then calculate the sticking coefficient, Sc.
+The simplest type of flux monitors is the 
+ion gauge. The ionization rate and resulting 
+ion current are proportional to the 
+concentration of vapor molecules within 
+the gauge, and the flux of any stream of 
+particles is proportional to the 
+concentration (𝐽𝑖=
+1
+4 𝑛𝑣).
+Simultaneous monitoring of multiple 
+evaporants can be achieved by using 
+multiple monitors with proper shielding.
+Species-specific monitors can be made by 
+combining the ion gauge with mass 
+spectrometry.
+
+
+=== PAGE 58 ===
+58
+3.8 Deposition Monitoring
+Deposition flux is the vapor flux arriving at the substrate times the 
+sticking coefficient, Sc. There are several approaches to the deposition 
+flux monitoring.
+(1) Mass deposition on a vibrating quartz wafer adjacent to the 
+substrate;
+(2) Change in the optical reflection intensity or phase from the film 
+itself with increasing thicknesses;
+(3) Periodicity in the reflection high-energy electron diffraction 
+(RHEED) signal from epitaxial films.
+All of these three approaches are extremely sensitive, with sub-
+monolayer resolution being achieved routinely. It is important to note 
+that none of them measures the film thickness directly. The thickness 
+must be calculated by knowing a film property: (1) density, (2) 
+refractive index, and (3) monomolecular (monolayer) thickness.
+
+
+=== PAGE 59 ===
+59
+Quartz crystal microbalance (QCM) is one of the most widely used 
+instruments in thin-film technology. It uses crystalline quartz wafers 
+that were developed for frequency control in radios, computers, and 
+watches. Crystalline quartz is piezoelectric, so a quartz wafer generates 
+an oscillating voltage across itself when vibrating at its resonant 
+frequency. This voltage can be amplified and fed back to drive the 
+crystal at this frequency. Electrical coupling is done with metal 
+electrodes deposited on the opposite faces of a thin quartz wafer having 
+the proper crystalline orientation. For deposition monitoring, one 
+electrode is exposed to the vapor flux and proceeds to accumulate a 
+mass of deposit. This mass loading reduces the crystal’s resonant 
+frequency, r. 
+
+
+=== PAGE 60 ===
+60
+Comparison of the loaded r with that of a reference crystal located in the instrument’s control 
+unit is used to calculate the mass of deposit. The resonance frequency is very stable. One can 
+easily measure a beat frequency (the difference of the r values between the loaded and 
+reference crystals) of a few Hz, which corresponds to a sensitivity of < 1 ppm in mass, or one 
+monolayer on a typical 350 m-thick crystal.
+The resonant crystal can be simply modeled as a familiar mass-spring oscillator
+m
+k
+T
+
+
+2
+1
+1
+v
+r
+
+
+r: resonance frequency, Hz
+Tv: vibrational period, s
+k: spring constant (stiffness), N m–1
+m: mass, kg
+Quartz crystal microbalance
+
+
+=== PAGE 61 ===
+61
+For a mass-loaded crystal, we can then write:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+q
+f
+q
+q
+f
+q
+f
+q
+v
+0
+v
+v
+2
+1
+1
+1
+m
+m
+m
+m
+m
+m
+m
+m
+T
+T
+T
+f
+f
+f
+v
+h
+m
+T
+
+
+
+
+The approximation is valid for mf << mq, and it is sufficiently accurate in practice for 
+mf/mq < 0.1. For hq = 350 m, a deposit of thickness of ~35(q/f) m can be 
+tolerated. To further increase the tolerable loading and therefore increase the useful 
+life of a crystal, a correction must be applied to account for the fact that k as well as m
+is changing. These factors are considered together by the acoustic impedance, z, of the 
+crystal-deposit combination, since the resonance is essentially an acoustic standing 
+wave which pervades both the crystal and deposit. Most instruments allow the input of 
+a z-correction factor, which depends on the specific film material. This correction 
+extends the tolerable loading to mf 0.7mq.
+Tv: change in Tv due to loading
+mq: mass of the quartz crystal
+mf: mass of the deposited film
+f: mass density of the film, g cm–3
+hf: thickness of the film
+
+
+=== PAGE 62 ===
+62
+Since the positions of the QCM and substrate relative to the source are 
+different, the ratio of the vapor fluxes at the two positions must either be 
+determined empirically or estimated. Positioning the QCM as close as possible 
+to the substrate can minimize the geometrical error. But too much heat 
+radiation from the substrate or source can cause drift in the crystal reading.
+If the crystal heats up during a deposition measurement owing to the radiation 
+from the substrate or source, r will increase and appear as a decrease in 
+mass. Such changes will be reflected on the curve of hf versus time.
+Variation of r with T for a standard quartz crystal
+
+
+=== PAGE 63 ===
+63
+Abrupt jumps are also seen 
+sometimes. The jumps are due to the 
+crystal spontaneously hopping from 
+one vibrational mode to another.  
+Both uneven deposits or high mass 
+loading can cause mode hopping. The 
+surface T also affects the sticking 
+coefficient, Sc, of many materials. If 
+one wants to monitor the flux actually 
+depositing at the substrate T, it is 
+possible to operate the crystal at the 
+same T.
+Loss of oscillation will occur if a liquid is deposited, such as Ga or Hg, 
+or if the film reacts with or dissolves the electrode material, thus 
+destroying the electrical contact. Pt is the most commonly used 
+electrodes.
+
+
+=== PAGE 64 ===
+64
+Advantages: (1) They are applied directly to the growing film, yet do not perturb the 
+deposition process; (2) They can be used in high-pressure or plasma environments. 
+We will briefly discuss light interaction with matter and apply it to the two basic rate-
+monitoring techniques: interference oscillations and ellipsometry.
+An electromagnetic wave traveling along z has time-varying electric and magnetic 
+fields that are perpendicular to each other.
+Ex = E0 cos(t kz + 0)
+k = 2/, propagation constant, or wavenumber
+= 2, angular frequency
+= t kz + 0, phase
+Ex(z, t) = Re[ E0 exp(j0)expj(t kz)]
+The optical field generally refers to the electric field.
+Optical techniques for deposition flux monitoring
+
+
+=== PAGE 65 ===
+65
+A surface over which the phase of a wave is constant anywhere on the 
+surface is referred to as a wavefront.
+
+
+=== PAGE 66 ===
+66
+When an EM wave is traveling in a dielectric medium, the oscillating electric 
+field polarizes the bonds of the medium at the frequency of the wave. The 
+field and the induced dipoles become coupled. The net effect is that the 
+coupling mechanism delays the propagation of the EM wave. The stronger 
+the interaction between the field and the dipoles, the slower the propagation 
+of the wave. The relative permittivity r measures the ease with which the 
+medium becomes polarized and indicates the extent of interaction between 
+the field and the induced dipoles.
+0
+0
+1
+
+
+
+c
+In vacuum:
+r
+
+
+v
+c
+n
+The refractive index of the medium is:
+The frequency remains the same in different media.
+kmedium = nk
+medium = /n
+
+
+=== PAGE 67 ===
+67
+Incident light waves Ai
+and Bi are in phase. 
+Reflected waves Ar
+and Br and refracted 
+waves At and Bt
+should also be in 
+phase, respectively.
+
+
+=== PAGE 68 ===
+68
+r
+i
+r
+1
+i
+1
+sin
+sin
+'
+
+
+
+
+
+
+
+t
+v
+t
+v
+AB
+Reflection
+Refraction Snell’s law
+1
+2
+2
+1
+t
+i
+t
+2
+i
+1
+sin
+sin
+sin
+sin
+'
+n
+n
+v
+v
+t
+v
+t
+v
+AB
+
+
+
+
+
+
+
+
+Willebrord van Roijen Snell
+(1580-1626)
+
+
+=== PAGE 69 ===
+69
+Total Internal Reflection
+1
+2
+t
+i
+sin
+sin
+n
+n
+
+
+
+Refraction
+When n1 > n2 and t = 90, the incidence angle is 
+called the critical angle c:
+1
+2
+c
+sin
+n
+n
+
+
+
+
+=== PAGE 70 ===
+70
+Fresnel’s Equations
+
+
+
+
+
+r
+k
+exp
+r
+k
+exp
+r
+k
+exp
+t
+0
+t
+t
+r
+0
+r
+r
+i
+0i
+i
+
+
+
+
+
+
+
+
+
+t
+j
+E
+E
+t
+j
+E
+E
+t
+j
+E
+E
+
+
+
+Perpendicular (TE, transverse electric) components: Ei,, Er,, and Et,.
+Parallel (TM, transverse magnetic) components: Ei,//, Er,//, and Et,//.
+Augustin Fresnel
+(1788-1827)
+The incidence plane
+is the plane 
+containing the 
+incident and reflected 
+light rays.
+Our goal is to find Er0 and Et0 relative 
+to Ei0, including any phase changes.
+
+
+=== PAGE 71 ===
+71
+r
+i
+
+
+Snell’s law
+Maxwell’s equations
+Boundary 
+conditions
+//
+)
+/
+(
+E
+c
+n
+B 
+
+tangential
+2,
+tangential
+1,
+E
+E
+
+t
+2
+i
+1
+sin
+sin
+
+
+n
+n
+
+}
+
+
+E
+c
+n
+B
+)
+/
+(
+//
+}
+tangential
+2,
+tangential
+1,
+B
+B
+
+}
+(for non-
+magnetic media)
+
+
+=== PAGE 72 ===
+72
+Incidence plane
+
+
+
+
+
+
+
+,t
+,r
+,i
+E
+E
+E
+(1)
+
+
+
+
+
+
+//
+,t
+2
+//
+,r
+1
+//
+,i
+1
+,t
+,r
+,i
+/
+/
+/
+E
+c
+n
+E
+c
+n
+E
+c
+n
+B
+B
+B
+
+
+
+
+
+
+
+
+
+
+
+
+(2)
+t
+//
+,t
+r
+//
+,r
+i
+//
+,i
+cos
+cos
+cos
+
+
+
+E
+E
+E
+
+
+
+
+(3)
+
+
+
+
+
+
+t
+,t
+2
+r
+,r
+1
+i
+,i
+1
+t
+//
+,t
+r
+//
+,r
+i
+//
+,i
+cos
+/
+cos
+/
+cos
+/
+cos
+cos
+cos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E
+c
+n
+E
+c
+n
+E
+c
+n
+B
+B
+B
+(4)
+
+
+=== PAGE 73 ===
+73
+
+
+
+
+
+
+
+
+
+
+
+,i
+r
+1
+t
+2
+r
+1
+i
+1
+,t
+,i
+r
+1
+t
+2
+i
+1
+t
+2
+,r
+cos
+cos
+cos
+cos
+cos
+cos
+cos
+cos
+E
+n
+n
+n
+n
+E
+E
+n
+n
+n
+n
+E
+
+
+
+
+
+
+
+
+//
+,i
+r
+2
+t
+1
+r
+1
+i
+1
+//
+,t
+//
+,i
+r
+2
+t
+1
+i
+2
+t
+1
+//
+,r
+cos
+cos
+cos
+cos
+cos
+cos
+cos
+cos
+E
+n
+n
+n
+n
+E
+E
+n
+n
+n
+n
+E
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=== PAGE 74 ===
+74
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,i
+2
+/
+1
+i
+2
+2
+i
+i
+,t
+,i
+2
+/
+1
+i
+2
+2
+i
+2
+/
+1
+i
+2
+2
+i
+,r
+sin
+cos
+cos
+2
+sin
+cos
+sin
+cos
+E
+n
+E
+E
+n
+n
+E
+
+
+
+
+
+
+
+
+
+
+
+2
+/
+1
+i
+2
+2
+2
+/
+1
+t
+2
+2
+2
+t
+t
+i
+t
+2
+i
+1
+r
+i
+1
+2
+sin
+sin
+cos
+sin
+sin
+sin
+sin
+/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//
+,i
+i
+2
+2
+/
+1
+i
+2
+2
+i
+//
+,t
+//
+,i
+i
+2
+2
+/
+1
+i
+2
+2
+i
+2
+2
+/
+1
+i
+2
+2
+//
+,r
+cos
+sin
+cos
+2
+cos
+sin
+cos
+sin
+E
+n
+n
+n
+E
+E
+n
+n
+n
+n
+E
+
+
+
+
+
+
+
+
+
+=== PAGE 75 ===
+75
+
+
+
+
+
+
+i
+2
+2
+/
+1
+i
+2
+2
+i
+//
+,i
+//
+,t
+//
+i
+2
+2
+/
+1
+i
+2
+2
+i
+2
+2
+/
+1
+i
+2
+2
+//
+,i
+//
+,r
+//
+cos
+sin
+cos
+2
+cos
+sin
+cos
+sin
+
+
+
+
+
+
+
+n
+n
+n
+E
+E
+t
+n
+n
+n
+n
+E
+E
+r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+/
+1
+i
+2
+2
+i
+i
+,i
+,t
+2
+/
+1
+i
+2
+2
+i
+2
+/
+1
+i
+2
+2
+i
+,i
+,r
+sin
+cos
+cos
+2
+sin
+cos
+sin
+cos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+n
+E
+E
+t
+n
+n
+E
+E
+r
+rand r// are reflection coefficients. tand t// are transmission 
+coefficients.
+Complex coefficients can only 
+be obtained when n2 sin2i < 0.
+n1 > n2,i > c
+Phase changes other than 0 or 180
+occur only when there is TIR.
+1
+//
+//
+
+nt
+r
+
+
+
+
+t
+r
+1
+
+
+
+
+
+
+
+,r
+exp
+
+j
+r
+r
+
+
+//
+,r
+//
+//
+exp
+
+j
+r
+r
+
+
+
+
+
+
+
+
+
+,t
+exp
+
+j
+t
+t
+
+
+//
+,t
+//
+//
+exp
+
+j
+t
+t
+
+
+
+
+=== PAGE 76 ===
+76
+1
+2
+c
+sin
+n
+n
+
+
+
+
+
+
+
+
+
+
+i
+2
+2
+/
+1
+i
+2
+2
+i
+2
+2
+/
+1
+i
+2
+2
+//
+2
+/
+1
+i
+2
+2
+i
+2
+/
+1
+i
+2
+2
+i
+cos
+sin
+cos
+sin
+sin
+cos
+sin
+cos
+
+
+
+
+
+
+
+
+n
+n
+n
+n
+r
+n
+n
+r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+2
+p
+4
+p
+2
+p
+2
+2
+4
+p
+2
+p
+2
+p
+2
+2
+p
+2
+4
+p
+2
+2
+p
+2
+2
+/
+1
+p
+2
+2
+tan
+tan
+tan
+1
+cos
+sin
+cos
+cos
+sin
+cos
+sin
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+p is called the polarization angle or 
+Brewster’s angle.
+When r// = 0 (reflected light is polarized):
+
+
+=== PAGE 77 ===
+77
+Brewster’s Angle (Polarization Angle)
+n1 = 1.44, n2 = 1.00
+David Brewster
+(1781-1868)
+
+
+
+
+98
+.
+43
+78
+.
+34
+c
+p
+
+
+When i = p, reflected light is linearly polarized and is perpendicular to the 
+incidence plane.
+When p < i < c, there is a phase shift of 180in r//.
+rand r//increases with i when i > p.
+There are phase shifts (other than 0 or 180) in rand r// when i > c.
+
+
+=== PAGE 78 ===
+78
+n1 = 1.00, n2 = 1.44
+
+
+
+22
+.
+55
+tan
+p
+1
+2
+p
+
+
+n
+n
+
+
+=== PAGE 79 ===
+79
+Intensity, Reflectance, and Transmittance
+2
+0
+2
+0
+0
+r
+2
+1
+nE
+E
+v
+I
+
+
+
+
+Light intensity
+2
+2
+,0
+i
+2
+,0
+r
+
+
+
+
+
+
+r
+E
+E
+R
+2
+//
+2
+//
+,0
+i
+2
+//
+,0
+r
+//
+r
+E
+E
+R
+
+
+Reflectance
+2
+//
+1
+2
+2
+//
+,0
+i
+1
+2
+//
+,0
+t
+2
+//
+t
+n
+n
+E
+n
+E
+n
+T
+
+
+
+
+
+
+
+
+
+
+2
+1
+2
+2
+,0
+i
+1
+2
+,0
+t
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+t
+n
+n
+E
+n
+E
+n
+T
+Transmittance
+
+
+=== PAGE 80 ===
+80
+
+
+
+
+2
+/
+1
+i
+2
+2
+i
+2
+/
+1
+i
+2
+2
+i
+,0
+i
+,0
+r
+sin
+cos
+sin
+cos
+
+
+
+
+
+
+
+
+
+
+
+
+
+n
+n
+E
+E
+r
+
+
+
+
+i
+2
+2
+/
+1
+i
+2
+2
+i
+2
+2
+/
+1
+i
+2
+2
+//
+,0
+i
+//
+,0
+r
+//
+cos
+sin
+cos
+sin
+
+
+
+
+n
+n
+n
+n
+E
+E
+r
+
+
+
+
+
+
+
+
+2
+/
+1
+i
+2
+2
+i
+i
+,0
+i
+,0
+t
+sin
+cos
+cos
+2
+
+
+
+
+
+
+
+
+
+
+n
+E
+E
+t
+
+
+i
+2
+2
+/
+1
+i
+2
+2
+i
+//
+,0
+i
+//
+,0
+t
+//
+cos
+sin
+cos
+2
+
+
+
+n
+n
+n
+E
+E
+t
+
+
+
+
+2
+2
+1
+2
+1
+//
+
+
+
+
+
+
+
+
+
+
+
+
+n
+n
+n
+n
+R
+R
+R
+When i = 0 (normal incidence):
+
+
+2
+2
+1
+2
+1
+//
+4
+n
+n
+n
+n
+T
+T
+T
+
+
+
+
+
+2
+1
+2
+1
+1
+1
+n
+n
+n
+n
+n
+n
+
+
+
+
+
+
+2
+1
+2
+1
+2
+2
+n
+n
+n
+n
+n
+n
+n
+n
+
+
+
+
+
+
+2
+1
+1
+2
+1
+2
+n
+n
+n
+n
+
+
+
+
+2
+1
+1
+2
+2
+2
+n
+n
+n
+n
+n
+n
+
+
+
+
+
+
+=== PAGE 81 ===
+81
+We now consider interference 
+oscillations during deposition.
+If medium 1 is a film of thickness h
+on a substrate, light refracted into it 
+will continue to bounce back and 
+forth across h with some reflection 
+and refraction at each interface. The 
+refracted ray d traverses a distance 
+of 2Ld during the time that the 
+reflected ray c traverses a short 
+distance Lc in the gas before they 
+meet up in the outgoing beam. The 
+film thickness, h0, for which the 
+optical path difference is exactly one 
+wavelength is called the thickness 
+period.
+0
+2
+2
+1
+0
+0
+sin
+~
+2
+1
+
+
+
+
+n
+h
+If the phase shift is 2, the rays interfere 
+constructively, and the reflected light 
+intensity is a maximum. If the rays are 
+out of phase, the rays interfere 
+destructively, and the reflected light 
+intensity is a minimum. A phase shift of 2
+is induced by the path through a film of 
+thickness of h0. There can be additional 
+phase upon reflection and refraction at 
+each interface.
+
+
+=== PAGE 82 ===
+82
+Maxima are obtained when h = jh0 (j is an integer), and minima are obtained when h = 
+(j + 1/2)h0.
+For perpendicular incidence, the first minimum corresponds to the situation for the 
+quarter-wave antireflection (AR) coating used on lenses.
+Current commercial solar cells are 
+made of silicon (n 3.5 at 
+wavelengths of 700–800 nm).
+
+
+
+
+
+
+
+
+31
+.0
+5.3
+0.1
+5.3
+0.1
+2
+2
+2
+2
+1
+2
+2
+1
+
+
+
+
+
+
+
+n
+n
+n
+n
+R
+Air  Coating (Si3N4)   Si (solar cell)
+1.0              1.9                    3.5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+2
+c
+c
+4
+2
+2
+2
+n
+m
+d
+m
+d
+n
+d
+k
+
+
+
+
+
+r12,= r12,// = 0.31
+r23,= r23,// = 0.30
+r12 = r23 in order to obtain efficient 
+destructive interference.
+3
+1
+2
+3
+2
+3
+2
+2
+1
+2
+1
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+
+
+
+
+
+
+
+nm
+92
+9.1
+4
+nm
+700
+4 2
+
+
+
+
+n
+d
+
+87
+.1
+5.3
+0.1
+3
+1
+2
+
+
+
+
+n
+n
+n
+
+
+=== PAGE 83 ===
+83
+Spectral interferometry (Hamamatsu)
+(i) By curve fitting, valid for measuring films with thicknesses below 1 m
+
+
+=== PAGE 84 ===
+84
+(ii) By fast Fourier transform (FFT), valid for measuring films with thicknesses 
+of several tens of m

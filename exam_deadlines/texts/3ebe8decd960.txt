@@ -1,0 +1,325 @@
+=== PAGE 1 ===
+AMSC5720
+Advanced Materials Synthesis 
+Topic 1 – Ceramics
+Prof. Ye CHEN
+Department of Chemistry
+Faculty of Science
+The Chinese University of Hong Kong
+Email: yechen@cuhk.edu.hk; Tel: 3943 0409
+Office: Room 244, Charles Kao Building, Science Center
+
+
+=== PAGE 2 ===
+Introduction
+2026-27 AMSC5720 - Prof. Y. Chen
+2
+▣Ceramic materials are inorganic and nonmetallic materials
+▣Most ceramics are compounds between metallic and nonmetallic 
+elements, for which the interatomic bonds are either totally ionic, 
+or predominantly ionic but having some covalent character 
+▣The term, ceramic, comes from the Greek, keramikos, meaning 
+“burnt stuff”, indicating that desirable properties of these 
+materials are usually obtained via a high-temperature hear 
+treatment process
+Structure of quartz (SiO2) 
+from three different 
+dimensional perspectives
+single crystals 
+of quartz
+
+
+=== PAGE 3 ===
+▣For those ceramics with predominantly ionic bonds, their crystal structures can be 
+composed from cations and anions
+▣Unlike metals, now we need to consider the magnitude of the electrical charge and 
+relative size of the ions to make sure:
+▣The crystal is electrically neutral (reflected by chemical formula)
+▣The structure geometry is stable (by maximizing no. of oppositely charged ion 
+neighbors)
+Crystal Structures of Ceramics
+2026-27 AMSC5720 - Prof. Y. Chen
+3
+
+
+=== PAGE 4 ===
+▣The ratio between ionic radii of cations and anions, rC/rA, is often used to predict 
+coordination geometry
+▣Coordination number increases with rC/rA
+Crystal Structures of Ceramics
+2026-27 AMSC5720 - Prof. Y. Chen
+4
+2 
+Coord. No.
+< 0.155 
+0.155 - 0.225 
+0.225 - 0.414
+0.414 - 0.732 
+0.732 - 1.0
+3 
+4
+6
+8
+linear
+triangular
+tetrahedral
+octahedral
+cubic
+rC/rA
+▣Some common ceramic crystal structures
+Structure 
+Name
+Structure 
+Type
+Anion 
+Packing
+Coordination 
+No.
+Examples
+Cation
+Anion
+Rock salt 
+(sodium 
+chloride)
+AX
+FCC
+6
+6
+NaCl, 
+MgO, FeO
+Cesium 
+chloride
+AX
+Simple 
+cubic
+8
+8
+CsCl
+Zinc blende 
+(sphalerite)
+AX
+FCC
+4
+4
+ZnS, SiC
+Fluorite
+AX2
+Simple 
+cubic
+8
+4
+CaF2, UO2, 
+ThO2
+
+
+=== PAGE 5 ===
+Point defects
+▣Vacancies exist in ceramics for both cation vacancy and anion vacancy
+▣Interstitials exist mostly for cation interstitial
+▣Defects in ceramics do not occur alone as electroneutrality must be maintained
+▣Frenkel defect: 1 cation vacancy + 1 cation interstitial
+▣Schottky defect: 1 cation vacancy + 1 anion vacancy 
+Defects in Ceramics
+2026-27 AMSC5720 - Prof. Y. Chen
+5
+Cation
+Interstitial
+Cation
+Vacancy
+Anion 
+Vacancy
+Shottky
+Defect
+Frenkel
+Defect
+
+
+=== PAGE 6 ===
+Nonstoichiometric compound
+▣The exact ratio of cations to anions deviates from the 
+chemical formula
+▣May occur when two valences (or ionic states) exist for 
+one of the ion types
+Defects in Ceramics
+2026-27 AMSC5720 - Prof. Y. Chen
+6
+Impurities
+▣Impurity atoms can form solid solution in ceramic 
+materials much as they do in metals
+▣Both substitutional and interstitial types are possible
+one Fe2+ vacancy in FeO that results 
+from the formation of two Fe3+ ions
+
+
+=== PAGE 7 ===
+Classification of Ceramics
+2026-27 AMSC5720 - Prof. Y. Chen
+7
+
+
+=== PAGE 8 ===
+▣Glasses are noncrystalline silicates containing other impurity 
+ions/oxides in the forms of Na+, Ca2+, K+, Al3+, and B3+
+▣As an amorphous solid, glass does not have a fixed melting point
+Glass
+2026-27 AMSC5720 - Prof. Y. Chen
+8
+Metallic glass: https://www.youtube.com/watch?v=oULkYytYPgs
+Na-silicate glass
+▣Heat treating glass can modify its property:
+▣
+Annealing removes internal stresses caused by uneven cooling
+▣
+Tempering adds surface tension to prevent surface crack growth
+▣
+High-temperature crystallization can increase mechanical strength and resistance to 
+thermal shock (glass-ceramics)
+▣“glass” is also used in other materials to describe the atomic randomness:
+▣
+Metallic glass: metal materials with a glass-like disordered structure
+▣
+Glass transition (mostly in polymers): a gradual transition from (semi)crystalline 
+solid to noncrystalline (or “glassy”) solid as temperature increases
+
+
+=== PAGE 9 ===
+Glass-Ceramics
+2026-27 AMSC5720 - Prof. Y. Chen
+9
+▣Glass-ceramics: a fine-grained polycrystalline 
+material obtained by crystallizing inorganic glass 
+through proper high-temperature heat treatment
+▣Fabrication of Glass-Ceramics: 
+▣Step 1 – Forming: same as normal glass (e.g. 
+pressing, drawing)
+▣Step 2 – Heat Treatment: converting glass to 
+glass-ceramic (crystallization)
+▣Example: Li2O-Al2O3-SiO2
+▣Application: ovenware, tableware, oven windows, 
+electrical insulators, architectural cladding and so on
+Figure 13.18 Typical time versus temperature 
+processing cycle for a Li2O–Al2O3–SiO2 glass-
+ceramic
+
+
+=== PAGE 10 ===
+▣Glass is produced by heating the raw materials to an 
+elevated temperature above which melting occurs (requires 
+proper adjustment of the viscosity of the molten material)
+▣Most glasses are of them silica-soda-lime variety
+▣Quartz sand silica; soda ash Na2O and CaO; limestone 
+(CaCO3)
+▣Five forming methods are used to fabricate glass products: 
+▣Pressing
+▣Blowing
+▣Drawing
+▣Sheet & fiber forming
+Glass Forming
+2026-27 AMSC5720 - Prof. Y. Chen
+10
+Press-and-blow technique for 
+producing a glass bottle
+https://www.youtube.co
+m/watch?v=dtxrtKd-Vao
+https://www.youtube.com/watch?v=ZI_ulwcPyms
+The float process for 
+making sheet glass
+https://www.youtube.com/watch?v=9s2yD2jdgbk
+Corning optical fiber cable:
+https://www.youtube.com/watch?v=4pzTZ2YoFTY
+
+
+=== PAGE 11 ===
+Heat-Treating Glasses
+2026-27 AMSC5720 - Prof. Y. Chen
+11
+Annealing
+▣Thermal stresses may arise from uneven cooling (surface vs. interior) of a ceramic 
+material from elevated temperature, causing its weakening or thermal shock fracture
+▣Glassware can be heated to the annealing point, and then slowly cool to room 
+temperature to eliminate or reduce the stress magnitude
+Glass tempering
+▣The strength of a glass piece may be enhanced by intentionally inducing compressive 
+residual surface stress
+Annealing and tension in glass:
+http://www.youtube.com/watch?v=qBlsNNPRseQ
+Cooling procedure of glass tempering
+Room-temperature 
+residual stress 
+distribution over the 
+cross section of a 
+tempered glass plate
+Tempered glass VS common glass:
+https://www.youtube.com/watch?v=feL_uXDbhAc
+heating 
+above Tg
+Surface cools first, becomes 
+rigid; Interior contraction 
+restrained by rigid exterior
+Surface: compressive
+stress
+Interior: tensile stress
+
+
+=== PAGE 12 ===
+Abrasive Ceramics
+2026-27 AMSC5720 - Prof. Y. Chen
+12
+▣Abrasive ceramics are particulate-form ceramics used to wear, grind, or cut 
+away other softer materials.
+▣Requirements: hardness (Mohs ≥ 7), toughness (resist fracture), 
+refractoriness (withstand frictional heat)
+▣Common types: 
+▣Natural: diamond, corundum (aluminum oxide), emery (inpure
+corundum), sand, calcite (calcium carbonate), etc.
+▣Manufactured: diamond, corundum, borazon (cubic BN or CBN), 
+carborundum (silicon carbide), ZrO₂–Al₂O₃, etc.
+▣Superabrasives: extremely hard
+▣Applications: grinding, polishing, lapping, drilling, cutting, sharpening, sanding.
+Figure 13.6 A clutch lining 
+pressure plate that is being 
+ground with a grinding wheel
+
+
+=== PAGE 13 ===
+Cements
+2026-27 AMSC5720 - Prof. Y. Chen
+13
+▣Inorganic cements typically include cement, plaster 
+of Paris, lime). When mixed with water, they form a 
+paste that subsequently sets and hardens.
+Hydration of cement:
+https://coach.jove.com/civil-engineering/concrete-introduction/what-is-hydration-of-cement
+Cement for concrete construction
+Source: fity.club, concrete 
+construction products
+▣Type:
+▣Hydraulic (e.g., Portland) – harden by reaction with 
+water.
+▣Nonhydraulic (e.g., lime) – harden by reaction with 
+other compounds (e.g., CO₂)
+What is Portland cement:
+https://coach.jove.com/civil-engineering/concrete-introduction/what-is-portland-cement
+
+
+=== PAGE 14 ===
+Ceramic Biomaterials
+2026-27 AMSC5720 - Prof. Y. Chen
+14
+▣Ceramic materials used in biomedical applications require properties include chemical 
+inertness, hardness, wear resistance, and low coefficient of friction.
+▣Ceramics typically used for implants include crystalline oxide materials, glasses, and 
+glass-ceramics
+▣Common cases
+▣
+High-purity and dense Al2O3 that is highly inert and unreactive:load-bearing orthopedic 
+applications involving skeletal injuries (e.g., hip prostheses)
+▣
+Zirconia (tetragona form), partially stablized with yttria (i.e. Y-TZP): orthopedic and dental 
+applications (e.g. femoral heads, dental crowns)
+▣
+Glass/glass ceramic coatings: promote bonding with tissues surrounding bones
+▣
+Dissolvable implants: graduate infiltrated with and replaced by natural bon tissue during 
+healing (i.e. ultimately dissolves and becomes absorbed into the body of the host) 
+Typical materials: tricalcium phosphate (Ca3PO4), hydroxyapatite (Ca10(PO4)6(OH)2

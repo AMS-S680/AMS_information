@@ -1,0 +1,1506 @@
+=== PAGE 1 ===
+Photovoltaic Materials
+Prof. Xinhui Lu
+Department of Physics
+The Chinese University of Hong Kong
+Email: xinhui.lu@cuhk.edu.hk
+08/10/2026
+AMSC5730 Frontiers in Advanced Materials
+
+
+=== PAGE 2 ===
+Content
+Part 1: Properties of Sunlight
+Part 2: Working Principle of Solar Cells
+Part 4: Tandem Solar Cell
+Part 5: Related Research in My Group
+Part 6: Quiz (10 min)
+Part 3: Different Types of Solar Cells: Silicon, Perovskite and Organic PVs
+2
+
+
+=== PAGE 3 ===
+Content
+Part 1: Properties of Sunlight
+Part 2: Working Principle of Solar Cells
+Part 4: Tandem Solar Cell
+Part 5: Related Research in My Group
+Part 6: Quiz (10 min)
+Part 3: Different Types of Solar Cells: Silicon, Perovskite and Organic PVs
+3
+
+
+=== PAGE 4 ===
+Harvesting Solar Energy
+❑Humans rely on the sun for warmth and food. 
+❖Fossil Fuels: 
+•
+Stored solar energy from ancient plant matter.
+❖Biomass: 
+•
+Converts solar energy into usable fuel.
+❖Wind Energy: 
+•
+Generated from solar-heated air currents.
+❖Hydropower: 
+•
+Relies on solar-evaporated water returning as 
+rain.
+❖Photovoltaics (PV): 
+•
+Direct conversion of sunlight to electricity
+•
+The device utilizing photovoltaic effect is 
+called a solar cell.
+•
+Noise-free, pollution-free, durable
+❑Various other methods to harness solar energy:
+4
+
+
+=== PAGE 5 ===
+Properties of Light
+❑Wave-Particle Duality:
+•
+Light behaves as both a wave and a particle (photon).
+•
+Photon as a Wave Packet: A collection of waves that can appear as:
+•
+Localized: Acts like a particle.
+•
+Non-localized: Acts like a wave.
+❑Key Characteristics of Sunlight:
+▪Energy and wavelength relation:
+𝐸(𝑒𝑉) = ℎ𝑐
+𝜆= 1240
+𝜆 (𝑛𝑚)
+▪Photon Flux (sec−1𝑚−2): number of photons per time per area
+Φ = 𝑛𝑜. 𝑜𝑓 𝑝ℎ𝑜𝑡𝑜𝑛𝑠
+sec⋅𝑚2
+▪Irradiance / Power density (𝑊/𝑚2) :
+𝐻= Φ × 𝐸
+5
+
+
+=== PAGE 6 ===
+Spectral Irradiance
+❑Definition of Spectral Irradiance 𝑭(𝝀):
+•
+Spectral irradiance gives the power density at a 
+specific wavelength.
+•
+Commonly used to characterize light sources.
+•
+Units: W/m2/μm
+•
+W/m2: Power density at a given wavelength.
+•
+μm−1: Refers to the wavelength of interest.
+𝐻= න
+0
+∞
+𝐹𝜆𝑑𝜆
+•
+Artificial Light Sources: 
+•
+Spectral irradiance typically varies across different 
+wavelengths.
+•
+Solar Spectral Irradiance: 
+•
+The sun provides a continuous spectrum, often 
+used as a reference.
+6
+
+
+=== PAGE 7 ===
+Blackbody Radiation – Model of Light Sources
+❑Most light sources can be modelled as the radiation emitted 
+from a blackbody at a temperature T. The spectral Irradiance 
+is given by Planck’s law:
+𝐹𝜆=
+2𝜋ℎ𝑐2
+𝜆5 𝑒𝑥𝑝
+ℎ𝑐
+𝑘𝑇𝜆−1
+❑The Sun is models as a Blackbody at 𝑇≈6000 K. The power 
+density at the Sun's surface is determined by integrating 
+over all wavelengths: 
+𝐻𝑠𝑢𝑛= 𝜎𝑇4 = 64 × 106 W/m2
+where 𝜎= 5.67 × 10−8 J/m2s K4, is called the Stefan-Boltzmann 
+constant.
+❑The power density on an object due to the Sun’s radiation.
+𝐻0 = 𝑅𝑠𝑢𝑛
+2
+𝐷2 𝐻𝑠𝑢𝑛
+𝑅𝑠𝑢𝑛= 695 × 106 m. 
+7
+
+
+=== PAGE 8 ===
+Terrestrial Solar Radiation
+Blackbody 
+AM0
+AM1.5 
+❑For photovoltaic applications on earth, the distance from the sun 
+to the earth is 150 × 109 m. Therefore, the solar irradiance is a 
+constant: 1.366 kW/m² (the solar constant).
+❑Atmospheric Effects:
+•
+The major factor is the absorption and scattering of light due 
+to air molecules and dust.
+•
+Air Mass (AM):  the path length which light takes through the 
+atmosphere normalized to the normal incidence path length.
+𝐴𝑀=
+1
+𝑐𝑜𝑠𝜃=
+1 + 𝑠
+ℎ
+2
+e.g. For AM0, θ = 0°; For AM1.5,θ = 48.2°. 
+•
+Specific gasses, notably ozone (O3), carbon dioxide (CO2), 
+and water vapor (H2O), have very high absorption of photons 
+that have energies close to the bond energies of these 
+atmospheric gases.
+•
+Global standard solar spectrum: AM1.5G, One Sun Condition: 
+a solar irradiance of 1000 W/m2 or 100 mW/cm2 
+8
+
+
+=== PAGE 9 ===
+Content
+Part 1: Properties of Sunlight
+Part 2: Working Principle of Solar Cells
+Part 4: Tandem Solar Cell
+Part 5: Related Research in My Group
+Part 6: Quiz (10 min)
+Part 3: Different Types of Solar Cells: Silicon, Perovskite and Organic PVs
+9
+
+
+=== PAGE 10 ===
+Solar Cell Working Principle
+General Procedure:
+❑Light Absorption and Exciton Formation: Photons 
+can be absorbed by a semiconductor material like 
+silicon, The absorbed energy knocks electrons from 
+their normal atomic bonds to excited states, 
+creating electron-hole pairs, which is called 
+exciton.
+❑Charge Carrier Separation: A built-in electric field 
+pushes the loosely paired electrons and holes to 
+separate and move towards in opposite directions. 
+❑Charge Carrier Collection: Electrons and holes 
+eventually reach the corresponding electrodes, 
+generating a current flow to power external load.
+10
+
+
+=== PAGE 11 ===
+Light Absorption
+Light Absorption by a Semiconductor
+Band Structure
+Semiconductor Fundamentals (Lecture 2):
+•
+Valence band (VB): Highest occupied energy levels where 
+electrons are bound.
+•
+Conduction band (CB): Lowest unoccupied energy levels where 
+electrons are free to move.
+•
+Band gap (𝑬𝒈): The energy difference between Conduction Band 
+Minimum (CBM) and Valence Band Maximum (VBM)
+•
+Photons with energy larger than 𝐸𝑔 can excite electrons from 
+valence band to conduction band
+𝐸(𝑒𝑉) = ℎ𝑐
+𝜆= 1240
+𝜆 (𝑛𝑚)
+For example: To absorb photons with wavelengths larger than 1000 nm,
+the band gap of the semiconductor should be less than 1.24 eV 
+11
+
+
+=== PAGE 12 ===
+Charge Carrier Separation
+A solar cell is a typical p-n junction diode
+❑Depletion Region:
+•
+As electrons and holes diffuse, fixed charges are exposed (negative on the p-side, positive on 
+the n-side). This creates an electric field that opposes further diffusion.
+•
+When the new equilibrium is formed, the electric field is called built-in potential (Vbi).
+•
+The distance that electrons and holes are separated is called depletion region width.  
+❑p-n Junction Formation:
+•
+p-type: High hole concentration.
+•
+n-type: High electron concentration.
+•
+Diffusion Current: Charge carrier movement 
+due to concentration difference. Electrons 
+diffuse from n-type to p-type, and holes diffuse 
+from p-type to n-type
+•
+Drift Current: Charge Carrier movement due 
+to potential difference
+12
+
+
+=== PAGE 13 ===
+Diode Equation
+Th current-voltage curve of a solar cell is given by the diode equation:
+ 
+❑Under Dark (𝐼𝐿= 𝟎)
+•
+Forward Bias (p-type side +; n-type side -): 
+•
+Reduce Build-in Field (reduce depletion region width), 
+Increase Further Diffusion (holes move toward n-type side; 
+electrons move toward p-type side)
+•
+𝐼= 𝐼𝑑𝑖𝑜𝑑𝑒 increase exponentially with the increase of V.
+•
+Reverse Bias (p-type side -; n-type side +):
+•
+Increase Build-in Field (increase depletion region width)
+•
+𝐼→−𝐼0 for large reverse bias. 𝐼0 is the reverse saturation 
+current (also called the dark saturation current).
+𝐼= 𝐼𝑑𝑖𝑜𝑑𝑒−𝐼𝐿= 𝐼0 exp
+𝑞𝑉
+𝑛𝑘𝑇
+−1 −𝐼𝐿
+13
+
+
+=== PAGE 14 ===
+Diode Equation
+❑Under Light (𝐼𝐿> 0)
+•
+Photoexcited minority carriers reaching the depletion region are 
+swept across by the electric field (Drift current)
+•
+Contributing to photocurrent 𝐼𝐿 (holes move toward p-type side; 
+electrons move toward n-type side, opposite to 𝐼𝑑𝑖𝑜𝑑𝑒 )
+❑For a real solar cell, more effects that can affect the performance 
+are included in a modified diode equation as parasitic resistances:
+𝐼= 𝐼0 exp 𝑞(𝑉+ 𝐼𝑅𝑠)
+𝑛𝑘𝑇
+−1 + 𝑉+ 𝐼𝑅𝑠
+𝑅𝑠ℎ
+−𝐼𝐿
+•
+Causes of Series Resistance 𝑅𝑠 (the smaller the better):
+1. Bulk resistance of the active layer.
+2. Resistance in the metal contacts (top and rear).
+3. Contact resistance between the electrode and the active layer.
+•
+Causes of Shunt Resistance 𝑅𝑠ℎ (the bigger the better):
+1. Leakage pathway, defects, impurity, pinholes, contact shorts
+2. Low shunt resistance provides an alternative path for the light-
+generated current, causing power loss. 
+14
+
+
+=== PAGE 15 ===
+Key I-V Characteristics
+❑Short-Circuit Current ( 𝐼𝑆𝐶) (unit: Ampere)/ Current Density 
+(𝐽𝑆𝐶) (unit: A/m2): Current/current density at short-circuit condition 
+𝑉= 0 (ideal diode): 
+𝐼𝑆𝐶= −𝐼𝐿
+❑Open-Circuit Voltage (𝑉𝑂𝐶) (unit: Volt): Voltage at open-circuit 
+condition 𝐼= 0 (ideal diode): 
+𝑉𝑂𝐶= 𝑛𝑘𝑇
+𝑞ln 𝐼𝐿
+𝐼0
++ 1
+❑Fill Factor (𝐹𝐹) (unit: %): the ratio of the maximum power output 
+(𝑃𝑚𝑎𝑥) to the product of 𝐼𝑆𝐶 and 𝑉𝑂𝐶
+𝐹𝐹= 𝐼𝑚𝑝𝑉𝑚𝑝
+𝐼𝑆𝐶𝑉𝑂𝐶
+❑Power Conversion Efficiency (PCE): The ratio of maximum 
+power output (𝑃𝑜𝑢𝑡) and power input (𝑃𝑖𝑛)
+𝑃𝐶𝐸= 𝐼𝑆𝐶𝑉𝑂𝐶𝐹𝐹 (𝐴⋅𝑉⋅%)
+𝑃𝑖𝑛 (𝑊)
+= 𝐽𝑆𝐶𝑉𝑂𝐶𝐹𝐹(𝐴/𝑚2 ⋅𝑉⋅%)
+𝐻𝑖𝑛(𝑊/𝑚2)
+Standard Testing Condition 
+(one Sun condition)
+AM1.5G at 25oC
+  solar irradiance 𝐻𝑖𝑛 of 1000 W/m2 
+15
+
+
+=== PAGE 16 ===
+Short-Circuit Current
+❑The short-circuit current is the current through the 
+solar cell when the voltage across the solar cell is 
+zero, which can be calculated by 
+𝐽𝑆𝐶= 𝑞න
+𝜆𝑚𝑖𝑛
+𝜆𝑚𝑎𝑥
+𝐸𝑄𝐸𝜆⋅𝐹𝜆𝑑𝜆
+•
+q is the elementary charge (1.6 × 10−19𝐶)
+•
+𝐸𝑄𝐸(𝜆) is called external quantum efficiency, 
+being the ratio of collected carriers to incident 
+photons for a given wavelength.
+•
+𝐹𝜆 is the incident spectral photon flux (e.g., 
+from the AM 1.5G Solar Spectrum)
+❑Key factors affecting Jsc:
+•
+Semiconductor bandgap (𝐸𝑔): photons of energy smaller than the bandgap of the semiconductor 
+cannot be absorbed, leading to the EQE cut-off in the long wavelength region. 
+•
+Surface Recombination: High front surface recombination reduces EQE in the short wavelength region.
+•
+Diffusion Length: Low diffusion length reduces EQE in the medium wavelength region.
+•
+Optical Losses: Reflection and transmission losses also reduce EQE (across various wavelengths).
+https://www.undalogic.com/tools/eqe-analysis
+16
+
+
+=== PAGE 17 ===
+Open-Circuit Voltage
+❑The Open-Circuit Voltage is the maximum potential difference, or voltage, across an open circuit. It 
+represents the balance between the photogenerated current and the recombination current.
+𝑉𝑂𝐶= 𝑛𝑘𝑇
+𝑞ln 𝐼𝐿
+𝐼0
++ 1
+❑Key factors determining Voc:
+•
+Semiconductor bandgap (𝐸𝑔): sets the absolute upper limit for the voltage. 
+•
+Light Intensity of the sunlight or the photocurrent (𝑰𝑳): The increase of the intensity of the sunlight 
+(W/m2 ) increases 𝐼𝐿 linearly and slightly increases 𝑉𝑂𝐶 logarithmically. 
+•
+Dark saturation current (𝐼0): A measure of recombination losses inside the device (defects, 
+impurities, and poor material quality). Lower recombination (I₀) results in a higher 𝑉𝑂𝐶.
+•
+Diode ideality factor (n): A number (typically between 1 and 2) that describes how closely the diode 
+follows pure band-to-band radiative or trap-assisted non-radiative recombination behavior. 
+•
+Temperature (T): Although there is a linear pre-factor of T in the formula, increasing temperature will 
+reduce Eg and exponentially increase the intrinsic carrier density, and thus the dark saturation 
+current, completely dominating the equation. Voc will decrease with the increase of T.
+17
+
+
+=== PAGE 18 ===
+Fill Factor
+❑Fill factor is defined as the ratio of the maximum power output 
+(Pmax) to the product of ISC and VOC. It describes the “rectangle-
+ness” of the J-V curve.
+❑Key factors determining FF:
+•
+Series Resistance (Rs): The smaller the better
+•
+Shunt Resistance (Rsh): The larger the better
+•
+Open-Circuit Voltage (Voc): This is the single most dominant 
+factor determining ideal fill factor. The maximum ideal fill 
+factor (FF₀) can be closely approximated as a function of 
+normalized voltage. 𝑣𝑜𝑐= 𝑞𝑉𝑜𝑐
+𝑘𝑇
+:
+𝐹𝐹0 = 𝑣𝑜𝑐−ln 𝑣𝑜𝑐+ 0.72
+𝑣𝑜𝑐+ 1
+•
+Temperature (T): Higher temperatures increase thermal 
+energy (kT), which increases the rate of carrier recombination, 
+simultaneously dropping both Voc and FF, slightly increasing 
+Jsc.
+1/𝑅𝑠ℎ
+1/𝑅𝑠
+18
+
+
+=== PAGE 19 ===
+Content
+Part 1: Properties of Sunlight
+Part 2: Working Principle of Solar Cells
+Part 4: Tandem Solar Cell
+Part 5: Related Research in My Group
+Part 6: Quiz (10 min)
+Part 3: Different Types of Solar Cells: Silicon, Perovskite and Organic PVs
+19
+
+
+=== PAGE 20 ===
+Generations of Solar Cell
+❑3rd Generation: Emerging Technologies
+Efficiency: 25% – 40%+ (Lab)
+Cost: Varies (Low to High)
+• Includes perovskites, organic PV, and multijunction 
+cells. Aims for high efficiency with potential for lower 
+costs, but some are still in development.
+❑1st Generation: Crystalline Silicon (Si)
+Efficiency: 15% – 26%  Cost: High
+• Mature, reliable technology. Dominates the market but 
+has higher manufacturing costs due to material usage.
+❑2nd Generation: Thin-Film Technologies
+Efficiency: 10% – 20%  Cost: Lower
+• Uses less material, can be flexible. Lower efficiency 
+but cost-effective for large-scale deployment.
+20
+
+
+=== PAGE 21 ===
+AM 
+1.5G
+1.2
+1.4
+Photovoltaic Materials
+❑
+Detailed balance: absorption and 
+emission must be balanced for a solar cell.
+❑
+Shockley-Queisser (SQ) limit: only 
+consider inevitable loss. 
+• Mobility is infinite. 
+• Above bandgap photons are completed 
+absorbed.
+❑
+By SQ limit, theoretical optimal bandgap: 
+1.34 eV, maximum PCE: 33.7%
+❑
+Inorganic Semiconductors
+•
+GaAs 1.42eV     - η~29% (Single Junction Champion)
+•
+InP 
+1.35eV 
+- also favored for high η
+•
+Silicon     1.1eV  - Market leader, η~26%
+•
+CdTe 1.56 eV 
+- First Solar Inc.
+•
+CuInxGa(1-x)Se2  1.0-1.7 eV - CIGS 
+❑
+Organic Semiconductors  
+•
+Tunable: 1 – 4 eV 
+❑
+Perovskite 
+•
+Tunable: MAPbI3 ~1.55eV     FAPbI3 ~1.48eV
+21
+
+
+=== PAGE 22 ===
+Crystalline Silicon (c-Si) Solar Cells
+Silicon ingot
+Diamand Cubic Lattice
+By VectorVoyager
+•
+Silicon is a semiconductor of a band gap of 1.1eV.
+•
+Crystalline silicon is a stable material.
+•
+Silicon is the second most abundant element in the earth’s crust after Oxygen.
+•
+Silicon is non-toxic, cheap and readily available. 
+•
+When Silicon is doped with group III or group V atoms, becoming more conductive 
+p-type or n-type materials.
+22
+
+
+=== PAGE 23 ===
+Basic c-Si Solar Cell Design
+Good optical absorption and low
+surface reflectivity
+Passivation
+For effective charge 
+separation, Vbi should 
+be large, recombination
+should be low and the 
+junction should locate 
+close to surface
+P-N
+Good conductivity 
+Low contact resistance
+Electrode
+Top Contact
+How to avoid recombination 
+in the bulk and decrease 
+contact resistance which is 
+detrimental to PCE.
+Rear contact
+23
+
+
+=== PAGE 24 ===
+P-N Junction
+https://www.novergysolar.com/topcon-vs-perc-vs-hjt-solar-cells/
+TOPCON
+(Tunnel Oxide Passivated Contact)
+Ultrathin SiO2
+❑Different types of p-n junction 
+technologies have been developed 
+over the years
+❑Typical p-n junction consist of a 
+thicker p-type wafer + a thinner n-
+type emitter, i.e. PERC
+❑New technology employs a thicker 
+n-type wafer + a thinner p-type 
+emitter, i.e. TOPCon
+❑Light is mainly absorbed in the 
+thicker layer. Minority carriers need 
+to travel longer path to reach the 
+corresponding contact, therefore its 
+mobility in the thick layer is critical. 
+PERC 
+(Passivated Emitter Rear Cell)
+24
+
+
+=== PAGE 25 ===
+Top Contact
+The series resistance of a solar cell consists of several components as shown in 
+the diagram below. Of these components, the emitter and top grid (consisting of 
+the finger and busbar resistance) dominate the overall series resistance and are 
+therefore most heavily optimized in solar cell design. 
+ELEG620: Solar Electric Systems University of Delaware, ECE Spring 2006 C. Honsberg
+25
+
+
+=== PAGE 26 ===
+Back Contact
+➢Eliminate Shading Losses
+•
+Both the negative and positive contacts are placed on the rear of the cell.
+•
+No metal grid on the front means no shading of the active surface.
+•
+Ideal for Concentrator Applications
+➢Efficient Thin Silicon  
+Excellent Carrier Collection
+➢Ideal for Concentrator 
+Systems: Reduced Series 
+Resistance
+➢Rear Contacts: Simplified 
+Interconnection
+26
+
+
+=== PAGE 27 ===
+Surface Recombination and Passivation
+The defects at a semiconductor surface are caused by the interruption to the 
+periodicity of the crystal lattice, which causes dangling bonds at the 
+semiconductor surface. The reduction of the number of dangling bonds, and 
+hence the recombination, is achieved by growing a layer on top of the 
+semiconductor surface which ties up some of these dangling bonds. This 
+reduction of dangling bonds in known as surface passivation. 
+27
+
+
+=== PAGE 28 ===
+Surface Recombination and Passivation
+Surface texturing, either in combination with an anti-reflection 
+coating or by itself, can also be used to minimize reflection. Any 
+"roughening" of the surface reduces reflection by increasing the 
+chances of reflected light bouncing back onto the surface, rather 
+than out to the surrounding air. 
+~1019
+~1016
+Roughening 
+the surface
+28
+
+
+=== PAGE 29 ===
+Roadmap of Solar Cell Efficiencies
+29
+
+
+=== PAGE 30 ===
+Advantages of Organic and Perovskite Solar Cells
+➢Low-cost
+➢Solution processable
+➢Semi-transparent
+➢Flexible
+➢Colorful
+P-1 represents the TiO2 perovskite module; 
+P-2 represents the ZnO perovskite module.
+Energy Environ. Sci., 2015, 8, 1953-1968
+30
+
+
+=== PAGE 31 ===
+Organic Photovoltaics (OPVs)
+❖Organic photovoltaic (OPV) cells use donor (D) and acceptor (A) 
+materials, not p-n junctions like inorganic cells. (Lecture 3)
+❖Donor/Acceptor absorbs photons and generates excitons (electron-hole 
+pairs). Donor/Acceptor receives holes/electrons after exciton 
+dissociation.
+Donor
+Acceptor
+❑Charge Carrier Conductivity:
+Delocalization of π Electrons:
+•
+Overlapping π orbitals lead to extended electron mobility.
+•
+Charge carriers can move freely, enhancing conductivity.
+HOMO and LUMO:
+•
+HOMO: Highest Occupied Molecular Orbital.
+•
+LUMO: Lowest Unoccupied Molecular Orbital.
+❑Energy Gap:
+1. Band gap (HOMO-LUMO gap) is typically 1–4 eV.
+2. High absorption coefficient: ~10^5 cm⁻¹.
+3. Allows visible light photons to excite electrons from HOMO to LUMO.
+31
+
+
+=== PAGE 32 ===
+Working Mechanism of OPVs
+❑Photon Absorption:
+•
+Photons with energy > band gap create excitons (bound electron-hole pairs).
+❑Exciton Diffusion:
+•
+Excitons in OPVs are strongly bound due to the low dielectric constant of 
+organic materials.
+•
+Exciton binding energy: ~0.3 eV, much higher than in inorganic materials.
+•
+Short diffusion length (~10 nm) is due to the localized nature of electrons in 
+organic molecules.
+❑Exciton Dissociation:
+•
+At the donor-acceptor interface, excitons split into free charges
+•
+The LUMO offset of donor and acceptor must be larger than exciton binding 
+energy. 
+❑Charge Transfer and Transport:
+✓If excitons are generated from donors
+•
+Electrons transfer to acceptor domains and transport to cathode.
+•
+Holes remain in donor domains and transport to anode.
+✓Vice versa
+32
+
+
+=== PAGE 33 ===
+Bulk Heterojunctions-Basics 
+❑Advantages:
+•
+Bulk heterojunctions outperform layered structures by allowing for 
+thicker layers for effective photon absorption.
+•
+Simplifies processing compared to oriented layered structures 
+while maintaining similar performance levels.
+❑Structure of Bulk Heterojunctions:
+•
+Comprised of a nanoscale mixture of donor and acceptor materials.
+•
+Typically includes conjugated molecules as donors and fullerenes as acceptors.
+❑Nanoscale Domain Size:
+•
+Aims to significantly increase interface area for light absorption 
+and exciton dissociation.
+•
+Enables short-lived excitons to reach the interface.
+•
+Increased donor-acceptor interface area enhances exciton 
+dissociation.
+❑Challenges:
+•
+Requires control over domain size to form a percolating network.
+•
+Otherwise: Charges may become trapped in donor or acceptor-rich domains, leading to recombination.
+33
+
+
+=== PAGE 34 ===
+Current Status of OPVs
+❑Advantages:
+•
+Low-cost production: Organic materials can be processed using solution-based methods (e.g., printing), 
+making large-scale manufacturing inexpensive.
+•
+Flexibility: Organic materials are flexible, enabling applications in flexible electronics and semi-transparent 
+devices (e.g., windows, walls).
+•
+Lightweight: OPVs are significantly lighter than traditional silicon-based solar cells, ideal 
+for portable and autonomous sensors.
+Organic Photovoltaic 
+manufactured by the 
+company Solarmer.
+❑Challenges:
+1. Lower efficiency: OPV efficiency is lower than traditional silicon 
+solar cells.
+2. Stability issues: OPVs suffer from photochemical degradation, 
+reducing their lifespan.
+3. Mechanical strength: Organic materials are generally less 
+durable than inorganic counterparts.
+34
+
+
+=== PAGE 35 ===
+Perovskite Solar Cells (PSCs)
+Lev Alekseyevich von Perovski
+Perovskite Crystal Structure
+CaTiO3 Perovskite Mineral
+Origin of the name of “Perovskite”
+(1792-1856)
+Russian Mineralogist
+35
+
+
+=== PAGE 36 ===
+Structure and Property of Perovskite Halide
+ABX3 structure
+X-=Cl-, Br-, I-
+B2+=Pb2+, Sn2+
+A+=CH3NH3
++(MA+), 
+HC(NH2)2
++(FA+)
+Organic-inorganic 
+perovskite
+Inorganic 
+perovskite
+A+=Cs+, Rb+ 
+✓Adjustable bandgap (1.2-2.3 eV)
+✓High Absorption Coefficient (104-105 cm-1)
+✓Cheap raw materials
+✓Long exciton diffusion length (~1 μm)
+✓High defect tolerance
+✓Solution processibility
+Ideal optoelectronic properties for PV
+Challenges
+✓Pb Toxicity
+✓Stability 
+36
+
+
+=== PAGE 37 ===
+Bandgap of Perovskite Halide
+37
+
+
+=== PAGE 38 ===
+Device Structure of PSCs
+38
+
+
+=== PAGE 39 ===
+Content
+Part 1: Properties of Sunlight
+Part 2: Working Principle of Solar Cells
+Part 4: Tandem Solar Cell
+Part 5: Related Research in My Group
+Part 6: Quiz (10 min)
+Part 3: Different Types of Solar Cells: Silicon, Perovskite and Organic PVs
+39
+
+
+=== PAGE 40 ===
+Tandem Solar Cell - Motivation
+From Single → Multi-junction
+Motivation
+Single junction solar cell 
+efficiency limit ~ 33%
+W. Shockley and H. J. Queisser, J. Appl. Phys. 32, 
+510(1961) “Detailed Balance Limit of Efficiency of 
+p-n Junction Solar Cells”
+Loss mechanisms
+L. C. Hirst, and N. J. Ekins-Daukes, Prog. Photovolt: 
+Res. Appl. 2011, 19, 286 
+The absorbed photon energy above the 
+semiconductor band gap cannot be utilized
+Shockley and Queisser (1961)
+40
+
+
+=== PAGE 41 ===
+Tandem Solar Cell – Device Architecture
+Device Architecture 
+Top Cell
+Recombination layer
+Bottom Cell
+Two Terminal(2T)
+Top Cell
+Adhesive layer
+Bottom Cell
+Four Terminal(4T)
+2T
+•
+Series Connection
+•
+Current Matching
+•
+Cheap
+•
+Easy Wiring
+4T
+•
+Mechanically stacked
+•
+No current matching
+•
+Expensive
+•
+Complex wiring
+41
+
+
+=== PAGE 42 ===
+Popular Types of Tandem Solar Cell
+Tandem Cell Type
+Record 
+Efficiency
+Record Holder
+Certifying 
+Authority
+Key Feature / Advantage
+Perovskite-Silicon
+35.5%
+LONGi
+European Solar 
+Test Installation 
+(ESTI)
+Builds directly onto existing commercial 
+silicon manufacturing.
+III-V on Silicon
+31.3%
+Fraunhofer ISE
+Fraunhofer ISE 
+Internal 
+Calibration
+Extreme long-term stability and high 
+performance, but high manufacturing 
+costs.
+All-Perovskite
+31.38%
+SolaEon Technology
+China National 
+Institute of 
+Metrology (NIM)
+Flexible, lightweight, and features a 
+notably lower manufacturing carbon 
+footprint.
+Perovskite-OPV
+28.04%
+Chinese Academy of 
+Sciences (CAS)
+CAS Institute of 
+Chemistry / 
+Independent 
+National Lab
+Highly scalable via continuous roll-to-
+roll printing, making it exceptionally 
+lightweight and flexible.
+Perovskite-CIGS
+25.5%
+Helmholtz-Zentrum 
+Berlin (HZB)
+European Solar 
+Test Installation 
+(ESTI)
+Ideal for ultra-lightweight, flexible 
+applications like aerospace and vehicle-
+integrated PVs.
+42
+
+
+=== PAGE 43 ===
+Content
+Part 1: Properties of Sunlight
+Part 2: Working Principle of Solar Cells
+Part 4: Tandem Solar Cell
+Part 5: Related Research in My Group
+Part 6: Quiz (10 min)
+Part 3: Different Types of Solar Cells: Silicon, Perovskite and Organic PVs
+43
+
+
+=== PAGE 44 ===
+Microstructures in Organic and Perovskite Solar Cells
+Bulk Heterojunction (BHJ)
+Face on 
+Edge on 
+Lamellar
+stacking
+Pi-pi 
+stacking
+Organic Photovoltaics (OPVs)
+Perovskite Solar Cells (PSCs)
+Adv. Sci., 2024, 2309668; ACS Nano, 2023, 17, 20634; ACS Energy Lett., 2023, 8, 3188;
+ACS Energy Lett., 2022, 3251; Adv. Mater., 2021, 2105290; Adv. Mater., 2020, 2004630; 
+Adv. Mater., 2019, 1901284; Adv. Energy Mater, 2018, 1703399
+A=CH3NH3
++ (MA),   
+     CHNH2NH2
++ (FA), Cs+
+B=Pb2+ , Sn2+
+X=I- , Br- or Cl-
+ABX3
+orthorhombic
+hexagonal
+α-phase
+cubic 
+β-phase
+tetragonal 
+γ-phase
+orthorhombic 
+δ-phase
+δ-phase
+Tolerance factor 𝑡=
+𝑟𝐴+𝑟𝑋
+2 𝑟𝐵+𝑟𝑋 
+Energy Environ. Sci., 2024, 17, 8893; Nat. Commun., 2024, 15, 2784; Adv. Energy Mater, 
+2024, 2303785 ; Adv. Funct. Mater., 2023, 2303307; Nat. Commun., 2021, 12, 6226; 
+Adv. Mater., 2018, 1802888; Chem. Mater, 2016, 28, 6186; Nat. Commun., 2012, 3, 795
+Understanding the relationship between Structure-Performance!
+44
+
+
+=== PAGE 45 ===
+Our Approach: Grazing-Incidence X-ray and Neutron Scattering
+റ𝑞= 𝑘𝑓−𝑘𝑖
+𝑘𝑖,𝑓= 2 Τ
+𝜋𝜆
+𝑞𝑧
+𝑞𝑦
+Qy
+Grazing-incidence
+Reciprocal Space
+റ𝑞= 4𝜋
+𝜆sin 2𝜃
+2
+http://www.abhipod.bravehost.com/researchpage/UGCMRP_05_06_ForWeb/ewald_animation_5.gif
+Ԧ𝑞
+𝑘𝑖
+𝑘𝑜
+•
+q components in the sample reference
+Ԧ𝑞= Ԧ𝐺
+2𝑑sin 𝜃= 𝜆
+𝑑= 2𝜋
+റ𝑞
+1. Peak position gives interplanar distance
+2. q direction tells you the crystal orientation 
+ 
+OOP: 𝑞𝑧=
+2𝜋
+𝜆
+sin 𝛼𝑖+ sin 𝛼𝑓 
+IP: 𝑞𝑥=
+2𝜋
+𝜆
+cos 𝛼𝑓cos 𝜑−cos 𝛼𝑖
+ 𝑞𝑦= 2𝜋
+𝜆
+cos 𝛼𝑓sin 𝜑
+𝑞𝑟=
+𝑞𝑥
+2 + 𝑞𝑦
+2
+Sample
+Qx
+Qz
+out-of-plane (OOP)
+in-plane (IP)
+Thin Film
+Qy in-plane (IP)
+•
+normal direction of the crystal 
+planes (structure order) 
+45
+
+
+=== PAGE 46 ===
+Grazing Incidence Wide-Angle and Small-Angle Scattering
+To adjust the probing length scale, we adjust the collecting scattering angle 
+by changing the sample-to-detector distance (STD)
+qz
+qr
+IP
+OOP
+Reciprocal 
+space
+STD～several tens of cm
+𝑞 range : 0.2 to 2 Å−1
+d range ∶0.3 to 3 nm
+STD～several m 
+𝑞 range : ~0.002 to 0.2 Å−1
+d range ∶ 3 to 300 nm
+𝑑= 2𝜋
+റ𝑞
+e.g. 𝐸𝑥−𝑟𝑎𝑦≈10 𝐾𝑒𝑉 𝑜𝑟 𝐸𝑛𝑒𝑢𝑡𝑟𝑜𝑛=
+100 𝑚𝑒𝑉⇒𝜆≈1 Å
+𝜃≈1° ⇒𝑞≈0.2 Å−1
+റ𝑞= 4𝜋
+𝜆sin 2𝜃
+2
+GISAXS/GISANS sensitive to 
+nanoscale structure 
+ordering, such as 
+grain/domain size
+GIWAXS 
+sensitive 
+to 
+orientation 
+and 
+lattice 
+spacing, probing angstrom 
+scale features
+46
+
+
+=== PAGE 47 ===
+GIWAXS Pattern Indexing to Study Crystal Structure
+Principle: the same as Diffraction
+Direct Lattice
+Reciprocal Lattice
+Plane (hkl) in direct space 
+Point (hkl) in reciprocal space 
+b
+c
+a
+(111)
+b*
+c*
+a*
+(111)
+(002)
+(002)
+Case 1: Polycrystalline with no Orientational Order
+Case 2: Polycrystalline with Vertical Orientational Order
+𝑞𝑟
+𝑞𝑧
+111
+200
+220
+311
+222 400
+020/
+002
+𝑞𝑟
+𝑞𝑧
+111
+220/202
+022
+222
+311
+400
+200
+FCC
+BCC
+47
+
+
+=== PAGE 48 ===
+GIWAXS to Study Crystal Structure of Perovskite 
+Orientational Order
+Qin , Lu* et al , Adv. Mater. 2021, 33, 2105290
+Phase Purity
+Qin , Lu* et al, Adv. Energy Mater. 2018, 8, 1703399
+A=CH3NH3
++ (MA) ,   
+     CHNH2NH2
++ (FA), Cs+
+B=Pb2+ , Sn2+
+X=I- , Br- or Cl-
+ABX3
+a
+b
+c
+𝛼 phase – pseudo cubic
+48
+
+
+=== PAGE 49 ===
+GIWAXS to Study Crystalline Packing of OPV Molecules
+High-T Thermal Annealing to Promote Molecular Packing
+Xiao, Lu* et al. JMCA 2021, 9, 17030
+Y6 250oC
+002
+001
+100/
+100
+101
+201
+102
+103
+004
+201
+203
+400
+303
+302
+301
+005
+Biaxial backbone order！
+“Backbone-on”
+Y6
+49
+
+
+=== PAGE 50 ===
+GIWAS to Study Semi-Crystalline Packing of OPV Molecules
+ITIC-Th
+Polymer Donor: Fullerene Acceptor
+P3HT:PCBM
+a: lamellar
+b: π-π
+c: backbone
+Non-Fullerene Acceptor
+ITIC
+a
+b
+c
+a
+b
+c
+end-group π-π stacking → backbone order 
+core-group π-π stacking
+(010) 𝜋−𝜋
+(100) 
+lamellar
+(010) 𝜋−𝜋
+(001) 
+backbone
+(100) 
+lamellar
+Mai, Lu* et al., Adv. Mater. 2018, 1802888
+Lu et al , Chem. Mater, 2015, 27(1), 60
+50
+
+
+=== PAGE 51 ===
+GIWAS to Study Semi-Crystalline Packing of OPV Molecules
+0.5
+1.0
+1.5
+2.0
+0
+50
+100
+Intensity (a.u.)
+q (Å-1)
+ out-of-plane
+ fitting
+ π-π peak 1 1.73 Å-1 CCL = 17.1 Å 
+ π-π peak 2 1.41 Å-1 CCL = 22.2 Å
+0.5
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+Intensity (a.u.)
+q (Å-1)
+ in-plane
+ fitting
+ Peak 1 0.30 Å-1 CCL = 70.2 Å
+ Peak 2 0.40 Å-1 CCL = 47.7 Å
+0.5
+1.0
+1.5
+2.0
+0
+50
+Intensity (a.u.)
+q (Å-1)
+ in-plane
+ out-of-plane
+Typical data analysis steps:
+1. Perform in-plane and out-of-plane 
+linecuts
+2. Fit peaks with gaussian 
+3. Peak position determines lattice 
+constants and stacking types
+4. Peak width (FWHM) determines 
+crystal correlation length (CCL) by 
+Scherrer equation
+𝐶𝐶𝐿= 0.9 × (
+2𝜋
+𝐹𝑊𝐻𝑀)
+5. q vector direction determines 
+stacking direction 
+51
+
+
+=== PAGE 52 ===
+In-Situ GIWAXS to Study Perovskite Crystallization Pathway
+Qin , Lu* et al, Adv. Mater. 2019, 31, 1901284
+Advantage: High Brilliance;  Measurement Time: <1 s
+https://en.wikipedia.org/wi
+ki/SOLEIL
+one-step method
+Annealing window
+52
+
+
+=== PAGE 53 ===
+GISAS to Study the In-Plane Nanomorphology of OPVs
+GISAXS
+Horizontal linecut at Yoneda Peak (𝑞𝑌= 4𝜋
+𝜆sin 𝛼𝑖+𝛼𝑐
+2
+): gives in-plane structure order
+To fit the curve, list possible scattering contributions to total scattering intensity:
+❖
+𝑃𝑞
+ is averaged form factor, describing the size and shape of the building block.
+𝐼𝑞= 𝐴2 𝑃(𝑞) 𝑆 (𝑞) 
+𝐼𝑞=
+𝐴1
+1 + (𝑞𝜉𝑑𝑎𝑏)2 2
+𝜉𝑑𝑎𝑏: Correlation length of amorphous 
+intermixed domains by the 
+Debye−Anderson−Brumberger (DAB) model
+1. Amorphous intermixing domains
+2. Aggregated pure-phase domains
+e.g. Spherical 𝑃𝑞=
+3 sin 𝑞𝑅−𝑞𝑅cos 𝑞𝑅
+൫𝑞𝑅)3
+2
+            Hard sphere 𝑆𝑞=
+1
+1−𝜂𝐺(𝑞) with PY approximation          Fractal network 𝑆(𝑞) = 1 +
+sin 𝐷−1)tan−1(𝑞𝜉
+ቀ𝑞𝑅)𝐷
+𝐷Γ(𝐷−1)
+1+ 1
+𝑞𝜉2
+(𝐷−1)/2
+0.001
+0.01
+0.1
+10-1
+100
+S(q)
+q (Å-1)
+                    HS S (q)
+ Reff = 300 Å, vol% =10 %
+ Reff = 300 Å, vol% =30 %
+ Reff = 500 Å, vol% =10 %
+ Reff = 500 Å, vol% =30 %
+0.001
+0.01
+0.1
+100
+101
+102
+103
+104
+105
+106
+S(q)
+q (Å-1)
+Fractal S (q)
+ D = 2.0
+ D = 2.2
+ D = 2.4
+ D = 2.6
+ D = 2.8
+ D = 3.0
+❖𝑆𝑞 is the structure factor, describing the interparticle correlation.
+0.001
+0.01
+0.1
+10-5
+10-4
+10-3
+10-2
+10-1
+100
+101
+102
+103
+104
+105
+106
+107
+F(q)
+q (Å-1)
+Spherical F(q)
+ R = 300 Å 
+ R = 500 Å
+for granular domains
+for fibrillar  domains
+D
+diffuse scattering
+Yoneda Peak
+53
+
+
+=== PAGE 54 ===
+GISANS and Selective Deuteration 
+Selective Deuteration 
+PM6
+Y6
+d-Y6
+0
+2
+4
+6
+8
+10
+0.000
+0.002
+0.004
+0.006
+0.008
+0.010
+0.012
+ Pure PM6
+ Pure Y6
+ Pure d-Y6
+Critical Angle (rad)
+Wavelength (Å)
+(6.4±0.4) ×10-6 Å-2
+(1.2±0.1) ×10-6 Å-2
+(2.3±0.1) ×10-6 Å-2
+𝐼𝑞= 𝑆𝑞෍
+𝑖
+𝑛
+𝛥𝜌𝑖𝑉𝑖2𝑃𝑖𝑞
+𝜌= 𝜋𝛼𝑐
+𝜆
+2
+Scattering length density
+𝑞𝑆= 4𝜋
+𝜆sin 2𝛼𝑖
+2
+𝑞𝑌= 4𝜋
+𝜆sin 𝛼𝑖+ 𝛼𝑐
+2
+Specular peak
+Yoneda peak
+Reflection
+Yoneda
+Cai, Li*, Zhan*, Lu* et al. Nat. Commun. 2024, 15, 2784
+54
+
+
+=== PAGE 55 ===
+GISAXS + GISANS for Crystalline and Amorphous Nanomorphology
+GISAXS
+10-2
+10-1
+10-1
+100
+ Raw
+ fitting
+ fractal
+2Rg = 29.4 nm
+ hard-sphere 
+2Rg = 10.7 nm
+Intensity (arb.units)
+qr (Å-1)
+GISANS
+10-2
+10-1
+101
+102
+103
+ Raw
+ fitting
+ DAB
+Xdab = 31.0 nm
+ fractal
+2Rg = 18.1 nm, D = 2.6
+ background
+Intensity (a.u.)
+qr (Å-1)
+Cai, Li*, Zhan*, Lu* et al. Nat. Commun. 2024, 15, 2784
+55
+
+
+=== PAGE 56 ===
+GISAXS+GISANS: Multi-Scale Crystalline and Amorphous Morphology
+Fu, Ke*, Tang,*, Lu* et al. Energy Environ. Sci., 2024, 17, 8893
+➢The impacts of processing methods, solvents, and 
+additives on the density of deep traps(Ntb) and 
+Langevin reduction factor (𝜸)
+➢Corresponding film morphology
+➢GISAXS+GISANS characterization of phase-separation 
+structure
+56
+
+
+=== PAGE 57 ===
+GTSAXS to Study Out-of-Plane Nanomorphology
+Grazing
+Incidence 
+BHJ
+Surface 
+Horizon
+Transmission
+Incidence
+kf
+q
+kf
+kf
+Lu et al, J. Appl. Cryst. 2013, 46, 165
+GTSAXS – Grazing incidence Transmission Small-Angle X-ray Scattering
+57
+
+
+=== PAGE 58 ===
+Comparison of GISAXS and GTSAXS
+58
+IP
+IP
+OOP
+OOP
+Yoneda Peak
+𝑞𝑌= 4𝜋
+𝜆sin 𝛼𝑖+ 𝛼𝑐
+2
+GISAXS
+GTSAXS
+Xia , Lu* et al. Nat. Commun. 2021, 12, 6226
+
+
+=== PAGE 59 ===
+Content
+Part 1: Properties of Sunlight
+Part 2: Working Principle of Solar Cells
+Part 4: Tandem Solar Cell
+Part 5: Related Research in My Group
+Part 6: Quiz (10 min)
+Part 3: Different Types of Solar Cells: Silicon, Perovskite and Organic PVs
+59
+
+
+=== PAGE 60 ===
+References
+The Physics of Solar Cells, Jenny Nelson, Imperial College Press 
+Semiconductor Devices: Physics and Technology (3rd Edition), S.M. Sze and M.K. Lee, Wiley
+https://www.pveducation.org/
+https://www.sciencedirect.com/science/article/pii/B9780323855297000050
+https://cpb.iphy.ac.cn/article/2018/1919/cpb_27_1_018806.html
+https://en.wikipedia.org/wiki/Organic_solar_cell
+https://pubs.rsc.org/en/content/articlehtml/2016/cs/c5cs00593k
+https://pubs.sciepub.com/rse/2/3/2/
+https://www.intechopen.com/chapters/38964
+https://onlinelibrary.wiley.com/doi/10.1002/advs.201901397
+https://www.tandfonline.com/doi/abs/10.1080/02726351.2013.769470
+https://onlinelibrary.wiley.com/doi/10.1002/adfm.201806747
+60

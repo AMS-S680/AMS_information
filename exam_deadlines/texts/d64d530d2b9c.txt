@@ -1,0 +1,549 @@
+=== PAGE 1 ===
+AMSC5720
+Advanced Materials Synthesis 
+Topic 1 – Metals_Phase Diagram and Processing
+▣Phase Diagram and Phase Transformation (Chapters 9-10)
+▣Types of Metal Alloys (Chapter 11)
+▣Fabrication/Processing of Metals (Chapter 11)
+2026-27 AMSC5720 - Prof. Y. Chen
+
+
+=== PAGE 2 ===
+▣Solubility Limit: Maximum concentration of solute atoms that may dissolve in the 
+solvent to form a solid solution
+▣Phase: a homogeneous portion of a system that has uniform physical and chemical 
+characteristics
+Phase Diagram: Some Definitions
+2026-27 AMSC5720 - Prof. Y. Chen
+2
+▣
+When two phases are co-existing, it is not necessary that both 
+physical and chemical properties are different
+A sugar-syrup system 
+A water-ice system
+A polymorphic system
+
+
+=== PAGE 3 ===
+▣Phase Equilibria: A system at equilibrium is in 
+its most stable state – its phase characteristics do 
+not change over time (constancy with time)
+▣Phase diagram (or equilibrium diagram) is a 
+map, a convenient and concise way to display 
+information (such as equilibrium characteristics) 
+to control phase structure of a system
+▣
+Typical parameters (map coordinates): 
+Temperature, Pressure, and Composition
+Phase Diagram: Some Definitions
+2026-27 AMSC5720 - Prof. Y. Chen
+3
+Phase diagram of a sugar–syrup system
+▣In solid systems, it is often the case that a state of equilibrium is never completely 
+achieved because the rate of approach to equilibrium is extremely slow. Such a system is 
+said to be in a nonequilibriumor metastable state. 
+
+
+=== PAGE 4 ===
+e.g. The Cu-Ni phase diagram
+At 60 wt% Ni and 1100 °C, what phase(s) is(are) 
+present at equilibrium?
+At 35 wt% Ni and 1250 °C, what phase(s) is(are) 
+present at equilibrium?
+▣Taking a binary system as an example, at least three kinds of information can be read:
+Interpretation of Phase Diagrams
+2026-27 AMSC5720 - Prof. Y. Chen
+4
+▣
+Phases that are present
+▣
+Compositions of the phases 
+(usually in terms of concentrations of the components)
+▣
+Percentages of the phases 
+(usually in terms of fraction of phase(s))
+
+
+=== PAGE 5 ===
+▣For a location in a two-phase region, composition 
+and mass percentage of each phase can be 
+determined by the following two methods:
+▣Tie line (or isotherm): an artificial horizontal line 
+drawn in a two-phase region of a temperature-
+composition diagram 
+▣The lever rule:
+Interpretation of Phase Diagrams
+2026-27 AMSC5720 - Prof. Y. Chen
+5
+𝑊𝑊𝐿𝐿= 𝐶𝐶𝛼𝛼−𝐶𝐶0
+𝐶𝐶𝛼𝛼−𝐶𝐶𝐿𝐿
+𝑜𝑜𝑜𝑜
+𝑆𝑆
+𝑅𝑅+ 𝑆𝑆
+𝑊𝑊𝛼𝛼= 𝐶𝐶0 −𝐶𝐶𝐿𝐿
+𝐶𝐶𝛼𝛼−𝐶𝐶𝐿𝐿
+𝑜𝑜𝑜𝑜
+𝑅𝑅
+𝑅𝑅+ 𝑆𝑆
+e.g., at point B, what is the composition 
+for each phase (in terms of wt% Ni)? 
+What is the mass fraction of each phase?
+31.5 wt% Ni 
+𝐶𝐶𝐿𝐿
+42.5 wt% Ni 
+𝐶𝐶α
+𝑪𝑪𝜶𝜶: composition of the 𝛼𝛼phase         𝑪𝑪𝑳𝑳: composition of the L phase 
+𝑾𝑾𝜶𝜶: mass fraction of α phase 
+𝑾𝑾𝑳𝑳: mass fraction of L phase
+𝑪𝑪𝟎𝟎: the overall alloy composition
+
+
+=== PAGE 6 ===
+▣Assuming that the cooling rate occurs very slowly, 
+at a given composition, cooling of an alloy of 
+corresponds to moving down along the vertical 
+dashed line:
+▣
+At 1300 °C, completely liquid (35 wt% Ni)
+▣
+At ~1260 °C, microstructure (α phase) starts to 
+form, composition starts to change
+▣
+At 1240 °C, co-existence of liquid and α phases
+▣
+At ~1220 °C, completely solidification, complete 
+formation of polycrystalline α phase solid solution 
+(35 wt% Ni)
+▣
+Subsequent cooling: no more microstructural or 
+compositional changes
+Development of Microstructure in Alloys
+2026-27 AMSC5720 - Prof. Y. Chen
+6
+
+
+=== PAGE 7 ===
+▣Equilibrium solidification is realized only at 
+extremely slow cooling rates
+▣With a change in T, re-adjustmentsin the
+compositionsmust be accomplished by diffusions in 
+both phases and at the phase boundary, which 
+requires time
+▣In all practical solidification processes, cooling rates
+are much too rapid to allow theses re-adjustments 
+development of non-equilibrium microstructures
+▣Segregation: concentration gradients are formed 
+across the grains, the core of which is rich in the 
+high-melting element (e.g. Ni in Cu-Ni system) 
+Development of Microstructure in Alloys
+2026-27 AMSC5720 - Prof. Y. Chen
+7
+
+
+=== PAGE 8 ===
+▣In the Cu-Ni system, the two components
+have complete solubility in liquid and solid 
+phases, it is called an isomorphous system
+▣In some systems, upon cooling to a critical 
+temperature, a liquid phase is transferred 
+into two solid phases (1 liquid ⇋2 solids), 
+it is call an eutectic reaction, the 
+temperature is called eutectic point
+▣Some other binary system reactions:
+▣Eutectoid reaction: 1 solid ⇋2 solids
+▣Peritecticreaction: 1 liquid + 1 solid ⇋
+1 new solid
+Binary Alloy Systems: Some Concepts 
+2026-27 AMSC5720 - Prof. Y. Chen
+8
+e.g. the Cu-Ag phase diagram
+
+
+=== PAGE 9 ===
+▣The construction of phase diagrams, and some principles governing the conditionsfor phase
+equilibria are dictated by laws of thermodynamics
+▣One of them is the Gibbs phase rule: a criterion for the number of phases that coexist within 
+a system at equilibrium:
+𝑷𝑷+ 𝑭𝑭= 𝑪𝑪+ 𝑵𝑵
+P: the number of phases present
+F: the number of degrees of freedom (or the number of variables that can be changed 
+independently without altering no. of phases coexisting at equilibrium (e.g. temperature, 
+pressure, composition)
+C: the number of components
+N: the number of non-compositional variables (e.g. temperature, pressure)
+The Gibbs Phase Rule
+2026-27 AMSC5720 - Prof. Y. Chen
+9
+
+
+=== PAGE 10 ===
+▣Steels and cast ions, primary structural materials in our life, are essentially iron-carbon 
+alloys
+The Iron-Carbon System
+2026-27 AMSC5720 - Prof. Y. Chen
+10
+▣Key phases:
+▣Ferrite (α-Fe, BCC)
+▣Austenite (γ-Fe, FCC)
+▣Cementite (Fe3C)
+▣Key phase transformations:
+▣Eutectoid reaction: 
+γ → α + Fe3C (0.76 wt% C, 727 °C)
+▣Eutectic reaction: 
+L → γ + Fe3C (4.30 wt% C, 1147 °C)
+The Fe–Fe3C Phase Diagram
+
+
+=== PAGE 11 ===
+▣Transforming one phase into another takes time
+Temperature-induced phase transformations are maintained at equilibrium only if heating or cooling 
+is carried out at extremely slow and impractical rates, i.e. superheating or supercooling.
+Phase Transformations
+2026-27 AMSC5720 - Prof. Y. Chen
+11
+Fe
+γ
+(Austenite)
+Eutectoid 
+transformation
+C
+FCC
+Fe3C
+(cementite)
+α
+(ferrite)
++
+BCC
+e.g. 
+Slow nucleation rate 
+few nuclei large grains
+Rapid nucleation rate 
+many nuclei small 
+grains
+Two distinct stages:
+▣Nucleation: appearance of very small particles as nuclei of the new phase (~ a few 
+hundred atoms)  (nuclei act as seeds (templates) on which grains grow)
+▣Growth: nuclei increase in size, resulting in disappearance of some or all of the parent 
+phase (usually, growth continues to proceed until equilibrium is attained)
+
+
+=== PAGE 12 ===
+Possible Phase Transformations in Fe-C alloys
+2026-27 AMSC5720 - Prof. Y. Chen
+12
+(BCT phase, 
+diffusionless
+transformation) 
+(α + Fe3C layers + a 
+proeutectoid phase)
+(α + elongated Fe3C 
+particles)
+Strength
+Ductility
+Martensite 
+T Martensite 
+Bainite 
+fine Pearlite 
+coarse Pearlite 
+Spheroidite
+General Trends
+(α + very fine Fe3C particles)
+(γ)
+
+
+=== PAGE 13 ===
+▣Ferrous: Fe is the prime constituent
+▣Steels
+▣Cast irons (C contents > 2.14 wt%, 
++ other alloying elements)
+▣Nonferrous: all other alloys
+Types of Metal Alloys
+2026-27 AMSC5720 - Prof. Y. Chen
+13
+Figure 11.1 Classification scheme 
+for the various ferrous alloys.
+
+
+=== PAGE 14 ===
+▣Steels
+▣Low-carbon steels: < 0.25 wt% C
+▣
+Produced in the largest quantities
+▣
+Usually ferrite and/or pearlite
+▣
+Automobile body components, structural shapes and 
+sheets (e.g.: high-strength, low-alloy (HSLA) steels)
+▣Medium-carbon steels: 0.25–0.60 wt% C
+▣
+Usually tempered martensite
+▣
+Railway wheels and tracks, gears, crankshafts
+▣High-carbon steels: 0.60–1.4 wt% C
+▣
+Hardest, strongest, least ductile
+▣
+Cutting tools and dies
+Ferrous Alloys
+2026-27 AMSC5720 - Prof. Y. Chen
+14
+Figure 11.1 Classification scheme 
+for the various ferrous alloys.
+
+
+=== PAGE 15 ===
+▣Steels
+▣Stainless steels: > 11 wt% Cr
+▣
+Highly resistant to corrosion in ambient atomsphere
+▣
+Ni and Mo are sometimes added to further enhance corrosion resistance
+▣
+Can be martensitic, ferritic, or austenitic
+Ferrous Alloys
+2026-27 AMSC5720 - Prof. Y. Chen
+15
+Figure 11.1 Classification scheme 
+for the various ferrous alloys.
+
+
+=== PAGE 16 ===
+Nonferrous
+2026-27 AMSC5720 - Prof. Y. Chen
+16
+Al alloys:
+low density, 
+aircraft and 
+aerospace 
+industries
+Cu alloys:
+soft and 
+ductile, brass 
+(Cu–Zn), 
+bronze (Cu–
+Sn)
+Mg alloys:
+lightest 
+structural 
+metal
+Ti alloys: 
+remarkable 
+specific 
+strengths, 
+highly 
+ductile
+Ni alloys: 
+corrosion 
+resistant
+Noble metal 
+alloys: 
+soft, ductile, 
+and oxidation 
+resistant
+Superalloys: withstand extremely 
+oxidizing and high-T 
+environments (e.g. aircraft turbine)
+Refractory metals: extremely 
+high melting T
+
+
+=== PAGE 17 ===
+▣Forming : shape change by plastic deformation
+▣Casting: completely molten metal poured into a mode cavity having the desired shape
+▣Welding: two or more metal parts are joined to form a single piece
+▣Powder metallurgy: compaction of powdered metal + heat treatment a denser piece
+▣3D Printing
+Fabrication of Metals
+2026-27 AMSC5720 - Prof. Y. Chen
+17
+Figure 11.8 Classification scheme of metal fabrication techniques
+
+
+=== PAGE 18 ===
+▣Principles of Forming
+▣
+External stress > yield strength
+▣
+Hot working: T > recrystallization; 
+large deformation is possible, less 
+deformation energy is required
+▣
+Cold working: T < recrystallization; 
+higher quality surface finish, better 
+mechanical properties, expensive
+▣Main types: 
+▣
+Forging
+▣
+Rolling
+▣
+Extrusion
+▣
+Drawing
+Forming
+2026-27 AMSC5720 - Prof. Y. Chen
+18
+Figure 11.9 Metal deformation during (a) forging, (b) rolling, (c) 
+extrusion, and (d) drawing.
+
+
+=== PAGE 19 ===
+▣Forging
+▣Mechanical working of a single piece of usually hot metal
+▣
+Closed die
+▣
+Open die
+▣Applications: crankshafts, piston connecting rods, 
+wrenches
+2026-27 AMSC5720 - Prof. Y. Chen
+19
+Metal deformation during forging.
+Forming Operations
+https://youtu.be/kToujtiI5q4
+▣Rolling
+▣Most widely used deformation process
+▣Metal passed between two rolls, undergoing thickness 
+reduction by compressive stress exerted by the rolls
+▣Can produce sheet, strip, foil with high-quality surface finish
+Metal deformation during rolling
+https://www.youtube.com/watch?v=k6iODHla6qY
+
+
+=== PAGE 20 ===
+▣Extrusion
+▣A bar of metal is forced through a die orifice by 
+compressive force
+▣Products: rods and tubing with complicated 
+cross-sections
+2026-27 AMSC5720 - Prof. Y. Chen
+20
+Metal deformation during extrusion.
+Forming Operations
+https://www.youtube.com/watch?v=Y75IQksBb0M&t=6s
+▣Drawing
+▣Pulling a metal piece through a die with a 
+tempered bore by a tensile force
+▣Reduction in cross-section, increase in length
+▣Products: rod, wire, tubing
+Metal deformation during drawing.
+https://www.youtube.com/watch?v=zI9HfgZtlhI
+
+
+=== PAGE 21 ===
+▣Casting
+▣Sand casting: uses sand as the mold material
+▣
+Most common method
+▣
+Automotive cylinder blocks, fire hydrants, and large pipe fittings
+▣Die casting: uses high pressure molds to force the shape
+▣
+Rapid casting rates are possible inexpensive
+▣
+Limited to small parts with low melting T (e.g. Zn/Al/Mg alloys)
+▣Investment(or lost-wax) casting: pattern made by wax or polymers, disposable
+▣
+High dimensional accuracy, fine detail
+▣
+Jewelry, dental crowns, gas turbine blades
+▣
+Lost-foam casting: uses expendable foam that will be vaporized
+2026-27 AMSC5720 - Prof. Y. Chen
+21
+Casting
+https://www.youtube.com/watch?v=FeCdCNbk2LY
+
+
+=== PAGE 22 ===
+▣Welding
+▣Both similar and dissimilar metals may be welded
+▣Arc welding: electric arc melts base/filler
+▣Gas welding: oxy-fuel flame
+▣Laser beam welding: a highly focused and intense laser beam is used as heat source
+▣Powder Metallurgy (P/M)
+▣Suitable for metals with low ductilities (only need small plastic deformation to occur)
+▣Metals with high melting T or parts that require very close dimensional tolerance
+2026-27 AMSC5720 - Prof. Y. Chen
+22
+Other Techniques
+
+
+=== PAGE 23 ===
+▣3D Printing,also called additive manufacturing (AM), is a fabrication processby addition of 
+raw material incrementally, often in a layer-by-layer fashion, from computer-aided design 
+(CAD) data
+▣Categories: direct energy deposition (DED), powder bed fusion (PBF), 4D Printing 
+2026-27 AMSC5720 - Prof. Y. Chen
+23
+Figure 11.11 Schematic diagram illustrating the process flow protocols for 3D printing (or additive manufacturing).
+3D Printing (Additive Manufacturing) 
+https://www.youtube.com/watch?v=EHvO-MlzAIM
+
+
+=== PAGE 24 ===
+▣Direct Energy Deposition
+▣A focused laser or electron 
+beam melts the metal wire or 
+powder as it is being deposited 
+by a nozzle in layer fashion on 
+the workpiece fashion, where 
+it solidifies
+▣Similar to welding
+2026-27 AMSC5720 - Prof. Y. Chen
+24
+Figure 11.12 Schematic representation of the direct energy 
+deposition 3D printing process for metals using an electron beam.
+3D Printing (Additive Manufacturing) 
+https://www.youtube.com/watch?v=yKnlmfuMSgo
+
+
+=== PAGE 25 ===
+▣Annealing: a heat treatment in which a material is exposed to an elevated temperature 
+for an extended time period and then slowly cooled
+▣Three stages: Heating to desired T → Holding or “soaking” at that temperature → 
+Cooling (usually to R.T.)
+▣Purposes:
+Stress relief
+Softening / Ductility ↑, toughness ↑
+Microstructure control
+▣Critical parameters: T (°C) , t (time) , heating/cooling rate
+Thermal Processing of Metals
+2026-27 AMSC5720 - Prof. Y. Chen
+25
+
+
+=== PAGE 26 ===
+▣Precipitation Hardening (also called Age Hardening): the process to enhance the strength 
+and hardness of metal alloys by the formation of extremely small, uniformly dispersed 
+particles of a second phase within the original phase matrix, which must be accomplished 
+by phase transformations that are induced by appropriate heat treatments
+▣The small particles are call precipitates
+Thermal Processing of Metals
+2026-27 AMSC5720 - Prof. Y. Chen
+26
+Schematic plot showing the solution and
+precipitation heat treatments for precipitation
+hardening
+Hypothetical phase 
+diagram for a 
+precipitation-hardenable
+alloy of composition C0.
+(get α)
+(retain α)
+(nucleate small 
+θ particles 
+within α phase)
+
+
+=== PAGE 27 ===
+(a) A supersaturated 𝛼𝛼solid solution. 
+(b) A transition, 𝜃𝜃″, precipitate phase. 
+(c) The equilibrium 𝜃𝜃phase, within the 𝛼𝛼-matrix phase.
+Precipitation Hardening in Al alloys
+2026-27 AMSC5720 - Prof. Y. Chen
+27
+Schematic depiction of several stages in the formation of the 
+equilibrium precipitate (𝜃𝜃) phase in Al-Cu alloy. 
+▣The coherent lattice strain around precipitates will effectively impede dislocation motions
+The Al-rich side of the Al-Cu phase diagram

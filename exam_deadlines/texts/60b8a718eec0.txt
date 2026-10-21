@@ -1,0 +1,539 @@
+=== PAGE 1 ===
+A. 
+Symmetry: a feature of crystal
+Topics in TEM
+B. Real space 
+vs. Reciprocal space Lattice
+C. Electron scattering and Diffraction Pattern (DP)
+D. Diffraction pattern indexing
+1
+E. TEM imaging
+
+=== PAGE 2 ===
+Conventional crystal: periodic arrangement of atoms in the 3D space
+2
+What is a Crystal?
+[Speaker notes]
+2
+
+=== PAGE 3 ===
+For a perfect single crystal, the regular arrangement of atoms in the crystal can be completely described by definition of 
+a fundamental repeat unit
+  
+coupled with 
+a statement of the translations
+Basis (motif)
+Lattice
+Basis + lattice = crystalline structure
++
+=
+3
+How to describe a Crystal?
+[Speaker notes]
+3
+
+=== PAGE 4 ===
+Crystals have the following properties:
+self-confinement
+;
+anisotropy
+;
+homogeneity
+;
+symmetry;
+stability;
+minimum internal energy.
+4
+Properties of Crystal
+[Speaker notes]
+4
+
+=== PAGE 5 ===
+After an operation, the newly obtained structure will 
+coincide with the original structure, then this operation is a symmetry operation, and the structure is said to possess the symmetry.
+5
+What is symmetry ?
+Palindrome
+A man, a plan, a canal, Panama!
+[Speaker notes]
+5
+
+=== PAGE 6 ===
+Point symmetry
+Translation symmetry
+Point symmetry
+Point symmetry elements and the matrix expressions
+Group theory and the 32 crystallographic point groups
+Translational symmetry
+Extra symmetry elements
+Space group
+6
+Symmetry in crystals
+
+=== PAGE 7 ===
+The concept of Group (Optional)
+Criterion: 	(1) group of element
+		(2) binary operation among group elements
+A set of G together with  a binary operation, which satisfies:
+7
+[Speaker notes]
+7
+
+=== PAGE 8 ===
+8
+Translation group (Optional)
+Criterion:	(1) group of elements: 
+			
+lattice vector
+		(2) binary operation among group elements:
+			
+vector summation
+a
+1
+a
+2
+To justify
+
+=== PAGE 9 ===
+Point group 
+(Optional)
+A crystallographic 
+point
+ group is completely defined as a group if symmetry elements that can operate on an infinite three-dimensional lattice so as to leave one point unmoved.
+(3D) 32 point groups of crystals compatible with 7 crystalline systems
+ 
+Crystallographic restriction theorem: 
+There is only a 
+finite
+ number of discrete point groups that are 
+compatible with translation symmetry 
+for each number of dimensions.
+9
+
+=== PAGE 10 ===
+Types of point symmetry
+Inversion:			point			
+1
+(
+or
+ 
+i
+)
+Rotation:			line			
+𝑛
+ 
+Roto-inversion:
+		
+line
+			
+𝑛
+Mirror:
+			
+plane	
+		
+𝑚
+ 
+Symmetry element
+Symbol
+10
+Point symmetry operations
+Keep at least one point fixed
+
+=== PAGE 11 ===
+Inversion (Center of symmetry):
+ 
+1
+(
+or
+ 
+i
+)
+ 
+All points  
+𝑥
+,
+𝑦
+,
+𝑧
+→(−
+𝑥
+,−
+𝑦
+, −
+𝑧
+)
+ if 
+1
+ is placed at the origin 
+ 
+11
+
+=== PAGE 12 ===
+12
+Name
+International Symbol
+Schönflies
+Symbol
+Operation
+The identity transformation
+1
+C
+1
+360 
+o
+2-
+fold rotation
+2
+C
+2
+180 
+o
+3-
+fold rotation
+3
+C
+3
+120 
+o
+4-
+fold rotation
+4
+C
+4
+90 
+o
+6-
+fold rotation
+6
+C
+6
+60 
+o
+Rotation n
+
+=== PAGE 13 ===
+Roto-inversion:	
+𝑛
+ 
+ 
+A distinct type of symmetry axis is that which combines 
+rotation 
+about a line through 2
+/n with 
+inversion through a point
+ on this line.
+2
+ = m 
+ 
+3
+ = 3+i 
+ 
+6
+ = 3+m 
+ 
+4
+ 
+ 
+1
+ = 
+i
+ 
+ 
+Such axes are known as 
+inversion axes of symmetry
+ and are designated as 
+inverse
+ 
+n-fold axes
+, where n=1,2,3,4,6.
+Only 
+4
+ 
+is an independent operation.
+ 
+13
+
+=== PAGE 14 ===
+Reflection (Mirror):	𝑚 
+All points  
+𝑥
+,
+𝑦
+,
+𝑧
+→(
+𝑥
+,−
+𝑦
+, 
+𝑧
+)
+ if 
+m
+ is placed at the origin 
+ 
+m
+14
+
+=== PAGE 15 ===
+15
+Roto-inversion:	
+𝑛
+ 
+ 
+Name
+International Symbol
+Schönflies
+Symbol
+Operation
+The inversion operator
+S
+2
+i
+2-
+fold improper rotation
+S
+1
+m
+3-
+fold improper  rotation
+S
+6
+3+
+i
+4-
+fold improper rotation
+S
+4
+4*
+i
+6-
+fold improper rotation
+S
+3
+3+
+m
+
+=== PAGE 16 ===
+The 8 independent point symmetry elements
+16
+[Speaker notes]
+16
+
+=== PAGE 17 ===
+17
+Law:
+Not destroying the symmetry
+Resulting new lattice
+7 
+crystal system
+14 
+Bravis
+ lattice
+
+=== PAGE 18 ===
+Screw axes
+Glide planes
+Extra symmetry elements by combining point symmetry and translation symmetry operations
+Symmetry elements of those point symmetry operations are such that their continued operation inevitably leads to a return to the initial position. 
+But when we are concerned with the symmetry of arrangement of atoms within a unit-cell an additional sort of symmetry element has to be introduced. This is 
+the translational symmetry element 
+which by its continued operation on a point cannot yield a point coincident with the original point but, after an appropriate number of operations, yields a point distant from the original point by an integral number of lattice translations.
+18
+[Speaker notes]
+18
+
+=== PAGE 19 ===
+Screw axis
+：
+Rotation + Translation
+An n-fold screw axis, is such that each operation of it is a 
+rotation
+ through 
+2
+/
+n
+ followed with a 
+translation
+ through 
+p/n
+ 
+times the 
+lattice vector
+ along that axis direction. 
+n
+ is the fold 
+of rotation (n=2,3,4,6)
+p
+ must be an integer that is smaller than n
+. 
+The screw axis is labeled as 
+n
+p
+2
+1
+，
+3
+1
+，
+3
+2
+，
+4
+1
+，
+4
+2
+，
+4
+3
+，
+6
+1
+，
+6
+2
+，
+6
+3
+，
+6
+4
+，
+6
+5
+19
+[Speaker notes]
+19
+
+=== PAGE 20 ===
+Glide plane: Reflection + Translation
+A glide plane is a translational symmetry element representing simultaneous 
+reflection
+ (as in a mirror plane) and 
+translation through 
+a 
+half/quarter lattice repeat
+ in a direction parallel to the plane.
+Mirror (point operation)
+Mirror image
+Glide distance (half/quarter of lattice unit length, non-point operation)
+20
+[Speaker notes]
+20
+
+=== PAGE 21 ===
+We have already seen that there are 
+32 groups
+ of non-translational symmetry elements that can be repeated on a lattice, the so-called 
+crystallographic point groups
+. 
+When translational symmetry elements, 
+screw axes and glide planes
+, are taken into account the number of groups of symmetry elements that can be repeated on a lattice increases to 
+230
+, the so-called 
+crystallographic space groups
+.
+In crystallography, the 
+space group
+ of a crystal is a description of the symmetry of the crystal and must be one of 
+230
+ types. 
+The 230 space groups
+21
+
+=== PAGE 22 ===
+22
+Name
+International Symbol
+Schönflies
+Symbol
+Operation
+The identity transformation
+1
+C
+1
+360 
+o
+2-
+fold rotation
+2
+C
+2
+180 
+o
+3-
+fold rotation
+3
+C
+3
+120 
+o
+4-
+fold rotation
+4
+C
+4
+90 
+o
+6-
+fold rotation
+6
+C
+6
+60 
+o
+Rotation n         WHY 1, 2,3,4, 6?
+
+=== PAGE 23 ===
+This is actually the direct deduction of the basic symmetry property of the crystalline lattice
+Assuming point A and B are the two closest lattice points in a crystal, and the lattice vector 
+a
+ is determined by
+ 
+AB
+        .  
+There is an 
+n
+ fold rotational axis perpendicular to the paper plane, passing through lattice point 
+A
+A
+B
+C
+D
+E
+a
+q
+q
+Rotate 
+AB
+ to 
+AC
+ and 
+AD 
+by angle
+ q
+, where 
+q
+ 
+=360/
+n.  Consequently, both
+ 
+C
+ and 
+D
+ are lattice points.  Summation of lattice vector 
+AC
+ and 
+AD
+ gives 
+AE
+, when point 
+E
+ should also be a lattice point, and 
+
+=== PAGE 24 ===
+24
+
+=== PAGE 25 ===

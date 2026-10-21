@@ -1,0 +1,1927 @@
+=== PAGE 1 ===
+CC BY
+Oleksandr Savateev
+Materials in Photocatalysis
+AMSC 5730  Frontiers in Advanced Materials
+savateevgroup.com
+
+
+=== PAGE 2 ===
+CC BY
+2
+Research interests
+•
+Photochemistry and photocatalysis
+•
+Organic chemistry
+•
+Materials science
+Oleksandr Savatieiev (EN)
+(Олександр Саватєєв, UKR)
+New concepts in materials chemistry:
+Angew. Chem. Int. Ed. 2021.
+→ >10 new photocatalytic reactions, among which is:
+Angew. Chem. Int. Ed. 2020.
+
+
+=== PAGE 3 ===
+CC BY
+3
+Lecture content
+1. Introduction
+•
+Catalysis, photochemistry and photocatalysis.
+•
+Spontaneous and non-spontaneous chemical reactions.
+•
+Enabling non-spontaneous reactions by photocatalysis.
+2. General photocatalytic mechanism
+•
+Photon absorption.
+•
+Separation of electron-hole pairs.
+•
+Redox reactions.
+3. Quiz
+
+
+=== PAGE 4 ===
+CC BY
+4
+What is catalysis?
+Catalysis – an approach to direct chemical reactions by employing a catalyst.
+Catalyst – a substance that accelerates a chemical reaction, and it is not consumed.
+For example, catalase (enzyme, biological catalyst) drives the reaction:
+2𝐻ଶ𝑂ଶ ⇌ 2𝐻ଶ𝑂+ 𝑂ଶ↑
+
+
+=== PAGE 5 ===
+CC BY
+5
+What is photochemistry?
+•
+A branch of chemistry that studies photochemical reactions.
+•
+A photochemical reaction is a reaction that is enabled by light.
+𝐶𝑎𝐶𝑙ଶ+ 2𝑁𝑎𝑂𝐻⇌𝐶𝑎(𝑂𝐻)ଶ↓+ 2𝑁𝑎𝐶𝑙
+•
+This reaction proceeds in the full darkness 
+and under bright light.
+•
+Light is not involved in this chemical 
+transformation.
+•
+This is NOT a photochemical reaction.
+6𝐶𝑂ଶ+ 6𝐻ଶ𝑂+ ℎ𝑣⇌𝐶଺𝐻ଵଶ𝑂଺+ 6𝑂ଶ
+•
+A reaction of photosynthesis does not 
+occur in the darkness.
+•
+This is a photochemical reaction (or 
+to be more precise photocatalytic).
+Adapted from Practical Science https://www.youtube.com/watch?v=cIjGhK-ojLY and Photosiber https://elements.envato.com/bright-sun-shines-on-the-grape-leaves-C42VEBS
+
+
+=== PAGE 6 ===
+CC BY
+6
+What is photocatalysis?
+Photocatalysis – a type of catalysis that utilizes light and a mediator (a photocatalyst) to drive a
+chemical reaction.
+
+
+=== PAGE 7 ===
+CC BY
+7
+Photocatalysis in commercial products
+https://airodoctor.com/v10p-id-induct-airpurifier-fanless-antiviral/
+https://i0.wp.com/chem.cuhk.edu.hk/wp-content/uploads/Yu-photo2_full.jpg?w=750&ssl=1
+•
+Photocatalysis is a “hot” topic in academic research.
+•
+Photocatalysis is applied in commercial products, such as that for air purification:
+Prof. Jimmy Yu
+
+
+=== PAGE 8 ===
+CC BY
+8
+Photocatalysis in chemical/pharma industry 
+George, M. W. et al. Chem Sci 2011, 2, 1059-1067.
+Noël, T.; Gelonch, M. E.; Huvaere, K. In Photochemical Processes in Continuous-Flow Reactors, pp 245-267.
+Stan Shebs, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
+https://a.cdnsbn.com/images/products/martl/187936489023170.jpg
+Synthesis of rose oxide: Dragoco process.
+• Photocatalysis with Rose Bengal.
+• 60-100 ton/year (extraction of 1 kg oil from Bulgarian rose 
+requires 3000 kg of plant).
+• 5-kW mercury lamps.
+O
+CO2H
+Cl
+Cl
+Cl
+Cl
+O
+HO
+I
+I
+I
+I
+Rose Bengal (photocatalyst)
+b-Citronellol
+Hydroperoxides (3:2)
+Rose oxide
+(54% overall yield)
+
+
+=== PAGE 9 ===
+CC BY
+9
+Photocatalysis in chemical/pharma industry 
+Noël, T.; Gelonch, M. E.; Huvaere, K. In Photochemical Processes in Continuous-Flow Reactors, pp 245-267.
+https://www.nobelprize.org/images/tu-13648-portrait-medium.jpg
+Tetraphenylporphyrin
+(TPP, photocatalyst)
+• Singlet oxygen generation by TPP.
+• 2011 – pilot plant. 50 kg batches.
+• 2014 – large scale plant. 370 kg batches. 60 ton/year.
+• 350-400EUR/kg (vs 250EUR/kg naturally derived artemisinin).
+Artemisinic acid
+Artemisinin
+N
+NH
+N
+HN
+Me
+H
+H
+H
+HO
+O
+Me
+(1) diastereoselective
+hydrogenation
+(2) anhydride formation
+Me
+H
+H
+H
+O
+O
+Me
+Me
+photooxidation
+Me
+H
+O
+H
+O
+O
+Me
+H
+O
+Me
+O
+EtO
+O
+TPP
+h
+O2
+Synthesis of artemisinin: Sanofi process.
+Nobel Prize in Physiology or 
+Medicine 2015 "for her discoveries 
+concerning a novel therapy against 
+Malaria"
+Tu Youyou
+
+
+=== PAGE 10 ===
+CC BY
+10
+Photocatalysis in chemical/pharma industry 
+Noël, T.; Gelonch, M. E.; Huvaere, K. In Photochemical Processes in Continuous-Flow Reactors, pp 245-267.
+Photoredox catalysis at Merck: Synthesis of Elbasvir precursor.
+[Ir(dF-CF3-ppy)2(dtbpy)](PF6)
+>900 EUR/g (photocatalyst)
+•
+Perfluoroalkoxy (PFA) tubing (ID 3.2 mm, L 15.24 m, 
+V 150 mL). LED 440 nm.
+•
+Treatment of hepatitis C. $54,600 for a 12-week 
+treatment course.
+
+
+=== PAGE 11 ===
+CC BY
+11
+Photocatalysis in chemical/pharma industry 
+Noël, T.; Gelonch, M. E.; Huvaere, K. In Photochemical Processes in Continuous-Flow Reactors, pp 245-267.
+Photoredox catalysis at Merck. Synthesis of g-fluoroleucine.
+•
+Perfluoroalkoxy (PFA) tubing (ID 3.2 mm, L 440 m, V 3.5 L).
+•
+Up to 2.7 kg h-1.
+•
+LED electric power 2.2 kW (24%).
+Na4W10O32 (photocatalyst)
+
+
+=== PAGE 12 ===
+CC BY
+12
+Photocatalysis
+Depending on the mechanism how energy of electromagnetic radiation in UV-vis range of
+electromagnetic spectrum is used by the photocatalyst to drive a reaction, we distinguish between:
+(1) Photoredox catalysis. A photocatalyst (in this case photoredox catalyst) absorbs a photon forming
+an electronically excited state, which mediates redox reactions of reactants. Vast majority of
+photocatalytic reactions reported until now are photoredox catalytic reactions.
+(2) Energy transfer (EnT). A photocatalyst (in this case often called as “sensitizer”) absorbs a photon
+forming an electronically excited state followed by energy transfer to the reactant.
+(3) Atom transfer. A photocatalyst (in this case atom transfer catalyst) absorbs a photon forming an
+electronically excited state, which abstracts an atom (usually hydrogen atom) from reactants and pass
+this atom to another substrate.
+
+
+=== PAGE 13 ===
+CC BY
+13
+Photocatalysis
+The mode of action (reaction mechanism) depends on chemical structure of the employed
+photocatalyst and the reactants.
+•
+The same molecule can act as a photoredox catalyst or a sensitizer depending on the chemical
+structure of a reactant – a “hand-and-glove” concept.
+
+
+=== PAGE 14 ===
+CC BY
+14
+Lecture content
+1. Introduction
+•
+Catalysis, photochemistry and photocatalysis.
+•
+Spontaneous and non-spontaneous chemical reactions.
+•
+Enabling non-spontaneous reactions by photocatalysis.
+2. General photocatalytic mechanism
+•
+Photon absorption.
+•
+Separation of electron-hole pairs.
+•
+Redox reactions.
+3. Quiz
+
+
+=== PAGE 15 ===
+CC BY
+15
+Spontaneous and non-spontaneous reactions
+•
+All chemical reactions can be divided into spontaneous (they actually happen) and non-
+spontaneous (exist only as reaction equations on the paper).
+
+
+=== PAGE 16 ===
+CC BY
+16
+Spontaneous and non-spontaneous reactions
+BerkeleyChemDemos. https://www.youtube.com/watch?v=TS-I9KrUjB0
+𝐻𝐶𝑙𝑎𝑞+ 𝑁𝑎𝑂𝐻𝑎𝑞⇌𝑁𝑎𝐶𝑙𝑎𝑞+ 𝐻ଶ𝑂(𝑙)
+𝐶𝐻ସ𝑔+ 2𝑂ଶ𝑔⇌𝐶𝑂ଶ𝑔+ 2𝐻ଶ𝑂(𝑔)
+•
+The forward reactions is spontaneous:
+a reaction between an acid (𝐻𝐶𝑙) and a base (𝑁𝑎𝑂𝐻) is
+called a neutralization reaction.
+•
+The backward reaction is non-spontaneous:
+Sea water is a solution of sodium chloride (𝑁𝑎𝐶𝑙, ~3 wt. %)
+in water.
+•
+The forward reaction is spontaneous:
+indeed, methane (𝐶𝐻ସ) burns in air (𝑂ଶ).
+•
+The backward reaction is non-spontaneous:
+Sparkling water is a solution of carbon dioxide (𝐶𝑂ଶ) in
+water (𝐻ଶ𝑂).
+
+
+=== PAGE 17 ===
+CC BY
+17
+Spontaneous and non-spontaneous reactions
+Photocatalysis can enable (turn on) the reaction that is non-spontaneous under the standard
+conditions (𝑇= 298 𝐾or 25℃, 𝑃= 1 𝑏𝑎𝑟).
+
+
+=== PAGE 18 ===
+CC BY
+18
+Lecture content
+1. Introduction
+•
+Catalysis, photochemistry and photocatalysis.
+•
+Spontaneous and non-spontaneous chemical reactions.
+•
+Enabling non-spontaneous reactions by photocatalysis.
+2. General photocatalytic mechanism
+•
+Photon absorption.
+•
+Separation of electron-hole pairs.
+•
+Redox reactions.
+3. Quiz
+
+
+=== PAGE 19 ===
+CC BY
+19
+Spontaneous and non-spontaneous reactions
+Nishiyama, H.; Domen, K. et al. Nature 2021, 598, 304–307.
+For example, 
+2𝐻ଶ𝑂⇌2𝐻ଶ+ 𝑂ଶ
+•
+Water splitting has been investigated since 1970s, at least.
+•
+Demonstration plant.
+3.7 L min−1 generated by a 100 m2
+solar plant.
+Backward reaction (spontaneous) – ignition of 
+a mixture of 𝐻ଶand 𝑂ଶ.
+
+
+=== PAGE 20 ===
+CC BY
+20
+Spontaneous and non-spontaneous reactions
+https://cdn.dominant.com.au/images/WHOHandSanitiser_500mL_1200px.jpg
+For example,
+𝐶ଶ𝐻ହ𝑂𝐻⇌𝐶𝐻ଷ𝐶(𝑂)𝐻+ 𝐻ଶ
+•
+The forward reaction is non-spontaneous (at room temperature).
+•
+The forward reaction can provide hydrogen gas, a green fuel, and acetaldehyde – an organic 
+molecule with multiple applications:
+•
+In small concentration, it is a flavouring agent in various foods and beverages.
+•
+Important chemical for chemical industry.
+Ethanol (𝐶ଶ𝐻ହ𝑂𝐻) is a major ingredient of hand sanitizer.
+Ethanol
+Acetaldehyde
+
+
+=== PAGE 21 ===
+CC BY
+21
+How to enable a non-spontaneous reaction?
+•
+Supplying energy in the form of heat.
+•
+Thermochemical calculations indicate, ethanol dissociates into acetaldehyde and 𝐻ଶat 
+temperature > 1000𝐾or > 727℃, i.e., at 𝑇> 727℃a chemical system composed of 2 carbon 
+atoms, 6 hydrogen atoms and 1 oxygen atom prefers existing in the form of acetaldehyde and 𝐻ଶ
+molecule, below this temperature it prefers existing in the form of ethanol molecule.
+Preferable at 𝑇> 727℃
+⇌
++𝐻ଶ
+Preferable at 𝑇< 727℃
+
+
+=== PAGE 22 ===
+CC BY
+22
+Physics
+Physics
+Chemistry/Biology
+100
+103
+106
+0
+Temperature scale (K)
+*Temperature-to-energy conversion rule:
+𝐸𝑖𝑛 𝑒𝑉= 𝑘௕× 𝑇𝑖𝑛 𝐾
+where 𝑘௕= 8.6 × 10ିହ 𝑒𝑉 𝐾ି
+ଵ
+Reactions involving highly 
+reactive organometallic reagents, 
+such as n-butyllithium, are often 
+conducted at −80 °C (193 K)
+Absolute zero (0 K) 
+– not achievable
+Temperature in the 
+intergalactic space 
+(Cosmic Microwave 
+Background):
+2.73 K
+Boiling point of
+helium: 4.22 K
+Boiling point of
+nitrogen: 77.36 K
+Melting point of
+ice: 273.15 K
+Temperature range for 
+biological processes:
+0…45 °C
+Boiling point of
+water: 373.15 K
+Production of calcium carbide is 
+conducted at ~2100 °C:
+𝐶𝑎𝑂𝑠+ 𝐶𝑠⇌𝐶𝑎𝐶ଶ𝑠+ 𝐶𝑂𝑔
+Ionization of 
+atoms: 106 K
+n0
+p+
+p+
+p+
+p+
+p+
+p+
+n0
+n0
+n0
+n0
+n0
+e–
+e–
+e–
+e–
+e–
+e–
+𝑈
+ଽଶ
+ଶଷହ
+𝐵𝑎
+ହ଺
+ଵସଵ
+𝐾𝑟
+ଷ଺
+ଽଶ
+n0
+n0
+n0
+n0
+Temperature of nuclear fission 
+reaction: 107…108 K
+Melting point of
+tungsten: 3695 K
+
+
+=== PAGE 23 ===
+CC BY
+23
+How to enable a non-spontaneous reaction?
+https://cdn.dominant.com.au/images/WHOHandSanitiser_500mL_1200px.jpg
+For example,
+𝐶ଶ𝐻ହ𝑂𝐻⇌𝐶𝐻ଷ𝐶(𝑂)𝐻+ 𝐻ଶ
+•
+Conversion of any alcohol into the corresponding carbonyl compound and 𝐻ଶgas is non-
+spontaneous at room temperature. 
+•
+Consider another conceptually similar example:
+𝐶𝐻ଷ𝑂𝐻⇌𝐻ଷ𝐶(𝑂)𝐻+ 𝐻ଶ
+Ethanol
+Acetaldehyde
+Methanol
+Formaldehyde
+
+
+=== PAGE 24 ===
+CC BY
+24
+Reproduced from Savateev Lab https://www.youtube.com/watch?v=aJc5k3kTJ08 (EN) and https://www.bilibili.com/video/BV1QiBfBjEww/ (普通话)
+
+
+=== PAGE 25 ===
+CC BY
+25
+Lecture content
+1. Introduction
+•
+Catalysis, photochemistry and photocatalysis.
+•
+Spontaneous and non-spontaneous chemical reactions.
+•
+Enabling non-spontaneous reactions by photocatalysis.
+2. General photocatalytic mechanism
+•
+Photon absorption.
+•
+Separation of electron-hole pairs.
+•
+Redox reactions.
+3. Quiz
+
+
+=== PAGE 26 ===
+CC BY
+26
+How does photocatalysis work?
+The photocatalysis is built on one simple idea:
+Upon photon absorption, a photocatalyst drives a reduction and an oxidation half-reactions.
+
+
+=== PAGE 27 ===
+CC BY
+27
+How does photocatalysis work?
+PC
+Recombination of
+electron-hole pairs
+𝑒ି
+𝑒ି
+2H+ + 
+±2e–
+𝐶ଶ𝐻ହ𝑂𝐻
+𝐶𝐻ଷ𝐶(𝑂)𝐻
+Reactant
+oxidation
+reaction
+2H+
+H2
+±2e–
+Reactant
+reduction
+reaction
+*PC
+ℎ𝑣
+Photon absorption/
+exciton formation
+𝑒ି
+ℎା
+𝑒ି
+ℎା
+PC – photocatalyst ground state
+*PC – photocatalyst electronically excited state 
+𝑒ି
+ℎା
+𝑒ି
+ℎା
+Separation of
+electron-hole pairs
+*PC
+
+
+=== PAGE 28 ===
+CC BY
+28
+Lecture content
+1. Introduction
+•
+Catalysis, photochemistry and photocatalysis.
+•
+Spontaneous and non-spontaneous chemical reactions.
+•
+Enabling non-spontaneous reactions by photocatalysis.
+2. General photocatalytic mechanism
+•
+Photon absorption.
+•
+Separation of electron-hole pairs.
+•
+Redox reactions.
+3. Quiz
+
+
+=== PAGE 29 ===
+CC BY
+29
+Colors
+•
+Chemical structure of a compound defines its energy band gap (𝐸௚) and, as a result, its colour.
+•
+This is the central concept in photocatalysis structure-property(𝐸௚)-activity(quantum yield in a 
+studied reaction) relationship
+https://thebrooklynteacup.com/cdn/shop/articles/the-story-behind-the-iconic-blue-willow-china-pattern-877068.jpg?v=1672987127 
+Krzysztof P. Jasiutowicz, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons
+https://www.foodcraft.hk/cdn/shop/files/Orange-2pc.jpg?v=1688025581
+https://www.foodcraft.hk/cdn/shop/files/Lychee-450g.jpg?v=1750392418 
+
+
+=== PAGE 30 ===
+CC BY
+30
+Color and energy band gap
+Reproduced from lecture “Introduction of course and topics” from the course AMSC 5730 Frontiers in Advanced Materials by Prof. Quan LI, 10th of September 2026.
+
+
+=== PAGE 31 ===
+CC BY
+31
+Color and energy band gap
+Small molecules (< 1 nm)
+10-100 atoms
+HOMO
+LUMO
+LUMO+1
+LUMO+2
+HOMO-1
+HOMO-2
+Quantum dots (<10 nm)
+>104 atoms
+Frontier orbitals
+𝐸𝑛𝑒𝑟𝑔𝑦 (𝑒𝑉)
+Size of a chemical system
+Materials (particles >100 nm)
+>109 atoms
+CB Minimum
+VB Maximum
+CB
+VB
+
+
+=== PAGE 32 ===
+CC BY
+32
+Colors
+Any substance / object:
+1) Transmits light
+2) Absorbs light
+3) Reflects light
+https://solarmagazine.com/wp-content/uploads/2020/02/transparent-solar-glass-panels-MSU.jpg
+https://m.media-amazon.com/images/S/aplus-media-library-service-media/e295f50f-7ed0-4f25-beb1-5769af3f62c7.__CR0,0,600,450_PT0_SX600_V1___.jpg
+Petar Milošević, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+https://glassforum.org/wp-content/uploads/2023/04/sandblasted-glass-used-in-office-partitions-1024x427.jpg
+Lưu Ly, Public domain, via Wikimedia Commons
+4) Scatters light
+5) Emits light
+
+
+=== PAGE 33 ===
+CC BY
+33
+Colors
+Any substance / object:
+1) Transmits light
+2) Absorbs light
+3) Reflects light
+4) Scatters light
+5) Emmits light
+https://solarmagazine.com/wp-content/uploads/2020/02/transparent-solar-glass-panels-MSU.jpg
+https://m.media-amazon.com/images/S/aplus-media-library-service-media/e295f50f-7ed0-4f25-beb1-5769af3f62c7.__CR0,0,600,450_PT0_SX600_V1___.jpg
+Petar Milošević, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+https://glassforum.org/wp-content/uploads/2023/04/sandblasted-glass-used-in-office-partitions-1024x427.jpg
+Lưu Ly, Public domain, via Wikimedia Commons
+
+
+=== PAGE 34 ===
+CC BY
+34
+Colors
+Light absorption
+Colorless glass
+https://easydrawingguides.com/wp-content/uploads/2024/07/human-eye-diagram-05_human-eye-diagram-drawing-tutorial.png
+400
+700
+500
+600
+Absorbance
+Titanium dioxide (TiO2)
+
+
+=== PAGE 35 ===
+CC BY
+35
+Colors
+Light absorption
+https://image.made-in-china.com/202f0j00HfhbCzeEsUcV/5mm-1500mmx2000mm-Golden-Yellow-Float-Glass-C-Y-.webp
+Sulfur (S8)
+Yellow glass
+400
+700
+500
+600
+Absorbance
+
+
+=== PAGE 36 ===
+CC BY
+36
+Colors
+Light absorption
+Orange glass
+https://cdn.europeanantiques.co.nz/2024/10/4A392F55-16E5-4966-8C28-91CE27ABE644_1_105_c.jpeg
+Cadmium sulfide (CdS)
+400
+700
+500
+600
+Absorbance
+
+
+=== PAGE 37 ===
+CC BY
+37
+Colors
+Light absorption
+https://estellecoloredglass.com/cdn/shop/products/S_S-303.jpg?v=1600894620
+https://en.wikipedia.org/wiki/File:Chinese_carved_cinnabar_lacquerware.jpg
+11111
+Red stained glass
+Cinabar (HgS)
+400
+700
+500
+600
+Absorbance
+
+
+=== PAGE 38 ===
+CC BY
+38
+Colors
+Light absorption
+https://chairish-prod.freetls.fastly.net/image/product/sized/845ca025-911f-4df5-8f14-dd2018d1da7e/19th-century-french-saint-st-louis-opaque-black-glass-crystal-vase-2206?aspect=fit&width=640&height=640
+Amcyrus2012, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons
+Black glass
+Coal
+400
+700
+500
+600
+Absorbance
+
+
+=== PAGE 39 ===
+CC BY
+39
+Colors
+Algar, W. R.*; De Jong, C. A. G.; Maxwell, E. J.; Atkins, C. G. J. Chem. Educ. 2016, 93, 162.
+400
+700
+500
+600
+Absorbance
+Complementary colour wheel
+
+
+=== PAGE 40 ===
+CC BY
+40
+Colors
+https://cdn.europeanantiques.co.nz/2024/10/4A392F55-16E5-4966-8C28-91CE27ABE644_1_105_c.jpeg
+A substance possesses color because it absorbs a portion of photons from the electromagnetic
+spectrum of incident light.
+A substance appears as orange solid under 
+ambient light (warm white). What color would it 
+have under violet light?
+Yellow glass
+400
+700
+500
+600
+Absorbance
+Sulfur (S8)
+
+
+=== PAGE 41 ===
+CC BY
+41
+Light absorption
+Beer-Lambert law:
+𝐴= 𝑙𝑜𝑔ଵ଴(𝐼଴
+𝐼) = 𝜀ȉ 𝐶ȉ 𝑙
+where 𝐼଴– intensity of incident light. 𝐼– intensity of light that goes through the solution. 𝐶–
+concentration of the substance, 𝑚𝑜𝑙 𝐿ିଵ. 𝑙– optical path, 𝑐𝑚. 𝜀– molar extinction coefficient,
+𝐿 𝑚𝑜𝑙ିଵ 𝑐𝑚ିଵ.
+
+
+=== PAGE 42 ===
+CC BY
+42
+Light absorption
+Beer-Lambert law:
+𝐴= 𝑙𝑜𝑔ଵ଴(𝐼଴
+𝐼) = 𝜀ȉ 𝐶ȉ 𝑙
+where 𝐼଴– intensity of incident light. 𝐼– intensity of light that goes through the solution. 𝐶–
+concentration of the substance, 𝑚𝑜𝑙 𝐿ିଵ. 𝑙– optical path, 𝑐𝑚. 𝜀– molar extinction coefficient,
+𝐿 𝑚𝑜𝑙ିଵ 𝑐𝑚ିଵ.
+For example, 𝜀= 2 × 10ସ 𝐿 𝑚𝑜𝑙ିଵ 𝑐𝑚ିଵ
+at 410 𝑛𝑚.
+
+
+=== PAGE 43 ===
+CC BY
+43
+Light absorption
+•
+Why different molecules absorb photons of specific wavelength?
+•
+Is there any correlation between the chemical structure of a molecule and its absorption spectrum, 
+i.e., photons that it absorbs?
+
+
+=== PAGE 44 ===
+CC BY
+44
+Light absorption
+Becker, R.S. et al. J. Phys. Chem. 1996, 100, 18683–18695.
+𝐼଴
+𝐼
+Size of the conjugated system (extent of conjugation)
+
+
+=== PAGE 45 ===
+CC BY
+45
+Light absorption
+Becker, R.S. et al. J. Phys. Chem. 1996, 100, 18683–18695.
+𝐼଴
+𝐼
+Size of the conjugated system (extent of conjugation)
+
+
+=== PAGE 46 ===
+CC BY
+46
+Light absorption
+Becker, R.S. et al. J. Phys. Chem. 1996, 100, 18683–18695.
+𝐼଴
+𝐼
+Size of the conjugated system (extent of conjugation)
+
+
+=== PAGE 47 ===
+CC BY
+47
+Light absorption
+Becker, R.S. et al. J. Phys. Chem. 1996, 100, 18683–18695.
+𝐼଴
+𝐼
+Size of the conjugated system (extent of conjugation)
+
+
+=== PAGE 48 ===
+CC BY
+48
+Light absorption
+Becker, R.S. et al. J. Phys. Chem. 1996, 100, 18683–18695.
+𝐼଴
+𝐼
+Size of the conjugated system (extent of conjugation)
+
+
+=== PAGE 49 ===
+CC BY
+49
+Light absorption
+Becker, R.S. et al. J. Phys. Chem. 1996, 100, 18683–18695.
+𝐼଴
+𝐼
+Size of the conjugated system (extent of conjugation)
+
+
+=== PAGE 50 ===
+CC BY
+50
+Light absorption
+Becker, R.S. et al. J. Phys. Chem. 1996, 100, 18683–18695.
+𝐼଴
+𝐼
+Size of the conjugated system (extent of conjugation)
+
+
+=== PAGE 51 ===
+CC BY
+51
+Light absorption
+Becker, R.S. et al. J. Phys. Chem. 1996, 100, 18683–18695.
+𝐼଴
+𝐼
+𝜆= 515 𝑛𝑚
+Planck–Einstein relation:
+𝐸௚= ℎ𝑐
+𝜆= 1240
+𝜆𝑛𝑚= 1240
+515 = 2.41 𝑒𝑉
+Size of the conjugated system (extent of conjugation)
+
+
+=== PAGE 52 ===
+CC BY
+52
+Colors, light absorption and energy gap
+Reproduced from lecture “Introduction of course and topics” from the course AMSC 5730 Frontiers in Advanced Materials by Prof. Quan LI, 10th of September 2026.
+𝐸௚= 2.43 𝑒𝑉
+
+
+=== PAGE 53 ===
+CC BY
+53
+Light absorption
+Becker, R.S. et al. J. Phys. Chem. 1996, 100, 18683–18695.
+Planck–Einstein relation:
+𝐸௚= ℎ𝑐
+𝜆= 1240
+𝜆𝑛𝑚
+𝐸௚= 4.86 𝑒𝑉
+𝐸௚= 3.54 𝑒𝑉
+𝐸௚= 3.06 𝑒𝑉
+𝐸௚= 2.76 𝑒𝑉
+𝐸௚= 2.58 𝑒𝑉
+𝐸௚= 2.48 𝑒𝑉
+𝐸௚= 2.41 𝑒𝑉
+Size of the conjugated system (extent of conjugation)
+Does 
+infinitely 
+large 
+conjugated 
+system 
+have 𝐸௚of 
+zero eV? 
+
+
+=== PAGE 54 ===
+CC BY
+54
+Light absorption
+Robert A. Rohde, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons https://upload.wikimedia.org/wikipedia/commons/e/e7/Solar_spectrum_en.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+Why narrower energy band gap in photocatalyst is preferable in some cases? 
+
+
+=== PAGE 55 ===
+CC BY
+55
+Donor-acceptor systems
+Becker, R.S. et al. J. Phys. Chem. 1996, 100, 18683–18695.
+Wong, X. L.; Sarjadi, M. S. J. Phys.: Conf. Ser. 2019, 1358, 012006. doi: 10.1088/1742-6596/1358/1/012006.
+𝛼3
+DTBT
+DTBT
+𝛼3
+𝐸௚= ℎ𝑐
+𝜆= 1240
+𝜆𝑛𝑚= 1240
+515 = 2.41 𝑒𝑉
+𝜆= 515 𝑛𝑚
+𝐸௚= 2.41 𝑒𝑉
+𝐸௚= 3.06 𝑒𝑉
+2,1,3-benzothiadiazole
+(acceptor)
+Thiophene (donor)
+
+
+=== PAGE 56 ===
+CC BY
+56
+Donor-acceptor systems
+D. Ye et al. Molecules 2023, 28, 2203.
+Y. Xie et al. Adv. Func. Mater. 2024, 34, 2411077.
+The concept of donor-acceptors is applicable to 0D (molecules), 1D- (linear polymers), 2D- (covalent
+triazine frameworks, CTF), 3D-materials.
+0D: molecule
+3D
+2D: CTF
+acceptor
+donor
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+acceptor
+donor
+acceptor
+donor
+1D: polymer
+
+
+=== PAGE 57 ===
+CC BY
+57
+Donor-acceptor systems
+https://www.adda247.com/jobs/wp-content/uploads/sites/2/2022/12/14212708/Father-of-Genetics-1.png
+Molecular fragments that act as donors (of electron density).
+•
+They are electron rich. They contain:
+•
+electron-donating groups, such as R2N–, RO–, RS– etc. featuring lone pairs of electrons on 
+sp3-hybridized atoms of heteroelements.
+•
+less electronegative elements, such as S, Se.
+Thiophene-
+Cyclopentadithiophene-
+Benzodithiophene-
+Fluorene-
+Aniline-based
+S
+O
+O
+Lone pair of electrons on 
+sp3-hybridized N atom 
+Electron-donating group
+Lone pairs of electrons on 
+sp3-hybridized O atoms 
+sp3
+Electron-donating group
+
+
+=== PAGE 58 ===
+CC BY
+58
+Molecular fragments that act as acceptors (of electron density):
+•
+They are electron deficient. They contain
+•
+electron-withdrawing groups, such as N≡C–, carbonyl–, carboxyl–, carboxamide–, etc. 
+featuring sp2-hybridized N, O atoms.
+•
+F atoms (the most electronegative element).
+Donor-acceptor systems
+https://www.adda247.com/jobs/wp-content/uploads/sites/2/2022/12/14212708/Father-of-Genetics-1.png
+N
+N
+N
+R
+N
+N
+R
+R
+N
+O
+O
+R
+sp2-hybridized N atoms
+Electron-withdrawing groups
+Benzotriazole-
+2,1,3-benzothiadiazole-
+Quinoxaline
+Phthalimide-
+Isophthalonitrile-based
+sp2
+sp2-hybridized N atoms
+sp2-hybridized O atoms
+
+
+=== PAGE 59 ===
+CC BY
+59
+Donor-acceptor systems
+M. C. Scharber, N. S. Sariciftci, Adv. Mater. Technol. 2021, 6, 2000857
+Why does energy band gap shrink in donor-acceptor systems compared to the material composed of 
+donor (or acceptor) units only?
+Wider 𝐸௚
+Wider 𝐸௚
+Narrower 𝐸௚
+
+
+=== PAGE 60 ===
+CC BY
+60
+Light absorption
+102% Yield, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons https://upload.wikimedia.org/wikipedia/commons/b/bd/%CE%92-Carotene_powder.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+Rational approaches to narrow the energy band gaps in materials:
+(1) Increase extent of conjugation.
+(2) Incorporate sequentially electron-donating and electron-withdrawing groups.
+𝛽,𝛽-carotene
+
+
+=== PAGE 61 ===
+CC BY
+61
+Lecture content
+1. Introduction
+•
+Catalysis, photochemistry and photocatalysis.
+•
+Spontaneous and non-spontaneous chemical reactions.
+•
+Enabling non-spontaneous reactions by photocatalysis.
+2. General photocatalytic mechanism
+•
+Photon absorption.
+•
+Separation of electron-hole pairs.
+•
+Redox reactions.
+3. Quiz
+
+
+=== PAGE 62 ===
+CC BY
+62
+Separation of electron-hole pairs
+R. J. Pandhare, S. N. Sonavane, P. M. Badani, R. M. Kamble J. Photochem. Photobiol. A, 2026, 476, 117101.
+•
+Valence band (or HOMO) is localized on the electron rich molecular fragment.
+•
+Conduction band (or LUMO) is localized on the electron deficient molecular fragment.
+Acceptor
+Donor
+LUMO
+HOMO
+HOMO
+LUMO
+𝐸𝑛𝑒𝑟𝑔𝑦 (𝑒𝑉)
+CB
+VB
+
+
+=== PAGE 63 ===
+CC BY
+63
+Separation of electron-hole pairs
+Absorption of a photon, promotes an electron from valence band (or HOMO) to conduction band (or
+LUMO).
+Separation of
+electron-hole pair
+ℎା
+𝑒ି
+Photon absorption/
+exciton formation
+N
+N
+S
+S
+N
+S
+h
+Recombination
+of electron-hole
+pair
+
+
+=== PAGE 64 ===
+CC BY
+64
+Separation of electron-hole pairs
+What method is used to quantify efficacy of exciton separation into electron-hole pair?
+If
+a
+semiconductor
+shows
+high
+photoluminescence,
+we
+can
+apply
+temperature-dependent
+photoluminescence measurements.
+
+
+=== PAGE 65 ===
+CC BY
+65
+Jablonski diagram
+S. Mazzanti et al. ACS Catal. 2021, 11, 11109–11116.
+Maxim Bilovitskiy, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons https://upload.wikimedia.org/wikipedia/commons/c/c2/Fluorescence_rainbow.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+A schematic representation of what happens to a molecule/material (a photocatalyst) upon photon
+absorption.
+Non radiative
+(𝑆ଵ →𝑆଴)
+FL
+(𝑆ଵ →𝑆଴)
+ISC
+(𝑇ଵ→𝑆଴, PH)
+Non radiative
+(𝑇ଵ →𝑆଴)
+𝑆଴
+RISC
+(𝑆ଵ →𝑇ଵ)
+∆𝐸ௌ்
+Excitation
+(𝑆଴ →𝑆ଵ)
+𝑆ଵ
+ISC
+(𝑆ଵ →𝑇ଵ)
+𝑇ଵ
+𝐸𝑛𝑒𝑟𝑔𝑦 (𝑒𝑉)
+•
+FL – fluorescence.
+•
+PH – phosphorescence.
+•
+ISC – intersystem crossing.
+•
+RISC – reverse intersystem crossing.
+Fluorescence of solutions 
+Fluorescence of thin films 
+
+
+=== PAGE 66 ===
+CC BY
+66
+Separation of electron-hole pairs
+E. Bozkurt, H. I. Gul. J. Photochem. Photobiol. A: Chemistry, 2019, 383, 111996.
+0
+𝐼𝑛𝑡𝑒𝑛𝑠𝑖𝑡𝑦 (𝑎. 𝑢. )
+𝜆 (𝑛𝑚)
+𝐼଴
+•
+Fluorescence intensity depends on 
+temperature.
+•
+Typically, it is stronger at lower temperature, 
+such as 80 𝐾or −193℃, and weaker at higher 
+temperature, such as room temperature.
+𝐼ଵ
+𝐼ଶ
+𝐼ଷ
+
+
+=== PAGE 67 ===
+CC BY
+67
+Separation of electron-hole pairs
+Why fluorescence is temperature-dependent?
+•
+As temperature rises, thermal energy (𝑘஻× 𝑇, 𝑘஻– Boltzmann constant, 1.38 × 10ିଶଷ 𝐽 𝐾ି
+ଵ; 𝑇–
+temperature, 𝐾) overcomes the Coulombic attraction holding the electron-hole pair together.
+•
+This causes the exciton to dissociate into free, non-radiatively recombining charge carriers,
+reducing the light emission – upon recombination they release heat (longer wavelength
+electromagnetic radiation) instead of visible light (shorter wavelength electromagnetic radiation).
+𝑒ି
+ℎା
+𝑒ି
+ℎା
+High 𝑇
+𝑒ି
+ℎା
+𝑒ି
+ℎା
+Low 𝑇
+ℎ𝑣
+ℎ𝑣
+𝑒ି
+ℎା
+𝑒ି
+ℎା
+Heat
+Heat
+
+
+=== PAGE 68 ===
+CC BY
+68
+Separation of electron-hole pairs
+•
+The relationship between integrated PL intensity (𝐼଴) and temperature (𝑇) is modeled using a
+modified Arrhenius equation:
+𝐼𝑇=
+𝐼଴
+1 + 𝐴× 𝑒𝑥𝑝−
+𝐸௕
+𝑘஻× 𝑇
+or
+𝑙𝑛
+𝐼଴
+𝐼𝑇−1 = 𝑙𝑛𝐴−
+𝐸௕
+𝑘஻× 𝑇
+where 𝐼𝑇
+– integrated PL intensity at temperature 𝑇. 𝐼଴– maximum PL intensity at ultra-low
+temperatures (approaching 0 K, where non-radiative pathways freeze out). 𝐴– is a dimensionless
+fitting constant (the pre-exponential factor related to the ratio of radiative to non-radiative lifetimes). 𝑘஻
+– Boltzmann constant, 1.38 × 10ିଶଷ 𝐽 𝐾ି
+ଵ. 𝐸௕– the exciton binding energy (analogue of activation
+energy in a chemical reaction).
+
+
+=== PAGE 69 ===
+CC BY
+69
+Separation of electron-hole pairs
+0
+𝑙𝑛
+𝐼଴
+𝐼𝑇−1
+1
+𝑘஻× 𝑇 (𝐽ିଵ)
+•
+Fitting the dependance
+𝑙𝑛
+𝐼଴
+𝐼𝑇−1 = 𝑓
+1
+𝑘஻× 𝑇
+with a linear function gives 𝐸௕as a slope.
+𝑙𝑛𝐴
+𝐸௕
+
+
+=== PAGE 70 ===
+CC BY
+70
+Separation of electron-hole pairs
+What are the typical 𝐸௕values?
+
+
+=== PAGE 71 ===
+CC BY
+71
+Separation of electron-hole pairs
+Cheng, H. et al. Adv. Mater. 2022, 34, 2107480.
+•
+𝐸௕ranges from hundreds of 𝑚𝑒𝑉to tens of 𝑚𝑒𝑉.
+•
+At 298 𝐾, the 𝑘஻× 𝑇= 1.38 × 10ିଶଷ× 298 = 4.1 × 10ିଶଵ 𝐽or 26 𝑚𝑒𝑉(recall that 1 𝑒𝑉= 1.6 ×
+10ିଵଽ 𝐽).
+•
+Excitons are split into free electron-hole pairs effectively in materials, which are characterized by 𝐸௕
+in the range of few tens 𝑚𝑒𝑉.
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+n
+n
+n
+n
+n
+n
+n = 0
+n = 1
+n = 2
+𝐸௕= 95 𝑚𝑒𝑉
+𝐸௕= 60 𝑚𝑒𝑉
+𝐸௕= 24 𝑚𝑒𝑉
+
+
+=== PAGE 72 ===
+CC BY
+72
+Separation of electron-hole pairs
+What are the guidelines for lowering 𝐸௕values (preferable for photocatalysts)?
+
+
+=== PAGE 73 ===
+CC BY
+73
+Separation of electron-hole pairs
+(1) Longer extent of conjugation.
+As a molecule changes from small or oligomer to an extended polymer backbone, the continuous π-
+electron system expands. This allows the photogenerated electron and hole to physically move further
+apart along the backbone, increasing the exciton radius and reducing their mutual Coulomb attraction.
+
+
+=== PAGE 74 ===
+CC BY
+74
+Separation of electron-hole pairs
+(2) Constructing a material featuring well-defined donor and acceptor fragments.
+Upon light absorption, intramolecular charge transfer occurs. The electron naturally localizes on the
+acceptor unit, while the hole localizes on the donor unit.
+
+
+=== PAGE 75 ===
+CC BY
+75
+Lecture content
+1. Introduction
+•
+Catalysis, photochemistry and photocatalysis.
+•
+Spontaneous and non-spontaneous chemical reactions.
+•
+Enabling non-spontaneous reactions by photocatalysis.
+2. General photocatalytic mechanism
+•
+Photon absorption.
+•
+Separation of electron-hole pairs.
+•
+Redox reactions.
+3. Quiz
+
+
+=== PAGE 76 ===
+CC BY
+76
+Redox reactions
+An electronically excited state of a photocatalyst can drive redox reactions.
+Separation of
+electron-hole pair
+ℎା
+𝑒ି
+Photon absorption/
+exciton formation
+N
+N
+S
+S
+N
+S
+h
+Recombination
+of electron-hole
+pair
+Reactant oxidation
+N
+N
+S
+S
+N
+S
+𝑒ି
+Reactant reduction
+
+
+=== PAGE 77 ===
+CC BY
+77
+Redox reactions
+•
+Can a photocatalyst electronically excited state drive any reduction and any oxidation reaction?
+•
+What are the thermodynamic criteria for the reduction and oxidation reaction to be spontaneous?
+
+
+=== PAGE 78 ===
+CC BY
+78
+Photoinduced electron transfer
+𝐸𝑛𝑒𝑟𝑔𝑦 (𝑒𝑉)
+Photocatalyst 
+ground state, 
+𝑃𝐶
+Reactant 
+ground state, 𝐷
+(for “donor”)
+Photoinduced electron transfer (PET)
+Electron 
+transfer is non-
+spontaneous✗
+ℎ𝜈
+Photocatalyst
+electronically
+excited state, 𝑃𝐶
+∗
+Reactant 
+ground state, 𝐷
+𝑒ି
+Electron 
+transfer is 
+spontaneous
+✓
+Photocatalyst
+radical anion, 
+[𝑃𝐶]•ି
+Reactant 
+radical cation, 
+[𝐷]•ା
+Single electron 
+transfer (SET) by 
+oxidative 
+quenching of 
+𝑃𝐶
+∗
+
+
+=== PAGE 79 ===
+CC BY
+79
+Redox reactions
+•
+Photocatalyst’s HOMO energy must be lower than reactant’s HOMO energy.
+•
+Photon absorption promotes an electron from photocatalyst’s HOMO to LUMO. This creates a hole
+(ℎା) in HOMO.
+•
+Since reactant’s HOMO energy is higher than that of a hole, electron transfer from the reactant to
+the photocatalyst electronically excited state is spontaneous.
+Following the above logic, what must the relative alignment of the photocatalyst’s and reactant’s
+LUMO energies be to make photoinduced electron transfer from the photocatalyst to the reactant
+spontaneous?
+
+
+=== PAGE 80 ===
+CC BY
+80
+Redox reactions
+Diego Delso, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons https://upload.wikimedia.org/wikipedia/commons/c/c5/Cascada_Dynjandi%2C_Vestfir%C3%B0ir%2C_Islandia%2C_2014-08-14%2C_DD_136-
+138_HDR.JPG
+𝐸𝑛𝑒𝑟𝑔𝑦 (𝑒𝑉)
+𝐸௚
+Photocatalyst
+Reactant’s HOMO
+Other reactant’s
+LUMO
+Driving force for PET
+Driving force for PET
+Why narrow 𝐸௚
+could be a bad 
+feature of a 
+photocatalyst? 
+
+
+=== PAGE 81 ===
+CC BY
+81
+Redox reactions
+Is there a correlation between the chemical structure of the photocatalyst and its HOMO-LUMO
+energy levels?
+
+
+=== PAGE 82 ===
+CC BY
+82
+Trends in HOMO-LUMO energy levels
+Correlation between the chemical structure of a photocatalyst and its HOMO-LUMO energy levels:
+•
+The more depleted with electron density the molecular fragment representing HOMO, the lower is
+the energy of this molecular orbital and vice versa.
+•
+The more enriched with electron density the molecular fragment representing LUMO, the higher is
+the energy of this molecular orbital and vice versa.
+N
+N
+S
+S
+N
+S
+H3CS
+H3CS
+H3CS
+H3CS
+OCH3
+F
+F
+F
+F
+F
+F
+F
+F
+OCH3
+Compared to 
+the reference 
+molecule (left) 
+how would 
+such a 
+structural 
+modification 
+affect HOMO-
+LUMO energy 
+levels? 
+
+
+=== PAGE 83 ===
+CC BY
+83
+Trends in HOMO-LUMO energy levels
+Application of this trend to tune HOMO-LUMO energy levels in a series of structurally-similar
+photocatalysts:
+(1) Decreasing the electron density on a molecular fragment representing HOMO by introducing
+electron-withdrawing groups lowers the HOMO energy compared to the reference material and vice
+versa. This structural variation makes the photogenerated hole a stronger oxidant.
+(2) Increasing the electron density on a molecular fragment representing LUMO by introducing
+electron-donating groups lifts the LUMO energy compared to the reference material and vice versa.
+This structural variation makes the photogenerated electron a stronger reductant.
+
+
+=== PAGE 84 ===
+CC BY
+84
+Trends in HOMO-LUMO energy levels
+J. Z. Low; B. Capozzi; J. Cui; S. Wei; L. Venkataraman; L. M. Campos, Chem. Sci. 2017, 8, 3254–3259.
+
+
+=== PAGE 85 ===
+CC BY
+85
+Trends in HOMO-LUMO energy levels
+J. Z. Low; B. Capozzi; J. Cui; S. Wei; L. Venkataraman; L. M. Campos, Chem. Sci. 2017, 8, 3254–3259.
+𝐸𝑛𝑒𝑟𝑔𝑦 (𝑒𝑉)
+0
+−2
+−3
+−4
+−5
+−6
+−3.6
+−5.1
+−3.0
+−5.0
+−2.8
+−5.0
+Acceptor
+Donor
+HOMO is on donor.
+LUMO is on acceptor.
+Pay attention 
+to notation 
+“lower”/”high
+er”!
+“Lower”=mor
+e negative, 
+more stable,
+“Higher”=les
+s negative, 
+less stable.
+
+
+=== PAGE 86 ===
+CC BY
+86
+Trends in HOMO-LUMO energy levels
+J. Z. Low; B. Capozzi; J. Cui; S. Wei; L. Venkataraman; L. M. Campos, Chem. Sci. 2017, 8, 3254–3259.
+Acceptor
+Donor
+•
+The chemical structure of donors is nearly identical (𝐶଺𝐻ଵଷgroups are needed to solubilize these D-
+A conjugated systems in a solvent) →HOMO energy is nearly the same in these three cases,
+−5.0 … −5.1 𝑒𝑉.
+•
+From left to right the chemical structure of acceptors changes from less electron deficient to more
+electron deficient →LUMO energy is shifted progressively to more negative value, −2.8 →−3.0 →
+−3.6 𝑒𝑉.
+Less
+electron
+deficient
+More
+electron
+deficient
+Acceptor
+
+
+=== PAGE 87 ===
+CC BY
+87
+Trends in HOMO-LUMO energy levels
+Acceptor
+Donor
+Less
+electron
+deficient
+More
+electron
+deficient
+Acceptor
+What conclusion can you make about the ability of these substances as photocatalysts to drive:
+(1) Oxidation reactions
+(2) Reduction reactions
+
+
+=== PAGE 88 ===
+CC BY
+88
+Quantification of reaction efficacy
+How to quantify efficacy of a certain chemical reaction?
+
+
+=== PAGE 89 ===
+CC BY
+89
+Quantification of reaction efficacy
+11.1 g of calcium chloride (CaCl2) reacted with excess of sodium carbonate. 9.00 g of calcium 
+carbonate (CaCO3) were isolated. What is the yield of calcium carbonate?
+𝐶𝑎𝐶𝑙ଶ+ 𝑁𝑎ଶ𝐶𝑂ଷ⇌𝐶𝑎𝐶𝑂ଷ↓+2NaCl
+
+
+=== PAGE 90 ===
+CC BY
+90
+Quantification of reaction efficacy
+𝐶𝑎𝐶𝑙ଶ+ 𝑁𝑎ଶ𝐶𝑂ଷ⇌𝐶𝑎𝐶𝑂ଷ↓+2NaCl
+111 𝑔 𝑚𝑜𝑙ିଵ
+100 𝑔 𝑚𝑜𝑙ିଵ
+Solution:
+11.1 g
+9.00 g
+Since excess of 𝑁𝑎ଶ𝐶𝑂ଷwas used, 𝐶𝑎𝐶𝑙ଶis the limiting reactant.
+Amount of 𝐶𝑎𝐶𝑙ଶ:
+Theoretical amount of 𝐶𝑎𝐶𝑂ଷ:
+Actual amount of 𝐶𝑎𝐶𝑂ଷ:
+Yield of 𝐶𝑎𝐶𝑂ଷ:
+𝑛𝐶𝑎𝐶𝑙ଶ= 𝑚(𝐶𝑎𝐶𝑙ଶ)
+𝑀(𝐶𝑎𝐶𝑙ଶ) = 11.1
+111 = 0.1 𝑚𝑜𝑙
+𝑛௧௛௘௢௥. 𝐶𝑎𝐶𝑂ଷ= 𝑛𝐶𝑎𝐶𝑙ଶ= 0.1 𝑚𝑜𝑙
+𝑛௣௥௔௖௧. 𝐶𝑎𝐶𝑂ଷ= 𝑚(𝐶𝑎𝐶𝑂ଷ)
+𝑀(𝐶𝑎𝐶𝑂ଷ) = 9.00
+100 = 0.09 𝑚𝑜𝑙
+𝜂𝐶𝑎𝐶𝑂ଷ= 𝑛௣௥௔௖௧. 𝐶𝑎𝐶𝑂ଷ
+𝑛௧௛௘௢௥.
+= 0.09
+0.1 × 100% = 90%
+
+
+=== PAGE 91 ===
+CC BY
+91
+Quantification of reaction efficacy
+How to quantify efficacy of a photocatalyst in a certain reaction?
+
+
+=== PAGE 92 ===
+CC BY
+92
+Quantification of reaction efficacy
+•
+Efficacy of a photocatalyst is characterized by quantum yield (QY).
+•
+Quantum yield is defined as the number of molecules of the product formed in the photochemical
+reaction per number of photons absorbed by the reactant:
+𝜙= 𝑛(𝑝𝑟𝑜𝑑𝑢𝑐𝑡)
+𝑛(𝑝ℎ𝑜𝑡𝑜𝑛)
+
+
+=== PAGE 93 ===
+CC BY
+93
+Quantification of reaction efficacy
+•
+Using Planck-Einstein relation, we can calculate how many photons (𝑚𝑜𝑙) reach 
+the surface of the photoreactor every second.
+For example,
+1) Energy of a single 550-nm photon:
+𝐸= ℎ𝑐
+𝜆= 6.63 × 10ିଷସ× 3 × 10଼
+550 × 10ିଽ
+= 3.61 × 10ିଵଽ 𝐽
+2) If the optical power of the LED is 10 𝑊, every second (𝑡= 1 s), it emits 10 𝐽of 
+energy in the form of 550-nm photons. Therefore, the number of such photons is:
+𝑁= 𝑂𝑃× 𝑡
+𝐸
+=
+10 × 1
+3.61 × 10ିଵଽ= 2.77 × 10ଵଽ 𝑝ℎ𝑜𝑡𝑜𝑛𝑠 𝑠ି
+ଵ
+3) The amount of such photons:
+𝑛= 𝑁
+𝑁஺
+= 2.77 × 10ଵଽ
+6.02 × 10ଶଷ= 4.59 × 10ିହ𝑚𝑜𝑙𝑠ି
+ଵ
+
+
+=== PAGE 94 ===
+CC BY
+94
+Quantification of reaction efficacy
+4) If some reaction mixture was exposed to this photon flux for 50 𝑠, and analysis
+revealed that 1.15 × 10ିସ 𝑚𝑜𝑙of a product was formed, the QY is:
+𝜙=
+1.15 × 10ିସ
+50 × 4.59 × 10ିହ= 0.05 𝑜𝑟 5%
+
+
+=== PAGE 95 ===
+CC BY
+95
+Synthesis of materials for photocatalysis 
+A robust bottom-up (assembling a material from molecular fragments) approach is based on common
+synthetic methods:
+(1) A reaction between a nucleophile and an electrophile.
+(2) Catalyzed by transition metals (usually by Pd) cross-coupling of donor-acceptor molecular 
+fragments.
+
+
+=== PAGE 96 ===
+CC BY
+96
+Synthesis of materials for photocatalysis 
+https://www.organic-chemistry.org/namedreactions/knoevenagel-condensation.shtm
+(1) Transition metal-free reaction between nucleophile and electrophile.
+•
+A classical example is Knoevenagel condensation.
+•
+It requires a C–H acid and a base (nucleophile), and a carbonyl compound (electrophile).
+
+
+=== PAGE 97 ===
+CC BY
+97
+Synthesis of materials for photocatalysis 
+S. Nath; S. Bommakanti; A. Puthukkudi; B. P. Biswal. Chapter 7: Carbon–Carbon Linked Covalent Organic Frameworks in "Covalent Materials and Hybrids: From 0D to 3D", Ed. Bishnu P. Biswal, 2023.
+(1) Transition metal-free reaction between nucleophile and electrophile.
+•
+Using molecules featuring several C–H acidic sites and several carbonyl groups affords a linear 
+polymer, 2D- or 3D-structure. 
+
+
+=== PAGE 98 ===
+CC BY
+98
+Synthesis of materials for photocatalysis 
+https://www.organic-chemistry.org/namedreactions/stille-coupling.shtm
+(2) Pd-catalyzed cross-coupling of donor-acceptor molecular fragments.
+•
+Stille coupling requires an haloarene, organotin compound, Pd-catalyst.
+
+
+=== PAGE 99 ===
+CC BY
+99
+Synthesis of materials for photocatalysis 
+https://www.organic-chemistry.org/namedreactions/stille-coupling.shtm
+J. Z. Low; B. Capozzi; J. Cui; S. Wei; L. Venkataraman; L. M. Campos, Chem. Sci. 2017, 8, 3254–3259.
+(2) Pd-catalyzed cross-coupling of donor-acceptor molecular fragments.
+•
+Stille coupling requires an haloarene, organotin compound, Pd-catalyst.
+S
+S
+S
+H3CS
+S
+S
+SCH3
+C6H13
+C6H13
+O
+O
+
+
+=== PAGE 100 ===
+CC BY
+100
+Suggested final presentation topics
+1. How to identify electron-donating and electron-accepting units in semiconductor photocatalysts?
+2. How to tune optical band gap of semiconductors?
+3. How to tune conduction and valence band energy levels in semiconductors?
+4. What are the strategies to suppress charge carrier recombination in semiconductor photocatalysts?
+5. What are the strategies to tune exciton binding energy in semiconductor photocatalysts?
+6. How to quantify efficacy of semiconductor photocatalysts to drive chemical reactions?
+
+
+=== PAGE 101 ===
+CC BY
+101
+Suggested final essay topics
+1. Donor-acceptor conjugated systems.
+2. Bottom-up approach in preparation of donor-acceptor conjugated systems.
+3. Photoinduced electron transfer in semiconductor photocatalysis.
+4. Steady-state UV-visible absorption spectroscopy for characterization of semiconductor 
+photocatalysts.
+5. Steady-state photoluminescence spectroscopy for characterization of semiconductor 
+photocatalysts.
+6. Time-resolved photoluminescence spectroscopy for characterization of semiconductor 
+photocatalysts.
+
+
+=== PAGE 102 ===
+CC BY
+102
+Lecture content
+1. Introduction
+•
+Catalysis, photochemistry and photocatalysis.
+•
+Spontaneous and non-spontaneous chemical reactions.
+•
+Enabling non-spontaneous reactions by photocatalysis.
+2. General photocatalytic mechanism
+•
+Photon absorption.
+•
+Separation of electron-hole pairs.
+•
+Redox reactions.
+3. Quiz

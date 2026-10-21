@@ -1,0 +1,878 @@
+=== PAGE 1 ===
+光伏与太阳能电池前沿
+日期
+2026年10月8日 18:30
+语言
+英语 → 中文
+时长
+2小时19分17秒
+段落
+217 句
+[0:00]
+  Speaker 1
+Co-director of this program, from Physics Department, and so, uh, how's everything going so far? I can collect your feedback and tell my colleagues. Whether the lectures are too difficult or too easy, I mean, other other courses.
+这个项目的联合负责人，来自物理系。那么，呃，到目前为止一切进展得怎么样？我可以收集你们的反馈，并告诉我的同事们。课程讲得是不是太难了，或者太容易了，我是说，其他其他课程。
+[0:08]
+  Speaker 1
+Okay, theoretical theory, okay, okay.
+好的，理论，理论，好的，好的。
+[0:14]
+  Speaker 1
+Any other? Any other feedback?
+还有其他的吗？还有其他反馈吗？
+[0:14]
+  Speaker 1
+Huh?
+？
+[0:28]
+  Speaker 1
+Oh, quiz is not easy, yeah. But don't worry, I think this is fair to everyone, right? So just, uh, well, I think the quiz today is going to be easy.
+哦，测验不简单，是的。不过别担心，我觉得这对所有人来说都公平，对吧？所以，呃，嗯，我觉得今天的测验会很简单。
+[0:55]
+  Speaker 1
+Okay, but anyway. So today, since this is the course, to give you an overview of what advanced different kinds of advanced materials are, and what are their frontiers, basically like research frontiers. So today, why I'm assigned to teach this course and this lecture, because my research is about solar cell.
+好吧，不过不管怎样。所以今天，既然这门课是为了向大家概述有哪些不同种类的先进材料，以及它们目前处于什么前沿，基本上就是研究前沿。所以，我为什么被安排来教这门课和这门讲座呢？因为我的研究方向是太阳能电池。
+[1:09]
+  Speaker 1
+Okay, so we use this terminology: photovoltaic. Basically means you convert photon energy to electricity to voltage. Okay, so that's why create this word, photon voltaic.
+好的，我们使用“光伏”这个术语。基本上，就是将光子的能量转化为电能，也就是电压。好的，所以这就是“光光伏”这个词的由来。
+[1:21]
+  Speaker 1
+Materials, okay. Yeah. So, uh, during this three lectures, I'm going to cover these parts.
+材料，好的。对。那么，呃，在这三场讲座中，我会讲到这些内容。
+[1:44]
+  Speaker 1
+So firstly, we'll quickly discuss the property of sunlight and why we want to harvest it, and what is photovoltaic effect, right? How, what portion of sunlight, how, uh, we want to convert to electricity. And then the second part is the major part.
+首先，我们会快速讨论太阳光的特性、为什么要利用它，以及什么是光伏效应，对吧？我们想把太阳光的哪一部分，呃，转化为电能。然后第二部分是主要部分。
+[2:00]
+  Speaker 1
+So we're going to talk about the basic working principle of a solar cell. Okay, solar cell, I think, uh, how many of you used solar cell in your daily life before?
+所以，我们将讨论太阳能电池的基本工作原理。好的，太阳能电池，我想，呃，你们当中有多少人以前在日常生活中用过太阳能电池？
+[2:00]
+  Speaker 1
+Solar cell?
+太阳能电池？
+[2:10]
+  Speaker 1
+Have you used it? No, no, no, no one? Raise up your hand.
+你用过吗？不，不，不，没人用吗？请举手。
+[2:14]
+  Speaker 1
+Have? Okay, fine. Maybe it's not that common.
+有吗？好的。也许它没那么常见。
+[2:22]
+  Speaker 1
+Uh, maybe on the rooftop, right? Those solar panels. Have you seen this kind of solar panel?
+呃，也许是在屋顶上，对吧？那些太阳能板。你见过这种太阳能板吗？
+[2:49]
+  Speaker 1
+Okay, okay, but maybe it's not that common yet. Yeah, actually, actually it's a lot of solar cells are already installed in the west part of China, and it becomes like solar plant. To create a lot of electricity. Nowadays, okay. So then, so after the principle, we're going to move to the different types of solar cell.
+好的，好的，不过这种太阳能板可能还不太常见。对，其实，其实中国西部已经安装了大量太阳能电池，形成了类似太阳能电站的规模。用来发电。如今，好的。那么，在了解了原理之后，我们将继续介绍不同类型的太阳能电池。
+[3:19]
+  Speaker 1
+Basically, I choose three different types. Silicon is the most common one, the one that you should be able to see on the rooftop nowadays. And perovskite and organic solar cells are the third generation solar cell. Basically, my research are focusing on. And then we also going to talk about, so these are like so you use only one type of solar cell material, photovoltaic material.
+基本上，我选择了三种不同的类型。硅是最常见的，如今你应该能在屋顶上看到这种太阳能电池。钙钛矿太阳能电池和有机太阳能电池属于第三代太阳能电池。基本上，我的研究重点是。然后我们还会讨论，所以这些就是，你只使用一种太阳能电池材料，也就是光伏材料。
+[3:36]
+  Speaker 1
+So these type of solar cell are called single junction solar cell. But we can stack different types of photovoltaic material together to form this kind of tandem structure. Okay, so this kind of tandem structure, we're going to talk about this.
+所以这类太阳能电池被称为单结太阳能电池。但是，我们可以将不同类型的光伏材料堆叠在一起，形成这种串联结构。好的，那么这种串联结构，我们接下来会讨论。
+[4:06]
+  Speaker 1
+So the principle and why it can increase the power conversion efficiency. And then this part is related to my research. So I am trying to see tell you that as a physicist, okay, so how can I use my expertise to understand the mechanism of working mechanism of solar cell help to provide guidance to improve the performance of solar cell. Okay, and the last part, don't be too nervous.
+那么，它的原理以及为什么能够提高功率转换效率。然后这一部分与我的研究有关。所以我想告诉你们，作为一名物理学家，好吧，那么，我如何运用自己的专业知识来理解太阳能电池的工作机制，从而为提高太阳能电池的性能提供指导呢？好的，最后这部分，别太紧张。
+[4:12]
+  Speaker 1
+Okay, it only take a little quiz. Uh, they are all multiple choice. Problems.
+好的，只需要做一个小测验。呃，这些都是选择题。问题。
+[4:23]
+  Speaker 1
+Okay, so I think you should be able to finish in 10 minutes. Yeah, so this is the plan for today.
+好的，我想你们应该能在10分钟内完成。好的，这就是今天的计划。
+[4:57]
+  Speaker 1
+Okay, so property of sunlight. Okay, so, uh, who of you oh, sorry. Okay, know that we want to harvest solar energy because solar energy is so abundant it has like it's a 173,000 terawatt, okay, that will be shine on the earth, okay, and so it's clean, right? So they're abundant energy that we can harvest it.
+好的，那么，阳光的性质。好的，那么，呃，你们当中谁……哦，抱歉。好的，我们知道要利用太阳能，因为太阳能非常丰富，大约有17.3万太瓦，好的，这会照射到地球上，对吧？所以它是清洁的，对吧？所以，这是一种丰富的能源，我们可以利用它。
+[5:08]
+  Speaker 1
+And actually, most of them are wasted. Some of them are converted to heat. Heat is the form of waste, like useless energy.
+实际上，其中大部分都被浪费了。其中一些转化为热能。热量就是一种浪费，就像无用的能量。
+[5:24]
+  Speaker 1
+It's heat, okay? And 30% are reflected back to the air. So only a small portion of the solar energy that we can make use of it, okay? So there are different ways to harness solar energy.
+是热量，明白吗？另外30%被反射回大气中。所以，我们只能利用一小部分太阳能，好吗？所以，利用太阳能有不同的方式。
+[5:42]
+  Speaker 1
+For example, fossil fuels. So basically, the sunlight, sorry, this because I think this is connecting like this way, and okay, yeah, let's see.
+例如，化石燃料。所以基本上，阳光，抱歉，这个，因为我觉得它是这样连接的，然后，好，嗯，我们来看看。
+[6:31]
+  Speaker 1
+So the sunlight is stored in the like plant and, yeah, become the fossil fuel and so in the ancient plant, okay, and so this kind of already give you only about 1% of sunlight was stored as converted into fossil fuels. And then they can also convert into biomass, okay, and like wind energy, nowadays like those wind, those very huge to collect the, you know, the fan, right, to collect the wind energy is also actually it is a big competitor to solar panel, solar cell. Yeah, for the clean energy harvesting.
+所以，阳光会储存在植物之类的生物体内，然后，对，变成化石燃料。所以，在古代的植物中，好，所以，这种情况下，只有大约1%的阳光被储存并转化为化石燃料。然后它们也可以转化为生物质，好吗？就像风能一样，如今那些风，那些非常巨大的……来收集，你知道的……风机，对吧，用来收集风能，其实也是太阳能板、太阳能电池的一大竞争对手。对，用于清洁能源的采集。
+[7:00]
+  Speaker 1
+Yeah, it's and also contribute about 1%. And also hydro power means that the sun evaporate the water or ice, okay, into the air and this part also like store solar energy and it will return as wind. This convert into a lot of energy that we first have.
+是的，它也贡献了大约1%。另外，水力发电意味着太阳蒸发水或冰，好的，进入大气，而这一部分也会像储存太阳能一样，之后以风的形式返回。这转化为我们首先拥有的大量能量。
+[7:47]
+  Speaker 1
+Okay, so photovoltaics, PV, okay, we sometimes we just call it OPV means organic solar cell, like PV, or solar cell. These two words are equivalent here, okay? Photovoltaics basically is to directly convert sunlight into electricity is also one major way, okay? Yeah, so now I remember, so most common way in when I was a kid, so we kind of have those the shower system, like you have the sun heats the water and I can have shower at night, but that is not photovoltaics, okay? It's just convert sunlight into heat.
+好的，那么光伏，也就是 PV。有时我们简称 OPV，指有机太阳能电池，就像 PV，也就是太阳能电池。这两个词在这里是同义的，好吗？光伏基本上就是将阳光直接转化为电能，这也是主要方式之一，好吗？对，所以现在我想起来了，这在我小时候是最常见的方式。我们当时有那种淋浴系统，比如，太阳加热水，我晚上可以洗澡，但这不是光伏发电，好吗？它只是把阳光转化为热能。
+[8:03]
+  Speaker 1
+Photovoltaics is convert sunlight into electricity, okay? So then the device to utilize this photovoltaic effect is called solar cell, okay? Basically, this is no history pollution free and very durable.
+光伏就是把阳光转化为电能，好吗？那么，利用这种光伏效应的装置就叫作太阳能电池，好吗？基本上，这种材料无历史污染、无污染，而且非常耐用。
+[8:42]
+  Speaker 1
+So this is very so that's why I devote my research to develop this type of device and to, yeah, to help the development of the technology, basically. But what I'm later on in the part that for my research fund, I actually my research is very fundamental. Yeah, so we are physicists can always study fundamental stuff, okay? Yeah, so if we look at the history of the development of photovoltaics, about like seven century BC, humans start to use sunlight, okay?
+所以这非常……这就是为什么我致力于研发这类装置，并且，嗯，基本上，是为了助力这项技术的发展。但后来在申请研究经费的部分，我其实认为我的研究非常基础。对，所以作为物理学家，我们总能研究基础性的东西，好吗？是的，如果我们回顾光伏发展的历史，大约从公元前七世纪开始，人类就开始利用阳光，好吗？
+[9:06]
+  Speaker 1
+So to create use sunlight to create fire, okay? So this is kind of the first evidence of human being making use of solar into some energy form. And then in 1954, okay, so so many years passed, the very first photovoltaic cell, solar cell is invented.
+所以，利用阳光生火，好吗？所以，这算是人类首次利用太阳光产生某种形式能量的证据。然后到了1954年，经过这么多年，第一块光伏电池，也就是太阳能电池，被发明出来了。
+[9:25]
+  Speaker 1
+So this one is based on silicon, okay? 1954. And then over the years, solar panel. So in the early years, solar cell is very expensive, so it can only be afforded to use in some like exotic case.
+所以这个是基于硅的，好吗？1954年。然后多年来，太阳能板。所以在早期，太阳能电池非常昂贵，因此只能用于一些比较特殊的情况。
+[11:03]
+  Speaker 1
+For example, in the space to power satellite, to power even airplane, okay, but nowadays the price of solar cell become lower and so it can actually, I think, yeah, nowadays maybe in the rubber area a lot of people already installed solar panel on their rooftop to save the electricity cost, okay? Yeah, so if you want to understand solar cell working mechanism of solar cell, first need to understand the property of light, okay? So and so basically, if just look at the property of light, okay, so we say that light have particle and wave duality property. So it's a photon, it's particles, so basically later on you're counting a number of photon that like incident onto your an area of the solar panel per time, something like that, okay? And it also have this wave property, okay? So it's have the wavelengths and frequency can so wavelengths, frequency, and energy, these parameters are connected, okay? So this is the how we use the formula we use to convert wavelengths of the photon beam with the energy and for frequency part.
+例如，在太空为卫星供电，甚至为飞机供电，好吗，但如今太阳能电池的价格已经下降了，所以它其实可以，我觉得，是的，如今，也许在橡胶行业，很多企业已经在屋顶安装了太阳能板，以节省电费，好吗？对，所以，如果你想了解太阳能电池的工作原理，首先需要了解光的性质，好吗？所以，基本上，如果我们只看光的性质，我们会说光具有粒子性和波动性的二象性。所以它是一个光子，具有粒子性。因此，基本上之后你会计算单位时间内有多少个光子照射到太阳能板的某个面积上。类似这样的，好吗？它还具有这种波动性质，好吗？所以它有波长和频率，也就是波长、频率和能量，这些参数是相互关联的，好吗？所以，这就是我们如何使用这个公式，把光子束的波长转换为能量，以及频率部分。
+[11:31]
+  Speaker 1
+So actually for solar cell or for our application, we don't use that much, okay? Only need wavelengths and energy, okay? So this is so plant constant times speed of light divided by the wavelengths equals the energy of that photon beam, okay? And so these two are constant, plant constant, speed of light, you know what is the value of speed of light?
+所以实际上，对于太阳能电池或我们的应用来说，我们不会用那么多，好吗？只需要波长和能量，好吗？所以，普朗克常数乘以光速，再除以波长，就等于那个光子束的能量，好吗？所以这两个是常数：普朗克常数、光速。你知道光速是多少吗？
+[11:39]
+  Speaker 1
+Any student?
+有学生知道吗？
+[12:38]
+  Speaker 1
+It's three times 10 to the power of eight, right? Meters per second. Yeah, so I try to save your time or actually give you a quick way to convert energy to wavelengths so I just calculate these two quantity and convert it so making energy in the unit of eV and making wavelengths in the unit of nanometer and then this numerator together will give you 1000 and 240, okay? So this is very useful. So the so given the wavelengths, so you divide 1000 or 240 by this wavelengths in nanometer, unit of nanometer will give you the energy in the unit of eV, okay? So basically, for example, if I have a wavelengths of 100 nanometer, what is the energy of the photon beam?
+是3乘以10的8次方，对吧？米每秒。对，所以我想节省大家的时间，或者给大家一个快速将能量换算成波长的方法。我直接计算这两个量，然后进行换算：把能量换算成电子伏特，把波长换算成纳米，然后这个分子……合在一起就是1000和240，好吗？所以这非常有用。所以，给定波长后，用1000或240除以这个波长（单位为纳米），以纳米为单位，就能得到以电子伏特为单位的能量，好吗？所以基本上，比如说，如果波长是100纳米，那么光子束的能量是多少？
+[12:47]
+  Speaker 1
+It is 0.12.4.
+是0.12.4。
+[12:59]
+  Speaker 1
+Yes, 12.4, okay? Yes, so this is a quick way. So you can roughly remember this number or just say, oh, this is roughly 1000.
+对，12.4，好吗？是的，所以这是一种快捷的方法。所以你可以大致记住这个数字，或者直接说，哦，这大约是1000。
+[13:54]
+  Speaker 1
+Yeah, so then but then the estimation is not that accurate. If you can remember 1240, then you can quickly use your brain to do the calculation and yeah, so here I want to emphasize a little bit like the solar the photon spectrum, okay? So because this is kind of useful later, especially like my research is using X-ray to study the microstructure which belongs to also is a photon beam, but wavelengths is much smaller than the solar spectrum, okay? So solar spectrum basically cover a wide range so here solar spectrum we will show you in next slide, but let's just give you some introduction about typical light.
+对，所以这样估算就不那么准确了。如果你能记住1240，那么你就可以快速用大脑进行计算，然后，嗯，所以在这里，我想稍微强调一下，比如太阳的光子光谱，好吗？所以，因为这之后会比较有用，尤其是我的研究是利用X射线来研究微观结构，而X射线也属于光子束。但波长比太阳光谱短得多，好吗？所以，太阳光谱基本上覆盖了很宽的范围。接下来的幻灯片中，我们会向大家展示太阳光谱。不过，我们先简单介绍一下典型光。
+[14:02]
+  Speaker 1
+For example, visible light, okay?
+比如可见光，好吗？
+[14:16]
+  Speaker 1
+So the light, the wavelengths of the light that our eyes can resolve any student know what is a wavelength range?
+那么，光，也就是我们眼睛能够分辨的光的波长……同学们知道什么是波长范围吗？
+[14:55]
+  Speaker 1
+This is very useful, okay? So the that's why I okay, so this actually related to I think the required course you're taking is about characterization of materials, right? So wavelengths related to energy and then related to how deep this light can penetrate and what is the resolution, spatial resolution of that probing beam can resolve, okay? Which is called the diffraction limit, okay? So that's why I'm trying to give you some any student know what is the wavelength range for visible light?
+这非常有用，好吗？所以，这就是为什么我……好吧，这其实和……我想你们正在修的必修课是关于材料表征的，对吧？所以，波长与能量有关，进而与这种光能穿透多深以及分辨率如何有关。探测光束的空间分辨率能够分辨的，好吗？这称为衍射极限，好吗？所以这就是为什么我尽量给你们一些……有学生知道可见光的波长范围是多少吗？
+[15:44]
+  Speaker 1
+Oh, you're very good, okay? So it's showing here, but it's not that so it's among between 10 to the power of minus six to 10 to the power of minus seven, a meter, so that means it is in the range of several hundred nanometer, okay? So I just give you the so this is the shortest wavelengths is well, 380 nanometer to 700, so this is the wavelength range of visible light, okay? And then we can have music, UV, okay?
+哦，你很厉害，对吧？所以这里显示的是，但它并不是那样，它介于10的负六次方到10的负七次方之间，米，所以这意味着它在几百纳米的数量级，好吗？所以我只是给你们……所以这是最短的波长，嗯，从380纳米到700纳米，所以这是可见光的波长范围，好吗？然后我们还有音乐、紫外线，好吗？
+[16:13]
+  Speaker 1
+UV is a way a light have shorter wavelengths than the visible light, okay? So shorter wavelengths means it it's just next to visible light, okay? Yeah, so UV is just next to visible light, so that means it's the wavelengths up on the ring, it's 380, okay? And then the lower boundary is about.
+紫外线是一种波长比可见光更短的光，好吗？所以，波长更短意味着它就在可见光的旁边，好吗？对，所以紫外线就在可见光旁边。也就是说，它的波长在环的上方，是380，好吗？然后下限大约是……
+[16:33]
+  Speaker 1
+And then we so this is UV, okay? And then infrared, okay? Infrared is here, okay? Infrared, infrared means the wavelengths is larger than visible light, a long wavelengths region, okay?
+然后我们……所以这是紫外线，好吗？然后是红外线，好吗？红外线在这里，好吗？红外线，红外线的波长比可见光长，属于长波长区域，好吗？
+[18:11]
+  Speaker 1
+So infrared so that means it's lower boundary should be 700 nanometer, sorry, nanometer, so this is in the range of. Nanometer, well, upper boundary I would say it's several thousand several thousand nanometer, okay? So let's just say this yeah, so it is getting actually it is 100, it's much larger infrared is yeah, I don't want to say how much maybe minus four, so 100 micro, yeah, okay, but there's not two so here I'm not sure how much it is, this is just giving you a rough range visible light is here, this is what is several hundred nanometer, so that means if you use an optical light, okay, to resolve some micro feature so the smallest feature you can see is around 700 nanometer, so that's why we need to use shorter wavelengths being to resolve smaller feature with UVs, a choice, but we can also go to use electron beam which is particle and the wavelengths is much shorter and then we can also use this one, X-ray, okay? X-ray is a very powerful photon beam, okay?
+所以，红外线意味着它的下限应该是700纳米，抱歉，是纳米，所以它处于……的范围内。纳米，嗯，上界我想应该是几千，几千纳米，好吗？所以我们就说这个，嗯，所以它实际上正在……它是100，要大得多，红外是，嗯，我不想说具体是多少，可能是负四次方，也就是100微米，对，好的。但这里没有两个，所以我也不确定具体是多少，这只是给你一个大致范围。可见光在这里，这是几百纳米，所以这意味着如果你使用光学光，好吧，要分辨一些微米级的特征，所以你能看到的最小特征大约是700纳米。所以这就是为什么我们需要使用波长更短的紫外光来分辨更小的特征，这是一个选择。但我们也可以说使用电子束，它是粒子，波长要短得多，然后我们也可以使用这个，X射线，好吗？X射线是一种非常强大的光子束，好吗？
+[19:24]
+  Speaker 1
+So if we see X-ray is next to UV, so that means it's upper boundary, wavelengths is 10 nanometer, and then it actually cross a lot of order of magnitude of the wavelengths, so what we have is 0.01, nanometer, okay? So this is the wavelength range of X-ray, so that means if we use so I also give you some like common knowledge about X-ray, this is the wavelength range of X-ray if it is, let's see, so if it is between 0.01 nanometer to 0.1 nanometer, below one angstrom, this is called hard X-ray range, hard X-ray range, and if the wavelength range is from 0.1 nanometer to 10 nanometer, this we call this soft X-ray, okay?
+所以，如果我们看到X射线紧挨着紫外光，那就意味着它的上限，也就是波长，是10纳米。然后它的波长跨越了多个数量级，所以我们得到的是0.01纳米，好吗？所以，这就是X射线的波长范围。也就是说，如果我们使用……我还给大家讲一些关于X射线的常识，这是X射线的波长范围，如果它介于0.01纳米到0.1纳米之间，低于一埃，这称为硬X射线范围，硬X射线范围，如果波长范围是从0.1纳米到10纳米，我们就称之为软X射线，好吗？
+[19:53]
+  Speaker 1
+So hard X-ray means the wavelengths is shorter, so the energy is higher, okay? So it can so this X-ray X-ray diffraction, usually use hard X-ray, okay? And soft X-ray the energy is relatively smaller than hard X-ray, XPS, I guess you've already learned this, okay? XPS is used soft X-ray, okay?
+所以，硬X射线的波长更短，能量也更高，好吗？所以，这种X射线X射线衍射通常使用硬X射线，好吗？软X射线的能量相对低于硬X射线。XPS，我想你们已经学过了，好吗？XPS 使用软 X 射线，好吗？
+[20:17]
+  Speaker 1
+So the energy is about 1 kEv, okay? For hard X-ray, the energy is usually larger than 10 kEv, okay? So why we use different wavelengths of the X-ray to do different kind of calculation, in the last part of my research we are using hard X-ray to resolve microstructure, basically, okay?
+所以能量大约是1 keV，好吗？硬X射线的能量通常大于10 keV，好吗？那么，为什么我们要使用不同波长的X射线来进行不同类型的计算，在我研究的最后部分，我们使用硬X射线来解析微观结构，基本上，好吗？
+[20:40]
+  Speaker 1
+There's some extra stuff, the key thing is you need to remember this, okay? Yeah, so then if we look at the sunlight, we also care about how many numbers of photon incident in a per area, okay? In the area, okay?
+还有一些额外的内容，关键是要记住这一点，好吗？对，所以如果我们观察太阳光，我们也关心每单位面积上入射的光子数量，好吗？在该面积上，好吗？
+[21:13]
+  Speaker 1
+So this is called photon flux, okay? So photon flux means that in the numerator it's just number of photons, so it's unitless, and then in the denominator it divide by the time per time per area, okay? Per time per area is flux, okay? So this is one characteristic to quantify sunlight, another one is called irradiance or power density, okay?
+所以这叫光子通量，好吗？所以，光子通量意味着分子中只是光子的数量，因此它没有单位。然后分母除以单位时间、单位时间、单位面积，好吗？每单位时间、每单位面积就是通量，好吗？所以，这是量化太阳光的一个特征；另一个特征叫辐照度或功率密度，好吗？
+[21:51]
+  Speaker 1
+Power density means it's a power per area, okay? Power per area so then if we look at its relation between photon flux is number per second per area basically so it's photon flux times the energy of the sunlight, the photon beam give you power density, okay? Because if you see so we just a trick to check whether your answer is correct for physics problem is check the unit, okay?
+功率密度是指单位面积上的功率，好吗？单位面积的功率。那么，如果我们来看它与光子通量之间的关系，光子通量基本上就是每秒每单位面积的光子数，所以它是光子通量乘以太阳光的能量，光子束给出功率密度，好吗？因为，如果你看，检查物理题答案是否正确的一个小技巧就是检查单位，好吗？
+[22:16]
+  Speaker 1
+Whether the unit agrees that means it's correct, okay? So if this is flux so this one over second per meter square times energy is in the Si unit is Joule, so Joule per second give you power watt, okay? Power per area, okay?
+单位是否一致，也就是说答案是否正确，好吗？所以，如果这是通量，那么每秒每平方米乘以能量的 SI 单位就是焦耳，所以，焦耳每秒就是功率单位瓦特，好吗？单位面积上的功率，好吗？
+[23:53]
+  Speaker 1
+So this is power density, okay? So we care about what is the in the the power of that sunlight incident incident on certain area, okay? So this is given as and then for like more details okay we care about the power density at specific wavelengths okay so this is called spectral irradiance okay spectral irradiance so we call this F lambda here so it's a the spectral irradiance times the wavelengths give you the irradiance or power density so the unit of this one is for the so this is H if this is irradiance H okay this spectral irradiance is the unit okay it's not unit is the power density then power density divided by wavelengths okay so this wavelengths can no matter it is in the unit of nanometer or in the unit of micrometer it doesn't matter so it just need to satisfy the integral okay of the spectral irradiance over the whole wavelength range give you the.
+所以这就是功率密度，好吗？所以我们关心的是，入射到某个面积上的太阳光的功率是多少，好吗？所以这是给定的，然后对于更详细的内容，我们关心特定波长下的功率密度。这个叫作光谱辐照度。我们这里把它称为 Fλ，所以它是光谱辐照度乘以波长，得到的……辐照度，也就是功率密度。所以这个的单位是……所以这个是 H。如果这是辐照度 H，好，这个光谱辐照度的单位是……好，不是单位，是功率密度，然后用功率密度除以波长，好，所以这个波长可以不……它可以用纳米或微米为单位，这并不重要，所以只需要满足整个波长范围内的光谱辐照度积分给出的……
+[24:47]
+  Speaker 2
+power density, okay? Yeah. So then, if we look at this diagram, it shows four solder for different type of light source. The spectral irradiance at different wavelengths are different, okay? So if we compare—so these are lamps, lamps, okay, lamps—the light, okay, lamps—these curves are—if you look at the y-axis is on the left, okay, so the spectral irradiance—firstly, the intensity is up to 100, okay, but then go to our solar irradiance, it's this axis, so it's much larger, much intense, yeah, you must know, yeah, light. Then this lamp cannot have the same light intensity as sunlight, right, so it's different, all the magnitude.
+功率密度，好吗？对。那么，如果我们看一下这张图，它展示了四种不同光源的焊接。不同波长下的光谱辐照度各不相同，好吗？所以，如果我们比较——这些是灯，灯，好吧，灯——光，好吧，灯具——这些曲线——如果你看左边的 y 轴，好的，那么光谱辐照度——首先，强度最高可达100，好吗？但再看太阳辐照度，就是这个轴，所以要大得多，强度也强得多，对。你们必须知道，对，光。那么，这种灯的光强不可能和阳光一样，对吧？所以它们的量级都不一样。
+[25:18]
+  Speaker 2
+And then if you look at how does this, uh, spectrum change with wavelengths, so different lamp, for example, halogen lamp, so it covers this range, it's very—light intensity is very weak, but it's very continuous, okay, mercury, mercury lamp, okay, it has a lot of characteristic peaks, at certain wavelengths, it's not that continuous, okay.
+然后，如果你看一下这个，呃，光谱如何随波长变化，那么不同的灯，例如卤素灯，所以它覆盖这个范围，光强非常——非常弱，但非常连续，好的，汞，汞灯，好的，它在某些波长处有很多特征峰，不是那么连续，好吗？
+[26:51]
+  Speaker 2
+Xenon lamp, okay, covers longer wavelength range and has several peaks at, uh, long wavelength range, and then for solid irradiance, okay, see, it covers very, very wide, right, from 200 nanometers to over 1,000 nanometers, basically it's—should go from—so cover this range, okay, IR visible, UV, right, okay, so—but of course UV is not that, uh, yeah, that much, it's the intensity is much lower, so the major part, major part is still around several hundred, so from, so the, uh, irradiance of spectral irradiance of sunlight is more intense like you need to count the contribution from several hundred, yeah, to like several even several 1,000, this they are still a lot of portion of the sunlight, so we want to use the material photoelectric material which can absorb light in such wide wavelength range, okay, this is, uh, he said, yeah, so these lamps are called artificial light sources, so various for different wavelengths, but solar spectrum irradiance is a continuous spectrum, okay. Yeah.
+氙灯，好的，它覆盖的波长范围更长，并且在，呃，长波长范围内有几个峰。然后对于固体辐照度，好的，看，它的波长范围非常非常宽，对吧，从200纳米到超过1000纳米。基本上它——应该从——所以覆盖这个范围，好吗，红外可见光，紫外，对吧，好的，所以——不过当然，紫外光并没有那么多，呃，是的，强度低得多，所以主要部分，主要部分仍然在几百左右，所以，呃，太阳光的光谱辐照度更强，你需要把几百个的贡献加起来。对，甚至达到几千，这些仍然占太阳光的很大一部分。所以我们希望使用一种能在如此宽的波长范围内吸收光的光电材料，好吗？这是，呃，他说，对。所以这些灯被称为人工光源，它们的光谱覆盖不同的波长，但太阳光谱辐照度是一个连续光谱，好吗？对。
+[29:48]
+  Speaker 2
+And then we come to theory, the difficult part, yeah, theory, right, so some students say, say the theory is too difficult for other courses, but here, I think it's a—we try to skip there because this is just to give you a taste, we try to concentrate the content of for photoelectric we I I can teach this subject for a semester, but to just try to concentrate in one night, okay, anyway, so to model the solar spectrum in physics physics course, we use this model called black body radiation, okay, anything that is, well, emit some energy, okay, you can model it as a black black body at certain temperature, okay, and this photons will follow so-called it's it's bosons, okay, both Einstein distribution, okay, but so here this is forget about all the derivations, so we can model that spectral irradiance F lambda by this formula, this formula you don't need to remember, okay, so we can you ask AI to plot it, okay, to plot it, so it will cover wavelength range large wavelength wavelength range under intensity or or we say the spectral irradiance the the magnitude will change with respect to the temperature of that black body, okay, so for sol a sun we usually model it as a black body at temperature of 6,000 K, okay, for or more accurately it should be 5,800 K, okay, it's basically about this shape, yeah, this blue one, okay, so you can see the the peaked irradiance region is still invisible light region, okay, but you you don't want to lose the long tail, uh, then we have this spectral irradiance we can do the integral, right, basically to calculate the area of the whole thing to get the power density for each sun, so for that since it has a formula here, right, so if you integral this thing with respect to lambda, yeah, I promise it will give you a temperature to the power 4, so this is T to the power 4 more, and the sigma is called Stefan-Boltzmann constant, it's a constant and also get calculated, so the power, uh, density of a sun is about this big, okay, 64 times 10 to the 6
+然后我们进入理论部分，也就是比较难的部分，对吧？理论，对吧？所以有些同学说，说其他课程的理论太难了，但在这里，我觉得这是一——我们尽量跳过这部分，因为这只是为了让你们先了解一下。我们尽量把光电的内容浓缩，这样我……我可以讲一整学期这门课。但要试图在一夜之间集中讲完，好吧，总之，在物理课程中，为了模拟太阳光谱，我们使用一种叫作黑体辐射的模型，好吗？任何，嗯，会发射一些能量的东西，好吗？你可以把它建模为处于一定温度的黑体，好的，而这些光子会遵循所谓的……它们是玻色子，好的。都是爱因斯坦分布，好吧，不过这里先别管所有的推导，所以我们可以用这个公式来描述光谱辐照度 F(λ)。这个公式你们不需要记住，好吗？所以我们可以让人工智能把它画出来，好吗，把它画出来，所以它会覆盖一个波长范围，也就是大波长范围；在强度下，或者说，光谱辐照度的大小会随着黑体的温度而变化。好的，所以对于太阳，我们通常把它建模为一个温度为6000 K的黑体，好的。或者更准确地说，应该是5800 K。好的，它的形状基本上是这样的，对，就是这个蓝色的。好的。所以你可以看到，峰值辐照度区域仍然是不可见光区域，好吧，但你不希望把长尾部分也舍弃掉。呃，然后我们有这个光谱辐照度，可以进行积分，对吧？基本上，计算整个区域的面积，就能得到每颗太阳的功率密度。所以，既然这里有一个公式，对吧，那么如果你对这个东西进行关于 λ 的积分，嗯，我保证它会得到温度的四次方，所以这里是 T 的四次方，再加……σ 叫做斯特藩-玻尔兹曼常数，它是一个常数，也可以进行计算，所以功率，呃，太阳的密度大约是这个量级，好，64乘以10的6次方。
+[32:48]
+  Speaker 2
+watt per meter squared, okay, so what does this mean, so I I try to give you some, uh, uh, idea of what is this power density, so like several thousand kilowatt is about the power source that need for a shopping mall, right, you need to concentrate it into a a small area of 1 meter squared, okay, so this is the power density on the for the sun, okay, yeah, so then at Earth we don't receive such intense power density, okay, it is it travel all the way to a distance, the surface of Earth, okay, so basically we can use very simple model saying that the the H0 is any object that is, uh, D distance away from the center of the sun, okay, so then it's power density is, uh, so you can imagine it's the power itself is conserved, okay, so power, so it's the power times the area so H0 times the area equals the H sun times its radius squared this area on the on the sun, okay, so that's why the the ratio is, uh, R the radius of the the sun squared over the distance squared of the, uh, then times this number, okay, so you'll give you the power density of any object, okay, so then talk about our Earth, okay, it's 150 times 10 to the 9 meter away from sun okay so this number sorry square so this number square uh this number square and then times this value okay it will give you the solar irradiance on Earth so which we called terrestrial solar radiation on Earth the power density we receive is about this value the solar constant okay it's called solar solar constant 1.366 kilowatt per meter squared okay so this is about so so it's very rough calculation right so so it's about like around 1 kilowatt per meter squared okay is the power density we receive on Earth so then when we have a solar cell we want to measure its performance which basically we need to so if we don't have any standard okay so then the
+瓦特每平方米，好的，那么这是什么意思呢？所以我，我试着给你们一些，呃，呃，了解一下这个功率密度是多少。比如说，几千千瓦大约是一个购物中心所需的电源功率，对吧？你需要把它集中在1平方米这样一个小面积上，好吗？所以，这是太阳的功率密度，好吗？对，那么在地球上，我们接收到的功率密度并没有那么高，好吗？它一路传播到地球表面，好吗？所以基本上我们可以用一个非常简单的模型，说这个 H0 是任何，呃，距离太阳中心 D，好的，那么它的功率密度是，呃，所以你可以想象，功率本身是守恒的，好吗？所以功率，所以是功率乘以面积，也就是 H₀ 乘以面积，等于 H_sun 乘以太阳这个面积上的半径平方。好的，所以这就是为什么这个比值是，呃，太阳的半径 R 的平方除以，呃，距离的平方。然后乘以这个数，好吗？这样你就能得到任意物体的功率密度，好吗？那么接下来谈谈我们的地球，好吗？它距离太阳1.5×10^9米。好的，所以这个数，抱歉，要平方，这个数平方，呃，这个数平方，然后乘以这个值，好的，就会得到地球上的太阳辐照度，也就是我们所说的地球上的太阳地表辐射，这个……我们接收到的功率密度大约是这个值，也就是所谓的太阳常数。太阳常数是1.366千瓦每平方米。所以这是一个非常粗略的计算，对吧？大约是每平方米1千瓦左右，也就是功率密度。我们地球接收到的功率密度。那么，当我们有一个太阳能电池时，我们想测量它的性能，基本上我们需要……所以，如果我们没有任何标准，好，那么……
+[34:46]
+  Speaker 2
+the the lab in Hong Kong we shine very intense sun on our on the solar cell or another lab in Beijing maybe shine less intense sun on the solar cell then our PCE is different how commercial efficient is different we get something right so we want to standardize this uh the condition to test the solar cell okay so basically we choose a certain way to standardize it okay so I tell you the answer is we basically just make it 1,000 watt per meter squared okay so because on the Earth the Earth current is from that rough calculation this is 1.3 kilowatt per meter but then since the the sunlight here also to pass through a very thick layer of air okay so the the power will further reduce okay so then so if we try to don't make the sun normal incidence because this is very rarely being the case so most of the time the sun is shining through the with the angle okay so we try to standardize this okay so here is the so the way to name the solar spectrum okay so if look at here so we we call this air mass okay how much the sunlight pass through the air okay so air mass so air mass am okay am so then the number it follows means so see I I uh tell you the the formula but anyway you can remember it this way。
+香港的实验室用非常强的太阳光照射太阳能电池，或者北京的另一个实验室可能用强度较弱的太阳光照射太阳能电池，那么我们的光电转换效率就会不同，商业效率也会不同，我们得到的结果也会有所差异，对吧？所以我们希望进行标准化。这个，呃，测试太阳能电池的条件。基本上，我们会选择某种方法来对其进行标准化。答案是，我们基本上就把它设为1，一千瓦每平方米。好的，因为根据这个粗略计算，地球表面的辐照度是1.3千瓦每平方米。但因为这里的阳光还要穿过厚厚的一层空气，所以功率会进一步降低。好的，那么，如果我们尽量不把太阳光设为正入射，因为这种情况非常罕见。大多数时候，太阳光都是以一定角度照射过来的。所以我们尽量将其标准化。好的，这里是……所以……命名太阳光谱的方式。好，如果看这里，我们把这个称为“空气质数”，表示阳光穿过空气的程度。好，空气质数，am。那么后面的数字表示什么呢？看，我，我，呃……告诉你这个公式，不过无论如何，你可以这样记住它。
+[34:59]
+  Speaker 3
+if it is normal incidence, then we normalize it with the normal incidence. So the air mass is what? Okay, so if it's normal incidence A at this is A, and what?
+如果是正入射，那么我们就用正入射来归一化。所以空气质数是多少？好的，所以如果是正入射，A，这里这是 A，然后呢？
+[35:36]
+  Speaker 3
+Okay, and then if it has an angle—so normal incidence actually means this angle is 0. Okay, so normal incidence, same time, equal to 0. So then if it has an angle with respect to the normal incidence, so the length it passes through is larger than the length it passes through in the normal incidence. Right? Okay. So the length difference, basically, is this length is—so the length—so this the length difference is this divided by this.
+好的，然后如果它有一个角度——所以正常入射实际上意味着这个角度是0。好的，所以正常入射，同时等于0。那么，如果它相对于法线有一定的入射角，所以，它传播的路径长度比在垂直入射时传播的路径长度更长。对吧？好的。所以，长度差基本上就是这个长度——所以长度——所以这个长度差就是这个除以这个。
+[35:52]
+  Speaker 3
+Okay, whatever you say. This is C, this is A, so it's C over A is the path. The ratio of the path-length difference. Okay, so this is the— The value of AM is going to, uh, calculate.
+好吧，你说什么都可以。这是 C，这是 A，所以路径是 C 除以 A。路径长度差的比值。好的，所以这是——AM 的值将要，呃，计算。
+[36:23]
+  Speaker 3
+So this basically is 1 over cosine theta, right? So A over C is cosine theta, so C over A is the normal cosine theta. Okay, so if this is equal to 1.5, this is something we want to choose the standard solar spectrum global standard solar spectrum condition to test solar cell everywhere in the same condition over and over the world. When sun, we choose AM 1.
+所以这基本上就是 1 除以余弦 θ，对吧？所以 A/C 等于 cosθ，因此 C/A 就是普通意义上的 cosθ。好的，所以如果这个值等于1.5，这就是我们想要采用的标准太阳光谱——全球标准太阳光谱条件，以便在世界各地相同条件下反复测试太阳能电池。当太阳……我们选择 AM 1。
+[36:40]
+  Speaker 3
+5, G means global. Okay, so then—so that means cosine theta equal to 1 over 1.5, so theta equal to 140, 8.
+5，G 表示全局。好的，那么——这意味着 cosθ 等于 1/1.5，所以 θ 等于 140.8。
+[36:44]
+  Speaker 3
+2. Okay, so this is—this condition. Yeah.
+2。好的，所以这就是——这个条件。对。
+[36:58]
+  Speaker 3
+So remember, this is AM 1.5 G means the incident angle is 48.2, and the path length is, like, 1.
+所以记住，AM 1.5 G 指的是入射角为 48.2，光程大约为 1。
+[37:14]
+  Speaker 3
+5 times the normal incidence of the thickness. And so after we have this, there are solar irradiance will reduce from this 1.366 to 1 kilowatt per meter.
+厚度的5倍，也就是正常入射时的厚度。所以，在此之后，太阳辐照度会从1.366降至每平方米1千瓦。
+[37:32]
+  Speaker 3
+Squared. And usually we also use another unit: milliwatt per centimeter squared. So this will give you a—so these two are the same, okay, because this give you 10 to the power of minus 3, this give you 10 to the power of 4, so that's why this value reduce.
+平方。通常我们还会使用另一个单位：毫瓦每平方厘米。所以这会得到一个——所以这两个是一样的，好吗，因为这会得到10的负3次方，这会得到10的4次方，所以这个值才会变小。
+[37:51]
+  Speaker 3
+Another magnitude. Why we use—so 100, we use this because usually our solar cells are very small, so we use this comparable to what kind of unit we use for current density. Okay, so this is just a—yeah.
+另一个量级。为什么我们要用——所以，100，我们用这个是因为通常我们的太阳能电池非常小，所以我们用这个，它和我们用来表示电流密度的单位是可比的。好的，所以这只是个——对。
+[38:09]
+  Speaker 3
+Uh, oh, I think I forget to—oh, yeah, I also—there is one more thing to mention. So this is black hole irradian theory. Then AM1 is normal incidence, AM 1.
+呃，哦，我想我忘了——哦，对，我还——还有一件事要提。所以，这是黑洞辐射理论。然后，AM1表示正入射，AM1。
+[38:31]
+  Speaker 3
+5 of course will decrease a little bit because it's possible. The longer wavelength, and then there are some specific gases—for example, ozone. Okay, O3. Okay, like carbon dioxide, water vapor. So these kind of specific gas will have some characteristic absorption at certain wavelengths.
+当然，5 会稍微减少一点，因为这是有可能的。波长越长，然后还有一些特定的气体——例如臭氧。好的，O₃。好的，比如二氧化碳、水蒸气。所以，这类特定气体会在某些波长处产生特征吸收。
+[38:46]
+  Speaker 3
+So create several dips. Okay, onto the solar spectrum. So the standard solar spectrum really may look like this, and we have a lot of pink. Okay, on the spectrum.
+所以会产生几个吸收峰。好的，接下来讲太阳光谱。所以，标准太阳光谱可能看起来像这样，而且有很多粉红色。好的，在光谱上。
+[38:50]
+  Speaker 3
+It's not that smooth.
+它并不那么平滑。
+[38:54]
+  Speaker 3
+Okay. Okay, so this is it for part one. Property of sunlight.
+好的。好的，第一部分就讲到这里。阳光的性质。
+[39:16]
+  Speaker 3
+So after we understand the property of sunlight, we now need to understand how the solar cell work to convert sunlight into electricity. Right? Okay, so the—for the general procedure for solar cell to work, it basically follows three steps.
+那么，在了解了阳光的性质之后，我们现在需要了解太阳能电池是如何将阳光转化为电能的。对吧？好的，那么太阳能电池的工作流程基本上包括三个步骤。
+[39:39]
+  Speaker 3
+Okay, firstly, in the light need to be absorbed—okay, after the absorption of the light, an electron and a hole pair will form. Okay, which we call it exciton. Okay, electron. So the absorbed energy will knock electron to the excited state.
+好的，首先，光需要被吸收——好的，光被吸收后，就会形成一个电子-空穴对。好的，我们称之为激子。好的，电子。所以，吸收的能量会使电子跃迁到激发态。
+[39:57]
+  Speaker 3
+Yeah, so it will excited state, it's not joining the band structure, it's not joined here, but in the following slide. And this electron hole pair is called an exciton. Exciton is generated. Okay, so then when the exciton is generated, the second step is charge carrier separation.
+对，所以它会处于激发态，它不加入能带结构，它不加入这里，而是在下一张幻灯片中。这个电子-空穴对称为激子。激子被生成。好的，那么在激子产生之后，第二步就是电荷载流子的分离。
+[40:26]
+  Speaker 3
+Okay, so there we need a building electric field to separate these electron and hole pair to push them into opposite direction, so that one go to the—one hole electron go to the cathode and the hole go to the anode, and then it can create electricity. Right? Okay, so this is second step is separation.
+好的，所以这里我们需要一个内建电场来分离电子和空穴，使它们朝相反方向运动。这样，一个电子——一个电子——会流向阴极，而空穴会流向阳极。然后它就能产生电能。对吧？好的，所以第二步是分离。
+[40:40]
+  Speaker 3
+The exciton need to separate it. And then after it get to the electron or before it get to it also need to transport a little bit, then get it collected. Okay, so this collection procedure, okay, is also very important.
+激子需要将其分离。然后，它到达电子之前，也需要进行一点传输，再将其收集起来。好的，所以这个收集过程也非常重要。
+[40:54]
+  Speaker 3
+It will eventually—so separate, then collection. So it's a—so collection efficiency also will affect the performance of solar cell. Okay, so this is general procedure.
+它最终会——所以先分离，然后收集。所以，它是一个——收集效率也会影响太阳能电池的性能。好的，这就是一般流程。
+[41:07]
+  Speaker 3
+So in the following we're going to discuss the step by step. Okay, so firstly, how to absorb light. Okay, so to what kind of material can absorb light?
+那么接下来我们将逐步进行讨论。好的，首先，如何吸收光。那么，哪些材料可以吸收光呢？
+[41:29]
+  Speaker 3
+Okay, so unfortunately we arrange the lecture in the first one, yeah. So lecture two, you must learn the semiconductor fundamentals. Okay, we need to have a semiconductor to absorb light. Okay, not a metal or any insulator, but a semiconductor.
+好的，很遗憾，我们把讲座安排在第一个，嗯。所以第二讲，你们必须学习半导体的基础知识。好的，我们需要一种半导体来吸收光。好的，不是金属，也不是任何绝缘体，而是半导体。
+[41:39]
+  Speaker 3
+Okay, yeah. So semiconductor, in lecture two, I think Professor Zhu Jingyi, right? Zhu Jingyi is teaching this.
+好的，是的。所以，半导体。在第二讲中，我想是朱静怡教授，对吧？朱静怡在教这门课。
+[41:41]
+  Speaker 3
+Yeah. Okay, have you understand? Do you understand it?
+对。好的，你明白了吗？你明白吗？
+[41:47]
+  Speaker 3
+Okay. Great. Okay, so then I don't need to talk too much about it.
+好的。很好。好的，那我就不用多说了。
+[42:12]
+  Speaker 3
+Yeah. So the basic idea, well, I still want to say a little bit about it. Okay, we need semiconductor to absorb light. So the basic idea is that any single atom, it will have Core level electrons, and the utmost orbitals are called valence band.
+对。所以，基本思路是……嗯，我还是想稍微讲一点。好的，我们需要半导体来吸收光。所以基本思路是，任何单个原子都有内层电子，而最外层轨道称为价带。
+[42:14]
+  Speaker 3
+Okay, valence band.
+好的，价带。
+[42:22]
+  Speaker 3
+These are discrete levels, called Core levels. These are utmost valence band. Yeah.
+这些是离散能级，称为核心能级。这些是最高价带。对。
+[42:30]
+  Speaker 3
+Remember we use XPS to probe these Core level structure. We use UPS to probe the valence band. Right?
+记住，我们使用XPS来探测这些核心层结构。我们用UPS来探测价带。对吧？
+[42:44]
+  Speaker 3
+Okay. So then this is a single element. Okay, so if any bonding is formed, okay, so when the bond is formed, the utmost valence band will form some hybridization.
+好的。所以这是一个单元素。好的，所以如果形成任何键，那么当键形成时，最上面的价带会发生一定程度的杂化。
+[43:23]
+  Speaker 3
+Okay, so the most common one, well, so the one that kind of we use in the common inorganic solar cell materials are so form this kind of very stable sp3 hybridization. Okay, so the two s electron and two p electron are hybridized together to form a four equivalent bonding. Okay, so bonding if there are multiple atoms. And then if the multiple atoms form a crystal structure, so it will further split.
+好的，最常见的，嗯，也就是我们在常见无机太阳能电池材料中使用的那种，会形成这种非常稳定的 sp3 杂化。好的，两个 s 电子和两个 p 电子发生杂化，形成四个等价的成键轨道。好的，那么，如果有多个原子，就会形成键。然后，如果多个原子形成晶体结构，那么它就会进一步分裂。
+[43:39]
+  Speaker 3
+Okay, into bonding state and anti-bonding state. Okay, and then when you have—sorry, I need to—I need to hang up the call. Sorry, I have a call.
+好的，分为成键态和反键态。好的，然后当你有——抱歉，我得——我得挂掉电话。抱歉，我有个电话。
+[43:46]
+  Speaker 3
+Yeah.
+好的。
+[44:18]
+  Speaker 3
+Then this will form the—so the discrete band will become continuous. Okay, so those will become valence band and conduction band. So valence band are the band that is—so the valence band maximum, okay, is the highest occupied energy levels. And the conduction band are on occupied, and the conduction band minimum is the lowest on occupied energy level.
+然后这将形成——所以离散频带会变成连续的。好的，所以那些会形成价带和导带。所以，价带就是——价带顶，也就是最高被占据的能级。导带是被占据的，而导带最低点是最低的被占据能级。
+[45:13]
+  Speaker 3
+Okay, so this is Vb and Cb. So then there is a very important—so there is a gap between valence band maximum and conduction band minimum. So this difference, any difference, is called any band gap, Eg. Okay, energy gap, band gap. Okay, so this characteristic parameter determines the minimum energy that we can—a semiconductor can absorb, the minimum, the energy of the minimum energy of light, a semiconductor can absorb. Is band gap. Okay, because the minimum energy to excite an electron to the conduction band or electron valence band into conduction band is band gap.
+好的，这是 Vb 和 Cb。那么，这里有一个非常重要的——价带最高能级和导带最低能级之间存在一个能隙。所以，这种差值，也就是任意差值，称为任意带隙，Eg。好的，能带隙，带隙。好的，所以这个特征参数决定了半导体能够吸收的最小能量，也就是最小……半导体能够吸收的光的最低能量。是带隙。好的，因为将电子从价带激发到导带所需的最小能量就是带隙。
+[45:34]
+  Speaker 3
+Okay, so then that means that the band gap of our photovoltaic material is kind of now we know that the value of it. Okay, remember if the solar spectrum, go back to the solar spectrum, where is it? Where is it?
+好的，那么这就意味着，我们的光伏材料的带隙，现在我们已经知道它的数值了。好的，记住，如果太阳光谱——回到太阳光谱——它在哪里？它在哪里？
+[45:42]
+  Speaker 3
+Oh, right, solar spectrum.
+哦，对，太阳光谱。
+[46:12]
+  Speaker 3
+So in the last portion is go to one thousand nanometer. Okay, so we at least the band gap should be able to absorb the light energy that is larger than one thousand nanometer. Okay, well, not so actually is the smaller the better. If we in the term for just for light absorption, okay, so if the band gap is smaller, we can absorb even longer wavelengths sunlight.
+所以最后一部分延伸到一千纳米。好的，所以至少带隙应该能够吸收波长大于1000纳米的光能。好吧，其实不是，越小越好。如果我们只从光吸收的角度来看，那么带隙越小，我们就能吸收波长越长的阳光。
+[46:31]
+  Speaker 3
+Okay, so this is here. So usually so the band gap of a semiconductor should be less than about 1.25 to efficiently absorb most of the solar spectrum.
+好的，所以这是在这里。所以，通常半导体的带隙应该小于约1.25，才能有效吸收大部分太阳光谱。
+[46:33]
+  Speaker 3
+Okay, yeah.
+好的，是的。
+[47:03]
+  Speaker 3
+And then the next part is so now the light is absorbed. Okay, we've already formed an electron and hole pair. So in the next step is to why they are they know their pathway, why these electron and hole pair they want to, like, break up and go to their, like, the corresponding electron. Okay, so we need to have some mechanism to separate these electron and hole pair.
+接下来这一部分是，那么现在光已经被吸收了。好的，我们已经产生了电子-空穴对。所以下一步是，为什么它们……它们知道自己的路径，为什么这些电子和空穴对会想要，比如说，分离并前往它们相应的……电子。好的，所以我们需要某种机制来分离这些电子-空穴对。
+[48:09]
+  Speaker 3
+So this is by the way of p-n junction. You need to form a p-n junction to separate electron and hole pair. Okay, so for the p-n junction part, I think Professor Zhu must also mentioned. Okay, so maybe p-type and n-type. Semiconductor. Okay, so we need to have so p-n junction is like if we have p-type semiconductor and then we I have an n-type semiconductor, there is a contact between p-type and n-type. So then we this is called p-n junction. Okay, so to form a p-type semiconductor, well, some of the material is intrinsically p-type.
+所以，这是通过 p-n 接面来实现的。你需要形成一个 p-n 接面，以分离电子和空穴对。好的，关于 p-n 接面的部分，我想朱教授肯定也提到过了。好的，可能是 p 型和 n 型。半导体。好的，所以我们需要……所以，p-n 接面就像这样：我们有一个 p 型半导体，然后我有一个 n 型半导体，p型和n型之间有一个接触面。所以，这就叫作 p-n 接面。好的，那么要形成 p 型半导体，嗯，有些材料本身就是 p 型的。
+[48:25]
+  Speaker 3
+It's p-type naturally, but some of you can through doping. Okay, how to get p-type p-type doping? If you still remember from the first lecture, how to get p-type doping?
+它天生就是 p 型，但有些可以通过掺杂来制成。好的，如何获得 p 型……p 型掺杂？如果你还记得第一讲的内容，如何获得 p 型掺杂？
+[48:29]
+  Speaker 3
+Huh?
+？
+[49:02]
+  Speaker 3
+Yeah, so you need to so for example, if they're intrinsic material, silicon, it's like four bonding, right? So you need to dope type three, right? The three number three group semiconductor so that you will have will give you more hole concentration, in the material. Okay, so generally we say p-type will have a higher hole concentration inside.
+对，所以你需要……比如说，如果是本征材料，比如硅，它有四个共价键，对吧？所以你需要掺杂三类，对吧？III-V族半导体，这样就会使材料中的空穴浓度更高。好的，一般来说，我们说 p 型材料内部的空穴浓度会更高。
+[49:26]
+  Speaker 3
+Maybe I should draw it like this. Higher hole concentration in that semiconductor material is p-type. Higher electron concentration will give you n-type. Okay, so then when a junction is formed so there will be a concentration difference.
+也许我应该这样画。该半导体材料中空穴浓度较高，是 p 型。电子浓度较高时，就会形成 n 型。好的，那么当形成结时，就会存在浓度差。
+[49:49]
+  Speaker 3
+It's like we you have like some higher concentration solution and lower concentration solution, then you can when they touch together, you will have this kind of concentration difference. So the material will kind of penetrate through the junction. So here is a similar thing.
+这就像你有一些浓度较高的溶液和浓度较低的溶液，然后当它们接触时，就会出现这种浓度差。所以，物质会以某种方式穿过这个界面。所以这里的情况也类似。
+[50:01]
+  Speaker 3
+Okay, so when p-type and n-type form a junction, hole will tend to diffuse okay, so this is called diffusion.
+好的，当 p 型和 n 型材料形成结时，空穴会倾向于扩散。好的，这叫作扩散。
+[50:19]
+  Speaker 3
+So hole will diffuse to the n-type side. And electron will diffuse to the p-type side.
+所以空穴会扩散到 n 型一侧。电子会扩散到 p 型区一侧。
+[51:29]
+  Speaker 3
+Okay, due to concent initially concentration difference. Okay, so once this it start to diffuse, okay, and accumulate, okay, so then it will form a natural building voltage okay, so it which will so this building voltage will say this is like a natural so when this diffuse, okay, this create the electric field will try to stop this kind of diffusion. So at certain certain pace or certain extent, okay, so because if you have more hole and electron get diffused into the junction, so this E will increase and at a certain step so it a new equilibrium is reached. So then in this region, there's no so so the diffusion and the drift is balanced.
+好的，由于起始浓度差。好的，所以一旦它开始扩散，好的，然后积累，好的，那么就会形成一个内建电压，好的，所以，这个……这个电位会说，这就像是一种自然……所以当它扩散时，好吧，这会产生一个电场，试图阻止这种扩散。所以在一定程度或一定速率下，因为如果有更多的空穴和电子扩散到结中，所以这个 E 会增加，到某个阶段，就会达到一个新的平衡。所以在这个区域，扩散和漂移达到了平衡。
+[51:37]
+  Speaker 3
+Okay, so in this region we call this depletion region.
+好的，所以在这个区域，我们称之为耗尽区。
+[51:59]
+  Speaker 3
+So no more no more further diffusion will happen. Okay, and so the at that this equilibrium condition is formed, the build the voltage okay, or we say the building potential is called VBI. Okay, building potential, the cross junction is called VBI.
+所以不会再发生进一步的扩散。好的，当这个平衡条件形成时，就会产生电压，或者说，这个建立电位称为 VBI。好的，内建电位，也就是结电位，称为 VBI。
+[52:24]
+  Speaker 3
+And then the width of this region is called depletion region width. Okay, so then if we look at so this is the physical picture of the p-n junction is formed, right? If you look at the band structure, okay, when you have a p-type material an n-type material, basically for p-type material, the fermi level is close to valence band.
+然后，这个区域的宽度称为耗尽区宽度。好的，那么如果我们来看一下，这就是p-n结形成时的物理图景，对吧？如果你看一下能带结构，好的，当存在 p 型材料和 n 型材料时，基本上对于 p 型材料，费米能级靠近价带。
+[52:36]
+  Speaker 3
+N-type material fermi level is close to conduction band. Okay, so this must be taught in lecture. Okay, so there is a like potential difference.
+N型材料的费米能级靠近导带。好的，所以这一点必须在讲座中讲到。好的，所以这里存在一种类似电位差的东西。
+[53:05]
+  Speaker 3
+Also chemical potential difference. So when these two material get touched, electron is try so so it will try to align. Well, it align the fermi the fermi level of these two material together, which called fermi level pinning. Okay, so if we align these two material together, okay, so at the p-type region, this fermi level should still close to valence band.
+还有化学势差。所以当这两种材料接触时，电子会……所以它会试图排列整齐。它会使这两种材料的费米……费米能级对齐，这称为费米能级钉扎。好的，如果我们把这两种材料对接起来，那么在 p 型区域，费米能级应该仍然接近价带。
+[53:27]
+  Speaker 3
+At n-type region, it's still close to conduction band. So then at the junction part, the energy level need to bend, which is called band bending, to make the alignment of fermi level. Okay, so this is the energy level picture. This is like kind of illustration of the how electron how like depletion region picture.
+在 n 型区域，它仍然接近导带。所以在结的区域，能级需要弯曲，这称为能带弯曲，以使费米能级对齐。好的，这就是能级图。这算是一个示意图，说明电子……类似耗尽区的图。
+[54:28]
+  Speaker 3
+Okay, so then once this is the new equilibrium is formed, since there there is a building potential, so if there are some new minority carrier that is excited by the absorption of light, okay, so if they so then if you so this when the p-n junction is formed, it don't necessary to shine any light onto it. Okay, but if the some after it is formed, then light is absorbed, so you will have a minority like new excited photo-excited electron and photo-excited hole. So this electron will since there is a building voltage, okay, electron will go from the p-type region to the n-type region and hole will go from the n-type region to the p-type region. Because the electric potential, okay, is in this in this direction.
+好的，那么一旦这个新的平衡状态形成，由于那里存在电势差，所以，如果有一些新的少数载流子因光的吸收而被激发，好，所以，如果它们……那么，当 p-n 接面形成时，不一定需要照射任何光。好的，但如果它形成之后，光被吸收了，所以你会有少数载流子，比如新的受光激发的电子和受光激发的空穴。所以，由于存在内建电压，电子会从 p 型区流向 n 型区，而空穴会从 n 型区流向 p 型区。因为电势，好，是朝这个方向的。
+[55:01]
+  Speaker 3
+So that's why electron will so the drift current is electron go to this direction, hole go to this direction. This is for the drift drift current. The current that is that is due to the potential difference or the current due to after the p-n junction is formed from diffusion, you have sunlight onto it, the photocurrent is belong to this drift current.
+所以电子会……因此，漂移电流的方向是电子朝这个方向流动，空穴朝这个方向流动。这是漂移电流的。这种电流是由于电位差产生的，或者在 p-n 接面形成后，由于扩散产生的电流，如果有阳光照射到它，光电流就属于这种漂移电流。
+[55:07]
+  Speaker 3
+Okay, so this is kind of the how the charges separated.
+好的，这就是电荷分离的方式。
+[55:31]
+  Speaker 3
+Okay, so then we also have some models or some simple mathematical formula to model the current and voltage relation of a solution. Basically, we just use a so-called diode equation. Okay, so diode equation is diode is something like this.
+好的，那么我们还有一些模型或简单的数学公式，用来描述溶液中的电流与电压之间的关系。基本上，我们只需使用所谓的二极管方程。好的，二极管方程，二极管，大概是这样的。
+[56:12]
+  Speaker 3
+Okay, so this is a so the circuit circuit of diode. Diode means the the current in one direction, if you have so for if the current so you apply the external bias, if it into the reverse reverse direction, there's no current. It cannot so it's blocked. Diode you only have a a direction that but if you keep you apply a forward bias, okay, forward bias to this this way, at first it does not open. Okay, suddenly the so at certain threshold is formed.
+好的，所以这是一个……二极管的电路。二极管意味着电流只能在一个方向流动。如果你……所以，如果电流……你施加外部偏置，如果它反向，就没有电流。它不能，所以它被阻断了。二极管只有一个方向，但如果你继续……你施加正向偏置，好，正向偏置朝这个方向，一开始它不会导通。好的，突然……所以，在某个阈值处就形成了。
+[56:37]
+  Speaker 3
+Okay, basically the depletion region is reduced like reduced and then the current will increase exponentially. Okay, so in one direction current is zero, in other direction current will go exponentially. So this is a diode. Okay, yeah, so how to how we do model it is E to the power of QV over MKT.
+好的，基本上，耗尽区会缩小，像这样缩小，然后电流会呈指数级增加。好的，所以一个方向上的电流为零，另一个方向上的电流会呈指数增长。所以这是一个二极管。好的，对，所以它的建模方式是 E 的 QV/MKT 次方。
+[57:03]
+  Speaker 3
+So here Q is element charge, V is the voltage, over N is a factor called identity factor. So how does this so if N is one, means this is ideal diode. If N larger than one, it's not that ideal, not very good. Okay, KT is basically the Boltzmann constant K and T is temperature.
+所以这里，Q 是元电荷，V 是电压，而 N 是一个称为特征因子的因子。那么，如果 N 等于 1，就意味着这是理想二极管。如果 N 大于 1，它就不再那么理想，性能也不太好。好的，KT基本上就是玻尔兹曼常数K乘以温度T。
+[57:48]
+  Speaker 3
+Okay, so E to the power of this minus 1. Okay, so you will so if you plot this thing, so under dark there's nothing happen. So the solar cell is look like that. Okay, under dark, so this curve is under dark. So no current in the so reverse. So in reverse bias, well, actually if it is sorry, for in the forward bias, so we have on the p-type, it apply a plus sign, the voltage, n-type is a minus sign. So that means we want the external voltage is in this direction.
+好的，所以是 e 的这个幂次减 1。好的，所以如果你把这个画出来，在暗处什么都不会发生。所以太阳能电池看起来就是这样。好的，在黑暗条件下，这条曲线是在黑暗条件下绘制的。所以在这种情况下没有电流，所以是反向的。所以在反向偏置下，嗯，其实，如果……抱歉，是在正向偏置下，那么我们在 p 型区，它施加的是正电压，N型是负电压。所以这意味着，我们希望外加电压的方向是这个方向。
+[57:52]
+  Speaker 3
+So this is called forward bias.
+所以这叫正向偏置。
+[58:21]
+  Speaker 3
+Okay, forward bias in V to the positive direction. Forward bias is in the opposite direction of this building voltage for this p-n junction. So that means if you apply more forward bias, will reduce the building field and reduce the depletion region. Okay, and suddenly the the the current will start to increase.
+好的，正向偏置，电压朝正方向。对于这个 p-n 接面，正向偏压的方向与这个建立电压的方向相反。所以，这意味着如果施加更大的正向偏压，就会减小内建电场，从而缩小耗尽区。好的，突然间，电流就会开始增加。
+[58:33]
+  Speaker 3
+Exponential. But this is without any sunlight on the dark condition. Okay, and then in the reverse bias condition, reverse bias condition means V is very large negatively.
+指数级。但这是在没有阳光、处于黑暗条件下的情况。好的，然后在反向偏置条件下，反向偏置条件意味着 V 是一个非常大的负值。
+[58:51]
+  Speaker 3
+Okay, if it is very large negatively, this current will turn to zero. Okay, so the current will become minus I0. So this I0 minus I0, this I0, it look like it's zero, but sometime this there is some dark current.
+好的，如果电压负得很厉害，这个电流就会变为零。好的，所以电流会变成负的 I0。所以这个 I0 减去 I0，这个 I0，看起来是零，但有时这里会有一些暗电流。
+[59:18]
+  Speaker 3
+Okay, because of the recombination. Okay, so we call this I0 is a so-called reverse saturation current is a dark saturation current. So this I0 is if it is closer to the zero, the the closer to the zero, the better, but act in the real case, I0 is none, not a zero quantity. There will always some saturation dark current.
+好的，因为会发生复合。好的，所以我们把这个 I0 称为所谓的反向饱和电流，也就是暗电流。所以这个 I0 越接近零，越接近零越好，但在实际情况下，I0 并不是零，也不是一个零量。总会存在一定的暗电流饱和。
+[1:00:09]
+  Speaker 3
+And which will reduce the performance. Okay, then so this is under dark. So when the light is applied, okay, when the light is applied, so photocurrent, so you start to have photocurrent, so basically we shine light onto the this p-n junction. Okay, so as I said, so once this building voltage is from the here okay, when you have light, so now you have electron and hole pair, which is photoexcited by the sunlight. So elec the drift current will try to move from move by like swept by this building voltage.
+这会降低性能。好的，那么这是在暗处。所以当光照施加时，好，当光照施加时，就会产生光电流，开始有光电流，所以基本上，我们用光照射这个 p-n 接面。好的，正如我所说，一旦这个结构的电压从这里……好的，当有光时，所以现在有了被阳光光激发的电子-空穴对。所以，漂移电流会试图在该偏置电压的作用下移动。
+[1:00:39]
+  Speaker 3
+So the current the so the current drift current direction is in the negative direction as a forward bias. Okay, so that's why in the theory, so this current is minus I by L. Okay, so basically it means that when when the light is on to this solar cell, the whole diode curve will move downward by a like shift constant to constant distance of I.
+所以，电流……所以，电流的漂移方向是负方向，因为是正向偏置。好的，所以这就是为什么在理论中，这个电流是负的 I/L。好的。所以基本上这意味着，当光照射到这个太阳能电池上时，整个二极管特性曲线会向下平移，平移量相当于 I 的一个常数距离。
+[1:00:50]
+  Speaker 3
+Current IL. Okay, I light by this amount. Okay, so this means that, oh, my solar cells start to produce power.
+电流 IL。好的，我把光照量设为这个值。好的，这意味着，哦，我的太阳能电池开始发电了。
+[1:01:05]
+  Speaker 3
+Okay, so it has some photocurrent that is generated. So this if you plot it this way, this means so the larger this area is the more power. Okay, this solar cell can perform.
+好的，所以它产生了一定的光电流。所以，如果你这样把它画出来，这意味着这个面积越大，产生的功率就越多。好的，这个太阳能电池可以工作。
+[1:01:33]
+  Speaker 3
+Okay, so we. This is on the light. Yeah, so if we look at this equivalent case, it's like if you have a normal diode, then when the sunlight is shining on, it's like now you have you connect a power source which has a current that is in opposite direction of this diode. Okay, which will give you this equivalent IV curve.
+好的，所以我们……这是在光的作用下。对，所以如果我们看这个等效电路，就像一个普通的二极管，当太阳光照射过来时，这就像是现在你接上一个电源，它的电流方向与这个二极管相反。好的，这会得到这条等效的电流-电压曲线。
+[1:02:32]
+  Speaker 3
+Okay, then for the real solar cell, of course, for the real solar cell, there is always some something that will affect the overall performance. Okay, for example, so we so in this equivalent circuit, we can add a series resistance to the resistance of the whole circuit cannot be sorry, cannot be zero. Okay, so if you so then so that means to this series resistance in the real case, it it basically comes into the resistance of all the component. Okay, in the solar cell, like the bulk resistance of the light absorbing, semiconducting layer, or the resistance of the contact, or the resistance between electrode and contact resistance or between the electrode and the active layer. So all this will add contribute to series resistance in this equivalent circuit.
+好的，那么对于实际的太阳能电池，当然，对于实际的太阳能电池，总会有一些因素会影响其整体性能。好的，例如，在这个等效电路中，我们可以在……抱歉，不能说整个电路的电阻，要加一个串联电阻，不能为零。好的，所以如果……那么也就是说，在实际情况下，这个串联电阻……它基本上会包含在所有元件的电阻中。好的，在太阳能电池中，比如光吸收半导体层的体电阻，或者接触电阻，或者电极与接触电阻之间的电阻，或者电极与有源层之间的电阻。所以，所有这些都会增加等效电路中的串联电阻。
+[1:03:03]
+  Speaker 3
+Okay, so like you have additional load here. Okay, and this will actually basically so so if you look at the voltage part, so the voltage that's applied to these not basically voltage plus the current times the series resistance. So the voltage is let's replace V to V plus IR.
+好的，所以这里就相当于增加了额外的负载。好的，这实际上基本上……所以，如果你看一下电压部分，所以施加到这些元件上的电压基本上就是电压加上电流乘以串联电阻。所以电压，我们用 V 加 IR 来代替 V。
+[1:03:21]
+  Speaker 3
+Okay, and then we can also have some shunt resistance. Shunt resistance is due to the defect and impurity in the active layer or pinholes or anything on the contact. Which creates some leakage pathway.
+好的，然后我们还可以有一些分流电阻。分流电阻是由有源层中的缺陷和杂质、针孔或接触处的任何杂质造成的。这会形成一些漏电流路径。
+[1:03:40]
+  Speaker 3
+So leakage pathway is kind of you you have current but this current cannot go to the load but leak away. Okay, so then this is a so-called shunt resistance. So that means for series resistance, we wanted the smaller the better.
+所以，漏电流路径就是：电流流过，但无法到达负载，而是泄漏掉了。好的，那么这就是所谓的分流电阻。所以这意味着，对于串联电阻，越小越好。
+[1:03:54]
+  Speaker 3
+Because this is the additional load. And for the shunt resistance, we want this shunt resistance the larger the better. So that less current can pass through this way and being wasted.
+因为这是额外的负载。对于分流电阻，我们希望这个分流电阻越大越好。这样就能减少通过这种方式的电流，从而减少能量损耗。
+[1:04:18]
+  Speaker 3
+Okay, so this is series resistance is smaller the better, shunt resistance is the bigger the better. Okay, yeah, okay, so low if we have low shunt resistance, it will create alternative path for the current to lower the power loss.
+好的，所以串联电阻越小越好，分流电阻越大越好。好的，是的，好的，所以如果并联电阻低，就会为电流提供另一条路径，从而降低功率损耗。
+[1:04:41]
+  Speaker 3
+Okay, so after we discuss this, so here are some like key parameter we call J IV characteristics. Okay, to quantify the performance of a solar cell. So if you create a solar cell, for example, in my lab or buy a solar cell from the market, how to measure its performance.
+好的，讨论完这个之后，这里有一些关键参数，我们称之为 J-I-V 特性。好的，为了量化太阳能电池的性能。那么，如果你在实验室里制作一个太阳能电池，或者从市场上购买一个太阳能电池，该如何测量它的性能呢？
+[1:05:16]
+  Speaker 3
+Okay, so here are the several three okay, three key characteristics and the last one will give you the so-called power conversion efficiency will give you the like group these three together to give you a number that so you can compare across different solar cell to see whether this power conversion efficiency of that solar cell is higher or lower. Okay, so the first characteristic is called short circuit current. Okay, short circuit current.
+好的，这里有几个，三个，好的，三个关键特性。最后一个会给出所谓的功率转换效率，也就是把这三个特性组合起来，得出一个数值，这样你就可以比较不同太阳能电池，看看是否……那个太阳能电池的功率转换效率是更高还是更低。好的，第一个参数叫短路电流。好的，短路电流。
+[1:05:20]
+  Speaker 3
+It's ISC. SC means short circuit. Okay, short circuit.
+它是 ISC。SC 表示短路。好的，短路。
+[1:05:40]
+  Speaker 3
+Or if we want to normalize by its area so that we can compare the performance of a large solar cell and a small solar cell, then we make it current density. Okay, current density then it's a current divided by its area. So then this I changed to J.
+或者，如果我们想按其面积进行归一化，以便比较大太阳能电池和小太阳能电池的性能，那么我们就把它做成电流密度。好的，电流密度就是电流除以它的面积。所以这个 I 改成了 J。
+[1:05:54]
+  Speaker 3
+Okay, so this JSC. Or ISC. JSC. Okay, yeah, so if go to the this figure, well, this figure actually flipped what I'm showing here.
+好的，那么这个 JSC。或者 ISC。JSC。好的，是的，那么如果看这张图，嗯，这张图实际上把这里展示的内容翻转了。
+[1:06:07]
+  Speaker 3
+Yeah, so in some of the paper you will see JV curve plot this way. Some of the curve they just plot the other way. Okay, but anyway, so both way works.
+对，所以在一些论文中，你会看到 JV 曲线是以这种方式绘制的。有些曲线只是反着画的。好吧，不过两种方式都可以。
+[1:06:54]
+  Speaker 3
+It's just convention or both way was accepted. Okay, so first short circuit current means if you draw measure this JV curve, how does so you apply for like bias going from reverse to forward and you will measure a current change right so you can draw this current. Okay, so at voltage okay voltage equal to zero V equal to zero they have a where this this curve intercept the y-axis here this is short circuit current. Okay, short circuit current. So basically short circuit means the circuit is shorted so there's no voltage okay so that's why it's called short circuit.
+这只是惯例，或者两种方式都被接受。好的，那么首先，短路电流是指，如果你画出并测量这个 JV 曲线，你是这样做的：施加偏置，让它从反向变为正向，然后测量电流变化，对吧？这样你就可以画出这条电流曲线。好的，那么在电压……好的，电压等于零，V等于零，这条曲线与y轴的交点，这里，这就是短路电流。好的，短路电流。所以，基本上，短路意味着电路被短接，因此没有电压。好，所以这就叫短路。
+[1:07:38]
+  Speaker 3
+Here and then on the other side okay if the current become zero okay current become zero means that the circuit is open okay so then the voltage so the voltage on the JV curve. Okay, so this voltage value is called open circuit voltage. Okay, so this is open circuit voltage and then we have a parameter called field factor. Field factor basically is a ratio of the maximum power output to the product of short circuit current and open circuit voltage.
+这里，然后在另一边，好，如果电流变为零，好，电流变为零意味着电路断开，好，那么电压，也就是 JV 曲线上的电压。好的，所以这个电压值称为开路电压。好的，这就是开路电压。然后我们有一个叫作场因子的参数。开路电压基本上是最大输出功率与短路电流和开路电压乘积之比。
+[1:08:13]
+  Speaker 3
+Okay, so the product of short circuit current and open circuit voltage basically is the area of this light purple square or rectangle right. So this is the product of ISC times VOC. This one then where is the maximum power output point. Okay, so if so basically the power output a lot of this curve is at each point you it's the power it is the current times the voltage.
+好的，短路电流和开路电压的乘积基本上就是这个浅紫色的正方形或矩形的面积，对吧？所以这是 ISC 乘以 VOC 的积。那么，这个的最大功率输出点在哪里？好的，所以基本上，这条曲线的输出功率在每个点都是……它是功率，也就是电流乘以电压。
+[1:08:44]
+  Speaker 3
+On each point okay so this power output will change along this curve and this dot will give you the largest product. So this dot is called maximum power output. In short it's MPP. Okay, maximum power point MPP. So this point is the maximum power point basically is how the maximum power that this solar cell can produce.
+在每个点，好的，所以这个输出功率会沿着这条曲线变化，而这个点会给出最大的乘积。所以这个点称为最大功率输出点。简而言之，就是MPP。好的，最大功率点，MPP。所以，这个点就是最大功率点。基本上，它表示这个太阳能电池能够输出的最大功率。
+[1:09:02]
+  Speaker 3
+Okay, so the field factor is ratio of this darker purple area divided by this lighter purple area. So define the rectangle of the this JV curve. If it is more rectangle field feel more it's better performance.
+好的，场效应是深紫色区域与浅紫色区域的比值。所以，定义这个JV曲线的矩形区域。如果矩形区域越大，性能就越好。
+[1:09:23]
+  Speaker 3
+If it's kind of go go this way okay so then the performance is bad. Okay, so field factor usually a good solar cell field factor need to be larger than 80%. Okay, so field factor is a unitless quantity. Okay, current is ampere.
+如果它有点像这样，性能就不好。好的，所以，对于通常性能良好的太阳能电池，其场因子需要大于80%。好的，场因子是一个无量纲量。好的，电流的单位是安培。
+[1:09:49]
+  Speaker 3
+And open circuit in volt and field factor is unitless. Okay, so then the power commercial efficiency is the ratio of the maximum power output divided by well and the power input. Okay, yeah, so maximum power output is is this IMP times VMP.
+开路电压的单位是伏特，而磁场因数是无量纲的。好的，那么功率商效率就是最大输出功率与输入功率之比。好的，是的，所以最大输出功率就是这个 IMP 乘以 VMP。
+[1:10:20]
+  Speaker 3
+But we can convert this this two thing become the product of ISC short circuit current and open circuit voltage and the field factor. Okay, so the product of these three quantity give you the maximum power output. And then divide by power input. What is the power input? We standardize it to being the 1,000 watt per meter square.
+但是我们可以把这两个量转换为短路电流 ISC、开路电压和场效应因子的乘积。好的，所以这三个量的乘积就得到最大输出功率。然后除以输入功率。输入功率是多少？我们将其标准化为每平方米1000瓦。
+[1:10:28]
+  Speaker 3
+Okay, so this is power input. But so so this is power. Okay, if it is in power then this is I.
+好的，这就是输入功率。所以，这就是功率。好的，如果它是功率，那么这就是 I。
+[1:11:02]
+  Speaker 3
+Okay, if it is the power density what in divided by meter square then this I will change to current density. Okay, so this is just a remember make sure you know that. So usually we just stick to this these two system this set. Okay, current density in ampere per meter square and then times voltage times field factor divided by 1,000 because standard one is 1,000 watt per meter square.
+好的，如果它是功率密度，也就是每平方米的量，那么我会把它改成电流密度。好的，所以只要记住这一点，确保你知道。所以通常我们只坚持使用这两个体系，这套标准。好的，电流密度单位是安培每平方米，然后乘以电压，再乘以场强因子，最后除以1,000，因为标准值是1，000 瓦每平方米。
+[1:11:35]
+  Speaker 3
+Okay, so this is to calculate the power commercial efficiency. Okay, so then let's quickly go through the yeah, so how how does this three parameters. So now you can see these three parameter determine the power commercial efficiency right. So actually all my research yeah all all the research researchers in the field of solar cell we are trying to improve three parameters.
+好的，这是用来计算功率商业效率的。好的，那么我们快速过一下，嗯，这三个参数是如何……所以现在你可以看到，这三个参数决定了功率商业效率，对吧。所以实际上，我所有的研究，嗯，所有太阳能电池领域的研究人员都在努力提高这三个参数。
+[1:11:49]
+  Speaker 3
+Short circuit current voltage open circuit voltage and field factor of solar cell in different ways. Want to understand how it these three parameter can can improve. Okay, yeah, so this is the basic research.
+以不同方式提高太阳能电池的短路电流、开路电压和填充因子。想了解这三个参数如何才能得到提升。好的，是的，这就是基础研究。
+[1:12:28]
+  Speaker 3
+Okay, so here we just give you some quick taste of how how does short circuit current and open circuit voltage and field factor can relate to the power commercial efficiency. So the first one okay short circuit current basically this is the number of photon that you can convert to into electricity right. Okay, so that means so you if you you can measure the collected number of photon okay at different wavelengths. Okay, so which is EQE.
+好的，这里我们只是快速给大家介绍一下短路电流、开路电压和场因子如何与功率转换效率相关。第一个，短路电流基本上就是你能将多少个光子转化为电能，对吧？好的，所以这意味着，如果你能够测量不同波长下收集到的光子数量。好的，也就是EQE。
+[1:12:38]
+  Speaker 3
+Okay, EQE is called external quantum efficiency. EQE at different wave versus wavelengths. Okay, so this is it's this blue curve.
+好的，EQE 叫做外部量子效率。不同波……相对于波长的 EQE。好的，这就是这条蓝曲线。
+[1:12:51]
+  Speaker 3
+Okay, blue curve. For a you measure a cell. Okay, solar cell the EQE okay the external quantum efficiency so you can measure this curve.
+好的，蓝线。对于一个，你测量一个细胞。好的，太阳能电池的EQE，也就是外部量子效率，所以你可以测量这条曲线。
+[1:13:21]
+  Speaker 3
+Okay, and you find that for for different photon okay so the the how to say the the quantum efficiency at different wavelengths actually are different. They are not flat uniform. They are different. So the first feature is that there is a very sharp cut at long wavelengths.
+好的，你会发现，对于不同的光子，呃，怎么说呢，不同波长下的量子效率实际上是不同的。它们并不是平坦且均匀的。它们是不同的。所以第一个特征是，在长波长处有一个非常尖锐的截止。
+[1:13:42]
+  Speaker 3
+Ridge. Okay, so so that means for the photon that is having longer wavelength than this sharp edge cannot be absorbed. Okay, so this is kind of set it by the band gap. And then go to the short wavelength less range it's not go flat.
+脊线。好的，所以这意味着，波长比这个陡峭边缘更长的光子无法被吸收。好的，所以这在一定程度上是由带隙决定的。然后进入短波长、更低的范围，它并没有变平。
+[1:14:16]
+  Speaker 3
+Okay, so at the short wavelengths it also start to decrease so this is due to the surface recombination. Okay, surface recombination at the front surface in the front surface the the short wavelengths light will recombine significantly. Okay, so cause the job at the the short wavelengths the EQE job at short wavelengths. And then we we also have so the photon generated carrier will have limited diffusion lengths.
+好的，所以在短波长处它也开始下降，这是由于表面复合造成的。好的，表面复合发生在前表面。在前表面，短波长光会发生显著的复合。好的，所以导致在短波长处的……短波长下的外量子效率。然后我们还有，所以光子产生的载流子的扩散长度是有限的。
+[1:14:57]
+  Speaker 3
+Okay, so so that means so so the quantum efficiency so the number of the incident light photo can not never be 100% utilized into electricity. Always have some loss. Okay, so defeat caused by diffusion okay so then this will give you some like you kind of certain job from 100% in the the median wavelength range. Okay, for the and also you have some optical loss for example reflection or transmission of the light will also reduce over EQE.
+好的，所以这意味着，量子效率，也就是入射光子转化为电能的数量，永远无法达到100%。总会有一些损失。好的，那么由扩散造成的损失。好的，那么这会给你带来一些……你可以说，在中值波长范围内，它能完成大约百分之百的特定工作。好的，此外，还会有一些光学损耗，例如光的反射或透射，也会降低外量子效率。
+[1:15:44]
+  Speaker 3
+Okay, so EQE is like this so this this curve actually is a real cell curve that from my students. Okay, so I think he deliberately pick a high performance cell. Okay, so it's kind of almost that EQE EQE curve from across light. Solar cell. Okay, and then since we know if we know the efficiency at of the collection of carrier at certain wavelengths it's not enough because the the incident number of incident photo at different wavelengths is not uniform. Okay, so we need to tie EQE by this incident spectral photo flux.
+好的，所以外量子效率是这样的。这条曲线实际上是我学生做的实际电池曲线。好的，所以我认为他故意选了一款高性能的电池。好的，所以这差不多就是跨光的 EQE 曲线。太阳能电池。好的，那么既然我们知道，在某些波长下载流子的收集效率，这还不够，因为不同波长下入射光的数量并不均匀。好的，所以我们需要把外量子效率与入射光谱光通量联系起来。
+[1:16:06]
+  Speaker 3
+Okay, solar spectrum. Okay, so EQE times the incident beam flux then you integral over different wavelengths. So this is accumulative integral of the current. So up to the edge. Okay, will give you an estimation of a good estimation of short circuit current.
+好的，太阳光谱。好的，所以把EQE乘以入射光通量，然后对不同波长进行积分。所以这是电流的累积积分。所以一直到边缘。好的，这会给你一个短路电流的良好估算值。
+[1:16:17]
+  Speaker 3
+Okay, short circuit current you can measure JV curve and read it out. It's may not be accurate. Okay, then you can calibrate it using this EQE this way.
+好的，短路电流可以通过测量 JV 曲线来读取。这可能不准确。好的，然后你可以用这种方式，利用这个 EQE 来校准它。
+[1:16:47]
+  Speaker 3
+Okay, to EQE times spectrum integral over wavelengths will give you the calibrated short circuit current. Okay, and then the second important parameter open circuit voltage okay so open circuit voltage it's a maximum potential difference. Okay, potential maximum potential difference a solar cell can provide.
+好的，用EQE乘以波长范围内的光谱积分，就能得到校准后的短路电流。好的，然后第二个重要参数是开路电压。好的，开路电压是最大电位差。好的，即太阳能电池所能提供的最大电位差。
+[1:17:16]
+  Speaker 3
+Okay, the upper limit is set by its band gap. Okay, so the band gap basically sets the upper limit of the voltage so this is actually the derivation is very complicated from the detailed balance but you can imagine that so I have this p-n junction. Okay, so the band gap is like this p-n junction is formed the band bending the largest bending cannot exceed the band gap.
+上限由其带隙决定。好的，所以带隙基本上决定了电压的上限。这个推导实际上从详细平衡出发非常复杂，但你可以这样理解：我有一个 p-n 接面。好的，所以带隙……像这样形成 p-n 接面，带边会发生弯曲，最大的弯曲不能超过带隙。
+[1:17:52]
+  Speaker 3
+Okay, so from from this curve but that is not that accurate again from here. Okay, the largest band bending basically is building kind of the building potential is voltage that the solar cell can deliver cannot exceed the band gap of the the two two two material the band gap the p and n material. Okay, so yeah let's go to so yeah so band gap sets up limited voltage a second thing that limit open circuit voltage is the light intensity.
+好的，所以从这条曲线来看，不过从这里看，它又不太准确。好的，最大的能带弯曲，也就是能带弯曲所形成的电势，也就是太阳能电池所能提供的电压，不能超过两种材料的带隙，也就是 p 材料和 n 材料的带隙。好的，那么，带隙决定了电压上限。第二个限制开路电压的因素是光照强度。
+[1:18:23]
+  Speaker 3
+Okay, so I actually light intensity of course it will directly affect the current. Okay, the higher the current so it's it will affect the current linearly. Okay, because this basically light is a number of photon incident and the photo current created of course will linearly change with light intensity. But it will also slightly increase open circuit voltage because it this IL is here.
+好的，所以光照强度当然会直接影响电流。好的，电流越高，所以它会成线性方式影响电流。好的，因为这基本上就是入射光子的数量，而产生的光电流当然会随着光强线性变化。但它也会略微提高开路电压，因为这里存在这个 IL。
+[1:18:52]
+  Speaker 3
+Okay, so but the increase is by law so that means the increase of open circuit voltage with respect to the increase of light intensity is not that fast as light the current that law originally. Okay, slightly increase. Okay, yeah it's log scale. Okay, and then if you look at this radial curve this I0 also plays a role in changing the open circuit voltage.
+好的，但这种增加是受定律制约的，所以这意味着开路电压随光照强度增加而增加的速度并不像光照电流的定律那样快。好的，略有增加。好的，是的，这是对数尺度。好的，然后如果你看这条径向曲线，这个 I0 也在改变开路电压方面发挥作用。
+[1:19:10]
+  Speaker 3
+The dark saturation I0. Okay, so this I0 if it is zero no dark saturation unit that means that there is no recombination. Okay, in the dark condition this will also maximize your open circuit voltage.
+暗饱和电流 I₀。好的，所以如果这个 I0 为零，也就是没有暗饱和电流，那就意味着没有复合发生。好的，在黑暗条件下，这也会使你的开路电压最大化。
+[1:19:34]
+  Speaker 3
+Okay, so we say lower recombination reducing higher open circuit voltage. And we also have this n this n is a constant a number between one and two. Called the identity factor. Okay, whether so so how close basically this is more I I don't think you so this this need a lecture to talk about it.
+好的，所以我们说，降低复合，就能提高开路电压。我们还有这个 n，这个 n 是一个常数，介于 1 和 2 之间。称为恒等因子。好的，不管怎样，基本上有多接近，这更多是……我不觉得你需要专门上一堂课来讨论这个。
+[1:19:55]
+  Speaker 3
+I just quickly so it it basically tells you the type of recombination in the cell. Okay, so if it is close to one this is the traditional band to band radiative recombination. Okay, and if there are a lot of trap. Okay, then then this n will increase to two.
+我只是简单说一下，它基本上告诉你细胞中发生的是哪种重组。好的，如果接近1，这就是传统的带间辐射复合。好的，如果陷阱很多。好的，那么这个 n 会增加到 2。
+[1:20:05]
+  Speaker 3
+That means so the voltage will decrease much faster. Okay, when you have a dark current have this is I0. I will never be in zero.
+这意味着电压会下降得快得多。好的，当存在暗电流时，这个就是 I0。它永远不会为零。
+[1:20:21]
+  Speaker 3
+Okay, so then if larger n will give you worse we'll see. So this is I believe factor. And it also have some temperature dependence. Okay, temperature always change the photogeneration process.
+好的，那么如果 n 越大，情况就会越糟，我们再看。所以我认为这是因子。它还具有一定的温度依赖性。好的，温度总是会影响光生过程。
+[1:20:58]
+  Speaker 3
+Okay, if you have higher temperature the electron will have higher chance to be excited to the excited states. So current will slightly increase when temperature increase. However, so temperature increase will significantly reduce band gap and exponentially increase the carrier density and thus will increase the this I0. So increase of temperature basically the result is will largely decrease VOC.
+好的，如果温度更高，电子就有更高的几率被激发到激发态。所以，当温度升高时，电流会略有增加。然而，温度升高会显著减小带隙，并使载流子密度呈指数级增加，从而提高这个 I0。所以，温度升高基本上会导致 VOC 显著下降。
+[1:21:27]
+  Speaker 3
+So we solar cell usually should work better at low temperature at cooler situation. Okay, so like cooling a solar cell down while it's like in some solar farm is also a kind of a bit problem. Okay, so this is also for the space application. There's no way to dissipate heat so then this efficiency of the solar cell will decrease significantly.
+所以，太阳能电池通常在低温、较凉爽的条件下表现会更好。好的，所以在一些太阳能电站中给太阳能电池降温，也会带来一些问题。好的，这同样适用于太空应用。没有办法散热，因此太阳能电池的效率会显著下降。
+[1:21:47]
+  Speaker 3
+So this is also a problem. Okay, okay, and then the last one is this field factor. Right, field factor is basically we say this is describe the rectangleness of JV curve. It is more rectangle field factor is higher than this is better.
+所以这也是一个问题。好的，好的，最后一个是这个场效应。对，场效应基本上就是用来描述 JV 曲线的矩形程度。矩形度越高，场因子越高，效果越好。
+[1:22:08]
+  Speaker 3
+Okay, so what are the key factor determining field factor. So theoretically open circuit voltage will is a dominant factor to determine the up limit of field factor. So we have this so if this is ideal solar cell this is the formula to given the normalized VOC.
+好的，那么决定场效应系数的关键因素有哪些？所以，理论上，开路电压是决定场因子上限的主导因素。所以，如果这是一个理想的太阳能电池，那么这个公式可以给出归一化的开路电压。
+[1:22:34]
+  Speaker 3
+Okay, normalized VOC is VOC times Q divided by KT. Okay, so this is the little VOC normalized VOC from here you can get field factor zero is a maximum ideal field factor. Okay, so yeah trust me so if VOC increase field factor will increase. But then of course we always dealing with real solar cell we have this resistance.
+好的，归一化开路电压等于开路电压乘以 Q，再除以 KT。好的，这就是小的 VOC，也就是归一化 VOC。由此你可以得到场因子零，这是最大理想场因子。好的，相信我，如果 VOC 增加，场因子也会增加。但当然，我们处理的始终是实际的太阳能电池，因此存在这种电阻。
+[1:23:03]
+  Speaker 3
+Okay, so if we look at look at JV curve. Okay, so JV curve we can deduct these two resistance. Remember series resistance is the smaller the better the one that give you extra load. Okay, so it should be smaller the better where it affect the so when there is like no current when the in open circuit condition.
+好的，那么如果我们看一下，看一下JV曲线。好的，所以从JV曲线中，我们可以扣除这两项电阻。记住，串联电阻越小越好，也就是能给你带来额外负载的那个。好的，所以内阻越小越好，因为它会影响……比如在开路状态下没有电流时。
+[1:23:25]
+  Speaker 3
+Okay, so if you you can for each JV curve at the open circuit condition we we find out the slope at the of this JV curve at open circuit condition then one over the slope. Is one over the slope is the RSA. Okay, what the slope is one over RS R series.
+好的，所以如果你……对于每一条JV曲线，在开路条件下，我们求出这条JV曲线在开路条件下的斜率，然后取斜率的倒数。斜率的倒数就是 RSA。好的，斜率就是 1/RS，也就是 R 串联电阻。
+[1:23:56]
+  Speaker 3
+So that means if this is lower so this slope will be larger slope will be smaller the better. And on the other side shunt resistance we can find out it at the short circuit condition. So on this side you can also draw a a slope at the of this JV curve. Okay, so this slope if it is flatter means this more rectangle.
+所以这意味着，如果这个值越低，那么这个斜率就越大；斜率越小越好。另一方面，分流电阻可以在短路条件下求出。所以，在这边，你也可以在这条JV曲线的……处画一条斜率。好的，所以这个斜率越平缓，这个矩形就越宽。
+[1:24:04]
+  Speaker 3
+Okay, the flatter the better. So flatter means slope equal to zero. Then one over zero is shunt resistance.
+好的，越平缓越好。所以，更平意味着斜率等于零。那么，1除以0就是分流电阻。
+[1:24:12]
+  Speaker 3
+So shunt resistance is larger the better. Okay, shunt series and shunt resistance. So remember the trend.
+所以并联电阻越大越好。好的，分流串联和分流电阻。所以要记住这个趋势。
+[1:24:26]
+  Speaker 3
+Also it has some temperature dependence. Higher temperature will also decrease field factor. Okay, so it's also so higher temperature is always bad for solar cell performance.
+它还具有一定的温度依赖性。温度越高，场因子也会越小。好的，所以温度越高，太阳能电池的性能总是会变差。
+[1:24:59]
+  Speaker 3
+Okay, I think yeah I finished the most important part. Okay, although it's kind of so many part but this is the most important let's have a break and then we continue with the the rest content and I think we just let's take a short break so that we can end early. Okay, so let's take a five minute break come back at eight then we continue finish the other content so we can do the quiz.
+好的，我想是的，我已经讲完最重要的部分了。好的，虽然内容有点多，但这是最重要的部分。我们先休息一下，然后继续讲剩下的内容。我想我们先简单休息一下，这样就能早点结束。好的，我们休息五分钟，八点回来继续完成其他内容，这样我们就可以做测验了。
+[1:25:50]
+  Speaker 3
+So spend the quiz yeah some time to distribute the paper and then hopefully we can theoretically if we don't take any break when when can we so it's eight eight thirty right or eight forty five yeah eight forty five theoretically but we take five minute break then it's eight fifty so hopefully we can finish everything around nine. Okay, yeah let's take five minute break. Yeah, so these are the most difficult part for the theory part but I think not yeah we just remember the key trend is okay
+所以花点时间发试卷，然后希望我们理论上如果不停课，什么时候能……对，八点三十分，对，八点四十五，对，理论上是八点四十五，不过我们休息五分钟，那就……八点五十分，所以希望我们能在九点左右完成所有内容。好的，我们休息五分钟吧。对，所以这些是理论部分最难的部分，不过我觉得不是。对，我们只要记住关键趋势就可以了。
+[1:26:02]
+  Speaker 3
+okay.
+好的。
+[1:31:17]
+  Speaker 4
+Looking principle over general solar cells, so there are different types of solar cells, okay. So up to now, okay, up to now, uh, we have 3 generations of solar cells, okay, the first generation is the quick line silicon, as I said, it's on the rooftop, and the efficiency is quite good. The cost is relative high, actually, nowadays it's not that high, okay, because of the technology development, so to speak.
+我们来看一下太阳能电池的一般工作原理。太阳能电池有不同的类型，好吗？那么到目前为止，呃，我们已经经历了三代太阳能电池。第一代是快速生产线硅，正如我所说，它安装在屋顶上，效率相当高。成本其实相对较高，不过如今已经没那么高了，这要归功于技术的发展。
+[1:32:16]
+  Speaker 4
+The quick line silicon solar cell, the cost is also decreased a lot. The technique is very mature, the market dominates the market, okay, so then second generation is called thin film solar cells, thin film technology. So because silicon is a indirect band gap material, so the absorption coefficient is lower, you need a thicker layer to absorb sunlight. So then the second generation, they find some direct band gap, semiconductor, which can significantly reduce the, uh, active layer thickness to, like, below 1 micrometer, okay, so then, then this is called thin film technology. So the cost is reduced, cost reduced from 1 to 2 reduced, but efficiency-wise it's not that promising, okay.
+单晶硅太阳能电池的成本也大幅下降了。这项技术非常成熟，占据了市场主导地位。好，那么第二代被称为薄膜太阳能电池，也就是薄膜技术。因为硅是一种间接带隙材料，所以它的吸收系数较低，需要较厚的层来吸收太阳光。所以第二代技术找到了一些直接带隙半导体，可以显著减小，呃，有源层的厚度，比如，低于1微米，好的，那么，这被称为薄膜技术。所以成本降低了，从1降到2，但效率方面并没有那么理想，好吗？
+[1:32:49]
+  Speaker 4
+So then third generation, comes out, okay, so it actually groups a lot of different types of solar cells, okay, so it covers this part, potentially, okay, it can deliver good efficiency, and lower cost, okay, but this is just potentially, so so far, silicon is still dominating. So this, in this third generation, it includes perovskite, organic, and the tandem, okay, multi-junction. Okay, so, so, so they are still in development.
+那么，第三代技术随之出现。它实际上包括很多不同类型的太阳能电池，涵盖了这一部分。潜在地，它可以提供较高的效率和较低的成本，但目前还只是潜在的。所以到目前为止，硅仍占据主导地位。所以，第三代太阳能电池包括钙钛矿电池、有机电池以及串联电池，也就是多结电池。好的，所以，所以，所以它们仍在研发中。
+[1:34:12]
+  Speaker 4
+So just quickly, review, what kind of photovoltaic materials, okay, this is a material frontiers, right, photovoltaic materials, we have. So there is one important thing that I think I already mentioned in the first part, okay, so guaranteed by this so-called detailed balance principle, which means that if an equilibrium of a solar cell is formed, its absorption should be balanced with its emission, okay. So that means it's not that the larger the absorption it, uh, the, like, the smaller the band gap, we have, the larger the absorption we have, then the efficiency is the higher, because it also need to be balanced with emission, okay, so there is, uh, actually an optimized band gap, which is around 1.34 by this so-called SQ limit, Shockley equation limit, a very rough model to, to assume mobility of the charge carrier infinity, all the above band gap photons are completely absorbed, but we still have this detailed balance, so then we have we can, like, he can calculate the optimal band gap is around 1.
+那么快速回顾一下，有哪些光伏材料，好吗？这是材料前沿，对吧？我们现有的光伏材料。所以有一件重要的事情，我想我第一部分已经提到过了，好吧，所以，这由所谓的详细平衡原理所保证，这意味着，如果太阳能电池达到平衡，它的吸收应与发射相平衡，好吗？所以这意味着，吸收越大，呃，也就是说，带隙越小，我们有，吸收越大，效率就越高，因为吸收也需要与发射相平衡，好吗，所以存在，呃，实际上有一个最佳带隙，约为1.34，由所谓的SQ极限，也就是肖克利方程极限决定。这是一个非常粗略的模型，用来……假设载流子的迁移率无穷大，所有高于带隙的光子都被完全吸收，但我们仍然存在这种详平衡，所以，我们可以，呃，他可以计算出最佳带隙大约为1。
+[1:34:53]
+  Speaker 4
+34. So if the band gap is smaller than this region, we have larger absorption, but the voltage, it's smaller. But if the band gap is larger, so smaller absorption, larger voltage, so it's also reduced efficiency, so the optimal region is, and theoretical maximum PCE, according to SQ limit, is, like, about 33%. So that means the theoretical limit, so the highest power conversion efficiency for a solar cell is 33%, it's not that it can never be 100%, okay.
+34。所以，如果带隙小于这个范围，吸收会更大，但电压会更低。但如果带隙更大，吸收就会更少，电压也会更高，因此效率也会降低。所以最佳区域是……根据 SQ 限值，理论最大光电转换效率约为 33%。所以这意味着，太阳能电池的理论极限，也就是最高功率转换效率，是33%。并不是说它永远不可能达到100%，好吧。
+[1:37:24]
+  Speaker 4
+Yeah, the efficiency. So then further different, based on this, criteria, so the semiconductor we choose should, the band gap, should have the band gap around this area, okay, so for the inorganic semiconductors, for example silicon, the most common one, its band gap actually is very far away, not that, so it's far away from, not ideal richness, optimal band gap, it's 1.1, actually too small, okay, but the good thing is, well, I will tell you why the good things, why it's not ideal. And then we have some silicon is in the group, group 4, okay, so then we can have the compound that have group 3 and 5, which also have the, the, the in total we have 8 valence electron on site, okay, valence, so like Garling arsenide, so this is, it has a band gap of 1.42 maybe, and give you the champion of single junction, 29%, okay, nowadays, so, so, but this one, the material-wise, it's very expensive, so we don't have, we can only afford to use it in the space application, okay, and Indian phosphoride, also run, so it's also favored who has so it's also 35 compound, and you can also have this thin film technology called copper indium gallium selenium, okay, CIGS, so then, so this kind of alloy, so this X can change, so that means the band gap can is tunable, okay, so you can give you a range of the band gap, okay, so for different application, so CIGS efficiency is also not that high, okay, then go to the new type, which, like, my most of my research is focused on this, organic and perovskite, the band gap are also tunable, okay, can based on different type of organic molecular structure and for perovskite we can mixed choose different types of ABX element or ABX component and also mixture of them, also have tunable band gap, okay.
+对，效率。那么，进一步根据这些标准，我们选择的半导体的带隙应该在这个区域左右。好的，那么对于无机半导体，比如最常见的硅，它的带隙其实很远，不是那样，所以它离理想、最佳的带隙很远，实际上只有1.1，太小了。不过，好处是，嗯，我会告诉你为什么它有这些优点，以及为什么它并不理想。然后我们有一些硅，它属于第4族，好吗？所以我们可以得到由第3族和第5族组成的化合物，它也具有，这个，这个……总共每个原子有8个价电子，好吗，价电子。所以像镓砷化物，这就是……它的带隙大约为1.42，可以给你一个单结的效率记录，达到29%，好吧，如今，所以，所以，但是这个，就材料而言，它非常昂贵，所以我们只能负担得起在太空应用中使用它，好吗？还有砷化铟，也运行，所以它也很受欢迎，谁有……所以它也是35化合物，你也可以采用一种叫作铜铟镓硒的薄膜技术，好吗，CIGS。那么，这种合金，所以这个 X 可以改变，也就是说，带隙是可调的，好吗？所以你可以给出一个带隙范围。对于不同的应用，CIGS 的效率也不是那么高。然后讲到新型材料，比如，我的大部分研究都聚焦于此：有机材料和钙钛矿材料。带隙也可以调节，取决于不同的有机分子结构；对于钙钛矿，我们可以选择不同类型的 ABX 元素或 ABX 组分，也可以将它们混合。也有可调的带隙，好的。
+[1:40:22]
+  Speaker 4
+Yeah. Anyway, we want to have for single junction, the ideal optimal band gap is around 1.34, but later on we can break this limit by stacking different cell together called to form tandem, okay, so let's first look at the most fundamental one, the first generation, crystalline silicon, we call, in short it's CSI, there is a new technology called amorphous silicon, but it doesn't work out, so it's still crystalline silicon solar cell is market dominant type, okay, so it's number 14 element on the periodic table, so the almost shell has like two S electron and two P electron, and this will form this sp3 hybridization, so the crystal structure of a silicon has this so-called diamond cubic lattice, okay, so each silicon it has its bonded with a four nearest neighbor form this very stable so these four bonding one, equivalent, so it's sp3 hybridization, so form very stable structure, okay, so band gap is 1.1, crystalline silicon is stable, and the Y is a good one, relative cheaper because it's the second most abundant element on Earth, the most abundant one is oxygen, okay, silicon is non-toxic, cheap, yeah, readily available, it's can and another thing is remember we need to have p-n junction for solar cell, so silicon can be easily doped, to P type or N type by dope group 3 or 5 atom, okay, like we mentioned, okay, for example intrinsic silicon dope silicon is perfect, like this, then P type doping is we dope some boron atom, okay, so then this will give you more holes, core concentration in this material, or in other words, if we dope some phosphorus atom, so we'll have it will phosphorus will contribute, an extra, because it's group 5, an extra electron, so N type will have more higher electron concentration, then we can basically they are both silicon but doped with different element, form a junction, okay, so they are lattice matching, okay, yeah, and two optimize crystalline silicon solar cell, so the basically you want to first optimize the p-n junction structure, okay,
+对。总之，对于单结，理想的最优带隙约为1.34，但之后我们可以通过将不同电池堆叠在一起，形成串联结构，从而突破这一限制，好吗？那么，我们先来看最基本的一种，第一代晶硅。简而言之，我们称之为 CSI。有一种叫非晶硅的新技术，但效果并不理想，所以目前仍以晶体硅太阳能电池为主流，好吗？所以它是元素周期表中的第14号元素，所以它的价壳层大约有两个S电子和两个P电子。这会形成 sp3 杂化，所以硅的晶体结构具有所谓的金刚石立方晶格，好吗？所以每个硅原子都与四个最近邻原子成键，形成这种非常稳定的……所以这四个成键是等价的，所以是 sp3 杂化，形成非常稳定的结构。好的，带隙为 1.1。晶体硅是稳定的。Y 是一个不错的选择，相对更便宜，因为它是地球上第二丰富的元素，最丰富的元素是氧，好吗？硅无毒、价格低廉，而且很容易获得。还有一点要记住，太阳能电池需要形成 p-n 接面。所以，硅很容易通过掺杂第3族或第5族原子来制成P型或N型，好吗？就像我们提到的，好吗？例如，本征硅掺杂硅是完美的，像这样。然后P型掺杂就是掺入一些硼原子，好吗？所以这样就会在这个材料中产生更多的空穴，也就是载流子浓度。换句话说，如果我们掺入一些磷原子，所以，磷会贡献一个额外的……因为它属于第5族，会多一个电子。所以N型材料的电子浓度会更高。基本上，它们都是硅，但掺杂了不同的元素，形成一个结。好的，所以它们是晶格匹配的。好的，是的，以及两种优化的晶体硅太阳能电池，所以基本上，你首先要优化 p-n 接面结构，好吗？
+[1:41:21]
+  Speaker 4
+p-n junction, letter P, which is separate the photoexcited electron hole pair, and you want to optimize both contact, the top one on the hole is a front contact, or rail one at the bottom, okay, we for silicon, because it's very thick, okay, so the sunlight is shining from the top, okay, so this is shining on the top contact, and then the surface, as I said, the surface recommendation is a lot, so you want to do some passivation to reduce the surface defect, to improve the performance, okay, so just give you an idea of, well, because this the technique-wise, silicon solar cell have developed have been developed for so many years, so there are so many different types of p-n junction.
+p-n 接面，字母 P，它会分离光激发的电子-空穴对，而且你希望优化两个接触面，空穴侧的顶部是前接触，或者底部的接触，好的。对于硅，因为它很厚，好的，所以阳光是从上面照射下来的，好的，它照射在顶部接触面上，然后表面，正如我所说，表面缺陷很多，所以需要进行钝化处理，以减少表面缺陷，从而提高性能，好吗？所以只是给大家一个概念，嗯，因为从技术层面来说，硅太阳能电池已经发展了很多年。所以，p-n结有很多种不同的类型。
+[1:41:23]
+  Speaker 5
+What the.
+什么……
+[1:44:13]
+  Speaker 4
+Already on the market, and so here just give you the most, I think, recent two, okay, and they have different p-n junction, okay, so this one is called passivated emitter rare cell, PERC, this one is called TOPCon, Terminal Oxide Passivated Contact, okay, so we forget about what does this mean, so actually it give you some technology and the contact, but the p-n junction-wise, these two are different, okay, for this one, it's like the traditional one, so they have a very thick P type crystalline silicon, and then the very thin layer of N type, crystalline silicon, so the p-n junction is at the top surface, very close to this top surface, okay, yeah, so P type is thicker, N type is thinner, okay, so this is called so this type, and this is a typical type is like this, because the p type silicon wafer is more like a all over the market, okay, much cheaper to have, okay, then this TOPCon is a reverse one, so it has a very thick N type layer, and then a very thin P type, so the p-n junction is still at the top surface, so the good thing is why the p-n junction should at the top surface, because when the light comes in, most of the exciton is generated at the surface, because it will decrease exponentially when this light penetrate deeper, okay, so most of the so they want exciton to be readily like the depletion region should be formed, should at the region where light is absorbed, significantly, so that's why p-n junction always at this top surface, okay, so P type is typical because P type wafer is there, why this one, now recently did a TOPCon, because it can deliver very high efficiency, so there is they developed some new technique to create very high purity N type crystalline silicon, okay, so that's why this one, recently, kind of start to come out and take over the traditional market, and but of course I think the price is higher, yeah, okay, the P technique is here and there, you create an ultra-thin silicon oxide layer to passivate this back contact, so that they can have this TOPCon,
+已经上市了。这里只给大家介绍我认为最近的两种，好吗？它们有不同的 p-n 接面，好吗？所以这个叫钝化发射极后接触电池，简称PERC；这个叫TOPCon，即后接触钝化发射极电池，好吗？所以我们先别管这是什么意思，实际上它会给你一些技术和接触方式，但在 p-n 接面方面，这两者是不同的。这个就像传统的那种，所以它们有一层非常厚的 P 型结晶硅，然后是极薄的一层N型结晶硅，所以P-N结位于顶表面。非常靠近这个顶表面，好的。对，所以P型层更厚，N型层更薄。好的，所以这种类型就叫作……而这种典型类型是这样的，因为 p 型硅片更像……在市场上随处可见，好吗？拥有它要便宜得多。好的，那么 TOPCon 是反向结构，所以它有一层非常厚的 N 型层，然后是极薄的 P 型层，所以 P-N 接面仍然在顶表面。所以好处是，为什么pn结应该位于表面，因为当光进来时，大多数激子是在表面产生的，因为随着光穿透得更深，其数量会呈指数衰减，好吗？所以大部分……因此他们希望激子能够及时……比如应该形成耗尽区，应该在光被显著吸收的区域，所以P-N结总是位于这个顶表面，好吗？所以P型是典型的，因为有P型晶圆。为什么选这个？最近做了一个TOPCon，因为它可以实现非常高的效率，所以他们开发了一些新技术，来制造高纯度的N型晶硅，好吗？所以，这就是为什么这种技术最近开始崭露头角，并逐渐取代传统市场。不过，当然我觉得价格更高。对，好吧，P技术到处都有。你创建一个超薄的氧化硅层来钝化这个背接触，这样他们就可以采用 TOPCon，
+[1:47:11]
+  Speaker 4
+yeah, p-n junction, okay, then it's about the contact, top contact, okay, to collect the charge, so the electrode or contact at the so you need to have top contact and rear contact, so for the top contact, so basically the first thing is the simplest way is why don't we just cover the whole film, the active layer, with some electrode, and then of course all the charge will get collected, but the problem is if we cover it all, it block light a lot, so they want to so these areas that covered by this electrode are kind of photo dead area, okay, so the electricity is created from mostly here, so they want to have electrode that cover minimal area but can efficiently extract all the charge carriers that generated, so this is a common way, so it's very I read some stick figure, and then create like bus bar, those highways, okay, so you collect this fingers from all the area, but then use the highway to extract it out to the circuit, okay, so this is kind of common way, so that's why some most of the image of the solar cell look like this, okay, not a rooftop, okay, and recently, people also trying to move all the contact to the backside, okay, so that this way, there's no blocking, no so-called shading loss on the top surface, but of course the kind of fabrication technique will be more complicated, so they need to have interconnected N and P, like tesselled and anode alternating, okay, and the back contact, so but this way is good for those so-called concentrator solar cell, so if you have some focusing mirror, okay, before the sunlight, then the light is slowly intense, so we don't want to lose anything on the top surface, so then we move use all the back contact for that solar cell, okay, and then for the contact, and then is surface passivation, okay, so surface recombination, because surface, so this surface is the so contact, then the active layer on the surface of the active layer, there if there are a lot of defect, okay, so defect at semiconductor surface will cause
+对，P-N结，好，然后是接触，顶部接触，好，用来收集电荷。所以电极或接触……因此你需要有顶部接触和背面接触。对于顶部接触，所以基本上，第一种方法也是最简单的方法，为什么不直接在整个薄膜，也就是有源层上覆盖一些电极呢？然后当然所有电荷都会被收集，但问题是，如果把整个表面都覆盖上，就会严重遮挡光线。所以他们想……被这个电极覆盖的这些区域有点像光死区，好吗？所以大部分电流都是在这里产生的，因此他们希望电极覆盖的面积尽可能小，但能高效提取所有产生的电荷载流子。所以这是一种常见的做法。非常……我读过一些棍子图，然后像这样形成汇流条，也就是那些高速公路，好吗？所以，你从所有区域收集这些指状电极，然后利用这些“高速公路”把电荷提取到电路中，好吗？所以这是一种很常见的方式，因此大多数太阳能电池的图片看起来都像这样，好吗？不是屋顶，好的。最近，人们也在尝试把所有电极都移到背面，这样就不会有遮挡。顶部表面不会产生所谓的遮光损失，但当然，这种制造工艺会更加复杂。所以它们需要有相互连接的 N 区和 P 区，比如采用 tesselled 和阳极交替的方式，好吗，以及背面电极，所以，这种方式适用于所谓的聚光太阳能电池。如果你在阳光照射前装上一些聚光镜，那么光线会逐渐变得强烈，所以我们不想在顶表面有任何损失。所以，我们把所有后接触都用于这种太阳能电池，好吗？然后是接触，然后是表面钝化，好吗？所以是表面复合，因为表面，所以这个表面是……接触，然后是活性层表面的活性层，如果有大量缺陷，那么半导体表面的缺陷会导致……
+[1:50:06]
+  Speaker 4
+the interruption of the periodic structure of the crystal structure in the bulk, it's very ordered, but at surface, there are so many dangling bulks, and these will decrease the so even if we have electron hole pair, it will recombine significantly at these defect, so we should have ways to do surface passivation, so this is critical for silicon anode perovskite solar cell, so to basically to do surface passivation, we can add a thin layer to connect this bulk, okay, these dangling bulk, to stabilize it, so this is one way, and we can at the same time add some anti-reflection layer, okay, to make the surface as rough as possible, so that this the reflected light will have chance to bounce back to the surface, if it's smooth, it will bounce back to the air, but if it's rough, it will have chance to do several multi-scattering and bounce back to the absorber, okay, so these kind of top surface, like we call pyramid, or this one is inverse pyramid, are commonly used for the surface structure of the crystalline silicon solar cell, okay, yeah, okay, so this is silicon solar cell, okay, just give a very brief introduction, and then, okay, so we move to our new generation, okay, so here this is a solar cell efficiency roadmap from the best research efficiency, okay, so that means so if any lab can make a solar cell it can claim world record, like Olympics in this field, okay, so if you look at crystalline silicon see this chart start with satellite 1975, actually the remember the very first one is 1954, okay, so it's the chart we start to do this competition like several years later, okay, so silicon crystalline silicon solar cell, yeah, it's going from here, and now the record efficiency is around 27%, okay, so this is going back 27, so then go to the two emergent one, okay, perovskite and organic, okay, the two so the emergent PV has so many different type of we the research field, the field are only interested in these two, organic and perovskite, organic this red dot start from here, okay,
+晶格周期性结构的中断。体相中的晶体结构非常有序，但在表面却存在大量悬垂的原子。这些会降低……所以，即使我们有电子-空穴对，它们也会在这些缺陷处发生显著复合。所以我们应该有办法进行表面钝化，这对硅负极钙钛矿太阳能电池至关重要。所以，为了进行表面钝化，我们可以在表面添加一层薄层，将这些悬空的原子连接起来，使其稳定。所以这是一种方法，同时我们还可以添加一些减反射层，好吗？尽可能使表面粗糙，这样反射光就有机会再次反弹到表面。如果表面很光滑，反射光就会回到空气中；但如果表面很粗糙，它就有机会发生多次散射，然后反弹回吸收层，好吗？所以这种表面，像我们所说的金字塔形，或者这种倒金字塔形，通常被用作晶硅太阳能电池的表面结构，好吗？对。好的，这就是硅太阳能电池。简单介绍一下，然后，我们转到新一代……所以，这是太阳能电池效率路线图，展示了最佳研究效率，好吗？所以这意味着，任何实验室只要能制造出太阳能电池，就可以宣称自己创造了世界纪录，就像这个领域的奥运会一样，好吗？所以，如果你看一下晶硅太阳能电池，看看这张图表，它始于1975年的卫星，实际上，记住最早的记录是在1954年，好吗？所以，这张图显示的是我们几年后才开始进行这项竞赛的，好吗？所以，晶硅太阳能电池，对。它从这里开始，目前的效率纪录约为27%，好的，所以这是回到27，那么接下来讲讲两种新兴材料，好吗？钙钛矿和有机材料，好吗？所以，新兴光伏领域有如此多不同的类型，而我们这个研究领域只对这两种感兴趣。有机材料和钙钛矿。有机材料，这个红点从这里开始，好吗？
+[1:53:08]
+  Speaker 4
+around 2000, okay, about 25 years of development, so in the very beginning, the efficiency is 1, 2%, at for me, when I'm a postdoc, around I jump into this field, at this part, at that time, the highest efficiency is about 5%, and the for me, when I make it in the lab, I can only make it like 3% organic solar cell, okay, so then it increase slowly, okay, but then it has some it always has some jump, okay, like 2000, like 11, it has a jump, and then from here, like 17, has another jump, okay, these are driven by the discovery of some new organic photovoltaic molecules, okay, by chemists, and also by and these are actually made from our Chinese chemists, okay, so we're very proud of this, okay, so this jump, and this jump, and now the record efficiency of solar cell is around 19%, this is unreal chart, on the publication paper, I think recently is about 21, this is what give me, okay, and then go to perovskite, this rising star, where is perovskite, perovskite is red, yellow dot, here, okay, the very first perovskite solar cell is invented around 2013, about 10 years ago, okay, within 10 years, so the efficiency is starting point is already high, okay, and then the record is about 27%, it's comparable to silicon solar cell, okay, in the lab, but of course it has some for the this is lab cell efficiency, so for go to market, it still need to solve some problem, okay, so we just briefly talk about these two type, organic and perovskite, so why we are since we already have silicon solar cell, why we are still interested in organic new types of solar cell, their efficiency are not as high as silicon, they have some unique advantage, so both of them are solution processable, so silicon they need very high temperature, okay, I think sorry, I'm going to mention, yeah, so we need to heat the melt the silicon polycrystalline silicon into solid degree of Celsius to purify it, okay, to make very high purity we call 99s of the
+大约在2000年，好，发展了大约25年。一开始，效率只有1%到2%。对我来说，当我还在做博士后时，大约在我进入这个领域时，也就是在这个阶段，当时最高的效率大约是5%，而对我来说，我在实验室里只能做到大约3%的有机太阳能电池效率，好吗？所以之后它缓慢提升，好吗？但之后它会有一些……它总是会有一些跳跃，好吗？比如2000年，11年时有一次飞跃，然后从这里，17年时……又有一个飞跃，好的，这些都得益于化学家们发现了一些新的有机光伏分子，好的。这些其实也是由中国化学家研发出来的，所以对此我们非常自豪。那么，这个飞跃，这个跃进。现在太阳能电池的效率纪录约为19%。这是发表论文上的不切实际图表。我想最近大概是21%，这是它给我的数据，好吗？然后来看钙钛矿，这个冉冉升起的新星，钙钛矿在哪里？钙钛矿是这里的红黄点，好吗？最早的钙钛矿太阳能电池是在2013年左右发明的，大约十年前，好吗？在十年内，所以，起始效率就已经很高了，好，然后效率纪录约为27%，与硅太阳能电池相当，好。在实验室里，但当然它还有一些……这是实验室电池的效率，所以要投入市场，它仍然需要解决一些问题，好的，我们简单讲一下有机和钙钛矿这两种类型。那么，既然我们已经有硅太阳能电池，为什么我们仍然对有机太阳能电池这类新型电池感兴趣呢？它们的效率不如硅基太阳能电池，但它们有一些独特的优势。因此，两者都可以通过溶液工艺制备。所以，硅需要非常高的温度。好的，我想——抱歉，我要提一下，是的。所以，我们需要将多晶硅加热到摄氏度的熔点，将其熔化，然后冷却成固体，以进行提纯，好吗？为了达到非常高的纯度，我们称之为99s的……
+[1:56:01]
+  Speaker 4
+purity of the silicon to make the single crystal, so the everything is created in a vacuum condition and need high temperature, and these two type of solar cell, you can make a solution of it, and it's like ink, okay, and you can coat it just by spring coating, or some blade coating, like printing, so theoretically, this the it can be coated on any kind of surfaces, like curved surfaces, or flexible surface, so can make it into these kind of like clothes or bag, or and another advantage is there the band gap is tunable, it can use different molecule or different combination composition of perovskite to change the band gap, so change the portion of solar spectrum to absorb, you can make it colorful, colorful, or make it transparent, okay, but silicon always never being transparent because silicon solar cell is very thick, okay, very heavy, yeah, but yeah, so this is advantage of these two type of solar cell, okay, so for organic solar cell, I think basically depends on the organic semiconductor molecule, we have to also have some kind of peering junction, but here we will have organic donor molecule, okay, donor, electron donor molecule, okay, like P type, so it's corresponds to donor correspond to P, which can donate electron, or acceptor is equivalent to n type molecule, okay, if we mix the donor and acceptor together, they can give you enough electric potential to separate electrons, okay, so this is kind of the idea, and the why organic molecule can be conductive, I think this is also something we you learning lecture three, right, last lecture, photo catalysis, right, so the professor yeah, then I think he's from chemistry department, so basically this is rely on the extension of the conjugation and then through intermolecular pipe interaction, okay, the localized of the the localization of pi electron can change the narrow the band gap through through the extension of conjugation and then charge the conductivity can create it by overlap of pi opto, the pi orbital basically are
+硅的纯度，以制备单晶，所以所有过程都在真空条件下进行，而且需要高温。这两种太阳能电池，你可以把它们制成溶液，就像墨水一样，好吗？你可以通过喷雾涂布或刮刀涂布之类的方法来涂覆，就像印刷一样。所以理论上，这……它可以涂覆在任何类型的表面上，比如曲面或柔性表面。所以可以把它做成衣服、包之类的，另一个优点是它的带隙是可调的。可以使用不同的分子或不同的钙钛矿组合成分来改变带隙，从而改变其吸收太阳光谱中不同部分的能力。你可以把它做成彩色的，或者透明的，好吗？但硅永远不可能透明，因为硅太阳能电池很厚，好吗？非常重，对，不过，对，所以这就是这两种太阳能电池的优点。好，那么对于有机太阳能电池，我想，这基本上取决于有机半导体分子，我们还必须有一些类似 p-n 结的东西，但这里我们会使用有机给体分子，好，给体，电子给体分子，好，就像P型，所以它对应给体对应P，可以提供电子；或者受体相当于 n 型分子。好的，如果我们把给体和受体混合在一起，它们可以提供足够的电势来分离电子，好吗？这就是大致的原理。至于为什么有机分子可以导电，我想这也是我们在第三讲学过的，对吧？上一讲，光催化，对吧？所以，教授，对，然后我想他是化学系的，所以基本上这取决于共轭的延伸，然后通过分子间π-π相互作用，好的，π电子的局域化可以通过共轭的延伸来改变，使带隙变窄，然后通过π轨道的重叠来产生电导率。π轨道基本上是
+[1:59:02]
+  Speaker 4
+these kind of the ring and so in this direction you can stack another molecule, so the pi electron will overlap with each other, okay, and so then then the electron can be delocalized, can have conductivity, okay, so this is conductivity of organic semiconductor molecule, then similar to inorganic semiconductor, we have for organic molecule, we have homo corresponds to valence band maximum, and the lumo corresponds to the connection band minimum, homo is highest occupied electron orbital molecular orbital, and the lumo is lowest occupied molecular orbital, okay, so then chemists can design different types of these kind of molecule, sometime it's like simple polymer, sometime it's this kind of fullerene, or if it is a small molecule, but each component are electron donor and acceptor with call this DAD type, which will further reduce the band gap, changing the structure, so that the band gap is very flexibly tunable from one to four EV, and the absorption coefficient is very high, so that's why for OPV usually the we only need like 100 nanometer thick layer to absorb solvent, this is also we cannot make it thicker also because of mobility, although it has mobility, but the mobility is not as high as inorganic photon material, it's not, so it's not same order, so this is a disadvantage of OPV, okay, so so mobility of charge is relative, but absorption coefficient is good, yeah, the working manual OPV, it's I think basically is the same as crystalline silicon, but there is some difference, okay, so we still have photon absorption, okay, so both donor and acceptor can absorb sunlight because they are both semiconductor, okay, so well, so then but so the difference thing is that for peering junction you you have this naturally exist building potential to separate electron and hole, but for organic material this exciton are strongly bonded because organic material has very low dielectric constant, so you need some some extra energy about 0.3 EV energy to separate electron and hole pair strongly bonded electron
+这种环，所以你可以沿这个方向再堆叠一个分子，这样π电子就会相互重叠，好吗？这样，电子就可以发生非局域化，从而具有导电性，好吗？这就是有机半导体分子的导电性。那么，类似于无机半导体，对于有机分子，我们有对应于价带最大值的HOMO，LUMO对应于导带最低点。HOMO是最高占据电子轨道，也就是分子轨道，而LUMO是最低占据分子轨道。好的，那么化学家可以设计不同类型的这类分子，有时是简单的聚合物，有时是这种富勒烯，或者如果它是小分子，但每个组成部分都是电子供体和受体，称为 D-A 型。这将进一步缩小带隙。通过改变结构，带隙可以在1至4电子伏特之间灵活调节。而且吸收系数非常高，所以对于OPV来说，通常只需要约100纳米厚的层就能吸收溶剂，这也是为什么我们不能把它做得更厚，也是因为迁移率，尽管它具有迁移率，但迁移率没有无机光材料那么高，不是，所以数量级不一样，因此这是OPV的一个缺点。好的，所以载流子迁移率相对较低，但吸收系数很好。是的，OPV 的工作原理……我觉得它基本上和结晶硅一样，但也有一些差异。好的，所以我们仍然有光子吸收，好的。所以，供体和受体都可以吸收阳光，因为它们都是半导体，好吗？那么，嗯，那么，不同之处在于，对于 p-n 接面，它会自然产生内建电势，从而分离电子和空穴。但对于有机材料，激子的结合力很强，因为有机材料的介电常数非常低。所以，你需要大约0.3电子伏特的额外能量，才能将强束缚的电子和空穴对分开。
+[2:01:50]
+  Speaker 4
+and hole pair, so for that, so there is no free charge, being the active layer, so you need to have DA interface, this interface will give you the separation, okay, so so the yeah, so the exciton can only dissociate at the DA interface, yeah, and due to the low mobility of the the organic semiconductor material, you cannot make two bilayer structure because if the exciton for example is generated here, the diffusion lens is very small because of the mobility is small, okay, it can only diffuse 10 nanometer, before reaching this if this is 100, this at least 50, right, so bilayer structure does not work for OPV because the exciton will recombine, okay, so we use a very unique structure called bulk heat junction, so in organic OPV, we just mixed donor and acceptor, don't make a P layer and a layer, but make a mixture because there's solution, right, I just put organic dissolve organic donor and acceptor into the same solvent, making a mixture of the solvent, then call it, so with inside this active layer, there will be a bulk heat junction, so the bulk heat junction, so bulk heat junction can create a lot of interface, okay, a lot of DA interface for exciton dissociation, another one is it can so the it can reduce the diffusion lens that needed for exciton, okay, so this will significantly increase the efficiency of OPV, so this is basically we want to understand the nano structure and the within so this very disorder system to to see how how can we improve organic solution, efficiency, okay, yeah, so this is for OPV, for current status it's low cost production, actually it's not really true, okay, low cost means potentially this material is cheap, but now since it's not going to mass production, a little bit of the donor and accept material is so expensive, so only like several thousand for dollar Hong Kong dollar for several milligram, okay, very expensive, even more expensive than gold, okay, flexibility, so this is a very so so OPV organic material are flexible, okay, so it has great potential to
+和空穴对，所以对于这种情况，活性层中没有自由电荷，因此你需要有一个 DA 接面，这个界面会实现分离，好吗？所以，嗯，激子只能在 DA 接界面解离，对。而且由于有机半导体材料的迁移率较低，你无法形成两层结构，因为如果激子例如在这里产生，由于迁移率很低，扩散长度非常短，好的，它只能扩散10纳米，在到达这里之前，如果这里是100，这里至少是50，对吧？所以双层结构不适用于OPV，因为激子会复合。好的，所以我们采用一种非常独特的结构，称为体热结。在有机光伏器件中，我们只需将给体和受体混合，不要分别制成P层和N层，而是制成混合层，因为是溶液，对吧？我只把有机材料，也就是有机给体和受体，溶解在同一种溶剂中，制成溶剂混合物，然后称之为……所以在这个活性层内部，会形成一个体热结，所以这个体热结，所以，体相电荷势垒可以形成大量界面，对吧？大量供体-受体界面，用于激子解离。另一个是，它可以……所以它可以减少激子所需的扩散层，好的，所以这会显著提高OPV的效率。因此，我们基本上需要了解纳米结构以及其中的……这个非常无序的系统，看看我们如何改进有机溶液，效率，好的。是的，这是针对OPV的。就目前而言，它具有低成本生产的优势，实际上并不完全是这样。好的。所谓低成本，可能是指这种材料价格低廉，但现在由于它还没有实现量产，捐赠材料和受体材料都相当昂贵，几毫克的价格可能就要几千港元。好的，非常昂贵，甚至比黄金还贵。好的，柔韧性，所以这些有机材料非常……非常柔韧。好的，所以它具有很大的潜力来……
+[2:04:39]
+  Speaker 4
+made into flexible device or even stretchable device, and it's also very lightweight, should be able to coat on any kind of surface, for example like EV application, so. I mean if you coat the photovoltaic material on the rooftop of the electric vehicle, okay, you can have a self-sustainable vehicle, okay, yeah, so this is a future future, okay, I think, yeah, so this is a OPV, challenges low efficiency, right, it's record efficiency around 20%, it's good, but still not as good as crystalline silicon and also perovskite, okay, stability is also an issue, it will suffer from photochemical degradation, okay, so it will limit its life span, so trying to encapsulate it and blocking the driving force can partially solve this, and mechanical strength actually is a well, it's not that robust, but it can be flexible, so it's maybe not the kind of it's a disadvantage, so in OPV, okay, so then well, I think I'm running too slow, maybe I so then for perovskite, okay, perovskite is this writing star, so basically it's naming after a Russian mineral, largest perovskite, his family is perovskite, okay, and it's a it's a name of a crystal structure, so any crystal structure have this kind of a cubic shell and then inside it there is an octohedral, okay, so the chemical formula is ABX3, this is called perovskite crystal structure, and then for solar cell application, we should we need to have on this ABX structure, we need to have on the A side a large cation, can be organic one or inorganic cesium rubidium, the large one, to support the outshell pseudo the the lead or tin highlight, highlight means chlorine bromine or iodide, okay, so these kind of thing to form this octohedral to support this framework to make the crystal structure stable, okay, so the advantage of perovskite is band gap ideal and widely tunable, okay, and absorption coefficient is very high, raw material really cheap, okay, so perovskite is really cheap, even in the lab scale it's cheap, okay, diffusion lens very good, so
+制成柔性器件，甚至可拉伸器件，而且非常轻薄，应该能够涂覆在任何类型的表面上，比如电动汽车应用，所以。我的意思是，如果你把光伏材料涂在电动汽车的车顶上，就可以让车辆实现自我可持续供电。对，是的。所以这是未来的一种应用，好吧，我觉得是的。这是一种OPV，面临的挑战是效率低，对吧？目前的效率记录约为20%。这已经不错了，但仍然不如晶体硅和钙钛矿。稳定性也是一个问题，它会受到光化学降解。好的，所以这会限制它的寿命。因此，尝试对其进行封装并阻断驱动因素，可以在一定程度上解决这个问题。机械强度其实不太好，它不够坚固，但可以是柔性的。所以这也许不算是一种缺点。那么在OPV中，好吧，那……我觉得我讲得太慢了。也许我……那么，对于钙钛矿，好吧，钙钛矿是这个写得像星星的东西，所以基本上它是以一种俄罗斯矿物命名的，最大的钙钛矿，它的家族就是钙钛矿，好的，这是一个晶体结构的名称，所以，任何这种晶体结构都有一个立方壳，而内部是一个八面体，好吗？所以，化学式是 ABX₃，这称为钙钛矿晶体结构。然后，对于太阳能电池应用，对于这种 ABX 结构，我们需要 A 侧有一个较大的阳离子，可以是有机的，也可以是无机的，比如铯、铷，大的那种，用来支撑外层的伪……铅或锡的亮点。“highlight”指的是氯、溴或碘离子，好的，所以这些物质会形成八面体，支撑这个骨架，使晶体结构稳定。好的，钙钛矿的优点是带隙理想且可广泛调节，吸收系数非常高，原材料非常便宜。所以钙钛矿非常便宜，即使在实验室规模上也很便宜。扩散透镜非常好，所以……
+[2:07:26]
+  Speaker 4
+defect tolerance very high, so we can mix a lot of component of ABX to tune band gap, it can be solution concept, the one of challenges lead is toxical, right, so so we try if we want to replace lead to tin, efficiency wise is not good, so this is still a problem, then the stability, long-term stability of perovskite solar cell is not as high as silicon, okay, so they show you that if you change A from FaMa to some difference and then lead, then change for different highlight the band gap can go from 1.2 to 3.5, widely tunable, okay, so structure of perovskite well, it's similar to silicon, you still have active layer, then the both electro, so you need to have on diff both side, okay, a whole transport layer and the electron transport layer to reduce the recombination and facilitate facilitate the charge extraction, okay, yeah, I trying to finish at 8:45 so that we can have some, yeah, right time for the exam, okay, pendant, okay, for tandem, basically the idea is, yeah, well, we already get it, okay, so we will have we we we will have only a right band gap cannot be very small, okay, very small, then then the a lot of energy is so voltage is get lost smaller, right, but if the band gap is small, you have absorb a lot of light, but voltage get lost, it is very large, large portion of light is not absorbed, okay, so the good thing is for tandem solar cell, we just stack more than one cell, with different band gap, okay, we always will put a large band gap cell at the front side, okay, so let the light first pass through, the large band gap cell can only absorb the light with larger energy, okay, the the light with smaller energy will pass through, okay, pass through, and will further get absorbed by a small band gap cell, so by this way we can absorb larger portion of solar spectrum, so theoretically the calculation, so you can see the efficiency go from 33 to 45 if you can stack more than like two, if it become if you stack even three cell, you can further improve
+缺陷容忍度非常高，因此我们可以混合大量 ABX 组分来调节带隙，它可以采用溶液概念，挑战之一是铅有毒，对吧？所以我们尝试用锡代替铅，但效率方面并不理想。所以这仍然是一个问题。然后是稳定性，钙钛矿太阳能电池的长期稳定性不如硅基太阳能电池，好吗？所以他们向你展示了，如果你把 A 从 FaMa 改成某种差异，然后是铅，那么，改变A，带隙可以从1.2到3.5，具有广泛的可调性，好吗？那么，钙钛矿的结构呢，嗯，它和硅类似，仍然有活性层，然后两边都有电极，所以你需要两边都有，好吗？一个完整的传输层和电子传输层，以减少复合并促进电荷提取，好吗？对。我尽量在8点45分结束，这样我们就有足够的时间，对，对，考试，好吗？待会儿，好吗？对于串联结构，基本上，这个想法是，嗯，我们已经明白了，好，所以我们只能……好，好，好，我们只能……带隙不能太小，好的，非常小，那么大量的能量就会……电压会损失得更多，对吧？但如果带隙很小，你吸收了大量光，但电压损失很大，很大一部分光没有被吸收，好吗？所以，串联太阳能电池的优点是，我们只需将多个带隙不同的电池堆叠起来，好吗？我们通常会把带隙较大的电池放在正面，这样光先通过……大带隙电池只能吸收能量较大的光，而能量较小的光则会透过，好吗？通过，并会被带隙较小的电池进一步吸收。这样，我们就能吸收更大一部分太阳光谱。所以从理论上计算，如果你能堆叠超过两层左右，效率可以从33%提高到45%。如果把它叠成三层，甚至三层，你还可以进一步提高效率。
+[2:10:10]
+  Speaker 4
+the increase the efficiency, so this is tandem, okay, tandem can connect by series connection, so this is the idea, so so simplest case is you just stack two solar cell, stack them mechanically, okay, but this way the wiring when it's not good, so you mechanical stacking, you don't need to have current matching, but it's expensive and has very complex wiring, ideally you want to series only have two terminal, but then how to fabricate this recombination layer to connect this top and bottom layer is tricky, and a lot within this same circuit, the current need to be the same, okay, so you need to have current matching, so making sure that this area for the. Large band gap, so the current of that created by the large band gap cell and the current created by the low band gap cell, the current should be the same, so they then it works for two terminal, tandem, okay, so here just show you some current record, okay, it's already like if you stack perovskite silicon, this is the most popular one on the market, because silicon is mature, so then you coat an additional layer of perovskite onto it, give you an increase of more than 20%, why not, okay, so recent the long G can produce a world record of the perovskite silicon tandem, most I don't know, I also have other type of tandem, okay, okay, so yeah, sorry, I think I'm running too slow, just six minutes for my my research, okay, yeah, so for my research, as I said, I'm a physicist, okay, so this field is an interdisciplinary field, chemist trying to synthesize some new molecule, new organic semiconducting molecules, engineer trying to fabricate high efficiency devices, what can physicists do, okay, so physicist for me, okay, I'm trying to understand the microstructure within this light absorb absorbing active layer, okay, for example, how does these molecule stack into crystal structure to affect the charge transport mobility, and how does the donor acceptor molecule fit separate into different size of men, to facilitate excellent dissociation
+提高效率，所以这就是串联，好吗？串联可以通过串联连接，这就是原理。所以，最简单的情况就是把两个太阳能电池堆叠起来，机械地把它们叠放，好吗？但这样布线不理想。所以，机械堆叠不需要电流匹配，但成本很高，而且布线非常复杂。理想情况下，串联只需要两个端子，但如何制造这个复合层来连接上下两层却很棘手。在同一电路中，电流需要保持一致，所以你需要进行电流匹配。所以要确保这个区域用于……大带隙，所以大带隙电池产生的电流和小带隙电池产生的电流，电流应该相同，这样它们就能在两终端串联结构中正常工作。好，这里只是给大家展示一些电流记录，好。如果把钙钛矿和硅叠起来，这已经是市场上最受欢迎的组合，因为硅技术已经成熟，所以你再在上面涂一层钙钛矿，就能提升20%以上，为什么不呢？好。所以最近，Long G 可以创下钙钛矿-硅串联电池的世界纪录，最高……我不知道。我还有其他类型的串联结构。好的，好的，所以，抱歉，我觉得我讲得太慢了。我的研究只有六分钟。好的，是的，关于我的研究，正如我所说，我是一名物理学家。所以这个领域是一个跨学科领域。化学家试图合成一些新分子、新的有机半导体分子，工程师试图制造高效率器件，那么物理学家能做什么呢？好。所以，对我来说，物理学家，嗯，我试图了解这个光吸收、吸收活性层内部的微观结构。比如，这些分子如何堆叠成晶体结构，从而影响电荷传输和迁移率，以及供体和受体分子如何分别以不同尺寸排列，以促进高效的电荷分离。
+[2:12:45]
+  Speaker 4
+on and charge transport, so this is to understand microstructure, and then go to perovskite, it is a perovskite crystal structure, right, but ideally it look like this, but actually in the real case, there's always some distortion, you can go from alpha phase, beta phase, gamma phase, or the perovskite phase collapse into photo inactive, delta phase, so we want to understand what kind of process can cause these kind of change, okay, so then basically this is to characterize the microstructure, so the expertise of my group is trying to use so-called X-ray or neutron scattering, to understand the microstructure, so I I don't know the character for characterization, but have you learned diffraction, diffraction, not yet, okay, so this is a reciprocal space technique, okay, reciprocal space, so you do a forward transform of a real space periodic structure going to reciprocal space, then you can see different peak, okay, corresponds to the normal direction of this flex, okay, so that I, yeah, I have shown so many formula, but of course no time to explain it, so here I just want to emphasize that our X-ray scattering or diffraction technique is in a very unique geometry, it's called grazing incidence, okay, so with the X-ray, or neutron is shining with very small angle with respect to the thin field, for X-ray diffraction is large angle, okay, this small, when you have this so-called grazing incidence, very small angle, so you from the detector, okay, the the detected image, you can have both structure in the in-plane, okay, the structure ordinance in within the in-plane direction, and also out of plane direction, because this is a thin film, and the charge transport is in the vertical direction, so that's why we are interested also in out of plane direction, okay, so simultaneously we can collect in-plane and out of plane three-dimensional direction using this grazing incidence geometry, okay, and another advantage of this kind of technique is we can easily tune the probing
+以及电荷传输，所以这需要理解微观结构，然后转到钙钛矿。它是一种钙钛矿晶体结构，对吧？但在理想情况下，它看起来是这样的，但实际上，在实际情况中总会存在一些畸变。你可以从α相、β相，γ相，或者钙钛矿相坍缩成光活性较低的δ相。因此，我们希望了解什么样的过程会导致这些变化。好的，那么基本上，这是为了表征微观结构。我们小组的专业知识是尝试使用所谓的X射线或中子散射，来理解微观结构。所以，我，我不太清楚这个术语，不过你们学过衍射吗？衍射，还没有，好吧。所以这是一种倒易空间技术，好吗？倒易空间。也就是说，你对实空间中的周期性结构进行正向变换，得到倒易空间。然后你可以看到不同的峰，好吗？它们对应于这个晶格的正常方向，好吗？所以，我，嗯，我展示了这么多公式，但当然没有时间解释它们。所以在这里，我只想强调，我们的X射线散射或衍射技术采用了一种非常独特的几何配置，称为掠入射。好的，所以X射线或中子以相对于薄膜表面非常小的角度入射，对于X射线衍射来说，是大角度，好的，这个很小。当采用所谓的掠入射时，角度非常小。所以，从探测器得到的，呃，探测图像，你可以同时获得面内结构，呃，平面内的结构取向，以及出平面方向的结构取向，因为这是一个薄膜，电荷传输方向是垂直方向，所以我们也很关注出平面方向，好吗？所以，我们可以同时使用这种掠入射几何结构来收集面内和面外三维方向的数据，好吗？这种技术的另一个优点是，我们可以轻松调节探测……
+[2:15:40]
+  Speaker 4
+landscape by just changing the the diffraction angle, okay, so here this technique grazing incidence W means wide, wide angle X-ray diffraction, we are collecting wide angle scattering, because it the detector is closer to the sample, so you can diffract it, and wide angle G wax, so in because this is reciprocal space, G wax can measure small feature, like angstrom level feature, okay, then if you will push the detector far away from sample, the collected scattering angle becomes smaller for this W change to S, S, okay, small angle, small G sex is collecting relatively larger size feature, like nanometer or tens of nanometer feature, so from this one technique we can collect multi landscape, microstructure, and understand the physics on inside it, okay, so for that, let me see where I should, yeah, I should continue finish this slide, then then I just jump through everything, okay, yeah, so a little bit quick review about what diffraction can give you, okay, call can we understand crystal structure, okay, so crystal structure basically is if you have a periodic arrangement of atom in the real space, in our real life, this atom are like for example prostate, they are stacked into three-dimensional periodic structure, okay, so then go to reciprocal space, okay, so the diffraction can tell you the reciprocal space feature, okay, for example, so if we find a crystal plane, okay, crystal plane of 111 means that, well, I think, yeah, so a crystal plane is you you you can draw a a plane of an array of periodic atoms, crystal plane, okay, this crystal plane can have a interplanar distance of, well, it's that, well, I think I don't have enough time to talk about why this is 111, okay, but this crystal plane can go to reciprocal space, will become a dot in the reciprocal space, a plane, a set of crystal plane with similar indices of HKL, okay, 111 correspond, so corresponds to a a dot in the reciprocal space, okay, and then another set of crystal plane with similar indices HKL
+通过简单地改变衍射角就可以调节探测……，好的，这里这种技术中的 grazing incidence W 表示宽……，宽角 X 射线衍射，我们采集的是宽角散射，因为探测器更靠近样品，所以可以对其进行衍射，还有宽角 G wax，所以在倒易空间中，G-WAX 可以测量小尺寸特征，例如埃级特征，好吗？那么，如果你把探测器移得离样品更远，所收集的散射角就会变小。W 变为 S，S，好的。小角度，小 G 量级的 X 射线会收集相对较大的特征，例如纳米级或数十纳米级的特征。所以，通过这一技术，我们可以获取多尺度、微观结构，并了解其中的物理机制，好吗？因此，让我看看该从哪里……对，我应该继续完成这张幻灯片，然后……然后我就把所有内容都跳过，好吗？对。那么快速回顾一下衍射能为我们提供什么。我们可以了解晶体结构，好吗？所以，晶体结构基本上就是指原子在真实空间中的周期性排列，在我们的现实生活中，这些原子，比如说，就像前列腺，它们堆叠成三维周期性结构，好吗？那么接下来进入倒易空间，好吗？所以，衍射可以告诉你倒易空间的特征。例如，如果我们找到一个晶面，111晶面意味着，嗯，我想，对，所以晶面就是你，你可以画出一个由周期性原子阵列构成的平面，晶面，好的，这个晶面可以具有一个晶面间距，嗯，就是那个，嗯，我想我没有足够的时间来解释为什么这是（111），好吧，但这个晶面可以进入倒易空间，会在倒易空间中变成一个点，一个平面，一组具有相似 HKL 指数的晶面，好的，111 对应，所以它对应于倒易空间中的一个点，好的，然后另一组具有相似 HKL 指标的晶面……
+[2:18:25]
+  Speaker 4
+in the direct lattice can correspond to another point O2 point in the reciprocal space, okay, so this is a three-dimensional forward transform, okay, I think Professor Lee will tell teach you this in the it must start it, have you learned this, not yet, yes, imagine it, great, okay, so so then so if we go to G wax, okay, so if we in the G wax we see it's a polycrystalline sample, so then this dot have the the orientation is arid out, so then this dot will become a ring with different radius, okay, so so 111 111 ring will be the like the the shape that is close to the origin of reciprocal space, and then you have OO2, and then higher releases, each of these peak corresponds to a set of crystal plane in the real space, okay, and and then we can convert it to interplanar planar distance and so on and so forth, then if you have some orientational order, okay, if the this dot a crystal become larger okay so then so these kind of ring will concentrate into brackets okay so for some of the my research we have the not just ring we have you see this black spots basically are folding this three-dimensional reciprocals into a 2D face okay because here I just don't skip to the yeah this QR so basically we're plotting QR not QX and QY so that's why it is a little bit different from conventional XRD okay yeah so just give you an example about cross guide pattern if there's no orientation order they are all rings this crystal structure but if this crystal are oriented in different ways for example so these crystal plans will correspond to these kind of structure okay so different orientation of peak concentrate at different orientation tells you the orientation of the crystal structure. Yeah. OPV, organic molecule, can also pack into crystal structures, so this is a film of Y6, Gmax Y6, you can see also. These kind of black pink tells you how does this organic molecule pack into other structure.
+在实空间晶格中，另一组具有相似指数 HKL 的晶面可以对应于倒易空间中的另一个点 O2 点，好的，所以这是一个三维正向变换，好的。我想李教授会教你们这个。它必须开始。你们学过这个吗？还没有。好，想象一下。很好。好的，那么，如果我们看 G 瓦克斯，好的，如果我们看 G 瓦克斯，我们会看到这是一个多晶样品，所以这些点的取向是随机的，因此这些点会形成不同半径的环，好吗？所以，111 111 环会呈现一种靠近倒易空间原点的形状。然后是 O2，还有更高阶的。这些峰中的每一个都对应着实空间中的一组晶面，好吗？然后我们可以把它转换成晶面间距等等。那么，如果你有一些取向有序性，好的，如果这些点，也就是晶面，变大了，那么这些环就会集中成括号。在我们的一些研究中，我们不仅有环，你们也看到了这些黑色斑点。基本上，它们是把三维倒易空间折叠成一个……二维面，好吗？因为这里我并没有直接跳到，嗯，这个 QR。所以基本上我们绘制的是 QR，而不是 QX 和 QY，这就是为什么它与传统的 XRD 有点不同，好吗？嗯，我给大家举一个关于交叉引导图案的例子，如果没有任何……取向顺序，它们都是环状的，属于这种晶体结构。但如果这些晶体以不同的方式取向，例如，这些晶面就会对应于这种结构。好的，峰的不同取向集中在不同的取向上，就能告诉你晶体结构的取向。对。OPV，有机分子，也可以排列成晶体结构。所以这是Y6的薄膜，Gmax Y6，你们也可以看到。这些黑色和粉色的图案告诉你，这种有机分子是如何排列成其他结构的。
+[2:18:59]
+  Speaker 4
+Okay, I think I need to jump to them. We can also do in-situ to look at the crystallization, uh, movie to understand how does the phase change. Do the G-sex filling, small angle filling, to understand the size of amorphous phase and crystalline phase, the nanoscale domain change for these. These are two theoretical. We can use neutron to tune up the, uh, amorphous phase contrast, okay, to understand the within the amorphous amorphous phase, are there short range order.
+好的，我想我得切换到它们。我们也可以进行原位观察，通过结晶电影来了解相变是如何发生的。进行 G-sex 填充、小角填充，以了解非晶相和晶相的尺寸，以及这些相的纳米尺度畴的变化。这些是两个理论。我们可以利用中子来调节，呃，非晶相的对比度，好，以了解非晶相内部的非晶相，是否存在短程有序结构。
+[2:19:16]
+  Speaker 4
+And then combine all of them to get a very comprehensive understanding of the bulky junction structure. We also develop some new technique to understand the vertical size. Yeah, okay, so that's it.
+然后将它们结合起来，对这种大块接合结构有一个非常全面的认识。我们还开发了一些新技术，以了解垂直尺寸。好的，就是这样。
+[2:19:17]
+  Speaker 4
+Great. Uh, yeah, we have time to, um, so for the quiz. So that is for the lecture.
+很好。呃，对，我们有时间来，嗯，关于测验。所以，这是关于讲座的内容。

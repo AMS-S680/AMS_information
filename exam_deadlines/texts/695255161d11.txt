@@ -1,0 +1,1116 @@
+=== PAGE 1 ===
+相图与金属陶瓷材料
+日期
+2026年10月6日 18:34
+语言
+英语 → 中文
+时长
+2小时21分19秒
+段落
+553 句
+So you can see we have, um, if you look at these two, we have over 40 groups okay so they're relatively definitely more than 40 titles for you to choose from, right? So we're going to have a preview of it. We don't have to do any actions; just, uh, maybe discuss this with me, or, uh, I'll start thinking about which one we may do instead of being selecting.
+所以你可以看到，嗯，如果你看这两个，我们有超过40个小组，好吧，也就是说，你绝对有40多个标题可供选择，对吧？所以我们会先给大家预览一下。我们不需要采取任何行动；只是，呃，也许和我讨论一下这个，或者，呃，我会开始考虑我们可能会选哪一个，而不是进行选择。
+Okay, and, uh, the other week the other week which is next week we will finalize the selection title and time, and this will include the done during the class next week. Our TAs will be here to coordinate that, okay, so make sure you and your groupmate are seated together and in the class, right, next week. Okay, this is important. I will send an announcement as well from that board to remind you guys.
+好的，呃，上周，也就是下周，我们会最终确定选题和时间安排，这包括下周课堂上要完成的内容。我们的助教会在这里协调这件事，好吗？所以请确保你和你的组员下周上课时坐在一起，好吗？好的，这一点很重要。我也会在公告板上发一条通知，提醒大家。
+And tomorrow we will also see a sample one available in Blackboard. Right, they will be very clear instructions on how to submit your sample one, so in brief there will be a question set uploaded in Blackboard. You can view it online, and you are going to answer those questions and you have written in a piece of blank sheet paper which you will then upload back to Blackboard as a e-submission. Okay, so the format requirements, deadline, they will all be posted.
+明天我们还会在 Blackboard 上看到一个可用的示例。好的，关于如何提交你们的示例作业，会有非常明确的说明。简单来说，一套题目会上传到 Blackboard。你们可以在线查看，回答这些问题，然后把答案写在一张空白纸上，再以电子提交的形式上传回 Blackboard。好的，格式要求和截止日期都会发布。
+On the Blackboard there will be a section called Assignment, right, so just clicking there have everything. Okay, so, uh, just be aware to check your Blackboard announcements tomorrow. Okay, all right.
+在 Blackboard 上会有一个名为“作业”的部分，对吧？只要点击那里，所有内容都会显示出来。好的，呃，请记得明天查看 Blackboard 的通知。好的，行。
+No questions? Let me, uh, switch back to the lecture.
+没有问题吗？让我，呃，回到讲座上来。
+So by the way, um, I see some feedbacks about, uh, the metal mechanical properties. Which, uh, some of you may have not learned before.
+顺便说一下，嗯，我看到一些关于金属力学性能的反馈。其中一些内容你们可能以前没学过。
+So, uh, I slightly revised this lecture note by adding three more pages around here. Okay, so from page 8 to page 11, uh, page 10 I put a note over the top, right corner, right. These are newly added pages.
+所以，呃，我对这本讲义稍作修改，在这里又加了三页。好的，从第8页到第11页，呃，我在第10页的右上角加了一条注释，对吧。这些是新添加的页面。
+Um, for your reading only, so it explains what is subtility what is resilience and toughness and what is hardness. Okay, so just these three pages. In case you, uh, you wonder what they are, right, these were supposedly undergrad content so they're not part of the assessment of this course.
+嗯，仅供你们阅读，所以它解释了什么是韧性、什么是抗冲击韧性、什么是硬度。好的，就这三页。以防你们，呃，想知道这些内容是什么，对吧，这些原本应该是本科生的内容，所以不计入本课程的考核。
+But of course when we talk about activity we assume you already know that, so this is something in case you don't know or you need some recap you can go back and read it. Okay, this updated version is already in the Blackboard. If you download now you will see these three more pages, right.
+不过，当然，当我们谈到活动时，我们假设你们已经知道了，所以这是给你们的，以防你们不知道，或者需要复习一下，你们可以回去读一读。好的，这个更新版本已经上传到 Blackboard 了。如果你现在下载，就会看到另外这三页，对吧。
+The other are just the same, but page numbers will be automatically updated. Okay, so something you should not miss. Okay, if you have any questions about these you can also approach me, okay, but I won't, uh, talk to them again for this course.
+其他的都一样，但页码会自动更新。好的，这是你们不应该错过的内容。好的，如果你们对这些有任何疑问，也可以来找我。不过，呃，这门课我不会再跟他们讲了。
+Where were we? Over here.
+我们讲到哪儿了？在这里。
+Right. So remember, let me do a quick recap, right, because last week we were talking about Phase V which was, um, somewhat somewhat abstract, right. So Phase Diagram if you recall it's a map, usually made of two coordinates, out of three, parameters, right. So it's either temperature let's see, right, so it's either temperature pressure or composition. And usually what we are seeing in most cases are temperature versus composition.
+对。所以，记住一下，我来快速回顾一下，好吗？因为上周我们讲的是第五阶段，嗯，这个阶段有点……有点抽象，对吧。所以，如果你还记得，相图是一张地图，通常由三个参数中的两个坐标构成，对吧。所以，它要么是温度，让我看看，对吧，要么是温度、压力或组成。通常，我们看到的大多数情况都是温度与组成之间的关系。
+Okay, so you have two coordinates, and the content in the middle, right, the entire 2D area is the map which, right, when people have this map they already pretty much figure out every point. Of course they don't have to really measure every point, but usually they just define the boundaries and they know where it's the whole picture. Okay, so this diagram is a way for us to know some information about something, right, especially when we have remember this simple example of two components, right, copper and nickel, and we have a mixture of two elements, right, they're visible alloys, and we have a processing condition which is temperature, and we want to figure out what will be the temperature that we can cool down the solid first, and at different conditions at different compositions, different substances, what will be my position in the graph, what will be the composition or components of the system. Right, so we can figure out information about first of all what are the phases that are present, and what are the composition of each phase, and what's the ratio or percentage of the two phases. Right, so we go through this example, right, and we realize there are two important rules: first of all is this the second question of the phase composition, called Tie Line, right, so we're never our coordinate land in a region where there are two phases.
+好的，所以你有两个坐标，中间是内容，对吧？整个二维区域就是这张图。对吧？有了这张图，人们基本上已经弄清楚了每个点。当然，他们其实不必测量每个点，但通常只需确定边界，就知道整个图像是在哪里。好的，所以这张图是一种让我们了解某物信息的方式，对吧？尤其是当我们记住这个由两种成分组成的简单例子时，对吧？铜和镍，以及由这两种元素组成的混合物，对吧？它们是可观察的合金，我们有一个加工条件，也就是温度。我们想知道，在不同的条件、不同的成分和不同的物质中，冷却到固体状态时的温度是多少。我在这个图中的位置会是什么，这个体系的组成或组分会是什么。对，所以我们可以了解：首先，存在哪些相、各相的组成是什么，以及两种相的比例或百分比是多少。好，我们来看这个例子，好吗？我们会发现有两个重要的规则：首先是相组成问题的第二个问题，称为相界线，对吧？所以，我们的坐标永远不会落在存在两个相区的区域。
+Right, this is alpha plus liquid, so that's two phases. Whenever we are locating a point inside this region we draw a horizontal line that we'll call that we'll call section with our boundaries by two points. Right, and we read the core composition of these two points, we get the corresponding composition of the two phases, right, within this one, and we just read the x-axis, okay, and the entire line, you know, we'll do another thing, right, so it's the fraction of the two phases, and you need to be aware that this is the mass fraction. Okay, mass fraction. So we're not only know within each phase what is the composition of my nickel or copper, I also know that these two phases what are their relative ratio, right, with their combination is one, then their fraction will be smaller than one, right, so I want to know how much is liquid, how much is alpha, we can do the lateral, right, so the lateral rule is basically measuring from the point of our interest to the intersection distance, right, the two distances. Right, and the distance over the overall intersection length is, it will give us two approaches corresponding fractions.
+对，这是α相加液相，所以是两相。每当我们确定这个区域内的一点时，就画一条水平线，我们称之为截线，它由两个点与边界相交。对，我们读出这两个点的成分，就能得到这两个相在其中的对应成分，对吧？然后我们只需读出 x 轴，好，还有整条线，你知道，我们再做一件事，对吧？所以这是两相的分数，你需要注意，这是质量分数。好的，质量分数。所以，我们不仅知道每个相中镍或铜的组成，也知道这两个相的相对比例，对吧，它们的总和为一。那么它们的分数就会小于一，对吧？所以我想知道液相占多少，α相占多少，我们可以做横向的，对吧？所以，截距法基本上就是从我们关注的点到交点的距离，对吧，也就是这两个距离。对，距离与总交点长度之比，会得到两个相应的方法分数。
+And we will also wanting to emphasize that it is about point, right, either closer or farther to which phases, so for example if we're talking about liquid portion, right, we're using it's closer to the liquid line, so we know there are more liquids, right, so in terms of the mass that means we're using the longer fraction over the overall length, right, so it's not the personally shorter one, it's actually the other side, that is used, right, and for the alpha phase which is where the point is farther from, right, we're using a smaller fraction, so it's the reverse side, right, if you're check carefully the letters here, they will tell you the corresponding position. Okay, so this is something quite important for you to know, right, so in the real world sometimes we're not dealing with a simple liquid plus solid case, right, most of the time the real world we're more concerned when there are two solids, what are the ratios. Right, so we want to tune the ratio or we want to know the ratio that's something you should be aware of, how to draw a pie line, how to use the letter rule to figure out the all these fractions and combinations.
+我们还要强调，这是关于点的，对吧，也就是它更靠近或更远离哪个相。例如，如果我们讨论液相部分，对吧，我们用它更靠近液相线，所以我们知道液相更多，对吧？从质量的角度来看，这意味着我们要使用较长的那一段与总长度之比，对吧？所以不是较短的那一段，而是另一边。这是用的，对吧？而对于阿尔法相，也就是点距离较远的那一相，对吧，我们使用较小的分数，所以是反面，对吧？如果你仔细看这里的字母，它们会告诉你相应的位置。好的，所以这一点你们必须清楚，对吧？因为在实际应用中，有时我们处理的并不是简单的液相加固相的情况，对吧？在现实世界中，大多数时候我们更关注两种固体时它们的比例是多少。对，所以我们需要调整这个比例，或者需要知道这个比例。这是你们应该掌握的，如何画饼图的线。如何运用字母法则来计算所有这些分数和组合。
+All right, and we also briefly talk about the term called the development of microstructure, right, so be aware this is a technical term you should read them together. So this is a specific subject for people to understand how the micro domains or brains will gradually formed when the system is cooled down from totally liquid to a multi-phase multi-component alloy or something similar. Right, so in this case it's rather straightforward, right, you start from one single liquid and eventually become one single solid, right, so it's all there, and in a even for this simple case, right, things are not always so ideal, right, as in the cooling rate cannot be as slow as we want, right, in the real world the actual cooling rate that we use are generally much faster than the equilibrium condition cooling, so they will end up to have a uneven solidification process where the nucleation usually starts with high concentration of the one of our target for example in this case nickel, right, target composition, and this composition of the nucleate this core will be gradually changing as the solidification goes on, or say as the microstructure develops. Right, and eventually after the full cool down it will end up to have this centric gradient in terms of the concentration, right, so the outer part and the middle part they don't happily satisfy our perfect letter rule, as in John Knorr here, right, but their average their cumulative average or the outer result should be the same, right, because what the content doesn't change, but if we start from 35 we have to end up 35, right, overall, right, so the overall composition will always be the same, that's the beauty of a baseline plane.
+好的，我们还简要提到了一个叫作“微结构演变”的术语，对吧？所以要注意，这是一个专业术语，你们应该一起阅读。所以，这是一个具体的研究课题，旨在让人们了解，当系统从完全液态冷却到多相、多组元合金或类似材料时，微区或晶粒将如何逐渐形成。对，所以在这个例子中，情况相当简单，对吧？你从单一的液相开始，最终形成单一的固相，对吧？所以这一切都在那里。即使对于这个简单的例子，对吧，事情并不总是那么理想，对吧？因为冷却速率不可能像我们希望的那样慢，对吧？在现实世界中，我们实际采用的冷却速率通常比平衡条件下的冷却速率快得多。所以，最终会形成一个不均匀的凝固过程，其中成核通常会从目标成分之一的高浓度开始。例如，在这种情况下，目标成分是镍，对吧？随着凝固过程的进行，或者说随着微观结构的发展，这种作为成核核心的成分会逐渐发生变化。对，最终在完全冷却后，浓度会形成这种中心梯度，对吧？所以外层和中间部分并不完全满足我们的完美字母规则，就像这里的约翰·诺尔，对吧，但它们的平均值、累积平均值或最终结果应该相同，对吧？因为含量不会改变，但如果从35开始，最终也必须是35，对吧？总体上，对吧，所以整体成分始终是相同的。这就是基线平面的美妙之处。
+Okay, and we also talk about some more complicated systems, like so for example we can have one solid become two solids, right, that's the second way, and we will also have sorry, we'll have one liquid turn into two solids which is the second tip, right, so these two words are quite similar to remember you remember them correctly. Okay, and also have some less common one called paratactic, okay, and here we're also showing one case of one liquid directly becoming two solids, in case of problems over phase diagram, so you can see that they have first of all a pure solid region when the copper content that's our the silver content is very, very small, right, the high temperature, and at almost no silver, right, copper dominant, we have beta phase, right, and in the major region of this graph it's two phase coexisting, right, two phase coexisting, and we also have vertical line, sorry, a horizontal line, that is separating the pure solid to the solid liquid mixture and to pure solid, so that means we can imagine this is pretty much the eutectic point, or at least in more general terms you can consider this as a melting point where solidification point, but as in before that, above that we still have partial solids, right, only when the ratio is exactly this point, right, which is a eutectic point, right, we can have a direct conversion of liquid to solids, right, there's no coexistence, if I'm cooling down 71.9% silver alloy, right, in the system, there will be no coexistence of solid and liquid, okay, because there's no faster region, right, if I go down here there's a faster region, if I go down here there's a faster region, nothing here, right, so ideally this is the special point, the eutectic point, okay, and for eutect point it's it's very common in another famous system, how we make steel, right, so iron carbon system is a more complicated one as you can see, we have we also have two liquids, so here remember for all the phase diagram, the temperature is high now, everyone will be liquid,
+好的，我们也会讨论一些更复杂的体系。比如，一种固相可以变成两种固相，对吧？这是第二种方式。我们也会有，抱歉，我们会有一个液相变成两个固相，这是第二个提示，对吧？所以这两个词很相似，要记住，你们要正确记住它们。好的，还有一种不太常见的，叫作“paratactic”。这里我们也展示了一种情况：一种液体直接变成两种固体。在涉及相图的问题中，所以你可以看到，首先，当铜含量，也就是银含量非常非常低时，存在一个纯固相区，对吧？高温下，几乎没有银，对吧，铜占主导。我们有β相，对吧？在这张图的主要区域，是两种相共存，对吧，两种相共存。我们还有竖线，抱歉，是一条横线，它将纯固相与固液混合相以及纯固相分开，所以这意味着我们可以把它大致看作共晶点。或者至少更笼统地说，你可以把它看作熔点，也就是凝固点，但就像之前说的，在它之上，我们仍然有部分固相，对吧？只有当比例恰好达到这一点时，对吧？这是一个共晶点，对吧？我们可以实现从液相直接转变为固相，对吧？不存在共存。如果我冷却这个体系中71.9%银合金，对吧？固相和液相就不会共存。好的，因为这里没有共存区，对吧？如果我往下到这里，这里有一个共存区；如果我往下到这里，这里有一个共存区。这里什么都没有，对吧？所以理想情况下，这就是一个特殊点，即共晶点，好的。对于共晶点，它在另一个著名的体系中很常见，也就是我们如何炼钢，对吧？所以铁碳体系更为复杂，正如你们所看到的，我们也有两种液体，所以在这里，记住，对于所有相图，现在温度很高，所有物质都会是液态。
+right, so that's always there, but when we cool down, right, there are several kinds of solids, right, we have this Austen night, we have this iron carbide, and we also have this alpha phase, right, so that means if we look closely, for example over here, we can find a point where we change from one solid to two solids, right, so none of them are the same, right, so there's no buffer as well, so the cool down from Austen night to this alpha plus iron carbide or polysemitide, right, these two phases, right, so this is what we say called eutect cold point, eutect cold point, okay, all right, and if you want to look for eutectic point, we also have one, right, just look for liquid, right, liquid according to two solids, it has to be here, right, so that's our eutectic point, eutectic point, okay, and let me go back, so we also have introduced relatively abstract content about degree of freedom, right, so basically when people are given a phase diagram, people try to figure out, right, what is the thing that we can change, so out of the four parameters that may have this formula, right, we're more interested in the mass and the equation, right, so in most of the cases when we're given a point we can fix this these two vectors, the number of components that are given when you are given a phase diagram, right, usually there are two, okay, and we also have number of non-composition variables, n, which is also usually given, right, when the phase diagram is given you're usually told what is the pressure, and when the point is fixed you also can read a fixed temperature, right, so these are usually fixed, and we end up to having a changing F value based on a changing p value, right, so how many phases were there in that particular region, we tell you how much freedom do I have from a particular point of interest, okay, so that's all you need to know for this equation, okay, we won't go any farther for that, yeah, this is beyond this course here, okay, and we also talk about
+对，所以它总是存在的。但是当我们冷却时，对吧，就会有好几种固相。我们有奥氏体，有铁碳化物，还有α相，对吧。所以这意味着，如果我们仔细观察，比如这里，我们可以找到一个点，在这个点上，我们从一种固相转变为两种固相，对吧？所以它们并不相同，对吧？因此也没有缓冲区。所以，从奥氏体冷却到这个α相加铁碳化物，或者共晶点，对吧，就是这两个相，对吧。这就是我们所说的共晶点，共晶点，好，好。如果你想找共晶点，我们这里也有一个，对吧？只要找液相，对吧？液相根据两个固相，必须在这里，对吧？所以这就是我们的共晶点，共晶点，好。让我回到刚才的内容。我们还介绍了相对比较抽象的自由度内容，对吧？所以基本上，当人们拿到一个相图时，会试图弄清楚，对吧，我们可以改变什么。所以，在这个公式可能涉及的四个参数中，我们更关注质量和方程，对吧？所以在大多数情况下，当我们给定一个点时，我们可以固定这两个向量。给定一个相图时，会给出多少个组元呢？通常有两个，好的。我们还有非组成变量的数量 n，它通常也是已知的，对吧？给出相图时，通常会告诉你压力是多少。当这个点固定时，你也可以读出一个固定的温度，对吧？所以这些通常是固定的，最终得到的 F 值会随着 p 值的变化而变化，对吧？那么，在那个特定区域中有多少个相？我们告诉你，从某个感兴趣的点出发，我有多少自由度。好，这就是你用这个方程需要知道的全部内容。好。我们不会进一步讲这个，对，这已经超出本课程的范围了，好吗？我们还讨论了……
+phase transformation, and more importantly, right, some real examples of how we make steels of different kinds, right, so if we take the eutect cold point for example, remember eutect cold point, this is where you have this is not working, when you have Austen night phase, right, changing to alpha, which is actually a ferrite phase, and to this iron carbide semitide, right, so we try to get used to these strange terms, right, technical terms, semitide, Austen phase, right, they're quite common, actually quite commonly used, right, during steel or metal industry, so so we start from Austen night, you know, load in color, and when they when they're cooling down, right, two phases are simultaneously formed in the sandwich structure, right, and they're just ideally, right, it's growing together, right, now when we're at different cooling rates, however, right, a real world is they're not always growing in the same speed, so you may end up with different kinds of mixtures of the two phases, right, so ideally it's like that, right, in this case there will be so so in these two phases, both of these main regions are still made from this sandwich, but the bone grease, right, the bone grease could be made from either one of the phases, right, in this case, right, this is the alpha phase, right, this one will be the carbon iron carbide, so because iron carbide is more rigid, so when people draw it, right, they draw it as if it's a they're really straight, and parallel lines, and for the alpha phase it's more irregular, right, so you can see how people try to distinguish these two, okay, so they call these two a name called is per light, right, per light, this is when we have a sandwiched grain and with a boundary made from one of these two materials, one of these two phases, and we also have something called the band night, is when we have alternating alpha and iron carbide like that, where this iron carbide are like elongated plates, right, and they're sandwiched in between,
+相变，更重要的是，对吧，还有一些实际例子，说明我们如何制造不同种类的钢，对吧。比如，以共晶点为例，记住共晶点，这里这个讲不通：当奥氏体相，对吧，转变为α相时，α相实际上就是铁素体相，再转变为铁素体片状组织，对吧。所以我们要试着熟悉这些奇怪的术语，对吧，也就是技术术语：铁素体、奥氏体相，对吧？它们其实很常见，在钢铁或金属工业中经常使用，对吧。所以，我们从奥氏体开始，对吧，加载成色，然后随着它们冷却，对吧，两种相会同时形成这种夹层结构，对吧，理想情况下，对吧，它们会一起生长，对吧。不过，对吧，实际冷却速率不同，对吧，它们并不总是以相同的速度生长，所以最终可能会得到两种相的不同组合，对吧。理想情况下就是这样，对吧。在这种情况下，对吧，这两种相中，这两个主要区域仍然由这种夹层组成，但铁素体，对吧，铁素体可以由这两种相中的任一种组成。在这种情况下，对吧，这是α相，对吧，这个则是碳化铁。因为碳化铁更坚硬，所以人们画它时，对吧，会把它画成好像是一些笔直、平行的线条；而α相则更不规则，对吧。所以你可以看到，人们是如何区分这两者的，对吧。所以他们把这两种相称为“per light”，对吧。per light，就是当晶粒被夹层隔开，晶界由这两种材料中的一种组成，也就是这两种相中的一种组成时。另外，我们还有一种叫“band night”的组织，就是α相和碳化铁像这样交替出现，其中碳化铁像细长的片状物，对吧，它们被夹在中间。
+okay, and we also have martensite, which is very unstable meta phase, where we say transition phase, that can be formed when we rapidly cool down, when we say rapidly cool down we call it quench, right, quench means to cool it rapidly, okay, rapid cooling, right, and it will form a metastable body center tetragonal phase, like that, it is not stable and not not wanted, right, but but typically people can still make good use of it by having a repeating process, so they can become tampered, martensite, so tampering is usually when we reheat something to a certain temperature, but it's below way, way below, it's melting point, so it's not like re-melting, right, it's less heating to a certain level, so they have some diffusion process, right, and they can we can end up to have a fine carbide particles embedded in the alpha phase, which become then useful, okay, so we also listed some mechanical properties, right, for your information, right, so all these fine names, right, they do have a different application scenario, sometimes you want a material to to be ductile, so they don't break suddenly, but sometimes you want them to have the alchemy strength, right, so you you need to balance to properties, okay, so the best part of today lecture about metals, you know, quite a number of videos, right, so you can sit and relax, there's not much intense content for like calculation or math, okay, now, so for metal processing, before we start, we need to first of all talk about the brief category changing, right, so for the big categories is whether we have iron or not, right, so if we have iron we call them ferrous, right, so well, iron is a major component, right, so they are either steels, right, which have a lot of subcategories, and or because irons when we have a higher carbon content, okay, and all the other alloys that are not dominant by iron, we call them non-ferrous, okay, so it's straightforward, you may you may see this ferro term, right, quite a lot in many cases,
+好的，我们还有马氏体，它是一种非常不稳定的亚稳相，也就是过渡相。当快速冷却时，它就会形成。我们所说的快速冷却，也叫作淬火，对吧？淬火就是快速冷却，对吧？快速冷却后，它会形成亚稳的体心四方相，像这样。它并不稳定，也不太理想，对吧？但通常人们仍然可以通过重复处理来充分利用它，使它变成回火马氏体。所谓回火，通常是指将材料重新加热到一定温度，但这个温度远低于熔点，所以它并不是重新熔化，对吧？只是加热到一定水平。因此，它们会发生一些扩散过程，对吧？最终可能会在α相中嵌入细小的碳化物颗粒，从而变得有用。好的，我们还列出了某些机械性能，供你们参考。对吧？所以，所有这些专业名称，对吧？它们确实有不同的应用场景。有时你希望材料具有延展性，这样它就不会突然断裂；有时你又希望它具有较高的强度，对吧？所以你需要平衡这两种性能。好的，今天关于金属的讲座最棒的地方是，你知道，视频数量相当多，对吧？所以你们可以坐下来放松，因为这里没有太多涉及计算或数学的密集内容。好的，现在，关于金属加工，在开始之前，我们首先需要简单讲一下分类变化，对吧？大类取决于是否含有铁，对吧？如果含有铁，我们就称它为铁基材料，对吧？铁是主要成分。它们要么是钢，对吧？钢有许多亚类；要么是铁基材料，也就是碳含量较高的铁合金。好的，所有这些材料都很简单。你们可能会在很多情况下看到“ferro”这个词。
+for example, we have ferromagnetic, right, so these are all kind of iron, right, or iron-like, right, ferromagnetic is because the magnetic property is like iron, or iron oxide, right, so when you see ferro, you you ring a bell, so that's pretty much about Fe or iron, okay, so so let's look at some examples, for steels, right, we have if we generally just distinguish them by the amount of carbon, we can have low carbon, medium carbon, high carbon, very straightforward, right, these these kinds of steels, right, so the low carbon one is the one that we use most.
+例如，我们有铁磁性的，对吧，所以这些都是铁类的，对吧，或者类铁的，对吧，铁磁性是因为磁性像铁，或者氧化铁，对吧，所以当你看到ferro的时候，你你想到什么了吧，所以这基本上就是关于Fe或者说铁，好吧，那我们来看一些例子，对于钢来说，对吧，我们如果一般只是按碳的含量来区分它们，我们可以有低碳、中碳、高碳，非常直接，对吧，这些类型的钢，对吧，所以低碳的那种是我们用得最多的。
+right? The largest quantity goes to this low-carbon steel. All right. And they're typically ferrite or perlite, and they're made from many, many structural materials like the body of a bridge, the body of the auto mobiles, and the body of all those things which are holding weight, right?
+对吧？最大数量的是这种低碳钢。好的。它们通常是铁素体或珠光体，由许多许多结构材料制成，比如桥梁的主体、汽车的主体，以及所有那些承重物体的主体，对吧？
+They're standing there, they're bulky, their servicing for long term, right? So we have all kinds. For example, a famous one we call HSLA steel, that's a high-strength, low-alloy—when I say low-alloy, they're returning to carbon, right?
+它们就立在那里，体积庞大，要长期维护，对吧？所以我们有各种各样的。例如，有一种著名的我们称之为HSLA钢，那是高强度低合金——当我说低合金时，它们又回到碳，对吧？
+Low-carbon alloys. But people always use low-alloy, medium-alloy, high-alloy as a short name. Right?
+低碳合金。但人们总是用低合金、中合金、高合金作为简称。对吧？
+So be, be aware when they say low-alloy, it's talking about carbon content. Okay? So low, uh, low-alloy steel. Okay? And for medium-carbon steels, right, we also have a specific carbon content range.
+所以要注意，当人们说低合金时，其实说的是碳含量。好吗？所以，呃，低合金钢。好？而对于中碳钢，对吧，我们也有一个特定的碳含量范围。
+And they're usually tempered martensite. We'll just talk about, right, martensite can make a steel face, but tempered martensite is actually a good one. It's good strength. Right? So they're typically used for railway wheels, right, and all the other tracks or track trucks, right, things like that.
+它们通常是回火马氏体。我们只是要说，对吧，马氏体可以使钢变脆，但回火马氏体实际上是一种好的组织。它的强度很好。对吧？所以它们通常用于铁路车轮，对吧，以及所有其他的轨道或轨道车，对吧，诸如此类的东西。
+And, uh, by the way, these, uh, applications, right, you don't have to memorize each one of them, right? Because they're constantly updated and, uh, there's no point in making, uh, memorizing them. Okay? So just, just to give an idea about roughly what are the category or scenarios that they may be used in.
+而且，呃，顺便说一下，这些，呃，应用，对吧，你不必把每一个都记下来，对吧？因为它们不断更新，而且，呃，记住它们也没有意义。好，可以吗？所以，只是，只是大致介绍一下它们可能会被用到的类别或场景。
+Okay? And then we have high-carbon steel, right, which is, um, usually up to 1.4% of carbon.
+明白吗？然后是高碳钢，对吧，通常含碳量高达1.4%。
+Right? So among the three, among the three, they are the hardest and the strongest. But they're also least ductile. Right? So they're typically made into small, uh, uh, pieces or, uh, small settings.
+对吧？所以在这三种中，它们是最硬、强度最高的。但它们的延展性也最差。对吧？所以它们通常会被制成小块，呃，呃，或者，呃，小件。
+When they're servicing, uh, at a, uh, for example, a cutting tool, right, or, uh, scissors, all things like that, right, when they are not unlikely going to be undergoing a lot of, uh, uh, pressure or, uh, this, uh, undergoing fatigue issues, right? So you don't need to worry about that.
+当它们在服役时，呃，比如说，一把刀具，对吧，或者，呃，剪刀之类的，对吧，它们不太可能承受很大的，呃，呃，压力，或者，呃，这个，呃，会受到疲劳问题的影响，对吧？所以你不用担心这个问题。
+Okay? So these are just, uh, examples of some ferrous alloys. And I need to particularly emphasize the special kind, right, which we, uh, pretty much all familiar with, is the stainless steel. And the stainless steel doesn't have a specific requirement on the carbon content. But it does have a very iconic feature: it is content of some soaring metals. And to be specific, chromium, right, has the star soaring metal, right?
+明白吗？所以，这些只是，呃，一些铁合金的例子。我尤其需要强调一种特殊的，对吧？我们，呃，基本上都很熟悉，那就是不锈钢。不锈钢对碳含量没有特定要求。但它确实有一个非常显著的特征：它含有某些高含量的金属。具体来说，铬，对吧，就是那种“ soaring metal”，对吧？
+So typically the content of chromium can go up to 11% or even higher. Even higher. And sometimes there are also nickel and molybdenum, right?
+所以，通常铬的含量可以达到11%，甚至更高。甚至更高。有时也会加入镍和钼，对吧？
+But there's always a lot of chromium. Right? So this steel is particularly made to undergo long-term service and under high, relatively high pressure, uh, temperature, without being corroded. Right? So they're corrosion, they're just, right, highly corrosion resistant.
+但总是含有大量的铬。对吧？所以，这种钢是专门为长期服役而设计的，能在高压、相对较高的温度下使用，而不会腐蚀。对吧？所以它们耐腐蚀，就是说，对，它们具有很高的耐腐蚀性。
+So well, if we really go through the phase diagram, we can talk about this stainless steel for a day. But let me just try to give you an idea. Let me use this one for example. So let's say the one without chromium looks like this.
+所以，如果我们真正深入研究相图，就可以整天讨论这种不锈钢。不过，我先试着给大家一个大概的概念。我以这个为例。所以，假设不含铬的那个是这样的。
+So what is happening to a stainless steel is that these extra chromium, right, when they solidify, people will undergo some, uh, specific heat treatment process. So these big atoms of chromiums, they will come off to the phase boundaries like that.
+所以，不锈钢的变化是，这些额外的铬，对吧，当它们凝固时，人们会进行一些，呃，特定的热处理工艺。所以这些大的铬原子会像这样迁移到相界面上。
+Right? So like that.
+对吧？所以就像那样。
+Right? So all these soaring metals, they will force to accumulate and at the boundaries. And these boundaries become the shield, so any chemical invasion. So when there are things that could corrode or could react with iron, these chromium or the other metals, they will come out.
+对吧？所以，所有这些飙升的金属都会被迫在边界处积累。这些边界就会形成屏障，从而抵御任何化学侵袭。所以，当有能腐蚀铁或与铁发生反应的物质时，这些铬或其他金属就会析出。
+They will, they will react first. And they're usually highly resistant as well. So these become the, uh, uh, the shields that preventing, right, any other corrosion to come closer to our main body, which is made from iron.
+它们会先发生反应。而且它们通常也具有很高的耐腐蚀性。所以这些会成为，呃，呃，防护罩，防止其他腐蚀物质靠近我们的主体，而主体是由铁制成的。
+Okay? So if we if people ask you, right, "Is this a uniform alloy?" It's not, right? The major part, the major grains are still iron and carbon. But the grain boundaries, what's where the attack, attack of these chemicals usually take place first, are crowded with some chromium-based alloys, which is actually doing the corrosion-resisting job.
+明白吗？所以，如果有人问你，对吧，“这是均匀的合金吗？”不是，对吧？主要部分，也就是主要晶粒，仍然是铁和碳。但晶界——这些化学物质通常首先发生侵蚀的地方——布满了某些铬基合金，而正是这些合金起到了耐腐蚀的作用。
+Okay? So hope, uh, making this clear.
+明白吗？所以，希望，呃，把这一点讲清楚。
+Okay? So in terms of carbon content, or in terms of space, iron, they could be, they could be either way, right? Could be martensite, ferrite, or it could be austenite. Right? And you're pretty much already familiar with some of these examples of this stainless steel.
+好吗？所以，就碳含量或空间而言，铁可以是这样，也可以是那样，对吧？可能是马氏体、铁素体，也可能是奥氏体。对吧？你们对这些不锈钢的例子已经相当熟悉了。
+And for example, if we're talking about food, safety, right, so people need to people need to at least stick to the 3.304. Right? That's the AISI number people assigned basically.
+比如，说到食品安全，对吧，人们至少需要坚持使用304不锈钢。对吧？基本上，这是分配给每个人的 AISI 编号。
+They give the specific steel a name. So we all follow that standard procedure, right? So how this, uh, 304 stainless steel is made, right?
+他们给这种特定的钢材起一个名称。所以我们大家都遵循这个标准流程，对吧？那么，呃，304不锈钢是怎么生产的，对吧？
+So we have a very specific content requirement. So this is international standard. Okay?
+所以我们对成分有非常具体的要求。所以这是国际标准。明白吗？
+And we also even have the magical, right, biomedical grades.
+我们甚至还有那些神奇的，对吧，生物医学等级。
+Magical.
+神奇的。
+Right? So this is also peptide. That means it can be actually part of the implant in a human body.
+对吧？所以这也是肽。这意味着它实际上可以成为人体内植入物的一部分。
+Right? So they're totally free of heavy metals, or other kinds of things that could damage the body. They'll be 316L. Right? So these two are rather commonly used. Right? Of course, if we're talking about weaponry, where they need to have very good wear resistance, right, and probably very high temperature service, right, we need to go for 4 series, right, 410 or 440A. Okay? 440A can go all the way to surgical tools.
+对吧？所以它们完全不含重金属或其他可能损害人体的物质。它们将是316L。对吧？所以这两种材料相当常用。对吧？当然，如果谈到武器装备，需要具有非常好的耐磨性，对吧，而且可能还要在非常高的温度下服役，对吧，我们就需要选择4系不锈钢，对吧，比如410或440A。明白吗？440A甚至可以用于手术器械。
+Right? So, uh, things that can cut bones, for example. Right? So that's the, uh, typical numbers, right?
+对吧？比如，呃，可以切割骨头的工具。对吧？所以，这些就是，呃，典型的数据，对吧？
+So, uh, if you want to get familiar with it.
+所以，呃，如果你想熟悉一下。
+Okay? Now, from now it's ferrous. Right?
+明白吗？现在，从现在开始是黑色金属。对吧？
+From now it's ferrous, uh, we won't go through all the details. Right? But just to give you an overview, we have a quite large family, uh, non-ferrous metals as well.
+从现在开始，我们讲的是黑色金属。呃，我们不会逐一讲解所有细节。对吧？不过，为了给大家一个概览，我们还有一个相当庞大的家族，呃，有色金属。
+Right? And for aluminum alloy, they're mostly known for their low density. Right? So in the past, most of our window frames and all these sports gears, they were made from aluminum alloy.
+对吧？铝合金主要以其低密度而闻名。对吧？所以过去，我们的大部分窗框和所有这些运动装备都由铝合金制成。
+Some are steel, made from aluminum alloy, and all this, because they're not quite cheap. But for high-end ones, people start to switch to carbon fiber reinforced products. Which is basically so whatever wherever we're using carbon fiber reinforced fiber, they're last generation is usually aluminum alloys.
+有些是钢制的，有些是由铝合金制成的，诸如此类，因为它们并不便宜。但对于高端产品，人们开始转向碳纤维增强材料制成的产品。也就是说，无论我们在哪里使用碳纤维增强纤维，它们的上一代通常是铝合金。
+Right? So they're very similar. They're also quite corrosion-resistant.
+对吧？所以它们非常相似。它们还具有相当好的耐腐蚀性。
+Yeah. But, yeah, still not as white as carbon. Okay?
+对。不过，还是没有碳那么白。明白吗？
+And for copper-based alloys, they're typically known to be soft and ductile. So these are very complex shaped metals. Which does not have to be a structural part.
+铜基合金通常具有柔软且延展性好的特点。所以，这些金属具有非常复杂的形状。这不一定是一个结构部件。
+Right? You can choose copper alloys. Right?
+对吧？你可以选择铜合金。对吧？
+And we also have, uh, magnesium alloy.
+我们还有，呃，镁合金。
+Which is also a light structural metal. Right? So these two, they're also both are good for structural materials.
+它也是一种轻质结构金属。对吧？所以这两种材料都适合作为结构材料。
+Right? And nowadays, we have some hot categories. For example, titanium.
+对吧？如今，我们有一些热门类别。例如，钛。
+Titanium is known to be, uh, ultra-strong. Right? And ultra-resistant.
+钛被认为，呃，非常坚硬。对吧？而且极其耐腐蚀。
+But the, the, uh, uh, the processing, the fabrication methods are usually expensive. Right? So they're usually found in some high-end, uh, uh, uh, machine, uh, metal, uh, products.
+但是，呃，呃，呃，它的加工、制造方法通常成本很高。对吧？所以它们通常出现在一些高端的，呃，呃，呃，机械，呃，金属，呃，产品中。
+For example, aircraft, in aerospace components. Or some high-end, uh, uh, metalwares. Right?
+例如，飞机、航空航天部件。或者一些高端的，呃，呃，金属制品。对吧？
+Like, uh, bottles and some, uh, musical instruments. Or sometimes even some alloys for bio, uh, vacations. Right?
+比如，呃，瓶子和一些，呃，乐器。或者有时甚至是一些用于生物，呃，假期的合金。对吧？
+They can make from titanium. Okay? And, uh, for nickel ones, right, typically they're known to be corrosion-resistant.
+它们可以用钛制成。明白吗？呃，至于镍制的，对吧，通常它们以耐腐蚀著称。
+Right? So that's, uh, some of the examples. And for noble metals, like gold, silver, right, platinum, right, gold, silver, platinum, right, jewelries. Right? So you should be familiar with that.
+对吧？所以，呃，这些就是一些例子。至于贵金属，比如金、银，对吧，铂，对吧，金、银、铂，对吧，珠宝。对吧？所以你应该熟悉这些。
+Right? So noble metals are typically known to be resistant to corrosion. And also soft.
+对吧？所以，贵金属通常被认为具有耐腐蚀性。而且也很软。
+And ductile. Right? So some of the features.
+而且具有延展性。对吧？所以，就是其中的一些特性。
+Okay? And we also have super alloys. Right? Which is, uh, particularly designed for extreme oxidizing and high temperature conditions.
+明白吗？我们还有超级合金。对吧？这种合金是，呃，专门为极端氧化和高温条件设计的。
+Right? Like those turbine, which could be going to delve into degrees. Right?
+对吧？比如那些涡轮机，温度可能会达到数千度。对吧？
+For a long time. And they're also continuously undergoing mechanical force. So that's somewhere they may be made from. Right? We also have refractory metals, which is for, uh, those metals are particularly good for high temperature melting.
+很长一段时间。而且它们还会持续受到机械力的作用。所以，它们可能就是由这些地方形成的。对吧？我们还有难熔金属，呃，这些金属特别适合在高温下熔化。
+Right? If you need something to be metal, and they want, they want to go it shouldn't melt over very high temperature. Right? We call them refractory metals. Or refractory materials. Okay?
+对吧？如果你需要某种东西是金属，而且它们想要，它们想要让它在非常高的温度下都不熔化。对吧？我们称它们为难熔金属。或者难熔材料。明白吗？
+So these are just some, some of those, uh, on this table. Right? So yeah.
+所以，这些只是这张表上的一些，呃，那些材料。对吧？所以，是的。
+Just for your information. Right? No worries.
+仅供您参考。对吧？没关系。
+We don't have to, like, memorize all this stuff. Okay.
+我们不用像，比如说，把这些东西全都记住。好的。
+Okay. So we finally come to fabrication. Okay? So fabrication tells us how we can make all kinds of metal products.
+好的。那么，我们终于讲到制造了。好吗？所以，制造工艺告诉我们如何制作各种金属制品。
+Right? So these are very traditional ones. Right? But you should all know it. But before we talk about advanced ones, we should at least know what are the current, uh, state-of-the-art methods.
+对吧？所以这些都是非常传统的。对吧？但你们都应该知道。但在讨论更高级的方法之前，我们至少应该了解目前最先进的方法有哪些。
+Right? So in bigger categories, right, we have five kinds. Right? For some of them, right, they're not just for metal.
+对吧？所以按大类来说，对吧，我们有五种。对吧？其中一些，对吧，不只是用于金属。
+This particular type should also work for other kinds of material as well. So once we've learned that in metal, in ceramics, and polymers, we'll save a lot of time. Okay?
+这种类型也应该适用于其他类型的材料。所以，一旦我们掌握了金属、陶瓷和聚合物中的情况，就能节省很多时间。明白吗？
+So let's go through these. Uh, procedures, one by one. So forming. Forming is talking about how we can change the metal product's shape to different kinds.
+那么，我们来逐一讲解这些。呃，我们逐一讲解这些程序。那么，形成。成形是指如何将金属制品的形状改变成不同的类型。
+Mostly by plastic deformation. Right? Mostly by plastic deformation. So as you can see here, we have generally four, uh, kinds or ways of changing the shape.
+主要是通过塑性变形。对吧？主要通过塑性变形。所以，正如你们在这里看到的，我们通常有四种，呃，改变形状的类型或方式。
+Right? Making the shape. Right?
+对吧？塑造形状。对吧？
+Forging, rolling, extrusion, and drawing. Okay. Let's see.
+锻造、轧制、挤压和拉拔。好的。我们来看一下。
+Right. So for forming, the basic idea is we apply a force. We make it undergo plastic transformation.
+对。所以，成形的基本思路是施加力。我们让它发生塑性变形。
+Uh, plastic deformation. Plastic deformation is under control. Right? We give it a mold, or we give it some pressure, so it can only deform as we, as we want it.
+呃，塑性变形。塑性变形处于可控状态。对吧？我们给它一个模具，或者施加一些压力，这样它只能按照我们的要求变形。
+And you can imagine we do so. Temperature usually high. So that they're not super cold or super hard.
+你可以想象，我们会这样做。温度通常很高。这样它们就不会太冷或太硬。
+Right? They're soft, like chewing gums. Right?
+对吧？它们很软，像口香糖一样。对吧？
+So we can pull them. You can reshape them. It's all different kinds. Okay?
+这样我们就可以把它们拔出来。你可以把它们重新塑形。它们都是不同的种类。明白吗？
+Now, based on the temperature, which is always a high temperature. Right? Whether the temperature is above or below its recrystallization temperature, we have hot working and cold working. Okay?
+现在，基于温度，温度始终很高。对吧？温度高于还是低于再结晶温度，我们就有热加工和冷加工。明白吗？
+If you recall, last we talked about, uh, strengthening mechanism. We have the hammer, working on a sword. Right? Which is, uh, which is hot bread.
+如果你们还记得，上次我们讲了，呃，强化机制。我们有锤子，正在加工一把剑。对吧？也就是，呃，热腾腾的面包。
+Right? And that's roughly, uh, a half, uh, melted. Right?
+对吧？大概，呃，融化了一半。对吧？
+But that's not completely liquid. It's just softened. Right?
+但那还没有完全变成液体。它只是软化了。对吧？
+Softened piece. So that's an example. Right?
+软化了的块状物。所以这是一个例子。对吧？
+Of, uh, uh, of, uh, of working on a piece of metal. Right? So based on these temperature, we can distinguish them by hot or cold. And based on the kind of tools we use, the kind of machinery that we design, we can have these four kinds.
+，呃，呃，呃，呃，加工一块金属。对吧？所以，根据这些温度，我们可以把它们区分为热的或冷的。根据我们使用的工具类型和设计的机械类型，我们可以分为这四类。
+Right? Forging, rolling, extruding, and drawing. Let me see.
+对吧？锻造、轧制、挤压和拉拔。让我看看。
+We have mediums. That would be more straightforward. Right.
+我们有中等材料。那样会更直接。对。
+We have mediums for each one of them. Yeah. So we don't go over it.
+我们有每一种的介质。对。所以我们就不讲过了。
+Let's see. Okay. Now, first one, forging.
+我们来看看。好的。现在，第一个，锻造。
+Right? So forging is simply having a mold. But now we don't call mold.
+对吧？所以，锻造就是简单地使用模具。但现在我们不叫模具。
+We call it die. Right? It's a none now.
+我们称之为模具。对吧？现在是“非”。
+Right? It's not a verb. That's not the one you're probably thinking of right now.
+对吧？它不是动词。那可能不是你现在想到的那个。
+Right? So it's, it's a mold. Right?
+对吧？所以，它是一个模具。对吧？
+It's a closed mold. Where you can squeeze, you're softened, metal raw material inside. So this is already softened rod when it's squeezed.
+这是一个封闭式模具。你可以挤压，里面的金属原料会软化。所以，当它被挤压时，这已经是一根软化的棒材了。
+It will be forced to take the shape of this container. Right? We call it die.
+它会被迫采用这个容器的形状。对吧？我们称之为模具。
+By the way. This die could be something that can open. So it allows it to go in.
+顺便说一下。这个模具可以是能够打开的某种东西。所以它能让它进去。
+But it then it clamp and close it. Right? And you're, you're material is still pushed inside.
+但它会把它夹住并合上。对吧？而且你的材料仍然被推入内部。
+Right? So it can follow the shape of this dimension. Right?
+对吧？所以它能顺应这个尺寸的形状。对吧？
+And eventually, that becomes something we want. Okay? Let's see.
+最终，它会变成我们想要的东西。明白吗？我们来看看。
+Wait. I need to, uh, push.
+等等。我得，呃，推进一下。
+So the hot piece of metal rod,
+所以，热金属棒的那一段，
+right, the actual process is very fast. Okay? Just now, if you want to see it again, two times the forcing was conducted.
+对，实际过程非常快。明白吗？刚才，如果你想再看一遍，两次强迫作用已经进行了。
+Right? One time, die number one. Die number two.
+对吧？一次，一号模具。骰子二号。
+Right? So you can make the shape.
+对吧？这样你就可以做出这个形状。
+All right?
+明白吗？
+So that's forging. So what is rolling? Rolling is kind of similar, as in we also have two dies.
+所以这就是锻造。那么，什么是轧制？轧制有点类似，也就是说，我们也有两个模具。
+Which is forcing the shape. But unlike sorry.
+也就是迫使材料成形。但与……不同，抱歉。
+Where did I go?
+我讲到哪儿了？
+Right. So rolling is okay. It's not die anymore.
+对。所以滚动是可以的。它不再是“die”了。
+It's two rolls. But something similar. But it's just two, uh, open compression force.
+这是两次掷骰。但类似的东西。但这只是两个，呃，开放压缩力。
+And allows the material to pass through. Right? So this one, it's a dead end.
+并且让材料通过。对吧？所以这个是死端。
+Right? So it's usually work on one end. So you have to cut it.
+对吧？所以它通常在一端起作用。所以你必须把它切断。
+Right? After it's formed, you cut it. And you make another one. Right? Using a new end.
+对吧？它形成后，你就把它切开。然后你再做一个。对吧？用一个新的末端。
+Now, this one is an ongoing process, usually. Right? So when the rolling starts, right, the two rollings are open.
+现在，这通常是一个持续进行的过程。对吧？所以当滚动开始时，对吧，这两个滚动是打开的。
+And this, uh, continuous go through. And you can imagine this can be a continuous process. Right? So you can have another two in many of these industries, this is a continuous process.
+然后这个，呃，连续地通过。你可以想象，这可以是一个连续的过程。对吧？所以在很多这类行业中，你还可以再有另外两个，这是一个持续的过程。
+You have another two roll here. Right? You have another, another two roll here.
+这里还有另外两个辊。对吧？你这里还有另外两卷。
+So they're getting thinner and thinner and thinner. Right? And eventually become a very thin sheet.
+所以它们变得越来越薄、越来越薄、越来越薄。对吧？并最终变成一张非常薄的片材。
+Okay? And probably, at the end of this process, right, they will be made up to rolls like this. Right?
+明白吗？而且可能在这个过程结束时，对吧，它们会被卷成这样的卷。对吧？
+So that's usually how they collect the large, large piece along length of rolls. Okay? So let's see this one.
+所以，通常就是这样沿着卷材的长度方向收集这些大块材料。明白吗？那么我们来看这个。
+Okay.
+好的。
+Okay.
+好的。
+You're going to have to turn this.
+你得把这个转一下。
+Okay.
+好的。
+Roll forming is a process where a metal sheet passes through a series of roll stands that change the sheet's shape. The sheet undergoes what is called a profile bending. Roll form details are very common inter-instance furniture construction and car industry.
+滚轧成型是一种将金属板通过一系列辊式机架，改变其形状的工艺。金属板会经历所谓的型材弯曲。滚压成型细节在模块化家具制造和汽车行业非常常见。
+It is possible to create advanced profile shapes in high-strength materials. And many different materials can be used. All materials that can be bent can also be roll formed.
+可以使用高强度材料制造复杂的型材形状。并且可以使用许多不同的材料。所有可弯曲的材料也可以通过滚压成型。
+Roll forming is gentle on the material. And has a minimum of wear on tools. Today, the roll forming process and the tools are designed in a computer environment before production.
+滚压成形对材料的损伤较小。而且对模具的磨损很小。如今，辊压成型工艺和模具在生产前都会在计算机环境中进行设计。
+Computer simulation is an important tool in order to analyze the roll forming process. Geometry, forming forces, and residual stress are factors that can be monitored in the material. The roll stands are designed so as to allow the material to undergo a gradual shape alteration.
+计算机模拟是分析辊压成形过程的重要工具。几何形状、成形力和残余应力都是可以监测材料性能的因素。辊式矫直机的设计目的是让材料逐渐改变形状。
+Here, the different steps are illustrated in a so-called flower pattern. This is a roll forming machine with six roll stands. It does not have an automatic feeder.
+这里，不同的步骤以所谓的花形图案示出。这是一台有六个辊立辊的辊式成型机。它没有自动送料装置。
+Instead, it is fake manually. More advanced profiles require more roll stands in order to reach a final result. This machine shapes the strip into a simple V profile.
+相反，它是手动操作的。更复杂的型材需要更多道轧机机架，才能达到最终效果。这台机器将带材成型为简单的V型截面。
+Note Okay. Let me pause here. It's a quite long one.
+注意。好的。我在这里暂停一下。这台机器相当长。
+So I'll just show you some idea. You can collect it by yourself. You can find out. Okay. Before I continue, I need to have a quick roll of hand. So, um, some of you guys actually asked me if we can shorten the break.
+所以我只给大家展示一下思路。你可以自己收集。你可以自己弄清楚。好的。在我继续之前，我需要快速点一下名。所以，嗯，你们有些人其实问我，我们能不能把休息时间缩短一点。
+But in the class earlier. So can I see all of your ideas? If we shorten the two breaks, by half, but we end by nine, do you prefer this one or you prefer to do this one?
+但在之前的课上。那我能看看你们所有的想法吗？如果我们把两次休息时间各缩短一半，但结束时间还是九点，你们更喜欢这个，还是更愿意这样做？
+Who wants the new one?
+谁想要新的？
+Okay. I don't need the last old one, I guess. Okay.
+好的。我想我不需要最后一个旧的了。好的。
+Okay. Good. Then let me continue.
+好的。好。那我继续。
+Okay? Because it's all video. So you can enjoy it after all.
+好吗？因为全是视频。所以最后你还是可以欣赏到的。
+Okay. So the third one is extrusion. So let's see what's extrusion.
+好的。第三个是挤出。那么，我们来看看什么是挤出。
+The primary type of hot extrusion is direct or forward extrusion. Indirect extrusion: the hot milling is loaded into a thick wall container. And forced through an extrusion die, secured in a holder.
+热挤压的主要类型是直接挤压，也称为正向挤压。间接挤压：将热轧件装入厚壁容器中。并被强制挤出固定在夹具中的挤压模具。
+The force for extrusion is implied by a ramp, along with an intermediate reusable dummy block.
+挤压力由斜坡以及一个可重复使用的中间垫块提供。
+Metal flow from the die is in the same direction as the forward motion of the ramp. Since the surface of the milling lamp slides along the wall of the container, extrusion force depends on the friction between the milling lamp and the container and the material. The friction portion of the force can be reduced by using lubrication.
+金属从模具中流动的方向与斜槽的前进方向相同。由于铣削灯的表面沿着容器壁滑动，挤压力取决于铣削灯与容器以及材料之间的摩擦。通过使用润滑剂可以降低摩擦力。
+这个是个好地方吗？
+Is this a good place?
+Force increases rapidly as the milling is upset to fill the container.
+随着铣削变形以填满容器，力会迅速增加。
+瞎说。
+Nonsense.
+Then increases further as breakthrough force before extrusion begins. Upon breakthrough, the force declines as milling length decreases until a minimum force is reached.
+然后在挤出开始前，随着突破力的出现，进一步增加。突破后，随着铣削长度减小，力会下降，直至达到最小力。
+其实我有点看不懂。
+Actually, I’m a little confused.
+As the milling thins, the force rapidly rises again to continue metal.
+随着切削层变薄，切削力又迅速上升，以继续切削金属。
+不是，我能看懂。
+No, I can understand it.
+Radially toward the die.
+径向朝向模具。
+其实不一定孤独。
+Actually, it’s not necessarily lonely.
+Resistance to deformation or force requirements increase markedly as the thickness of the buck or unused milling portion decreases.
+随着凸台或未加工铣削部分的厚度减小，变形阻力或所需力会显著增加。
+香港这个方面很恐怖的。比如说。
+Hong Kong is very scary in this regard. For example.
+Hot extrusion is one of the horizontal hydraulic forces.
+热挤压是水平液压力之一。
+然后你如果是男同感性，你对此感兴趣的话，你就去浴池，把你门不关就可以了。然后就非常的乱。其实它门口就卖的有那个HIV组群剂的。卖什么？
+And if you’re attracted to other men and are interested in this, just go to the bathhouse and leave your door unlocked. And then it gets very chaotic. Actually, they sell HIV group agents right outside the door. What do they sell?
+HIV阻断剂。
+HIV blockers.
+Extrusion speed.
+挤压速度。
+门口就那个祠堂门口就卖的有这个。
+They sell it right at the entrance, at the temple gate.
+The extrusion ratio of cross sectional area of the container.
+容器横截面积的挤压比。
+夸张。卧槽。
+Exaggerated. Fuck.
+Divided by the cross sectional area of the die openings.
+除以模具孔口的横截面积。
+Okay. So it's very like how you use your toothpaste every morning. Right? It's a salt raw material which are forced to undergo a very small channel.
+好的。所以这很像你每天早上使用牙膏的方式。对吧？这是一种盐类原料，被迫通过一个非常细小的通道。
+So they're squeezed to be coming out. Right? Very typically small opening.
+所以它们会被挤压出来。对吧？通常开口很小。
+Right? And you typically use it when you want to form something.
+对吧？当你想要成型时，通常会使用它。
+哇，太美好了。
+Wow, it’s so beautiful.
+Roll them too. It's a complicated process.
+把它们也卷起来。这是一个复杂的过程。
+漫画都出来了。
+The comics are already out.
+Okay.
+好的。
+Okay. Just for the sake of this topic, let me finish this one and then we have a break. Okay? So the last one is called drawing. Which is very much like rolling, but the drawing means there is a force that is controlling the X output.
+好的。就为了这个话题，让我先把这个讲完，然后我们休息一下。好吗？所以最后一个叫作“绘图”。这很像滚动，但绘制意味着有一个力在控制 X 输出。
+Okay? So instead of forcing by the rolls, forcing this material to go through, we now purposely pull this outer end. Right? And it's particularly neat when we need to reduce when we try to when we need to reduce the cross section.
+明白吗？所以，我们不再通过辊子强制使这种材料通过，而是故意拉动这个外端。对吧？当我们需要减小截面时，这种方法尤其巧妙。
+Basically, you want to make it thinner. You want it to be smaller. Right?
+基本上，你想让它变得更薄。你希望它更小。对吧？
+You want to make it from a rod to a wire, for example. Right? And this is also done
+比如，你想把它从一根棒材加工成一根线材。对吧？这也是完成的。
+with a drawing process.
+通过拉拔工艺。
+channel to go through.
+要经过的通道。
+Good.
+好。
+Yeah. This is where the drawing takes place. The inside is the depth plane.
+对。这就是绘图发生的地方。内部是深度平面。
+You can see the spin is very fast. Right? So the operator is actually quite dangerous.
+你可以看到旋转非常快。对吧？所以这个操作实际上相当危险。
+You want to make the thinner beam stand away from it. Okay?
+你要让较细的光束远离它。明白吗？
+All right. So let's go ahead and select it. By both.
+好的。那么，我们继续选择它。两个都选。
+Yeah. And they were shipped to elsewhere when they were reused. Right?
+对。它们在被再次使用时，被运到了其他地方。对吧？
+All right. Let me stop here. The rest of this rolling right there.
+好的。我先讲到这里。这里剩下的滚动。
+Okay. Let's take a break. Please come back next time.
+好的。我们休息一下。下次请回来。
+Yeah. It's a.
+好的。这是一个。
+Also, two questions: about
+另外，两个问题：关于……
+the other side is closed, right? It's finished, so the ceiling, however, could be a very long one.
+另一边是封闭的，对吧？它已经完成了，不过天花板可能会很长。
+可以，可以带小抄，我忘记了。
+Yes, you can bring cheat sheets. I forgot.
+right? This is 40. For rolling, it's when you have a feeding, which is already long, and typically into the right, so it's a sheet-like thing.
+对吧？这是40。对于轧制来说，就是材料已经很长，通常向右侧延伸，所以它呈片状。
+That's why we use rolling. And if you recall the video, rolling can also do some shape changing. Like, for example, making a flat one to a V-shaped one, right, while it goes through the not a flat roll, but actually a sharpened angled roll, so you can actually bend your whatever shape, right? So it's open, open feeding and open ending, right?
+所以我们才使用轧制。如果你还记得那个视频，轧制也可以改变形状。比如，把它从平的变成V形的，对吧？它经过的不是平辊，而是一对带有尖角的辊，所以实际上可以弯曲成任何形状，对吧？所以它是开放式进料，也是开放式结束，对吧？
+It can continue to go very long. Okay? And for extrusion and drawing, for extrusion it's when usually you're feeding with a closed end, right? So you have a feeding and then which is typically whatever it is you thought to keep, right, just like you use two space, and in the end you're going to use up, right?
+它可以继续延伸得很长。明白吗？对于挤出和拉伸，挤出通常是用封闭端进料，对吧？所以你有一个进料，然后通常是你要保留的任何东西，对吧，就像你使用两个空间，最后你会用完，对吧？
+So everything squeezed out, this part. So usually the extrusion here, the finishing, it's not so big, right? It's usually small, but somehow complicated piece, right? So it can be a very continuous one because you're going to use up your billet very soon, right?
+所以所有东西都被挤出来了，这部分。所以通常这里的挤出，也就是精加工，不会那么大，对吧？它通常很小，但不知怎么的，却是一个很复杂的零件，对吧？所以它可以是一个非常连续的过程，因为你的坯料很快就会用完，对吧？
+And for drawing, the key difference between drawing and the rolling just now is whether we have this pulling force, right? So drawing is you think this is too slow, right? This thinning process, just by rolling, is too slow.
+对于拉拔，拉拔和刚才的轧制之间的关键区别，就在于是否有这种拉力，对吧？所以，对于拉拔，你会觉得这个过程太慢了，对吧？单纯通过轧制，这种变薄过程太慢了。
+So you actually purposely pull it, right? So when your metal is tactile, when you pull it, it gets net, it gets necking effect, right? So it can get thinner, right? In a faster way. So one side you have dice, it can shrink down, and the other side you also have a force that's forcing this process to be as fast and process.
+所以你其实是故意把它拉出来的，对吧？所以，当你的金属受到拉力时，它会变细，出现颈缩效应，对吧？所以它会变得更薄，对吧？以更快的方式。所以一边有骰子，它可以收缩；另一边也有一个力，促使这个过程尽可能快地进行。
+And also both sides are opening, right? Like you said, it can be very long, production line, right? You go through several series of drawing before it's finally, like, perfect. Okay? So for this part, they have a major suitable category of products, right?
+而且两边都是开放的，对吧？就像你说的，它可能很长，是一条生产线，对吧？你会经过一系列的图纸修改，最终才会变得，比如说，非常完美。明白吗？所以这一部分，他们有一个主要合适的产品类别，对吧？
+So we already listed them there, right? So you need to be aware of these products, sorry, products differences, right? For extrusion, for drawing, and here we have also products, right? There are these particular processes that are used, right?
+所以我们已经把它们列在那里了，对吧？所以你们需要了解这些产品的，抱歉，产品的差异，对吧？对于挤压、拉伸，这里也有产品，对吧？这里使用了这些特定的工艺，对吧？
+So you need to know their typical scenarios of application.
+所以你需要了解它们典型的应用场景。
+Okay? All right. So let's move on.
+明白吗？好的。那么我们继续。
+Remember, just now, those were all parts of forging. So when you have an accidental force to reshape the material, now we move on to casting. Casting is also one of the four categories, I think five categories, but let me try, because we have many new words today, so I hope you are not confused.
+记住，刚才那些都是锻造的一部分。所以，当偶然的力使材料发生变形时，现在我们进入铸造这一部分。铸造也是四大类之一，我想是五类，不过我先试着讲一下，因为我们今天有很多新词，所以希望你们不要混淆。
+So these four are all parts of forming, and for parallel to forming, we have casting, welding, other 3D points. Right? 3D points.
+所以，这四种都属于成形，而与成形并列的还有铸造、焊接以及其他三维点。对吧？三维点。
+So just stay with me. Okay? So we just go through the four kinds of forming. Now let's move on to casting. For casting, based on the material we use, to do the casting, we also have three kinds.
+所以请跟我一起。好吗？那么，我们来逐一讲解这四种成形方式。现在我们来谈谈铸造。对于铸造，根据所用材料，我们也有三种铸造方式。
+Right? Sand casting, die casting, and investment casting. Okay?
+对吧？砂型铸造、压铸和熔模铸造。明白吗？
+So for the first two, we have a specific material name that is actually used as the mold. So what is a mold? It's still something you use to shape your material, right?
+所以，对于前两种，我们有一种专门的材料名称，它实际上被用作模具。那么，什么是模具？它仍然是一种用来塑造材料的工具，对吧？
+But it's usually a much larger and more aesthetic setting, right? So it's something that has accidental shape, right? And when you do that, you pour your liquid, or almost liquid, metal, precursor, right?
+但它通常处于一个更大、更注重美观的环境中，对吧？所以，它是一种具有偶然形状的东西，对吧？当你这样做时，你会倒入液态，或者几乎液态的金属前驱体，对吧？
+When they solidify, within this mold, okay? So you're material for casting, they should at least hold the melt alloy, the melt metal, right? So they should be high melting point material, high melting point material. Right? So we use sand, very often, right, for some typical bulky size alloys, right?
+当它们在这个模具中凝固时，好吗？所以，用于铸造的材料至少应该能够容纳熔融合金、熔融金属，对吧？所以，它们应该是高熔点材料，高熔点材料。对吧？所以我们经常使用砂，对吧？对于一些典型的大颗粒合金，对吧？
+Like cylinder blocks, or pipes, right? Pipe fittings. And for die casting, it's when we in addition to having a shaping by the mold, we also have some pressure that can be applied to the mold.
+比如缸体或管道，对吧？管件。对于压铸来说，除了通过模具成形之外，我们还可以对模具施加一定的压力。
+So that we can force the shape. Okay? So compared to sand one, die usually means we have external energy input, right?
+这样我们就可以强制成型。明白吗？所以，与砂型相比，金属型通常意味着我们有外部能量输入，对吧？
+So sand is usually you make it there, right? They're already there. But for die, you want to force the shape to form.
+所以，砂通常是现场制备的，对吧？它们已经在那里了。但对于模具，你需要强制成型。
+Okay? So there is particularly good if we're talking about these delicate parts, right? Like scrolls, right? Think of that. When they have delicate surface details, and we can because for these two, especially this one, this mold could be a permanent one, right? Could be a permanent one.
+明白吗？所以，当我们谈到这些脆弱的零件时，效果尤其好，对吧？比如卷轴，对吧？想想看。当它们表面有精细的细节时，而我们可以……因为这两个，尤其是这个，这个模具可以是永久性的，对吧？可以是永久性的。
+So that means you can actually reuse it. For many, many, many times, right? So every day you just do the pressing, right?
+所以这意味着你可以重复使用它。很多很多很多次，对吧？所以每天你只需要按压，对吧？
+You do the die casting, right? And you can produce tons of small parts. Right?
+你做压铸，对吧？你可以生产大量的小零件。对吧？
+In a short period of time.
+在很短的时间内。
+And for the last one, investment casting, investment is good for work, right? They're actually talking about sacrifice, casting, which is more so basically you use some external mold material that were meant or intentionally to be discarded after the molding process is finished. So we're typically using wax or polymers, those are these coatable things, right?
+最后一种是熔模铸造。熔模铸造适合加工，对吧？他们实际上说的是失蜡铸造，也就是更确切地说，基本上是使用一些外部模具材料，这些材料在成型过程完成后会被有意丢弃。所以我们通常使用蜡或聚合物，这些是可以涂覆的材料，对吧？
+And they are very good for fine detailed parts. Such as jewelry, dental crowns, right? So other things like turbine blades, right? But you can imagine because of this sacrificial material we use, which is typically cannot be recycled, so we're just talking about much higher cost of fabrication.
+它们非常适合制作精细的细节零件。比如珠宝、牙冠，对吧？所以还有涡轮叶片之类的，对吧？但你可以想象，由于我们使用的这种牺牲材料通常无法回收，所以制造成本会高得多。
+Okay? So let's look at this video of investment casting.
+明白吗？那么，我们来看一下这个熔模铸造的视频。
+Right. People, you can.
+好的。大家，你们可以。
+This is an investment casting foundry for forging molded metal. It's poured into molds and turned into high-strength aluminum and steel castings. So what exactly is investment casting? Also known as precision casting, or lost wax casting, the investment casting process dates back more than 5,000 years.
+这是一家用于锻造金属铸件的熔模铸造厂。它被浇铸到模具中，制成高强度的铝铸件和钢铸件。那么，什么是熔模铸造呢？也称为精密铸造或熔模铸造，熔模铸造工艺的历史可追溯到5000多年前。
+And was used for making art and jewelry over the centuries. Today, investment casting is being seen as the future by many industries seeking lightweight and complex components. It all begins with the production of a wax model or pattern, which is created in the shape of the desired part. However, when time is short, patterns can also be made using 3D printing technologies allowing for rapid prototype castings to be completed much faster.
+几个世纪以来，它一直被用于制作艺术品和珠宝。如今，许多寻求轻量化和复杂零部件的行业都将熔模铸造视为未来发展方向。这一切始于制作蜡模，也就是模样，其形状与所需零件相同。然而，当时间紧迫时，也可以使用3D打印技术制作铸型，从而大大加快快速原型铸造的完成速度。
+Wax patterns are typically made by injecting wax into a metal tool or die. These patterns are attached to a wax tree, also called a screw, which is used for the mold-making process. The wax patterns are then dipped or invested into a liquid ceramic slurry.
+蜡模通常是通过将蜡注入金属工具或模具中制成的。这些蜡模被安装在蜡树上，也称为蜡螺杆，用于制作铸型。然后，蜡模被浸入或包埋在液态陶瓷浆料中。
+After which, fine sand or stucco is applied to the wet surface. The mold is allowed to dry, and the process is repeated a number of times, resulting in a layered ceramic mold. Before pouring metal into the mold, the wax is removed using a flash fire oven, which melts and burns out the wax.
+之后，将细砂或灰浆涂敷在湿态表面上。让模具干燥，然后重复这一过程多次，最终形成多层陶瓷模具。在将金属浇铸到模具中之前，使用闪火炉去除蜡，使蜡熔化并烧掉。
+The mold is then preheated to a specific temperature, to prevent the liquid metal from solidifying before the entire mold is filled. Alloy is melted in a ceramic crucible using a process known as induction and electric resistance melting. When the alloy reaches its specified temperature, it is poured into the mold.
+然后将模具预热到特定温度，以防止液态金属在模具完全充满之前凝固。合金在陶瓷坩埚中采用感应熔化和电阻熔化工艺熔化。当合金达到规定的温度时，将其浇注到模具中。
+And the mold is allowed to cool. Once cool, the shell material is removed from the metal. This is typically done using a hammer or high-pressure water blast.
+然后让模具冷却。冷却后，将壳材料从金属中取出。这通常是用锤子或高压水射流来完成的。
+The parts are removed from the screw, and the gates are removed from the part. The surface can then be finished using belting, grinding, or polishing. The investment casting process produces complex, high-precision components with an excellent as-cast surface finish, often reducing or even eliminating the need for machining.
+零件从螺钉上拆下，浇口从零件上拆下。然后可以使用打磨带、磨削或抛光来对表面进行精加工。熔模铸造工艺可生产复杂、高精度的零部件，铸件表面光洁度优良，通常可减少甚至无需后续机械加工。
+It is often the only way a part can be manufactured economically. For more information about investment casting, visit Barendash Industries.com.
+这通常是经济地制造零件的唯一方法。如需了解有关熔模铸造的更多信息，请访问 Barendash Industries.com。
+So you can imagine this is so this is how people make this automated line of production.
+所以你可以想象，人们就是这样建立这条自动化生产线的。
+Robot arms are replacing so they want to simplify the thing. This could be the other way, investment casting. So when you do the investment casting, you have to make the mold first. And to make the mold, you need to have a fine polished sample product first, right? You coat it with the mold material, and then you take out your mold, and then you pour in your new part.
+机器人手臂正在取代……所以他们想简化这个过程。也可以采用另一种方式，即熔模铸造。所以，进行熔模铸造时，首先必须制作模具。要制作模具，首先需要有一个经过精细抛光的样品，对吧？你用模具材料把它包覆起来，然后取出模具，再把新的零件浇铸进去。
+And then you remove the mold, right? So that's the complexity for investment casting. And by the way, there's people who actually spin polymers but they were not melted more when they melt metal or ink, right?
+然后你把模具取出来，对吧？所以，这就是熔模铸造的复杂之处。顺便说一下，有些人确实会旋转聚合物，但它们熔化时并没有像金属或油墨那样熔化得更多，对吧？
+Because they were safely guarded by sand or some other ceramics which had high melting point, right? They also mentioned that, right?
+因为它们被沙子或其他高熔点陶瓷安全地保护住了，对吧？他们也提到过，对吧？
+Okay?
+Okay?
+All right? So we also have welding and powder mercury, which we won't go through that much detail. We already have quite a number of new categories. But you should know that we do have these two kinds.
+明白吗？所以我们还有焊接和粉末汞，这部分我们不会讲得太详细。我们已经有不少新的类别了。但你应该知道，我们确实有这两种。
+Welding is very easy to understand. It's basically like glue, right? When you connect separate parts together, right? So welding is usually distinguished by the source of the melting or the high-energy welding point, right? So if we use electricity, high voltage, to generate a small electric arc, which you melt, the small point.
+焊接很容易理解。它基本上就像胶水，对吧？当你把不同的部件连接在一起时，对吧？所以，焊接通常根据熔化源或高能焊接点来区分，对吧？所以，如果我们利用电，也就是高压，产生一个小电弧，把小点熔化。
+We call them arc welding, right? If we use flammable chemicals that actually burn the local temperature up, we call them gas welding. And we also have laser beam welding, which use laser as a resource, right? So there could be sometimes, for example, when you weld two parts, right, sometimes you just melt the part itself and you melt two parts and then you just naturally claim together.
+我们称之为电弧焊，对吧？如果我们使用易燃化学物质，使局部温度升高，我们就称之为气体焊接。我们还有激光焊接，它使用激光作为能源，对吧？所以有时候，比如当你焊接两个零件时，对吧，有时你只需要熔化零件本身，把两个零件熔化，然后它们自然会结合在一起。
+This is one kind. The other kind is when you have two ends and you purposely add the third part and then you glue them together like that. It's also possible.
+这是一种。另一种是，你有两个端部，然后特意加上第三个部件，再像那样把它们粘合在一起。这也是可行的。
+All right? So it doesn't go through a detail here. The category here are only focusing on where the heat comes from, right?
+明白吗？所以这里不会详细说明。这里的分类只关注热量来自哪里，对吧？
+So how we categorize the weld. And for powder, naturally, right, judging by its name, we're using powders as the source. All right? So just like how you get what else?
+所以我们如何对焊缝进行分类。至于粉末，顾名思义，我们是以粉末为热源。明白吗？所以，就像你还能得到什么？
+Glaze, right? So some other things. Where you can start making liquid and solid powders, you just mix them together for the powder mercury.
+釉料，对吧？所以还有其他一些东西。你可以开始制作液体和固体粉末，只需把它们混合在一起，制成粉末汞。
+We usually use metals with low conductivity, right? And this is pretty much the last choice, right? So when they have low conductivity, what does that mean? That means they don't easily go through all these shaking methods we just talked about.
+我们通常使用导电率较低的金属，对吧？这基本上是最后的选择，对吧？那么，导电率低是什么意思呢？这意味着它们不容易通过我们刚才讨论的所有这些摇动方法。
+Remember, these are all for plastic deformation. So the metals are already partially solid. All right?
+记住，这些都适用于塑性变形。所以，这些金属已经部分处于固态。明白吗？
+Or totally solid. All right? So these forces only can be applied when the metal is ductile enough, right?
+或者完全固态。明白吗？所以，只有当金属具有足够的延展性时，才能施加这些力，对吧？
+You attach it, it breaks, then no way we have to use some other way. So this is one way. You simply heat it to high enough temperature, right, with the and you also want and you can always make the raw material into powder form and just squeeze everything together, right, at very high temperature, and they will all become one piece. All right? So this material usually means, right, when they have low conductivity, typically it means they have high metal conductivity.
+你把它接上，它就断了，那我们就只能用别的方法了。所以，这是一种方法。你只要把它加热到足够高的温度，对吧，用……而且你也可以……你总能把原材料制成粉末，然后把所有东西一起压紧，对吧，在非常高的温度下，它们就会全部融合成一个整体。明白吗？所以这种材料通常是指，对吧，当它们的导电率较低时，通常意味着它们具有较高的金属导电率。
+All right?
+明白吗？
+Okay? So this is seldom used, right, nowadays. PN.
+明白吗？所以现在很少用这个了，对吧？PN。
+The powder mercury has a little name for PN. It's very seldom used.
+粉末汞有一个稍微有点像 PN 的名称。它很少使用。
+Okay.
+Okay.
+So some fancy ways, right? So 3D printing. Okay? When we talk about 3D printing, many times during this course, here and then in polymer and we'll talk about 4D printing as a band.
+所以是一些很花哨的说法，对吧？所以，3D打印。明白吗？在本课程中，我们多次谈到3D打印，这里以及之后在高分子课程中，我们还会把4D打印作为一个整体来讨论。
+Way of 3D printing. So but yeah, for now, just try to, first of all, get used to this destination first. I think this page is irrelevant to metal, right? So that's general definition of what is 3D printing.
+3D打印的方式。不过，是的，目前先试着先习惯这个目的地。我觉得这一页和金属无关，对吧？这就是3D打印的一般定义。
+In case you haven't learned it somewhere. So basically, it means another name for 3D printing is called additive manufacturing. AM for short, right? So that means we're adding this feeding material bit by bit and usually in a layer-by-layer manner, right?
+以防你还没有在某个地方学过。所以基本上，3D打印的另一个名称是增材制造。简称 AM，对吧？所以这意味着我们会一点一点地添加这种供料材料，通常是以逐层的方式，对吧？
+So the bottom one is fixed and then we add. How we make the first statement, right? Layer by layer. Okay? And another feature is we're using computer design based on, right?
+所以底部是固定的，然后我们再添加。我们如何做出第一个陈述，对吧？一层层地加。明白吗？另一个特点是，我们采用基于……的计算机设计，对吧？
+CAD data, right? As a feed. So it's not some manual drawing. It's like a robot making first statement and not your own hands, right?
+CAD 数据，对吧？作为输入。所以这不是什么手工绘制的图纸。就像机器人第一次发言，而不是你自己的双手，对吧？
+So it's very precise and it's adding layer by layer.
+所以它非常精确，而且是一层一层叠加的。
+All right? So now the following category is more related to metals, right? So we have for metal, we have generally two methods.
+明白吗？那么，接下来这一类更多与金属有关，对吧？所以对于金属，我们通常有两种方法。
+Direct energy degradation and the powder gas fusion, right? So these are their names. All right? So typically, in the computer, first of all, you have a whole three-dimensional design already pre-set or pre-introduced.
+直接能量降解和粉末气相烧结，对吧？所以，这些就是它们的名称。明白吗？所以通常，在计算机中，首先，你已经预先设置或预先导入了一个完整的三维设计。
+And we slice this into many, many, many small layers so we feed these small layers to the computer so the 2D, 3D printing machine it will start printing layer by layer just like that, right? And eventually, it will take out the piece, select it to cure or do something else, and we get the finished portion. All right?
+然后把它切分成很多很多很多薄层，再把这些薄层输入电脑。这样，2D、3D打印机就会像那样逐层打印，对吧？最后，它会把成品取出来，让它固化或进行其他处理，我们就得到了成品部件。明白吗？
+The finisher is better. It seems that kind of structure somewhere in the medium.
+收尾部分更好。似乎在介质中的某个位置存在这种结构。
+So the图片我们也会刷掉，是不是？
+So we’ll also remove the images, right?
+Of course, now, right? So if you want to buy a small customized polymer 3D printer at home, okay? So what if the right energy degradation DED, that's directly go to the medium.
+当然，现在，对吧？所以，如果你想在家里买一台小型定制的聚合物3D打印机，可以吗？那么，如果右端的能量降解DED，那它会直接进入介质。
+What is additive manufacturing?
+什么是增材制造？
+This is the one one. Sorry. This is the general definition of what is additive manufacturing.
+这是其中之一。抱歉。这是增材制造的一般定义。
+That's what it is on the
+这就是它在……上的内容。
+这个零成型和那个。
+This zero formation and that one.
+Additive manufacturing also known as 3D printing is a process that creates a physical object from a digital design. An engineer designs the object using computer-aided design, or CAD, software. The 3D design file is then sliced into thin layers and uploaded to an additive manufacturing machine.
+增材制造，又称3D打印，是一种根据数字设计创建物理对象的过程。工程师使用计算机辅助设计，也就是 CAD 软件来设计物体。3D 设计文件随后被切分成薄层，并上传到增材制造机器上。
+The manufacturing process begins once an extremely thin layer of metal powder is spread across the platform. A heat source, such as a laser or electron beam, then melts the first layer of the 3D design. The platform is lowered, and another layer of metal powder is spread across the platform.
+一旦在平台上铺上一层极其薄的金属粉末，制造过程就开始了。然后，激光或电子束等热源会熔化三维设计的第一层。平台下降，另一层金属粉末铺展在平台上。
+The layering and melting process is then repeated until the part is complete.
+随后重复分层和熔化过程，直至零件完成。
+The metallic powder is removed, and a physical object is revealed. Additive manufacturing allows you to produce parts that are lighter, stronger, and more durable than traditionally made parts. Build times are faster, engineers can add precise features and complex geometries, without increasing cost.
+金属粉末被去除，一个实体物体便显露出来。增材制造使你能够生产出比传统制造零件更轻、更强、更耐用的零件。制造周期更短，工程师无需增加成本，即可添加精确的特征和复杂的几何形状。
+In fact, additive manufacturing is revolutionizing the way we work.
+事实上，增材制造正在彻底改变我们的工作方式。
+How about you guys? How about you guys?
+你们呢？你们呢？
+Okay. So that's about additive manufacturing. So another we deal about the CEC.
+好的。那么，这就是关于增材制造的。那么，另一个我们讨论的是 CEC。
+咋了？
+What's wrong?
+没事。
+Nothing.
+你们好朋友给他做了？
+Your good friend made it for him?
+嗯？
+Hmm?
+你买朋友给他撕了？
+You bought a friend to tear it for him?
+没买。我没钱。我不负责。
+I didn't buy it. I don't have any money. I'm not responsible.
+God damn it.
+该死。
+这就是不行。这个更大。你们不要。我还以为他是慢慢成型的。他成型得很好。
+This just won't do. This one is bigger. You don't want it. I thought it was gradually taking shape. He formed very well.
+快过去一下。
+Hurry over here.
+激光。
+Laser.
+电池。
+Battery.
+有点毛。我都不知道怎么说。能符合我那个论文的简历。
+A little hairy. I don't even know how to say it. It can fit into my resume for that paper.
+就是那节课不是有个论文，我 present 什么 coaching。
+There was a paper in that class—I gave a presentation on something called “coaching.”
+推荐的。
+Recommended.
+不是。另一个。
+No. Another one.
+论文的简历。我们不发消息。
+The paper’s resume. We don't send messages.
+它是我现在的任务。
+It’s my current task.
+都是红的
+All of them are red.
+。
+.
+So basically, direct energy degradation is used to focus the laser. And in the meantime, something like heat the wire, the raw metal, right? And then they melt instantaneously at a spot.
+所以，基本上，直接能量降解用于聚焦激光。与此同时，比如加热金属丝、加热金属原料，对吧？然后它们会在一个点上瞬间熔化。
+And they move on to the next spot. Melt and then solidify. Now solidify and gradually, bit by bit, it gets up, right?
+然后它们继续移动到下一个位置。融化，然后凝固。现在凝固，然后逐渐一点一点地升上去，对吧？
+It gets growing up.
+它逐渐变高。
+So it's kind of like welding. Welding is you almost fix a one-piece. But for printing, you're using a welded raw material for the whole part, right?
+所以这有点像焊接。焊接几乎可以固定成一体的部件。但对于增材制造，你使用的是焊接的原材料来制造整个零件，对吧？
+So it continues to have small weld melting and solidification events, right? All the time.
+所以它会持续发生小范围的熔焊和凝固，对吧？一直如此。
+Wow.
+哇。
+Right?
+对吧？
+Okay. So we also will talk about let me see.
+好的。所以我们也会谈到……让我想想。
+Very, very briefly, some thermal processes of metals.
+非常非常简短地讲一下金属的一些热处理工艺。
+Right? So you probably have heard many of those technical terms about keeping a piece of material, right? So we have annealing, and later on we also have for example.
+对吧？所以你们可能听说过很多这些与保持一块材料相关的专业术语，对吧？所以我们有退火，之后我们还有，比如说……
+跟我干一样的事。
+Do the same thing as me.
+Right? Things what are the differences? So let's have a more systematic overlook. For annealing, right, it's usually about heating a piece of material to an high temperature for a long time, and then slowly cool down.
+对吧？这些有什么区别？那么，我们来更系统地看一下。对于退火，通常就是把一块材料加热到高温并保持很长时间，然后缓慢冷却。
+So because every heating process involves additive temperature, so if we want to identify one keyword for annealing, that would be the extended time.
+所以，因为每个加热过程都会使温度升高，因此，如果我们想为退火找出一个关键词，那就是延长的加热时间。
+Okay? So that is to deal with the issue that in the original process, in the original solidification, there's not enough time to finish the cooling in a nice way. Remember, in the practice, we can never reach the ideal equilibrium cooling because that's too time-consuming, right? So we can do a fast cooling, and then we do annealing.
+明白吗？所以，这是为了解决这样一个问题：在原来的工艺、原来的凝固过程中，没有足够的时间以理想的方式完成冷却。记住，在实际操作中，我们永远无法达到理想的平衡冷却，因为那太耗时了，对吧？所以我们可以进行快速冷却，然后再进行退火。
+Although it still takes some more time, but it's definitely shorter than the original one, right? So this is what we call annealing. Right?
+虽然仍然需要多花一些时间，但肯定比原来的时间短，对吧？所以这就是我们所说的退火。对吧？
+So we usually have three stages for annealing. Right? First of all, we have desired temperature, which is definitely smaller the melting point.
+所以，退火通常分为三个阶段。对吧？首先，我们有目标温度，它肯定低于熔点。
+Okay? We don't need to be totally melted. We only need to have sufficient energy to rearrange itself, fix its defects, or realign itself, but it could vary this temperature. It could vary for specific purposes.
+明白吗？我们不需要完全熔化。我们只需要有足够的能量来重新排列、修复缺陷或重新取向，但这个温度可能会有所不同。它可能会因特定用途而有所不同。
+But it's definitely always below melting temperature. Okay? And then at this selected temperature, we soak this material or we hold this material at this temperature for a relatively long period of time.
+但它肯定始终低于熔化温度。明白吗？然后，在选定的温度下，我们将这种材料进行保温，或者让它在该温度下保持相对较长时间。
+And then we gradually cool down to the room temperature. Okay? So there are typically three purposes for annealing.
+然后我们逐渐冷却至室温。明白吗？退火通常有三个目的。
+The first one is to fix the internal defects. So we can relieve some internal strain or stress. Okay? Remember, when there is being even cooling, there could be parts that are shrinking first, parts that are shrinking later.
+第一个目的是消除内部缺陷。这样我们就可以消除一些内部应变或应力。明白吗？记住，当冷却不均匀时，有些部分可能会先收缩，有些部分则晚些收缩。
+So there will be a mismatch of lattices. Right? So when you do some energy up, they can fix that.
+所以晶格会发生错配。对吧？所以当你提高一些能量时，它们可以弥补这一点。
+They can migrate. Right? They can rearrange the atoms, locally. So we can restore some of those potential breaking points, potential cracks that were inside the material.
+它们可以迁移。对吧？它们可以在局部重新排列原子。所以，我们可以修复材料内部的一些潜在断裂点和潜在裂纹。
+Right? So somehow correlated to the third one, which is microstructure control. Right?
+对吧？所以，这在某种程度上与第三个方面有关，也就是微观结构控制。对吧？
+So if you're having small pores, or we're talking about those remember we have if you recall a phase diagram, this one is not.
+所以，如果你的孔隙很小，或者我们正在讨论那些……如果你还记得相图，这个不是。
+Sorry.
+抱歉。
+So if you recall a phase diagram, right, so you can fix this gradient to get as close as this uniform one as possible by annealing. Right? So you can fix a local concentration difference.
+所以，如果你还记得相图，对吧，那么你可以通过退火来固定这个梯度，使其尽可能接近这个均匀的梯度。对吧？所以你可以固定局部浓度差。
+Right? By heating up again, but not to the melting point, just to slightly higher. So you can imagine this temperature also links to the time you apply. Right? So higher temperature means you probably need a shorter time.
+对吧？再次加热，但不要加热到熔点，只需稍微高一点。所以你可以想象，这个温度也与你施加的时间有关。对吧？所以，温度越高，可能需要的时间就越短。
+But if you're talking about a relatively low temperature you probably need a longer annealing time. So they're all connected. Okay? And we also have a general effect is to, sorry, increase the facility of the material.
+但如果你说的是相对较低的温度，可能需要较长的退火时间。所以它们都是相互关联的。明白吗？而且，总的来说，它会——抱歉——提高材料的性能。
+So that it's tougher. Okay? This is a general effect.
+这样它就更坚硬了。明白吗？这是一种普遍效应。
+We do annealing, we do this always do this to the material. Right? So it kind of related to these two as well.
+我们会进行退火，我们总是会对材料这样做。对吧？所以它也和这两个有点关系。
+These two are more like structure. And this is property. Remember, structure, property, correlation. So these are the causes when you have local stress or you have microstructures that are not well stored, you're going to face the material being less tough, easy to go fracture. Right? And when there's plastic deformation, the material may not withstand long or large scale of plastic deformations. That means they're not that tough. Right? So by fixing these two problems, right, you can have a material that can withhold long plastic deformation basically means they're more that tough than before.
+这两者更像是结构。而这是属性。记住，结构、性质、相关性。所以，当局部应力存在，或者微观结构没有得到充分控制时，材料的韧性就会降低，更容易发生断裂。对吧？当发生塑性变形时，材料可能无法承受长时间或大范围的塑性变形。这意味着它们没有那么坚硬。对吧？所以，通过解决这两个问题，对吧，你就可以得到一种能够承受长期塑性变形的材料。基本上，这意味着它们比以前更坚韧了。
+Okay? So the key features, right, are usually the three. Right? Time and temperature, they're correlated.
+明白吗？所以，关键特性，对吧，通常就是这三个。对吧？时间和温度是相关的。
+Right? Like I mentioned, if you're using a higher temperature, usually it means you need a shorter time. Okay?
+对吧？就像我提到的，如果使用更高的温度，通常意味着需要更短的时间。明白吗？
+So vice versa. And we also need to control the rate to be slow enough. Okay? To be slow enough.
+所以反过来也一样。我们还需要控制速率，使其足够慢。明白吗？要慢到足够。
+So if you're doing an experiment, that means your own time, versus your outcome. Right? If everyone wants to get a result faster, it's possible. Right? But sometimes when you cool too fast, you may break, break the annealing process pattern so they cannot anneal anymore.
+所以，如果你在做实验，这意味着要控制你自己的时间，而不是你的结果。对吧？如果每个人都想更快地得到结果，那这是有可能的。对吧？但有时冷却过快，可能会破坏退火过程的规律，使它们无法继续退火。
+Right? So you have to slow down, sacrifice some longer time. So these are things case by case.
+对吧？所以你必须放慢速度，牺牲一些更长的时间。所以这些情况需要具体问题具体分析。
+Right? System by system.
+对吧？系统对系统。
+Okay?
+明白吗？
+So another very specific heating method or heating purpose we call it precipitation hardening. Okay? Now, if you recall, the stainless steel, right, stainless steel is when you have extra amount of chromium inside the steel.
+所以，另一种非常具体的加热方法或加热用途，我们称之为沉淀硬化。明白吗？现在，如果你们还记得，不锈钢，对吧，不锈钢就是在钢中加入过量的铬。
+Sorry, carbon ions, maybe some nickel enamel, but you have a large amount of chromium. So why do how do we force the chromium to go to the phase boundaries? Right? Precipitation hardening could be one way. Okay? So you actually increase the strength.
+抱歉，是碳离子，也许还有一些镍搪瓷，但铬的含量很高。那么，我们为什么要……我们如何迫使铬迁移到相界面上？对吧？沉淀硬化可能是一种方法。明白吗？所以你实际上提高了强度。
+In this case, a general definition is to increase the strength of this metal by forcing the formation of a second phase.
+在这种情况下，一个常见的定义是通过强制形成第二相来提高这种金属的强度。
+Right? So we have a phase boundary, which is higher concentration in chromium. It's essentially a second phase.
+对吧？所以，我们有一个相界，其中铬的浓度更高。它本质上是一个第二相。
+Right? When the concentration is different, when the composition is different, they're already a different phase. So for stainless steel, many other samples, we can force such second phase to form. Right? And this phase could be like I mentioned, higher concentration in one thing, or they could simply be some particles or precipitates.
+对吧？当浓度不同、成分不同时，它们就已经属于不同的相了。所以对于不锈钢以及许多其他样品，我们可以强制形成这样的第二相。对吧？这个相可以像我刚才提到的那样，以较高浓度存在于某一种物质中；也可以只是某些颗粒或析出物。
+Right? Precipitates over here. Right? That are just isolated ions that were forced to solidify or concentrate.
+对吧？这里的沉淀物。对吧？它们只是被强制固化的或浓缩的孤立离子。
+Or say, say, accumulate or aggregate along certain regions.
+或者说，聚集或聚集成群于某些特定区域。
+Okay? So we have steam over here. Right? Showing how we typically do this precipitation treatment.
+明白吗？所以我们这里有蒸汽。对吧？展示了我们通常如何进行这种降水处理。
+Right? So we have normal way of cooling, which is usually for example, we are now seeing an example of a hypothetical phase diagram. This is imaginary diagram. Where we're trying to cool down from one phase, right, to a two-phase scenario.
+对吧？所以我们有通常的冷却方式，例如，我们现在看到的是一个假设相图的例子。这是一张假想的图。我们试图从单相冷却，对吧，到双相状态。
+Right? So we can choose to go down, right, by rapid cooling. Right? From T0 all the way to T1, which is close to room temperature. We can do rapid cooling. And in this rapid cooling, if we do so, right, this is time interval.
+对吧？所以我们可以选择通过快速冷却来降温，对吧？对吧？从 T0 一路降到 T1，T1 接近室温。我们可以进行快速冷却。在这个快速冷却过程中，如果我们这样做，对吧，这就是时间间隔。
+Right? So that means we ideally we pick zero second. Right?
+对吧？所以这意味着，理想情况下，我们选择零秒。对吧？
+Where they go down. We can actually freeze the original phase. It doesn't always go to alpha plus eight. Remember, for all these points to be a real case, we have to use equilibrium cooling.
+它们下降的地方。我们实际上可以冻结原始相位。它并不总是会变成 α 加 8。记住，为了让所有这些点都成立，我们必须采用等温冷却。
+The supercooling or superheating. In the real world, they don't directly go here as we want. Right?
+过冷或过热。在现实世界中，它们不会像我们希望的那样直接到这里。对吧？
+Like this one. If we force it to crunch down, we actually freeze the original phase down to a temperature we want. Okay?
+像这个。如果我们强行把它压缩，实际上就能把原始相冷却到我们想要的温度。明白吗？
+So this is on healthy. Very, very unhealthy and not stable. So we can do a precipitation hardening by heat up it again.
+所以这是在健康状态下。非常、非常不健康，而且不稳定。所以，我们可以通过再次加热来进行沉淀硬化。
+But not to a temperature as high as the original phase. I can cool it down slightly, heat it up slightly, but still within my two-phase region. So give it some time.
+但温度不能升到与原始相位相同的程度。我可以稍微冷却一下，再稍微加热一下，但仍然保持在两相区。所以给它一点时间。
+Now, time is more important. You have to give it some time. So when I give at a given time, right, at this point, I should be two-phase. So the other beta phase will start to emerge as the time goes.
+现在，时间更重要。你得给它一些时间。所以，当我给定一个时间时，对吧，在这一点上，我应该处于两相状态。所以，随着时间的推移，另一个β相会开始出现。
+Right? So it will start to see small particles, corresponding to this beta phase. It is forming within my alpha phase.
+对吧？所以会开始看到与这个贝塔相相对应的小颗粒。它正在我的α相中形成。
+This is the phase. Why do we see heat up here? Sorry, this should be beta.
+这就是这个相。为什么我们在这里看到热量升高？抱歉，这应该是贝塔。
+Okay? This one. Okay?
+明白吗？这个。好吗？
+So it should be beta particles. Formed. Right?
+所以应该是β粒子。形成。对吧？
+Slowly, like that. Okay? So let me repeat. In this imaginary phase diagram, if I go from my one-phase region to the two-phase region, ideally, if I cool very, very slowly, at the point I meet my boundary, beta phase should start to form. Right? As my temperature cools down. But if I manually use a very rapid cooling, I stopped it from forming beta phase.
+慢慢来，像那样。好吗？所以让我重复一遍。在这个假想的相图中，如果我从单相区进入两相区，理想情况下，如果我非常非常缓慢地冷却，在我到达相界时，β相应该开始形成。对吧？随着温度下降。但如果我手动采用非常快速的冷却，就可以阻止β相的形成。
+Right? So I do a rapid cooling, which can cringe. I can freeze all my alpha phase, as they were, at this temperature.
+对吧？所以我进行快速冷却，这可能会导致晶格畸变。我可以把所有的α相都冻结在它们在这个温度下的状态。
+So I can reactivate the system. Right? By giving a slightly higher temperature so I can go up somewhere anywhere inside this part.
+这样我就可以重新启动系统。对吧？通过稍微提高温度，这样我就可以在这个部分的某个地方上升。
+Right? Where beta phase are supposed to be formed. So give it some time.
+对吧？β相应该形成的区域。所以给它一点时间。
+My beta phase will automatically emerge. Right? And they will form. Because the original layer, there's no beta phase.
+我的β相会自动出现。对吧？它们会形成。因为原始层中没有贝塔相。
+So they will undergo homogeneous nucleation. So just randomly, some spots, right, inside the system. Three islands start to pop out. Right? And they will become small islands of beta phases for them to form.
+所以它们会发生均相成核。所以，随机地，系统内部会出现一些点，对吧。三个岛开始冒出来。对吧？它们会形成贝塔相的小岛。
+Okay? So you can imagine the two ways of getting out of doing this. One is directly slow cool down, or I rapid cool down and I completely heat up. The form and position and all the other interactions of alpha and beta phase will be different.
+明白吗？所以你可以想象一下，摆脱这种情况的两种方式。一种是直接缓慢冷却，或者快速冷却，然后完全加热。α相和β相的形态、位置以及所有其他相互作用都会有所不同。
+So in some applications, we actually want this way. Right? And not to mention that this one, this way is probably more time efficient.
+所以在某些应用中，我们实际上希望采用这种方式。对吧？更不用说，这种方式可能更省时。
+Right? Rather than a supercooling way. Right?
+对吧？而不是采用过冷却的方式。对吧？
+So two different reasons that we may choose this one. Right? Instead of slow cooling.
+所以我们选择这个可能有两个不同的原因。对吧？而不是缓慢冷却。
+Right?
+对吧？
+Okay?
+明白吗？
+Okay? So this is another example of precipitation hardening. Right? So we have a aluminum-copper phase diagram in this case.
+好吗？所以，这是析出硬化作用的另一个例子。对吧？所以，这里有一个铝-铜相图。
+Right? New phase diagram.
+对吧？新相图。
+Right? So new phase diagram. And you can imagine what is going on.
+对吧？所以，新的相图。你可以想象发生了什么。
+So originally, like you remember the T0 just now. Right? We are only having one phase.
+所以，最初，就像你们刚才记得的 T0。对吧？我们只有一个相位。
+Right? And in this case, it's a solid solution. And now we start to cool down. Right? And this here, we are not doing we are not playing with the cringing thing.
+对吧？在这种情况下，它是固溶体。现在我们开始冷却。对吧？而这里，我们不是在做……我们不是在玩那个畏缩的东西。
+So we have a second during phase particle. We call this theta prime prime, because it's not the final theta one. It's more like the intermediate nucleate that formed very in a very early ages.
+所以我们有一个第二相粒子。我们把它称为 θ''，因为它不是最终的 θ。它更像是在非常早期阶段形成的中间核。
+Right? You can see they're very concentrated stress inside a small piece. Right? So it's more like a starting point. Right? And then this starting point, as the temperature cools down, they will grow larger and larger.
+对吧？你可以看到，一小块区域内的应力非常集中。对吧？所以它更像是一个起点。对吧？然后从这个起点出发，随着温度下降，它们会变得越来越大。
+Right? To become a complete theta phase. Right? And become a small local particle. Right? So this particle essentially tends for hundreds of nanometers tends for hundreds of atomic thickness.
+对吧？形成完整的θ相。对吧？并变成一个微小的局部粒子。对吧？所以，这种颗粒本质上会趋向于几百纳米，趋向于几百个原子的厚度。
+Right? So usually just one nanometer or a few nanometers. Right?
+对吧？所以通常只有1纳米或几纳米。对吧？
+So that's about the size. Okay? So many, many of these super alloys will actually make by this nano we call it nanophases.
+所以，这就是它的尺寸。明白吗？所以，很多很多这种超级合金实际上都是由这种纳米结构制成的，我们称之为纳米相。
+Right? So like that. Right?
+对吧？所以，就像那样。对吧？
+So that is one way to make them super, super strong. Right? All these are like if you recall, all these are full with this edge dislocation.
+所以，这是让它们变得超级、超级坚固的一种方法。对吧？如果你们还记得，所有这些都充满了这种刃位错。
+So in fact, they can block with plastic deformation. So they will make the local string very strong against the end deformation. So these will become our strengthening point, each one of these spots. Okay? So they can effectively inhibit the stop or block dislocation to move.
+所以实际上，它们可以通过塑性变形来阻挡。所以它们会使局部链对端部变形具有很强的抵抗力。所以，这些点中的每一个都会成为我们的强化点。明白吗？所以它们可以有效地阻止位错移动。
+Right? So they become resistant to plastic deformation.
+对吧？所以它们对塑性变形产生了抗性。
+Okay?
+明白吗？
+All right? So like I just mentioned, precipitation is not only for hardening. For the case of stainless steel, precipitation caused by this process can also be a good way of causing a corrosion-resistant protection layer.
+明白吗？所以，正如我刚才提到的，析出不仅用于强化。就不锈钢而言，这一过程产生的析出物也可以成为一种良好的耐腐蚀保护层。
+Right? For steels.
+对吧？对于钢材。
+Okay?
+明白吗？
+All right? So so far so good? Okay?
+明白吗？到目前为止都还好吗？好的？
+We finished metal. Today. And let's take a break.
+我们讲完了金属。今天。我们休息一下。
+Please come back at 8:20. And I will present.
+请在8点20分回来。我会做展示。
+In this imaginary Face Diagram, try to settle down: we're ending earlier today, so stay focused, okay? So that we can end by 9, hopefully, okay? So, um, this imaginary Face Diagram, or any Face Diagram, is talking about a point that the system is supposed to be if everyone follows the equilibrium process. So ideal process, and everyone are cooled down with heat up, ideally, in a very slow rate.
+在想象中的面部图中，尽量集中注意力：我们今天会提前结束，所以请保持专注，好吗？这样我们希望能九点前结束，好吗？所以，嗯，这张想象中的面图，或者说任何面图，描述的是如果每个人都遵循均衡过程，系统应该处于的某个点。所以，这是理想过程，每个人都会通过放热冷却，理想情况下，冷却速度非常缓慢。
+Right? So that means we could meet a case, a real-life scenario, where we have a concentration and a temperature. We already observed, but they're not in this Face Diagram.
+对吧？所以这意味着我们可以遇到一种实际情况，即存在浓度和温度。我们已经观察过了，但它们不在这张相图中。
+Like the process we're drawing here, we rapidly cool from p0 directly to p1. p0 directly to p1. So by this Face Diagram, this point means 2 phase.
+就像我们在这里画的过程，我们从 p0 直接快速冷却到 p1。从 p0 直接到 p1。所以根据这个相图，这个点表示两相。
+Right? But in the real world, if we do a rapid quench, there's only one phase. This one phase follows p0 concentration. So this particular process give us a condition which cannot be located in this diagram.
+对吧？但在现实世界中，如果我们进行快速淬火，就只有一种相。这个相遵循 p0 浓度。所以，这个特定过程给出的条件无法在这个图中找到。
+Because it's not the ideal final destination. Right? And, uh, we— you can verify that by heat it again.
+因为这不是理想的最终目的地。对吧？而且，呃，我们——你可以通过再次加热来验证这一点。
+So this blue part is actually the precipitation part in the process itself. Right? So when you heat it again, it starts to form new phase.
+所以，这部分蓝色实际上就是过程中发生的沉淀部分。对吧？所以当你再次加热时，它就会开始形成新相。
+Right? So that means your system here is not at a equilibrium state. Right? It's very likely to be unstable, intermediate stage. So when we heat it up, right, give it some time, it starts to form 2 phases like the Face Diagram indicate.
+对吧？所以这意味着这里的系统并不处于平衡状态。对吧？它很可能处于不稳定状态，处于中间阶段。所以，当我们把它加热，对吧，给它一些时间后，它就会开始形成两个相，就像相图所示的那样。
+Right? So this Face Diagram is more like ideally where is the destination. Should be. Right? But in reality, depending on the cooling and the quenching and heating process, they may halfway there or somewhere near there, right, but they're not always exactly there.
+对吧？所以，这张相图更像是理想状态下最终会达到的位置。应该是。对吧？但在现实中，根据冷却、淬火和加热过程的不同，它们可能处于那里的一半位置，或者接近那里，对吧？但并不总是完全在那个位置。
+Okay? So this is important. Face Diagram is a map that to show you the ideal location, the destination.
+明白吗？所以这一点很重要。Face Diagram 是一张地图，用来向你展示理想的位置，也就是目的地。
+Okay? So— and if you give the system sufficient time— it should always go, for example, to the ideal destination. Right? So it could be a way of verifying. Right? So if we elongate the time, right, eventually the state phase— the bake phase— will stop emerging.
+明白吗？所以——如果你给系统足够的时间——它应该始终会，比如说，到达理想目的地。对吧？所以这可以作为一种验证方法。对吧？所以，如果我们延长时间，对吧，最终状态相——烘焙相——将不再出现。
+Because it has a design ratio. Right? At this point, what should be your ratio?
+因为它有一个设计比例。对吧？到这一步，你的比例应该是多少？
+They will stop produce, right, when they reach the limit. Right? So this could be your guideline: where is the ratio limit?
+当它们达到极限时，就会停止生产，对吧？对吧？所以这可以作为你的指导：比率的上限在哪里？
+Where is the final conversation? Right? So this is something I need to clarify.
+最后的对话在哪里？对吧？所以这一点我需要澄清。
+Okay?
+好吗？
+Okay.
+好的。
+All right. So that's enough about metals. Uh, let me— continue with ceramics.
+好的。关于金属，就讲到这里。呃，让我——继续讲陶瓷。
+Okay. So chemically, ceramics are defined to be a inorganic material that is made from metal and non-metal elements. So it's usually a compound. Right? And, uh, if we refer to the first two reasons we talk about building blocks, they're usually made from ionic bonds.
+好的。从化学角度来看，陶瓷被定义为由金属和非金属元素制成的无机材料。所以它通常是一种化合物。对吧？呃，如果我们提到前两个原因，也就是我们所说的构成单元，它们通常是由离子键构成的。
+Right? So that makes ceramics one of the categories of materials that have the highest melting point. Because without the ceramic, you need to break ionic bond. Right? So this ceramic actually comes from a Greek term, right, that means burnt stuff.
+对吧？所以，这使得陶瓷成为熔点最高的材料类别之一。因为如果没有陶瓷，你需要打破离子键。对吧？所以，这种陶瓷其实源自一个希腊词，对吧，意思是烧过的物质。
+So basically, when you burn something, right, using an induction style fire and all that, everything is gone. Either it becomes gases or becomes ashes. Right?
+所以基本上，当你用感应式火炉之类的东西烧东西时，对吧，一切都会消失。要么变成气体，要么变成灰烬。对吧？
+What's left? Right? In this pile of ashes are usually ceramics.
+剩下的是什么？对吧？这堆灰烬中通常含有陶瓷。
+Right? That's how they were named. So basically it means they're very, very strong. They can't be burnt by the normal ancient fire. Right? So, um, again, right, so the key criteria are they're usually made from ionic bond.
+对吧？它们就是这样得名的。所以基本上，这意味着它们非常非常坚硬。它们无法被普通的古代之火烧伤。对吧？所以，嗯，再说一次，对吧，关键标准是它们通常由离子键构成。
+Right? So that means for each given, uh, ceramic, there's at least 2 kinds of ions. Right?
+对吧？所以这意味着，对于每一种给定的，呃，陶瓷，至少有两种离子。对吧？
+One positive, one negative. Right? In some cases, there could be more than 2.
+一个正离子，一个负离子。对吧？在某些情况下，可能不止两个。
+Okay?
+明白吗？
+So one good example could be silicon dioxide, which we'll talk about. Right? During this, uh, glass and, uh, amorphous and crystalline difference, we talk about ceramic.
+所以，一个很好的例子是二氧化硅，我们稍后会谈到。对吧？在这个过程中，呃，玻璃和，呃，非晶态与结晶态之间的区别，我们会谈到陶瓷。
+We talk about silicon dioxide. Okay? So we need to, uh, take a slightly closer look to the structure, crystal structure of ceramics.
+我们讨论二氧化硅。明白吗？所以我们需要，呃，稍微更仔细地看一下陶瓷的结构，也就是它的晶体结构。
+Remember when we talk about metals? We talk about, uh, the 7, gravis lattices, we talk about FCC, HCP. Those are closed pan crystal structures. And they only work on the hard sphere models when all the model— all the atoms are of the same size.
+还记得我们讲金属的时候吗？我们讲过，呃，七种晶格，讲过面心立方（FCC）和六方晶格（HCP）。那些是闭式面心立方结构。它们只适用于硬球模型，也就是所有原子的大小都相同时。
+Okay? And they also work on— only work on metals because the metallic bonds are in one direction. Remember? So you can just disregard all the interactions and angles.
+明白吗？而且它们也只适用于——只适用于金属，因为金属键是沿一个方向排列的。还记得吗？所以你可以忽略所有的相互作用和角度。
+You don't need to consider a lot of charges. Just packing hard bonds together. But for ionic materials, we have to check charges.
+你不需要考虑很多电荷。只要把强键集中放在一起。但对于离子材料，我们必须检查电荷。
+We also have to take consideration that they are now more than one kind of hard bond. Right? So 2 or more kind of hard bonds.
+我们还必须考虑到，现在存在不止一种硬键。对吧？所以是两种或更多种硬键。
+Each one of them will have a different reading. Right? So that means we're talking about more complicated systems.
+它们中的每一个都会有不同的读数。对吧？所以这意味着我们讨论的是更复杂的系统。
+Right? So for starter, this usually we will have Tie Line and Anion. Right? So Tie Line is the positive charges.
+对吧？那么首先，通常我们会有关联线和阴离子。对吧？所以，Tie Line 表示正电荷。
+Right? Anion is the negatively charged ions. So that means Anion are usually bigger in size.
+对吧？阴离子是带负电的离子。所以这意味着阴离子通常体积更大。
+Right? And, uh, now we also need to consider the magnitude of the charges and the size of the ions. Okay? So two things you need to consider. So first of all, uh, no matter what ceramic your formula was, eventually you make up the crystal structure.
+对吧？而且，呃，现在我们还需要考虑电荷的大小和离子的尺寸。明白吗？所以，你需要考虑两个因素。首先，呃，无论你的配方是什么陶瓷，最终你都会形成晶体结构。
+You make up a unit cell. The overall charge should be 0. Right? Overall, everything is neutral. So the positive charges and negative charges total sum should be equal to each other.
+你构建一个晶胞。总电荷应为0。对吧？整体上，所有原子都是中性的。所以正电荷和负电荷的总和应该相等。
+Right? And for the size, because Anion is usually bigger than the Tie Line. Right? So now we have to consider packing at least 2 kinds of bonds with a different in size.
+对吧？至于尺寸，因为阴离子通常比 Tie Line 更大。对吧？所以现在我们必须考虑如何容纳至少两种尺寸不同的键。
+Right? So we have general rules that the geometry of this packing should be stable enough. Right? So when we say stable, uh, we usually mean they should be touching each other at least in one part.
+对吧？所以，我们有一般性的规则：这种堆积的几何结构应该足够稳定。对吧？所以，当我们说稳定时，呃，通常是指它们至少在某一部分应该相互接触。
+At one point. Instead of this dangling around kind of metal. Right?
+在某一点。而不是这种悬空摆来摆去的金属。对吧？
+So, uh, uh, what we consider two different sizes. We hope them to be at least, right, touching, right, in one point to the neighbor. Right?
+所以，呃，呃，我们认为有两种不同的尺寸。我们希望它们至少能，对吧，与相邻的单元在一个点上相接，对吧。对吧？
+To the neighbor.
+与相邻的边相接。
+All right? So let's look at some real examples. So usually, people have come up with a very simple way of predicting the kind of packing that we are having 2 different sizes.
+明白吗？那么，我们来看一些实际的例子。所以，人们通常想出了一种非常简单的方法，用来预测两种不同尺寸的材料采用哪种堆积方式。
+Right? So the radius of the Tie Line, divided by the radius of the Anion, remember Anions are always bigger. So this value is definitely smaller than 1. Right?
+对吧？所以，共线半径除以阴离子半径。记住，阴离子总是更大的。所以这个值肯定小于1。对吧？
+And of course, larger than 0. So that's typically range. Okay? So in this range, it follows a very simple geometry relation.
+当然，也大于0。所以这通常是它的取值范围。明白吗？所以在这个范围内，它遵循一个非常简单的几何关系。
+Right? Like, uh, we draw over here. Right? So remember, we want— we define a stable structure to be
+对吧？比如，呃，我们在这里画。对吧？所以记住，我们想——我们将稳定结构定义为……
+something I need to reach. Anyway, so it's— remember we have different kinds of geometries. And we— if we assume this one is stable, this one is— this one is not. So when we have such kind of size difference, we're going to have to shrink the space field.
+我需要达到的目标。总之，所以它——记住，我们有不同的几何类型。而且我们——如果我们假设这个是稳定的，这个是——这个不是。所以，当尺寸存在这种差异时，我们就必须缩小空间场。
+So instead of surrounding by 4, I now can remove 1. Surrounding by 3, so the interspace will become smaller. Right? So the boundary changing from here to here, the changing point will be this particularly small.
+所以，我不再用4来包围，现在可以去掉1。用 3 来包围，这样间隔空间就会变小。对吧？所以，边界从这里变化到这里，变化点会特别小。
+That will cover 1 or touch each other. If— if the small balls are larger, this one is also stable. Right? But if it's smaller, it's no longer stable.
+那会覆盖1个，或者彼此相接。如果——如果小球更大，这个也是稳定的。对吧？但如果它更小，就不再稳定了。
+So this is the smallest ratio for natural size. Right? For 4:2:1 ratio consideration like this. Okay? So that's why we come up with a series of numbers as the boundary numbers.
+所以，这是自然尺寸下的最小比例。对吧？对于这种 4:2:1 比例的考虑。明白吗？所以，这就是为什么我们会得出一系列数字作为边界值。
+Right? So 0.155, 0.
+对吧？所以是0.155，0。
+225, 414, 731. Right? So this is a pure mass problem. If you're interested, you can go and figure out.
+225、414、731。对吧？所以这是一个纯质量问题。如果你感兴趣，可以去算一算。
+For this, ideal case, you'll come up with what's the ratio for small and big one. Remember, these are supposed to be 3D. So of course, this one is 2D.
+对于这种情况，在理想情况下，你会算出小的和大的比例是多少。记住，这些应该是三维的。所以，这个当然是二维的。
+The 3D is already often here. Right? So if the 3D is still too big, uh, too— too— the void is still too big for the small one, you have to change to 3D.
+三维的通常已经在这里了。对吧？所以，如果三维模型仍然太大，呃，太——太大了，对于小模型来说空隙仍然太大，你就得改用三维模型。
+But the majority are actually 3. Right? So, uh, you have 4 bigger balls, and the linear side is right, uh, squeezed by one small ball.
+但实际上大多数都是3。对吧？所以，呃，你有4个较大的球，而线性侧被，呃，一个较小的球挤压。
+And this is 4 bigger balls. Sorry, 5 bigger balls. There's one more inside.
+这是4个较大的球。抱歉，是5个大球。里面还有一个。
+And this is 8. Right? So you can actually play with that. The— the— this case, it's— this case, uh, right.
+这是8个。对吧？所以你其实可以拿那个来玩。这个——这个——这个案例，它——这个案例，呃，对。
+Yeah. This one is, uh, one ball on top and another ball on the bottom. So it's actually if you count what you can see here, 1, 2, 3, 4, 5.
+对。这个是，呃，一个球在上面，另一个球在下面。所以，如果你数一下这里能看到的，其实是1、2、3、4、5。
+There's another one right beneath the— the— the blue ball. So it actually 5 plus 1 is actually 6. Okay?
+在蓝色球下面还有一个。所以实际上是5加1，也就是6。明白吗？
+Okay. So the— the good news is, right, it's not required for you to divide these values. Right? You just need to know how to use it. Right? So whenever we gave you a Tie Line and Anion, their radius will be lower.
+好的。所以，好消息是，对吧，你们不需要把这些数值相除。对吧？你只需要知道如何使用它。对吧？所以，每当我们给你一条键线和一个阴离子时，它们的半径都会更小。
+Right? That's from the database. And what you only need to do is to calculate the ratio.
+对吧？这是从数据库中得出的。你只需要计算这个比率。
+RC or RA. Which is supposed to be a number between 0 and 1. And you just look for the table.
+RC 或 RA。这个数值应该介于 0 和 1 之间。然后你只需查找表格。
+Right? So which range does that value fall in? If you give us which kind of crystal fracture.
+对吧？那么，这个值落在哪个区间？如果你告诉我们哪种晶体断裂。
+Okay? You just need to know how to use this, uh, rule. But if you're interested, right, you can go figure out how we get this value.
+明白吗？你只需要知道如何运用这条规则。不过，如果你感兴趣的话，对吧，你可以去弄清楚我们是怎么得出这个数值的。
+Okay? Now, the three major kinds of crystal fracture names for a— this is what we call AX type. Right?
+明白吗？现在，三种主要的晶体断裂类型中，这个我们称之为 AX 型。对吧？
+AX type because we don't have one Anion, one Tie Line. Right? And, uh, you can look at their names.
+AX型，因为我们没有一个阴离子，一条结合线。对吧？而且，呃，你可以看看它们的名称。
+Right? It's very different from the systematic naming we learned from metal. Right? So people, when— when they discover new minerals or new crystals, uh, they were not very hardworking on naming them.
+对吧？这与我们从金属中学到的系统命名法非常不同。对吧？所以，人们在发现新的矿物或新的晶体时，呃，他们并不太费劲地给它们命名。
+Right? They simply used the first crystal that they discovered as crystal fracture from to be the name of this crystal fracture. Right? So for sodium chloride, for example, right, sodium chloride, the crystal fracture name is rock salt.
+对吧？他们只是用自己发现的第一个晶体的断口来命名这种晶体断口。对吧？所以，以氯化钠为例，对吧，氯化钠的晶体解理名称是岩盐。
+And sometimes we also use sodium chloride as a name. So some structure have a sodium chloride crystal fracture. Right?
+有时我们也会用氯化钠这个名字。所以，有些结构具有氯化钠型晶体断面。对吧？
+To become a name. And it's also applies to cesium chloride. Right? So cesium chloride is also not just a compound, it's also a name of crystal structure.
+成为一个名称。这也适用于氯化铯。对吧？所以，氯化铯不仅是一种化合物，也是一种晶体结构的名称。
+Okay?
+明白吗？
+And we also have zinc blend. Right? Which is actually a zinc sulfide.
+我们还有锌闪锌矿结构。对吧？实际上是硫化锌。
+Right? So like that. Okay?
+对吧？所以，就像那样。明白吗？
+All right. So here are just some examples. I think we have more.
+好的。这里只是一些例子。我想我们还有更多。
+Uh, okay, not included here. Yeah, if you're interested, you can— you can go back and search. We don't only have AX, we also have AX2.
+呃，好吧，这里没有包括。对，如果你感兴趣，可以——可以回去搜索。我们不仅有 AX，还有 AX2。
+Many different kinds. I think in the first, uh, crystal structure part, we also have a few examples. Right?
+很多不同的种类。我想在第一个，呃，晶体结构部分，我们也有一些例子。对吧？
+Of these, uh, AX2 crystal structures. Yeah. But those are just for information.
+这些，呃，AX2 晶体结构。对。但那些只是供参考的。
+Okay? So no worries.
+明白吗？所以不用担心。
+Okay. Now, because of these additional secondary elements, defect story also become more complicated. Right?
+好的。现在，由于这些额外的次要因素，缺陷故事也变得更加复杂。对吧？
+In pure metals, we want to talk about missing metal. So that's the vacancy. Right?
+在纯金属中，我们想谈谈金属缺失。所以那就是空位。对吧？
+But now we have missing cation or missing— missing anion. Right? So the whole story become more diverse for vacancies, point defects.
+但现在我们有缺失的阳离子，或者缺失的——缺失的阴离子。对吧？所以，对于空位和点缺陷，整个情况变得更加多样。
+Now we have two kinds. Right? Cation and anion vacancies. And for interstitials, uh, because anion— anions are usually bigger.
+现在我们有两种。对吧？阳离子空位和阴离子空位。至于间隙位，呃，因为阴离子——阴离子通常更大。
+Right? So usually interstitials only have the cations. Right? So basically, like cation may be misplaced instead of sitting where it should also be and it goes to the somewhere in between the lattices.
+对吧？所以通常间隙位只容纳阳离子。对吧？所以基本上，阳离子可能会错位，而不是位于它应该在的位置，而是会跑到晶格之间的某个位置。
+Right? But anion, they generally don't do that. Right?
+对吧？但阴离子通常不会那样。对吧？
+The energetically, they're not favored. Right? So interstitially mostly for cations. Okay? And, uh, important thing is, for all the defect in ceramics, uh, locally, we can only identify one spot.
+从能量角度来看，它们并不被优先考虑。对吧？所以，间隙位置主要容纳阳离子。明白吗？而且，呃，重要的是，对于陶瓷中的所有缺陷，呃，在局部我们只能识别出一个点。
+But macroscopically, they should all follow the charge balance. The charge neutrality. So usually, right, in the real reality, they also take place.
+但从宏观上看，它们都应该遵循电荷守恒。电荷中性。所以通常，对吧，在现实中，它们也会发生。
+Right? In a paired way. Right? Or correlated way. For example, whenever we have a missing anion, we may have a missing cation.
+对吧？以成对的方式发生。对吧？或者以相关的方式。例如，每当我们缺少一个阴离子时，可能也会缺少一个阳离子。
+Just nearby. So that the charge or totally balance, right, overall. Right?
+就在附近。这样电荷就能完全平衡，对吧，整体上。对吧？
+Or when we have a missing cation, this cation may find this additional, uh, cation interstitial somewhere close. Right? So cation vacancy plus cation interstitial we call this a Franco defect.
+或者，当我们缺少一个阳离子时，这个阳离子可能会在附近某个地方找到这个额外的，呃，阳离子间隙。对吧？所以，阳离子空位加上阳离子Interstitial，我们称之为弗兰科缺陷。
+Right? This is the person's name. Right? Franco defect. And if we're talking about cation vacancy and anion vacancy, we call this a Shawkey defect.
+对吧？这是某个人的名字。对吧？佛朗哥缺陷。如果我们谈论的是阳离子空位和阴离子空位，我们就称之为肖基缺陷。
+Okay? These two are particularly for ceramics defects. Okay?
+明白吗？这两种缺陷尤其常见于陶瓷材料。明白吗？
+In metal, you won't see them. Okay? So please remember, uh, these two defects are very important.
+在金属中，你看不到这些。明白吗？所以请记住，呃，这两种缺陷非常重要。
+Okay? One is Franco is one vacancy plus one interstitial. Shawkey is two vacancies, but of different charges.
+明白吗？一个是弗兰科缺陷，即一个空位加一个间隙原子。肖基有两个空位，但电荷不同。
+Right? Of different charges.
+对吧？电荷不同。
+All right?
+明白吗？
+Okay. So we have more scenarios for defects in two elements systems, like ceramics. So for example, a special one is called non-stoichiometric compound. Right? So stoichiometric means they're following a formula ratio.
+好的。所以，对于由两种元素组成的体系，比如陶瓷，缺陷的情况会更多。例如，有一种特殊的化合物叫作非化学计量化合物。对吧？所以，化学计量比意味着它们遵循某种化学式比例。
+We have non, that means they don't follow that ratio. So for example, we can have a iron-to-oxygen-3 compound. Right?
+我们有非……这意味着它们不遵循那个比例。例如，我们可以有一种铁与氧的比为3的化合物。对吧？
+So in this compound, all my iron are supposed to be 3 plus. All my oxygen is supposed to be 2 minus. Right? But in some cases, right, you can't really control your oxidation state of the entire material.
+所以在这种化合物中，所有的铁都应该呈3+价。我所有的氧都应该是负2价。对吧？但在某些情况下，对整个材料的氧化态确实无法进行有效控制。
+Locally, there could be defects when your iron 3 plus is missing. Uh, 3 plus is missing. And, uh, oh, sorry. I, I, I just, uh, I just mentioned the wrong, uh, valence state.
+局部可能会出现缺陷，比如缺少三价铁。呃，缺少3价的。还有，呃，哦，抱歉。我，我，我只是，呃，我刚才提到了错误的，呃，价态。
+It should be iron 2 plus and oxygen 2 minus. So it should be— sorry. It's been a long time.
+应该是铁的二价态和氧的二价阴离子。所以应该是——抱歉。好久不见。
+So
+所以
+right. So it's supposed to be iron oxide. Right?
+对。所以应该是氧化铁。对吧？
+Iron 2 plus. And oxygen 2 minus. Right?
+铁二价。氧的化合价是负2价。对吧？
+For the majority. Right? But, uh, somewhere I may have iron 2 plus vacancy.
+对于大多数情况。对吧？但是，呃，某个地方可能存在 Fe²⁺ 空位。
+Okay? So usually what we do is we can have another iron 2 plus interstitial. Or I can have oxygen vacancy. But here, what we have is we have three arrows or three mistakes together.
+明白吗？所以通常我们会再引入一个 Fe²⁺ 空位。或者我可以有氧空位。但这里，我们有三个箭头，或者说三个错误同时存在。
+One is iron 2 plus vacancy. The other two are iron 3 plus— you can say contamination. Right? Or you can say, uh, uh, uh, abnormal oxidation state.
+一个是铁2+空位。另外两个是铁3加——你可以说，是杂质。对吧？或者你也可以说是，呃，呃，呃，异常氧化态。
+Right? That's taking place. So in this way, right, locally the charge are also balanced. Right? Because I have two plus, which is missing, but now I have another two spots where I have one plus, one plus more, than before.
+对吧？那正在发生。所以这样一来，对吧，局部电荷也是平衡的。对吧？因为我有两个正电荷，但它们少了，但现在又有两个位置各有一个正电荷，比之前多了一个正电荷。
+Right? So these two compensate the two plus missing. Right?
+对吧？所以这两个抵消了缺失的两个正。对吧？
+So the overall charge here are still okay. Okay? But when we have such a place, the iron overall iron number is actually less than oxygen.
+所以这里的总电荷还是没问题的。明白吗？但是当出现这种情况时，铁的总铁数实际上小于氧。
+Right? If I only count the number of iron 4, right, I'm actually having one missing iron. Right?
+对吧？如果我只算铁的个数，是4个，对吧，实际上少了一个铁。对吧？
+But the charges are balanced. Right? So that's why we say it's non-stoichiometric. So basically, the iron to oxygen ratio now is smaller than 1 to 1.
+但电荷是平衡的。对吧？所以这就是为什么我们说它是非化学计量的。所以，基本上，铁与氧的比值现在小于1比1。
+Right? So that will become the case of, uh, this iron 3 plus replacing iron 2 plus. And so to balance the charge, we're losing some iron elements. Okay? This is quite often, when we are talking about the oxide, in which the cations are allowed to have multiple valence states.
+对吧？所以就会变成，呃，这个铁(III)取代铁(II)的情况。所以，为了平衡电荷，我们会失去一些铁元素。明白吗？这在讨论氧化物时经常会出现，其中阳离子可以具有多种化合价。
+Right? So not just iron like, uh, cobalt, but nickel, these are typical metals that have many valence states. Right? So they may have 3 plus, 2 plus, even 1 plus.
+对吧？所以不只是铁，比如钴、镍，这些典型金属都有多种价态。对吧？所以它们可以有+3、+2，甚至+1的化合价。
+Right? So in this case, they have this kind of, uh, impurity. Okay? So of course, uh, just like before, we can also directly introduce a foreign species.
+对吧？所以在这种情况下，他们有这种，呃，杂质。明白吗？所以，当然，呃，就像之前一样，我们也可以直接引入外来物种。
+Right? Into the system. So instead of, for example, here, having my original local material, I can have some other cation, that becomes an interstitial site.
+对吧？引入这个生态系统。所以，比如说，这里不用原来的局部材料，我可以使用其他阳离子，它会占据间隙位点。
+I have some other bigger cation that is replacing my original cation. Right? So this difference here, right, this is, uh, still my original one is still here.
+我用另一种较大的阳离子取代原来的阳离子。对吧？所以这里的这个差异，对吧，呃，我的原离子仍然在这里。
+But this one is directly removing and replacing my original small group of. Right? And I also have anion substitute.
+但这个直接删除并替换了我原来的一小部分……对吧？我还有一个阴离子替代物。
+Right? So remember, this is called substitution. Right? Substitution. When you replace the host.
+对吧？所以记住，这叫作取代。对吧？取代。当你替换主链时。
+And when you are just squeezing the, because interstitial. Right? So if we're talking about foreign species, then the choices are many.
+而当你只是挤压这个……因为它是间隙的。对吧？所以，如果我们谈论的是外来物种，那么选择就很多。
+Right? You can do many things. To your material.
+对吧？你可以做很多事情。对你的材料。
+Okay? So both substitutional and interstitial are possible. Okay? So you need to know. Right? When you are given a lattice picture like this, you need to identify what kind of defects are there.
+明白吗？所以，置换型和间隙型都是可能的。明白吗？所以你需要知道。对吧？当你看到像这样的晶格图时，需要确定其中存在哪些类型的缺陷。
+Right? Whether they're interstitial or substitutional. Whether they're vacancy or they're Franco or Shawkey defects.
+对吧？它们是间隙式缺陷还是置换式缺陷。它们是空位缺陷，还是弗兰科缺陷或肖基缺陷。
+Right? Or something like this. Right?
+对吧？或者类似这样的。对吧？
+When they're non-stoichiometric. Uh, compound.
+当它们是非化学计量时。化合物。
+Okay?
+明白吗？
+All right? Yep. Progressing well. So, um, um, the, uh, ceramics also cover a large category.
+明白吗？对。进展顺利。所以，嗯，嗯，呃，陶瓷也涵盖了一个很大的类别。
+Right? So, um, in terms of their forms and colors, right, they're more much more colorful than metals. Right?
+对吧？所以，嗯，就它们的形状和颜色而言，对吧，它们比金属丰富多彩得多。对吧？
+So today we're going to only talk about part of it. I think we only talk about the last and probably Cement. Right?
+所以今天我们只讲其中的一部分。我想我们只谈最后一个，可能还有 Cement。对吧？
+And the others will be for next week. So let's go through glass first. Right?
+其他的留到下周。那么，我们先来看玻璃。对吧？
+Glass is one of the most important— right, that we can think of. Right? So in general, glasses are non-crystalline.
+玻璃是我们能想到的最重要的材料之一，对吧？对吧？所以一般来说，玻璃是非晶态的。
+And they're majority component is silica. Right? The silicon dioxide.
+它们的主要成分是二氧化硅。对吧？二氧化硅。
+But it contains a lot of other oxides. Right? Like, uh, sodium, calcium, aluminum, even boron.
+但它还含有许多其他氧化物。对吧？比如，呃，钠、钙、铝，甚至硼。
+All right? So because glass is amorphous, right, non-crystalline, some people say it's just a super cool super hard liquid. Right?
+明白吗？所以，因为玻璃是非晶态的，对吧，也就是非结晶态的，有些人说它只不过是一种超级冷、超级硬的液体。对吧？
+So what does a liquid has a melting point? It shouldn't have, right, because it's already melted. So for a glass, instead of, you know, for all these solids, when you melt it at a particular melting point, when you heat it, the temperature will stop increasing.
+那么，液体有熔点吗？它应该没有熔点，对吧，因为它已经熔化了。所以，对于玻璃，不像所有这些固体，当它在某个熔点熔化时，也就是加热到一定程度时，温度会停止上升。
+Right? It will absorb the all the energy for melting. And it will only continue to increase the temperature when it's totally that's the definition of melting.
+对吧？它会吸收所有用于熔化的能量。只有当它完全……时，温度才会继续升高。这就是熔化的定义。
+Remember? When you melt anything that is not glass or not amorphous, it should have a fixed melting point. But for glass, it only has a range of melting events.
+还记得吗？当任何非玻璃或非非晶态物质熔化时，它应该有一个固定的熔点。但对于玻璃来说，熔化过程只有一个温度范围。
+So to make it look like a from a look like a solid to looking like a liquid. Okay? So in other words, let's say my glass has a, uh, transition temp temperature starting from 500.
+所以，它看起来像是从固体变成了液体。明白吗？换句话说，假设我的玻璃有一个，呃，转变温度，起始温度为500。
+Then if I heat the glass to 500, the glass will start to melt. It will it will look like it's flowing. It's softer. And it's, uh but that thing to the, uh, shape of the container, that's how we define liquid.
+那么，如果我把玻璃加热到500，玻璃就会开始熔化。它看起来像是在流动。它更柔软了。而且，呃，不过它会随着容器的形状而变化，这就是我们对液体的定义。
+Right? But in the meantime, the whole system continues to increase its temperature. You have a heating source. Right? The heating source is not removed. So it's continue increase. Maybe from 500 all the way to 550, it continues to melt while increasing the temperature.
+对吧？但与此同时，整个系统继续升温。你有一个热源。对吧？加热源没有被移除。所以它会持续增加。也许从500一直升到550，在温度不断升高的过程中，它会继续熔化。
+So instead of having a fixed melting point, right, we have a does not have. Right? It has a what we call a transition temperature.
+所以，它没有一个固定的熔点，对吧，它没有。对吧？它有一个我们称之为转变温度。
+Transition temperature is the range of temperature. From T1 to T2. Okay? So you need you read two values. The starting point where it starts to melt, and end point where it's totally liquid.
+转变温度是一个温度范围。从 T1 到 T2。明白吗？所以你需要读取两个数值。开始熔化的起点，以及完全变成液态的终点。
+Right? So it's transition temperature is a range. Right?
+对吧？所以它的转变温度是一个范围。对吧？
+It's a range.
+这是一个范围。
+Of temperature. Right?
+温度的。对吧？
+So this is very important. Okay? Right?
+所以这一点非常重要。明白吗？对吧？
+Uh, if you have learned anything about polymers, right, probably heard about this glassy transition. Right? So this all comes from the behavior of glass.
+呃，如果你学过高分子材料，对吧，可能听说过这个玻璃化转变。对吧？所以，这些都源于玻璃的行为。
+Because only glass behave like this. Right? Among the normal material we know of. Only glass, they melt over a range of temperature instead of fixed temperature.
+因为只有玻璃会这样表现。对吧？在我们所知的普通材料中。只有玻璃会在一个温度范围内熔化，而不是在某一固定温度下熔化。
+And, uh, so when the polymer behave like the glass, we call the polymer is glassy. So glass must become, uh, objective that can describe a certain behavior when it melts over a range. Right? Yeah. We have already glass transition. Right? So it's a gradual transition from crystalline to solid.
+那么，呃，当聚合物表现出玻璃的特性时，我们称这种聚合物为玻璃态聚合物。所以，玻璃必须变成，呃，一个能够描述其在一定温度范围内熔化时某种行为的客观量。对吧？对。我们已经发生玻璃化转变了。对吧？所以，这是从结晶态到固态的逐渐转变。
+Right? Yeah. From crystalline solid to non-crystalline solid, where we say liquid.
+对吧？对。从结晶固体到非结晶固体，也就是我们所说的液态。
+And where we say liquid.
+而我们称之为液态。
+Right?
+对吧？
+Okay? So we have some processes that can help us increase the glass properties, which we will talk about that later. Now let's look at one example. So because it's very specific feature of glass, of not having a fixed melting point, right, so we can we have we have used this word to describe polymers and also to describe metals.
+明白吗？所以，有一些工艺可以帮助我们改善玻璃的性能，我们稍后会讨论这些工艺。现在我们来看一个例子。因为玻璃有一个非常独特的特性，就是没有固定的熔点，对吧？所以我们可以用这个词来描述聚合物，也可以用来描述金属。
+Some very specific kind of metal I know. They also have this glass behavior. Right?
+我知道，这是某种非常特殊的金属。它们也具有这种玻璃态行为。对吧？
+So let's look at this example. Metallic glass.
+那么我们来看这个例子。金属玻璃。
+Steel and plastic. These two materials are essential to so much of our infrastructure and technology. And they have a complementary set of strengths and weaknesses. Steel is strong and hard, but difficult to shape intricately. While plastic can take on just about any form, it's weak and soft.
+钢和塑料。这两种材料是我们许多基础设施和技术不可或缺的。它们各有互补的优缺点。钢强度高、硬度大，但难以精密成型。而塑料几乎可以制成任何形状，但强度低且柔软。
+So wouldn't it be nice if there were one material as strong as the strongest steel, and as shapeable as plastic? Well, a lot of scientists and technologists are getting excited about a relatively recent invention called metallic glass, with both of those properties and more. Metallic glasses look shiny and opaque, like metals. And also like metals, they conduct heat and electricity. But their way stronger than most metals, which means they can withstand a lot of force without getting bent or dented, making ultra-sharp scalpels and ultra-strong electronics cases, hinges, screws, the list goes on. Metallic glasses also have an incredible ability to store and release elastic energy.
+所以，如果有一种材料既像最坚固的钢材一样坚硬，又像塑料一样易于塑形，那该多好啊？那么，许多科学家和技术专家正对一种名为金属玻璃的相对较新的发明感到兴奋不已，它兼具这两种特性，甚至还有更多。金属玻璃看起来像金属一样有光泽且不透明。而且和金属一样，它们能导热和导电。但它们比大多数金属都要坚硬，这意味着它们可以承受很大的力而不弯曲或凹陷，因此可以制成极其锋利的手术刀和极其坚固的电子设备外壳、铰链、螺丝等等。金属玻璃还具有令人难以置信的储存和释放弹性能量的能力。
+Which makes them perfect for sports equipment, like tennis rackets, golf clubs, and skis. They're resistant to corrosion and can be cast into complex shapes with mirror-like surfaces in a single molding step. Despite their strength at room temperature, if you go up a few hundred degrees Celsius, they soften significantly and can be deformed into any shape you like, cool them back down, and they regain strength. So where do all of these wondrous attributes come from?
+这使得它们非常适合用于运动器材，比如网球拍、高尔夫球杆和滑雪板。它们耐腐蚀，而且可以在一次成型过程中浇铸成具有镜面般表面的复杂形状。尽管它们在室温下很坚固，但只要温度升高几百摄氏度，它们就会显著软化，可以塑造成任何你想要的形状；冷却后，它们又会恢复强度。那么，所有这些神奇的属性从何而来呢？
+In essence, they have to do with metallic glasses' unique atomic structure. Most metals are crystalline as solids. That means that if you zoomed in close enough to see the individual atoms, they'd be neatly lined up in an orderly, repeating pattern that extends throughout the whole material.
+本质上，这些奇妙特性与金属玻璃独特的原子结构有关。大多数金属在固态下都是结晶的。这意味着，如果你把金属放大到足以看到单个原子的程度，它们就会整齐地排列成一种有规律的重复图案，并延伸到整个材料中。
+Ice is crystalline. And so are diamonds and salt. If you heat these materials up enough and melt them, the atoms can jiggle freely and move randomly.
+冰是晶体。钻石和盐也是如此。如果把这些物质加热到足够高的温度并使它们熔化，原子就可以自由振动并随机移动。
+But when you cool them back down, the atoms reorganize themselves, reestablishing the crystal. But what if you could cool a molten metal so fast that the atoms couldn't find their places again? So that the material was solid but with the chaotic amorphous internal structure of a liquid? That's metallic glass.
+但当它们冷却下来时，原子会重新排列，重新形成晶体。但是，如果你能把熔融金属冷却得非常快，快到原子来不及重新找到各自的位置，会怎么样？这样，材料就会保持固态，但内部却具有液体那种混乱无序的结构？那就是金属玻璃。
+This structure has the added benefit of lacking the grain boundaries that most metals have. Those are weak spots where the material is more susceptible to scratches or corrosion. The first metallic glass was made in the 1960s from gold and silicon.
+这种结构还有一个好处，就是没有大多数金属所具有的晶界。那些是材料较容易受到划痕或腐蚀的薄弱点。第一种金属玻璃于20世纪60年代由金和硅制成。
+It wasn't easy to make. Because metal atoms crystallize so rapidly, scientists had to cool the alloy down incredibly fast, a million degrees Kelvin per second. By shooting timed droplets at cold copper plates, or spinning ultra-thin ribbons. At that time, metallic glasses could only be tens or hundreds of microns thick, which was too thin for most practical applications.
+这并不容易。因为金属原子结晶得非常迅速，科学家必须以极快的速度冷却合金，每秒一百万开尔文。通过将定时滴注的液滴射到冷铜板上，或旋转超薄带材。当时，金属玻璃的厚度只能达到几十到几百微米，对于大多数实际应用来说太薄了。
+But since then, scientists have figured out that if you blend several metals that mix with each other freely, but can't easily crystallize together, usually because they have very different atomic sizes, the mixture crystallizes much more slowly. That means you don't have to cool it down as fast. So the material can be thicker, centimeters instead of micrometers.
+但此后，科学家们发现，如果将几种彼此可以自由混合但不易共同结晶的金属混合在一起，通常是因为它们的原子尺寸相差很大，那么这种混合物的结晶速度会慢得多。这意味着你不必让它冷却得那么快。所以这种材料可以做得更厚，用厘米而不是微米来衡量。
+These materials are called bulk metallic glasses, or BMGs. Now, there are hundreds of different BMGs. So why aren't all of our bridges and cars made out of them?
+这些材料被称为块体金属玻璃，简称 BMG。现在，有数百种不同的块体金属玻璃。那么，为什么我们的桥梁和汽车不都用它们来制造呢？
+Many of the BMGs currently available are made from expensive metals, like palladium and zirconia. And they have to be really pure, because any impurities can cause crystallization. So if BMG skyscraper or space shuttle would be astronomically expensive. And despite their strength, they're not yet tough enough for load-bearing applications, when the stresses get high, they can fracture without warning, which isn't ideal for, say, a bridge.
+目前可用的许多 BMG 都由钯和氧化锆等昂贵的金属制成。而且它们必须非常纯净，因为任何杂质都可能导致结晶。所以，如果BMG是摩天大楼或航天飞机，那它的造价将高得离谱。尽管它们强度很高，但目前还不足以用于承重应用。当应力变高时，它们可能会在没有任何征兆的情况下断裂，这并不适合桥梁之类的结构。
+But when engineers figure out how to make BMGs from cheaper metals, and how to make them even tougher, for these super materials, the sky's the limit.
+但当工程师们弄清楚如何用更便宜的金属制造生物金属结构，以及如何让它们变得更坚固时，这种超级材料的用途将无限广阔。
+So by the way, the cat education, TED education, they have a series of very beautiful books like this. So if you're interested, you can simply search them on YouTube. And there are many, many such types that are for education purposes.
+顺便说一下，Cat Education、TED Education 都有一系列像这样的非常漂亮的书。所以，如果你感兴趣，可以直接在 YouTube 上搜索。而且还有很多很多这类用于教育目的的类型。
+Okay.
+好的。
+All right. So let's pretty much I'd like to stop for today. I already attached all the links in the following pages. If you're interested, you can feel free to preview them by yourself before next week.
+好的。那么，今天就差不多到这里吧。我已经在以下页面中附上了所有链接。如果你感兴趣，可以先自己预览一下，为下周做准备。
+So just a reminder that tomorrow we'll release the final one, and also release the titles of projects for you to choose. Do stay posted about the announcement in Blackboard. Okay?
+提醒一下，明天我们会发布最终版本，也会公布项目名称供你们选择。请留意 Blackboard 上的通知。好吗？
+So.
+那么。

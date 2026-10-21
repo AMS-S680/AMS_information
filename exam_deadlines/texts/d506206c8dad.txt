@@ -1,0 +1,616 @@
+=== PAGE 1 ===
+AMSC 5730
+Frontiers in Advanced Materials 
+先進材料前沿
+
+=== PAGE 2 ===
+Teaching materials available in 
+BlackBoard
+https://blackboard.cuhk.edu.hk/ultra/courses/_271955_1/outline
+Lecture notes 
+Announcements
+Other information (teacher-dependent)
+
+=== PAGE 3 ===
+3
+Lectures
+:   	Thursday  18:30 pm – 21:15 pm  	
+Cheng Yu Tung Building 209A
+	      
+Teaching Assistants
+:  
+WANG Yu : wangyuu@link.cuhk.edu.hk
+ 
+	
+		
+Assessment scheme 
+Class works/Quizzes				30 %
+Classroom Presentations				40 %	
+Essay							30%
+General information
+[Speaker notes]
+3
+
+=== PAGE 4 ===
+4
+Assessment methods
+Class works/Quizzes 
+Taking place in individual seminars (during class). 
+No make up, all counted
+.				
+Classroom Presentations	
+			
+Taking place in the last two weeks of the teaching semester. 
+20 groups 
+will be formed for Group presentation (
+3~4 
+students per group).  Grouping is on random base and carried out by TA. Each presentation includes 
+10 min talk +3 min Q&A
+. This is a very concise presentation with in-depth analysis of one important problem in a specific field of interest. 
+Presentation topics are provided (first come first serve)
+.
+Essay	
+						
+Due 
+one week after the last official teaching day of the course 
+(Dec. 3
+rd
+). 
+25 groups 
+will be formed for Group essay (
+2~3 
+students per group, 
+students who were grouped together in the presentation grouping will be avoided for essay grouping
+). 
+Essay topics are provided (first come first serve)
+. Maximum 
+5 pages text (figure pages not counted), single spacing, 12 font. Contribution from individual student needs to be elaborated
+. 
+General information
+
+=== PAGE 5 ===
+5
+Prof. Quan LI (PHY)
+               				
+liquan@cuhk.edu.hk
+Prof. Junyi ZHU 
+(PHY)
+ 					
+jyzhu@phy.cuhk.edu.hk
+Prof. Oleksandr. SAVATIEIEV 
+(CHEM)
+ 			
+oleksandrsavatieiev@cuhk.edu.hk
+Prof. Xinhui LU	
+ (PHY)
+ 					
+xinhui.lu@cuhk.edu.hk
+Prof. To NGAI 
+(CHEM)
+ 					
+tongai@cuhk.edu.hk
+Prof. Lei XU 
+(PHY)
+ 					
+xuleixu@cuhk.edu.hk
+Prof. Ye CHEN 
+(CHEM)
+ 				
+yechen@cuhk.edu.hk
+Prof. 
+Jiangfang
+ WANG 
+(PHY)
+ 				
+jfwang@phy.cuhk.edu.hk
+Prof. 
+Zhifeng
+ HUANG 
+(CHEM)
+ 				
+zfhuang@cuhk.edu.hk
+Prof. Qian MIAO/Prof. Qingyun WAN			
+miaoqian@cuhk.edu.hk
+(CHEM)
+ 						
+qingyunwan@cuhk.edu.hk
+Instructors
+
+=== PAGE 6 ===
+Frontiers in Advanced 
+Materials 
+  What is Materials?
+  Classifications of Materials 
+
+=== PAGE 7 ===
+7
+Materials
+Materials are basic substances that can be made up of anything. All matter is potentially ‘a 
+material
+’.
+
+=== PAGE 8 ===
+8
+We decide to call or identify “something” as “material”, base on its 
+properties
+ (structural, mechanical, electrical, magnetic or optical) which enable us to: (
+i
+) 
+suggest its role in some processes
+ or applications, or (ii) convert it into a useful or meaningful thing, such as a tool or a device.
+Semiconductor chip
+Self cleaning fabric
+[Speaker notes]
+8
+
+=== PAGE 9 ===
+9
+          Examples of materials
+Natural 
+: 
+wood, stone, spider silk, Cu, etc.
+Man made
+: plastics, rubbers, stainless steel
+There are about 300,000 different materials.
+
+=== PAGE 10 ===
+Coke container
+Polyethylene terephthalate
+Glass
+Aluminium 
+
+=== PAGE 11 ===
+11
+Materials Science
+ 
+is the study of matters. It is a 
+multidisciplinary field 
+involving the studies of matters and their applications to various areas of Science and Engineering. 
+The material paradigm 
+It includes topics (and apply knowledge) in mathematics, physics, chemistry, biology and medical science, as well as various engineering disciplines.  
+[Speaker notes]
+11
+
+=== PAGE 12 ===
+12
+Matters are made up of elements 
+元素
+The construction of the periodic table is based on the atomic structures of the elements.
+[Speaker notes]
+12
+
+=== PAGE 13 ===
+13
+Bohr atomic model
+ (by Neil Bohr in 1913)
+ electrons are assigned into the orbitals according to certain rules;
+ they revolve around the nucleus in discrete orbitals;
+ characteristic of any particular electron is more or less well-defined in terms of its orbital depending on their energies.
+A schematic representation of the Bohr atom
+Quantum mechanical description:
+ electrons are quantized; they are in certain orbital; they are  
+permitted to have only specific values of energy
+.
+ to change energy, they must jump from one level to another (jumping down – 
+emission
+; jumping up –  
+absorption
+).
+
+=== PAGE 14 ===
+14
+Basic facts about bonds
+(2 classes: Primary & Secondary)
+Primary bonding (3 types): ionic
+, 
+covalent
+, and 
+metallic
+ bonds.
+Ionic 
+involves the 
+transfer of electrons
+ from one type of atom (metallic) to another. This bonding results from the 
+electrostatic attraction
+ (Coulomb force) between oppositely charged ions.
+In 
+covalent bonded
+ materials, the shared electrons forms 
+bonds between pairs of adjacent atoms
+. Such bonding can result in molecules with as few as two atoms, and up to those with very large number of atoms in the giant molecules as in polymers.
+Metallic bonds
+ found only in 
+metals
+, where the 
+bonding electrons are delocalized
+ and spread out over the array of atoms.
+Secondary bonding (2 types)
+ : 
+Hydrogen bond 
+exists between a bound hydrogen atom and the electrons of adjacent atoms. The 
+van der Waals force 
+exists between adjacent molecules that have molecular dipoles. (different types of charges at both ends , which may be permanent or induced)    
+
+=== PAGE 15 ===
+15
+PA Thower
+Na /11;  Cl /17
+C /6
+H /2;  O /8
+Cu /29
+
+=== PAGE 16 ===
+16
+van de Waals force
+from Callister 
+hydrogen bonding
+
+=== PAGE 17 ===
+17
+Atomic energy level to band structure
+
+=== PAGE 18 ===
+18
+
+=== PAGE 19 ===
+19
+Conventional classification
+Metals 
+Polymer
+s
+Ceramics
+ 
+ 
+4. Composites 
+With emphasis on mechanical properties
+Materials Classifications
+
+=== PAGE 20 ===
+20
+
+=== PAGE 21 ===
+Evolution of Materials
+
+=== PAGE 22 ===
+Evolution of Materials
+
+=== PAGE 23 ===
+Frontiers in 
+Advanced 
+Materials 
+
+=== PAGE 24 ===
+24
+An example Carbon Materials
+
+=== PAGE 25 ===
+25
+Electron configuration of Carbon
+
+=== PAGE 26 ===
+26
+
+=== PAGE 27 ===
+27
+A model for beauty and hardness, the 
+diamond
+, combined with never tarnishing gold in an engagement ring, is the stone of choice to symbolize the purity and longevity of love and marriage.  
+Cullinan Diamond
+[Speaker notes]
+27
+
+=== PAGE 28 ===
+28
+Diamond formation
+Most natural diamonds are formed at high temperature and pressure at depths of 140 to 190 kilometers in the Earth's mantle. Carbon-containing minerals provide the carbon source, and the growth occurs over periods from 1 billion to 3.3 billion years (25% to 75% of the age of the Earth)
+
+=== PAGE 29 ===
+29
+
+=== PAGE 30 ===
+30
+A more stable form of carbon
+							--Graphite 
+Graphite is a naturally-occurring form of crystalline carbon. It is a native element mineral found in metamorphic and igneous rocks .
+
+=== PAGE 31 ===
+31
+Diamond like carbon
+Further development from known forms of carbon
+					
+[Speaker notes]
+31
+
+=== PAGE 32 ===
+32
+New forms of carbon			
+C
+60
+, 
+fullerene
+（
+富勒烯
+）
+CNT (
+碳納米管
+)
+Graphene (
+石墨烯
+)
+Discovered in 1985. 1996 Nobel Prize to Harry Kroto of Sussex University, Robert Curl and Richard Smalley (both of Rice University in Houston, USA).
+“In June, 1991, I found an extremely thin needle-like material under an electron microscope. Soon thereafter the material was proved to have a graphite structure basically. I named these materials “carbon nanotubes”  --
+ SUMIO IIJIMA
+Although scientists knew one atom thick, 2D crystal graphene existed, no-one had worked out how to extract it from graphite, until it was isolated in 2004 by two researchers at The University of Manchester, Prof Andre Geim and Prof Kostya Novoselov
+. 2010 
+Nobel Prize 
+[Speaker notes]
+32
+
+=== PAGE 33 ===
+33
+Defect centers in Diamond			
+Defect 
+centers
+ in a diamond lattice are localized disruptions in the regular carbon arrangement.
+[Speaker notes]
+33
+
+=== PAGE 34 ===
+34
+NV centers in Diamond			
+3
+A
+1
+A
+3
+E
+Laser
+MW pulses
+[Speaker notes]
+34
+
+=== PAGE 35 ===
+Frontiers
+ in Advanced Materials 
+
+=== PAGE 36 ===
+Semiconductor materials 
+Band gap
+Doping and defects
+p-n junction
+Semiconductor alloys
+Crystal growth techniques
+Semiconductor materials and crystal growth
+Prof. ZHU Junyi
+
+=== PAGE 37 ===
+Materials in Photocatalysis
+ 
+Prof. Oleksandr SAVATIEIEV
+Photocatalysts (semiconductors)
+Semiconductor photocatalysis 
+Exciton formation
+Separation of the electron-hole pairs
+Redox reactions 
+Photocatalyst efficacy and strategies for efficacy maximization
+Frontier research topics in the field of photocatalysis
+
+=== PAGE 38 ===
+Photovoltaic materials, fundamental mechanism, device fabrication, and research frontiers 
+Prof. Xinhui LU
+W
+orking mechanism of solar cells
+ (silicon, organic and perovskite solar cells)
+Common device architectures 
+Single-junction 
+Tandem cell
+Fabrication approaches
+Research frontiers in 
+photovoltaic (PV) technologies
+
+=== PAGE 39 ===
+Colloidal Materials and Interfaces
+Prof. To NGAI
+Fundamentals of colloids and interfaces 
+Theoretical framework and practical insights 
+Application of colloids & interfaces
+Pharmaceuticals 
+Food formulations 
+Environmental sustainability
+Energy technologies
+
+=== PAGE 40 ===
+Hydrodynamic and Mechanical Metamaterials
+Prof. Lei XU
+Metamaterials and their representative functions
+Principles
+Typical functionalities 
+F
+ield invisibility
+Field rotation
+Field focusing
+[Speaker notes]
+Metamaterials are artificially engineered materials designed to interact with waves—such as light, sound, or radio signals—in ways that do not occur in nature.
+Unlike natural materials, which get their properties from atoms and molecules, metamaterials get their unique powers from their 
+microscopic structure
+. By shaping and organizing these tiny internal patterns, scientists can force waves to bend, block, or bounce in unusual directions.
+40
+
+=== PAGE 41 ===
+Wet-chemical synthesis of inorganic nanocrystals
+Prof. Ye CHEN
+Wet-chemical synthesis 
+Methods to realize morphology, dimension, and composition controls 
+Defects, lattices and crystal structures at 
+nanometer
+ scale
+
+=== PAGE 42 ===
+Plasmonic Nanoparticles and Nanostructures 
+Prof
+. Jianfang WANG
+Fundamentals of surface plasmon resonance
+Synthesis of plasmonic nanoparticles and the fabrication of plasmonic nanostructures
+Selected examples of plasmonic applications in optics and photonics, sensing and detection, and photocatalysis.
+
+=== PAGE 43 ===
+Chiral nanomaterials: manipulation 
+of symmetry breaking of molecules
+Prof. 
+Zhifeng
+ HUANG
+Concepts of chirality transfer, homochirality, asymmetric synthesis. 
+Representative strategies of molecular symmetry breaking 
+Enantiospecific inorganic-organic interactions 
+Circularly polarized light-mediated chirality transfer 
+Spin-selective chemistry
+Representative case studies, current limitations, and future opportunities
+[Speaker notes]
+A chiral material is a substance that cannot be superimposed on its own mirror image, much like your left and right hands
+Because of their asymmetrical structure, chiral materials twist and alter waves that pass through them in unique ways
+43
+
+=== PAGE 44 ===
+Organic electronics: Introduction to organic electronics with a case study on molecular engineering of organic field effect transistors
+Prof. Qian MIAO, Prof. Qingyun WAN
+Fundamental physical properties of organic semiconductors
+Working principles of organic electronics
+Device architecture 
+Case study: molecular engineering of organic field-effect transistors (OFETs)
+
+=== PAGE 45 ===
+Timetable
+Week 1        (Sept 10
+th
+)
+Introduction of course and topics (LI)
+Week 2        (Sept 17
+th
+)
+Semiconductor materials and crystal growth (ZHU)
+Week 3        (Sept 24
+th
+)
+Materials in Photocatalysis (
+SAVATIEIEV
+)
+Week 4        (Oct 1
+st
+ )
+Holiday
+Week 5         (Oct 8
+th
+) 
+Photovoltaic materials, fundamental mechanism, device fabrication, and research frontiers (LU)
+Week 6         (Oct 15
+th
+)
+Colloidal Materials and Interfaces (NGAI) 
+Week 7         (Oct 22
+nd
+ )
+Hydrodynamic and Mechanical Metamaterials (XU)
+Week 8         (Oct 29
+th
+)
+Wet-chemical synthesis of inorganic nanocrystals (CHEN)
+Week 9         (Nov 5
+th
+)
+Plasmonic Nanoparticles and Nanostructures (WANG)
+Week 10       (Nov 12
+th
+)
+Chiral nanomaterials: manipulation 
+of symmetry breaking of molecules (HUANG) 
+Week 11       (Nov 19
+th
+)
+Organic electronics: Introduction to organic electronics with a case study on molecular engineering of OFET(MIAO &WAN)
+Week 12       (Nov 26
+th
+)
+Final presentation (LI)
+Week 13       
+(Dec 3
+th 
+change to Nov 28
+th
+, 10:30-13:00, SC L4)
+Final presentation (LI)
+
+=== PAGE 46 ===
+1. 
+Doping and defects in semiconductor materials
+2. Physical origin of band gap and carrier mobility 
+3. How to tune conduction and valence band energy levels in semiconductors?
+4. 
+pn
+ junction and light emitting diodes
+5. How to suppress charge carrier recombination in semiconductor photocatalysts?
+6. How to quantify efficacy of semiconductor photocatalysts to drive chemical reactions?
+7. Perovskite solar cells: operating principles, key issues and solutions
+8. Organic photovoltaics: device physics and materials development
+9. Indoor photovoltaics: key issues in materials
+10. Phosphorescent organic light-emitting diodes
+11. 
+Bulk heterojunctions versus bilayer organic solar cells
+12. Doping in organic semiconductors  
+13. How to realize invisibility in metamaterials?
+14. How to Realize Negative Poisson’s Ratio?
+15. Active and Passive Metamaterials
+16. Uniqueness of high-entropy nanomaterials
+17. Single-atom, dual-atom, and few-atom catalysts 
+18. Bio-inspired nanomaterials
+19. Plasmonic nanocavities
+20. 2D excitons
+21. Plasmon-exciton coupling
+22. Circularly polarized luminescence generated from chiral inorganic nanostructures
+23. Chiral-induced spin selectivity 
+24. Chiral plasmonic nanoparticles
+25. 
+Why surface and interfaces are important?
+26. Challenges in characterizing colloidal particles and solutions
+Presentation topics
+
+=== PAGE 47 ===
+1. How to control doping and defects in wide band gap semiconductors
+2. Review of OMVPE technique in nitride and phosphide. 
+3. Modern technique to construct phase diagram of semiconductor alloys
+4. Donor-acceptor conjugated systems
+5. Photoinduced electron transfer in semiconductor photocatalysis.
+6. Steady-state UV-visible absorption spectroscopy for characterization of semiconductor photocatalysts.
+7. Steady-state photoluminescence spectroscopy for characterization of semiconductor photocatalysts.
+8. Time-resolved photoluminescence spectroscopy for characterization of semiconductor photocatalysts.
+9. Efficiency limits of single-junction solar cells and the development of tandem architectures
+10. Competition between silicon, perovskite, and organic solar cells
+11. Solution processing and morphology control in organic photovoltaics
+12. Voltage loss and how to overcome
+13. Fill factor loss and how to overcome
+14. Colloidal Stability
+15. Pickering Emulsion Polymerization
+16. Colloids in Sunscreen 
+17. Optical Metamaterials
+18. Thermal Metamaterials
+19. Mechanical Metamaterials
+20. Hydrodynamic Metamaterials
+Essay topics
+
+=== PAGE 48 ===
+21. Atomically thin 2D nanomaterials
+23. Challenge and solution in synthesizing single-atom catalysts
+24. Synthesis and applications of
+25. Wet-chemical synthesis of metal organic frameworks: general principles
+26. Surface-enhanced Raman spectroscopy
+27. Plasmonic photocatalysis 
+28. Plasmonic photothermal conversion
+29. 
+Metasurfaces
+30. Valley excitons
+31. Chiral nanomaterials in asymmetric synthesis: current progress and key challenges;
+32. The future of chiral nanomaterials in catalysis, sensing, and spin-related technologies;
+33. Origin of biological homochirality;
+34. Stretchable and wearable organic electronics
+35. Harnessing the chirality-induced spin selectivity (CISS) effect in organic semiconductors
+36. OFET-based chemical and biological sensors
+37. Interface engineering for organic field effect transistors

@@ -1,0 +1,1018 @@
+=== PAGE 1 ===
+PHYS 5350
+techniques in
+materials characterization
+Auger electron spectroscopy
+
+=== PAGE 2 ===
+Primary beam
+(source)
+Secondary beam
+(result)
+Photons
+Electrons
+Ions
+…
+Photons
+Electrons
+Ions
+Phonons
+…
+2
+
+=== PAGE 3 ===
+Content
+Background
+Electron beam interaction
+Auger process
+Nomenclature
+Instrumentation
+Electron beam
+Spectral Interpretations
+Qualitative analysis
+Energy of Auger transition
+Intensity of Auger electrons
+Element identification
+Chemical state information
+SEM and Auger images
+Quantitative analysis
+Signal quantification
+Depth profile
+Auger electron spectroscopy
+3
+
+=== PAGE 4 ===
+The basic Auger process starts with the removal of an inner shell electron, leaving a vacancy (hole). Several processes are capable of producing the hole, but bombardment with 
+an electron beam 
+is the most common one. The hole is filled by a second electron from an outer shell, with excess energy simultaneously released. A third electron, the Auger electron, escapes carrying the excess energy in a 
+radiationless
+ process. Such a process of an excited atom decaying into a doubly charged ion by ejection of electrons is called the Auger process.
+Auger process
+4
+Auger electron spectroscopy: principle
+
+=== PAGE 5 ===
+Step 2: Relaxation : Auger emission or X-ray fluorescence   
+Step 1: Ionization
+In AES: a beam of high energy electrons (in the range 
+2 - 10 keV
+). Such electrons have sufficient energy to ionize all levels of the lighter elements, and higher core levels of the heavier elements.  
+In XPS: Soft X-rays 
+( h
+ν
+ = 1-2  
+keV
+ )
+. 
+KE = ( E
+K
+ - E
+L1 
+) - E
+L23
+ -
+ 
+φ 
+= E
+K
+ - ( E
+L1
+ + E
+L23
+ )
+ 
+-
+φ
+Measure kinetic energy of emitted low energy Auger electron (50eV-1.5keV)
+-Three electron process, leaving 
+doubly ionized 
+state
+Independent of the mechanism of initial core hole formation.
+ 
+In other words, independent of the energy of the incident beam.
+5
+Auger electron spectroscopy: principle
+[Speaker notes]
+Why XPS is not used for Auger analysis?
+Why the AES beam energy 2-10keV is higher than that of XPS source?
+5
+
+=== PAGE 6 ===
+The three symbols in the transition label correspond to the three energy levels involved in the transition.
+Nomenclature
+V
+Valence
+N7
+4f
+7/2
+N6
+4f
+5/2
+N5
+4d
+5/2
+N4
+4d
+3/2
+N3
+4p
+3/2
+N2
+4p
+1/2
+N1
+4s
+M5
+3d
+5/2
+M4
+3d
+3/2
+M3
+3p
+3/2
+M2
+3p
+1/2
+M1
+3s
+L3
+2p
+3/2
+L2
+2p
+1/2
+L1
+2s
+K
+1s
+6
+AES: Nomenclature
+
+=== PAGE 7 ===
+Why we use 
+high energy electron
+ source instead of 
+X-ray
+ 
+source
+ to ionize atoms during the AES (Auger Electron Spectroscopy) experiments:
+The reaction cross-section of electron with atoms are much higher than that of X-ray.
+Electron sources are cheap.
+Electron beam can be focused while X-ray cannot easily be focused. (better lateral resolution).
+Energy consumption of electron source is lower.
+X-ray radiation is much more hazardous than electron beam.
+7
+Auger electron spectroscopy: why electron source
+
+=== PAGE 8 ===
+http://xdb.lbl.gov/
+Al 
+2s
+=0.01Mb/atom; 
+Al: r=125pm
+h
+=1253.6eV (Mg K)
+When one photon hit the atom,
+the probability for one 2s electron being kicked out is:
+0.01×1
+0
+6
+×1
+0
+−28
+𝑚
+2
+𝜋
+×
+125×1
+0
+−12
+𝑚
+2
+=2.04×1
+0
+−5
+ 
+8
+[Speaker notes]
+Mb/atom stands for 
+megabarn
+ per atom, a unit used in atomic and nuclear physics to express 
+photoabsorption
+ or photoionization cross sections on a per-atom basis.
+One barn (b) equals 
+10
+−28
+ 
+m² or 100 fm², roughly the geometric cross-sectional area of a uranium nucleus, so 1 Mb = 
+10
+6
+ 
+b = 
+10
+−22
+ 
+m² 
+Mb/atom stands for 
+megabarn
+ per atom, a unit used in atomic and nuclear physics to express 
+photoabsorption
+ or photoionization cross sections on a per-atom basis.
+One barn (b) equals 
+10^(−28)
+ 
+m² or 100 fm², roughly the geometric cross-sectional area of a uranium nucleus, so 1 Mb = 
+10^6
+ 
+b = 
+10^(−22)
+ 
+m² 
+8
+
+=== PAGE 9 ===
+X-ray Mg K=1253.6eV: 
+
+Al,total
+~10
+-20
+cm
+2
+/atom, reaction rate: ~0.001%
+2keV electron: 
+
+Al,total
+~10
+-17
+ cm
+2
+/atom, reaction rate: ~10% 
+http://physics.nist.gov/PhysRefData/Ionization/atom_index.html
+ 
+9
+
+=== PAGE 10 ===
+Electron beam interaction
+100 
+Å
+10
+Auger electron spectroscopy: Interaction volume
+
+=== PAGE 11 ===
+In 
+1922,
+ 
+Lise
+ Meitner 
+discovered the cause of the emission of electrons from surfaces of atoms with 'signature' energies, known as the Auger effect. However, the effect is named 
+after
+ 
+Pierre Victor Auger
+, a French scientist who independently discovered the effect in 
+1923.
+ Auger electrons are emitted at discrete energies that allow the atom of origin to be identified.  The idea of using electron-stimulated Auger signals for surface analysis was first suggested in 
+1953
+ by 
+J. J. Lander
+.  However, the technique became practical for surface analysis after 
+Larry Harris
+ in 
+1967
+ demonstrated the use of differentiation for enhancing the Auger signals.
+Today, Auger electron spectroscopy is the most frequent analytical method for surfaces, thin-films, and interface compositions. This utility arises from the combination of 
+surface specificity 
+(0.5 to 10 nm), good 
+lateral surface resolution 
+(as little as 10 nm), 
+periodic table coverage 
+(except hydrogen and helium), and 
+reasonable sensitivity 
+(100 ppm for most elements).
+AES-History
+Lise
+ Meitner
+(1878-1968)
+Austrian-Swedish
+(1899-1993)
+French
+11
+[Speaker notes]
+11
+
+=== PAGE 12 ===
+Instead of a 
+N(E) vs E 
+plot, we normally take the first differential spectrum, 
+d[
+E
+x
+N
+(E)]/
+dE
+ vs E
+ for analysis since it clarifies some of the spectral details.
+Auger electron spectrum
+12
+AES-differential spectrum
+
+=== PAGE 13 ===
+The physics of different electron sources
+First type: Thermionic source, produces electrons when heated 
+Second type: a field-emission source. Emits electrons under high electron field
+In order to get the best signal out of our sample we have to put the best signal in.
+Tungsten cathode source
+Lanthanum hexaboride (LaB6) cathode source
+13
+AES-Electron source
+[Speaker notes]
+13
+
+=== PAGE 14 ===
+Heating any material to a high enough temperature, electrons got sufficient energy to overcome the natural barrier (
+Work function 
+) that prevents them from leaking out. 
+Richardson’s Law, 
+J=AT
+2
+e
+-/KT
+ 
+. J is current density, A is Richardson’s constant, which depends on the source materials,  K is Boltzmann constant
+Refractory materials (W) and those (LaB
+6
+) with an exceptionally low work function is good for filament. 
+Thermionic sources: W hairpin, LaB
+6
+ and other low- materials.
+14
+AES-Electron source: thermionic emission
+[Speaker notes]
+14
+
+=== PAGE 15 ===
+15
+AES-thermionic electron source setup
+
+=== PAGE 16 ===
+(A) The tip of a W hairpin filament and the distribution of electrons when the filament is (B) under-saturated and misaligned (C) under-saturated and aligned (D) saturated.
+A 
+tungsten cathode source
+ consists of a wire filament bent in the shape of a hairpin. The filament operates at ~2700 K by resistive heating. The tungsten cathodes are widely used because they are both reliable and inexpensive. Current densities are only about 1.75 A/cm
+2
+. 
+16
+AES-thermionic electron source: W filament
+[Speaker notes]
+16
+
+=== PAGE 17 ===
+Lanthanum hexaboride (LaB
+6
+) cathodes
+ provide higher current densities (brightness) because LaB
+6
+ has a lower work function and greater emissivity than tungsten. At 2000 K, current densities of ~100 A/cm
+2
+ are available. Higher current densities provide narrower electron beams useful for analyzing smaller features. 
+17
+AES-thermionic electron source: LaB6
+
+=== PAGE 18 ===
+Electron emission current increases with the filament heating current
+A maximum emission current termed saturation is reached when the heating current is high enough
+All thermionic sources should be operated at or just below saturation.
+18
+AES-thermionic source
+[Speaker notes]
+18
+
+=== PAGE 19 ===
+19
+AES-Electron source: Field emission 
+principle
+Field emission is 
+the process where electrons escape from a material's surface into a vacuum when a very strong external electric field is applied, causing the energy barrier to become thin enough for electrons to "tunnel" through it quantum mechanically, rather than needing heat to overcome it
+.
+The field electron emission is commonly described by the Fowler-Nordheim (FN) equation.
+J is the current density (A/m2)
+F is the local electric field (V/m)
+is the work function (eV)
+A, B are constants related to fundamental physical constants and material properties
+𝐽
+∝
+ 
+𝐴
+ 
+𝐹
+2
+exp
+(−
+𝐵
+𝜑
+3/2
+𝐹
+)
+ 
+
+=== PAGE 20 ===
+Field emission electron sources
+ consist of very sharp tungsten points at which electrical fields can be >10
+7
+ V/cm.  At these fields, electrons tunnel directly through the barrier and leave the emitter. Field emission guns provide the brightest beams (10
+3
+ to 10
+6
+ A/cm
+2
+). Electron beams as narrow as 10 nm provide Auger analysis of small features. 
+20
+AES-Electron source: Field emission source
+
+=== PAGE 21 ===
+250um
+The radius of the tip apex is usually smaller than 100nm
+An SEM image of a W tip
+However, the high electric field impose severe stress on the tip and materials should be strong.
+Usually a sharp W tip was used.
+A W tip, showing the extraordinarily fine W needle.
+21
+AES-Electron source: Field emission source
+[Speaker notes]
+21
+
+=== PAGE 22 ===
+Strength of an electric field E is related to the voltage V applied to the (spherical) point of radius r as 
+E=V/r
+High electric field lowers the work function barrier sufficiently for electrons to tunnel out of the material. 
+For a W tip, r<100nm, 1kV potential: E>10
+10
+V/m
+22
+AES-Electron source: Field emission source
+Δφ
+ (image-force barrier lowering) arises from the classical electrostatic attraction between the emitted electron and its induced image charge in the metal surface, which rounds off the top of the triangular barrier and reduces the effective barrier height.
+[Speaker notes]
+22
+
+=== PAGE 23 ===
+23
+Total Barrier: Under applied field E, the total potential barrier is  
+  
+𝑉
+𝑥
+=
+𝜙
+−
+𝑒𝐸𝑥
++
+𝑉
+image
+𝑥
+=
+𝜙
+−
+𝑒𝐸𝑥
+−
+𝑒
+2
+16
+𝜋
+𝜖
+0
+𝑥
+.
+ 
+𝑒𝐸𝑥
+ 
+represents 
+the electrostatic potential energy drop due to the applied electric field E. 
+This term dominates far from the surface; close in, the image potential 
+𝑉
+image
+ 
+becomes significant, lowering the barrier top by 
+Δφ.
+ 
+Image Potential: For an electron (charge -e) at distance x > 0 from the metal surface, it induces an image charge +e at x = -x. The image potential energy is 
+𝑉
+image
+𝑥
+=−
+1
+4
+𝜋
+𝜖
+0
+𝑒
+2
+4
+𝑥
+.
+ 
+Barrier Maximum: Set 
+𝑑𝑉
+𝑑𝑥
+=0
+ 
+to find the peak at 
+𝑥
+0
+=
+𝑒
+16
+𝜋
+𝜖
+0
+𝐸
+.
+ 
+Substitute 
+𝑥
+0
+ 
+into 
+V
+(
+x
+0
+)
+, yielding 
+Δ
+𝜙
+=
+𝑒
+2
+16
+𝜋
+𝜖
+0
+𝑥
+0
+=
+𝑒
+∣
+𝐸
+∣
+4
+𝜋
+𝜖
+0
+.
+ 
+
+=== PAGE 24 ===
+24
+
+=== PAGE 25 ===
+How to make a sharp W tip
+Chemical etching method for making sharp W tips
+25
+Highest current density
+Flow of tungsten ions
+Necking
+[Speaker notes]
+25
+
+=== PAGE 26 ===
+AES-Comparison of e-guns
+Characteristics of the three principal sources operating at 100 keV.
+26
+[Speaker notes]
+26
+
+=== PAGE 27 ===
+Auger electron spectrometers use electron multipliers similar to those used in XPS. The AES electron multipliers usually operate in pulse counting mode which records every electron as it arrives at the detector. 
+Cylindrical Mirror Analyzer (CMA)
+Electron source
+Electron analyzer
+Electron Multiplier
+Lock-in amplifier
+27
+AES-Instrumentation
+
+=== PAGE 28 ===
+Strong interfering signals (background) accompany the Auger electrons in all regions of the Auger spectrum. 
+The interference includes contributions from 
+ 
+The figure shows a typical AES spectrum (of iron) plotted as total electron signal, 
+N(E)
+, versus electron kinetic energy. The Auger peaks are obscure even after expanding the vertical scale.
+AES Data Display Algorithms
+28
+Secondary electrons
+backscattered electrons
+Auger electrons that have lost energy as they escape from beneath the sample surface. 
+
+=== PAGE 29 ===
+Plotting the spectrum as the derivative of the electron energy distribution 
+d
+N
+(E)
+/
+d
+E
+, clarifies some of the spectral details. 
+To get the derivative form of Auger spectrum, a Lock-in amplifier is used.
+Displaying Auger spectra as derivative enhances the sharp Auger peaks and deemphasizes the relatively intense and structureless background.
+29
+AES Data Display Algorithms
+[Speaker notes]
+Modulation:
+ A small AC modulation voltage is added to the DC ramp of the electron energy 
+analyzer
+.
+Detection:
+ The detector picks up a signal containing both the DC background and the AC response.
+Differentiation:
+ The lock-in amplifier measures the amplitude of the signal at the modulation frequency. Mathematically, this amplitude is proportional to the first derivative of the energy distribution (
+𝑑𝑁
+𝐸
+𝑑
+𝐸
+(
+While modern instruments often acquire direct intensities and differentiate them digitally using algorithms, the lock-in technique remains a fundamental method for direct 
+analog
+ differentiation with high signal-to-noise ratios.
+Modulation:
+ A small AC modulation voltage is added to the DC ramp of the electron energy 
+analyzer
+.
+Detection:
+ The detector picks up a signal containing both the DC background and the AC response.
+Differentiation:
+ The lock-in amplifier measures the amplitude of the signal at the modulation frequency. Mathematically, this amplitude is proportional to the first derivative of the energy distribution (
+𝑑𝑁
+ (𝐸)∕𝑑
+ 𝐸
+(
+While modern instruments often acquire direct intensities and differentiate them digitally using algorithms, the lock-in technique remains a fundamental method for direct 
+analog
+ differentiation with high signal-to-noise ratios.
+29
+
+=== PAGE 30 ===
+Spectral interpretations – Qualitative analysis
+Qualitative analysis
+Qualitative analysis by Auger electron spectroscopy depends on identification of the elements responsible for the various peaks in the spectrum.  The figure shows the most useful Auger peaks in the KLL, LMM, and MNN parts of the spectrum as well as higher transitions for elements above cesium. The red dots indicate the strongest and most characteristic peaks
+30
+[Speaker notes]
+30
+
+=== PAGE 31 ===
+AES
+KE = ( BE
+K
+ - BE
+L1 
+) - BE
+L23
+ -
+φ
+BE = hv - KE
+ -
+φ
+31
+
+=== PAGE 32 ===
+Group of peaks
+Spectral interpretations – Qualitative analysis
+32
+FeCr
+
+=== PAGE 33 ===
+1
+s
+2
+s
+2
+p
+3
+s
+3
+p
+3
+d
+4
+s
+4
+p
+4
+d
+4
+f
+For MNN Auger peaks, we may have:
+M1N1N1
+M1N1N2
+M1N1N3
+M1N1N4
+……
+M1N2N2
+M1N2N3
+M1N2N4
+……
+M2N1N1
+M2N1N2
+M2N1N3
+……
+M3……
+33
+
+=== PAGE 34 ===
+Spectral interpretations– Qualitative 
+analysis
+Energy of Auger transition
+The binding energy of a level in the presence of a 
+core hole 
+is greater than the that of the same level in a neutral atom, so that both E
+B
+ and E
+C
+ need to be corrected
+For approximation, the following equation was used to estimate the kinetic energy of Auger electrons (z: atomic number of the atom). This is taken into consideration of core-hole and screening effect
+34
+𝐸
+𝐴𝐵𝐶
+=
+𝐸
+𝐴
+𝑧
+−
+𝐸
+𝐵
+𝑧
+−
+𝐸
+𝐶
+(
+𝑧
+)
+ 
+where E
+A
+, E
+B
+, and E
+C
+ are the binding energies of electrons in the three levels
+
+=== PAGE 35 ===
+35
+Spectral interpretations– Qualitative 
+analysis
+Classroom exercise
+Calculate the kinetic energies of KLL Auger peaks from a clean polycrystalline Al surface with information provided below
+Al BE of 1s [K] electrons = 1559.6 eV
+Al BE of 2s [L1] electrons = 117.7eV
+Al BE of 2p [L23] electrons = 73.1 eV
+Si BE of 2s [L1] electrons = 148.7 eV
+Si BE of 2p [L23] electrons = 99.2 eV
+Work function of polycrystalline Al= 4.2 eV
+[Speaker notes]
+35
+
+=== PAGE 36 ===
+36
+Spectral interpretations– Qualitative 
+analysis
+Classroom exercise solution
+E
+k
+= 1559.6 eV
+E
+L1
+=0.5 (117.7 +148.7)= 133.2 eV
+E
+L23
+= 0.5 (73.1 + 99.2) = 86.15 eV
+E (KL1L1)= 1289 eV
+E(KL1L23)=1336.05 eV
+E(KL23L23)= 1383.1eV
+[Speaker notes]
+There are three possible KLL transitions
+KL1L1, KL1L23, KL23L23
+36
+
+=== PAGE 37 ===
+Spectral interpretations – Qualitative analysis
+Element identification
+General elemental identification procedure
+1.	Concentrating on the major peaks and comparing the peak positions with Auger electron energy chart or table.
+2.	Referring to the standard spectra of the elements in question and making positive identification of major constituents.
+3.	Labeling all peaks related to the identified major constituents.
+4.	Repeat 1-3 for other 
+unlabelled
+ peaks.
+37
+
+=== PAGE 38 ===
+Ni, Fe and Cr are preliminarily identified.
+Spectral interpretations – Qualitative analysis
+Element identification
+http://srdata.nist.gov/xps/main_search_menu.aspx
+ 
+38
+
+=== PAGE 39 ===
+Spectral interpretations – Qualitative analysis
+Element identification
+39
+
+=== PAGE 40 ===
+The energy position and shape of an Auger peak contains information about the chemical environment. 
+Theoretical predictions are difficult.  Reference spectra are often used for comparison.
+Spectral interpretations – Qualitative analysis
+Chemical state information
+40
+[Speaker notes]
+Factor to consider not only include the core-hole effect, but also the final state relaxation
+40
+
+=== PAGE 41 ===
+Chemical shift
+.
+ The chemical shift could be quite complex since 3 orbitals are involved in a single Auger transition.
+Auger Line shape Analysis:
+If the valence band is involved.
+Density of state(DOS) of the band will affect the peak shape and width.
+The energy loss mechanism changed
+The shape of the low energy part of the peak will also change.
+KE = ( E
+K
+ – E
+L2
+ ) - E
+L3
+ 
+41
+Spectral interpretations – Qualitative 
+analysis
+
+=== PAGE 42 ===
+Auger transition of a given type can be initiated only after a given core electron is ionized.
+A minimum (threshold) energy E
+th
+ is required for the incident electrons for the intended excitation
+Spectral interpretations – Quantitative 
+analysis
+Ionization cross-section
+42
+Above E
+th
+, the rate of  ionization is directly proportional to the incident electron flux 
+𝜑
+ and the number of atoms per unit volume n
+The ionization cross-section 
+𝜎
+ first increase with the incident electron energy and peaks when the incident energy is 3-5 times of E
+th
+ 
+𝑑𝑛
+𝑑𝑡
+=
+𝑛
+𝜑𝜎
+ 
+[Speaker notes]
+If possible, one wish to use not so large incident electron energy
+We are interested in Auger transitions due to inner shell ionization of energy less than 1500eV, the primary electron energy is usually restricted to 5-10 KeV
+42
+
+=== PAGE 43 ===
+The Auger process competes with the x-ray fluorescence process in an excited ion.
+Total of Auger and XRF yields is 1. 
+Spectral interpretations – Quantitative 
+analysis
+Auger yield
+43
+For KLL, the P
+X
+ overtakes P
+A
+ when the atomic number is greater than 32
+Auger electron emission is the more probable decay mechanism for low energy transitions (<1.5 keV)
+Low atomic number elements (K shell)
+High atomic number elements (L/M shell)  
+By choosing an appropriate Auger transition, all elements (except H and He) can be detected.
+
+=== PAGE 44 ===
+44
+Backscattering
+The majority of incident electrons will penetrate into the sample with some of them backscattered and come back to surface region, exciting the Auger process if they have enough energy.
+The contribution to Auger signal depends on the incident electron energy and the backscattering probability, which is a function of the atomic number of the specimen. 
+Primary electrons
+Auger electrons by direct beam
+Specimen surface
+Auger electrons by backscattering
+
+=== PAGE 45 ===
+45
+Classroom exercise
+One deposits a thin film of molybdenum (42) onto a tungsten (74) substrate and monitors the Mo Auger peak intensity. 
+At small Mo thickness, the Auger signal increase linearly with the thickness. However, with further increase in the film thickness, the Auger signal reaches a maximum and then decrease slowly to the steady state value of the bulk Mo.  The Auger signal at the maximum is ~20% than that obtained from bulk Mo.  How to understand this?
+Mo Auger intensity
+Mo thickness
+
+=== PAGE 46 ===
+For a homogenous sample, the measured Auger intensity is given by:
+Spectral interpretations – Quantitative analysis
+Signal quantification 
+46
+I
+p
+ is the incident electron intensity
+g
+i
+ is the Auger transition probability for ABC transition of element 
+i
+ 
+r 
+is the secondary ionization by scattered electrons
+
+=== PAGE 47 ===
+Spectral interpretations – Quantitative analysis
+Signal quantification 
+47
+
+=== PAGE 48 ===
+Spectral interpretations – Quantitative analysis
+Signal quantification 
+48
+
+=== PAGE 49 ===
+Auger peaks are almost always on sloping background 
+ Asymmetry in peak shape.
+Quantitative measurement of Auger peak intensities is, by convention, done on the 
+high-energy part
+ of the peak.
+Peak height depends on size of the modulation used to differentiate it. 
+If modulation voltage is too high, peak shape is distorted
+If a Lock-in amplifier is used:
+49
+Spectral interpretations – Quantitative analysis
+
+=== PAGE 50 ===
+The empirical method does not include the matrix effect of the sample, which includes the inelastic mean free path (
+l
+), the backscattering factor (
+r
+), chemical effect on peak shapes and surface roughness.  Generally, an error of 15% is expected using the empirical method.
+For example, a sample reported with 80% Fe and 20% Ni.  The error for Fe could be in the range of ±12%.
+If standard sample with the same matrix is used for the determination of the sensitivity factors, the error can be as small as 1%.
+Spectral interpretations – Quantitative analysis
+Signal quantification 
+50
+
+=== PAGE 51 ===
+This controlled surface etching of the 
+analysed
+ region can be accomplished by simultaneously exposing the surface to an ion flux which leads to sputtering (i.e. removal) of the surface atoms. 
+To obtain information about the variation of composition with depth below the surface of a sample, it is necessary to gradually remove material from the surface region being 
+analysed
+, whilst continuing to monitor and record the Auger spectra. 
+Depth Profiling 
+AES uses the same methodology of depth profile as XPS.  Both sputtered or angle-resolved depth profiles can be applied in AES. 
+51
+Spectral interpretations – Quantitative analysis
+
+=== PAGE 52 ===
+Spectral interpretations – Quantitative analysis
+Depth Profiling 
+52
+
+=== PAGE 53 ===
+Analysis Procedure
+Conducting solids (metals, alloys, semiconductors, thin films) with dimensions less than 2 cm diameter and 1 cm high may be analyzed. Samples must be clean and free from any high vapor pressure material. It is important that the specimen surface should not be handled.
+Limitations 
+Samples must be conductive
+, Samples must be solid and vacuum compatible.  Insulating samples can be more difficult.  Because Auger is a surface sensitive technique, gold or carbon coating must be avoided.
+Qualitative detection sensitivity is reliable to ~1.0 atomic percent depending on the element
+Beam damage possible with some materials
+Accuracy of quantitative analysis is limited to ± 20% if published sensitivity factors are used, better quantification is possible if standards closely resembling the sample are used
+Elements H and He are undetectable 
+53
+
+=== PAGE 54 ===
+Electron energy
+Analyzer
+Electrons can be focused to a spot of < 1 nanometer
+Penetration depth and scattering within solid typically limit resolution to ~20 nanometer.  Recent instruments claim resolution of ~ 6 nm.
+Often use hemispherical analyzer
+The details of the Electromagnetic lens will be discussed in the Lecture of electron microscopy
+54
+Scanning Auger
+
+=== PAGE 55 ===
+55
+
+=== PAGE 56 ===
+100 kX SEM
+160 kX SEM
+Au islands on C
+Spectral interpretations – Qualitative analysis
+SEM and Auger images 
+56
+
+=== PAGE 57 ===
+57
+Homework 2

@@ -1,0 +1,1851 @@
+=== PAGE 1 ===
+AMSC 5710
+Advanced Materials Characterization
+XPS, AES, and UPS
+Analysis of characteristic electrons for chemical and electronic information
+[Speaker notes]
+1
+
+=== PAGE 2 ===
+Primary beam
+(source)
+Secondary beam
+(result)
+Photons
+Electrons
+…
+Photons
+Electrons
+Phonons
+…
+2
+X-ray                               Photo 
+Electrons 
+                
+                  
+Spectroscopy 
+[Speaker notes]
+The intention of the first block is to use photons as the probing source and collecting electrons as the signal.  However, only XPS and UPS strictly belongs to this category.
+2
+
+=== PAGE 3 ===
+X-ray photoelectron spectroscopy, XPS 
+is also known as “Electron Spectroscopy for Chemical Analysis (ESCA).
+It belongs to a family of 
+Photoemission Spectroscopy (PES)
+, in which a photon source is used to excite a sample surface, the energy of those electrons ejected after the photoemission process (photoelectrons) are detected and analyzed.  
+(Principle)
+XPS, UPS, and AES
+If x-ray is used as the photon source, the technique is named as “
+X-ray Photoelectron Spectroscopy (XPS)
+”.
+If UV source is used instead, the technique is called the “
+Ultraviolet Photoemission Spectroscopy (UPS)
+”
+A relevant technique come together with XPS is 
+Auger Electron spectroscopy (AES)
+, which is dedicated to Auger electron analysis by changing the X-ray source to electron source.
+Nomenclature
+3
+[Speaker notes]
+A majority of the techniques included in this course detect electrons for signals.  Nonetheless, one major make use of different properties of the electrons and therein interpret material structural/chemical characteristics.
+In this regard, AES is strongly related to that used for XPS or UPS, that is, detection of the kinetic energy of material electrons that exit the surface of the material, being characteristic of the elemental atomic structure, and therein interpretation of the chemical nature of the material analyte.
+3
+
+=== PAGE 4 ===
+4
+X-ray photoelectron spectroscopy (XPS)
+
+=== PAGE 5 ===
+Content
+1.	Background
+	1.1	X-ray photoemission process
+	1.2	History of development
+	1.3	Surface sensitivity of XPS
+2.	Instrumentation
+	2.2	X-ray sources
+	2.3	Electron energy analyzers
+3.	Spectral Interpretations
+	
+3.1	Primary structures
+	
+	3.1.1	Core level emission 
+		3.1.2	j - j coupling
+		3.1.3	Chemical shift
+		3.1.4	Valence band emission
+		3.1.5	X-ray induces Auger emission
+	3.2	Secondary structures
+		3.2.1	Plasmon loss features
+		3.2.2	
+Multiplet
+ splitting
+		3.2.3	Shake-up satellites
+		3.2.4	Shake-off satellites
+4.	Quantification
+	4.1	Chemical composition
+	4.2	Depth profile
+5.	Chemical mapping
+5
+
+=== PAGE 6 ===
+When a sample surface is irradiated with photons of energy 
+h
+n
+, electrons were found emitted from the sample – 
+photoemission
+.
+Albert Einstein’s contribution (Nobel Prize in 1921, Photoelectric effect):
+Refined the photoemission experiment and found that the energy of ejecting electrons is directly proportional to the wavelength, 
+𝜆
+, of the photon source, instead of the intensity of photons.
+Explained this 
+photoelectric effect
+ in term of emission of electrons from quantized energy levels – orbitals of electrons.
+Kai Siegbahn’s contribution (
+Nobel Prize in 1981)
+Use photoemission as an analytical technique for chemical analysis.
+ 
+X-ray photoemission process
+Albert Einstein
+(1879-1955)
+Germany
+Nobel Prize in Physics1921
+Kai Siegbahn
+(1918-2007)
+Sweden
+Nobel Prize in Physics1981
+6
+[Speaker notes]
+What is photoelectric effect
+Two important people for the realization of XPS
+Einstein: theoretical foundation for the photoelectric effect—disclose the quantum mechanical nature of light
+Siegbahn: Finding the application for photoelectric effect—for material chemical analysis
+6
+
+=== PAGE 7 ===
+1887	Hertz first detected the phenomenon of photoemission.
+1905	A. Einstein refined the photoemission experiments and explained the mechanism by invoking the quantum nature of light.	
+1907 - Innes, Moseley, Rawlinson, Robinson, and etc. continued to study the x-ray photoemission.
+Rutherford stated the basic equation of XPS.
+--------------------------------------------------------------------------------------------------------------
+1914- 18
+                                                           
+WORLD WAR I
+		Robinson, Maurice de Broglie continued the research work in x - ray photoemission. (Not much progress; regarded as extension to atomic physics.)
+---------------------------------------------------------------------------------------------------------------
+1937- 45			        	 
+WORLD WAR II
+ 	
+-------------------------------------------------------------------------------------------------------------
+1940s	 Kai Siegbahn started substantial works on x-ray photoemission.
+	(Explored the use of x-ray photoemission for chemical analysis.)
+1969	First commercial XPS instruments appeared.
+1969	
+Palmberg
+, Bohm and Tracy developed the “cylindrical mirror analyzer” to analyze the energy of the photoelectrons/Auger electrons.
+History of Development
+7
+[Speaker notes]
+First experiment by Hertz
+Refined experiment by Einstein
+Application and instrumentation development
+7
+
+=== PAGE 8 ===
+1887	Hertz first detected the phenomenon of photoemission, and he published, "On an effect of UV light upon the electric discharge" (
+Sitzungsber
+ d. 
+Berl
+. 
+Akad
+. d. 
+Wiss
+., June 9, 1887). 
+Lenard’s apparatus for investigating the photoelectric effect. 
+History of Development
+8
+[Speaker notes]
+First experiment using UV
+Simple configuration that allows electron emission (exited by light photons) and electron collection
+Note vacuum is used to enable efficient electron collection
+8
+
+=== PAGE 9 ===
+History of Development
+1905
+	A. Einstein refined the photoemission experiments and explained their systematics by invoking the 
+quantum nature of light
+. 
+Observation:
+An identical  stopping potential V
+0
+ (E
+K
+)with different light intensity. E
+K 
+is the kinetic energy of electrons.
+The variation of the photoelectric current (no. of electrons) with voltage, for different intensities of light, A<B<C. 
+Sample (Cathode)
+V
+I
+Collector (anode)
+e
+e
+9
+[Speaker notes]
+A cleverly refined experiment—closer look at the experimental details
+Given sample, given light wavelength (energy of photon), to measure the current as a function of voltage applied between the Cathode and the anode 
+*Non-zero current when V=0, 
+*A negative potential V0 has to be applied to stop the electrons from reaching the anode
+suggesting the existence of a maximum kinetic energy of outcoming electrons, and it depends on the incident photon energy
+(2) Different light intensity (not photon energy)
+*Increased the current
+Suggesting the amount of outgoing electrons depends on the amount of incident photons (foundation for quantification)
+The "turn-on voltage" in photoemission refers to the stopping potential 
+𝑉_0
+ , that is 
+, 
+ 
+the negative voltage needed to 
+stop
+ the most energetic photoelectrons from reaching a collector, revealing their maximum kinetic energy
+9
+
+=== PAGE 10 ===
+Why XPS is a surface process?
+In XPS, x-ray irradiates upon the surface of a sample
+Photoelectrons (
+photoinduced
+ electrons) are collected by a detector.
+The sampling depth of x-ray is in the 
+μ
+m
+ 
+level, while only those photoelectrons from the outmost 
+~100 Å 
+are able to escape
+This can be explained in term of the 
+mean free path
+, 
+λ
+, of electrons.
+10
+[Speaker notes]
+Which one is the limiting factor for surface process?
+(1) X-ray? No
+X‑rays have relatively deep penetration in many materials because they are high‑energy, electrically neutral photons whose main interaction probabilities with matter are relatively low compared with charged particles such as electrons.
+(2) Outgoing electrons?
+Collision of electrons with the material atoms lead to its energy (kinetic) loss, so that electrons from deeper location underneath cannot reach the surface
+10
+
+=== PAGE 11 ===
+Surface process
+Mean free path for electrons
+Note here, 
+λ
+ is not wavelength!
+ 
+The mean free path 
+λ
+ versus electron kinetic energy of various metals shows a “universal” curve.
+There is a transition region  between 10 eV – 100 eV.
+For XPS, it is best restricted to the data above 150 eV to analysis of the important inter-element differences [1].
+[1] S
+URFACE AND INTERFACE ANALYSIS, VOL. 1, NO. 1, 1979
+𝜆
+=
+𝐴
+𝐸
+2
++
+𝐵
+𝐸
+1/2
+ 
+11
+[Speaker notes]
+One use mean free path to describe the collision of electrons when they travel
+At very low kinetic energies (a few eV above the Fermi level),  many states are not available in solid for inelastic excitations , so the inelastic scattering probability is relatively low and the mean free path is comparatively large.
+Between roughly 10–100 eV, the electron energy matches well the typical excitation energies of valence electrons and plasmons in solids, so there are many available final states and allowed transitions.
+As kinetic energy rises further (hundreds of eV to keV and beyond), the electron moves faster and spends less time interacting with the same region of the medium, which effectively reduces the probability of inelastic collision per unit distance.
+11
+
+=== PAGE 12 ===
+d
+x
+q
+Surface
+normal
+Ejecting
+electrons
+It has been shown theoretically by a Monte Carlo simulation
+1
+ and proved experimentally
+2
+ that the 
+intensity of ejecting electrons through a medium follows an exponential decay function
+, 
+i.e.
+𝐼
+=
+𝐾
+0
+𝑑
+exp
+−
+𝑥
+𝜆
+cos
+𝜃
+𝑑𝑥
+ 
+1    C. J. Powell, A. Jablonski, S. Tanuma and D. R. Penn, J. Electron Spectrosc. Relat.Phenom, 68, P.605 (1994).
+2   	D. F. Mitchell, K. B. Clark, J. A. Bardwell, W. N. Lennard, G. R. Massoumi and I. V. Mitchell, Surf. Interface Anal., 21, P.44 (1994).
+Surface process
+12
+[Speaker notes]
+If we consider the total intensity of photoelectrons exist the material surface, they follow an exponential decay
+12
+
+=== PAGE 13 ===
+Surface process
+95% of signal comes from the outmost region of 3 
+l
+ thick. 
+(3 
+l
+ is about several tens of Å)
+.  This explains the surface sensitivity of XPS.
+13
+[Speaker notes]
+To look at the intensity by considering electrons from different depth beneath the surface
+13
+
+=== PAGE 14 ===
+Typical XPS system
+Typical research grade XPS system:
+lots of additional components, 
+e.g
+ sample heating, cooling
+allow much more modifications for specific research
+Typical XPS system for industrial purposes: 
+ high throughput
+ 
+highly automatic
+14
+
+=== PAGE 15 ===
+Typical XPS system
+Electron energy analyzer
+15
+[Speaker notes]
+A CMA Analyzer is a 
+Cylindrical Mirror Analyzer
+, a key scientific instrument using concentric cylinders to filter and measure electron energies in surface analysis (like Auger/XPS) for materials science
+X-ray monochromator acts as a sophisticated filter, using a bent crystal (like quartz) to select only X-rays of a specific, narrow energy (e.g., Al Kα), focusing them onto the sample, which drastically improves spectral resolution, reduces background noise, and eliminates unwanted satellite peaks, leading to clearer, more accurate identification of elements and their chemical states on a surface
+15
+
+=== PAGE 16 ===
+X-ray photons~ 10
+-8 
+to 10
+-11
+ meter
+16
+XPS system: X-ray range 
+
+=== PAGE 17 ===
+Atomic energy levels
+XPS system: X-ray generation principle
+Incident electron knocks out an inner shell electron.
+An outer shell electron jumps down to fill this vacancy and emits the excessive energy through the emission of characteristic X-rays.  
+X-ray spectral line - Siegbahn notation
+17
+Cu
+
+=== PAGE 18 ===
+XPS system: X-ray source-set up
+Typical structure of a dual x-ray source 
+Soft x-rays are then generated, and it pass out through an aperture in the surrounding cylindrical shield, covered with a thin (~2 mm) sheet of Al foil.
+18
+Al
+Mg
+On the angled anodes, a film of Al and Mg was coated with ~10 mm in thickness).
+These filaments and the surrounding shields are at earth potential, and the high accelerating potential of up to +15 kV is applied to the anode during operation. 
+
+=== PAGE 19 ===
+Choice of anodic materials 
+the 
+line width 
+must not limit the energy resolution required in the technique; 
+the characteristic 
+x-ray energy 
+must be high enough that a sufficient range of core electrons can be 
+photoejected
+ for an unambiguous analysis; 
+since the photoionization cross section of electron in different core levels varies with the wavelength of the x-ray, a suitable characteristic x-ray wavelength is crucial in getting strong enough photoelectron signal for analysis.
+XPS system: X-ray source-target material
+19
+[Speaker notes]
+For UPS, 
+Neon line can be used.
+19
+
+=== PAGE 20 ===
+"Bremsstrahlung" describes the radiation which is emitted when electrons are decelerated when they are fired at a metal target. During the deceleration, the charged particles give off electromagnetic radiation. When the energy of the bombarding electrons is high enough, that radiation is in the x-ray region. It is characterized by a continuous distribution of radiation which becomes more intense and shifts toward higher frequencies when the energy of the bombarding electrons is increased. 
+20
+[Speaker notes]
+Both Bremsstrahlung x-ray and synchrotron radiation are forms of radiation from accelerated charged particles, differing mainly in the 
+direction
+ of acceleration and the 
+source
+ of the force. Bremsstrahlung (braking radiation) occurs when particles decelerate (acceleration opposite velocity, often from electric fields), while synchrotron radiation is caused by charged particles bending in strong magnetic fields (acceleration perpendicular to velocity). 
+20
+
+=== PAGE 21 ===
+Un-monochromatized x-ray source
+XPS system: X-ray source—limitation of energy resolution
+21
+
+=== PAGE 22 ===
+Therefore, 
+monochromatization
+ is usually required
+.  This technique depends on dispersion of x-ray energies by diffraction in a crystal, according to the well-known Bragg relation:
+where 	n = diffraction order
+	
+
+ = x-ray wavelength
+	d = crystal plane spacing
+	
+ = Bragg angle
+X-ray 
+monochromatization
+XPS system: X-ray source-
+Monochromatization
+ principle
+The X-ray monochromator improves line widths to between 0.5 and 0.25 eV, leading to higher resolution spectra and removing unwanted X-ray background.
+22
+[Speaker notes]
+The working principle of an 
+X-ray monochromator
+ is to filter a broadband X-ray beam (containing multiple wavelengths) and output a beam with a single, narrow wavelength range (monochromatic X-rays), which is essential for high-precision X-ray applications such as X-ray diffraction (XRD), X-ray fluorescence (XRF), and X-ray photoelectron spectroscopy (XPS)
+When an X-ray beam irradiates a crystalline material, the lattice planes of the crystal act as diffraction gratings. For X-rays to produce constructive interference (and thus a detectable diffracted beam), they must satisfy 
+Bragg's equation
+22
+
+=== PAGE 23 ===
+Detector or sample
+Rowland circle
+For the Bragg condition to be met at all points, the 
+crystal must 
+first 
+be bent to a radius of 2R
+ (where R is the radius of the Rowland circle), then ground to a radius of R. This arrangement allows higher intensities with higher resolution and lower background. 
+XPS system: X-ray source-Monochromator set up
+2
+R
+R
+HW problem : How to place the source and the detector on the Rowland circle?
+23
+[Speaker notes]
+How to realize 
+monchromatization
+?
+Imaging incident x-ray hitting the diffraction grating (crystal): (1) only a small region of flat crystal can be used; (2) 
+monchromated
+ x-ray are not spatially focused—they need to be collected over large range.
+The idea of Rowland circle design:
+The Rowland circle is a geometric concept crucial for the design of X-ray spectrometers (especially crystal spectrometers) and monochromators, which ensures that diffracted X-rays of a specific wavelength are focused to a single point, thereby improving the spectral resolution and signal intensity.
+For a spherical crystal (curved crystal) with radius of curvature 2
+R
+, if we draw a circle with radius equal to 
+R
+ that is tangent to the crystal surface at its midpoint, this circle is called the Rowland circle.
+(1) Curved Crystal Diffraction
+Unlike a flat crystal, a spherical crystal has its lattice planes bent to a radius of curvature 
+R
+. This ensures that all lattice planes on the crystal surface satisfy the 
+Bragg condition
+ simultaneously for a specific wavelength 
+λ
+.
+For a flat crystal, only a small area can satisfy the Bragg angle 
+θ
+ for a given 
+λ
+, leading to weak diffracted signals. The spherical crystal expands the effective diffraction area.
+(2) Geometric Focusing
+According to the law of reflection and Bragg diffraction, X-rays emitted from the source point on the Rowland circle are incident on the spherical crystal, diffracted at an angle 2
+θ
+ (consistent with Bragg’s law 2
+d
+sin
+θ
+=
+nλ
+), and then converge exactly at another point on the Rowland circle (the detector position).
+.
+23
+
+=== PAGE 24 ===
+It so happens that for first order diffraction of Al Ka X-rays, for which 
+ = 0.83 nm, 
+quartz
+ crystals are very suitable, since the spacing of its 
+(10
+1
+0)
+ planes is 0.425 nm and the Bragg angle is therefore 78.5º.  Quartz is an ideal material since it can be ground or 
+bent
+ elastically if sufficient thin and quartz itself can also withstand bake-out without distortion. 
+ 
+X-ray 
+monochromatization
+XPS system: X-ray source-choice of diffraction grating
+Quartz (1010)
+_
+d=0.425nm
+
+=78.5
+o
+Diffracted beam
+Incident beam
+24
+[Speaker notes]
+The original X-ray source (e.g., X-ray tube) emits a polychromatic beam with a continuous spectrum (bremsstrahlung) and characteristic spectral lines (e.g., Cu 
+K
+α
+​, 
+Mo 
+K
+α
+​)
+. 
+The monochromator crystal is adjusted to a specific Bragg angle 
+θ
+. According to Bragg's law, only X-rays with a wavelength 
+λ
+ that matches 
+d
+, 
+θ
+, and 
+n
+ will be diffracted at an angle of 2
+θ
+ relative to the incident direction. X-rays with other wavelengths do not satisfy the Bragg condition and either pass through the crystal or are scattered in non-target directions, so they are excluded from the output beam. The diffracted beam contains only the specific wavelength that meets the Bragg condition, achieving 
+monochromatization
+.
+24
+
+=== PAGE 25 ===
+Advantages:
+1. Narrower peak width
+2. Reduced background
+3. No satellite peak and ghost peak
+ 
+X-ray 
+monochromatization
+With crystal dispenser and
+Rowland circle.
+ 
+X-ray monochromatization
+XPS system: X-ray source—
+Monochramatization
+ advantage
+25
+[Speaker notes]
+Satellite peaks: In non-monochromatic XPS, these are extra peaks near the main photoelectron peak, caused by the characteristic satellite lines of the X-ray source (e.g., Al Kα₃, Al Kα₄ lines accompanying the main Al Kα₁,₂ line, or Mg Kα satellites). These satellite X-rays excite photoelectrons with slightly different kinetic energies, leading to overlapping satellite peaks.
+Ghost peaks: These are artifact peaks unrelated to the sample’s chemical composition, caused by parasitic diffraction or scattering of polychromatic X-rays in the spectrometer. 
+Polychromatic X-rays include a continuous bremsstrahlung background and higher-order diffraction lines of the characteristic X-rays (e.g., 
+n
+=2 order of Al K
+α, 
+which has energy 2×1486.6 eV). These components can Diffract off the spectrometer’s internal components (e.g., 
+analyzer
+ grids, sample holder) to excite photoelectrons, which are then misinterpreted by the detector as valid photoelectron signals.
+25
+
+=== PAGE 26 ===
+Photoelectron spectra of SiO
+2
+ excited with Al K
+α
+ radiation
+Unfiltered source
+Filtered source or 
+monochromatized source
+X-ray 
+monochromatization
+XPS system: X-ray source-
+Mo
+nchromatization
+ example
+26
+[Speaker notes]
+Conventional XPS uses non-monochromatic X-ray sources (e.g., Al/Mg anode X-ray tubes), which emit a main characteristic line (e.g., Al K
+α₁,₂, ~1486.6 
+eV) 
+plus a series of satellite lines
+ (e.g., Al K
+α₃, 
+Al K
+α₄, 
+Al K
+β). 
+These satellite lines have slightly different photon energies.
+26
+
+=== PAGE 27 ===
+The heart of photoelectron spectroscopy is the measurement of an electron energy spectrum.  Such an analysis is performed by an 
+electron energy analyzer
+ (strictly speaking, an electron velocity analyzer), often also called a 
+spectrometer
+.
+XPS system: Electron energy 
+analyzer-what to measure
+27
+
+=== PAGE 28 ===
+The basic of an electron spectrometer is to 
+separate out only those electrons in a desired narrow band of energies 
+from all other electrons  entering the spectrometer.
+Photoelectrons comes out at 
+different angles
+, 
+energies
+; 
+an electron spectrometer is capable of directing, 
+focusing
+ the photoelectrons.  
+The electrons will be filtered, 
+energy-selected
+ (or velocity-selected) by the spectrometer.
+X-ray tube
+Spectrometer
+Sample
+XPS system: Electron energy analyzer-function
+28
+
+=== PAGE 29 ===
+Energy resolution
+Absolute
+ resolution is defined either as the full width at half-maximum (FWHM) height of a chosen measured peak or as the base width of such a peak.
+It changes with the kinetic energy of electrons
+Instrumental broadening
+Physical broadening
+ 
+Relative
+ resolution is defined as 
+R
+, the ratio of  width to the kinetic energy of the peak position.
+𝑅
+=
+Δ
+𝐸
+𝐸
+𝑏
+×100%
+ 
+XPS system: Electron energy 
+analyzer-energy resolution
+29
+[Speaker notes]
+the absolute width of photoelectron peaks (Δ
+E
+) naturally increases with the photoelectron kinetic energy (
+Ek
+​). This is caused by two main factors:
+Instrumental broadening: Components like the electron energy analyzer have a fixed relative energy dispersion—their ability to distinguish energy differences scales proportionally to the kinetic energy of the detected electrons. For example, a analyzer might have a constant relative resolution of 0.1%, so a peak at 
+Ek
+​=100 eV has an absolute width of 0.1 eV, while a peak at 
+Ek
+​=1000 eV has an absolute width of 1.0 eV.
+Physical broadening effects: Phenomena like inelastic scattering of photoelectrons in the sample also lead to peak broadening that correlates with 
+Ek
+​.
+29
+
+=== PAGE 30 ===
+Cylindrical Mirror Analyzer (CMA)
+CMA consists of 
+two coaxial cylinders
+ 
+of radii 
+r
+1
+ (inner) and 
+r
+2
+ (outer), with the inner cylinder at ground potential and a potential of 
+-V
+ on the outer.
+Electrons emitted from a source on the axis move in field-free space towards a mesh-covered annular aperture between the cylinders.
+XPS system: Electron energy analyzer: 
+CMA instrumentation
+Auger
+30
+
+=== PAGE 31 ===
+Those electrons of a particularly selected kinetic energy 
+E
+o
+ are deflected by the potential on the outer cylinder through a second mesh-covered aperture and are focused at the 
+channeltron
+, also on axis.  The focal relationship is given by
+ 
+ 
+where 
+K
+ is a characteristic constant depending on the construction of the analyzer, r
+1
+ and r
+2
+ are the inner and outer radii. [HW]
+XPS system: Electron energy 
+analyzer-CMA instrumentation
+Cylindrical Mirror Analyzer (CMA)
+31
+
+=== PAGE 32 ===
+If the electrons are travelling very fast, they will impinge on the outer cylinder. If they are travelling very slowly, they will be attracted to the inner cylinder. Hence only electrons in a narrow energy region (called the
+ pass energy
+) succeed in getting all the way along the cylinders to the detector.
+The resolution is improved by apertures within the 
+analyser
+. 
+32
+XPS system: Electron energy 
+analyzer-CMA selection of E
+0
+
+=== PAGE 33 ===
+Retarding mode
+The CMA is operated by 
+varying the analyzer voltage 
+to scan different   kinetic energies, while the 
+retarding voltage is set to a fixed value
+The retarding lens system first slows down (retards) incoming photoelectrons to a fraction of their original kinetic energy before they enter the CMA. The analyzer then scans by changing its voltage to accept electrons of different energies.
+Variable resolution (but retarded to improve the energy resolution)
+Non-retarding mode
+ 
+In this mode, the CMA is operated at 
+a fixed pass energy
+, which is the kinetic energy of electrons that can pass through the analyzer and reach the detector. 
+To scan a range of binding energies, the 
+analyzer voltage
+ is kept constant, while the 
+retarding voltage
+ is varied 
+to "tune" the kinetic energy of incoming electrons to match the fixed pass energy.
+Since pass energy determines energy resolution, this mode delivers consistent resolution across the entire spectral range
+.
+33
+XPS system: Electron energy 
+analyzer-CMA: energy filter
+[Speaker notes]
+So here we have two parameters (1) the kinetic energy of the electrons (can be retarded by the retarding the voltage), the 
+analyzer
+ voltage (can be adjusted/scanned).  With the 
+chanaltron
+ position fixed, one can adjust either the 
+analyzer
+ voltage or retards the kinetic energy of the electrons
+33
+
+=== PAGE 34 ===
+Concentric Hemispherical Analyzer (CHA)
+CHA is also called the 
+spherical sector analyzer
+ and the 
+spherical deflection analyzer
+.  It was the type of analyzer chosen in the earliest days of XPS as most suitable for that technique, and it has remained so ever since. 
+XPS system: Electron energy analyzer-CHA
+34
+
+=== PAGE 35 ===
+The basic form of a CHA consists of two hemispheres of radii 
+R
+1
+ (inner) and 
+R
+2
+ (outer) positioned concentrically.
+XPS system: Electron energy 
+analyzer-CHA instrumentation
+Concentric Hemispherical Analyzer (CHA)
+35
+
+=== PAGE 36 ===
+Potential 
+-V
+1
+ and 
+-V
+2
+ are applied to the inner and outer hemispheres respectively, with 
+V
+2
+ greater than 
+V
+1
+ 
+.  The medium 
+equipotential surface
+ between the hemispheres has radius 
+R
+o
+ and the source 
+S
+ and focus 
+F
+ are collinear with the 
+centre
+ of curvature.  The potential 
+-V
+o
+ along the median surface is
+If electrons of energy 
+E
+ are injected 
+tangentially
+ to the median surface at radius 
+R
+o
+ they will describe circular orbits of radius 
+R
+o
+ and will follow the equation
+where  
+XPS system: Electron energy analyzer*
+Concentric Hemispherical Analyzer (CHA)
+36
+[Speaker notes]
+The CHA operates based on the centripetal force provided by the radial electric field between the two hemispheres, which bends electrons into a circular trajectory. Only electrons with a specific kinetic energy can follow the trajectory that passes through both the entrance and exit slits—this is the core of its energy-filtering function.
+A stable radial electric field is established between the inner and outer hemispheres by applying a voltage difference (Δ
+V
+). For an electron with charge 
+e
+ and kinetic energy 
+Ek
+​, the centripetal force required for circular motion is provided by the electric force:
+ mv
+2/r​=
+eE
+where 
+m
+ is the electron mass, 
+v
+ is the electron velocity, 
+r
+ is the radius of the electron's trajectory, and 
+E
+ is the radial electric field strength.
+Since 
+Ek
+​=1/2
+mv
+2, only electrons with a specific 
+Ek
+​ will have a trajectory radius matching the "focal radius" of the CHA
+36
+
+=== PAGE 37 ===
+If the electrons are travelling very fast, they will impinge on the outer hemisphere. If they are travelling very slow, they will be attracted to the inner hemisphere. 
+Only electrons in a narrow energy region (called the 
+pass energy
+) succeed in getting all the way round the hemispheres to the detector. 
+A series of lenses are placed before the CHA. The lenses enable two operating modes - 
+Constant Retard Ration (CRR)
+, or 
+Constant Analysis Energy (CAE)
+. 
+With CRR mode, the electrons are slowed down by an amount which a 
+constant ratio
+ of the electron energy to be 
+analysed
+. That is if the retard ratio is 10, and 1000eV electrons are to be detected, then the electrons will be slowed down to 100eV, and the pass energy will be set to 100 eV. 
+In the CAE mode, the 
+pass energy
+ is fixed. Hence if the pass energy is 50 eV, then electrons of 1000eV will have to be slowed down by 950 eV in order to be detected. The CRR mode gives constant resolving power and the CAE mode gives constant energy resolution. 
+37
+
+=== PAGE 38 ===
+Electron multiplier
+An electron multiplier consists of a series of electrodes called 
+dynodes
+.
+The dynode potentials differ in equal steps along the chain. 
+ A high-voltage gradient (typically hundreds to thousands of volts) is applied across the dynodes, 
+so each subsequent dynode has a more positive potential than the previous one
+.
+When a particle (electron, ion, high energy neutral, or high energy photon) strikes the first dynode it produces secondary electrons. The secondary electrons are accelerated into the next dynode where each electron produces more secondary electrons.
+A 
+cascade of secondary electrons 
+is generated. The dynode acceleration potential controls the electron gain. 
+XPS system: Electron Detector-dynodes
+38
+
+=== PAGE 39 ===
+Microchannel plate (MCP)
+XPS system: Electron Detector-MCP
+A micro-channel plate is a slab made from highly resistive material of typically 2 mm thickness with a regular array of tiny tubes leading from one face to the opposite, densely distributed over the whole surface.
+The microchannels are typically approximately 10 um in diameter (6 um in high resolution MCPs) and spaced apart by approximately 15 um; they are parallel to each other and often enter the plate at a small angle to the surface (~8° from normal). 
+Each microchannel is a continuous-
+dynode electron multiplier
+, 
+in which the multiplication takes place under the presence of a strong electric field
+.
+39
+
+=== PAGE 40 ===
+ A particle or photon that enters one of the channels through a small orifice is guaranteed to hit the wall of the channel due to the channel being at an angle to the plate and thus the angle of impact.
+ The impact starts a 
+cascade of electrons
+ that propagates through the channel, which amplifies the original signal by several orders of magnitude depending on the electric field strength and the geometry of the micro-channel plate. 
+ After the cascade, the microchannel takes time to recover (or recharge) before it can detect another signal.
+ The electrons exit the channels on the opposite side where they are detected by an anode measuring total current. In some applications each channel is monitored independently to produce an image.
+Microchannel plate (MCP)
+40
+XPS system: Electron Detector-MCP
+
+=== PAGE 41 ===
+41
+Homework 1
+
+=== PAGE 42 ===
+42
+Review on XPS instrumentation
+Key components
+X-ray generator (electron gun)
+Monochromator (crystal grating)
+Electron energy analyzer (electrical field)
+Electron multiplier (dynode)
+Key parameters
+Vacuum level
+Energy resolution (KE dependent)
+Source
+spectrometer
+
+=== PAGE 43 ===
+Electron excitation and emission
+In x-ray photoemission process, core level electrons are "kicked“ out from their original energy level after absorption of x-ray photons.  The kinetic energy of the 
+photoejected
+ electrons (photoelectrons) is given by
+ 
+	
+where	
+E
+K   
+= kinetic energy of photoelectron
+		
+h
+
+  = characteristic energy of x-ray
+		
+E
+B
+  = binding energy of core level
+		
+
+  = work function term 
+* E
+B
+ is referenced to the Fermi level.
+43
+XPS Spectral interpretation: 
+Material excitation by X-ray
+So we will plot the 
+number of photoelectrons (I) 
+coming from specific energy levels 
+(E
+B
+),
+ which is 
+characteristic of the element
+
+=== PAGE 44 ===
+XPS Spectral interpretation
+44
+Some background (why?)
+Some peaks (who?) with different intensity/peak area (How much?)
+
+=== PAGE 45 ===
+45
+General contribution: Secondary processes like X-ray-induced Auger electrons, plasmon excitations, and satellite lines from non-monochromatic X-ray sources add to the background intensity.​
+Contribution from inelastic scattering of photoelectrons 
+Inelastic collision
+ within the solid sample 
+A E
+B 
+dependence
+--H
+igh binding energy side of peaks (Why?)
+​
+Spectral interpretation-Background: inelastic loss
+[Speaker notes]
+XPS 
+analyze
+ electrons with KE a few tens to hundreds of eV, when the mean free path increase with energy increase.
+45
+
+=== PAGE 46 ===
+XPS Spectral interpretation
+46
+Some background (why?)
+Some peaks (who?) 
+with different intensity/peak area (How much)
+
+=== PAGE 47 ===
+Background requirement for spectrum 
+interpretation 
+Electron filling order : E (
+n,l
+) 
+Not considering 
+spin-orbital coupling! 
+Quantum Numbers	Indicates	   Values
+n
+ – principal	distance	   1, 2, 3,…  or K, L, M, N	
+l
+ – orbital/angular	shape	   0,1,…,
+n
+-1 or 
+s, p, d, f
+m
+l
+ – magnetic	orientation  
+l,l-1,…,-l  
+m
+s
+ – spin		spin 	   
++
+1
+2
+ 
+,
+ 
+−
+1
+2
+ 
+Degeneracy 2(2
+l
++1)
+Vacuum
+Conduction band
+Valence band
+Fermi
+6
+10
+2
+6
+2
+6
+2
+2
+47
+Electronic structure
+[Speaker notes]
+N Determines the 
+energy level
+ (shell) of the electron; larger 
+n
+ means higher energy and larger atomic orbital radius.
+ l Defines the 
+shape of the atomic orbital
+ (subshell) and the magnitude of the electron's orbital angular momentum.
+Ml
+ Describes the 
+spatial orientation
+ of the atomic orbital relative to an external magnetic field; determines the z-component of orbital angular momentum.
+Ms Represents the 
+intrinsic spin angular momentum
+ of the electron 
+47
+
+=== PAGE 48 ===
+Spin-orbital coupling
+Since electron is a charged particle, its orbit around a nucleus induces a 
+magnetic field
+ whose intensity and direction depend on the electron velocity and on the radius of the orbit which are characterized by the 
+orbital angular momentum L
+On the other hand, the orbiting electron itself has an 
+electronic spin (+/-)
+, which also induces an inherent magnetic field, which has an associated spin momentum, characterized by a 
+spin quantum number 
+S
+. 
+ Thus, the 
+total electron angular momentum
+,
+ 
+J
+, is a combination of the orbital angular and spin momenta, leading to splitting of the original energy level into 2. 
+Atomic electronic structure
+48
+
+=== PAGE 49 ===
+Atomic structure and quantum number
+Consequence of spin-orbital coupling
+Total angular momentum
+J
+ = 
+L
++
+S
+Total number of electrons allowed
+2J + 1
+2p
+3/2
+n
+l
+j
+Vacuum
+Conduction band
+Valence band
+Fermi
+Degeneracy 
+     =2
+j
++1
+2p
+3/2
+2p
+1/2
+3p
+3/2
+3p
+1/2
+3d
+5/2
+3d
+3/2
+XPS
+notation
+4s
+1/2
+2s
+1/2
+3s
+1/2
+1s
+1/2
+AES
+notation
+L
+3
+L
+2
+M
+3
+M
+2
+M
+5
+M
+4
+N
+1
+L
+1
+M
+1
+K
+49
+
+=== PAGE 50 ===
+50
+𝑬
+𝑩
+=
+𝒉
+𝝊
+−
+𝑬
+𝑲
+−
+𝝋
+ 
+𝐸
+𝐾
+ 
+of
+ 
+the
+ 
+photoelectron
+ 
+How accurate is the 
+𝐸
+𝐵
+ 
+𝐸
+𝐵
+ 
+of different elements may be close to each other
+Issue of energy resolution
+ 
+Possible problem with binding energy overlap
+ 
+Finding out who is there 
+By matching the binding energy to the standard database
+Characteristic
+ of the specific elements
+
+=== PAGE 51 ===
+General methods in assisting peak identification
+:
+Check 
+peak 
+positions
+ and 
+relative peak intensities 
+of 
+2 or more
+ peaks of an element.
+(2)	Check 
+spin orbital 
+splitting
+ and 
+area ratios 
+for p, d, f signals
+. 
+Core level emission – Elemental identification
+How do we know who is there for sure?
+Spectral interpretation-Core electron identification
+51
+
+=== PAGE 52 ===
+52
+
+=== PAGE 53 ===
+* 	Basically, the spin-orbital coupling is unaffected by the chemical state of elements, i.e. both the area ratio and the energy separation remain the same.
+Spin-orbital coupling 
+                    --Area ratio of the doublet
+53
+Spectral interpretation-Core electron identification
+J
+ = 
+L
++
+S
+
+=== PAGE 54 ===
+High resolution spectrum of single-crystal Si showing the spin-orbit splitting of the 2p level: 
+2p
+3/2
+ 
+& 
+2p
+1/2
+.
+Energy separation = 0.58 eV, area ratio is 2:1.
+Spin-orbital coupling – 
+j-j coupling
+54
+Spectral interpretation-Core electron identification
+
+=== PAGE 55 ===
+When the element is in different 
+chemical states or chemical environment
+, its corresponding energy levels will be different, giving out photoelectrons at different energy from those arisen from its elemental state.  This energy shift is the so-called “
+chemical shift
+”. 
+Au 4f
+7/2
+ signal from different Au-containing compounds
+Chemical shift
+Is B. E. a fixed value for a specific element?
+55
+Spectral interpretation-Core electron: Chemical shift
+
+=== PAGE 56 ===
+q
+i
+q
+j
+q
+j
+q
+j
+q
+j
+r
+ij
+Chemical shift – Charge-potential model
+56
+Spectral interpretation-Chemical shift: principle
+A simple but successful model has long been used to interpret the chemical shift data – 
+the charge potential model
+Chemical shift is a relative concept (finding the reference)
+B.E. tells the level of difficulty to get a core electron out to vacuum
+What affect the difficulty level?
+Atomic core and electrons
+Charge on the specific atom
+Charge on surrounding atoms
+
+=== PAGE 57 ===
+ 			
+E
+i
+ is the BE of a particular core level on atoms 
+i
+, 
+E
+i
+o
+ is an energy reference (usually the BE of that core level from its elemental state), 
+q
+i
+ is the charge on atom 
+i
+, 
+The final term sums the potential at atom 
+i
+ due to “point charges” on surrounding atom j.  
+This model has neglected the relaxation effects or the so-called final state effect, which is very important for transition metals.
+Chemical shift – Charge-potential model
+57
+Spectral interpretation-Chemical shift: principle
+For example, elemental Si (oxidation state =0) has a Si 2p
+3/2
+ signal at binding energy of ~99eV, while Si in SiO
+2
+ has the corresponding signal at ~104eV.  There is a difference of about 4-5eV. 
+[Speaker notes]
+In X-ray Photoelectron Spectroscopy (XPS), chemical shifts in core-level binding energies arise from changes in the local chemical environment of atoms. These shifts include initial-state effects (like charge redistribution and orbital energies) and final-state effects, where the latter encompass relaxation and screening processes after photoionization.
+The relaxation effect, a key final-state contribution, occurs when valence electrons and surrounding atoms rapidly reorganize to screen the sudden core-hole created by photoelectron ejection, stabilizing the ion and reducing the measured binding energy.
+relaxation and final-state effects are particularly crucial for transition metals due to their partially filled d-orbitals, which enable exceptional electron screening of the core-hole. This d-electron participation provides substantial extra-atomic relaxation energy, significantly reducing observed binding energy shifts and masking pure initial-state chemical trends.
+57
+
+=== PAGE 58 ===
+Binding energy
+Chemical shift 
+Judging the chemical environment
+Determination of chemical state
+58
+Spectral interpretation-Chemical shift: example
+
+=== PAGE 59 ===
+Valance band emission - Fingerprint
+59
+Spectral interpretation-valence electrons for 
+macromolecules
+
+=== PAGE 60 ===
+Other peaks in XPS
+XPS Spectral interpretation
+60
+
+=== PAGE 61 ===
+Besides core level electrons and valence band electrons, x-ray can also induce the so-called 
+Auger process
+ that gives out 
+Auger electrons
+. 
+X-ray induced Auger emission
+X-ray
+61
+Spectral interpretation-Auger process
+
+=== PAGE 62 ===
+62
+Spectral interpretation-Auger process: 
+example
+
+=== PAGE 63 ===
+Plasmon loss
+Spectral interpretation – Plasmon 
+63
+
+=== PAGE 64 ===
+Any electron of sufficient energy passing through a solid can excite one or other of the modes of “
+collective
+” oscillation of the sea of conduction electrons. 
+These oscillations have frequencies 
+characteristic of the material of the solid
+, and therefore require characteristic energies for excitation.
+An electron that has given up amount of energy equal to one of these characteristic energies, in the course of excitation, is said to have suffered a 
+plasmon loss
+. 
+Plasmon loss features are rather 
+weak
+ when compared with the core level emission, but it offers good evidence to the existence of specific phase of a certain compound or giant structures. 
+Plasmon loss
+64
+Spectral interpretation – Plasmon: origin  
+
+=== PAGE 65 ===
+Multiplet
+ splitting
+65
+Spectral interpretation – 
+Multiplet
+Multiplet
+ splitting of core level peaks can occur when the system has 
+unpaired electrons
+ in the valence levels.
+Consider Mn
+2+
+ ion (Mn 3d
+5
+4s
+2
+), the five 3
+d
+ electrons in the ground state are all unpaired and with parallel spins.  
+After ejection of the 3
+s
+ electrons (ionization), a further unpaired electron is present.  
+Exchange interaction 
+results in a lower energy for parallel spin than for the case of anti-parallel spin. 
+
+=== PAGE 66 ===
+66
+
+=== PAGE 67 ===
+Shake-up satellites
+67
+Spectral interpretation – Shake up Satellites
+
+=== PAGE 68 ===
+To the 
+valence electrons
+ associated with an atom the loss of a core electrons by photoemission appears to increase the nuclear charge.
+This major perturbation gives rise to substantial 
+reorganization of the valence electrons (relaxation)
+ which may involve excitation of one of them to a higher unfilled level (shake-up).
+The energy required for this transition is not available to the primary electron and thus the two-electron process leads to a discrete structure on the
+ 
+low KE side of the photoelectron peak (shake-up satellite)
+.
+Most commonly observed shake-up satellite is that corresponding to the 
+
+ 
+
+ 
+
+*
+ transition in aromatic system.
+Shake-up satellites
+68
+Spectral interpretation – Shake up Satellites
+
+=== PAGE 69 ===
+In a process similar to "shake-up", valence electrons can be completely ionized, 
+i.e.
+ excited to an 
+unbounded continuum state
+.
+This process, referred to as "shake-off", 
+leaves an ion with vacancies in both the core and the valence level
+.
+Discrete shake-off satellites are rarely discerned in the solid state because (a) the energy separation from the primary photoelectron peak is much greater than for the "shake-up" satellites, and (b) transition from discrete levels to a continuum produce 
+onsets of increased intensity 
+rather than discrete peaks.
+However, in some polymers, "shake-off" satellites can be identified, that image the polymer valence band structure.
+Shake-off satellites
+69
+Spectral interpretation – Shake off Satellites
+
+=== PAGE 70 ===
+70
+Spectral interpretation – Shake off Satellites
+
+=== PAGE 71 ===
+Binding energy referencing in XPS
+71
+Spectral interpretation – Binding energy
+
+=== PAGE 72 ===
+Each system should be 
+calibrated
+ against these accepted photoelectron lines according to the 
+system’s unique response function. 
+Sputter-clean Au, Ag and Cu surface should be prepared 
+in-situ
+ and the corresponding XPS lines are acquired.  These lines should be calibrated against the tabulated standard values. 
+Binding energy referencing in XPS
+72
+Spectral interpretation – Binding energy
+Anything a bit unusual about this Table?  How to understand?
+
+=== PAGE 73 ===
+73
+Review on element identification in XPS
+Binding energy  of elements
+Electronic structure and definition of binding energy
+Notation of core electrons
+Chemical shift
+Experimental cautions
+Fermi level alignment
+Calibration of the spectrometer
+
+=== PAGE 74 ===
+For a homogenous sample, the measured photoelectron intensity is given by: 
+I
+i,c
+: 	Photoelectron intensity for core level c of element 
+i
+f
+:   	X-ray flux in photons per unit area per unit time
+N
+i
+: 	Number of atoms of element 
+i
+ per unit volume
+s
+i,c
+:	Photoelectric cross-section for core level c of element 
+i
+l
+: 	Inelastic mean free path for the photoelectron in the sample matrix
+
+:  	Angle between the direction of photoelectron and the sample normal
+F
+: 	Factor for analyzer solid angle of acceptance
+T
+: 	Analyzer transmission function
+D
+: 	Detector efficiency
+A
+: 	Area of sample from which photoelectrons are
+	detected
+XPS Quantification
+Quantification
+74
+[Speaker notes]
+74
+
+=== PAGE 75 ===
+Sensitivity factor, SF
+Sensitivity factor
+, 
+S
+, is an empirically determined factor that summed up all 
+instrumental factors/ionization cross section
+ in the basic equation after a detailed calibration process. 
+75
+XPS Quantification-
+senistivity
+
+=== PAGE 76 ===
+Sensitivity factor of each element is determined by a series of testing on a batch of compounds containing that particular element with 
+known stoichiometry
+. 
+Sensitivity factor, SF
+76
+XPS Quantification-sensitivity factor
+
+=== PAGE 77 ===
+Depth profiling
+XPS quantification-depth profiling
+77
+Chromium (31.7 nm)
+Silicon (substrate)
+Nickel (29.9 nm)
+Nickel (30.3 nm)
+Chromium (30.1 nm)
+Chromium Oxide (31.6 nm)
+
+=== PAGE 78 ===
+Depth profiling
+78
+XPS quantification-depth profiling
+
+=== PAGE 79 ===
+Sputtering rate is determined from the time required to sputter through a layer of the 
+same material of known thickness
+.
+After the sputtering analysis, 
+the crater depth is measured
+ using depth profilometer.  A constant sputtering rate is assumed. 
+Calibration of depth scale
+79
+XPS quantification-depth profiling: calibration
+
+=== PAGE 80 ===
+Ion-mixing effects
+80
+XPS quantification-depth profiling: 
+artifacts
+[Speaker notes]
+Ion mixing results from the displacement damage to the samples when subjected to ion bombardment.  The knock-on process drive the element to be displaced from their equilibrium position, break chemical bonds, and create atom defects such as vacancies.  All these promotes diffusion of the affected elements in both lateral and vertical directions.  
+80
+
+=== PAGE 81 ===
+Preferential sputtering
+81
+8000
+Å
+Al
+Si
+SEM images
+Sputtering time
+Poor 
+depth 
+resolution
+XPS quantification-depth profiling: 
+artifacts
+[Speaker notes]
+81
+
+=== PAGE 82 ===
+Use of Zalar rotation during sputtering can reduce the angular effects and improve the 
+depth resolution
+ of the profile. 
+Zalar rotation
+82
+XPS quantification-depth profiling: 
+correction of artifacts
+[Speaker notes]
+Zalar rotation is a specialized sample rotation technique widely utilized in surface analysis technologies like XPS and Auger Electron Spectroscopy (AES) during ion beam sputtering depth profiling. It is designed to address artifacts arising from stationary ion bombardment and enhance the accuracy of depth profile analysis. 
+In the common ion bombardment process, surface artifacts are generated due to crystal orientation dependence and ion shadowing effects. Zalar rotation makes the sample surface receive ion bombardment from all azimuth angles. This balances the sputtering effect across the surface, inhibits the formation of local uneven structures, and keeps the sputtered surface flat. 
+82
+
+=== PAGE 83 ===
+(
+i
+) Instrumental factors
+	• Adsorption from residual gas atmosphere 
+	• Re-deposition of sputtered species 
+	• Impurities, non uniformity of ion beam 
+(ii) Sample characteristics
+    • Depth information (IMFP)
+    • surface roughness
+    • Crystalline structure and defects (
+Channelling
+ )
+    • Preferential sputtering
+    • Primary ion implantation 
+(iii) Radiation induced effects
+    • Atomic mixing 
+    • Sputtering-induced roughness 
+  	• Preferential sputtering and decomposition of compounds 
+  	• Enhanced diffusion and segregation 
+  	• Electron-induced desorption
+  	• Charging of insulators (analysis distortion; electromigration)
+Factors affecting the depth resolution
+83
+XPS quantification-depth profiling: 
+cautions
+
+=== PAGE 84 ===
+The intensity of a signal will vary with the angle 
+
+, the angle between the 
+surface normal
+ and 
+the detector
+ (the 
+polar
+ angle).  Therefore, by changing 
+
+, we can obtain the intensity variation of a signal originated from a particular element.  As other factors being constant, we can eventually determine the atomic concentration of that element based on the intensity variation with the polar angle. 
+Variation of intensity with 
+q
+Angle-resolved depth profiling
+84
+XPS quantification-angle resolved depth profiling
+
+=== PAGE 85 ===
+The advantage of angle-resolved depth profiling is that this technique is 
+non-destructive
+, but 
+the sampling depth is limited to the in-depth detection limit of XPS
+. 
+Angle-resolved depth profiling
+85
+XPS quantification-angle resolved depth profiling: 
+example
+
+=== PAGE 86 ===
+Chemical mapping using XPS
+XPS mapping can be achieved by size-limiting the illumination area of the source or the sampling area of the detector.
+86
+XPS imaging: chemical map
+
+=== PAGE 87 ===
+Mapping technology
+~50 Å
+~10 Å
+87
+XPS imaging: chemical map
+y
+x
+small x
+-
+ray spot size
+(1) Moving sample stage
+Image: x,y position versus 
+photoelectron intensity
+(2) Use of scanning plates
+x
+-
+ray source
+e
+-
+source
+Magnetic lens
+Scanning  plates
+Spot size aperture
+Slit plate
+Slit plate set
+Outer hemisphere
+Iner
+hemisphere
+Eight 
+channeltrons
+and head amplifier
+Sample
+Scanning plates
+(two pairs: x,y)
+Aperture
+Sample
+Image: Voltages V & V scanned:
+Photointensity
+collected from 
+different points in time sequence
+x
+y
+Resolution: ~10m
+m
+Resolution: ~50m
+m
+y
+x
+small x
+-
+ray spot size
+(1) Moving sample stage
+Image: 
+x,y
+ position versus 
+photoelectron intensity
+ 
+(2) Use of scanning plates
+y
+x
+small x
+-
+ray spot size
+(1) Moving sample stage
+(2) Use of scanning plates
+x
+-
+ray source
+e
+-
+source
+Magnetic lens
+Scanning  plates
+Spot size aperture
+Slit plate
+Slit plate set
+Outer hemisphere
+Iner
+hemisphere
+Eight 
+channeltrons
+and head amplifier
+Sample
+Scanning plates
+(two pairs: x,y)
+Aperture
+Sample
+Image: Voltages V & V scanned:
+Photointensity
+collected from 
+different points in time sequence
+x
+y
+Resolution: ~50
+m
+m
+Resolution: ~10
+m
+m
+
+=== PAGE 88 ===
+Mapping technology
+88
+XPS imaging: chemical map
+
+=== PAGE 89 ===
+Mapping technology
+89
+(4) Use of scanned beam
+Analyzer
+Elipsoidal monochromator
+Sample
+Electron gun
+Detector
+Al anode
+Scanning ESCA Microprobe - scanned, focused, monochromatized x-ray beam 
+for small spot spectroscopy and chemical imaging.  
+XPS imaging: chemical map
+[Speaker notes]
+To focus the x-ray beam to 1-10 um, synchrotron source may reach 100 nm. Scanning the X-ray through the sample surface pixel by pixel and detect the photon electron accordingly. 
+89
+
+=== PAGE 90 ===
+Polyethylene
+Substrate
+Adhesion Layer
+Base Coat
+Clear Coat
+Mapping Area
+695 x 320
+µ
+m
+Polyethylene
+Substrate
+Adhesion Layer
+Base Coat
+Clear Coat
+Mapping Area
+695 x 320
+µ
+m
+XPS chemical maps
+Optical image
+Mapping technology
+90
+XPS imaging: chemical map: example
+
+=== PAGE 91 ===
+X-Ray Photoelectron Spectroscopy (XPS), also know as Electron Spectroscopy for Chemical Analysis (ESCA)
+,  is a quantitative spectroscopic technique that measures the elemental composition, chemical state and electronic state of the elements that exist within a material. 
+XPS spectra are obtained by
+ irradiating a material with a beam of X-rays
+ while simultaneously 
+measuring the kinetic energy and number of electrons
+ that escape from the top 1 to 10 nm of the material being analyzed.
+Electrons originating from the 
+core levels
+ identify the elements present from their binding energies (BE). Small chemical shifts in the BEs provide additional chemical state information. The relative concentrations of the different elements present can be determined from the relative peak intensities.
+Summary Notes
+91
+
+=== PAGE 92 ===
+XPS identifies all elements except H and He, because the diameter of these orbitals is so small, reducing the catch probability to almost zero. 
+The strengths of XPS are its 
+good quantification, its excellent chemical state determination capabilities, its applicability to a wide variety of materials from biological materials to metals, and its generally nondestructive nature.
+The weaknesses are its 
+lack of good spatial resolution, only moderate absolute sensitivity, and its inability to detect H.
+XPS is routinely used to analyze 
+inorganic compounds, metal alloys, semiconductors, polymers, elements, catalysts, glasses, ceramics, paints, papers, inks, woods, plant parts, make-up, teeth, bones, medical implants, bio-materials, viscous oils, glues, ion modified materials
+ and many others. 
+ XPS requires ultra high vacuum (UHV) conditions. 
+Summary Notes
+92
+
+=== PAGE 93 ===
+93
+Review of  XPS 
+Key parts in instrumentation
+Major components
+Vacuum
+Integrated characterization system

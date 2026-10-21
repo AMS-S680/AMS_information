@@ -1,0 +1,1367 @@
+=== PAGE 1 ===
+AMSC5720
+Advanced Materials Synthesis 
+(先進材料合成)
+Basic Concepts of Structure and Properties of Materials  
+Prof. Ye CHEN
+Department of Chemistry
+Faculty of Science
+The Chinese University of Hong Kong
+Email: yechen@cuhk.edu.hk; Tel: 3943 0409
+Office: Room 244, Charles Kao Building, Science Center
+
+
+=== PAGE 2 ===
+2026-27 AMSC5720 - Prof. Y. Chen
+2
+•
+Major textbook for this topic:
+Materials Science and Engineering: An Introduction, by William D. Callister, David G. Rethwisch, 9th ed. 2014.
+Classification of Materials
+Building Blocks of Materials
+Structure of Crystalline Solids
+Imperfections in Solids
+Failure
+Topic Overview
+
+
+=== PAGE 3 ===
+2026-27 AMSC5720 - Prof. Y. Chen
+3
+▣Materials drive advancements in our society 
+Stone Age Bronze Age Iron Age
+https://doi.org/10.1016/B978-0-12-818475-2.00019-2
+What is today’s material age?
+Silicon Age (Electronic Materials)?
+Nanomaterials Age?
+Polymer Age?
+Why Materials Are Important 
+
+
+=== PAGE 4 ===
+2026-27 AMSC5720 - Prof. Y. Chen
+4
+https://www.youtube.com/watch?v=bhL8WlDHKaY
+Metal can be very ductile
+or very brittle
+https://www.youtube.com/watch?v=OSt11SA16KU
+▣The Liberty Ship Failure
+Why Materials Science Is Important 
+
+
+=== PAGE 5 ===
+2026-27 AMSC5720 - Prof. Y. Chen
+5
+▣Materials science investigates the relationships that exist between the 
+structures and properties of materials.
+▣In other words: why materials have their properties.
+Aluminum oxide with different structures show 
+different light-transmittance characteristics.
+“Materials tetrahedron”
+What is Materials Science 
+
+
+=== PAGE 6 ===
+2026-27 AMSC5720 - Prof. Y. Chen
+6
+▣Structure can be a nebulous term
+▣It relates to the arrangement of a material’s internal components
+▣Structural elements may be classified based on size:
+Subatomic structure (electrons within atoms, their energies and 
+interactions with nuclei)
+Atomic structure (organization of atoms to form molecules/crystals)
+Nanostructure (aggregates of atoms to form nanoscale particles) 
+Microstructure (can be directly observed using optical microscopes)
+Macrostructure (may be viewed by naked eyes)
+< around 100 nm
+100 nm to 
+several mm
+Several mm to m
+What is Structure 
+
+
+=== PAGE 7 ===
+2026-27 AMSC5720 - Prof. Y. Chen
+7
+▣Property describes the kind and magnitude of response of a material to a 
+specific imposed stimulus 
+▣All important properties of materials may be grouped into:
+Mechanical properties (deformations to an applied load)
+Electrical properties (stimulated by applied electric field)
+Magnetic properties (response to an applied magnetic field) 
+Thermal properties (e.g. changes in temperature or temperature gradients)
+Optical properties (stimulated by electromagnetic or light radiation)
+Deteriorative properties (relate to chemical reactivity )
+and so on…
+What is Property
+
+
+=== PAGE 8 ===
+2026-27 AMSC5720 - Prof. Y. Chen
+8
+Aluminum oxide single 
+crystal (high degree of 
+perfection)—is optically 
+transparent 
+Aluminum oxide 
+polycrystalline material 
+(having many small grains)—
+is optically translucent 
+Aluminum oxide 
+polycrystalline material 
+having some porosity—
+is optically opaque 
+Example: optical property
+
+
+=== PAGE 9 ===
+2026-27 AMSC5720 - Prof. Y. Chen
+9
+▣Metals (no or small amounts of nonmetal elements)
+– Strong, ductile
+– High thermal & electrical conductivities
+– Opaque, reflective
+▣Polymers/plastics (often compounds of non-metal elements)
+– Soft, ductile, low strengths, low densities
+– Low thermal & electrical conductivities
+– Opaque, translucent or transparent
+▣Ceramics (often compounds of metal & non-metal elements) 
+– Hard, Brittle
+– Low thermal & electrical conductivities
+– Opaque, translucent, or transparent
+Classification of Materials
+
+
+=== PAGE 10 ===
+2026-27 AMSC5720 - Prof. Y. Chen
+Classification of Materials
+▣Composites (more than one individual material)
+– Combination of properties that is not displayed by any single material 
+The AIRBUS A380 aircraft composite applications 
+[www.airbus.com]
+10
+
+
+=== PAGE 11 ===
+2026-27 AMSC5720 - Prof. Y. Chen
+Example: Materials For Artificial Hip 
+Anatomy of a human hip joint 
+and adjacent skeletal features  
+X-ray of fractured hip joint
+arrows point to
+ends of fracture line
+X-ray of normal hip joint 
+11
+
+
+=== PAGE 12 ===
+2026-27 AMSC5720 - Prof. Y. Chen
+12
+Example: Materials For Artificial Hip 
+▣Materials requirements for artificial joints
+Biocompatible – minimum rejection by surrounding body 
+tissues
+Chemically inert to body fluids
+Mechanical strength to support forces generated
+Good lubricity and high wear resistance between 
+articulating surfaces
+Femoral 
+Stem
+Head 
+(Ball)
+Liner  &  Shell
+(Acetabular)
+Photograph courtesy of 
+Zimmer, Inc., Warsaw, IN, 
+USA.
+▣Materials used
+Femoral stem — titanium or CoCrMo alloy (metal)
+Head (Ball) — CoCrMo alloy or Al2O3 (ceramic) 
+Shell — titanium alloy (metal)
+Liner — polyethylene (polymer) or Al2O3 (ceramic)
+
+
+=== PAGE 13 ===
+2026-27 AMSC5720 - Prof. Y. Chen
+13
+Advanced Materials
+▣Semiconductors
+– Electrical properties are intermediate 
+between conductors (metals and 
+metal alloys) and insulators 
+(ceramics and polymers)
+▣Biomaterials 
+– Biocompatible: compatible with body 
+tissues and fluids
+– Can be metals, ceramics, polymers, 
+and composites
+Artificial knee
+Vascular graft
+
+
+=== PAGE 14 ===
+2026-27 AMSC5720 - Prof. Y. Chen
+14
+Advanced Materials
+▣Smart Materials
+– Smart implies the ability to sense changes in 
+environment and respond in predetermined manners
+– e.g. shape-memory alloys, piezoelectric ceramics
+▣Nanomaterials
+–
+Dimensions are on the order of 10-9 m
+– Physical and chemical characteristics 
+may experience dramatic changes
+– Can be metals, ceramics, polymers, and 
+composites
+
+
+=== PAGE 15 ===
+2026-27 AMSC5720 - Prof. Y. Chen
+15
+Examples: Different packaging materials for coke
+
+
+=== PAGE 16 ===
+2026-27 AMSC5720 - Prof. Y. Chen
+16
+Atomic Structure and Interatomic Bonding
+▣Understanding of interatomic interaction helps to explain a material’s property:
+Synthetic adhesive
+Gecko's very sticky feet
+Mechanism of adhesion
+https://www.youtube.com/watch?v=YeSuQm7KfaE
+
+
+=== PAGE 17 ===
+2026-27 AMSC5720 - Prof. Y. Chen
+17
+Atomic Structure
+Let’s recap some fundamental concepts
+▣Atom 
+▣Atomic number, Z = no. of protons in nucleus = no. of electrons in neutral species
+▣Atomic mass unit, amu, is 1/12 mass of 12C
+▣Atomic weight, A, is weight of NA (6.022 x 1023) molecules or atoms
+▣A ≈ Z + N, where N is no. of neutrons
+▣1 amu/atom = 1 g/mol
+Electron: 9.11 × 10-31 kg
+Proton: 1.67 × 10-27 kg
+Neutron: 1.67 × 10-27 kg
+
+
+=== PAGE 18 ===
+2026-27 AMSC5720 - Prof. Y. Chen
+18
+Electronic Structure
+▣Some of the chemical, electrical, thermal, & optical properties are determined 
+by an atom's electronic structure
+▣Electrons have wave-like and particle-like characteristics
+▣Two wave-like characteristics are:
+▣Electron position in terms of probability density
+▣Shape, size, spatial orientation of probability density are determined by 
+quantum numbers
+
+
+=== PAGE 19 ===
+2026-27 AMSC5720 - Prof. Y. Chen
+Electronic Structure
+(Chapter 6, Brown et al.)
+19
+
+
+=== PAGE 20 ===
+2026-27 AMSC5720 - Prof. Y. Chen
+Electron Energy States
+1s
+2s
+2p
+K-shell  n = 1
+L-shell  n = 2
+3s
+3p
+M-shell  n = 3
+3d
+4s
+4p
+4d
+Energy
+N-shell  n = 4
+▣Electrons have discrete
+energy values
+▣Electrons tend to occupy
+lowest available energy 
+states
+20
+
+
+=== PAGE 21 ===
+2026-27 AMSC5720 - Prof. Y. Chen
+21
+Survey of Elements
+▣In most elements, electron configurations are not stable
+Why not stable?  
+Electron configuration
+(stable)
+... 
+... 
+1s22s22p6 3s23p6
+(stable)
+... 
+1s22s22p6 3s23p6 3d 104s24p6
+(stable)
+Atomic No.
+18
+...
+36
+Element
+1s1
+1
+Hydrogen
+1s2
+2
+Helium
+1s22s1
+3
+Lithium
+1s22s2
+4
+Beryllium
+1s22s22p1
+5
+Boron
+1s22s22p2
+6
+Carbon
+...
+1s22s22p6
+(stable)
+10
+Neon
+1s22s22p6 3s1
+11
+Sodium
+1s22s22p6 3s2
+12
+Magnesium
+1s22s22p6 3s23p1
+13
+Aluminum
+...
+Argon
+...
+Krypton
+Valence (outer) 
+shell usually not
+completely filled.
+
+
+=== PAGE 22 ===
+▣Valence electrons – electrons in outer unfilled shells
+▣Filled shells are more stable – require more energy to gain or lose 
+electrons
+▣Valence electrons are available for bonding and tend to determine an 
+atom’s chemical properties 
+▣example: C (atomic number = 6)
+1s2 2s2 2p2
+2026-27 AMSC5720 - Prof. Y. Chen
+Electronic Configurations
+valence electrons
+22
+
+
+=== PAGE 23 ===
+2026-27 AMSC5720 - Prof. Y. Chen
+23
+Electronic Configurations
+▣Example:  Fe  (atomic number  = 26) 
+valence 
+electrons
+1s
+2s
+2p
+K-shell  n = 1
+L-shell  n = 2
+3s
+3p
+M-shell  n = 3
+3d
+4s
+4p
+4d
+Energy
+N-shell  n = 4
+1s2 2s2 2p6 3s2 3p6 4s2  3d 6
+Electron configuration
+Transition metals can use the 
+electrons in their d subshells 
+as valence electrons.
+
+
+=== PAGE 24 ===
+2026-27 AMSC5720 - Prof. Y. Chen
+Trends in Periodic Table
+24
+▣Elements in each group has similar valence electron structure
+Electropositive elements:
+Readily give up electrons 
+to become cations.
+Electronegative elements:
+Readily acquire electrons 
+to become anions.
+give up 1e-
+give up 2e-
+give up 3e-
+inert gases
+accept 1e-
+accept 2e-
+O
+Se
+Te
+Po
+At
+I
+Br
+He
+Ne
+Ar
+Kr
+Xe
+Rn
+F
+Cl
+S
+Li
+Be
+H
+Na Mg
+Ba
+Cs
+Ra
+Fr
+Ca
+K
+Sc
+Sr
+Rb
+Y
+
+
+=== PAGE 25 ===
+2026-27 AMSC5720 - Prof. Y. Chen
+Electronegativity
+25
+Smaller electronegativity
+Larger electronegativity
+▣Ability of atoms to attract electrons, ranges from 0.7 to 4.0
+▣Larger electronegativity higher tendency to acquire electrons
+
+
+=== PAGE 26 ===
+▣Primary Interatomic Bonds
+▣Ionic bonding
+▣Covalent bonding
+▣Metallic bonding
+▣Secondary Bonding or van der Waals Bonding (arisen from atomic or 
+molecular dipoles)
+▣Permanent dipole bonds
+▣Hydrogen bonding
+▣Fluctuating induced dipole bonds
+▣Polar molecule-induced dipole bonds
+2026-27 AMSC5720 - Prof. Y. Chen
+Atomic Bonding in Solids
+26
+
+
+=== PAGE 27 ===
+2026-27 AMSC5720 - Prof. Y. Chen
+Ionization Process
+27
+▣Main text
+metal atom +  nonmetal atom
+Dissimilar electronegativities: 
+example: MgO
+Mg
+1s2 2s2 2p6 3s2
+O
+1s2 2s2 2p4
+[Ne] 3s2
+Mg2+ 1s2 2s2 2p6
+O2- 1s2 2s2 2p6
+[Ne] 
+[Ne] 
+donates
+electrons
+accepts
+electrons
+
+
+=== PAGE 28 ===
+▣Occurs between positive and negative ions (often metal + nonmetal)
+▣Requires electron transfer often achieves inert gas configurations
+▣Requires large difference in electronegativity
+▣
+Example:  NaCl
+2026-27 AMSC5720 - Prof. Y. Chen
+Ionic Bonding
+28
+
+
+=== PAGE 29 ===
+▣Predominant bonding in Ceramics
+Examples:
+2026-27 AMSC5720 - Prof. Y. Chen
+Ionic Bonding
+29
+Give up electrons
+Acquire electrons
+NaCl
+MgO
+CaF2
+
+
+=== PAGE 30 ===
+▣Net energy (EN) = sum of attractive and repulsive energies
+▣Equilibrium separation when net energy is at minimum (E0)
+▣Bonding energy: minimum energy to separate two atoms to an infinite 
+distance
+2026-27 AMSC5720 - Prof. Y. Chen
+30
+Ionic Bonding
+Attractive energy EA
+Net energy EN
+Repulsive energy ER
+Interatomic separation r
+EN = EA + ER
+Fig. 2.10(b), Callister & Rethwisch 10e.
+
+
+=== PAGE 31 ===
+▣Atoms have small differences in electronegativity
+▣Stable electron configurations are assumed by sharing of valence e-
+▣Normally s and p orbitals are involved
+▣
+Example: 
+2026-27 AMSC5720 - Prof. Y. Chen
+Covalent Bonding
+31
+Each H has 1 valence e-, needs 1 more
+Electronegativities are the same
+Fig. 2.12, Calliser & Rethwisch 10e.
+H
+shared 1s electron from 
+2nd hydrogen atom 
+H2
+shared 1s electron from 
+1st hydrogen atom
+H
+
+
+=== PAGE 32 ===
+2026-27 AMSC5720 - Prof. Y. Chen
+Bond Hybridization in Covalent Bonding
+32
+Example : carbon can form sp3
+hybrid orbitals
+Fig. 2.13, Callister & Rethwisch 10e.
+Fig. 2.14, Callister & Rethwisch 10e. 
+(Adapted from J.E. Brady and F. Senese, Chemistry: Matter and Its Changes, 
+4th edition. Reprinted with permission of John Wiley and Sons, Inc.)
+
+
+=== PAGE 33 ===
+2026-27 AMSC5720 - Prof. Y. Chen
+Bond Hybridization in Covalent Bonding
+33
+Example: CH4
+Each C has 4 valence e-, needs 4 more
+Each H has 1 valence e-, needs 1 more
+Electrons are shared in sp3 hybrid covalent bonds.
+Fig. 2.15, Callister & Rethwisch 10e.
+(Adapted from J.E. Brady and F. Senese, Chemistry: Matter and Its Changes, 
+4th edition. Reprinted with permission of John Wiley and Sons, Inc.)
+Hybrid sp3 bonding involving carbon
+
+
+=== PAGE 34 ===
+▣Seen in metals and their alloys
+▣Electrons delocalized to form an “electron cloud” or “sea of electrons”
+▣Free electrons act as “glue” to hold ion cores together
+2026-27 AMSC5720 - Prof. Y. Chen
+Metallic Bonding
+34
+Fig. 2.19, Callister & Rethwisch 10e.
+
+
+=== PAGE 35 ===
+▣Arises from attractive forces between dipoles
+▣Fluctuating dipoles
+▣Polar molecule-induced dipole bonds
+2026-27 AMSC5720 - Prof. Y. Chen
+Secondary Bonding
+35
+▣Permanent dipoles
+- Example: Hydrogen bond
+
+
+=== PAGE 36 ===
+▣In real materials, the bonds are sometimes mixtures of several bond types
+▣We can use a bonding tetrahedron to illustrate
+2026-27 AMSC5720 - Prof. Y. Chen
+Mixed Bonding
+36
+“Bonding tetrahedron”
+“Material-type tetrahedron”
+
+
+=== PAGE 37 ===
+▣Most common mixed bonding is mixed covalent-ionic bonds
+▣Percent ionic character (%IC) of a bond between elements A and B (A being the 
+most electronegative) may be approximated by:
+▣XA and XB being the electronegativities of the respective elements
+▣Example: compute the percent ionic character (IC%) of the interatomic bond 
+that forms between C and H, given XC is 2.5 and XH is 2.1:
+▣Thus the C−H bond is primarily covalent (96.1%)
+2026-27 AMSC5720 - Prof. Y. Chen
+Mixed Bonding
+37
+
+
+=== PAGE 38 ===
+▣Many physical and chemical properties of materials are closely related to the 
+information from E−r curve
+2026-27 AMSC5720 - Prof. Y. Chen
+Properties Related to Bonding
+38
+r
+E0= “bond energy”
+Energy
+r0
+unstretched length
+▣Bond length, r
+▣Bond energy, E0
+▣Melting temperature (Tm): 
+higher E0 higher Tm
+r
+Energy
+r0
+larger Tm
+smaller Tm
+
+
+=== PAGE 39 ===
+2026-27 AMSC5720 - Prof. Y. Chen
+Bonding Energy & Tm
+39
+
+
+=== PAGE 40 ===
+▣Linear coefficient of thermal expansion (αl): deeper/narrower shape of the curve 
+(typically means larger E0) lower αl (smaller dimensional alterations upon T change)
+2026-27 AMSC5720 - Prof. Y. Chen
+Properties Related to Bonding
+40
+= αl (T2 -T1 )
+ΔL
+L0
+ΔL
+length, L0
+unheated, T1
+heated, T2
+▣Increase in bond length is 
+due to asymmetryof the 
+E−r curve. This results in 
+an increase in αl. 
+▣As E0 increases this 
+asymmetry decreases. 
+r0
+r
+smaller αl
+larger αl
+Energy
+unstretchedlength
+Eo
+Eo
+
+
+=== PAGE 41 ===
+2026-27 AMSC5720 - Prof. Y. Chen
+Properties Related to Bonding
+41
+Metals
+Metallic bonding
+Variable bond energy
+moderate Tm
+moderate αl
+Polymers
+Covalent & Secondary
+Weak bond energy (between chains)
+Secondary bonding responsible for 
+most physical properties
+•
+low Tm
+•
+large αl
+Ceramics
+Ionic & covalent bonding
+Large bond energy
+high Tm
+small αl
+
+
+=== PAGE 42 ===
+▣A material’s chemical, electrical, thermal, and optical properties are determined 
+by electronic configuration.
+▣Valence electrons occupy the outermost unfilled electron shell.
+▣Primary bonding types include covalent, ionic, and metallic bonding.
+▣Secondary or van der Waals bonds are weaker than the primary bonding types.
+▣In real materials, bonding type can be mixed, an estimated percent ionic 
+charactermay be calculated
+▣Some physicochemical properties can be deduced from E−r curve
+2026-27 AMSC5720 - Prof. Y. Chen
+Brief Summary
+42
+
+
+=== PAGE 43 ===
+Let’s step into the next level of the structure of materials: arrangement of atoms in 
+solid state 
+▣Fundamental concepts to cover in this topic:
+Crystallinity vs. noncrystallinity
+Crystal structure
+
+Crystallographic points
+
+Directions
+
+Planes 
+Single crystal vs. polycrystalline materials
+Some important crystal structures
+2026-27 AMSC5720 - Prof. Y. Chen
+The Structure of Crystalline Solids
+43
+
+
+=== PAGE 44 ===
+▣A crystalline material is one in which the atoms are situated in a repeating or 
+periodic array over large atomic distances
+▣That is, long-range order exists, such that upon solidification, atoms will 
+position themselves in a repetitive three-dimensional pattern
+▣All metals, many ceramics, and certain polymers are crystalline under normal 
+solidification conditions
+▣A noncrystalline (or amorphous) material do not crystalline, that is, long-
+range atomic order is absent
+2026-27 AMSC5720 - Prof. Y. Chen
+Crystalline vs. Noncrystalline
+44
+
+
+=== PAGE 45 ===
+▣Some substances have both crystalline or noncrystalline forms
+▣Many properties of solid materials depends on their crystallinity and/or 
+crystal structure 
+Quartz 
+(crystalline SiO2 )
+Glass 
+(noncrystalline SiO2 )
+2026-27 AMSC5720 - Prof. Y. Chen
+45
+Crystalline vs. Noncrystalline
+
+
+=== PAGE 46 ===
+▣Crystal structure is the manner in which 
+atoms, ions, or molecules are spatially arranged
+▣Crystal structures of different materials can be 
+relative simple or extremely complex
+▣To better describe crystal structure, atoms or 
+ions are often thought of as solid spheres
+▣In atomic hard-sphere model, hard spheres
+representing nearest-neighboring atoms touch
+one another
+2026-27 AMSC5720 - Prof. Y. Chen
+Crystal Structure
+46
+
+
+=== PAGE 47 ===
+▣Metallic solids adopt metallic bonds 
+▣Non-directional
+▣Electrons are highly delocalized
+minimal restriction of number and position of nearest-neighbor atoms
+▣Most metallic crystal structure adopt dense (close) atomic packings
+▣Face-centered cubic (FCC) crystal structure 
+▣Hexagonal close-packed (HCP) crystal structure
+▣Some metals adopt non-close-packed structures
+▣Body-centered cubic (BCC) crystal structure 
+▣Simple cubic (SC) structure
+2026-27 AMSC5720 - Prof. Y. Chen
+Crystal Structures in Metals
+47
+
+
+=== PAGE 48 ===
+2026-27 AMSC5720 - Prof. Y. Chen
+Packing and Close Packing in Metals
+48
+▣In two dimensions, close packing refers to the hexagonal close-packed arrangement of 
+spheres
+▣In three dimensions, close-packing structure can be achieved by stacking the two-
+dimensional close-packing layers
+▣Lattice: three-dimensional array of points coinciding with atom positions
+▣Unit cell: the smallest repeating unit of the structure which carries all the information 
+necessary to construct unambiguously an infinite lattice
+▣Coordination number (for metals): number of nearest-neighbor atoms
+
+
+=== PAGE 49 ===
+2026-27 AMSC5720 - Prof. Y. Chen
+Unit Cells of HCP and FCC Structures
+49
+FCC (CCP)
+HCP
+Top view:
+3D view:
+▣FCC structure is also called cubic-close-packed (CCP) structure
+FCC (CCP)
+HCP
+
+
+=== PAGE 50 ===
+▣Examples: Cu, Al, Ag, Au, Pt
+▣a = 2 2R
+▣Coordination number: 12
+2026-27 AMSC5720 - Prof. Y. Chen
+Unit Cell Representations of FCC Crystal Structure
+50
+a
+4R
+Hard-sphere 
+unit cell
+Reduced-sphere 
+unit cell
+An aggregate of many atoms
+
+
+=== PAGE 51 ===
+▣Examples: Co, Ti, Mg, Ru
+▣
+a = 2R
+▣Coordination number: 12
+2026-27 AMSC5720 - Prof. Y. Chen
+Unit Cell Representations of HCP Crystal Structure
+51
+Reduced-sphere 
+unit cell
+An aggregate of many atoms
+
+
+=== PAGE 52 ===
+▣Examples: Fe, Cr, W, Mo
+▣
+a = 4R
+3
+▣Coordination number: 8
+2026-27 AMSC5720 - Prof. Y. Chen
+Unit Cell Representations of BCC Crystal Structure
+52
+Hard-sphere 
+unit cell
+Reduced-sphere 
+unit cell
+An aggregate of 
+many atoms
+a
+a
+a
+2
+a
+3
+4R =
+
+
+=== PAGE 53 ===
+▣Examples: Po
+▣
+a = 2𝑅𝑅
+▣Coordination number: 6
+2026-27 AMSC5720 - Prof. Y. Chen
+Unit Cell Representations of SC Crystal Structure
+53
+Hard-sphere unit cell
+Reduced-sphere unit cell
+a
+2R
+
+
+=== PAGE 54 ===
+▣Atomic Packing Factor (APF): sum of the sphere volumes of all atoms within a 
+unit cell, assuming the atomic hard-sphere model, divided by the unit cell 
+volume
+▣To calculate APF, we need to first find out number of atoms inside one unit cell, 
+then calculate the total volume 
+▣Recall the volume of each sphere is 4πR3
+3
+2026-27 AMSC5720 - Prof. Y. Chen
+Atomic Packing Factor (APF)
+54
+APF = volume of atoms actually inside the unit cell
+total volume of unit cell
+
+
+=== PAGE 55 ===
+2026-27 AMSC5720 - Prof. Y. Chen
+Exercise
+55
+Show that in an FCC structure, the APF is approximately 0.74.
+
+
+=== PAGE 56 ===
+Copper has an atomic radius of 0.128 nm, an FCC crystal structure, an atomic 
+weight of 63.5 g/mol, and a measured density of 8.94 g/cm3. Compute its 
+theoretical density in g/cm3. 
+2026-27 AMSC5720 - Prof. Y. Chen
+56
+Exercise
+
+
+=== PAGE 57 ===
+▣Some metals and non-metals have more than one crystal structure
+▣This is polymorphism or allotropy
+▣The prevailing crystal structure of a metal depends on temperature and pressure
+▣Example: Sn
+2026-27 AMSC5720 - Prof. Y. Chen
+Polymorphism and Allotropy
+57
+Body-centered tetragonal 
+crystal structure
+Diamond cubic 
+crystal structure
+White tin
+Gray tin
+
+
+=== PAGE 58 ===
+▣There are many different possible crystal 
+structures
+▣We can group all crystal structures based on 
+unit cell geometry
+▣The geometry of a unit cell can be completely
+defined in terms of 6 parameters:
+▣3 edge lengths a, b, and c
+▣3 interaxial angles α, β, and γ
+2026-27 AMSC5720 - Prof. Y. Chen
+Crystal Systems
+58
+
+
+=== PAGE 59 ===
+2026-27 AMSC5720 - Prof. Y. Chen
+Seven Crystal Systems
+59
+Crystal system
+Axial relationships
+Interaxial angles
+Cubic
+a = b = c 
+α = β = γ = 90°
+Hexagonal
+a = b ≠ c 
+α = β = 90°, γ = 120°
+Tetragonal
+a = b ≠ c 
+α = β = γ = 90°
+Rhombohedral (trigonal)
+a = b = c 
+α = β = γ ≠ 90°
+Orthorhombic
+a ≠ b ≠ c 
+α = β = γ = 90°
+Monoclinic
+a ≠ b ≠ c 
+α = β = 90° ≠ γ
+Triclinic
+a ≠ b ≠ c 
+α ≠ β ≠ γ ≠ 90°
+Cubic
+Hexagonal
+Tetragonal
+Rhombohedral
+Orthorhombic
+Monoclinic
+Triclinic
+
+
+=== PAGE 60 ===
+▣To specify a position within a unit cell, lattice position coordinates are used, 
+specifically 3 point indices: q, r, s
+▣They are fractional multiples of unit cell lengths
+Point number
+q
+r
+s
+1
+0
+0
+0
+2
+1
+0
+0
+3
+1
+1
+0
+4
+0
+1
+0
+5
+½ 
+½
+½
+6
+0
+0
+1
+7
+1
+0
+1
+8
+1
+1
+1
+9
+0
+1
+1
+▣For example, in terms 
+of crystallographic 
+points, the positions of 
+atoms in a body-
+centered unit cell can 
+be expressed as: 
+2026-27 AMSC5720 - Prof. Y. Chen
+Crystallographic Points
+60
+
+
+=== PAGE 61 ===
+▣To describe a crystallographic direction, a vector containing three dimensional 
+indices is used. 
+▣Steps to determine the three directional indices: 
+1. Place a unit cell at the corner of a right-handed x-y-z coordinate system
+2. Find the coordinates of two points lying on the direction: 
+
+e.g. Point 1 (x1, y1, z1) as vector tail, Point 2 (x2, y2, z2) as vector head
+3. Tail point coordinates are subtracted from head point coordinates
+
+we get (x2−x1, y2−y1,z2−z1)
+2026-27 AMSC5720 - Prof. Y. Chen
+Crystallographic Directions
+61
+
+
+=== PAGE 62 ===
+▣Steps to determine the three directional indices (continued): 
+4. The coordinate differences are normalized in terms of (i.e. divided by) their 
+respective a, b, and c lattice parameters
+
+we get ( x2−x1
+a
+, y2−y1
+b
+, z2−z1
+c
+)
+5. For convenience, the three numbers are often multiplied/divided by a common 
+factor (n) to change to smallest integer values
+6. The final indices, not separated by commas, are enclosed in square brackets: 
+[uvw]
+
+u = n(x2−x1
+a
+), v = n(y2−y1
+b
+), w = n(z2−z1
+c
+) 
+2026-27 AMSC5720 - Prof. Y. Chen
+62
+Crystallographic Directions
+
+
+=== PAGE 63 ===
+Example: procedure to determine the following directional indices
+2026-27 AMSC5720 - Prof. Y. Chen
+Crystallographic Directions
+63
+x
+y
+z
+Head coordinates (x2, y2, z2) 
+Tail coordinates (x1, y1, z1) 
+[ത221]
+u = −2
+v = 2
+w = 1
+−a
+b
+c/2
+a
+0
+0
+0
+b
+c/2
+Coordinate differences
+Calculated values of u, v, w
+Final expression
+
+
+=== PAGE 64 ===
+Example: construct a specified crystallographic direction
+▣Within the following unit cell, draw a [1ത10] direction with its tail 
+located at the origin of the coordinate system, Point O
+▣This problem can be solved by reversing the aforementioned 
+procedure
+2026-27 AMSC5720 - Prof. Y. Chen
+Crystallographic Directions
+64
+x
+y
+z
+Head coordinates (x2, y2, z2) 
+Tail coordinates (x1, y1, z1) 
+Coordinate differences
+Calculated values of u, v, w
+Final expression
+[1ത10]
+u = 1
+v = −1
+w = 0
+a
+−b
+0
+0
+0
+0
+a
+−b
+0
+
+
+=== PAGE 65 ===
+2026-27 AMSC5720 - Prof. Y. Chen
+Equivalent Crystallographic Directions
+65
+▣For some crystal structures, several nonparallel directions with different indices 
+are crystallographicallyequivalent
+▣
+e.g., in cubic crystals, all the directions represented by the following indices are equivalent: 
+[100], [ത100], [010], [0ത10], [001], [00ത1]
+▣As a convenience, equivalent directions are grouped together into a family, 
+which is enclosed in angle brackets, thus <uvw> (e.g. <100>)
+▣In cubic system, directions having the same indices without regard to order or 
+sign, are equivalent
+▣
+e.g. in cubic crystals, [123] and [ത21ത3] are equivalent
+▣In other crystal systems, this is not always true 
+▣
+e.g. for tetragonal symmetry, [100] and [010] are equivalent, but [100] and [001] are not
+equivalent
+
+
+=== PAGE 66 ===
+▣Similar to directions, crystallographic planes are also represented by three 
+indices, known as Miller indices
+▣Steps to determine the three Miller indices:
+2026-27 AMSC5720 - Prof. Y. Chen
+Crystallographic Planes
+66
+1.
+If the plane passes through the origin, establish a new origin in another unit cell
+2.
+Read values of intercepts of plane (A, B, C) with x, y, and z axes in terms of a, b, c
+3.
+Take reciprocals of intercepts (1/A, 1/B, 1/C) 
+4.
+Normalize them by multiplying by lattice parameters a, b, and c (a/A, b/B, c/C) 
+5.
+Reduce to smallest integer values (na/A, nb/B, nc/C) 
+6.
+Enclose resulting Miller Indices in round brackets, no commas: (hkl)
+
+
+=== PAGE 67 ===
+Example: determine the Miller indices for the plane shown 
+on the right
+2026-27 AMSC5720 - Prof. Y. Chen
+Crystallographic Planes
+67
+1.
+The plane passes through origin O, we choose a 
+new origin O’ in adjacent unit cell
+2.
+Intercepts (A, B, C) of plane:
+3.
+Take reciprocals of intercepts:
+4.
+Normalize them by multiplying by lattice 
+parameters a, b, and c: 
+5.
+Reduce to smallest integer values:
+6.
+Enclosure of Miller Indices:
+
+
+=== PAGE 68 ===
+2026-27 AMSC5720 - Prof. Y. Chen
+Exercise
+68
+Quick test: what are the Miller indices for the planes shown below:
+z
+x
+y
+a
+b
+c
+z
+x
+y
+a
+b
+c
+
+
+=== PAGE 69 ===
+2026-27 AMSC5720 - Prof. Y. Chen
+Crystallographic Planes
+69
+Example: construct a (101) plane within the following unit cell
+h = na
+A = 1
+k = nb
+B = 0
+l = nc
+C = 1
+A = a
+B = ∞
+C = c
+Therefore, (101) plane
+•
+Intersects the x axis at a
+•
+Parallel to y axis
+•
+Intersects the z axis at c
+already are the smallest
+integer so n = 1
+
+
+=== PAGE 70 ===
+▣Any two planes parallel to each other are equivalent and have identical indices
+▣A family of crystallographicallyequivalent planes is denoted in curly brackets, 
+{hkl}
+▣
+e.g., in cubic crystals, (111), (ത111), (1ത11), (11ത1), (1ത1ത1), (ത11ത1), (ത1ത11), and (ത1ത1ത1) planes all 
+belong to the {111} family 
+2026-27 AMSC5720 - Prof. Y. Chen
+Equivalent Crystallographic Planes
+70
+
+
+=== PAGE 71 ===
+▣There are two ways to express directions and planes in hexagonal unit cell  
+▣Three-indexsystem: [UVW]
+▣Four-index system (Miller-Bravais 
+coordinate system): [uvtw]
+Conversion formula:
+u = 1
+3 (2U −V)
+v = 1
+3 (2V −U)
+t = − (u + v)
+w = W
+2026-27 AMSC5720 - Prof. Y. Chen
+Directions and Planes in Hexagonal Crystals
+71
+
+
+=== PAGE 72 ===
+▣If the unit cell can repeat itself in a crystalline solid without 
+interruption, the result is a single crystal
+▣A single crystal usually assumes a regular geometric shape with 
+flat faces; the shape is indicative of the crystal structure
+▣Most crystalline solids are composed of many small single 
+crystals, or grains; they are polycrystalline
+2026-27 AMSC5720 - Prof. Y. Chen
+Single Crystal and Polycrystalline Materials
+72
+Iron pyrite (FeS2) 
+single crystal
+Stages of solidification of a polycrystalline material
+Grain
+Grain boundary
+
+
+=== PAGE 73 ===
+2026-27 AMSC5720 - Prof. Y. Chen
+Some Important Structure Types
+73
+▣Carbon
+▣Diamond
+▣Graphite
+e.g. C, Si, Ge 
+
+
+=== PAGE 74 ===
+2026-27 AMSC5720 - Prof. Y. Chen
+Some Important Structure Types
+74
+▣Rock Salt Structure
+▣Cesium Chloride Structure
+e.g. NaCl, MgO, FeO
+e.g. CsCl, CsBr
+▣AX-Type Crystal Structures
+
+
+=== PAGE 75 ===
+▣AX-Type Crystal Structures
+2026-27 AMSC5720 - Prof. Y. Chen
+Some Important Structure Types
+75
+e.g. ZnS, SiC, GaAs 
+▣Zinc Blende (sphaleirite)
+▣Wurtzite
+e.g. ZnS, ZnO, CdS, CdSe
+
+
+=== PAGE 76 ===
+▣AX2-Types Crystal Structures
+2026-27 AMSC5720 - Prof. Y. Chen
+Some Important Structure Types
+76
+▣Fluorite
+e.g. CaF2, UO2, ThO2, 
+▣Rutile
+e.g. TiO2, RuO2, IrO2
+Inorganic Chemistry, Housecroft C. E. and Sharpe A. G.
+
+
+=== PAGE 77 ===
+▣AX2-Types Crystal Structures
+2026-27 AMSC5720 - Prof. Y. Chen
+Some Important Structure Types
+77
+▣CdI2 Structure (one kind of layer structures)
+e.g. CdI2, FeBr2, Mg(OH)2, Co(OH)2
+
+
+=== PAGE 78 ===
+▣ABX3-Type Crystal Structures
+▣Perovskite
+e.g. BaTiO3, SrZrO3, SrSnO3
+2026-27 AMSC5720 - Prof. Y. Chen
+Some Important Structure Types
+78

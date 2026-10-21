@@ -1,0 +1,1052 @@
+=== PAGE 1 ===
+AMSC 5710
+Advanced Materials Characterization
+S
+ample preparation
+
+=== PAGE 2 ===
+Contents
+Sample preparation: 
+An analytical perspective
+Examples: 
+for specific characterization
+Creating vacuum environment
+2
+
+=== PAGE 3 ===
+Sample pr
+e
+paration
+:
+An analytical perspective
+PHYS 5350 techniques in materials characterization
+3
+
+=== PAGE 4 ===
+Sample preparation: An analytical perspective
+Motivation of sample preparation
+The purpose of an analytical characterization is 
+to obtain information
+ about an object or a substance.
+The substance could be a 
+solid
+, a 
+liquid
+, a 
+gas
+, or a 
+biological material
+, 
+chemical
+, 
+nanomaterials
+,
+ 
+electronic system
+…….
+Information to be obtained varies from 
+chemical to physical composition, bulk to surface properties, structural to morphological information, chemical to physical and to biological phenomena
+.
+NO
+ single instrument can get all information from all types (or forms) of samples. 
+Need careful sample treatment and preparation!
+4
+[Speaker notes]
+Why need sample prep
+Fit in and get in touch with the probe
+Clean sample avoiding artifact (vacuum)
+4
+
+=== PAGE 5 ===
+Sample preparation: An analytical perspective
+Importance of sample preparation
+Sample preparation is often considered the "low tech" part of the method, and thus receives little attention. In some laboratories, the youngest, least experienced (and usually lowest paid) workers are assigned to the "Prep Lab." It is assumed that their inexperience will be less of a liability in this part of the organization.
+Despite its "low tech" image, sample preparation is a critical part of every method. Although many procedures do not use sophisticated, and expensive, equipment, they still require considerable care in operation to ensure that reliable results are obtained.
+All sample preparation procedures are based on sound chemical and physical principles. To successfully, and efficiently, use these procedures, you must understand these principles, and then apply your knowledge of them to the task at hand. 
+Often neglected, but is of critical importance
+!
+5
+[Speaker notes]
+Importance: avoid artifacts introduction
+5
+
+=== PAGE 6 ===
+Sample preparation: An analytical perspective
+Steps in the measurement process
+Sampling
+Sample Preservation
+Analysis
+Sample Preparation
+Should be representative of the original subject
+Sampling should be done with variability within the object in mind
+Maintain the integrity of the sample between the time of sample collection and analysis
+Avoid and assess potential contaminations and interferences
+Involves sample treatment so that the desired information can be successfully obtained in subsequent analysis
+Avoid introducing uncertainties and addition factors
+Appropriate methods, calibration, experimental conditions, instruments
+Valid and sound data analysis
+6
+
+=== PAGE 7 ===
+Quality assurance and quality control in sample preparation
+Preservation of samples
+7
+
+=== PAGE 8 ===
+Sample preparation: An analytical perspective
+Possible steps in sample preparation
+Homogenization, size reduction
+Reduce sample in-homogeneity within the analysis volume
+Avoid invariable size effect
+Extract sample from potential interference
+Avoid sample loss
+Pre-concentrate the sample for more accurate analysis
+Need careful calibration
+Extraction
+Concentration
+Clean-up
+Analysis
+Eliminate excess reagents used for extraction and concentration
+Avoid significant sample loss
+8
+
+=== PAGE 9 ===
+Sample preparation: An analytical perspective
+Examples: Necessary sample preparation steps for specific analytes  
+9
+
+=== PAGE 10 ===
+Sample preparation: An analytical perspective
+Classification of analysis/characterization
+Qualitative analysis
+Yes/no, presence/absence, strong/weak, …… about a particular property or information
+Quantitative analysis
+Quantified information on a particular property or information, e.g. concentration, dimension, intensity ……
+Semi-quantitative analysis
+The concern is not exactly how much is there but whether it is above or below a certain threshold level.
+10
+
+=== PAGE 11 ===
+Sample preparation
+for specific characterization
+examples
+PHYS 5350 techniques in materials characterization
+A. 
+Sample preparation for microscopic evaluation
+B. 
+Sample preparation for surface spectroscopy
+11
+
+=== PAGE 12 ===
+Sample preparation for specific characterization
+Metal sample preparation for microscopic evaluation
+Typically, the grains of a metal object are very small, and cannot be viewed with the naked eye.
+The structural features of the small grains are observed using an optical or electron microscope.
+Structures requiring this range of magnification for their examination are called microstructures. 
+The crystal structure of a solid metal refers to the internal structure or arrangement of the atoms in an ordered, repeating, 3D pattern.
+Normal metallic objects are polycrystalline, which means they consist of an aggregate of many very small crystals. These crystals are called grains.  
+12
+𝜇
+𝑚
+ 
+
+=== PAGE 13 ===
+13
+Example of microstructure
+[Speaker notes]
+A peacock tail feather features a central rachis (stem) from which barbs extend. Each barb bears numerous barbules, flat extensions about 20-30 micrometers wide with round indentations that scatter light.
+Barbules consist of a thin medullary core (around 3 
+micrometers
+) encased in a keratin cortex containing a two-dimensional photonic crystal. This crystal comprises an ordered lattice of melanin rodlets (≈100-120 nm diameter, 0.7 
+μ
+m long) embedded in keratin, forming a square or rectangular array with lattice constants of 140-165 nm 
+13
+
+=== PAGE 14 ===
+Sample preparation for specific characterization
+Sample preparation for microscopic evaluation
+What we look for in a microstructural analysis?
+14
+
+=== PAGE 15 ===
+Sample preparation for specific characterization
+Sample preparation for microscopic evaluation
+15
+
+=== PAGE 16 ===
+Sample preparation for specific characterization
+Sample preparation for microscopic evaluation
+16
+
+=== PAGE 17 ===
+Sample preparation for specific material characterization
+Sectioning and Polishing
+Sample prepared by sectioning to size appropriate for microscopic study.
+With a regular saw, surface damage during sectioning can extend 200 
+μ
+m or more into the sample.  Use of narrower and thin cutting saw/blade (~100 
+μ
+m thin) can reduce the surface damage to less than 1 
+μ
+m.  
+(Destroy the sample region we want to study?)
+Mounting sample with appropriate epoxies. 
+(Do these epoxies and mounting procedures affect the microstructures of the samples?)
+Simultaneous lubrication and cooling with water, oil or alcohol is desirable. 
+(Do these lubricants and cooling reagents react with the samples?)
+Polishing is done by continuous rubbing/grinding against abrasive sheets with abrasive particles (diamond, SiC, Al
+2
+O
+3
+) as fine as 0.05 
+μ
+m. 
+(Be careful of the residual abrasive particles left on the sample surface!)
+Will have hands-on experience in laboratory sessions.
+Sample preparation for microscopic evaluation
+17
+
+=== PAGE 18 ===
+Sample preparation for specific material characterization
+Sample preparation for microscopic evaluation
+Depth of deformation (
+Dd
+):
+	Maximum depth beneath the root of the surface scratches to the 	elastic-plastic boundary.
+Depth of significant deformation (Ds):
+Maximum depth beneath the root of the surface scratches of the deformation that will noticeably affect the observations to be made on the finished surface.
+Depth of fragmented layer (
+Df
+):
+	Approximately equal to the depth of the surface scratches.
+18
+
+=== PAGE 19 ===
+Sample preparation for specific material characterization
+Sample preparation for microscopic evaluation
+After fine grinding
+After rough polishing
+After polishing
+After final polishing
+SiC fibres in Ti-alloy
+19
+
+=== PAGE 20 ===
+Sample preparation for specific material characterization
+Sample preparation for microscopic evaluation
+Chemical and Thermal etching
+Polished unetched samples can show macroscopic cracks, pits, etc., and no microstructural details can be observed.
+Therefore, a so-called etching process is needed to reveal the microstructures.  Etching for microstructural evaluation is to expose the lowest-energy surface by chemical or thermal means.
+Etching will expose defects such as grain boundaries and bring out the contrast between different phases or different crystallographic orientations that etch at different rates.
+20
+
+=== PAGE 21 ===
+Sample preparation for specific material characterization
+Sample preparation for microscopic evaluation
+Definition of a “ true structure ”
+Based on Vilella and Samuels, the true structure can be defined as:
+	No deformation
+	No scratches
+	No pull-outs
+	No false structures (artifacts)
+	No introduction of foreign elements
+	No smearing
+	No relief or rounded edges
+	No thermal damage
+L. E. Samuels, 
+Metallograhic Polishing by Mechanical Methods
+, American Society for Metals, Metals Park, Ohio (1982)
+J. R. Vilella, 
+Metallographic Technique for Steel
+, American Society for Metals,
+Cleveland, Ohio (1938)
+21
+
+=== PAGE 22 ===
+500 
+μ
+m
+Grain size: 0.175 mm 
+500 
+μ
+m
+Grain size: 0.120 mm 
+500 
+μ
+m
+Grain size: 0.030 mm 
+500 
+μ
+m
+Grain size: 0.06 mm 
+Microstructures of copper alloys
+Sample preparation for specific material characterization
+22
+
+=== PAGE 23 ===
+Sample preparation for specific material characterization
+Surface spectroscopy
+23
+
+=== PAGE 24 ===
+Sample preparation for specific material characterization
+Surface spectroscopy
+24
+
+=== PAGE 25 ===
+Sample preparation for specific material characterization
+Sample preparation for surface spectroscopy
+25
+
+=== PAGE 26 ===
+Sample preparation for specific material characterization
+Sample preparation for surface spectroscopy
+26
+[Speaker notes]
+26
+
+=== PAGE 27 ===
+Sample preparation for specific material characterization
+Sample preparation for surface spectroscopy
+Sample handling
+27
+
+=== PAGE 28 ===
+28
+Special sample cleaning: ion sputter cleaning
+Sample preparation for specific material characterization
+Sample preparation for surface spectroscopy
+Before sputter cleaning
+After sputter cleaning
+Sample: Thin film superconductor
+
+=== PAGE 29 ===
+Sample preparation for specific material characterization
+Sample preparation for surface spectroscopy
+Special sample cleaning: ion sputter cleaning
+Ba 3d XPS spectra
+Surface contaminants like
+Ba hydroxides and carbonates are removed by ion sputter cleaning
+29
+[Speaker notes]
+29
+
+=== PAGE 30 ===
+Sample preparation for specific material characterization
+Sample preparation for surface spectroscopy
+Other special sample preparation methods for surface analysis
+In-situ heating
+Refractory metals and silicon surfaces can be cleaned sufficiently by flash heating, that is heating the samples to a very high temperature for a very short time whereby the surface oxides becomes unstable and vaporize in vacuum.
+In-situ abrasion and scraping
+A razor blade or a grinding tool is attached at an appropriate angle to rotating or sliding shafts inside the vacuum system to grind the sample surface.
+In-situ cleavage
+Some crystalline materials have preferred cleavage planes that can be cleaved easily inside the vacuum chamber using a blade or a rod.
+30
+
+=== PAGE 31 ===
+31
+Short review on sample prep
+Purpose
+Shaping/Thinning down
+Making it flat
+Cleaning it up 
+Methods
+Cutting/slicing
+Mechanical polishing
+Chemical etching
+Thermal etching
+Ion etching
+Questions to think about 
+Tricks 
+when sample is thin?
+How to prepare the peacock feather sample? (soft materials)
+How to make a cross-sectional sample?
+
+=== PAGE 32 ===
+Creating vacuum environment
+PHYS 5350 techniques in materials characterization
+32
+
+=== PAGE 33 ===
+Basic requirements to study surfaces
+			
+--The need of vacuum
+Physical phenomena in “vacuum”
+Definition of vacuum
+Generation and maintenance of vacuum
+
+=== PAGE 34 ===
+The need of vacuum
+Important terminologies
+     
+I.	Mean free path
+ 	
+It is the average distance that a molecule travels in a gas between two successive collisions with other molecule of that gas.
+II.	Molecular incident rate (or impinging rate)
+      
+ It is the number of molecules striking the  surface per unit area per unit time
+ 
+III.       Monolayer formation time
+   	
+It is the time required for a freshly cleaved surface to  be covered by a layer of the gas of ONE molecule thickness.
+
+=== PAGE 35 ===
+Ideal gas 
+vs.
+ Real gas
+Ideal gas
+The molecules are minute spheres.
+Their volume is very small compared with that actually occupied by the gas.
+The molecules DO NOT exert forces on each other.
+The molecules travel along rectilinear paths in a perfectly random fashion.
+The molecules make perfectly elastic collisions.
+Real gas
+Each molecule has certain significant volume which exclude other molecules.
+There are intermolecular forces among the molecules.
+These interactions lead to phenomenon such as condensation, vaporization, melting, freezing, and etc
+Random but inelastic collisions are expected among molecules.
+
+=== PAGE 36 ===
+Gas Laws
+I.	 Boyle’s Law [Boyle (1662) & Mariotte (1679)]
+Boyle’s Law is valid for gases at all temperature except at above the “critical point”.
+The “critical point” is the temperature above which the gas cannot be liquefied at any pressure.
+II. Charles’s Law [Charles & Gay-Lussac (1802]
+P
+T
+ = P
+0
+ (1 + 
+
+t
+c
+)
+ and 
+V
+T
+ = V
+0
+ (1 + 
+
+t
+c
+)
+;
+P
+0
+ and 
+V
+0
+ are pressure and volume at
+ t
+c
+ equal to zero; and 
+t
+c
+ = 
+
+-1
+ + T 
+(in degree);
+ 
+b
+ is equal to 1/273;
+III. General Gas Law
+                               
+R is the universal gas constant, N is the no. of moles of molecules/unit volume, k is the Boltzmann constant (k = R/N
+A
+), N
+A
+ is the Avogradro’s number n is thus the number density;
+
+=== PAGE 37 ===
+IV. Equation of state of real gas
+                                  
+Introduced by van der Waals
+;
+The term (A/V
+2
+) takes into account the attractive forces between molecules, which have the same effect as an addition pressure;
+The term (V-b) is the reduced volume, where b is the volume occupied by the molecules.
+𝑃
++
+𝐴
+𝑉
+2
+(
+𝑉
+−
+𝑏
+)=
+𝑁
+𝑅𝑇
+ 
+
+=== PAGE 38 ===
+Maxwell-Boltzmann 
+velocity distribution of gases
+I. Probability density function of distribution of gas velocity
+                              
+in one direction
+in 3 directions
+II. Probability that a particle having a speed between 
+n
+  and 
+n + 
+d
+n
+                              
+where f(v) is also the fraction of the number molecules having a speed  between v and v+dv
+. 
+
+=== PAGE 39 ===
+Derive the most probable velocity V
+p 
+, the average velocity, V
+av
+and the root-mean-square velocity, V
+r 
+.
+F
+v
+
+=== PAGE 40 ===
+The 
+most probable velocity
+, 
+v
+p
+, is the speed most likely to be possessed by any molecule in the system and corresponds to the maximum value of 
+F
+(
+v
+) 
+The 
+mean velocity
+ is the mathematical average of the speed distribution
+ 
+The 
+root mean square velocity
+, 
+v
+rms is the square root of the average squared velocity
+ 
+
+=== PAGE 41 ===
+Molecular incident rate 
+Recall: n = number density = no. of molecules/unit volume
+            n
+x
+ = no. of molecules/unit volume in x-direction
+Therefore, no. of molecules striking the surface per unit area per unit time is:
+[
+molecules/cm
+2
+sec]
+
+=== PAGE 42 ===
+
+
+=== PAGE 43 ===
+43
+PV
+=
+Nk
+B
+​
+T
+ N is the number of molecules. The number density 
+n
+=
+N/V
+𝜑
+=8.3
+𝑥
+1
+0
+22
+[
+𝑃
+(
+𝑀𝑇
+)
+1/2
+]
+ 
+or
+n
+=
+P/ 
+k
+​
+B
+T
+𝑣
+=
+8
+𝑅𝑇
+𝜋
+𝑀
+ 
+𝜑
+=
+1
+4
+𝑛
+𝑣
+𝑎𝑣
+=
+𝑃
+4
+𝐾
+𝐵
+𝑇
+8
+𝑅𝑇
+𝜋
+𝑀
+ = 
+𝑃
+2
+𝜋
+𝑚
+𝐾
+𝐵
+𝑇
+=
+𝑁
+𝐴
+𝑃
+2
+𝜋
+𝑀𝑅𝑇
+ 
+
+=== PAGE 44 ===
+Monolayer formation time 
+t
+𝜑
+=
+1
+4
+𝑛
+𝑣
+𝑎𝑣
+=
+8.3
+×1
+0
+22
+𝑃
+𝑀𝑇
+ 
+where P in Pa and M in kg.
+Assuming that the sticking coefficient is 1 and one monolayer contains 10
+19
+ particles/m
+2
+, we get
+𝜏
+=1.2×1
+0
+−
+4
+𝑀𝑇
+𝑃
+ 
+[
+unit: second]
+
+=== PAGE 45 ===
+Latin word, means “empty”
+In general term, “vacuum” means P < 1 atmospheric pressure.
+In 1958, “vacuum” was defined by the American Vacuum Society (AVS) as follow:
+Definition of vacuum
+Vacuum
+ 	refers to a given space filled with gas at pressure 
+		below the atmospheric, i.e. having a density of 		molecules less than about 2.5 x 10
+19
+ molecules 		per cm
+3
+.
+
+=== PAGE 46 ===
+Characteristics of “vacuum”
+Low density of gas molecules
+Long mean free path of gas molecules
+High bombarding rate on all surfaces
+Weak interaction between molecules
+Pressure units
+	1.  Pascal (Pa):			N/m
+2
+, SI unit.
+	2.  Torricelli (Torr):			The pressure exerted by a 						column of Hg 1 mm high.
+      3. Bar (bar):				Std. Atmospheric pressure	
+ 
+1
+ 
+bar ~ 1 atm ~ 101325 Pa ~ 760 Torr
+
+=== PAGE 47 ===
+Classification of vacuum
+     I.	 
+Low (& medium) vacuum
+   	The number of molecules in gaseous phase is large compared with that of covering the surfaces, thus in this range the pumping is directed towards rarefying the existing phase.
+      II.	 
+High vacuum
+   	The gas molecules are located principally on surfaces, and the mean free path equals or is greater than the pertinent dimensions of the enclosure.  Therefore the pumping consists in evacuating or capturing the molecules leaving the surface and individually reaching pump.  This 	is the range where particles can travel in vacuum enclosure without colliding with other particles.
+     III.	 
+Ultra-high vacuum
+  	 In this regime, the time to form a monolayer on a clean surface is equal or larger than the usual time for laboratory measurement, thus “clean” surface can be prepared and their properties can be determined before the adsorbed gas layer is form.
+Pressure range: Atmospheric pressure to 10
+-3
+ Torr
+Pressure range: 10
+-3
+ to 10
+-7
+ Torr
+Pressure range: 10
+-7
+ Torr or lower
+
+=== PAGE 48 ===
+Intermediate and Surface Processes 
+Volume Processes
+t
+> 1s
+t
+~ 1s
+t
+< 1s
+ t
+<< 1s
+L >> D
+L > D
+L ~ D
+L < D
+less 10
+-
+8
+Torr 
+10
+-
+3
+–
+10
+-
+8
+Torr
+1 
+–
+10
+-
+3
+Torr
+760 
+–
+1 Torr
+Less 10
+-
+6
+Pa
+0.133 
+–
+1.33 
+´
+10
+-
+6
+Pa
+133 
+–
+0.133 Pa
+1.01
+´
+10
+5
+–
+133 Pa
+Fine Vacuum
+Rough Vacuum
+ULTRA VACUUM
+HIGH VACUUM
+LOW VACUUM
+Intermediate and Surface Processes 
+Volume Processes
+t
+> 1s
+t
+~ 1s
+t
+< 1s
+ t
+<< 1s
+L
+ >> D
+L
+ > D
+L
+ ~ D
+L
+ < D
+less 10
+-
+8
+Torr 
+10
+-
+3
+–
+10
+-
+8
+Torr
+1 
+–
+10
+-
+3
+Torr
+760 
+–
+1 Torr
+Less 10
+-
+6
+Pa
+0.133 
+–
+1.33 
+´
+10
+-
+6
+Pa
+133 
+–
+0.133 Pa
+1.01
+´
+10
+5
+–
+133 Pa
+Fine Vacuum
+Rough Vacuum
+ULTRA VACUUM
+HIGH VACUUM
+LOW VACUUM
+
+=== PAGE 49 ===
+Realization of vacuum
+  A vacuum in a vacuum chamber is generated by a series of pumping through a series of pipes, feedthroughs, fittings and valves and the pressure is monitored by appropriate pressure gauges.
+ 
+Use of proper gauges for different pressure ranges
+ 
+Suitable vacuum materials for chamber construction
+ 
+Proper combination of pumps to generate the   the desired vacuum.
+ 
+Proper pipes, feedthroughs, fittings and valves to direct and control the flow of vacuum line and seal the vacuum.
+Pumping system
+Gauge
+A close system of chamber and pipelines
+
+=== PAGE 50 ===
+Materials used in vacuum
+Criteria:
+ 
+able to sustain the pressure difference
+ low trapping of other gaseous molecules
+ low vapour pressure
+ bakeable (up to 200 
+o
+C)
+ easy to machine
+Commonly used materials:
+ 
+Metals: Al, Mo, O-free Cu, and etc.
+ Alloys: 5052 (Mg-Cr), 6061 (Cu-Si-Mg-Cr), stainless steel, and etc.
+  Polymers: Viton, Teflon, Silicon, PTFE, and etc.
+ Ceramics: Alumina, sapphire, Kovar (Fe-Ni-Mo-Mn), and etc.
+
+=== PAGE 51 ===
+Sealing
+ConFlat fittings
+KF fittings
+
+=== PAGE 52 ===
+Pumps
+Classification of pump:
+ 
+A. Positive displacement pump
+ 
+rotary pumps;
+ diaphragm pumps, and etc.
+ 
+B. Momentum transfer pump
+ 
+turbomolecular pumps;
+ diffusion pumps, and etc.
+ 
+C. Capture pump
+ 
+ionization pump;
+ titanium sublimation pump;
+ cryogenic pump, and etc.
+Low vacuum
+(viscous regime)
+Very high vacuum
+(molecular regime)
+Ultrahigh vacuum
+(molecular regime)
+
+=== PAGE 53 ===
+
+
+=== PAGE 54 ===
+Pumping mechanisms
+1. Positive displacement pump:
+ 
+pumping gas out volume by volume
+ working range: atm. to ~10
+-2
+ Torr. 
+
+=== PAGE 55 ===
+2. Momentum transfer pump:
+impose a certain momentum onto gaseous molecules, so that they move in a particular direction
+working range: ~10
+-2
+ to ~10
+-8
+ Torr
+
+=== PAGE 56 ===
+Capture pump:
+capture the gaseous molecules through burying, gettering and sorption by reactive or cold surfaces
+normal working range: ~10
+-6
+ to ~10
+-10
+ Torr, some sorption pump can work in low pressure range
+
+=== PAGE 57 ===
+Examples of different pumps
+1. Positive displacement pump: Rotary pump
+
+=== PAGE 58 ===
+Transfer: 
+The gas molecules trapped in the compartment between the two vanes, is transferred to the exhaust as the rotor rotates.
+Compression: 
+The gas is compressed until the outlet valve is opened.
+Exhaust: 
+When the pressure of the compression compartment is sufficiently high (>113 kPa) to open the outlet valve, the gas is expelled into the oil casing.
+Inlet: 
+As the vane passes at the inlet port, the volume of the inlet compartment increases.
+ 
+1
+4
+2
+3
+
+=== PAGE 59 ===
+2. Momentum transfer pump: Diffusion pump
+
+=== PAGE 60 ===
+While the pumping fluid molecules move in a very directed motion (speed 
+~300m/s)
+, the vapor molecules impart a momentum in the preferred direction to any gaseous molecules which they encounter.
+Because of the large molecular weight of the vapor molecules, they also continue in their original direction after encounter with the residual gas molecules. The residual gaseous molecules thus gain a downward momentum and are eventually expelled out.
+The pumping fluid strike the cool wall, they condense to form a liquid, and run down the pump wall to the reservoir to again heated by the boiler.  
+A vapor of the pumping fluid with a pressure of the order of 0.5 Torr in the chimney is generated; the  molecules of the pumping fluid are ejected at velocities of the order of 300m/s. 
+
+=== PAGE 61 ===
+
+
+=== PAGE 62 ===
+2. Momentum transfer pump: Turbomolecular pump
+
+=== PAGE 63 ===
+in fact, the molecules do not “bounce” on the blades, but they first adsorb on the blade surface and then desorb from the surface;
+on a stationary blade, molecules desorbing from both sides of the blade have the same velocities;
+on a moving blade with velocity, the molecules desorb from one side (lower side in the figure) have high velocities but that desorb from the other side have nearly zero velocity.
+The moving blades         moving with a comparable speed to that of molecules strike the molecules and knock them in the preferred direction;
+
+=== PAGE 64 ===
+
+
+=== PAGE 65 ===
+3, Capture pump: Ionization pump
+
+=== PAGE 66 ===
+
+
+=== PAGE 67 ===
+a free electron is accelerating towards the anode. When the electron acquires sufficient energy and when it strikes a molecule, it can ionize the molecule and create an electron and a positive ion.  When the electron strikes the anode, it is removed from the process.
+in order to increase the pathlength of electrons so that the ionization process is enhanced, the electron is allowed to pass through the hole in the ring positively biased.  The electron will then follow oscillatory motion instead of directly striking the anode.
+an additional magnetic field provides a force on the electrons which is perpendicular to the direction of motion and causes the electrons to move in a spiral path.  Thus, the probability for the electron to have collision with other molecules is greatly increased.
+
+=== PAGE 68 ===
+Sputtering
+	The positive ion is accelerated by the cathode and strikes the surface.  The process knocks out the Ti atoms on the cathode.  The sputtered Ti atoms will deposit in the cell.  Metallic Ti is also exposed on the sputtered surface.
+2.	Gettering
+	Metallic Ti is very reactive.  The gas molecules adsorb on the surface.
+3.	Burial
+	The sputtered Ti atoms bury the molecules that already adsorbed on the surface.  This burial is the pumping mechanism for noble gases and other inert molecules.
+
+=== PAGE 69 ===
+3. Capture pump: Titanium sublimation pump
+A high current passes through a titanium rod.  The current heats up the Ti metal and generates Ti vapor.  New Ti surface is continuously created on the inner walls of the pump. 
+
+=== PAGE 70 ===
+3. Capture pump: Cryogenic/Sorption pump
+the principle is based on the physi-sorption of gases on a chilled surface
+clean, contamination free
+
+=== PAGE 71 ===
+Gas molecules trapped in a molecular sieve of a cryogenic pump, which is cooled down to liquid nitrogen. The cryogenic pump pumps down from the atmospheric pressure to 10
+-6
+ Torr. 
+
+=== PAGE 72 ===
+Pressure gauges
+
+=== PAGE 73 ===
+Direct gauge: Mercury manometer
+
+=== PAGE 74 ===
+Indirect gauge: Thermal gauges
+Thermal gauges measure the pressure indirectly by detecting the thermal (or cooling) effect on various parameters, 
+e.g.
+ temperature, resistance of wire, capacitance, and etc., when the gauge is attached to a system under different vacuum state.
+Thermocouple gauge
+Working pressure: Atm - 10
+-4
+ Torr
+[Speaker notes]
+74
+wire will become hotter and hotter as the
+pressure drops and fewer and fewer molecules are available to transfer heat
+away from the wire.
+pressure range of about 10-3 – 1 torr. Below this range, heat transfer is mostly by
+radiation from the wire’s surface and mostly by thermal convection above it.
+Thermal conductivity gauges covering this range have been in use for many
+years that fall into two main groups: thermocouple gauges and Pirani gauges.
+Pirani gauges also take advantage of the change in temperature of a heated
+wire, but unlike thermocouple gauges, they don’t measure the wire temperature
+directly. Instead they make use of the fact that the resistance of a metal wire
+changes with the wire’s temperature
+
+=== PAGE 75 ===
+electrons are generated from the filament
+the electrons will collide and ionize the residual gas molecules
+the ions will be collected by the negatively biased ion collector
+for a higher pressure, more ions will be generated, leading to a higher detected current from the ion collector
+thus, the pressure can be revealed in term of the collector current
+usually, a positively biased grid is added to increase the pathlength of electrons so that the ionization is enhanced;
+working pressure: <10
+-4
+ Torr.
+Indirect gauge: Hot cathode gauges

@@ -1,0 +1,405 @@
+=== PAGE 1 ===
+Presenter: Lei Xu
+Department of Physics, The Chinese University of Hong Kong
+A
+n Introduction
+ of Invisib
+le
+ Cloaks
+[Speaker notes]
+1
+
+=== PAGE 2 ===
+01
+Principles of Invisibility Cloaks
+[Speaker notes]
+2
+
+=== PAGE 3 ===
+1. Objects emit or reflect light into our eyes
+2. Objects absorb light and create dark regions
+Still from The Dark Knight
+Middle-school physics textbook (PEP edition)
+Why Can We See Objects?
+
+=== PAGE 4 ===
+Make the object have no effect on the propagation of light.
+Source: ifuun.com
+How Can Invisibility Be Achieved? The Basic Idea Is Simple..
+
+=== PAGE 5 ===
+Clip from the Harry Potter films
+Harry Potter’s invisibility cloak makes his body have no effect on light propagation.
+Harry Potter’s Invisibility Cloak
+[Speaker notes]
+披上一件隐身斗篷，在人们的视野中瞬间遁形，这是人类长期以来的梦想之一。
+J.K
+罗琳的科幻小说中，哈利波特的隐身斗篷是一种魔法服饰，它可以使覆盖的人或者物品隐形。
+5
+
+=== PAGE 6 ===
+Source: Baidu Baike
+How Can We Actually Achieve Invisibility?
+
+=== PAGE 7 ===
+Coordinate transformation: mapping a point into a circle
+Image source: gfycat.com
+Transformation Optics
+[Speaker notes]
+2006
+年变换光学理论的提出，使得哈利波特的隐身衣不再遥不可及。
+通过坐标变换，可使得空间得一个点变换成一个圆，当放置任何物体在圆内，都不会被外部的观测者所探测；
+通过材料表面折射率的改造，让光线“转弯”绕过物体按原方向传播，就能将物体隐藏。
+7
+
+=== PAGE 8 ===
+J. B. Pendry, D. Schurig, D. R. Smith, Science, 312, 1780 (2006)
+Choi, J. S., & Howell, J. C. (2014). Optics express, 22(24), 29465-29478.
+John Pendry
+Rochester Cloak
+Transformation Optics
+[Speaker notes]
+只要寻找合适的材料实现变换光学理论所要求的材料参数，即可实现光学隐身；
+Rochester Cloak
+：
+背后原理是利用了
+4
+个透镜进行排列，让光线偏转形成遮蔽区域。
+图为变换光学理论的提出者：帝国理工学院
+John 
+Pendry
+爵士。
+8
+
+=== PAGE 9 ===
+Metamaterials can realize a negative refractive index.
+Image from Wikipedia
+Dolling et al., Optics Express, 2006.
+Metamaterials
+[Speaker notes]
+自然界中现有的材料无法让光线弯曲， 因此一种能让光线弯曲的创新材料将成为“隐形斗篷”的研发关键。
+基于变换光学设计的功能器件面临着材料参数复杂的问题
+(
+非均匀的且各向异性的
+)
+ ，很难直接通过自然界中的材料实现，因此超构材料应运而生。
+超构材料是通过人工功能基元的设计和空间序构的排列来构筑新材料，它展现出许多新奇的、超常的物理特性：
+例如，可
+通过超构材料实现负泊松比力学材料，力学机械器件、负折射率材料、声学吸声器等。
+9
+
+=== PAGE 10 ===
+D. Schurig, et al., Science, 314, 977 (2006)
+In 2006, an invisibility cloak was experimentally demonstrated for the first time in the microwave regime.
+Metamaterial Electromagnetic Cloak
+[Speaker notes]
+例如：在电磁学领域，将变换理论与超构材料的结合，科学家们首次实验实现了电磁隐身衣。
+10
+
+=== PAGE 11 ===
+An object hidden beneath a carpet-cloak device appears to an observer as if it were beneath a flat surface, thereby becoming invisible.
+Image source: Wikimedia
+Image by IOA
+Cloak
+Hidden area
+Carpet Cloak
+[Speaker notes]
+Carpet cloak(
+地毯式隐身衣
+)
+：变换光学中一种特殊类型的例子，这种隐身衣的好处在于材料参数没有奇点（例如某些区域的材料参数出现无穷大的数值）。
+地毯式隐身衣的设计方法，通过对虚空间的压缩
+, 
+右侧子图的蓝色区域被变换至左侧子图中的蓝色区域
+, 
+从而隐藏实空间中的绿色物体
+;
+物体躲在地毯式隐身器件下面，对于上面的观察者来说，看到的效果就像平整的地面一样，由此可以使物体得到隐身；
+这一类地毯式隐身器件要求物体不能脱离地面，主要是基于光线的反射，参数上相对容易实现一些。
+目前地毯式隐身器件已经从微波段做到了光频段，并且隐身的尺度也从几个波长的大小到达几千个波长的大小。
+11
+
+=== PAGE 12 ===
+Valentine, Jason, et al.  Nature materials 8.7 (2009): 568-571.
+An optical carpet cloak composed entirely of isotropic dielectric materials.
+Optical Carpet Cloak
+[Speaker notes]
+实验证明使用介质光学材料的光学地毯式斗篷设计不仅是各向同性
+,
+而且低损耗和宽带。
+该隐身斗篷是在一块矩形的硅板（
+250nm
+厚）上演示的，该硅板用作光波导，其中光被限制在垂直方向，但可以在其他两个方向自由传播。
+一种精心设计的孔洞图案（直径为
+110
+纳米）穿透硅，将硅板转化为一种超材料，迫使光线弯曲，就像水绕着岩石流动一样。
+将该斗篷用来隐身一个面积约为
+3.8
+微米
+×400
+纳米的区域，实验结果展示了在不同角度的光入射下该区域的不可见性。
+12
+
+=== PAGE 13 ===
+Ni, Xingjie, et al., Science 349.6254 (2015): 1310-1314.
+Ultrathin Optical Cloak
+[Speaker notes]
+迄今为止开发的大多数光学隐身斗篷都有笨重的结构，很难放大以隐藏大型物体。
+为了设计一种超薄的隐形斗篷，可以包裹在物体上，如薄片或皮肤，该研究团队设计了一种二维超材料表面。
+这种柔性、高反射材料（一层超薄的纳米天线（金块））可以大规模制造，以隐藏大型物体。
+13
+
+=== PAGE 14 ===
+2011 Hyperstealth Biotechnology product
+The concealed object inside is difficult to distinguish with the naked eye.
+Invisibility Cloak Using Microlenses to Bend Light
+[Speaker notes]
+2011
+年，专攻伪装技术的加拿大
+Hyperstealth
+ Biotechnology
+公司，发明了名为“ 
+Quantum Stealth ” 
+的量子材料，并用它制成透明薄片，目前主要用于军事场景。
+(
+透镜对光线的弯曲效果 
+)
+而这款材料也是利用光学变换原理，分布透镜让光线转弯，不通过某个地方，形成一个视觉上的“死区”，以此达到隐藏目标的目的
+14
+
+=== PAGE 15 ===
+Image source: Sina
+A Weakness of Optical Cloaks
+
+=== PAGE 16 ===
+Ultrasound Can Also Be Used for Imaging
+
+=== PAGE 17 ===
+(a) Sound waves propagating in free space
+(b) Incident on a solid cylinder    (c) Cylinder surrounded by a cloak
+Cummer, S. A. and Schurig, D. (2007). New J. of Phys. 9, 45.
+Acoustic Cloak
+[Speaker notes]
+17
+
+=== PAGE 18 ===
+An acoustic cloak can make underwater objects undetectable to sonar and other ultrasonic waves.
+Zhang, S., Xia, C., & Fang, N. (2011).  Physical review letters, 106(2), 024301.
+Acoustic Cloak
+[Speaker notes]
+该设计的声学隐身衣是由一种经过特殊设计的人工材料组成，研究人员设计了一种二维的圆柱型外罩，这种外罩由
+16
+个同心环组成的声学电路
+组成，可以引导声波的方向。
+每个环拥有不同的折射指数，声波传输的速度从外环到内环都有所不同。
+研究人员计划下一步将这种技术投入应用，应用领域包括军事秘密行动、隔音和医疗卫生等
+在浩瀚海洋中，潜艇通过海水作掩护使其它侦查武器很难发现它的行踪，但近年来发展较为成熟的声呐探测设备成为了潜艇隐身的克星；
+声呐通过潜艇航行时发动机和螺旋桨发出的声音对其进行探测和侦察；
+在这种声学隐身衣的遮挡下，水下物体可以实现隐身，躲避声呐和超声波的探测。
+隐形原理依然是：在一个特定空间中，控制声波并将其弯曲或扭曲，从而达到躲避声纳的效果。
+18
+
+=== PAGE 19 ===
+An acoustic cloak can make moving underwater objects undetectable by sonar.
+Basiri, Z., Fakheri, M. H., & Abdolali, A. (2019).  arXiv preprint arXiv:1904.12909.
+Acoustic Carpet Cloak
+[Speaker notes]
+隐身衣下的水下物体无法通过反射波的变化而被发现。
+如果给水下需要隐身的鱼群或者是潜水艇穿上声学隐身衣，则这些水下物体则无法被声呐所探测。
+19
+
+=== PAGE 20 ===
+Zigoneanu, L., Popa, B. I., & Cummer, S. A. (2014). Nature materials, 13(4), 352-355.
+Experimental realization of a three-dimensional, broadband, omnidirectional acoustic cloak.
+Acoustic Carpet Cloak
+[Speaker notes]
+由于之前大多数的声学隐身衣只能在特定的方向实现隐身功能，实验实现一种三维、宽带、全方位声学隐身斗篷，该装置可使一个直径为三个波长的空间区域对声音不可见。
+20
+
+=== PAGE 21 ===
+Zhang, J., & Mortensen, N. A. (2011). 121, 381-389.
+Ultrathin cylindrical acoustic cloak
+Ultrathin Acoustic Cloak
+[Speaker notes]
+一种在微波频率下利用二维裂环谐振器结构超材料实现的圆柱形隐身斗篷。
+该斗篷在轴向上具有空间上均匀的参数，并且即使斗篷外壳与隐蔽物体相比非常薄，并且工作波长也非常好。
+21
+
+=== PAGE 22 ===
+Images from cunman.com and the film Infernal Affairs
+Optical Cloak + Acoustic Cloak = Completely Safe?
+
+=== PAGE 23 ===
+Infrared thermal imaging
+Comparison of thermal-cloaking effects
+A thermal cloak can prevent living organisms from being detected by infrared imaging.
+Thermal Cloak
+[Speaker notes]
+在黑夜中人们无法通过光线来判断目标的存在，而根据温度变化探测物体的红外成像技术却能够发现目标，尤其是人类或者动物，车辆等有温度的事物。
+因此，若是防止目标物体被红外成像探测，热学隐身衣变得十分重要。
+23
+
+=== PAGE 24 ===
+Thermal cloaks realized using different design approaches.
+Han, T., & Qiu, C. W. (2016).  Journal of Optics, 18(4), 044003.
+Thermal Cloak
+[Speaker notes]
+热学隐身衣的不同实现方法：基于变换光学理论的、均匀多层结构的、双层均匀结构的（散射抵消理论）（
+2D
+和
+3D
+）。
+24
+
+=== PAGE 25 ===
+Shen, Lian, et al. Advanced Optical Materials 3.12 (2015): 1738-1742.
+A large-scale thermal cloak independent of the background environment, demonstrating thermal cloaking in air for the first time.
+Thermal Cloak
+[Speaker notes]
+由于之前的热学隐身衣依赖于背景介质的材料，很难应用于实际。
+于是，该研究首次实验实现了在空气环境中大型远红外单向隐身斗篷；
+该隐身衣由锗制成，可以在面对入射波方向时，在隐藏物体周围平滑地引导红外波。
+这种斗篷可以在很宽的远红外光谱中实现全偏振；
+缺点：只能在特定的方向实现热学隐身。
+25
+
+=== PAGE 26 ===
+Han, T., & Qiu, C. W. (2016).  Journal of Optics, 18(4), 044003.
+Metamaterials can manipulate heat flow to realize a variety of functions.
+Thermal Control with Metamaterials
+[Speaker notes]
+热学超构材料为人工控制热流提供了一条迥然不同的思路：通过不同导热率材料的空间分布排布，即可实现热流的自由操纵：
+例如可实现热聚焦（某一个点上的温度很高）、热均匀（特定区域温度很高且均匀）、热汇集（在某一个区域的温度梯度较大）
+26
+
+=== PAGE 27 ===
+By engineering metamaterials, an object can appear to have the same temperature as its background in an infrared camera.
+Salihoglu, Omer, et al. Nano letters 18.7 (2018): 4541-4548.
+Thermal-Infrared Camouflage
+[Speaker notes]
+通过超材料的设计，可使红外相机下的物体看起来与其背景温度相同，从而可以用于躲避红外相机的探测或者迷惑红外相机。
+27
+
+=== PAGE 28 ===
+Xu, Hongyi, et al. Physical Review Letters 112.5 (2014): 054301.
+An ultrathin thermal cloak can be realized using only two homogeneous material layers.
+Ultrathin Thermal Cloak
+[Speaker notes]
+3D
+超薄热学隐身衣：通过一层均匀的铜和空气绝热层以及背景介质为不锈钢材料的组合，即可实现热学隐身。
+28
+
+=== PAGE 29 ===
+Bückmann, Tiemo, et al. Proceedings of the National Academy of Sciences 112.16 (2015): 4930-4934.
+Objects inside the cloak cannot be detected by mechanical probing such as compression.
+A mechanical cloak that shields objects from external-force detection
+Elastic-Mechanical Cloak
+[Speaker notes]
+这种“不可感知斗篷”有什么作用？
+例如，躺在弹性床垫上，您通常会感觉床垫下面有一个艰硬的物体；相反，在同一个坚硬物体上的斗篷床垫在外面看起来是均质各向同性弹性固体
+;
+通过这种方式，可以弹性地隐藏对象
+.
+29
+
+=== PAGE 30 ===
+Bückmann, Tiemo, et al. Nature communications 5.1 (2014): 1-6.
+Elastic-Mechanical Cloak
+[Speaker notes]
+其他设计的弹性力学隐身衣，尺寸可以做得很微小。
+30
+
+=== PAGE 31 ===
+03
+Fluid-Flow Cloak
+[Speaker notes]
+31
+
+=== PAGE 32 ===
+J Park, JR Youn, YS Song, Physical review letters, 2019
+First experimental realization of a fluid-flow cloak using metamaterials, with simultaneous drag reduction.
+Metamaterial Fluid-Flow Cloak
+[Speaker notes]
+通过超构材料
+首次实验实现流体隐身衣，该研究表明，这种设计的流体隐身衣在拥有优良的隐身效果的同时，能有效减小物体表面的阻力。
+这也是一种新型的运输减阻方案。
+32
+
+=== PAGE 33 ===
+Boyko, Evgeniy, et al. Physical Review Letters 126.18 (2021): 184502.
+Cloaking and Shielding Objects in Fluid Flow Using Electro-osmosis
+[Speaker notes]
+基于电渗流的隐身衣可实现特定区域的隐身与屏蔽。
+隐身很好理解：即物体周围的流场不发生变化；
+屏蔽指的是：控制区域内的压力处处均匀，保持一个定值。
+33
+
+=== PAGE 34 ===
+Tay, Fuyang et al. “A metamaterial-free fluid-flow cloak.“ National Science Review, nwab205， 2021
+Fluid-Flow Cloak Based on Hele-Shaw Flow
+[Speaker notes]
+通过调节装置高度即可实现流体隐身，这大大简化了流体隐身衣的设计结构。
+34
+
+=== PAGE 35 ===
+The cloaking layer is only 0.3% of the radius of the hidden region, making it the world's thinnest shell-type cloak.
+Chen, M., Shen, X., & Xu, L. (2022). The Innovation, 100263.
+Ultrathin Fluid-Flow Cloak
+[Speaker notes]
+通过简单的结构设计：一层均质透水薄层和均质多孔材料的背景介质的组合，即可实现超薄流体隐身衣，同时这也是目前所有物理场中最薄的壳层式隐身衣。
+35
+
+=== PAGE 36 ===
+Chen, M., Shen, X. and Xu, L., 2022. The Innovation, p.100263.
+Experimental Realization of the Thinnest Shell-Type Cloak
+[Speaker notes]
+有隐身衣与无隐身衣的实验对比视频。
+36
+
+=== PAGE 37 ===
+Active cloaking of underwater objects in free flow (adaptive to flow speed and the shape of the moving object)
+Outlook for Fluid-Flow Cloaks
+[Speaker notes]
+目前在深海或者纯水环境中实现流场隐身还尚待解决，尤其在隐身物体不规则，流速较大，非直线运动等复杂情况下的流场隐身方面还有很多有意义的研究可以进行。
+37
+
+=== PAGE 38 ===
+Mao, Y., Zhong, S., & Yin, H. (2022). Physics of Fluids, 34(5), 053602.
+Ren, F., Wang, C., & Tang, H. (2021).  Physics of Fluids, 33(9), 093602.
+Active Fluid-Flow Cloak Using Pure Water
+[Speaker notes]
+通过数值模拟，在隐身层排布吸水口（绿色点）和注水口（橙色点）通过优化这几个点的流速即可实现主动式的流体隐身衣。
+目前数值模拟证实了纯水流体隐身衣可行性，也证实了潜水艇等水下装置的隐身的可行性。
+38
+
+=== PAGE 39 ===
+Pipeline design
+Drag reduction
+Bacterial culture
+Underwater cloaking
+Potential Applications of Fluid-Flow Cloaks
+[Speaker notes]
+流体隐身衣有着很多潜在的应用价值，可在管道设计、流动减阻、细菌培养、水下隐身等领域发挥作用。
+39
+
+=== PAGE 40 ===
+Design and develop multiphysics cloaking devices
+Future Directions
+[Speaker notes]
+目前有很多理论研究工作报道了两个及以上物理场中实现该物理场的隐身，但实验实现这种隐身衣式比较困难的。
+因此，在未来如何实验实现同时在多个物理场的隐身有着重要的意义。
+40
+
+=== PAGE 41 ===
+“Be imaginative and innovative—and put ideas into practice. When a new idea is born, anyone has the opportunity to innovate.”
+— Professor Sir John Pendry, pioneer of the invisibility cloak
+Professor Sir John Pendry
+[Speaker notes]
+最后引用隐身斗篷的先驱者，英国帝国理工学院的
+pendry
+教授的一句话送给每一位观众：
+一定要富有想像力和创新，并且实际执行。当一个新想法诞生时，任何人都有机会进行创新。
+41
+
+=== PAGE 42 ===
+Questions Welcome!

@@ -1,0 +1,159 @@
+=== PAGE 1 ===
+High-resolution transmission electron micrograph 
+showing surface defects on single crystals 
+(Ce0.5Zr0.5O2)
+▣Catalysts and Surface Defects
+Imperfections in Solids
+2026-27 AMSC5720 - Prof. Y. Chen
+79
+
+
+=== PAGE 2 ===
+▣Idealized crystalline solid with perfect atomic order does not exist; Crystalline 
+imperfections (or defects) are always present
+▣Many properties of materials are sensitive to the deviations from crystalline 
+perfection
+▣Crystalline imperfection can be classified by geometry or dimensionality of the 
+defect
+▣Point defects (0D)
+▣Linear defects (1D)
+▣Planar defects/interfacial defects/boundaries (2D)
+▣Bulk/volume defects (3D)
+Imperfections in Solids
+2026-27 AMSC5720 - Prof. Y. Chen
+80
+
+
+=== PAGE 3 ===
+▣The simplest point defect is a vacancy, i.e., an atom is missing
+▣All crystalline solids contain vacancies, as suggested by principles of 
+thermodynamics (the existence of vacancies increases the entropy)
+▣A self-interstitial is an atom from the crystal that is crowded into an interstitial 
+site, i.e. a small void space between original lattice
+Point Defects
+2026-27 AMSC5720 - Prof. Y. Chen
+81
+
+
+=== PAGE 4 ===
+▣Equilibrium number of vacancies Nv for a given quantity of material depends on 
+and increases with temperature (T)
+Nv = 𝑁𝑁𝑒𝑒−𝑄𝑄𝑣𝑣
+𝑘𝑘𝑘𝑘
+▣Where N is the total number of atomic sites per volume (usually in m3), 𝑄𝑄𝑣𝑣is 
+energy for vacancy formation, k is Boltzmann’s constant, T is temperature
+▣Nv increases exponentially with T
+▣For most metals, at T just below Tmelting, Nv/N is in the order of 10-4, meaning 1 
+out of 10,000 lattice sites will be empty
+Point Defects
+2026-27 AMSC5720 - Prof. Y. Chen
+82
+
+
+=== PAGE 5 ===
+▣Impurity or foreign atoms are always present in metals
+▣Current refining techniques can hardly achieve purity > 99.9999%
+▣Most familiar metal materials are alloys, in which impurity atoms were 
+intentionally added to impart specific characteristics, such as mechanical 
+strength, corrosion resistance, etc.
+▣Depending on the kind of impurity, the concentration of impurity, and the 
+temperature of the alloy, addition of impurity atoms could result in formation of 
+a solid solution and/or a new second phase
+Impurities in Metals
+2026-27 AMSC5720 - Prof. Y. Chen
+83
+
+
+=== PAGE 6 ===
+▣A solid solution forms when the crystal structure is maintained and no new 
+structures are formed; the impurity atoms are randomly and uniformly 
+dispersed with in the solid 
+▣In substitutional solid solution, impurity atoms replace the host atoms
+▣In interstitial solid solution, impurity atoms fill the voids among the host atoms
+Solid Solution
+2026-27 AMSC5720 - Prof. Y. Chen
+84
+
+
+=== PAGE 7 ===
+▣A dislocation is a linear or one-dimensional defect around which some atoms 
+are misaligned
+▣Burgers vector and dislocation line are often used to express dislocation
+Linear Defects
+2026-27 AMSC5720 - Prof. Y. Chen
+85
+▣
+Edge dislocation: formed 
+by insertion of an extra 
+portion of half-plane
+▣
+Screw dislocation: 
+formed by a shear stress 
+to distort the lattice
+▣
+Mixed dislocation
+Edge
+Screw
+
+
+=== PAGE 8 ===
+▣Interfacial defects are two-dimensional boundaries that 
+normally separate regions of materials having different 
+crystal structures and/or crystallographic orientations
+Interfacial Defects
+2026-27 AMSC5720 - Prof. Y. Chen
+86
+▣Grain boundary
+▣Twin boundary: special 
+grain boundary with 
+mirror symmetry
+▣Tilt boundary: small-angle 
+grain boundary where edge 
+dislocations are aligned
+
+
+=== PAGE 9 ===
+▣Phase boundary: exist in multiphase 
+materials, in which a different phase exists 
+on each side of the boundary.
+Each phase has its own physical and/or 
+chemical characteristics
+Every pure material is considered to be a 
+phase; so also is every solid, liquid, and 
+gaseous solution. 
+▣External surface: where crystal structure terminates.
+Bonds of surface atoms are not satisfied, giving rise to a surface energy
+Interfacial Defects
+2026-27 AMSC5720 - Prof. Y. Chen
+87
+e.g. phase diagram of Cu-Ag alloy
+
+
+=== PAGE 10 ===
+▣Stacking faults: exist often in FCC 
+metals when “ABC” stacking sequence 
+of close-packed planes is interrupted
+▣(ferromagnetic) Domain wall: 
+boundary that separates regions with 
+different directions of magnetization
+Interfacial Defects
+2026-27 AMSC5720 - Prof. Y. Chen
+88
+Let’s re-examine the catalyst 
+surface we saw
+Catalytic reactions normally 
+occur at surface defect sites!
+
+
+=== PAGE 11 ===
+▣There are also much larger defects in solid materials (usually in micrometer 
+scales)
+▣Pores
+▣Cracks
+▣Foreign inclusions
+▣Other phases
+▣They are normally introduced during processing and fabrication
+Bulk/Volume Defects
+2026-27 AMSC5720 - Prof. Y. Chen
+89
+10 μm

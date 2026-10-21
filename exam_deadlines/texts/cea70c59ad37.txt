@@ -1,0 +1,175 @@
+=== PAGE 1 ===
+CU_CURR501
+THE CHINESE UNIVERSITY OF HONG KONG
+January 14, 2026
+Page 1 of 4
+Print Course Catalog Details
+11:49:41 AM
+ Academic Org: Div of Material Science & Erg – Subject: Advanced Materials Science
+Course: AMSC5738
+Course ID: 015565
+Eff Date: 2026-07-01
+Crse Status: Active
+Apprv. Status: Pending
+[New Course]
+Surface Science and Thin Film Technology 表面科學和薄膜技術
+ 
+This course introduces surface science, the fabrication, characterization, and physical properties of thin films. The topics include vacuum science and technology, basic 
+concepts of surface science, thin film deposition techniques, kinetics and thermodynamics of surface reactions, film growth processes and modes, characterization, epitaxy, 
+and physical properties of thin films. State-of-the-art research advancements on thin film preparation and properties are also selectively introduced.
+本科主要介紹表面科學、薄膜加工製備表徵方法和相關的物理性質，內容包括：真空知識和技術、表面科學基礎知識、各種鍍膜技術、薄膜生長過程機理、薄膜基本特性的測
+量、外延生長、半導體複雜結構合成工程、以及薄膜的光學和電學性質。本科也將有選擇地介紹當前表面科學和薄膜科研的前沿進展。
+ 
+Grade Descriptor: 
+A
+Demonstrate thorough mastery of principles and subject matter in the course required for attaining all the course learning outcomes.
+Demonstrate the ability to apply the principles or subject matter to familiar and unfamiliar situations, in a manner that would surpass the
+normal expectation at this level and standards that may be required at higher levels of study or research. Has the ability to express the
+knowledge or synthesis of ideas in a clear and cogent manner.
+完全掌握科目內容中的原理及知識以達到所有學習目標。能夠將科目中的原理或知識，以超出在該程度的一般要求及在更高水
+平的課程或研究可能需要的標準，應用於熟悉和陌生的情況。有能力以清晰及具說服力的方式表達科目知識或綜合概念。
+A-
+Demonstrate substantial command of principles and subject matter in the course required for attaining almost all the course learning
+outcomes. Demonstrate the ability to state and apply the principles or subject matter to familiar and some unfamiliar situations, in a manner
+that is logical and comprehensive. Has the ability to express the knowledge or application with clarity and accuracy.
+充分掌握科目內容中的原理及知識以達到絕大部份學習目標。能夠將科目中的原理或知識，以合乎邏輯和全面的方式，應用於熟
+悉和一些陌生的情況。有能力清晰和準確地表達科目知識或應用。
+B
+Demonstrate general and sufficient command of principles and subject matter in the course required for attaining most of the course learning
+outcomes. Demonstrate the ability to state and apply the principles or subject matter accurately to most (but not necessarily all) familiar and
+standard situations, in a manner that is logical and persuasive. Has the ability to express the knowledge or application in a satisfactory and
+unambiguous way.
+
+
+=== PAGE 2 ===
+CU_CURR501
+THE CHINESE UNIVERSITY OF HONG KONG
+January 14, 2026
+Page 2 of 4
+Print Course Catalog Details
+11:49:41 AM
+一般並足夠地掌握科目內容中的原理及知識以達到大部份學習目標。能夠將科目中的原理或知識，以合乎邏輯和有說服力的方
+式，精確地陳述及應用於大部份（但不一定是所有）熟悉和標準的情況。有能力以令人滿意和明確的方式表達科目知識或應用。
+C
+Demonstrate general command of principles and subject matter in the course required for attaining some of the course learning outcomes.
+Demonstrate the ability to state and apply the principles or subject matter to most (but not necessarily all) familiar and standard situations, but
+with occasional errors and/or in a manner that is fragmented. Has the ability to express the separate pieces of knowledge in an unambiguous
+way.
+一般地掌握科目內容中的原理及知識以達到部份學習目標。雖然偶有錯誤，但能夠在大部份（但不一定是所有）熟悉和標準的情
+況下，零碎地陳述和應用科目中的原理或知識。能明確地表達個別部分的科目知識。
+D
+Demonstrate partial command of principles and subject matter in the course required for attaining some of the course learning outcomes.
+Demonstrate the ability to state and apply the principles or subject matter to some simple situations only. Has the ability to state the
+knowledge or application in simple terms.
+部份地掌握科目內容中的原理及知識以達到部份學習目標。只能夠在一些簡單情況陳述和應用科目中的原理或知識。能以簡單的
+用語陳述科目知識或應用。
+F
+Demonstrate little or no evidence of command of principles and subject matter in the course required for attaining the course learning
+outcomes, OR failure to meet specified assessment requirements.
+很少、甚至沒有掌握科目內容中的原理及知識以達到學習目標，或者沒有達到規定的評估要求。
+Equivalent Offering:
+Units:
+3 (Min) / 3 (Max) / 3 (Acad Progress)
+Grading Basis:
+Graded 
+Repeat for Credit:
+N
+Multiple Enroll:
+N
+Course Attributes:
+MSc Physics 
+MSc Advanced Materials Science 
+ 
+
+
+=== PAGE 3 ===
+CU_CURR501
+THE CHINESE UNIVERSITY OF HONG KONG
+January 14, 2026
+Page 3 of 4
+Print Course Catalog Details
+11:49:41 AM
+Topics:
+COURSE OUTCOMES
+Learning Outcomes:
+(1) To learn the basic principles of surface science.
+(2) To know the technologies that are related to thin films.
+(3) To understand the basic principles of vacuum science and technology that are related to surface science and thin-film 
+deposition techniques.
+(4) To understand the thermodynamics of evaporation and learn the basic principles of evaporation.
+(5) To acquire the basic knowledge about adsorption, surface diffusion, nucleation, and structure development that are involved 
+in thin-film deposition.
+(6) To acquire the basic knowledge of epitaxial deposition.
+(7) To learn the basic knowledge of chemical vapor deposition.
+(8) To learn the basic techniques of measuring the physical and chemical properties of thin films.
+ 
+Course Syllabus:
+1: Introduction to Surface Science and Thin Film Technology
+2: Vacuum Science and Technology
+3: Surface Science
+4: Evaporation
+5: Deposition
+6: Epitaxy
+7: Chemical Vapor Deposition
+8: Analysis and Properties of Thin Films
+ 
+Assessment Type:
+Homework or assignment
+：15%
+Presentation
+：30%
+Test or quiz
+：55%
+ 
+Feedback for Evaluation:
+1. Send email to the teacher, make appointment with the teacher for discussion, or come to his/her office, especially for issues 
+that require immediate action;
+2. Express your views in the mid-term and term-end course evaluation;
+3. Express your views (or ask a student representative to help you convey your messages) in the staff-student consultation 
+meeting held every year;
+4. Post a message on the forum of the course website or on the Discussion Board of the CUHK Blackboard.
+
+
+=== PAGE 4 ===
+CU_CURR501
+THE CHINESE UNIVERSITY OF HONG KONG
+January 14, 2026
+Page 4 of 4
+Print Course Catalog Details
+11:49:41 AM
+ 
+Required Readings:
+1. John B. Hudson, "Surface Science: An Introduction", Boston: Butterworth-Heinemann, 1992, QC173.4.S94 H84.
+2. Kenjiro Oura, Victor G. Lifshits, Alexander A. Saranin, Andrey V. Zotov, Mitsuhiro Katayama, "Surface Science – An
+Introduction", Springer-Verlag, QC173.4.S94 S96425 2003.
+3. Donald L. Smith, "Thin-Film Deposition: Principles & Practice", McGraw-Hill, Inc., TA418.9.T45S65 1995.
+4. Milton Ohring, "The Materials Science of Thin Films", Academic Press, TA418.9.T45 047 1992.
+5. Anthony C. Jones, Michael L. Hitchman, Ed., "Chemical Vapor Deposition: Precursors, Processes and Applications", RSC,
+TS695.C67 2009.
+6. Hans Luth, "Solid Surfaces, Interfaces and Thin Films", 6th Edition, Springer, QC173.4 S94 L86 2015.
+7. Terry L. Alford, Leonard C. Feldman, James W. Mayer, "Fundamentals of Nanoscale Film Analysis", Springer, QC176.83
+A44 2007.
+ 
+Recommended Readings:
+OFFERINGS
+1. AMSC5738
+Acad Organization=MSEGV; Acad Career=TPG 
+COMPONENTS
+LEC : Size=30; Final Exam=Y; Contact=3
+ENROLMENT REQUIREMENTS
+1. AMSC5738
+New Enrollment Requirement(s):
+Exclusion = Not for students who have taken PHYS5620.
+Other Requirement = For students in MSc Advanced Materials Science
+For students in MSc Physics
+Additional Information
+VTL-Onsite face-to-face hrs      0
+ 
+VTL-Online synch. hrs      0
+ 
+VTL-Online asynch. hrs      0
+ 
+< E N D  O F  R E P O R T > 
+
+[Annotations]
+

@@ -1,0 +1,14 @@
+{
+  "files": 90,
+  "tasks": 1762,
+  "ocr_returned": 1762,
+  "pending": 0,
+  "errors": 0,
+  "empty": 31,
+  "unresolved_empty": 0,
+  "vision_pages": 55,
+  "model_calls": 55,
+  "ocr_date_candidates": 17,
+  "source_files_changed": [],
+  "events": 24
+}

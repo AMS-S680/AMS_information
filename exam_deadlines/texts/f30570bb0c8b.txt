@@ -1,0 +1,109 @@
+=== PAGE 1 ===
+Answers to the quiz to the lecture “Materials in Photocatalysis” of the course 
+AMSC 5730 “Frontiers in Advanced Materials” 
+ 
+Q1 (10%). A series of aromatic hydrocarbons is given 
+benzene
+naphthalene
+anthracene
+tetracene
+ 
+ 
+Energy bandgap (𝐸௚) of these systems changes in the following order: 
+ 
+B. (Largest) benzene > naphthalene > anthracene > tetracene (Smallest). 
+The trend for benzene, naphthalene and anthracene. 
+ 
+ 
+ 
+Q2 (10%). Energy band gap of a semiconductor featuring the onset of absorption in UV-vis absorption spectrum 
+at 620 nm is: 
+ 
+B. 2 eV. 
+𝐸௚= ℎ𝑐
+𝜆= 1240
+620 = 2 𝑒𝑉 
+ 
+ 
+Q3 (10%). Absorption of a photon by a semiconductor, which energy matches the semiconductor energy band 
+gap triggers electron transfer: 
+ 
+A. From valence band to conduction band. 
+ 
+ 
+Q4 (10%). In a material featuring clear donor-acceptor structure, valence band is: 
+ 
+B. Localized preferably on an electron-rich molecular fragment. 
+ 
+ 
+Q5 (10%). A series of molecular fragments are given from which donor-acceptor conjugated polymers are 
+constructed 
+(i)
+N
+N
+N
+F
+F
+(iii)
+C6H13
+(ii)
+S
+O
+O
+C6H13
+C6H13
+(iv)
+N
+N
+N
+ 
+ 
+Which of these fragments could be classified as donors, and which as acceptors? 
+
+
+=== PAGE 2 ===
+ 
+D. (i) and (iv) – donors; (ii) and (iii) – acceptors. 
+ 
+ 
+Q6 (10%). Temperature-dependent photoluminescence spectroscopy can be used to determine: 
+ 
+D. To determine exciton binding energy. 
+ 
+ 
+Q7 (10%). Exciton binding of a few tens meV in a semiconductor means that: 
+ 
+A. At room temperature, exciton dissociates into free electron-hole pair easily. 
+ 
+ 
+Q8 (10%). A thermodynamic condition for spontaneous electron transfer from the photocatalyst electronically 
+excited state to a reactant is: 
+ 
+A. Energy of the photocatalyst conduction band must be higher than the LUMO of a reactant. 
+ 
+ 
+Q9 (10%). Two donor-acceptor conjugated systems are given 
+ 
+ 
+What relative alignment of their HOMO energy levels would you expect? 
+ 
+C. P2 features a stronger electron acceptor compared to P1. Therefore, HOMO energy is lower compared 
+to P1. (see Table 1 in Chem. Mater. (2013) 25 (3): 277–285. HOMO of P2 has more negative energy 
+compared to that of P1) 
+ 
+ 
+ 
+Q10 (10%). In photocatalysis, between two semiconductors, the one featuring a lower-lying valence band: 
+ 
+B. Is a stronger oxidant. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

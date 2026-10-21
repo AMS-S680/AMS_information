@@ -1,0 +1,71 @@
+=== PAGE 1 ===
+Homework 1
+(Chapter 2 Vacuum, total points: 100)
+1
+(2) Please derive the expression for the most probable velocity vmp of gas 
+molecules according to the Maxwell-Boltzmann distribution. Please 
+provide the detailed derivation steps instead of simply giving the result, 
+because one can easily find the answer on the web. According to the 
+obtained expression, calculate the most probable velocity of oxygen (O2) 
+gas molecules at room temperature (25 °C). Please also calculate the 
+average velocity and root-mean-square velocity of oxygen (O2) gas 
+molecules at room temperature (25 °C) and order them from small to large 
+(8 + 2 + 2 + 2 + 1 = 15 points).
+(1) (i) Please derive the Knudsen equation from 𝐽i =
+1
+4 𝑛ҧ𝑣. (ii) An electron-
+beam evaporator is used to deposit Ti metal at a deposition rate of 0.05 nm 
+s–1. The atomic weight and density of Ti metal are 47.867 g mol–1 and 
+4.502 g cm–3. Assume that all Ti atoms flying to the substrate surface are 
+adhered to the surface. Please calculate the atomic impingement flux of Ti. 
+(5 + 5 = 10 points). 
+
+
+=== PAGE 2 ===
+Homework 1
+(Chapter 2 Vacuum, total points: 100)
+2
+(3) A 1.0 m3 cubic chamber contains O2 molecules at a pressure of 10–3 atm at 
+300 K. How many molecules are there in the chamber? What fractions of 
+gas molecules in this chamber have translational kinetic energies larger 
+than 1kBT and 10kBT, respectively. You will need to use some software to 
+help you to find out definite integrals (5 + 5 + 5 = 15 points). 
+(4) A closed chamber is filled with N2. The chamber is maintained at a 
+temperature of 25 °C and a pressure of 10 mPa (high vacuum). The 
+diameter of N2 molecules is 0.3 nm. Please calculate the mean free path of 
+the N2 molecules in the chamber and average spacing between two N2
+molecules (assume each N2 molecule occupies a cubic volume). If the 
+pressure is increased to the atmosphere pressure, please calculate the mean 
+free path and the average spacing again (5 + 5 + 5 + 5 = 20 points).
+
+
+=== PAGE 3 ===
+3
+Homework 1
+(Chapter 2 Vacuum, total points: 100)
+(5) Gold films are often used in scientific experiments. They are usually 
+deposited at a rate of 0.1 nm s–1 by electron-beam evaporation. The density 
+of gold is 19.30 g cm–3. Assume that the gold vapor is made of gold atoms. 
+Please calculate the deposition flux. The temperature of the chamber is 50 
+°C. Assume that the sticking coefficient of gold on the substrate is 1.0. 
+Please determine the partial pressure of the gold vapor during deposition
+(10 + 10 = 20 points).
+(6) A process chamber of 1.0 m2 surface area is outgassing at a rate of 1013
+molecules cm2 s1. For a process-gas flow of 10 sccm and a total pressure 
+of 50 Pa, what are the molecular percentage and partial pressure of the 
+outgassing impurities? For a process-gas flow of 100 sccm and a total 
+pressure of 100 Pa, what are the molecular percentage and partial pressure 
+of the outgassing impurities (5 + 5 + 5 + 5 = 20 points)?
+
+
+=== PAGE 4 ===
+4
+Homework 1
+(Chapter 2 Vacuum, total points: 100)
+Please submit your solutions by 11:30 pm on 23 September 2026 
+(Wednesday) in Blackboard. In case you have difficulty in uploading your 
+solutions on Blackboard, please send your solutions by email in time to Ms. 
+DING Yan (yding@phy.cuhk.edu.hk) or Mr. ZHAO Keyuan
+(kyzhao@phy.cuhk.edu.hk).
+Late submission will cause points to be reduced according to how late 
+a submission is.

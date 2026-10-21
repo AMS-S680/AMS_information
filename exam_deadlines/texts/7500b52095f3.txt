@@ -1,0 +1,251 @@
+=== PAGE 1 ===
+AMSC 5710
+Advanced Materials Characterization
+Course introduction
+
+=== PAGE 2 ===
+Course Webpage
+Link to Blackboard Website:
+https://blackboard.cuhk.edu.hk/ultra/courses/_271953_1/outline
+Assignments
+Assigned whenever appropriate (
+4
+ assignments, 20% deduction for less than one-week-late homework)
+Submit and Collect assignments through CU Blackboard
+
+=== PAGE 3 ===
+Course Structure
+Lecture:  Mon
+ (12:30P
+M 
+- 15:15PM),	            
+Wen Lan Tang LG204
+	
+Presentation: (end of term)				Details TBA       
+Course assessment:
+Task nature
+Descriptions
+Weight
+Homework
+Classwork
+Presentation (incl. in-class interaction)
+Quizzes (2)
+Written assignments graded by TA
+Cases or Short videos of characterization techniques and related questions
+Choice of techniques not covered in the lectures. 
+A: literature research 
+B: Content, delivery and Q&A participation
+Testing on classroom learning
+20%
+20%
+30%
+30% (10% +20%)
+
+=== PAGE 4 ===
+Task nature
+Rules
+Homework
+Classwork
+Presentation (incl. in-class interaction)
+Quizzes (2)
+4 Assignments on Blackboard, due in one week after announcement
+20% deduction for less than one-week-late homework
+Written assignments graded by TAs
+4 
+Classworks
+ to be carried out during class
+No makeup for absence
+In person group presentation, all need to attend
+Paper exam graded by teacher
+No makeup for absence in principle
+
+=== PAGE 5 ===
+The materials paradigm
+(Characterization)
+(Measurement)
+(Evaluation)
+and composition
+
+=== PAGE 6 ===
+Primary beam
+(source)
+Secondary beam
+(result)
+Photons
+Electrons
+Ion…
+Photons
+Electrons
+…
+Focus of the course: 
+Scattering by particles
+Composition and structure
+[Speaker notes]
+The difference of probing sources
+The difference of signal readout
+Why signal contains information of materials?
+Determined by the interaction between the probing source and the material
+Example: Photoluminescence process
+Overall the nature of interaction is elastic/inelastic scattering, while the former mainly give structural information, the later associated with various excitation/de-excitation process and is characteristic of material composition and electronic structure
+6
+
+=== PAGE 7 ===
+Course Content 
+By sources:
+By Outputs:
+Photon/electromagnetic sources
+•	X-ray photoelectron spectroscopy (video)
+•	Ultraviolet photoelectron spectroscopy
+•	Infrared spectroscopy (video)
+•     UV-vis spectroscopy (video)
+Electron sources
+•	Scanning electron microscopy (video)
+•	Transmission electron microscopy
+•	Electron energy loss spectroscopy
+•	Auger electron spectroscopy
+•	Low energy electron diffraction
+Photon/electromagnetic outputs
+•    Infrared spectroscopy (video)
+•    UV-vis spectroscopy (video)
+Electron outputs
+•    X-ray photoelectron spectroscopy (video)
+•    Ultraviolet photoelectron spectroscopy
+•    Auger electron spectroscopy
+•    Low energy electron diffraction
+•    Scanning electron microscopy (video)
+•    Transmission electron microscopy
+•    Electron energy loss spectroscopy
+[Speaker notes]
+7
+
+=== PAGE 8 ===
+Course Content (Cont’d)
+Surface vs. bulk
+Surface characterizations
+•	X-ray photoelectron spectroscopy
+•	Photoemission spectroscopy
+•	Auger electron spectroscopy
+•	Low energy electron diffraction
+Bulk characterization
+•	Electron microscopy (video)
+•	Electron diffraction
+[Speaker notes]
+How to make surface characterization
+Limit the probe to the surface
+The signal is coming from the surface only
+8
+
+=== PAGE 9 ===
+Learning Outcomes
+After the course, the students are expected to be able to
+Master the basic knowledge (both principle and operation) of commonly used materials characterization and analytical techniques
+Interpret experimental results obtained by the materials characterization techniques covered in the course
+Apply the concepts and methodology in materials characterization in realistic problems and cases
+Analyze, judge and solve realistic problems and cases in relation to materials characterization
+Develop an analytical mind towards materials characterization
+Develop and establish methodology and experimental techniques for analyses of different properties of materials
+
+=== PAGE 10 ===
+P. E. F. 
+Flewitt
+ and R. K. Wild, “Physical Methods for Materials Characterization”, Institute of Physics (IOP) Publishing Ltd., 2
+nd
+ ed. 2003 (TA410.F64 2003)
+C. R. 
+Brundle
+, C. A. Evans Jr., and S. Wilson, “Encyclopaedia of Materials Characterization”, Butterworth-Heinemann & Manning Publications Co., 1992, (TA418.7.E73)
+J. C. 
+Riviere
+, “Surface Analytical Techniques”, Clarendon Press, Oxford, 1990 (QD506.R58)
+D. A. 
+Skoog
+,, F. J.  Holler, and T. A. 
+Nieman
+, “Principles of Instrumental Analysis”, 5th 
+ed.,Saunders
+ College Publishing, 5
+th
+ ed. 1998 (QD506.R58)
+P. B. Hirsch, H. 
+Howie
+, R. B. Nicholson, D. W. 
+Pashley
+, and M. J. Whelan, “Electron Microscopy of Thin Crystals”, 
+Butterworths
+, 1965, (QD921 H55 1977)
+W. 
+Czanderna
+, T. E. 
+Madey
+, and C. J. Powell, “Beam effects, surface topography and depth profiling in surface analysis, Kluwer Academic, New York, 2002.(TA418.7.B43 2002eb)
+References
+
+=== PAGE 11 ===
+Week 1        (Sept 7
+th
+)
+Introduction/Sample prep (microstructure);  Sample prep (surface prep + basic vacuum principle)
+Week 2        (Sept 14
+th
+)
+Vacuum instrumentation/
+Classwork: vacuum system
+; XPS (photoelectric effect/instrumentation)
+Week 3        (Sept 21
+th
+)
+XPS data interpretation (core excitation); depth/imaging/UPS
+/
+AES/
+Classwork: IR/UV-Vis
+Week 4        (Sept 28
+th
+)
+Tutorial XPS analysis
+/Class work: XPS/UPS
+/Quiz 1 (Vacuum, XPS, UPS, AES)
+Week 5         (Oct 5
+th
+) 
+EM intro; SEM/TEM intro/
+Week 6         (Oct 12
+th
+)
+Symmetry/Real space and reciprocal lattice 
+Classwork: SEM
+Week 7         (
+Oct 19
+th
+ 
+)
+Holiday
+Week 8         (Oct 26
+th
+)
+Diffraction condition/(
+Tutorial: Diffraction pattern indexing
+)
+Week 9         (Nov 2
+th
+)
+LEED
+Week 10       (Nov 9
+th
+)
+TEM imaging/EDX/EELS
+Week 11        (Nov 16
+th
+)
+Project presentation (10 groups, 3-4 person/group, ~13 min each)
+Week 12       (Nov 23
+th
+)
+Project 
+presentation (10 groups, 3-4 person/group, ~13 min each)
+Week 13       (Nov 30
+th
+)
+Tutorial(Homework Review)
+/
+Quiz 2 (Integrated test)
+Timetable

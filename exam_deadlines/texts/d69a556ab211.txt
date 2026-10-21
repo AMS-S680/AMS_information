@@ -1,0 +1,474 @@
+=== PAGE 1 ===
+1
+Chapter 2 Vacuum Science and Technology
+2.1
+Vapors and gases
+2.2 
+Maxwell-Boltzmann distribution
+2.3 
+Molecular impingement flux
+2.4 
+Ideal-gas law
+2.5 
+Units of pressure measurements
+2.6 
+Knudsen equation
+2.7 
+Mean free path
+2.8 
+Transport properties
+2.9 
+Vacuum pumps
+2.10 
+Pressure measurements
+2.11
+Contamination sources
+2.12
+Leaks and leak detection
+
+
+=== PAGE 2 ===
+2
+2.1 Vapors and Gases
+The behavior of vapors and gases on both the macroscopic and 
+molecular scales is fundamental to an understanding of thin-film 
+deposition from the vapor phase. We will examine the molecular 
+interaction of gases and will relate that behavior to the macroscopic, 
+measurable properties such as temperature and pressure.
+The behaviors of vapors and gases need to be first distinguished. At a fixed 
+temperature, T, a vapor can be condensed to a liquid or solid by compressing 
+it sufficiently, whereas a gas cannot.
+
+
+=== PAGE 3 ===
+3
+p-V-T phase diagram
+Look at a p-V plane at T2. It intercepts 
+the surface along a-b-c-d-e-f:
+At a, it is a vapor phase.
+At b, condensation starts.
+During b-c, the pressure is constant, 
+which is called the saturation vapor 
+pressure, or often just the vapor 
+pressure (pV).
+At c, condensation is complete.
+Vb-c is the volume difference between 
+the vapor and liquid phases at T2.
+Vb-c becomes smaller and vanishes at 
+the critical point (pc, Vc, Tc). Above Tc, 
+the material cannot be condensed to a 
+liquid, and it is called a gas; below Tc, it 
+can be condensed and is called a vapor.
+
+
+=== PAGE 4 ===
+4
+p-T phase diagram
+The triple point is the only point 
+where all three phases can exist 
+simultaneously in equilibrium.
+The vaporization of a material in 
+the region of S-V below the triple 
+point is called sublimation.
+The vapor pressure curves (S-V and 
+L-V) are of fundamental 
+importance in controlling thin-film 
+processes.
+
+
+=== PAGE 5 ===
+5
+Gas molecules are continuously colliding randomly with each other and with 
+containing surfaces. The energy exchange taking place during these 
+collisions leads to an equilibrium distribution of molecular speeds given by the 
+Maxwell-Boltzmann formula:
+2.2 Maxwell-Boltzmann Distribution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+T
+k
+mv
+T
+πk
+m
+πv
+N
+dN/dv
+/
+B
+2
+2
+3
+B
+2
+2
+1
+exp
+2
+4
+N: total number of molecules in the system
+v: molecular speed, m s–1
+dN/dv: number of molecules dN within the speed increment dv at v
+m: molecular mass, kg
+kB: Boltzmann’s constant, 1.38 1023 J K–1
+T: absolute temperature, K
+
+
+=== PAGE 6 ===
+6
+Maxwell-Boltzmann distribution for Ar at T = 25 C
+2.0x10
+-3
+1.5
+1.0
+0.5
+0.0
+Fraction
+1200
+1000
+800
+600
+400
+200
+0
+Velocity (m/s)
+: mean speed
+: root-mean-square (rms) speed
+R = kBNA: gas constant, 8.31 J mol–1 K–1
+NA: Avogadro’s number, 6.02 1023 molecules mol–1
+M = mNA: molar mass (molecular weight), kg mol–1
+v
+
+2
+v
+M
+RT
+m
+T
+k
+v
+
+
+8
+8 B
+
+
+M
+RT
+m
+T
+k
+v
+3
+3 B
+2
+
+
+= 397 m s–1
+= 431 m s–1
+
+
+=== PAGE 7 ===
+7
+2.3 Molecular Impingement Flux
+The molecular impingement flux 
+(molecules m2 s1) is a fundamental 
+determinant of the film deposition rate.
+Let’s consider a random distribution of 
+molecular directions, that is, there is no 
+bulk flow. This is always the case 
+immediately above a surface, even if 
+there is bulk flow farther away. For a 
+given vx, the corresponding molecular 
+impingement flux would be given by
+v
+v x
+2
+1
+
+v
+n
+nv
+J
+4
+1
+4
+1
+i
+
+
+n: number density
+of molecules with vx
+Because only a half of molecules move towards the surface, we have
+𝐽i = 𝑛𝑣𝑥
+The meaning of n is also changed. It refers to the number 
+density of all molecules.
+
+
+=== PAGE 8 ===
+8
+Integrating over a Sphere
+The shaded area
+d𝐴= 𝑟sin𝜃d𝜙𝑟d𝜃= 𝑟2sin𝜃d𝜙d𝜃
+The shaded area
+d𝑎= 2𝜋𝑅sin𝜗𝑅d𝜗= 2𝜋𝑅2sin𝜗d𝜗
+
+
+=== PAGE 9 ===
+9
+v
+n
+J
+4
+1
+i 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+T
+k
+mv
+T
+πk
+m
+πv
+N
+dN/dv
+/
+B
+2
+2
+3
+B
+2
+2
+1
+exp
+2
+4
+Against v
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+T
+k
+mv
+T
+πk
+m
+n
+/dv
+dn
+x
+/
+x
+x
+B
+2
+2
+1
+B
+2
+1
+exp
+2
+Against vx
+
+
+=== PAGE 10 ===
+10
+2.4 Ideal Gas Law
+The ideal-gas law is an equation of state which expresses the relationship 
+between pressure, volume, and temperature in the high-volume vapor and 
+gas regions.
+According to Newton, the force F exerted in a collision process between a 
+molecule and a surface is equal to the rate of momentum change. For a 
+surface area A,
+𝑝= 𝐹
+𝐴= 2𝑚𝑣𝑥
+1
+2 𝑛𝑣𝑥= 𝑛𝑚𝑣𝑥2 = 1
+3 𝑛𝑚𝑣2
+The equipartition theorem of classical statistical mechanics: energy is 
+distributed equally among all degrees of freedom, and each one contains 
+(1/2)kBT energy.
+T
+k
+v
+m
+B
+2
+t
+2
+3
+2
+1
+
+
+
+
+
+=== PAGE 11 ===
+11
+m
+m
+m
+B
+V
+RT
+V
+RT
+N
+RT
+n
+T
+nk
+p
+
+
+
+
+p: pressure, N m–2
+n = N/V: molecular concentration, molecules m–3
+nm = n/NA: molar concentration, mol m–3
+Nm = N/NA: number of moles of gas
+Vm: molar volume, m3 mol–1
+The ideal gas law is obeyed when the total volume of the molecules 
+themselves in the gas is much smaller than the volume of the gas 
+and when the cohesive forces between the molecules can be 
+neglected.
+
+
+=== PAGE 12 ===
+12
+2.5 Units of Pressure Measurement
+Many different pressure units are frequently used in thin-film 
+technology either for historical reasons or for convenience of size.
+1 torr = 133 Pa = 1 mmHg
+1 bar = 750 torr = 1.0 105 Pa = 0.99 standard atmosphere (atm)
+The standard conditions of T and p (stp) are 0 C and 1 atm (760 torr). At stp, 
+the molecular density is n = 2.69 1019 molecules cm3. The molar volume is 
+Vm = 22400 cm3 mol1.
+The term usually seen in gas supply monitoring is the “mass” flow rate 
+measured in standard cm3 per minute or standard cm3 per second or 
+standard liters per minute (sccm, sccs, slm). 1 sccm = 4.48 1017
+molecules s1. In vacuum pumping, mass flow rate (pump throughput) is 
+often measured in torr l s1 or Pa l s1.
+1 psi = 6894.757 Pa
+
+
+=== PAGE 13 ===
+13
+2.6 Knudsen Equation
+The Knudsen equation is one of the most important relationships in 
+thin-film technology.
+Consider M = 40 g mol1, T = 25 C, p = 0.001 Pa, Ji = 2.4 1015 molecules cm2 s1.
+For a molecular diameter of 0.3 nm, there are 1.4 1015 molecules cm2 in a 
+monolayer (ML, assume close packing and neglect empty interstitial areas). If all the 
+molecules colliding on a surface stick on it in a thin-film deposition process, then the 
+accumulation rate is 1.7 ML/s = 1.8 m/h.
+MRT
+p
+N
+J
+
+2
+A
+i 
+This is a typical thin-film deposition rate. It also means that if this gas is a 
+background impurity in the deposition chamber, the film is likely to incorporate a 
+high level of contamination. To deposit a 99.9 % pure film at 1.8 m/h, the p of 
+impurity gases must be kept below 106 Pa = 1011 atm, which is considered to be in 
+the range of ultrahigh vacuum (UHV).
+The impingement flux is determined by the partial p of each gases. The film 
+purity is determined by the ratio between the film molecular impingement flux 
+and the impurity impingement flux. The film purity can be improved by 
+decreasing the impurity partial p value.
+
+
+=== PAGE 14 ===
+14
+In a thin-film process, the linear deposition rate, dh/dt, is easily 
+determined from the film thickness, h, and the deposition time, t. The 
+molecular deposition flux can be found from this rate:
+Another quantity encountered in the study of gas adsorption is the Langmuir, 
+L, which refers to the amount of exposure to a gas that a surface has seen. It 
+is proportional to pt, and 1 L = 106 torrs. If all impinging gas molecules 
+adsorb, 1 L represents a surface accumulation of about 0.2 monolayer (?, 
+considering the molecules mentioned on the last slide).
+
+
+
+
+
+
+
+M
+N
+dt
+dh
+J
+A
+m
+i
+
+The Knudsen equation is very important because it relates the 
+impingement flux to experimentally measurable quantities.

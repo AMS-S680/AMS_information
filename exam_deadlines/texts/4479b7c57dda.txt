@@ -1,0 +1,33 @@
+=== PAGE 1 ===
+PHYS 5350 Assignment 1  
+Due date: One week after announcement 
+ 
+Total 100 + 20 points 
+ 
+1.  Show that the parallel plate capacitor makes an electron energy analyzer with focusing action 
+when the entrance angle is 45o. The speed of the electron entering the capacitor is vo. The 
+separation between the plates is d and the voltage across the plates is V. (40 points) 
+ 
+Hint: Find l in terms of the kinetic energy of the electron at the entrance and show that it does not 
+change for small variations of θ around 45o. 
+ 
+(Optional) Extend the ideas obtained from the parallel plate analyzer to a cylindrical analyzer by 
+showing that the latter also has the capability of analyzing the energy of and focusing the electrons 
+(extra 20 pts). 
+ 
+2. Why is it necessary to mount the source, crystal and the detector on a Rowland circle for an X-
+ray 
+monochromator? 
+Derive 
+a 
+relationship 
+among 
+the 
+distance  
+between crystal and detector, the radius of the circle, the wavelength of X-ray and  
+the lattice parameter of the crystal (assuming cubic). (40 points) 
+ 
+3.  MgKα and AlKα are typically used as the X-ray sources for XPS. Do they excite 1s 
+photoelectron emission of metals such as Ti and Fe? If not, how do we detect such elements by 
+XPS? (20 points) 
+ 

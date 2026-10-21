@@ -1,0 +1,364 @@
+=== PAGE 1 ===
+1
+(1) The boiling point of TiF4 is 284 C. At that T, fHc = −1639 kJ mole−1 and 
+fHv = −1551 kJ mole−1. The molecule does not decompose during 
+evaporation. (a) Find out the enthalpy change vH and the fraction of this 
+energy that goes into pV per mole. (b) Find out the equation for pv (Pa) 
+with T (K) as the only unknown. (c) What is pv at 100 C? (d) What is the 
+TiF4 effusion rate at 100 C from an ideal Knudsen cell having a 1 mm-
+diameter orifice? (5 + 2 + 5 + 3 + 5 = 20 points)
+Homework 2
+(Chapter 3 Evaporation, total points: 100 points)
+(2) Water has a vH of 44 kJ mol−1, which can be approximated to be 
+independent of temperature. The boiling point of water is 100 °C. The 
+relative humidity, which is usually expressed as a percentage, is defined 
+as the ratio of the partial pressure of water in air to the saturated vapor 
+pressure of water at a given temperature. If the relative humidity at a city 
+is 75% at 31 °C, please calculate the partial pressure of water vapor in the 
+air at this city. (12 + 4 + 4 = 20 points)
+
+
+=== PAGE 2 ===
+2
+(3) A flat, 30 cm-diameter substrate is 
+situated with its center along the axis 
+of a Knudsen-cell orifice and 15 cm 
+away from it. The substrate is tilted 
+30from being perpendicular to the 
+axis. Assuming that all material 
+arriving at the substrate condenses on 
+it, by what percentages do the 
+deposition rates at the lowest and 
+highest points on the substrate differ 
+from the rate at the center of the 
+substrate? (10 + 10 = 20 points)
+
+
+=== PAGE 3 ===
+3
+(4) (a) A light ray is traveling from water into glass. When the incidence 
+angle is 50.82, the reflected light is linearly polarized. If the refractive 
+index of water is 1.333, what is the refractive index of glass? What is the 
+Brewster’s angle when the light ray is traveling from glass into water? (b) 
+If the light ray is traveling from glass into water at an incidence angle of 
+65°, please find out the phase changes ϕr,and ϕr,|| upon reflection 
+according to the discussion on the lecture slides. You can self-check your 
+results according to the plots shown on Slide 78 of Chapter 3. (5 + 5 + 5 + 
+5 = 20 points)
+
+
+=== PAGE 4 ===
+(5) Consider a thin film coating of thickness d on an object (see the figure on 
+next page). If the incident wave has an amplitude of A0, then we have the 
+following amplitudes of various reflected and transmitted waves based on 
+the definitions of the reflection and transmission coefficients,
+,
+3
+2
+3
+2
+23
+2
+n
+n
+n
+n
+r
+r
+
+
+
+
+21
+23
+21
+23
+12
+0
+3
+21
+23
+12
+0
+2
+12
+0
+1
+t
+r
+r
+r
+t
+A
+A
+t
+r
+t
+A
+A
+r
+A
+A
+
+
+
+23
+21
+23
+21
+23
+12
+0
+3
+23
+21
+23
+12
+0
+2
+23
+12
+0
+1
+t
+r
+r
+r
+r
+t
+A
+C
+t
+r
+r
+t
+A
+C
+t
+t
+A
+C
+
+
+
+and so on. Assume that n1 < n2 < n3 and normal incidence. The phase 
+change in traversing the coating thickness is = (2/)n2d in which is 
+the free-space wavelength. The wave has to be multiplied by exp(j) to 
+account for this phase difference. The reflection and transmission 
+coefficients are given by
+,
+21
+2
+1
+2
+1
+12
+1
+r
+n
+n
+n
+n
+r
+r
+
+
+
+
+
+
+,
+2
+2
+1
+1
+12
+1
+n
+n
+n
+t
+t
+
+
+
+,
+2
+2
+1
+2
+21
+2
+n
+n
+n
+t
+t
+
+
+
+3
+2
+2
+23
+3
+2
+n
+n
+n
+t
+t
+
+
+
+4
+
+
+=== PAGE 5 ===
+5
+Please show the expressions 
+below. (10 + 10 = 20 points)
+
+
+
+
+
+2
+2
+1
+2
+2
+1
+1
+2
+2
+1
+1
+2
+1
+1
+0
+reflected
+1
+j
+j
+k
+k
+j
+e
+r
+r
+e
+r
+r
+e
+r
+r
+r
+tt
+r
+A
+A
+r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+2
+1
+2
+2
+1
+2
+1
+3
+1
+1
+2
+2
+1
+2
+1
+3
+1
+0
+d
+transmitte
+1
+j
+j
+j
+k
+k
+j
+j
+e
+r
+r
+e
+r
+r
+r
+r
+e
+tt
+e
+r
+r
+r
+r
+e
+tt
+A
+C
+t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The transmission coefficient is
+The reflection coefficient is
+
+
+=== PAGE 6 ===
+6
+Please submit your solutions by 11:30 pm on 7 October 2026 
+(Wednesday) in Blackboard. In case you have difficulty in uploading 
+your solutions on Blackboard, please send your solutions by email in 
+time to Ms. DING Yan (yding@phy.cuhk.edu.hk) or Mr. ZHAO 
+Keyuan (kyzhao@phy.cuhk.edu.hk).
+Late submission will cause points to be reduced according to how late 
+a submission is.

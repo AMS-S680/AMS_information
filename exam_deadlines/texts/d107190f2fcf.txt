@@ -1,0 +1,1446 @@
+=== PAGE 1 ===
+A. 
+Symmetry
+Topics in TEM
+B. Real space 
+vs. Reciprocal space Lattice
+C. Electron scattering and Diffraction Pattern (DP)
+D. Diffraction pattern indexing
+1
+E. TEM imaging
+
+=== PAGE 2 ===
+Recall: Crystalline structure = Basis + Lattice 
++
+=
+2
+Real space Lattice
+[Speaker notes]
+2
+
+=== PAGE 3 ===
+Lattice point is a geometric point with no volume.
+Lattice points do not have to be at the center of an atom. 
+lattice points are not equivalent to atoms
+3
+Feature of lattice
+
+=== PAGE 4 ===
+4
+What is the lattice of graphene?
+Define the 
+crystalline lattice 
+from atomic structure
+
+=== PAGE 5 ===
+Several possible choices of pairs of primitive vectors for a 2D Bravais lattice
+Primitive vectors
+5
+To describe a lattice: lattice vectors
+Minimal set of translation vectors that generate all lattice points by integer linear combinations.
+[Speaker notes]
+5
+
+=== PAGE 6 ===
+Unit cell and 
+primitive unit cell
+A volume of space that, when translated through all the vectors in a Bravais lattice, just fills all of space without either overlapping itself or leaving voids is called a primitive cell, or primitive unit cell of the lattice.
+The 
+primitive cell
+ 
+is a 
+parallelepiped
+ specified by the primitive translation vectors. 
+It is a 
+minimum volume cell 
+and there is 
+one lattice point 
+per primitive cell.
+6
+[Speaker notes]
+6
+
+=== PAGE 7 ===
+1) The origin is one lattice point.
+2)
+ 
+Has the same symmetry as the lattice. 
+3)
+ 
+Based on 2), right angles as many as possible;
+4)
+ 
+Based on 2) and 3), the volume is the minimum
+The rules for choosing the conventional unit cell
+Although there are an infinite number of ways to specify a unit cell, for each crystal structure there is a 
+conventional unit cell
+,
+ which is chosen to display the 
+full symmetry
+ of the crystal
+Conventional unit cell
+A conventional unit cell may consist of more than one lattice points.
+7
+[Speaker notes]
+7
+
+=== PAGE 8 ===
+A symmetric set of primitive vectors for the face-centered cubic lattice
+8
+Primitive vs. non-primitive unit cell 
+(example)
+[Speaker notes]
+8
+
+=== PAGE 9 ===
+The primitive unit cell will not always display all the symmetries inherent in the crystal. 
+A Wigner-Seitz cell is a particular kind of primitive cell which has the same symmetry as the lattice.
+Wigner-Seitz cell
+9
+[Speaker notes]
+9
+
+=== PAGE 10 ===
+Lattice parameters
+In a convention unit cell
+a, b ,c, 
+, ,  
+are called lattice parameters.
+Any point in the crystal:
+r 
+= (n
+1
++s
+1
+)
+a 
++ (n
+2
++s
+2
+)
+b 
++ (n
+3
++s
+3
+)
+c 
+，
+n
+1
+， 
+n
+2
+， 
+n
+3
+ 
+are integers
+, 0
+ s
+1
+,s
+2
+,s
+3
+<1
+r 
+= (n
+1
+a 
++ n
+2
+b 
++n
+3
+c
+) + (s
+1
+a 
++ s
+2
+b 
++s
+3
+c
+)
+are lattice vectors
+10
+[Speaker notes]
+10
+
+=== PAGE 11 ===
+The 7 crystalline systems  
+90
+o
+11
+[Speaker notes]
+11
+
+=== PAGE 12 ===
+1) Primitive
+（
+P
+）
+: 8 corners
+2) Side (base)-centered
+（
+C,A,B
+）
+: 8corners + 2 side (base) centers
+3) Body-centered
+（
+I
+）
+: 8corners + 1 body center
+4) Face-centered
+（
+F
+）
+: 8corners + 6 face centers
+ 
+The four types of unit cell
+12
+[Speaker notes]
+12
+
+=== PAGE 13 ===
+The 14 Bravais lattice
+Seven lattice system=7 parallelepiped shapes
+Four types of unit cell.
+7
+
+4=28
+Do we have 28 lattices?
+There are only 14 lattices, or Bravais lattices.
+Rule:  The introduction of a lattice point (at body or face centers) must 
+create a new lattice 
+but 
+not break the original symmetry
+.
+13
+[Speaker notes]
+13
+
+=== PAGE 14 ===
+e.g.1
+： 
+Tetragonal base centered lattice
+ ＝ 
+Tetragonal primitive lattice
+ 
+Top view
+14
+Tetragonal lattice
+Only have primitive and body-
+centered
+ unit cell, but not based or face-
+centered
+ ones
+𝑎
+=
+𝑏
+ ≠
+𝑐
+, 
+𝛼
+=
+𝛽
+=
+𝛾
+=
+90
+𝑜
+ 
+[Speaker notes]
+14
+
+=== PAGE 15 ===
+e.g.2
+： 
+Cubic base centered lattice is no longer a cubic lattice.
+What is it?
+15
+𝑎
+=
+𝑏
+ ≠
+𝑐
+, 
+𝛼
+=
+𝛽
+=
+𝛾
+=
+90
+𝑜
+ 
+[Speaker notes]
+15
+
+=== PAGE 16 ===
+Indices for directions: Miller indices
+Line directions and direction indexes: 
+<
+uvw
+>, [
+uvw
+]
+(
+u
+2
+, v
+2
+, w
+2
+)
+(
+u
+1
+, v
+1
+, w
+1
+)
+[
+uvw
+]  	Specific direction within the crystal.
+<
+uvw
+> 	An equivalent set of directions.
+<111>={[111], [  11], [1  1], [11  ], [1    ], [  1  ], [    1], [      ]}
+16
+[Speaker notes]
+[uvw] vs. (hkl)
+16
+
+=== PAGE 17 ===
+Indices for planes
+Planes and plane indexes: 
+{
+hkl
+}, (
+hkl
+)
+z
+x
+y
+p
+q
+r
+For example,
+ 
+for
+ 
+cubic lattice
+{111}={(111), (  11), (1  1), (11  ), (1    ), (   1  ), (    1), (      )}
+Similarly, the curved bracket represents an equivalent set of planes.
+[Speaker notes]
+[uvw] vs. (hkl)
+17
+
+=== PAGE 18 ===
+18
+The reciprocal space and lattice
+Mathematical definition
+The unit of reciprocal vector is nm
+-1
+ or 
+Å
+-1
+
+=== PAGE 19 ===
+Properties of reciprocal lattice vectors
+The reciprocal relationship
+Direction of the reciprocal lattice vectors
+19
+Magnitude of the reciprocal lattice vector
+The reciprocal space and lattice
+𝑉
+=
+𝑎
+×
+𝑏
+⋅
+𝑐
+=
+𝑏
+×
+𝑐
+⋅
+𝑎
+=(
+𝑐
+×
+𝑎
+)⋅
+𝑏
+ 
+
+=== PAGE 20 ===
+The volume of the reciprocal primitive unit cell
+V*
+Cross multiply formula:
+=0
+=V
+20
+The reciprocal space and lattice
+
+=== PAGE 21 ===
+21
+Real space vs. reciprocal space
+𝐿𝑎𝑡𝑡𝑖𝑐𝑒
+𝑣𝑒𝑐𝑡𝑜𝑟
+𝑟
+𝑢𝑣𝑤
+=
+𝑢
+𝑎
++
+𝑣
+𝑏
++
+𝑤
+𝑐
+Reci
+𝑝𝑟𝑜𝑐𝑎𝑙
+𝑙𝑎𝑡𝑡𝑖𝑐𝑒
+𝑣𝑒𝑐𝑡𝑜𝑟
+𝑟
+ℎ𝑘𝑙
+∗
+(
+𝑔
+ℎ𝑘𝑙
+)
+=
+ℎ
+𝑎
+∗
++
+𝑘
+𝑏
+∗
++
+𝑙
+𝑐
+∗
+ 
+
+=== PAGE 22 ===
+𝑅𝑒𝑐
+𝑖𝑝𝑟𝑜𝑐𝑎𝑙
+𝑙𝑎𝑡𝑡𝑖𝑐𝑒
+𝑣𝑒𝑐𝑡𝑜𝑟
+𝑔
+ℎ𝑘𝑙
+=
+ℎ
+𝑎
+∗+
+𝑘
+𝑏
+∗+
+𝑙
+𝑐
+∗
+ 
+𝐴𝐵
+=
+𝑎
+ℎ
+−
+𝑏
+𝑘
+𝐴𝐵
+⋅
+𝑔
+ℎ𝑘𝑙
+=
+𝑎
+ℎ
+−
+𝑏
+𝑘
+⋅
+ℎ
+𝑎
+∗+
+𝑘
+𝑏
+∗+
+𝑙
+𝑐
+∗
+=0
+              
+𝑔
+ℎ𝑘𝑙
+⊥
+𝐴𝐵
+𝑔
+ℎ𝑘𝑙
+⊥
+𝐵𝐶
+ 
+𝑔
+ℎ𝑘𝑙
+⊥
+𝐴𝐶
+ 
+ 
+Understanding the reciprocal relationship
+22
+In real space, consider a plane ABC intersecting the 
+abc
+ axes at 1/
+h
+, 1/
+k
+, and 1/
+l
+ (definition of plane {
+hkl
+}
+g
+hkl
+ is a vector in the reciprocal space defined by 
+a*
+, 
+b*
+, and 
+c*
+(
+hkl
+) 
+is a plane in the real space
+g
+hkl
+ 
+is the 
+(
+hkl
+) 
+plane normal
+Where is 
+𝑟
+ℎ𝑘𝑙
+∗
+ (
+𝑔
+ℎ𝑘𝑙
+)
+?
+ 
+ 
+A
+B
+C
+O
+𝑎
+ℎ
+ 
+𝑏
+𝑘
+ 
+𝑐
+𝑙
+ 
+
+=== PAGE 23 ===
+The plane spacing 
+d
+hkl
+ can be calculated from simple geometry
+a/h
+b/k
+c/l
+A
+B
+C
+o
+23
+Understanding the reciprocal relationship
+𝑎
+/
+ℎ
+ 
+𝑔
+ℎ𝑘𝑙
+ 
+The magnitude of 
+g
+hkl
+ represents the inverse of 
+hkl
+ plane spacing
+[Speaker notes]
+23
+
+=== PAGE 24 ===
+For a given 
+g
+hkl
+ 
+, 
+for
+ 
+r
+uvw
+ 
+satisfying                        , they
+represents a group of parallel planes with equal d-spacing
+d
+hkl
+(
+hkl)
+g
+hkl
+r
+uvw
+O
+N is integer
+r
+uvw
+24
+Understanding the reciprocal relationship
+
+=== PAGE 25 ===
+(100)
+planes
+n
+100
+d
+100
+1/d
+100
+25
+Real space
+Reciprocal  space
+(100)
+(010)
+
+=== PAGE 26 ===
+(010)
+planes
+n
+010
+d
+010
+(100)
+(010)
+1/d
+010
+26
+Real space
+Reciprocal  space
+(100)
+(010)
+
+=== PAGE 27 ===
+1*, in real space lattice, the direction [
+uvw
+] perpendicular to the plane (
+uvw
+)* in reciprocal lattice
+[
+uvw
+]
+(
+uvw
+)*
+2*, in real space lattice, the length of vector 
+r
+uvw
+ equals to the inverse plane spacing of plane (
+uvw
+)* in reciprocal lattice.
+1, in reciprocal lattice, the direction [
+hkl
+]* perpendicular to the plane (
+hkl
+) in real space lattice
+[
+hkl
+]*
+(
+hkl
+)
+2, in reciprocal lattice, the length of vector 
+g
+hkl
+ equals to the 
+inverse
+ plane spacing of plane (
+hkl
+) in direct lattice.
+Because the reciprocal of the reciprocal lattice is the original real space lattice
+27
+
+=== PAGE 28 ===
+Important
+ 
+examples
+1, The simple cubic Bravais lattice, with cubic primitive cell of side 
+a
+, has as its reciprocal a simple cubic lattice with the cubic primitive cell of side 
+1/a. 
+𝑎
+=
+𝑎
+𝑥
+𝑏
+=
+𝑎
+𝑦
+𝑐
+=
+𝑎
+𝑧
+𝑡ℎ𝑒𝑛
+𝑎
+∗=
+1
+𝑎
+𝑥
+𝑏
+∗=
+1
+𝑎
+𝑦
+𝑐
+∗=
+1
+𝑎
+𝑧
+ 
+a
+b
+c
+0
+a*
+b*
+c*
+0
+a
+a
+a
+1/a
+1/a
+1/a
+Real space
+Reciprocal
+What a reciprocal lattice look like?
+28
+𝑥
+ 
+𝑦
+ 
+𝑧
+ 
+[Speaker notes]
+28
+
+=== PAGE 29 ===
+2, The face-centered cubic Bravais lattice with conventional cubic cell of side 
+a
+ 
+The primitive vectors are:
+a
+1
+a
+2
+a
+3
+
+
+
+𝒙
+ 
+𝒚
+ 
+𝒛
+ 
+29
+Calculate the reciprocal vectors
+𝑎
+∗
+=
+1
+𝑎
+𝑥
++
+𝑦
+−
+𝑧
+       
+𝑏
+∗
+=
+1
+𝑎
+𝑦
++
+𝑧
+−
+𝑥
+         
+𝑐
+∗
+=
+1
+𝑎
+𝑧
++
+𝑥
+−
+𝑦
+ 
+
+=== PAGE 30 ===
+So, The face-centered cubic 
+Bravais
+ lattice with conventional cubic cell of side 
+a
+ has as its reciprocal a body-centered cubic lattice with conventional cubic cell of side 
+2/a.
+For a bcc cubic lattice, the primitive vectors are:
+a’
+ is the edge length
+a
+1
+a
+2
+a
+3
+
+
+
+𝑥
+ 
+𝑦
+ 
+𝑧
+ 
+30
+[Speaker notes]
+30
+
+=== PAGE 31 ===
+3, The body-centered cubic lattice with conventional cubic unit cell of side 
+a
+ has as its reciprocal a face-centered cubic lattice with conventional cubic cell of side 
+2/a.
+This can be proved by the theorem that 
+reciprocal of a reciprocal lattice is the real space lattice
+ 
+(So the reciprocal lattice of the body-centered cubic lattice is a face-centered cubic lattice) 
+and the result of example 2
+ 
+(If the reciprocal lattice cubic side is 
+l
+ then 
+2/l=a, so l=2/a
+).
+31
+
+=== PAGE 32 ===
+Real space lattice
+Reciprocal lattice
+32
+
+=== PAGE 33 ===
+The matrix: relations between 
+abc
+ and a*b*c*
+We have:
+Suppose:
+So
+33
+
+=== PAGE 34 ===
+𝐺
+𝐺
+−1
+=
+𝐼
+=
+1
+0
+0
+0
+1
+0
+0
+0
+1
+ 
+34
+𝑎
+∗
+𝑏
+∗
+𝑐
+∗
+=
+𝐺
+−1
+𝐺
+𝑎
+∗
+𝑏
+∗
+𝑐
+∗
+=
+𝐺
+−1
+𝑎
+𝑏
+𝑐
+ 
+
+=== PAGE 35 ===
+The G and G
+-1
+ of the seven crystalline system
+35
+Trigonal
+monclinic
+Triclinic
+
+=== PAGE 36 ===
+36
+Orthorhombic
+tetragonal
+Hexagonal
+Cubic
+
+=== PAGE 37 ===
+1, In real space lattice, if [
+uvw
+] is perpendicular to a specific plane, what is the plane indexing of 
+(
+hkl
+)? 
+[
+uvw
+] is plane normal, indexed in 
+th
+e real space lattice
+[
+hkl
+] is also the plane normal, indexed in the reciprocal space
+𝑟
+𝑢𝑣𝑤
+=
+𝑔
+ℎ𝑘𝑙
+𝑢
+𝑎
++
+𝑣
+𝑏
++
+𝑤
+𝑐
+=
+ℎ
+𝑎
+∗+
+𝑘
+𝑏
+∗+
+𝑙
+𝑐
+∗
+dot product
+ 
+𝑎
+,
+𝑏
+,
+𝑜𝑟
+ 
+𝑐
+𝑤𝑒
+ℎ𝑎𝑣𝑒
+ℎ
+=
+𝑢
+𝑎
+⋅
+𝑎
++
+𝑣
+𝑎
+⋅
+𝑏
++
+𝑤
+𝑎
+⋅
+𝑐
+𝑘
+=
+𝑢
+𝑏
+⋅
+𝑎
++
+𝑣
+𝑏
+⋅
+𝑏
++
+𝑤
+𝑏
+⋅
+𝑐
+𝑙
+=
+𝑢
+𝑐
+⋅
+𝑎
++
+𝑣
+𝑐
+⋅
+𝑏
++
+𝑤
+𝑐
+⋅
+𝑐
+ 
+ℎ
+𝑘
+𝑙
+=
+𝐺
+𝑢
+𝑣
+𝑤
+ 
+Common questions on the relationship
+37
+
+=== PAGE 38 ===
+Example:
+Solve the problem in the cubic system
+For cubic lattice, 
+So
+ℎ
+𝑘
+𝑙
+=
+𝑎
+2
+0
+0
+0
+𝑎
+2
+0
+0
+0
+𝑎
+2
+𝑢
+𝑣
+𝑤
+=
+𝑎
+2
+𝑢
+𝑎
+2
+𝑣
+𝑎
+2
+𝑤
+∝
+𝑢
+𝑣
+𝑤
+ 
+I
+n cubic system the plane perpendicular to [
+uvw
+] is (
+uvw
+), they have the same index symbols
+e.g. [111]
+(111), [100](100)
+38
+a
+b
+c
+
+=== PAGE 39 ===
+𝑟
+𝑢𝑣𝑤
+=
+𝑔
+ℎ𝑘𝑙
+𝑢
+𝑎
++
+𝑣
+𝑏
++
+𝑤
+𝑐
+=
+ℎ
+𝑎
+∗+
+𝑘
+𝑏
+∗+
+𝑙
+𝑐
+∗
+𝑀𝑢𝑙𝑡𝑖𝑝𝑙𝑦
+𝑎
+∗,
+𝑏
+∗,
+𝑐
+∗
+𝑤𝑒
+ℎ𝑎𝑣𝑒
+𝑢
+=
+ℎ
+𝑎
+∗⋅
+𝑎
+∗+
+𝑘
+𝑎
+∗⋅
+𝑏
+∗+
+𝑙
+𝑎
+∗⋅
+𝑐
+∗
+𝑣
+=
+ℎ
+𝑏
+∗⋅
+𝑎
+∗+
+𝑘
+𝑏
+∗⋅
+𝑏
+∗+
+𝑙
+𝑏
+∗⋅
+𝑐
+∗
+𝑤
+=
+ℎ
+𝑐
+∗⋅
+𝑎
+∗+
+𝑘
+𝑐
+∗⋅
+𝑏
+∗+
+𝑙
+𝑐
+∗⋅
+𝑐
+∗
+ 
+𝑢
+𝑣
+𝑤
+=
+𝐺
+−1
+ℎ
+𝑘
+𝑙
+ 
+2, In real space lattice, what is the direction 
+[
+uvw
+] 
+being 
+perpendicular to a plane with known index of (
+hkl
+)?
+39
+
+=== PAGE 40 ===
+Example:
+
+Ni
+3
+Nb has a tetragonal lattice. a=3.624 Å, c=7.406 Å. Find the normal direction [
+uvw
+] of its (111) plane.
+𝑢
+𝑣
+𝑤
+=
+𝐺
+𝑡𝑒𝑡𝑟𝑎𝑔𝑜𝑛𝑎𝑙
+−1
+ℎ
+𝑘
+𝑙
+=
+1
+3.62
+4
+2
+0
+0
+0
+1
+3.62
+4
+2
+0
+0
+0
+1
+7.40
+6
+2
+1
+1
+1
+ 
+𝑢𝑣𝑤
+=
+0.0762
+0.0762
+0.0182
+=
+1
+1
+0.239
+≈
+441
+ 
+40
+
+=== PAGE 41 ===
+3, How to calculate interplanar distance 
+d
+hkl
+ 
+41
+
+=== PAGE 42 ===
+Cubic lattice, find the plane spacings of (111) and (211) planes
+Example
+Orthorhombic lattice, find the plane spacings of (111) and (211) planes
+42
+
+=== PAGE 43 ===
+4, Angles between lattice plane
+
+
+g
+1
+g
+2
+(
+h
+2
+k
+2
+l
+2
+)
+(
+h
+1
+k
+1
+l
+1
+)
+
+
+43
+
+=== PAGE 44 ===
+5, Angles between directions
+44
+
+=== PAGE 45 ===
+Zone
+[
+uvw]
+A group of planes whose lines of intersection are parallel
+The zone axis is defined by this common direction [uvw], called 
+zone axis
+Law of zone
+𝑟
+𝑢𝑣𝑤
+⋅
+𝑔
+ℎ𝑘𝑙
+=0
+ 
+
+=== PAGE 46 ===
+Crystalline zone taking 
+r
+uvw
+ as the zone axis
+To determine the zone 
+aixs
+For lattice plane 
+(h
+1
+ k
+1
+ l
+1
+)
+ and 
+(h
+2
+ k
+2
+ l
+2
+)
+ belong to the same [
+uvw
+]
+𝑟
+𝑢𝑣𝑤
+⋅
+𝑔
+1
+=0
+𝑎𝑛𝑑
+𝑟
+𝑢𝑣𝑤
+⋅
+𝑔
+2
+=0
+ 
+𝑟
+𝑢𝑣𝑤
+=
+𝑔
+1
+×
+𝑔
+2
+ 
+To judge whether (h
+1
+ k
+1
+ l
+1
+), (h
+2
+ k
+2
+ l
+2
+), and (h
+3
+ k
+3
+ l
+3
+) belong to the same zone 
+𝑉
+∗=
+𝑔
+1
+⋅(
+𝑔
+2
+×
+𝑔
+3
+)=0
+ℎ
+1
+𝑘
+1
+𝑙
+1
+ℎ
+2
+𝑘
+2
+𝑙
+2
+ℎ
+3
+𝑘
+3
+𝑙
+3
+=0
+ 
+
+=== PAGE 47 ===
+g
+hkl
+ characteristic of crystalline plane (
+hkl
+) 
+To determine the plane index
+For crystalline direction 
+(u
+1
+ v
+1
+ w
+1
+)
+ and 
+(u
+2
+ v
+2
+ w
+2
+)
+ on the same (hkl)
+To judge whether (u
+1
+ v
+1
+ w
+1
+), (u
+2
+ v
+2
+ w
+2
+), and (u
+3
+ v
+3
+ w
+3
+) belong to the same plane 

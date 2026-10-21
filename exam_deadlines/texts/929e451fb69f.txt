@@ -1,0 +1,77 @@
+=== PAGE 1 ===
+Homework 3
+(Chapter 4 Deposition, total points: 100 points)
+1
+(1) Consider the condensation of water onto non-wetting substrates at 20 C. 
+The substrate contact area and the anisotropy of the water surface tension 
+f are both neglected. The surface tension of water is f = 73 dynes cm–1. 
+(a) What are the classical critical nucleus radius and the energy barrier to 
+nucleation for the supersaturation ratio of p/pv = 2.5? (b) What are the 
+classical critical nucleus radius and the energy barrier to nucleation for the 
+supersaturation ratio of p/pv = 1.4? (5 + 5 + 5 + 5 = 20 points)
+
+
+=== PAGE 2 ===
+2
+(3) Si has the diamond structure with the edge length of the cubic cell being a. 
+Assume that the atoms are hard spheres and that the nearest-neighbor 
+atoms are in contact. (a) How many Si atoms does each cubic unit cell 
+contain? (b) What is the distance between the two nearest-neighbor atoms? 
+(c) What is the spatial volume fraction that is occupied by Si atoms in the 
+diamond structure? (d) What is the angle between the two neighboring 
+bonds around a Si atom? (e) What is the angle between the (110) and (111) 
+lattice planes? (4 + 4 + 4 + 4 + 4 = 20 points)
+(2) (a) In a film deposition system, molecules are first adsorbed in a precursor 
+state with a trapping probability of and then undergo chemical reaction 
+and desorption, with the rate constants of kr and kd, respectively. Assume 
+that the adsorption does not occur on the area already occupied by the 
+adsorbates. Please derive the relationship between the chemical reaction 
+rate Rr with the molecular impingement flux Ji. (10 points)
+(b) Consider the diffusion problem on a two-dimensional lattice of a = 
+0.35 nm at 650 °C. The diffusion potential barrier is 40 kJ mol–1. Please 
+estimate the diffusion length within 2 s. (10 points)
+
+
+=== PAGE 3 ===
+3
+(4) (a) Derive the relationship between 
+dome radius and column diameter 
+which satisfies the surface-energy force 
+balance shown in the right figure, where 
+isotropic is assumed. (10 points)
+(b) A film is being deposited with an intrinsic stress of 600 MPa onto a 
+0.15-mm-thick Si(111) substrate mounted as shown below. If the laser 
+beam is hitting the surface 2 cm from the edge of the support, at what film 
+thickness (in nm) will the deflection of the reflected beam be 0.14? Y/(1 
+) is 229 GPa for Si(111). (10 points)
+
+
+=== PAGE 4 ===
+4
+(5) The substrate temperature Ts is a very important variable in the deposition process, 
+having profound effects on the structure and composition of films and interfaces. 
+Substrates are usually placed on a flat heater for the control of their temperature. 
+Assume that the heating platform and substrate are much wider than the heat-
+transfer gap involved, so the heat flow is one-dimensional. We further assume 
+that the emissivity is equal to the absorptivity for both the heater and substrate, 
+and that the emissivity of the heater is equal to that of the substrate. We consider
+all the terms are smaller than 1. This leads to 
+multiple reflections between the heater and 
+substrate. (a) Please derive the temperature 
+difference T = Th Ts in terms of and Th. The 
+temperatures of the heater and substrate are 
+uniform. (b) Shiny metals have of 0.1 and 
+heavily oxidized metals have of 0.7. If Th is 900 
+C, please calculate the Ts values for these two 
+different values. (12 + 4 + 4 = 20 points) 
+
+
+=== PAGE 5 ===
+5
+Please submit your solutions by 11:30 pm on 28 October 2026 
+(Wednesday) in Blackboard. In case you have difficulty in uploading 
+your solutions on Blackboard, please send your solutions by email in 
+time to Ms. DING Yan (yding@phy.cuhk.edu.hk) or Mr. ZHAO 
+Keyuan (kyzhao@phy.cuhk.edu.hk).
+Late submission will cause points to be reduced according to how late 
+a submission is.

@@ -1,0 +1,16 @@
+=== PAGE 1 ===
+Phys5350 Assignment 2  
+ 
+ 
+ 
+1. For an unknown sample, preliminary XPS analysis showed a signal at the binding energy (BE) 
+of about 532 eV. The signal at this BE can arise from either Pd 3p3/2 or O 1s. Suggest how you can 
+confirm the presence of either Pd or O through further XPS experiments or data analysis. 
+ 
+2. How many XPS core level peaks do you expect for the element K? Count doublets as two and 
+triplets as three, etc, but do not count small chemically shifted peaks as separate peaks. 
+ 
+3. Explain why H and He cannot be detected by Auger electron spectroscopy. 
+ 
+ 
+ 

@@ -1,0 +1,64 @@
+=== PAGE 1 ===
+Materials Science Assignment · English version
+1
+Materials Science Assignment
+English version | 9 questions | 50 points
+• Please hand write your answers on blank answer sheets, then upload the scan copy in one
+PDF file to Blackboard.
+• Due time: 11:59 pm, 22nd Oct, 2026.
+• Only single attempt is allowed (multiple submissions will not be allowed).
+Question 1
+4 points
+Show that the Atomic Packing Factor of a hexagonal close-packed crystal structure is
+approximately 0.74. Show your calculation details.
+Question 2
+4 points
+Hand sketch a 
+ plane and a (111) plane within the same cubic unit cell
+(intermediate steps are allowed but not compulsory).
+Question 3
+4 points
+Sodium chloride has a rock salt crystal structure. Show that in the unit cell of sodium
+chloride, the Na:Cl ratio is 1:1.
+Question 4
+6 points
+Separately list two advantages and one disadvantage (in bullet form) of using (a)
+plastic bottles and (b) metal cans as packaging materials for soda drinks.
+Question 5
+8 points
+Please use simple hand sketches to explain what is (a) a vacancy defect in metal, (b)
+an edge dislocation in metal, (c) a Frenkel defect in ceramics, (d) a nonstoichiometric
+compound defect in ceramics. Please provide brief explanation of each drawing.
+
+
+=== PAGE 2 ===
+Materials Science Assignment · English version
+2
+Materials Science Assignment
+Questions 6-9
+Question 6
+4 points
+The presence of a microscopic flaw or crack, which always exists in a body of
+material, makes the actual fracture strength significantly lower than those predicted
+by theoretical atomic bonding energies. Using the expression for maximum stress,
+σm, from the lecture note, explain qualitatively how the length and curvature of an
+elliptical hole buried entirely inside a plate-shape material body will affect the stress
+amplification at the crack tip.
+Question 7
+6 points
+Re-draw a complete Cu-Ag phase diagram as shown in the lecture note, label the
+eutectic point clearly, and use lever rule to find out the mass fraction of α and β
+phases at 71.9% Ag and 600 °C.
+Question 8
+10 points
+Using your own words (without any drawing), explain the following processes in
+layman styles (your descriptions should be different from the lecture notes):
+(a) Metal forging
+(b) Metal rolling
+(c) Investment casting of metal
+(d) Glass blowing
+(e) Glass sheet forming
+Question 9
+4 points
+Using a hand sketch of temperature-time plot, explain briefly what is precipitation
+hardening.

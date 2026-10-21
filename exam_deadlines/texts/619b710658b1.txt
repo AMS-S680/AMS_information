@@ -1,0 +1,555 @@
+=== PAGE 1 ===
+AMSC5720
+Advanced Materials Synthesis 
+Failure 
+Mechanical Properties
+Strengthening Mechanisms 
+1
+
+
+=== PAGE 2 ===
+▣The mechanical behavior of material reflects its response or deformation in relation to 
+an applied load or force 
+▣Key mechanical properties include:
+Property
+Measure of
+Modulus of elasticity
+Stiffness—resistance to elastic deformation
+Yield strength
+Resistance to plastic deformation
+Tensile strength
+Maximum load-bearing capacity
+Ductility
+Degree of plastic deformation at fracture
+Modulus of resilience
+Energy absorption—elastic deformation
+Toughness (static)
+Energy absorption—plastic deformation
+Hardness
+Resistance to localized surface deformation
+Recap: Mechanical Properties
+2026-27 AMSC5720 - Prof. Y. Chen
+2
+
+
+=== PAGE 3 ===
+▣If a load is static or changes relatively slowly with time and is applied uniformly over 
+a cross section or surface , we can understand the mechanical behavior by a simple 
+stress-strain test. 
+Stress & Strain
+2026-27 AMSC5720 - Prof. Y. Chen
+3
+Tensilestress
+Compressivestress
+Shear and torsional stress
+Engineeringstress σ: defined as σ = F
+A0
+Shear stress τ: ε = F
+A0
+Engineering strain ε: defined as ε = 
+Δl
+l0
+
+
+=== PAGE 4 ===
+▣The relationship between engineering stress and engineering strain is often presented 
+in a stress-strain curve
+▣For most metals at low stressed levels, stress and strain are proportional. Deformation 
+is thus elastic
+Stress-strain Behavior
+2026-27 AMSC5720 - Prof. Y. Chen
+4
+σ
+ε
+▣Hooke's law—relationship between 
+engineering stress and engineering strain for 
+elastic deformation: σ = Eε
+▣The constant of proportionality, E (GPa or psi), is 
+the modulus of elasticity
+
+
+=== PAGE 5 ===
+▣Atomic configurations during elastic deformation
+Stress-strain Behavior
+2026-27 AMSC5720 - Prof. Y. Chen
+5
+2. Small load
+Force, F
+Δl
+bonds 
+stretch
+1. Initial
+3. Unload
+return to 
+initial
+F
+Δl
+Linear-
+elastic
+= metal 
+atom
+▣
+Elastic deformation is 
+nonpermanent and reversible!
+▣
+Elastic modulus depends on 
+interatomic bonding forces
+
+
+=== PAGE 6 ===
+▣The elastic deformation persists only to strains of about 0.005 for most metals
+▣Deformation can continue beyond this point 
+▣Stress is no longer proportional to strain; permanent, nonrecoverable, or plastic 
+deformationoccurs
+2026-27 AMSC5720 - Prof. Y. Chen
+6
+Stress-strain Behavior
+▣Yielding occurs when plastic deformation begins 
+▣For metals with gradual elastic-plastic transition, a 
+convention is set: 
+▣
+Construct a straight line parallel to the elastic 
+portion of the σ-ε curve at a strain offset of, usually, 
+0.002 
+▣
+The stress corresponding to the intersection point 
+is defined as the yield strength, σy
+
+
+=== PAGE 7 ===
+▣After yielding, the stress necessary to continue plastic deformation in metals increases 
+to a maximum, and then decreases to the eventual fracture
+▣Tensile strength, TS, is the maximum stress on the σ-ε curve
+2026-27 AMSC5720 - Prof. Y. Chen
+7
+Stress-strain Behavior
+Many more information 
+can be concluded from 
+a σ-ε curve! 
+Typical instrument for tensile test
+specimen
+extensometer
+
+
+=== PAGE 8 ===
+▣Plastic deformation occurs by motion of dislocations (edge, screw, mixed) –
+process called slip
+▣For example, under a shear stress, an edge dislocation can move as follows:
+Dislocations and Plastic Deformation 
+2026-27 AMSC5720 - Prof. Y. Chen
+8
+During plastic deformation, 
+the number of dislocations 
+increases dramatically!
+
+
+=== PAGE 9 ===
+▣Typically, there is a preferred plane (slip plane ) and specific directions (slip direction) 
+in this plane along which dislocation motion occurs 
+▣“slip plane + slip direction” gives the slip system, which primarily depends on the 
+crystal structure, usually when atomic distortion during location motion is minimized
+▣In addition to slip, plastic deformation can also occur by the formation of mechanical 
+twins, or twining
+Dislocations and Plastic Deformation 
+2026-27 AMSC5720 - Prof. Y. Chen
+9
+Twining under shear stress
+Slip vs. twining under shear stress
+
+
+=== PAGE 10 ===
+▣Failure of materials is almost always undesired
+▣Usual causes of failure: 
+▣Improper materials selection and processing
+▣Inadequate design of the component
+▣Component misuse
+▣Major modes of failure: simple fracture, fatigue, 
+creep 
+▣Hazards of failure: human safety, economic 
+losses, disruption of critical infrastructure and 
+services
+Introduction to Failure
+2026-27 AMSC5720 - Prof. Y. Chen
+10
+A minimal force is required to tear the package 
+open when a small incision (or cut) is into an edge
+Brittle fracture of an oil tanker
+
+
+=== PAGE 11 ===
+▣Simple fracture: separation of a body into two or more pieces in response to 
+an imposed static (constant or slowly changing) stress at temperatures that 
+are low relative to the melting point of the material.
+▣The stress may be tensile, compressive, shear, or torsional. Here we mainly 
+focus on discussing uniaxial tensile loads in metals.
+▣Fracture can also occur from: 
+▣Fatigue (when cyclic stresses are imposed)
+▣Creep (time-dependent deformation, normally at elevated temperatures)
+Fracture
+2026-27 AMSC5720 - Prof. Y. Chen
+11
+
+
+=== PAGE 12 ===
+Ductile v.s. Brittle Fracture
+2026-27 AMSC5720 - Prof. Y. Chen
+12
+▣Two fracture modes in metals (based on ability to 
+experience plastic deformation):
+▣Ductile fracture: substantial plastic deformation, 
+high energy absorption before fracture
+▣Brittle fracture: little or no plastic deformation with 
+low energy absorption upon fracture
+▣Ductile fracture is almost always preferred to brittle 
+fracture
+▣
+Ductile fracture: warning beforehand, requires more 
+energy to fracture generally tougher
+▣
+Brittle fracture: rapid crack propagation occurs 
+suddenly
+Figure 8.1 
+(a) Highly ductile fracture in which the 
+specimen necks down to a point. 
+(b) Moderately ductile fracture after 
+some necking. 
+(c) Brittle fracture without any plastic 
+deformation
+
+
+=== PAGE 13 ===
+Ductile Fracture 
+2026-27 AMSC5720 - Prof. Y. Chen
+13
+▣Found in extremely soft metals (e.g., pure Au, Pb) at room 
+temperature, and other metals, some polymers, and some 
+glasses at elevated temperature 
+▣Can neck down to a point fracture→ virtually 100% are 
+reduction 
+▣Most common tensile fracture profile: cup-and-cone fracture
+(a) Initial necking
+(b) Small cavity formation
+(c) Coalescence of cavities to form a crack
+(d) Crack propagation
+(e) Final shear fracture at a 45° angle relative to the tensile 
+direction
+Cup-and-cone fracture in Aluminum.
+Figure 8.2 Stages in the 
+cup-and-cone fracture 
+
+
+=== PAGE 14 ===
+Ductile Fracture 
+2026-27 AMSC5720 - Prof. Y. Chen
+14
+Figure 8.4 (a) Spherical dimples of ductile 
+fracture resulting from uniaxial tensile loads 
+(fibrous central region). 
+(b) Elongated or C-shaped dimples of ductile 
+fracture resulting from shear loading 
+(observed at the 45 degree shear lip). 
+▣Microscopically, fracture mechanism is often 
+studied using scanning electron microscopy 
+(SEM): Fractographic Study
+▣The surface of a cup-and-cone fracture is 
+found to consist of numerous “dimples”
+▣Fibrous central region: spherical-shape 
+dimples → characteristic of fracture from 
+uniaxial tensile failure
+▣Shear lip region: parabolic shape dimples 
+→ characteristic of fracture from shear 
+failure
+“dimple” – one half of a microvoid
+
+
+=== PAGE 15 ===
+Brittle Fracture 
+2026-27 AMSC5720 - Prof. Y. Chen
+15
+▣Takes place without any appreciable deformation and by rapid crack propagation
+▣Crack motion is very nearly perpendicular to the direction of applied tensile stress.
+▣Crack surface is usually V-shaped or contain lines or ridges in a fan-like pattern
+Figure 8.5 
+
+
+=== PAGE 16 ===
+Brittle Fracture 
+2026-27 AMSC5720 - Prof. Y. Chen
+16
+Intergranular fracture
+▣Crack propagates along grain 
+boundaries
+▣Usually due to processes that weaken or 
+embrittle grain boundary regions
+Transgranular fracture
+▣Observed in most brittle crystalline 
+materials
+▣Crack propagates along specific 
+crystallographic planes (process is 
+termed cleavage)
+Figure 8.6 
+Figure 8.7 
+
+
+=== PAGE 17 ===
+Fracture Mechanics
+2026-27 AMSC5720 - Prof. Y. Chen
+17
+▣Fracture mechanism is a subject that allows quantification of the 
+relationships among materials properties, stress level, the presence 
+of crack-producing flaws, and frack propagation mechanisms.
+Stress Concentration
+▣Measured fracture strengths for most materials are far lower than those 
+predicted by theoretical calculations based on atomic bonding energies
+▣This discrepancy is explained by the presence of microscopic flaws or 
+cracks that always exist under normal conditions at the surface and 
+within the interior of a material body
+▣An applied stress may be amplified or concentrated a the flaw
+▣Flaws that can amplify an applied stress in their locale are sometimes 
+called stress raisers (more significant in brittle materials)
+Figure 8.8 
+
+
+=== PAGE 18 ===
+Fracture Mechanics
+2026-27 AMSC5720 - Prof. Y. Chen
+18
+Stress Concentration
+▣The magnitude of the stress amplification by stress raisers
+depends on crack orientation and geometry
+▣Assuming a crack is similar to a elliptical hole through a 
+plate and is perpendicular to the applied stress
+▣The maximum stress, 𝜎𝜎𝑚𝑚, occurs at the crack tip
+▣Stress amplification: 𝜎𝜎𝑚𝑚= 2𝜎𝜎0
+𝑎𝑎
+𝜌𝜌𝑡𝑡
+1/2
+▣Stress concentration factor: 𝐾𝐾𝑡𝑡=
+𝜎𝜎𝑚𝑚
+𝜎𝜎0 = 2
+𝑎𝑎
+𝜌𝜌𝑡𝑡
+1/2
+𝜌𝜌𝑡𝑡:𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑎𝑎𝑎𝑎𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑡𝑡𝑡𝑡𝑡𝑡
+𝜎𝜎0: 𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠
+𝑎𝑎: 𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑜𝑜𝑜𝑜𝑎𝑎𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐, 𝑜𝑜𝑜𝑜ℎ𝑎𝑎𝑎𝑎𝑎𝑎𝑜𝑜𝑜𝑜𝑡𝑡𝑡𝑡𝑡𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑜𝑜𝑜𝑜𝑎𝑎𝑎𝑎𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐
+
+
+=== PAGE 19 ===
+Fracture Mechanics
+2026-27 AMSC5720 - Prof. Y. Chen
+19
+Fracture Toughness
+▣A critical stress exits. When the stress at crack tip exceeds 
+the critical stress, a crack forms and then propagates, 
+resulting in fracture.
+▣𝐅𝐅𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐓𝐓𝐨𝐨𝐨𝐨𝐨𝐨𝐨𝐨𝐨𝐨𝐨𝐨𝐨𝐨𝐨𝐨(𝐾𝐾𝑐𝑐= 𝑌𝑌𝜎𝜎𝑐𝑐𝜋𝜋𝑎𝑎) is a property that 
+measures a material’s resistance to brittle fracture when a 
+crack is present.
+▣Fracture toughness can be measured by standardized 
+impact testing (Charpy/Izod)
+▣Impact test is a simpler/cheaper method to determine 
+fracture toughness qualitatively
+Figure 8.13 (a) Specimen used for Charpy and Izod impact 
+tests. (b) A schematic drawing of an impact testing apparatus
+
+
+=== PAGE 20 ===
+Fatigue
+2026-27 AMSC5720 - Prof. Y. Chen
+20
+▣Definition: a form of failure that occurs in structures 
+subjected to dynamic and fluctuating stresses
+▣Failure may occur at a stress level considerably lower than
+the tensile or yield strength for a static load after a length 
+period of repeated stress or strain cycling (e.g. bridges, 
+aircraft, machine components, etc.)
+Figure 8.18 Variation of stress with 
+time that accounts for fatigue failures.
+▣Fatigue failure is brittle-like in 
+nature. It is catastrophic and 
+insidious, occurring very 
+suddenly and without warning.
+▣The applied stress can be axial, 
+bending, or twisting
+
+
+=== PAGE 21 ===
+S–N Curves
+2026-27 AMSC5720 - Prof. Y. Chen
+21
+▣Fatigue property can also be determined from simulated lab test
+▣S–N curve, plot of stress (S) vs. log (cycles to failure, N), is typically used to study fatigue 
+behavior
+Figure 8.19 For rotating–bending fatigue 
+tests, schematic diagrams of (a) a testing 
+apparatus, and (b) a test specimen.
+
+
+=== PAGE 22 ===
+S–N Curves
+2026-27 AMSC5720 - Prof. Y. Chen
+22
+▣Fatigue limit (endurance limit) : the stress level below which fatigue failure will not 
+occur for an essentially infinite number of cycles
+▣Fatigue strength:  for materials without a fatigue limit (e.g., Al, Cu alloys), the stress level 
+at which failure occurs at a specified number of cycles
+▣Fatigue Life (Nf): the number of cycles required to cause failure at a specified stress level
+With fatigue limit
+Without fatigue limit
+Figure 8.20
+
+
+=== PAGE 23 ===
+Crack Initiation and Propagation
+2026-27 AMSC5720 - Prof. Y. Chen
+Figure 8.23 
+Fracture 
+surface of a 
+rotating steel 
+shaft that 
+experienced 
+fatigue failure
+▣Fatigue failure characterization: crack initiation, crack propagation and final failure
+▣Fracture surface features of fatigue failure:
+▣Beachmarks (macroscopic, visible to eye)
+▣Striations (microscopic, SEM/TEM)
+▣Benchmarks and striations only appear on the region over which the slow failure occurs. 
+Their presence confirms fatigue, but their absence does not exclude it.
+Figure 8.24 
+Transmission 
+electron 
+fractograph
+showing fatigue 
+striations in 
+aluminum
+Figure 8.25 
+Fatigue 
+failure 
+surface with 
+a slow crack 
+propagation 
+and a rapid 
+failure. 
+23
+
+
+=== PAGE 24 ===
+Creep
+2026-27 AMSC5720 - Prof. Y. Chen
+▣Materials placed in service at elevated 
+temperatures and exposed to static
+mechanical stresses. Deformation under 
+such circumstances is called creep.
+▣Definition: time-dependent and 
+permanent deformation of materials when 
+subjected to a constant load or stress.
+▣Creep is observed in all materials. It is 
+normally undesired, and often the limiting 
+factor in the lifetime of a part. 
+24
+Figure 8.35 
+(a) Polycrystalline turbine blade by a conventional casting technique. 
+(b) Turbine blade with an oriented columnar grain structure produced 
+by a sophisticated directional solidification technique. 
+(c) Single-crystal blade.
+High-temperature 
+creep resistance 
+Creep resistance 
+
+
+=== PAGE 25 ===
+Creep
+2026-27 AMSC5720 - Prof. Y. Chen
+25
+▣When either increasing stress or temperature: 
+▣Instantaneous strain increases
+▣Steady-state creep rate increases
+▣Rapture lifetime decreases
+Figure 8.30 Typical 
+creep curve of 
+strain versus t at 
+constant load and 
+constant elevated T
+▣Creep curve of strain v.s. time usually has 3 stages:
+▣Stage I: primary, decreasing creep rate 
+▣Stage II: steady-state, minimum constant 
+creep rate
+▣Stage III: tertiary, accelerating to rupture
+Figure 8.31 
+
+
+=== PAGE 26 ===
+▣The ability of a metal to deform plastically depends on the ability of dislocations to move
+▣Restricting or hindering dislocation motion renders a material harder and stronger
+▣Common strategies include:
+▣Grain size reduction
+▣Solid-solution alloying
+▣Strain hardening
+▣These methods are mostly applicable to single-phase metals, while multiphase alloy 
+have more complicated strengthening mechanisms
+Mechanisms of Strengthening
+2026-27 AMSC5720 - Prof. Y. Chen
+26
+
+
+=== PAGE 27 ===
+▣Grain boundaries act as barriers to dislocation motion
+▣At grain boundary  
+▣Slip planes change directions
+▣Discontinuity of slip planes
+▣Reduce grain size: 
+▣Increase grain boundary area More barriers to dislocation motion Increase 
+yield strength, tensile strength & hardness
+Grain Size Reduction
+2026-27 AMSC5720 - Prof. Y. Chen
+27
+
+
+=== PAGE 28 ===
+▣High-purity metals are almost always softer and weaker than alloys composed of the 
+same base metal
+▣Lattice are strained around dislocations
+▣Lattice strain interacts with strains introduced by impurity atoms in solid solutions
+Solid-solution Alloying
+2026-27 AMSC5720 - Prof. Y. Chen
+28
+
+
+=== PAGE 29 ===
+▣Small substitutional impurities introduce local 
+tensile strains
+▣
+Can partially cancel impurity strain (tensile) 
+and dislocation strain (compressive) Higher 
+shear stress required to cause dislocation 
+motion
+▣Large substitutional impurities introduce local
+compressive strains
+▣
+Can partially cancel impurity strain 
+(compressive) and dislocation strain (tensile) 
+Higher shear stress required to cause 
+dislocation motion
+Solid-solution Alloying
+2026-27 AMSC5720 - Prof. Y. Chen
+29
+
+
+=== PAGE 30 ===
+▣Plastically deforming most metals at room temperature makes them harder and 
+stronger
+▣Strain hardening is also called cold working
+▣Often deformed by reduction in cross-sectional area 
+Strain Hardening
+2026-27 AMSC5720 - Prof. Y. Chen
+30
+Rolling
+roll
+roll
+▣The dislocation density, total length per unit volume, 
+increases with increasing deformation
+▣
+e.g. 
+Dislocation density in undeformed metal: 105-106 mm-2
+Dislocation density in cold-worked metal: 109-1010 mm-2

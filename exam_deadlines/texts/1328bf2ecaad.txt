@@ -1,0 +1,1723 @@
+=== PAGE 1 ===
+CC BY
+Oleksandr Savateev
+savateevgroup.com
+光催化中的材料
+AMSC 5730 　先进材料前沿
+中文译本｜与原课件102 页逐页对应；正文及主要公式用LaTeX 重排，图形与文献署名保留。
+
+
+=== PAGE 2 ===
+CC BY
+2
+Oleksandr Savatieiev (EN)
+(Олександр Саватєєв, UKR)
+Angew. Chem. Int. Ed. 2020.
+研究兴趣
+• 光化学与光催化
+• 有机化学
+• 材料科学
+材料化学的新概念：
+Angew. Chem. Int. Ed. 2021.
+→超过10 种新的光催化反应，其中包括：
+
+
+=== PAGE 3 ===
+CC BY
+3
+课程内容
+1. 引言
+• 催化、光化学与光催化。
+• 自发与非自发化学反应。
+• 利用光催化驱动非自发反应。
+2. 光催化的一般机制
+• 光子吸收。
+• 电子–空穴对的分离。
+• 氧化还原反应。
+3. 课堂测验
+
+
+=== PAGE 4 ===
+CC BY
+4
+什么是催化？
+Catalysis（催化）：利用催化剂引导化学反应的方法。
+Catalyst（催化剂）：加快化学反应且自身不被净消耗的物质。
+例如，过氧化氢酶（一种酶，即生物催化剂）促进以下反应：
+2H2O2 ⇌2H2O+O2 ↑
+
+
+=== PAGE 5 ===
+CC BY
+5
+Adapted from Practical Science https://www.youtube.com/watch?v=cIjGhK-ojLY and Photosiber https://elements.envato.com/bright-sun-shines-on-the-grape-leaves-C42VEBS
+什么是光化学？
+• 研究光化学反应的化学分支。
+• 光化学反应是由光促成的反应。
+CaCl2 + 2NaOH ⇌Ca(OH)2 ↓+2NaCl
+• 该反应在完全黑暗或强光下均可进行。
+• 光不参与这一化学转化。
+• 因此，这不是光化学反应。
+6CO2 + 6H2O + hν ⇌C6H12O6 + 6O2
+• 光合作用不能在黑暗中进行。
+• 这是光化学反应；更准确地说，是光催化
+反应。
+
+
+=== PAGE 6 ===
+CC BY
+6
+什么是光催化？
+Photocatalysis（光催化）：利用光和媒介物质（光催化剂）驱动化学反应的一类催化过程。
+
+
+=== PAGE 7 ===
+CC BY
+7
+https://airodoctor.com/v10p-id-induct-airpurifier-fanless-antiviral/
+https://i0.wp.com/chem.cuhk.edu.hk/wp-content/uploads/Yu-photo2_full.jpg?w=750&ssl=1
+商业产品中的光催化
+• 光催化是学术研究中的热门课题。
+• 光催化已应用于商业产品，例如空气净化产品：
+Jimmy Yu 教授
+
+
+=== PAGE 8 ===
+CC BY
+8
+George, M. W. et al. Chem Sci 2011, 2, 1059-1067.
+Noël, T.; Gelonch, M. E.; Huvaere, K. In Photochemical Processes in Continuous-Flow Reactors, pp 245-267.
+Stan Shebs, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
+https://a.cdnsbn.com/images/products/martl/187936489023170.jpg
+O
+CO2H
+Cl
+Cl
+Cl
+Cl
+O
+HO
+I
+I
+I
+I
+化工与制药工业中的光催化
+玫瑰醚的合成：Dragoco 工艺。
+• 使用Rose Bengal（孟加拉玫瑰红）进行光催化。
+• 年产60–100 吨（从保加利亚玫瑰中提取1 kg 精油需约3000 kg 植
+物原料）。
+• 使用5 kW 汞灯。
+孟加拉玫瑰红（光催化剂）
+译注：本页及第9–11 页的产量、价格和工艺数据均为课件所载历史资料，未作为当前数据更新。
+β-香茅醇
+氢过氧化物（3:2）
+玫瑰醚
+（总收率54%）
+
+
+=== PAGE 9 ===
+CC BY
+9
+Noël, T.; Gelonch, M. E.; Huvaere, K. In Photochemical Processes in Continuous-Flow Reactors, pp 245-267.
+https://www.nobelprize.org/images/tu-13648-portrait-medium.jpg
+N
+NH
+N
+HN
+Me
+H
+H
+H
+HO
+O
+Me
+Me
+H
+H
+H
+O
+O
+Me
+Me
+Me
+H
+O
+H
+O
+O
+Me
+H
+O
+Me
+O
+EtO
+O
+TPP
+h
+O2
+化工与制药工业中的光催化
+四苯基卟啉
+（TPP，光催化剂）
+• TPP 产生单线态氧。
+• 2011 年：中试装置，每批50 kg。
+• 2014 年：大规模装置，每批370 kg，年产60 吨。
+• 350–400 欧元/kg（天然提取青蒿素约250 欧元/kg）。
+青蒿酸
+青蒿素
+（1）非对映选择性氢化
+（2）形成酸酐
+光氧化
+青蒿素的合成：赛诺菲工艺。
+2015 年诺贝尔生理学或医学奖：
+“因发现治疗疟疾的新疗法”。
+屠呦呦
+
+
+=== PAGE 10 ===
+CC BY
+10
+Noël, T.; Gelonch, M. E.; Huvaere, K. In Photochemical Processes in Continuous-Flow Reactors, pp 245-267.
+[Ir(dF-CF -ppy) (dtbpy)](PF )
+化工与制药工业中的光催化
+默克的光氧化还原催化：合成Elbasvir（艾尔巴韦）前体。
+> 900 欧元/g（光催化剂）
+• 全氟烷氧基（PFA）管：内径3.2 mm，长度15.24 m，体积150 mL；
+LED 波长440 nm。
+• 用于治疗丙型肝炎；12 周疗程费用为54,600 美元。
+
+
+=== PAGE 11 ===
+CC BY
+11
+Noël, T.; Gelonch, M. E.; Huvaere, K. In Photochemical Processes in Continuous-Flow Reactors, pp 245-267.
+化工与制药工业中的光催化
+默克的光氧化还原催化：合成γ-氟亮氨酸。
+• PFA 管：内径3.2 mm，长度440 m，体积3.5 L。
+• 产率最高达2.7 kg h−1。
+• LED 电功率2.2 kW（24%，原文括注）。
+Na4W10O32（光催化剂）
+
+
+=== PAGE 12 ===
+CC BY
+12
+光催化
+根据光催化剂利用紫外–可见光能量驱动反应的机制，可分为：
+（1）Photoredox catalysis（光氧化还原催化）：光催化剂吸收光子形成电子激发态，进而介导反应物的氧化还
+原反应。课件指出，已报道的大多数光催化反应属于此类。
+（2）Energy transfer，EnT（能量转移）：光催化剂（此时常称为“光敏剂”）吸收光子形成电子激发态，随后
+将能量传递给反应物。
+（3）Atom transfer（原子转移）：光催化剂吸收光子形成电子激发态，从反应物中夺取一个原子（通常为氢原
+子），再将其转移给另一底物。
+
+
+=== PAGE 13 ===
+CC BY
+13
+光催化
+作用方式（反应机制）取决于所用光催化剂和反应物的化学结构。
+• 同一分子可充当光氧化还原催化剂，也可充当光敏剂，具体取决于反应物的化学结构——即“手与手套相匹
+配”的概念。
+
+
+=== PAGE 14 ===
+CC BY
+14
+课程内容
+1. 引言
+• 催化、光化学与光催化。
+• 自发与非自发化学反应。
+• 利用光催化驱动非自发反应。
+2. 光催化的一般机制
+• 光子吸收。
+• 电子–空穴对的分离。
+• 氧化还原反应。
+3. 课堂测验
+
+
+=== PAGE 15 ===
+CC BY
+15
+自发反应与非自发反应
+• 化学反应可分为自发反应（原文：实际会发生）和非自发反应（原文：仅以反应方程式存在于纸面）。
+译注：自发性是给定条件下的热力学判据，不等于反应会立即发生；非自发过程也可由外界能量驱动。
+
+
+=== PAGE 16 ===
+CC BY
+16
+BerkeleyChemDemos. https://www.youtube.com/watch?v=TS-I9KrUjB0
+自发反应与非自发反应
+HCl(aq) + NaOH(aq) ⇌NaCl(aq) + H2O(l)
+CH4(g) + 2O2(g) ⇌CO2(g) + 2H2O(g)
+• 正向反应为自发反应：
+酸（HCl）与碱（NaOH）之间的反应称为中和反应。
+• 逆向反应为非自发反应：
+海水是氯化钠（NaCl，约3 wt.%）的水溶液。
+• 正向反应为自发反应：
+甲烷（CH4）确实能够在空气（O2）中燃烧。
+• 逆向反应为非自发反应：
+气泡水是二氧化碳（CO2）溶于水（H2O）形成的溶液。
+
+
+=== PAGE 17 ===
+CC BY
+17
+自发反应与非自发反应
+光催化可以驱动在标准条件（T = 298 K，即约25 ◦C；P = 1 bar）下非自发的反应。
+
+
+=== PAGE 18 ===
+CC BY
+18
+课程内容
+1. 引言
+• 催化、光化学与光催化。
+• 自发与非自发化学反应。
+• 利用光催化驱动非自发反应。
+2. 光催化的一般机制
+• 光子吸收。
+• 电子–空穴对的分离。
+• 氧化还原反应。
+3. 课堂测验
+
+
+=== PAGE 19 ===
+CC BY
+19
+Nishiyama, H.; Domen, K. et al. Nature 2021, 598, 304–307.
+自发反应与非自发反应
+例如：
+2H2O ⇌2H2 + O2
+• 水分解至少从20 世纪70 年代起就已受到研究。
+• 示范装置。
+100 m2 太阳能示范装置：
+产气速率3.7 L min−1。
+逆向反应（自发）：点燃H2 与O2 的混合气体。
+
+
+=== PAGE 20 ===
+CC BY
+20
+https://cdn.dominant.com.au/images/WHOHandSanitiser_500mL_1200px.jpg
+自发反应与非自发反应
+例如：
+C2H5OH ⇌CH3C(O)H + H2
+乙醇
+乙醛
+• 正向反应在室温下为非自发反应。
+• 正向反应可以制取绿色燃料氢气，以及用途广泛的有机分子乙醛：
+• 低浓度时可作为多种食品和饮料的调味剂。
+• 是化学工业的重要化学品。
+乙醇（C2H5OH）是免洗洗手液的主要成分。
+
+
+=== PAGE 21 ===
+CC BY
+21
+⇌
++𝐻ଶ
+如何驱动非自发反应？
+• 以热的形式输入能量。
+• 按课件给出的热化学计算，乙醇在T > 1000 K（约727 ◦C）时倾向于分解为乙醛和H2。也就是说，由2
+个碳原子、6 个氢原子和1 个氧原子构成的体系，在高于该温度时更倾向于以乙醛和氢分子的形式存在；
+低于该温度时更倾向于以乙醇分子的形式存在。
+T > 727 ◦C 时更有利
+T < 727 ◦C 时更有利
+译注：1000 K 的阈值按课件保留；其热力学条件和计算依据未在原课件中给出。
+
+
+=== PAGE 22 ===
+CC BY
+22
+100
+103
+106
+0ି
+n0
+p+
+p+
+p+
+p+
+p+
+p+
+n0
+n0
+n0
+n0
+n0
+e–
+e–
+e–
+e–
+e–
+e–
+𝑈
+ଽଶ
+ଶଷହ
+𝐵𝑎
+ହ଺
+ଵସଵ
+𝐾𝑟
+ଷ଺
+ଽଶ
+n0
+n0
+n0
+n0
+物理学
+化学／生物学
+物理学
+温度标度（K）
+温度与能量的换算：
+E = kBT
+kB = 8.6 × 10−5 eV K−1
+涉及高活性有机金属试剂（如正丁基锂）
+的反应，常在−80 ◦C（193 K）下进行。
+绝对零度（0 K）
+无法达到
+星系际空间温度
+（宇宙微波背景）：
+2.73 K
+氦的沸点：
+4.22 K
+氮的沸点：
+77.36 K
+冰的熔点：
+273.15 K
+生物过程的温度范围：
+0–45 ◦C
+水的沸点：
+373.15 K
+电石生产温度约2100 ◦C：
+CaO + 3C ⇌CaC2 + CO
+（按元素守恒配平；原式漏写3）
+原子电离：
+106 K
+核裂变反应温度：
+107–108 K
+钨的熔点：
+3695 K
+
+
+=== PAGE 23 ===
+CC BY
+23
+https://cdn.dominant.com.au/images/WHOHandSanitiser_500mL_1200px.jpg
+如何驱动非自发反应？
+例如：
+C2H5OH ⇌CH3C(O)H + H2
+乙醇
+乙醛
+• 将醇转化为相应的羰基化合物并释放H2，在室温下为非自发过程（原文概括）。
+• 再考虑一个概念上类似的例子：
+CH3OH ⇌HC(O)H + H2
+甲醇
+甲醛
+校订：原课件将甲醛误写为H3C(O)H；此处按元素守恒改为HC(O)H（即HCHO）。
+
+
+=== PAGE 24 ===
+CC BY
+24
+Reproduced from Savateev Lab https://www.youtube.com/watch?v=aJc5k3kTJ08 (EN) and https://www.bilibili.com/video/BV1QiBfBjEww/ (普通话)
+视频演示（原PDF 中为黑屏占位，无法恢复动态内容）
+
+
+=== PAGE 25 ===
+CC BY
+25
+课程内容
+1. 引言
+• 催化、光化学与光催化。
+• 自发与非自发化学反应。
+• 利用光催化驱动非自发反应。
+2. 光催化的一般机制
+• 光子吸收。
+• 电子–空穴对的分离。
+• 氧化还原反应。
+3. 课堂测验
+
+
+=== PAGE 26 ===
+CC BY
+26
+光催化如何工作？
+光催化建立在一个简单的思想之上：
+光催化剂吸收光子后，驱动一个还原半反应和一个氧化半反应。
+
+
+=== PAGE 27 ===
+CC BY
+27
+PC
+𝑒ି
+𝑒ି
+2H+ + 
+±2e–
+𝐶ଶ𝐻ହ𝑂𝐻
+𝐶𝐻ଷ𝐶(𝑂)𝐻
+2H+
+H2
+±2e–
+*PC
+ℎ𝑣
+𝑒ି
+ℎା
+𝑒ି
+ℎା
+𝑒ି
+ℎା
+𝑒ି
+ℎା
+*PC
+光催化如何工作？
+光子吸收／
+激子形成
+电子–空穴对
+复合
+反应物
+氧化
+反应物
+还原
+PC：光催化剂基态
+PC∗：光催化剂电子激发态
+电子–空穴对
+分离
+
+
+=== PAGE 28 ===
+CC BY
+28
+课程内容
+1. 引言
+• 催化、光化学与光催化。
+• 自发与非自发化学反应。
+• 利用光催化驱动非自发反应。
+2. 光催化的一般机制
+• 光子吸收。
+• 电子–空穴对的分离。
+• 氧化还原反应。
+3. 课堂测验
+
+
+=== PAGE 29 ===
+CC BY
+29
+https://thebrooklynteacup.com/cdn/shop/articles/the-story-behind-the-iconic-blue-willow-china-pattern-877068.jpg?v=1672987127 
+Krzysztof P. Jasiutowicz, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons
+https://www.foodcraft.hk/cdn/shop/files/Orange-2pc.jpg?v=1688025581
+https://www.foodcraft.hk/cdn/shop/files/Lychee-450g.jpg?v=1750392418 
+颜色
+• 化合物的化学结构决定其带隙Eg，并由此影响其颜色。
+• 这是光催化中“结构–性质（Eg）–活性（所研究反应的量子产率）”关系的核心概念。
+
+
+=== PAGE 30 ===
+CC BY
+30
+颜色与带隙
+引自Quan LI 教授：AMSC 5730《先进材料前沿》课程“课程与主题介绍”，2026 年9 月10 日。
+图内术语：Conduction Band ＝导带；Valence Band ＝价带；Filled Band ＝满带；Semiconductor ＝半导体；Band Gap ＝带隙。
+
+
+=== PAGE 31 ===
+CC BY
+31
+HOMO
+LUMO
+LUMO+1
+LUMO+2
+HOMO-1
+HOMO-2
+CB
+VB
+颜色与带隙
+小分子（< 1 nm）
+10–100 个原子
+量子点（< 10 nm）
+> 104 个原子
+前线轨道
+化学体系的尺寸
+材料（颗粒> 100 nm）
+> 109 个原子
+导带底
+价带顶
+术语：HOMO ＝最高占据分子轨道；LUMO ＝最低未占据分子轨道；CB ＝导带；VB ＝价带。
+能量（eV）
+
+
+=== PAGE 32 ===
+CC BY
+32
+https://solarmagazine.com/wp-content/uploads/2020/02/transparent-solar-glass-panels-MSU.jpg
+https://m.media-amazon.com/images/S/aplus-media-library-service-media/e295f50f-7ed0-4f25-beb1-5769af3f62c7.__CR0,0,600,450_PT0_SX600_V1___.jpg
+Petar Milošević, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+https://glassforum.org/wp-content/uploads/2023/04/sandblasted-glass-used-in-office-partitions-1024x427.jpg
+Lưu Ly, Public domain, via Wikimedia Commons
+颜色
+任何物质或物体均可：
+1）透射光
+2）吸收光
+3）反射光
+4）散射光
+5）发射光
+
+
+=== PAGE 33 ===
+CC BY
+33
+https://solarmagazine.com/wp-content/uploads/2020/02/transparent-solar-glass-panels-MSU.jpg
+https://m.media-amazon.com/images/S/aplus-media-library-service-media/e295f50f-7ed0-4f25-beb1-5769af3f62c7.__CR0,0,600,450_PT0_SX600_V1___.jpg
+Petar Milošević, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+https://glassforum.org/wp-content/uploads/2023/04/sandblasted-glass-used-in-office-partitions-1024x427.jpg
+Lưu Ly, Public domain, via Wikimedia Commons
+颜色
+任何物质或物体均可：
+1）透射光
+2）吸收光
+3）反射光
+4）散射光
+5）发射光
+
+
+=== PAGE 34 ===
+CC BY
+34
+https://easydrawingguides.com/wp-content/uploads/2024/07/human-eye-diagram-05_human-eye-diagram-drawing-tutorial.png
+400
+700
+500
+600
+颜色
+光吸收
+无色玻璃
+二氧化钛（TiO2）
+吸光度
+
+
+=== PAGE 35 ===
+CC BY
+35
+https://image.made-in-china.com/202f0j00HfhbCzeEsUcV/5mm-1500mmx2000mm-Golden-Yellow-Float-Glass-C-Y-.webp
+400
+700
+500
+600
+颜色
+光吸收
+黄色玻璃
+硫（S8）
+吸光度
+
+
+=== PAGE 36 ===
+CC BY
+36
+https://cdn.europeanantiques.co.nz/2024/10/4A392F55-16E5-4966-8C28-91CE27ABE644_1_105_c.jpeg
+400
+700
+500
+600
+颜色
+光吸收
+橙色玻璃
+硫化镉（CdS）
+吸光度
+
+
+=== PAGE 37 ===
+CC BY
+37
+https://estellecoloredglass.com/cdn/shop/products/S_S-303.jpg?v=1600894620
+https://en.wikipedia.org/wiki/File:Chinese_carved_cinnabar_lacquerware.jpg
+11111
+400
+700
+500
+600
+颜色
+光吸收
+红色彩色玻璃
+朱砂（HgS）
+吸光度
+
+
+=== PAGE 38 ===
+CC BY
+38
+https://chairish-prod.freetls.fastly.net/image/product/sized/845ca025-911f-4df5-8f14-dd2018d1da7e/19th-century-french-saint-st-louis-opaque-black-glass-crystal-vase-2206?aspect=fit&width=640&height=640
+Amcyrus2012, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons
+400
+700
+500
+600
+颜色
+光吸收
+黑色玻璃
+煤
+吸光度
+
+
+=== PAGE 39 ===
+CC BY
+39
+Algar, W. R.*; De Jong, C. A. G.; Maxwell, E. J.; Atkins, C. G. J. Chem. Educ. 2016, 93, 162.
+400
+700
+500
+600
+颜色
+互补色轮
+图内色名：red 红、orange 橙、yellow 黄、green 绿、blue 蓝、violet 紫；对置色为互补色。
+吸光度
+
+
+=== PAGE 40 ===
+CC BY
+40
+https://cdn.europeanantiques.co.nz/2024/10/4A392F55-16E5-4966-8C28-91CE27ABE644_1_105_c.jpeg
+400
+700
+500
+600
+颜色
+黄色玻璃
+硫（S8）
+物质呈现颜色，是因为它吸收了入射光电磁光谱中的一部分光子。
+某固体在环境光（暖白光）下呈橙色；在紫光照射下，
+它会呈现什么颜色？
+吸光度
+
+
+=== PAGE 41 ===
+CC BY
+41
+光吸收
+Beer–Lambert law（比尔–朗伯定律）：
+A = log10
+(I0
+I
+)
+= εCl
+其中，I0 为入射光强，I 为透过溶液的光强；C 为物质浓度，单位mol L−1；l 为光程，单位cm；ε 为摩尔消
+光系数，单位L mol−1 cm−1。
+图示：波长（nm）；紫外区／可见区；入射光与透射光。
+
+
+=== PAGE 42 ===
+CC BY
+42
+光吸收
+Beer–Lambert law（比尔–朗伯定律）：
+A = log10
+(I0
+I
+)
+= εCl
+其中，I0 为入射光强，I 为透过溶液的光强；C 为物质浓度，单位mol L−1；l 为光程，单位cm；ε 为摩尔消
+光系数，单位L mol−1 cm−1。
+例如，在410 nm 处：
+ε = 2 × 104 L mol−1 cm−1。
+图示：波长（nm）；紫外区／可见区；入射光与透射光。
+
+
+=== PAGE 43 ===
+CC BY
+43
+光吸收
+• 为什么不同分子会吸收特定波长的光子？
+• 分子的化学结构与其吸收光谱（即它吸收哪些光子）之间是否存在关联？
+
+
+=== PAGE 44 ===
+CC BY
+44
+Becker, R.S. et al. J. Phys. Chem. 1996, 100, 18683–18695.
+𝐼଴
+𝐼
+光吸收
+共轭体系的大小（共轭程度）
+
+
+=== PAGE 45 ===
+CC BY
+45
+Becker, R.S. et al. J. Phys. Chem. 1996, 100, 18683–18695.
+𝐼଴
+𝐼
+光吸收
+共轭体系的大小（共轭程度）
+
+
+=== PAGE 46 ===
+CC BY
+46
+Becker, R.S. et al. J. Phys. Chem. 1996, 100, 18683–18695.
+𝐼଴
+𝐼
+光吸收
+共轭体系的大小（共轭程度）
+
+
+=== PAGE 47 ===
+CC BY
+47
+Becker, R.S. et al. J. Phys. Chem. 1996, 100, 18683–18695.
+𝐼଴
+𝐼
+光吸收
+共轭体系的大小（共轭程度）
+
+
+=== PAGE 48 ===
+CC BY
+48
+Becker, R.S. et al. J. Phys. Chem. 1996, 100, 18683–18695.
+𝐼଴
+𝐼
+光吸收
+共轭体系的大小（共轭程度）
+
+
+=== PAGE 49 ===
+CC BY
+49
+Becker, R.S. et al. J. Phys. Chem. 1996, 100, 18683–18695.
+𝐼଴
+𝐼
+光吸收
+共轭体系的大小（共轭程度）
+
+
+=== PAGE 50 ===
+CC BY
+50
+Becker, R.S. et al. J. Phys. Chem. 1996, 100, 18683–18695.
+𝐼଴
+𝐼
+光吸收
+共轭体系的大小（共轭程度）
+
+
+=== PAGE 51 ===
+CC BY
+51
+Becker, R.S. et al. J. Phys. Chem. 1996, 100, 18683–18695.
+𝐼଴
+𝐼
+𝜆= 515 𝑛𝑚
+光吸收
+普朗克–爱因斯坦关系：
+共轭体系的大小（共轭程度）
+Eg = hc
+λ =
+1240
+λ (nm) = 1240
+515 = 2.41 eV
+
+
+=== PAGE 52 ===
+CC BY
+52
+𝐸௚= 2.43 𝑒𝑉
+颜色、光吸收与能隙
+引自Quan LI 教授：AMSC 5730《先进材料前沿》课程“课程与主题介绍”，2026 年9 月10 日。
+图内术语：导带、价带、满带、半导体；本页保留原图标值2.43 eV，与前页算例2.41 eV 不强行统一。
+
+
+=== PAGE 53 ===
+CC BY
+53
+Becker, R.S. et al. J. Phys. Chem. 1996, 100, 18683–18695.
+𝐸௚= 4.86 𝑒𝑉
+𝐸௚= 3.54 𝑒𝑉
+𝐸௚= 3.06 𝑒𝑉
+𝐸௚= 2.76 𝑒𝑉
+𝐸௚= 2.58 𝑒𝑉
+𝐸௚= 2.48 𝑒𝑉
+𝐸௚= 2.41 𝑒𝑉
+光吸收
+普朗克–爱因斯坦关系：
+共轭体系的大小（共轭程度）
+Eg = hc
+λ =
+1240
+λ (nm) eV
+无限大的共轭
+体系，其Eg
+会等于零吗？
+
+
+=== PAGE 54 ===
+CC BY
+54
+Robert A. Rohde, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons https://upload.wikimedia.org/wikipedia/commons/e/e7/Solar_spectrum_en.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+光吸收
+为什么在某些情况下，光催化剂的带隙越窄越有利？
+图内术语：UV 紫外、Visible 可见、Infrared 红外；太阳大气层顶光谱、5780 K 黑体、海平面太阳光谱；横轴波长，纵轴辐照度。
+
+
+=== PAGE 55 ===
+CC BY
+55
+Becker, R.S. et al. J. Phys. Chem. 1996, 100, 18683–18695.
+Wong, X. L.; Sarjadi, M. S. J. Phys.: Conf. Ser. 2019, 1358, 012006. doi: 10.1088/1742-6596/1358/1/012006.
+𝛼3
+DTBT
+DTBT
+𝛼3
+𝐸௚= 2.41 𝑒𝑉
+𝐸௚= 3.06 𝑒𝑉
+给体–受体体系
+λ = 515 nm
+Eg = hc
+λ = 1240
+515 = 2.41 eV
+2,1,3-苯并噻二唑
+（受体）
+噻吩（给体）
+
+
+=== PAGE 56 ===
+CC BY
+56
+D. Ye et al. Molecules 2023, 28, 2203.
+Y. Xie et al. Adv. Func. Mater. 2024, 34, 2411077.
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+给体–受体体系
+受体
+给体
+受体
+给体
+给体–受体概念适用于零维分子、一维线性聚合物、二维共价三嗪框架（CTF），以及三维材料。
+零维：分子
+三维
+二维：CTF
+受体
+给体
+一维：聚合物
+
+
+=== PAGE 57 ===
+CC BY
+57
+https://www.adda247.com/jobs/wp-content/uploads/sites/2/2022/12/14212708/Father-of-Genetics-1.png
+S
+O
+O
+sp3
+给体–受体体系
+充当电子密度给体的分子片段。
+• 这类片段富电子，通常包含：
+• 给电子基团，如R2N−、RO−、RS−等；原文以sp3 杂化杂原子上的孤电子对解释其给电子作用。
+• 电负性较低的元素，例如S、Se。
+噻吩类
+环戊二噻吩类
+苯并二噻吩类
+芴类
+苯胺类
+sp3 杂化N 原子上的孤电子对
+（原文表述）
+sp3 杂化O 原子上的孤电子对
+给电子基团
+给电子基团
+译注：原文对杂化方式作了简化；芳胺的孤电子对可参与共轭，不能一概按孤立sp3 氮理解。
+
+
+=== PAGE 58 ===
+CC BY
+58
+https://www.adda247.com/jobs/wp-content/uploads/sites/2/2022/12/14212708/Father-of-Genetics-1.png
+N
+N
+N
+R
+N
+N
+R
+R
+N
+O
+O
+sp2
+给体–受体体系
+充当电子密度受体的分子片段：
+• 这类片段缺电子，通常包含：
+• 吸电子基团，如N≡C−、羰基、羧基、酰胺基等；原文概括为含sp2 杂化的N、O 原子。
+• 氟原子（氟是电负性最大的元素）。
+R
+sp2 杂化N 原子
+吸电子基团
+苯并三唑类
+2,1,3-苯并噻二唑类
+喹喔啉类
+邻苯二甲酰亚胺类
+间苯二甲腈类
+sp2 杂化N 原子
+sp2 杂化O 原子
+译注：腈基C≡N 中的C、N 为sp 杂化；原文对所有吸电子基团的sp2 概括不适用于腈基。
+
+
+=== PAGE 59 ===
+CC BY
+59
+M. C. Scharber, N. S. Sariciftci, Adv. Mater. Technol. 2021, 6, 2000857
+给体–受体体系
+与仅由给体单元或仅由受体单元构成的材料相比，为什么给体–受体体系的带隙会减小？
+较宽Eg
+较宽Eg
+较窄Eg
+
+
+=== PAGE 60 ===
+CC BY
+60
+102% Yield, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons https://upload.wikimedia.org/wikipedia/commons/b/bd/%CE%92-Carotene_powder.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+光吸收
+有目的地减小材料带隙的方法：
+（1）增大共轭程度。
+（2）依次引入给电子基团与吸电子基团。
+β, β-胡萝卜素
+
+
+=== PAGE 61 ===
+CC BY
+61
+课程内容
+1. 引言
+• 催化、光化学与光催化。
+• 自发与非自发化学反应。
+• 利用光催化驱动非自发反应。
+2. 光催化的一般机制
+• 光子吸收。
+• 电子–空穴对的分离。
+• 氧化还原反应。
+3. 课堂测验
+
+
+=== PAGE 62 ===
+CC BY
+62
+R. J. Pandhare, S. N. Sonavane, P. M. Badani, R. M. Kamble J. Photochem. Photobiol. A, 2026, 476, 117101.
+LUMO
+HOMO
+HOMO
+LUMO
+CB
+VB
+电子–空穴对的分离
+受体
+给体
+• 价带（或HOMO）局域在富电子的分子片段上。
+• 导带（或LUMO）局域在缺电子的分子片段上。
+能量（eV）
+
+
+=== PAGE 63 ===
+CC BY
+63
+ℎା
+𝑒ି
+N
+N
+S
+S
+N
+S
+h
+电子–空穴对的分离
+电子–空穴对
+分离
+光子吸收／
+激子形成
+电子–空穴对
+复合
+吸收一个光子，使一个电子由价带（或HOMO）跃迁至导带（或LUMO）。
+
+
+=== PAGE 64 ===
+CC BY
+64
+电子–空穴对的分离
+用什么方法定量评价激子分离成电子–空穴对的效率？
+如果半导体具有较强的光致发光，可以采用变温光致发光测量。
+
+
+=== PAGE 65 ===
+CC BY
+65
+S. Mazzanti et al. ACS Catal. 2021, 11, 11109–11116.
+Maxim Bilovitskiy, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons https://upload.wikimedia.org/wikipedia/commons/c/c2/Fluorescence_rainbow.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+(𝑆ଵ →𝑆଴)
+FL
+(𝑆ଵ →𝑆଴)
+(𝑇ଵ →𝑆଴)
+𝑆଴
+∆𝐸ௌ்
+(𝑆଴ →𝑆ଵ)
+𝑆ଵ
+ISC
+(𝑆ଵ →𝑇ଵ)
+𝑇ଵ
+雅布隆斯基能级图
+该图示意分子或材料（光催化剂）吸收光子之后可能发生的过程。
+非辐射跃迁
+非辐射跃迁
+激发
+RISC
+(T1 →S1)
+PH
+(T1 →S0)
+• FL：荧光。
+• PH：磷光。
+• ISC：系间窜越。
+• RISC：反向系间窜越。
+溶液的荧光
+薄膜的荧光
+校订：RISC 为T1 →S1；辐射跃迁T1 →S0 为磷光（PH），原图的ISC 标记已更正。
+能量（eV）
+
+
+=== PAGE 66 ===
+CC BY
+66
+E. Bozkurt, H. I. Gul. J. Photochem. Photobiol. A: Chemistry, 2019, 383, 111996.
+0
+𝜆 (𝑛𝑚)
+𝐼଴
+𝐼ଵ
+𝐼ଶ
+𝐼ଷ
+电子–空穴对的分离
+• 荧光强度与温度有关。
+• 通常在低温（如80 K，约−193 ◦C）下较强，在较
+高温度（如室温）下较弱。
+强度（任意单位）
+
+
+=== PAGE 67 ===
+CC BY
+67ି
+𝑒ି
+ℎା
+𝑒ି
+ℎା
+𝑒ି
+ℎା
+𝑒ି
+ℎା
+ℎ𝑣
+ℎ𝑣
+𝑒ି
+ℎା
+𝑒ି
+ℎା
+电子–空穴对的分离
+为什么荧光具有温度依赖性？
+• 随着温度升高，热能kBT 可克服束缚电子–空穴对的库仑吸引。这里kB = 1.38 × 10−23 J K−1 为玻尔兹曼常
+数，T 为温度（K）。
+• 激子由此解离成自由电荷载流子，经非辐射复合使发光减弱。原文将其描述为复合时释放热量（较长波长的
+电磁辐射），而非可见光（较短波长的电磁辐射）。
+高温T
+低温T
+热
+热
+译注：非辐射弛豫主要把能量传给振动或晶格；不必等同于发射长波电磁辐射。原文机制表述在上方保留。
+
+
+=== PAGE 68 ===
+CC BY
+68ି
+电子–空穴对的分离
+• 积分光致发光（PL）强度与温度T 的关系，可用修正的Arrhenius（阿伦尼乌斯）方程描述：
+I(T) =
+I0
+1 + A exp
+(
+−Eb
+kBT
+)
+或
+ln
+( I0
+I(T) −1
+)
+= ln A −Eb
+kBT
+其中，I(T) 为温度T 时的积分PL 强度；I0 为极低温度下的最大PL 强度（接近0 K，此时非辐射通道被冻
+结）；A 为无量纲拟合常数，即与辐射和非辐射寿命之比有关的指前因子；kB = 1.38 × 10−23 J K−1；Eb 为激
+子束缚能，类似于化学反应的活化能。
+译注：热猝灭拟合得到的是模型下的活化能；将其解释为激子束缚能，需要激子解离主导等物理前提。
+
+
+=== PAGE 69 ===
+CC BY
+69
+电子–空穴对的分离
+• 对以下关系进行线性拟合：
+ln
+( I0
+I(T) −1
+)
+= f
+( 1
+kBT
+)
+斜率为−Eb，截距为ln A。
+校订：由第68 页公式，斜率为−Eb。原图误画成正斜率；本页按同一方程重绘。
+1/(kBT) (J−1)
+ln[I0/I(T) −1]
+ln A
+斜率= −Eb
+0
+
+
+=== PAGE 70 ===
+CC BY
+70
+电子–空穴对的分离
+Eb 的典型值是多少？
+
+
+=== PAGE 71 ===
+CC BY
+71
+Cheng, H. et al. Adv. Mater. 2022, 34, 2107480.
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+n
+n
+n
+n
+n
+n
+n = 0
+n = 1
+n = 2
+𝐸௕= 95 𝑚𝑒𝑉
+𝐸௕= 60 𝑚𝑒𝑉
+𝐸௕= 24 𝑚𝑒𝑉
+电子–空穴对的分离
+• Eb 通常为几十至几百meV。
+• 在298 K 时，kBT = 1.38 × 10−23 × 298 ≈4.1 × 10−21 J ≈26 meV（1 eV = 1.6 × 10−19 J）。
+• 当材料的Eb 为几十meV 时，激子可较有效地解离成自由电子–空穴对。
+
+
+=== PAGE 72 ===
+CC BY
+72
+电子–空穴对的分离
+有哪些降低Eb 的设计原则（这通常有利于光催化剂）？
+
+
+=== PAGE 73 ===
+CC BY
+73
+电子–空穴对的分离
+（1）增大共轭长度。
+当分子从小分子或低聚物转变为延伸的聚合物骨架时，连续的π 电子体系随之扩展。光生电子与空穴因此可
+以沿骨架相距更远，增大激子半径，从而减弱两者之间的库仑吸引。
+
+
+=== PAGE 74 ===
+CC BY
+74
+电子–空穴对的分离
+（2）构筑具有明确给体和受体片段的材料。
+吸光后发生分子内电荷转移：电子倾向于局域在受体单元上，空穴则局域在给体单元上。
+
+
+=== PAGE 75 ===
+CC BY
+75
+课程内容
+1. 引言
+• 催化、光化学与光催化。
+• 自发与非自发化学反应。
+• 利用光催化驱动非自发反应。
+2. 光催化的一般机制
+• 光子吸收。
+• 电子–空穴对的分离。
+• 氧化还原反应。
+3. 课堂测验
+
+
+=== PAGE 76 ===
+CC BY
+76
+ℎା
+𝑒ି
+N
+N
+S
+S
+N
+S
+h
+N
+N
+S
+S
+N
+S
+𝑒ି
+氧化还原反应
+电子–空穴对
+分离
+光子吸收／
+激子形成
+电子–空穴对
+复合
+反应物氧化
+反应物还原
+光催化剂的电子激发态能够驱动氧化还原反应。
+
+
+=== PAGE 77 ===
+CC BY
+77
+氧化还原反应
+• 光催化剂的电子激发态是否能够驱动任意还原反应和氧化反应？
+• 判断还原或氧化反应能否自发进行的热力学条件是什么？
+
+
+=== PAGE 78 ===
+CC BY
+78
+ℎ𝜈
+𝑒ି
+✓ି
+光诱导电子转移
+光催化剂基态
+PC
+反应物基态D
+（电子给体）
+Photoinduced electron transfer，PET（光诱导电子转移）
+电子转移
+非自发×
+光催化剂
+电子激发态PC∗
+反应物基态D
+电子转移
+自发
+光催化剂
+自由基阴离子
+[PC]•−
+反应物
+自由基阳离子
+[D]•+
+PC∗经还原猝灭发生
+单电子转移（SET）
+校订：图示D →PC∗，光催化剂接受电子，故为还原猝灭；原文误称oxidative quenching（氧化猝灭）。
+能量（eV）
+
+
+=== PAGE 79 ===
+CC BY
+79
+氧化还原反应
+• 光催化剂的HOMO 能量必须低于反应物的HOMO 能量。
+• 光子吸收使电子从光催化剂的HOMO 跃迁到LUMO，并在HOMO 中产生空穴h+。
+• 由于反应物的HOMO 能量高于空穴所在能级，电子从反应物转移到光催化剂电子激发态的过程是自发的。
+按照上述逻辑，光催化剂与反应物的LUMO 应具有怎样的相对能级排列，才能使电子从光催化剂向反应物的
+光诱导转移自发进行？
+
+
+=== PAGE 80 ===
+CC BY
+80
+Diego Delso, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons https://upload.wikimedia.org/wikipedia/commons/c/c5/Cascada_Dynjandi%2C_Vestfir%C3%B0ir%2C_Islandia%2C_2014-08-14%2C_DD_136-
+138_HDR.JPG
+𝐸௚
+氧化还原反应
+光催化剂
+反应物的HOMO
+另一反应物的
+LUMO
+PET 的驱动力
+PET 的驱动力
+为什么较窄的
+Eg 也可能成为
+光催化剂的缺
+点？
+能量（eV）
+
+
+=== PAGE 81 ===
+CC BY
+81
+氧化还原反应
+光催化剂的化学结构与其HOMO–LUMO 能级之间是否存在关联？
+
+
+=== PAGE 82 ===
+CC BY
+82
+N
+N
+S
+S
+N
+S
+H3CS
+H3CS
+H3CS
+H3CS
+OCH3
+F
+F
+F
+F
+F
+F
+F
+F
+OCH3
+HOMO–LUMO 能级的变化规律
+光催化剂的化学结构与HOMO–LUMO 能级的关联：
+• HOMO 所在分子片段的电子密度越低，该分子轨道的能量越低；反之亦然。
+• LUMO 所在分子片段的电子密度越高，该分子轨道的能量越高；反之亦然。
+与左侧参考分
+子相比，这样的
+结构修饰会怎
+样影响HOMO–
+LUMO 能级？
+
+
+=== PAGE 83 ===
+CC BY
+83
+HOMO–LUMO 能级的变化规律
+利用这一规律，可以调节一系列结构相近的光催化剂的HOMO–LUMO 能级：
+（1）在HOMO 所在分子片段上引入吸电子基团，降低其电子密度，可使HOMO 能量相对于参考材料降低；
+反之亦然。这种结构变化使光生空穴具有更强的氧化能力。
+（2）在LUMO 所在分子片段上引入给电子基团，提高其电子密度，可使LUMO 能量相对于参考材料升高；反
+之亦然。这种结构变化使光生电子具有更强的还原能力。
+
+
+=== PAGE 84 ===
+CC BY
+84
+J. Z. Low; B. Capozzi; J. Cui; S. Wei; L. Venkataraman; L. M. Campos, Chem. Sci. 2017, 8, 3254–3259.
+HOMO–LUMO 能级的变化规律
+
+
+=== PAGE 85 ===
+CC BY
+85
+J. Z. Low; B. Capozzi; J. Cui; S. Wei; L. Venkataraman; L. M. Campos, Chem. Sci. 2017, 8, 3254–3259.
+0
+−2
+−3
+−4
+−5
+−6
+−3.6
+−5.1
+−3.0
+−5.0
+−2.8
+−5.0
+HOMO–LUMO 能级的变化规律
+给体
+受体
+HOMO 位于给体。
+LUMO 位于受体。
+注意“更低／更
+高”的含义！
+更低：数值更负，
+更稳定。
+更高：数值较不
+负，较不稳定。
+能量（eV）
+
+
+=== PAGE 86 ===
+CC BY
+86
+J. Z. Low; B. Capozzi; J. Cui; S. Wei; L. Venkataraman; L. M. Campos, Chem. Sci. 2017, 8, 3254–3259.
+HOMO–LUMO 能级的变化规律
+缺电子
+程度较
+低
+给体
+受体
+• 给体的化学结构几乎相同（C6H13 基团用于提高这些D–A 共轭体系在溶剂中的溶解性），因此三者的
+HOMO 能量几乎相同，约为−5.0 至−5.1 eV。
+• 从左到右，受体的化学结构由较不缺电子变为更缺电子，因此LUMO 能量逐渐移向更负的数值：
+−2.8 →−3.0 →−3.6 eV。
+缺电子
+程度更高
+受体
+
+
+=== PAGE 87 ===
+CC BY
+87
+HOMO–LUMO 能级的变化规律
+缺电子
+程度较
+低
+给体
+受体
+对于这些物质作为光催化剂驱动下列反应的能力，你能得出什么结论？
+（1）氧化反应
+（2）还原反应
+缺电子
+程度更高
+受体
+
+
+=== PAGE 88 ===
+CC BY
+88
+反应效率的定量表征
+如何定量评价某一化学反应的效率？
+
+
+=== PAGE 89 ===
+CC BY
+89
+反应效率的定量表征
+11.1 g 氯化钙（CaCl2）与过量碳酸钠反应，分离得到9.00 g 碳酸钙（CaCO3）。碳酸钙的收率是多少？
+CaCl2 + Na2CO3 ⇌CaCO3 ↓+2NaCl
+
+
+=== PAGE 90 ===
+CC BY
+90
+反应效率的定量表征
+CaCl2 + Na2CO3 ⇌CaCO3 ↓+2NaCl
+解：
+11.1 g
+9.00 g
+由于Na2CO3 过量，CaCl2 是限量反应物。
+CaCl2 的物质的量：
+CaCO3 的理论物质的量：
+CaCO3 的实际物质的量：
+CaCO3 的收率：
+n(CaCl2) = m(CaCl2)
+M(CaCl2) = 11.1
+111 = 0.1 mol
+ntheor(CaCO3) = n(CaCl2) = 0.1 mol
+nactual(CaCO3) = m(CaCO3)
+M(CaCO3) = 9.00
+100 = 0.09 mol
+η = nactual(CaCO3)
+ntheor(CaCO3) × 100% = 0.09
+0.1 × 100% = 90%
+111 g mol−1
+100 g mol−1
+
+
+=== PAGE 91 ===
+CC BY
+91
+反应效率的定量表征
+如何定量评价光催化剂在某一反应中的效率？
+
+
+=== PAGE 92 ===
+CC BY
+92
+反应效率的定量表征
+• 光催化剂的效率可用Quantum yield，QY（量子产率）表征。
+• 量子产率定义为：光化学反应中生成的产物分子数，与反应物吸收的光子数之比。
+ϕ =
+n(产物)
+n(吸收的光子)
+译注：式中光子数指实际被体系吸收的光子数；以入射光子数为分母时，应区分表观量子产率。
+
+
+=== PAGE 93 ===
+CC BY
+93଼ିି
+反应效率的定量表征
+例如：
+• 利用普朗克–爱因斯坦关系，可以计算每秒到达光反应器表面的光子物质的量（mol）。
+1）单个550 nm 光子的能量：
+E = hc
+λ = 6.63 × 10−34 × 3 × 108
+550 × 10−9
+= 3.61 × 10−19 J
+2）若LED 光功率为10 W，每秒（t = 1 s）以550 nm 光子的形式发出10 J 能量。因
+此，每秒发射的光子数为：
+˙N = OP
+E =
+10
+3.61 × 10−19 = 2.77 × 1019 s−1
+3）相应的光子物质的量速率为：
+˙n =
+˙N
+NA
+= 2.77 × 1019
+6.02 × 1023 = 4.59 × 10−5 mol s−1
+校订：以˙N、˙n 明确表示每秒的光子数和物质的量；OP 为光功率，NA 为阿伏伽德罗常数。
+
+
+=== PAGE 94 ===
+CC BY
+94
+反应效率的定量表征
+4）若某反应混合物在上述光子通量下照射50 s，分析测得生成了1.15 × 10−4 mol 产物，
+则量子产率为：
+ϕ =
+1.15 × 10−4
+50 × 4.59 × 10−5 = 0.05 = 5%
+译注：5% 按原例保留；作为吸收量子产率需假设发射光全部到达并被吸收，否则需计入收集效率和吸收比例。
+
+
+=== PAGE 95 ===
+CC BY
+95
+光催化材料的合成
+可靠的bottom-up（自下而上，即由分子片段组装材料）策略建立在常见的合成方法之上：
+（1）亲核试剂与亲电试剂之间的反应。
+（2）由过渡金属（通常为Pd）催化给体和受体分子片段之间的交叉偶联。
+
+
+=== PAGE 96 ===
+CC BY
+96
+https://www.organic-chemistry.org/namedreactions/knoevenagel-condensation.shtm
+光催化材料的合成
+（1）不使用过渡金属的亲核试剂–亲电试剂反应。
+• 经典例子是Knoevenagel condensation（克脑文盖尔缩合）。
+• 需要C–H 酸与碱（生成亲核物种），以及羰基化合物（亲电试剂）。
+译注：碱使C–H 酸去质子化，所得碳负离子／烯醇负离子为亲核物种；原文“碱（亲核试剂）”表述已澄清。
+
+
+=== PAGE 97 ===
+CC BY
+97
+S. Nath; S. Bommakanti; A. Puthukkudi; B. P. Biswal. Chapter 7: Carbon–Carbon Linked Covalent Organic Frameworks in "Covalent Materials and Hybrids: From 0D to 3D", Ed. Bishnu P. Biswal, 2023.
+光催化材料的合成
+（1）不使用过渡金属的亲核试剂–亲电试剂反应。
+• 使用具有多个酸性C–H 位点和多个羰基的分子，可获得线性聚合物、二维或三维结构。
+
+
+=== PAGE 98 ===
+CC BY
+98
+https://www.organic-chemistry.org/namedreactions/stille-coupling.shtm
+光催化材料的合成
+（2）Pd 催化的给体–受体分子片段交叉偶联。
+• Stille coupling（施蒂勒偶联）需要卤代芳烃、有机锡化合物和Pd 催化剂。
+
+
+=== PAGE 99 ===
+CC BY
+99
+https://www.organic-chemistry.org/namedreactions/stille-coupling.shtm
+J. Z. Low; B. Capozzi; J. Cui; S. Wei; L. Venkataraman; L. M. Campos, Chem. Sci. 2017, 8, 3254–3259.
+S
+S
+S
+H3CS
+S
+S
+SCH3
+C6H13
+C6H13
+O
+O
+光催化材料的合成
+（2）Pd 催化的给体–受体分子片段交叉偶联。
+• Stille coupling（施蒂勒偶联）需要卤代芳烃、有机锡化合物和Pd 催化剂。
+
+
+=== PAGE 100 ===
+CC BY
+100
+期末报告建议选题
+1. 如何识别半导体光催化剂中的给电子和受电子单元？
+2. 如何调节半导体的光学带隙？
+3. 如何调节半导体的导带和价带能级？
+4. 有哪些抑制半导体光催化剂中电荷载流子复合的策略？
+5. 有哪些调节半导体光催化剂中激子束缚能的策略？
+6. 如何定量评价半导体光催化剂驱动化学反应的效率？
+
+
+=== PAGE 101 ===
+CC BY
+101
+期末论文建议选题
+1. 给体–受体共轭体系。
+2. 采用自下而上策略制备给体–受体共轭体系。
+3. 半导体光催化中的光诱导电子转移。
+4. 用于表征半导体光催化剂的稳态紫外–可见吸收光谱。
+5. 用于表征半导体光催化剂的稳态光致发光光谱。
+6. 用于表征半导体光催化剂的时间分辨光致发光光谱。
+
+
+=== PAGE 102 ===
+CC BY
+102
+课程内容
+1. 引言
+• 催化、光化学与光催化。
+• 自发与非自发化学反应。
+• 利用光催化驱动非自发反应。
+2. 光催化的一般机制
+• 光子吸收。
+• 电子–空穴对的分离。
+• 氧化还原反应。
+3. 课堂测验

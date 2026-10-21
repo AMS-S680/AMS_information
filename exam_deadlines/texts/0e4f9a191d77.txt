@@ -1,0 +1,167 @@
+=== PAGE 1 ===
+Hydrodynamic Metamaterials
+Lei Xu
+Department of Physics
+The Chinese University of Hong Kong
+[Speaker notes]
+2026/9/22
+
+=== PAGE 2 ===
+1. Multifunctional Hydrodynamic Metamaterial
+Xu et al, PNAS 119 (49), e2207630119, 2022
+[Speaker notes]
+2026/9/22
+
+=== PAGE 3 ===
+E & M Cloak
+Thermal Cloak
+Hydrodynamic Cloak
+Park et al. 
+Physical Review Letters
+, 2019
+R. 
+Schittny
+ et al. 
+Physical Review Letters
+, 2013
+D. Schurig et al. Science, 2006
+Transformation optics
+——
+spatial transformations are converted into spatial anisotropy of material parameters
+Free space
+Invisible Metamaterials
+An invisibility cloak eliminates the disturbance caused by the cloaked object to the external field
+[Speaker notes]
+2026/9/22
+
+=== PAGE 4 ===
+Rotator
+J. Park, et al. PHYS. REV. APPLIED,2019 
+J. Park and Y.S. Song. Extreme Mechanics Letters, 2020 
+Concentrator
+Other types of Invisible Metamaterials
+[Speaker notes]
+2026/9/22
+
+=== PAGE 5 ===
+𝑘
+0
+ 
+𝑘
+𝑟
+,
+𝑘
+𝜃
+ 
+Realizing Multifunctional Metamaterials in Porous Medium Flow
+The flow field is governed by the Laplace equation, which is invariant under many coordinate transformations.
+Porous media offer a broad range of permeability.
+This tunability enables multifunctional metamaterials.
+1
+2
+3
+[Speaker notes]
+2026/9/22
+
+=== PAGE 6 ===
+Realizing Multifunction by Rotating Different Layers
+9-layer device
+Cloak
+Concentrator
+Rotator
+[Speaker notes]
+2026/9/22
+
+=== PAGE 7 ===
+Experimental Realization
+Microfluidic flow
+Visualizing flow with tracer particles
+[Speaker notes]
+2026/9/22
+
+=== PAGE 8 ===
+A 3D Printed Device
+All functions integrated into one single device
+[Speaker notes]
+2026/9/22
+
+=== PAGE 9 ===
+Experiment
+Realizing multifunction by rotating different layers
+[Speaker notes]
+2026/9/22
+
+=== PAGE 10 ===
+2. Realizing the Thinnest Hydrodynamic Cloak
+Mengyao Chen, Xiangying Shen, and Lei Xu, The Innovation 3, no. 4, 100263, 2022.
+
+=== PAGE 11 ===
+Thinnest Hydrodynamic Cloak
+The thickness of cloak is only 0.3% of the hidden region.
+With Cloak
+Without Cloak
+[Speaker notes]
+2026/9/22
+
+=== PAGE 12 ===
+Simulation Versus Experiment
+
+=== PAGE 13 ===
+3. Realizing Passive Cloak in a Free Fluid Flow
+
+=== PAGE 14 ===
+Realizing cloak in a Hele-Shaw cell (Quasi-2D)
+
+=== PAGE 15 ===
+Simulation agrees with experiment
+
+=== PAGE 16 ===
+Comparison between theory, simulation and experiment
+
+=== PAGE 17 ===
+4. Active Hydrodynamic Metamaterial Based on Fluid Dipole
+Chaoran Jiang, Haoran Nie, Mengyao Chen, Xiangying Shen and Lei Xu, Adv. Mater. 2313986, 2025.
+
+=== PAGE 18 ===
+Simulation
+
+=== PAGE 19 ===
+Theoretical Analysis
+(1) Pressure field
+Pressure continuity and 
+ mass conservation at boundary
+The flow has passive and active components. The active component cancels the disturbance from the passive component, giving:
+
+=== PAGE 20 ===
+Experiment
+Full view
+
+=== PAGE 21 ===
+Experiment
+Full view
+Cloak
+Concentrator
+
+=== PAGE 22 ===
+Background
+Cloak
+Concentrator
+Experiment
+
+=== PAGE 23 ===
+Application
+Control particle release by adjusting speed of fluid.
+
+=== PAGE 24 ===
+Application
+
+=== PAGE 25 ===
+Summary
+Multifunctional hydrodynamic metamaterials using a multilayer device
+The thinnest hydrodynamic cloak in porous-medium flow
+Active hydrodynamic metamaterials based on a fluid dipole
+
+=== PAGE 26 ===
+Thank You
+[Speaker notes]
+2026/9/22

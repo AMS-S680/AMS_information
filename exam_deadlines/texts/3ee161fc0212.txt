@@ -1,0 +1,562 @@
+=== PAGE 1 ===
+Phys 5350
+Techniques in
+materials characterization
+Transmission Electron Microscopy (TEM)
+A microscopy technique in which a beam of electrons is 
+transmitted
+ through an 
+ultra-thin
+ specimen, interacting with the specimen as it passes through. 
+					
+[Speaker notes]
+1
+
+=== PAGE 2 ===
+1925, Louis de Broglie, first theorized electron with wave nature  with 
+ 
+< 
+
+ of light.
+1927, Davisson, Germer, Thompson, Reid independently carried out their classic electron diffraction experiment, demonstrating wave nature of electron.
+1932, Knoll, Ruska proposed the idea of TEM in a paper and tried to produce the instrument. Electron lens is the key.
+1933, the resolution limit of the light microscope was surpassed in TEM.
+A brief history of TEM
+Nobel prize 1986
+2
+[Speaker notes]
+2
+
+=== PAGE 3 ===
+1936, Commercial companies developed TEM in UK. Metropolitan-Vickers EM1, the 1st,  not worked  well.
+1939, Siemens and 
+Halske
+ in Germany, started to produce  TEM regularly.
+After 1945, TEM became widely available from other sources, e.g. 
+Hitachi, 
+Jeol
+, Philips 
+and RCA, 
+inter alia.
+1949, the most important development,  
+Heidenreich
+ thinned metal to foil for TEM. Later, 
+Bollman
+ (Switzerland) and Hirsh (Cambridge) developed the method.
+Later, Cambridge group developed the theory of electron diffraction contrast with which we can identify line and planar crystal defects in a quantitative manner. 
+This theoretical work is summarized in a formidable but essential text, Bible of TEM (1977, Hirsch et al).
+For materials scientist, practical applications of TEM for the solution of materials problems were pioneered in USA by Thomas and first clearly expounded
+ 
+in his text (Thomas 1962). Other materials-oriented texts followed, e.g., 
+Edington
+ (1976) and Thomas and 
+Goringe
+ (1979). 
+3
+[Speaker notes]
+3
+
+=== PAGE 4 ===
+4
+How do they look like?
+SEM
+TEM
+
+=== PAGE 5 ===
+5
+Remember the instrumentation of a SEM?
+
+=== PAGE 6 ===
+6
+How about TEM?
+
+=== PAGE 7 ===
+7
+Comparison between SEM and TEM
+Aspects
+SEM
+TEM
+Operating voltage
+10-40KV
+80-1000KV (caution on beam damage)
+Sample
+No specific
+Thin (electron transparency)
+Sample prep
+Polishing
+Thinning & polishing
+Signals
+SE (inelastic)& BSE (elastic) from surface/sub-surface
+PE (elastic& inelastic) from bulk (depth integrated information projected in 2D)
+Detector
+Above sample
+Below sample
+Information
+Surface topography
+Microstructure (crystalline structures, defects, etc.)
+Imaging resolution
+nm
+angstrom
+Both using electrons and detect electrons, relying on magnetic lens, and can be operated in imaging and analytical mode
+
+=== PAGE 8 ===
+8
+TEM specific instrumentation: sample holder
+
+=== PAGE 9 ===
+9
+TEM specific instrumentation: optics
+Typically  0.57
+~10mrad
+.
+All we know about geometry optics hold
+[Speaker notes]
+Elaborating the function of lens
+Behave like glass lens to light rays
+With lens aberrations
+Focal lens can be changes by current (strength of the field)
+Rotation of the image
+9
+
+=== PAGE 10 ===
+Apertures and diaphragms
+Apertures are circular holes in metal disks and the disks are made of either Pt or Mo
+Diaphragms can be either individual disks with a varying diameter aperture, or they can be a series of different apertures in a single metal strip. 
+A metal strip containing several apertures
+Diameter ~10 – 300 
+μ
+m
+Thickness~ 25 – 50 
+μ
+m
+10
+[Speaker notes]
+10
+
+=== PAGE 11 ===
+Only electron paths less than a semi-angle 
+b
+ subtended by the aperture at the object are allowed through the lens.
+ 
+This diagram illustrating how an aperture restricts the angular spread of electrons entering the lens.
+r
+sph
+=C
+s
+ 
+b
+ 
+3
+11
+b
+Apertures and diaphragms
+[Speaker notes]
+11
+
+=== PAGE 12 ===
+1, To limit the collection angle of the lens
+2, To decrease the beam intensity, which may be desired in the case of beam sensitive samples. 
+3, To control the image contrast (Objective aperture, located at the back focal plane of objective lens) 
+4, collects contamination-----gather on the edges, destroying its circular shape.
+12
+Role of apertures
+[Speaker notes]
+12
+
+=== PAGE 13 ===
+13
+Location of apertures
+Objective Aperture
+Selected Area Aperture
+[Speaker notes]
+13
+
+=== PAGE 14 ===
+The resolution of the electron lens
+Resolution is defined as “minimum resolvable distance
+In TEM, the resolution is governed by the 
+ability of the lens 
+to image the object.
+Fundamental Limit
+:
+Electrons accelerated at 100 kV have a relativistic de Broglie wavelength 
+𝜆
+ given by 
+𝜆
+=
+h
+2
+𝑚
+𝑒
+𝑒𝑉
+1
++
+𝑒𝑉
+2
+𝑚
+𝑒
+𝑐
+2
+. 
+This yields 
+𝜆
+≈
+0
+.
+0037
+ nm for 100 kV.
+The diffraction-limited resolution 
+𝑑
+ follows 
+𝑟
+≈
+0
+.
+61
+𝜆
+𝛽
+, 
+where 
+𝛽
+ is the objective aperture semi-angle (typically 5–10 
+mrad
+ in TEM). For 
+𝛽
+≈
+10
+ 
+mrad
+ at 100 kV, 
+𝑑
+≈
+0
+.
+2
+ nm
+ 
+𝑟
+𝑡
+h
+=
+0
+.
+61
+𝜆
+𝑛
+⋅
+sin
+𝛽
+=
+0
+.
+61
+𝜆
+𝛽
+ 
+14
+[Speaker notes]
+14
+
+=== PAGE 15 ===
+If it is not the diffraction limit, what is it?
+Spherical aberration-limited resolution
+𝑟
+(
+β
+)=
+(0.61
+𝜆
+β
+)
+2
++(
+𝐶
+𝑠
+𝛽
+3
+)
+2
+1
+2
+ 
+The overall resolution is 
+r=(r
+2
+th
++r
+2
+sph
+)
+0.5
+             
+The two terms vary differently with the aperture collection 
+semiangle
+ 
+b
+, a compromise value exists when
+𝑑𝑟
+(
+𝛽
+)
+𝑑
+𝛽
+=0
+ 
+15
+The resolution of the electron lens
+Then we got 
+r
+min
+0.91(C
+s
+
+3
+)
+1/4
+For 100 keV, =0.0037 nm, C
+s
+=3 mm, 
+b
+opt
+=4.5 
+mrads
+, 
+r
+min
+~0.6nm
+[Speaker notes]
+15
+
+=== PAGE 16 ===
+16
+Correction of spherical aberration
+Δ
+𝑟
+=
+𝐶
+𝑠
+𝛽
+3
+ 
+b
+Δr
+Spherical aberration is an intrinsic feature of spherical lens
+Spherical aberration coefficient is usually in the range of mm
+
+=== PAGE 17 ===
+17
+The Cs-correctors contain two hexapole lenses (non round lenses)
+The electrons are  deflected symmetrically in a hexapole lenses
+Hexapole lens
+The combination of 
+a round lens (objective lens)  with  
+positive spherical aberration
+  
+and a non-round lens  (corrector) with 
+negative spherical aberration
+ 
+Can be used to  
+to
+ compensate the 
+spherical aberration 
+of the total imaging system (Cs~0)
+The electrons passing the two hexapole lenses in a distance from the optical axis are deflected away from the optical axis, leading to a 
+dispersed
+  beam ( or negative Cs of the corrector).
+Correction of spherical aberration
+[Speaker notes]
+17
+
+=== PAGE 18 ===
+The resolution of the electron lens
+Depends on what is the imaging modes
+Condenser
+Objective
+18
+[Speaker notes]
+18
+
+=== PAGE 19 ===
+Depth of image (focus)
+Suppose the resolution of the viewing screen is 
+s
+M
+ (resolution on object plane is 
+s
+)
+The screen do not need to be placed exactly on the image plane. They could be moved within a distance S/2 from the image plane without 
+detectable loss of sharpness in the image.
+S is the depth of image.
+
+s
+M
+
+Image plane
+S
+
+19
+[Speaker notes]
+19
+
+=== PAGE 20 ===
+Here 
+=/M.
+If 
+
+sM
+=100um, and we want to see details at the 0.2nm level, we need to use a magnification of about 500,000. For a collection 
+semiangle
+ =10 
+mrad
+, we have S=5km!
+Because of this large depth of image, a focused image will be obtained on the photographic plate or CCD camera even though these are some centimeters below the viewing screen, which is normally inclined for focusing.
+
+s
+ and S are related as follows:
+
+s
+M
+
+Image plane
+S
+
+20
+[Speaker notes]
+20
+
+=== PAGE 21 ===
+Depth of field
+Suppose the resolution of the image recording system is 
+s
+M
+And the screen is right on the image plane.
+We define depth of field T as moving the specimen along optic axis within T/2 from the object plane without changing the image sharpness (because of the resolution of the image recording system). Then we have:
+T/2
+T/2
+
+s
+M
+
+Image plane
+T= s/
+21
+[Speaker notes]
+21
+
+=== PAGE 22 ===
+If 
+
+sM
+=100um, and we want to see detail at the 0.2nm level, we need to use a magnification of about 500,000. For a collection 
+semiangle
+ =10 
+mrad
+, we have T= s/ =20nm.
+A specimen of this thickness can all be in focus at the same time.
+If you only need 2nm detail in your image, then you can use a specimen which is 200nm thick and it will all be in focus.
+22
+[Speaker notes]
+22
+
+=== PAGE 23 ===
+Using small apertures, increase depth of image and depth of field.
+The definition of “depth of focus” is different from book to book.
+Notes
+“
+Transmission Electron microscopy
+”, 
+depth of focus = depth of image;
+“
+Transmission Electron Microscopy—Physics of image formation and microanalysis
+”, 
+depth of focus = depth of field
+
+23
+[Speaker notes]
+23
+
+=== PAGE 24 ===
+Display 
+In a conventional TEM, the images and diffraction patterns are static and can be easily projected onto viewing screen.
+The viewing screen in a TEM is coated with a material such as ZnS, which emits light with a wavelength 450 nm.
+How to see Electrons
+24
+Image recording
+Photographic emulsions
+Suspensions of silver halide grains in a gel. The emulsions are usually supported on a polymer film or glass plates. 
+Electrons strike the halide, ionize it, and transform it to silver.
+Digital recorders  
+Charge coupled device
+[Speaker notes]
+24
+
+=== PAGE 25 ===
+Information from TEM
+25
+[Speaker notes]
+25
+
+=== PAGE 26 ===
+Diffraction pattern and Imaging
+26
+Make use of elastically scattered electrons
+[Speaker notes]
+26
+
+=== PAGE 27 ===
+Bright field vs. dark field Imaging
+27
+Make use of elastically scattered electrons
+[Speaker notes]
+27
+
+=== PAGE 28 ===
+Bright field vs. dark field Imaging
+28
+Make use of elastically scattered electrons
+[Speaker notes]
+28
+
+=== PAGE 29 ===
+Example of BF and DF image.
+Left: Bright-field image of martensite immediately after quenching from austenite. The mottled contrast within the plates is due to a high density of dislocations. Right: Corresponding dark-field image showing the distribution of retained austenite. 
+29
+Make use of elastically scattered electrons
+[Speaker notes]
+29
+
+=== PAGE 30 ===
+30
+Make use of elastically scattered electrons
+High Angle Annular Dark Field (HAADF) detector 
+
+=== PAGE 31 ===
+31
+Make use of elastically scattered electrons
+Example of HAADF imaging
+
+=== PAGE 32 ===
+Phase contrast and high-resolution imaging
+Diffracted beams and the primary beam are brought together, their interference leads to an enlarged picture of the periodic potential provided by the periodic atomic structure of the thin crystalline specimen.
+32
+Make use of elastically scattered electrons
+[Speaker notes]
+32
+
+=== PAGE 33 ===
+33
+Make use of elastically scattered electrons
+Electron tomography
+
+=== PAGE 34 ===
+EDX
+The interaction of incident electrons with the sample gives characteristic X-rays of the material. 
+The position of the peak identifies the type of  elements and the peak intensity tells its amount.
+34
+Make use 
+of inelastically scattered electrons
+EELS
+Primary electrons interacted inelastically with the specimen. 
+The energy lost electrons tell us a tremendous amount about the electronic structure of the specimen.
+[Speaker notes]
+34

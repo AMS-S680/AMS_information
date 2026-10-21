@@ -1,0 +1,708 @@
+[
+  {
+    "source": "AMSC5710_Advanced Materials Characterization/AI_answer/assignment2_solutions_zh.pdf",
+    "key": "a740c30d3ad5",
+    "bytes": 405821,
+    "sha256": "3db0f016f981c9545ce949854cd945db84c62c476b81e4ec7993e32e8c3375ed",
+    "kind": ".pdf",
+    "pages": 18
+  },
+  {
+    "source": "AMSC5710_Advanced Materials Characterization/AI_answer/xps_assignment.pdf",
+    "key": "d16e410f1824",
+    "bytes": 581514,
+    "sha256": "f5a20339f24a92c121ee03e9cc6bb158d89f382cbf6c1b9d12f8293933108c49",
+    "kind": ".pdf",
+    "pages": 26
+  },
+  {
+    "source": "AMSC5710_Advanced Materials Characterization/Classwork/1/IMG_0472.HEIC",
+    "key": "c0b2af0d86a4",
+    "bytes": 2227208,
+    "sha256": "17a041a63414968b3ff34a7b7d63df4ca1d98291d769016440bb29fa97ace79f",
+    "kind": ".heic",
+    "pages": 1
+  },
+  {
+    "source": "AMSC5710_Advanced Materials Characterization/Classwork/2/4AB68E3B-6CCE-4551-95B1-613E9607B1E7.JPG",
+    "key": "499c880c5bcd",
+    "bytes": 490816,
+    "sha256": "ad3513b5bd24dccf078618f392530ae2bd211b9362b8e0f5e3d9a99890914192",
+    "kind": ".jpg",
+    "pages": 1
+  },
+  {
+    "source": "AMSC5710_Advanced Materials Characterization/Classwork/3/95db6af6c987aad17b92b7c9d45f20dc.jpg",
+    "key": "e4aef72f9c1d",
+    "bytes": 4571196,
+    "sha256": "d6ef695079479c0d366f7df3c53b1c553656c4d4c341fb6a077fbffe83a82910",
+    "kind": ".jpg",
+    "pages": 1
+  },
+  {
+    "source": "AMSC5710_Advanced Materials Characterization/CN/1_课程介绍_中文版.pdf",
+    "key": "cf1c185df1d7",
+    "bytes": 268904,
+    "sha256": "2e6323979deaec9a70e74376e2ed9e96c8572448e76eb3f8fa4c8f1ed4a8b918",
+    "kind": ".pdf",
+    "pages": 12
+  },
+  {
+    "source": "AMSC5710_Advanced Materials Characterization/CN/2_样品制备_中文版.pdf",
+    "key": "36463cb6219b",
+    "bytes": 5644657,
+    "sha256": "755599e4adae27bc9bb51ad2b403ed8f279352e529c96aceb408d8d280fb2607",
+    "kind": ".pdf",
+    "pages": 89
+  },
+  {
+    "source": "AMSC5710_Advanced Materials Characterization/CN/3_XPS光电子能谱_中文版.pdf",
+    "key": "4a88797c5b9c",
+    "bytes": 8012030,
+    "sha256": "fc2833783770735e73d00e8e879ac035de38bcaa75cd82884fa50e92d1c3e9eb",
+    "kind": ".pdf",
+    "pages": 102
+  },
+  {
+    "source": "AMSC5710_Advanced Materials Characterization/CN/4_UPS_中文版.pdf",
+    "key": "4aacb22db05a",
+    "bytes": 1701650,
+    "sha256": "dd107e0feb0677545b188e928832f7f66f095ea54982aa78abeb1b32b44de765",
+    "kind": ".pdf",
+    "pages": 31
+  },
+  {
+    "source": "AMSC5710_Advanced Materials Characterization/CN/5.AES_中文版.pdf",
+    "key": "22580e0caef3",
+    "bytes": 2145352,
+    "sha256": "b97022a1bb2c4a1c982719831560be7896148d120f265a42430c82d742a136d2",
+    "kind": ".pdf",
+    "pages": 57
+  },
+  {
+    "source": "AMSC5710_Advanced Materials Characterization/CN/6.1_电子显微学导论_原版式中文版(2).pdf",
+    "key": "446e1d82e44d",
+    "bytes": 6901016,
+    "sha256": "49a802c0284de1d7830539a0f139480f57353c30fcd1b5d99dd0f21ad60760a5",
+    "kind": ".pdf",
+    "pages": 17
+  },
+  {
+    "source": "AMSC5710_Advanced Materials Characterization/CN/6.2_扫描电子显微学_原版式中文版(2).pdf",
+    "key": "23882319a220",
+    "bytes": 9891331,
+    "sha256": "7e08a108cb7668a6cb3fc3c034ea787d69d163ba785edb4d71940b4a75f35e66",
+    "kind": ".pdf",
+    "pages": 46
+  },
+  {
+    "source": "AMSC5710_Advanced Materials Characterization/CN/6.3_透射电子显微学_原版式中文版(2).pdf",
+    "key": "732127be7f5e",
+    "bytes": 9445473,
+    "sha256": "5492beca60910fcb1d4cd311f19291cddaa1bcd51ec78d2def900b1b0e58b6da",
+    "kind": ".pdf",
+    "pages": 34
+  },
+  {
+    "source": "AMSC5710_Advanced Materials Characterization/CN/6.4EM_晶体对称性_中文版.pdf",
+    "key": "e97b6deb6c42",
+    "bytes": 1299440,
+    "sha256": "8c443d7f6825601a7951915592a70e56e1458772170ed0b3f7062236ef867825",
+    "kind": ".pdf",
+    "pages": 25
+  },
+  {
+    "source": "AMSC5710_Advanced Materials Characterization/CN/6.5EM_正晶格与倒易晶格_中文版.pdf",
+    "key": "6ba4901ca377",
+    "bytes": 2275880,
+    "sha256": "00e716a8d9e14abf2fcb581bd53792ae40e1816f8a60dd6004fb7ffb06d17019",
+    "kind": ".pdf",
+    "pages": 47
+  },
+  {
+    "source": "AMSC5710_Advanced Materials Characterization/EN/1.CourseIntroduction_5710(1).pptx",
+    "key": "7500b52095f3",
+    "bytes": 310980,
+    "sha256": "ed9f1f68f99a57154b940fd8821a1a1d138de622f111cefb034b417551be6cb4",
+    "kind": ".pptx",
+    "pages": 11
+  },
+  {
+    "source": "AMSC5710_Advanced Materials Characterization/EN/2.SamplePreparation.pptx",
+    "key": "93c71fee943f",
+    "bytes": 13575762,
+    "sha256": "0dceaedddc679a4e736fafbc35c2e844337df2379e866f7353cd9006a37a8221",
+    "kind": ".pptx",
+    "pages": 75
+  },
+  {
+    "source": "AMSC5710_Advanced Materials Characterization/EN/3.1XPS.pptx",
+    "key": "a904d60810a2",
+    "bytes": 8262294,
+    "sha256": "30936463a9e6901341972f30860a81bba54bec32b2f9d7d267ce5dfaaa401214",
+    "kind": ".pptx",
+    "pages": 93
+  },
+  {
+    "source": "AMSC5710_Advanced Materials Characterization/EN/4.UPS(1).pptx",
+    "key": "0bbc8ec8f579",
+    "bytes": 3715339,
+    "sha256": "979b34d7e32a583ef62cb96f72dbe22e071c7f913ce23ad34a445f35be49d317",
+    "kind": ".pptx",
+    "pages": 31
+  },
+  {
+    "source": "AMSC5710_Advanced Materials Characterization/EN/5.AES.pptx",
+    "key": "e56c94e59444",
+    "bytes": 3784407,
+    "sha256": "75662eb3283a903a9419da2c617ac8a61ef7d7b48b9d65707d839d659587ae5d",
+    "kind": ".pptx",
+    "pages": 57
+  },
+  {
+    "source": "AMSC5710_Advanced Materials Characterization/EN/6.1EM_Intro(1).pptx",
+    "key": "d3e6c4c9761a",
+    "bytes": 1932539,
+    "sha256": "5b845833d84570e92a4c8c41d008145ea1b26ee633ec2d40b1fe25daaf4c3ef3",
+    "kind": ".pptx",
+    "pages": 17
+  },
+  {
+    "source": "AMSC5710_Advanced Materials Characterization/EN/6.2EM_SEM(1).pptx",
+    "key": "92c2a4618183",
+    "bytes": 5103925,
+    "sha256": "2617587b90acd408569c71a98d3f9f6ac1bfeeb4881a5b094dee3b0ffddcaed6",
+    "kind": ".pptx",
+    "pages": 46
+  },
+  {
+    "source": "AMSC5710_Advanced Materials Characterization/EN/6.3EM_TEMgeneral.pptx",
+    "key": "3ee161fc0212",
+    "bytes": 7102110,
+    "sha256": "ca817dbe3eef05d8d7269e85470547efb7fde1a688bddfc9675e3730fb55e46c",
+    "kind": ".pptx",
+    "pages": 34
+  },
+  {
+    "source": "AMSC5710_Advanced Materials Characterization/EN/6.4EM_Symmetry(1).pptx",
+    "key": "60b8a718eec0",
+    "bytes": 2497939,
+    "sha256": "13fd0b815a2861db939942b41b20ee48e3c8e4e034af12aaca4bf8c053c6ad9a",
+    "kind": ".pptx",
+    "pages": 25
+  },
+  {
+    "source": "AMSC5710_Advanced Materials Characterization/EN/6.5EM_Direct Lattice and Reciprocal Lattice.pptx",
+    "key": "d107190f2fcf",
+    "bytes": 2032130,
+    "sha256": "adeaaba05bc896138e33758d4fc7ea343c5ced3cf5962c144f9b869d19365bd1",
+    "kind": ".pptx",
+    "pages": 47
+  },
+  {
+    "source": "AMSC5710_Advanced Materials Characterization/Homework/CN/assignment2_questions_zh.pdf",
+    "key": "ed07744d78f5",
+    "bytes": 75478,
+    "sha256": "ffcc2c830c393d3de363af7dabd39c424b806dc128d450bb3c42d4d240ee34ed",
+    "kind": ".pdf",
+    "pages": 1
+  },
+  {
+    "source": "AMSC5710_Advanced Materials Characterization/Homework/EN/Assignment 1 (XPS instrumentation).pdf",
+    "key": "4479b7c57dda",
+    "bytes": 81706,
+    "sha256": "8a1923b681784460f296fbeaebc56a33b8b21f3cecbe1059f1f9b19cdc332aa4",
+    "kind": ".pdf",
+    "pages": 1
+  },
+  {
+    "source": "AMSC5710_Advanced Materials Characterization/Homework/EN/Assignment 2 (XPS and AES).pdf",
+    "key": "f87c05d61d00",
+    "bytes": 5313,
+    "sha256": "be9d389842f8e8d932365bf05c233d05385459ac94f780bb3ce76a8c277934c7",
+    "kind": ".pdf",
+    "pages": 1
+  },
+  {
+    "source": "AMSC5710_Advanced Materials Characterization/Quiz/1/IMG_0612.HEIC",
+    "key": "462021ba97a8",
+    "bytes": 2435324,
+    "sha256": "a7a5ce5647099d6ce90d9cb737b6b96b2c8ddacdf296ffbd5f2e23905453cfa3",
+    "kind": ".heic",
+    "pages": 1
+  },
+  {
+    "source": "AMSC5710_Advanced Materials Characterization/Quiz/1/IMG_0613.HEIC",
+    "key": "cba3a84b8c7b",
+    "bytes": 2652456,
+    "sha256": "177640853c88d5b8d21449e230d8eb8af3478913219232897bdbe27eb15679d7",
+    "kind": ".heic",
+    "pages": 1
+  },
+  {
+    "source": "AMSC5710_Advanced Materials Characterization/Quiz/1/IMG_0614.HEIC",
+    "key": "91cdaabcc08a",
+    "bytes": 2588526,
+    "sha256": "87fdefb056e69895e71bace9c53ed620417e48220645e3bf86d1fb40ffe142b1",
+    "kind": ".heic",
+    "pages": 1
+  },
+  {
+    "source": "AMSC5710_Advanced Materials Characterization/Recording/10.5/XPS_UPS_LEIS 测验讲评与电子.txt",
+    "key": "3c5b15c699a2",
+    "bytes": 218918,
+    "sha256": "b1a0851811b8846463b6467718433395f87d3b9de9f30efb2a04d0094b879be4",
+    "kind": ".txt"
+  },
+  {
+    "source": "AMSC5710_Advanced Materials Characterization/Recording/9.14/基础同传-1(3).txt",
+    "key": "3ccb28967966",
+    "bytes": 176623,
+    "sha256": "a20af5da1ec99ac90b8d2534a4da95a8ba51b3aba926b678c46693d71751c370",
+    "kind": ".txt"
+  },
+  {
+    "source": "AMSC5710_Advanced Materials Characterization/Recording/9.21/recording_1/iTour-04.txt",
+    "key": "3f166a0bf6c3",
+    "bytes": 104673,
+    "sha256": "d82e349862a95fd5c339a0503f24452fc17b269c1bc72104415c58beb7419810",
+    "kind": ".txt"
+  },
+  {
+    "source": "AMSC5710_Advanced Materials Characterization/Recording/9.21/recording_2/XPS与UPS原理及考点.txt",
+    "key": "bf30a284699c",
+    "bytes": 135814,
+    "sha256": "5760782e401ee4bddccfeac14f11313fe27b462fc516e17dbfd35399cdb232c5",
+    "kind": ".txt"
+  },
+  {
+    "source": "AMSC5710_Advanced Materials Characterization/Recording/9.21/recording_2/电子倍增与能带结构.txt",
+    "key": "a1cd1b8b4d04",
+    "bytes": 7996,
+    "sha256": "8bd8ce7ee0d9a9bca7e2915b6cff7cbccad7f0e588c16d21d987f6c3f24ae5ee",
+    "kind": ".txt"
+  },
+  {
+    "source": "AMSC5710_Advanced Materials Characterization/Recording/9.7/基础同传-1.txt",
+    "key": "b28cf1e9c34d",
+    "bytes": 187368,
+    "sha256": "e22337dc1e6778e95c05a0176dd89a4f736d7e33c21cf12dc5cddabc55870aa1",
+    "kind": ".txt"
+  },
+  {
+    "source": "AMSC5720_Advanced Materials Synthesis/CN/AMS5720_Course Introduction_AY26-27.pdf",
+    "key": "c87b28565a77",
+    "bytes": 279112,
+    "sha256": "b6c393ed8c1aad3aef30f098d25d604846fd6a827212f3a98360c02e52cc5e71",
+    "kind": ".pdf",
+    "pages": 7
+  },
+  {
+    "source": "AMSC5720_Advanced Materials Synthesis/CN/AMS5720_Topic_0_Part_2_中文版.pdf",
+    "key": "6e6eb22d2046",
+    "bytes": 6528145,
+    "sha256": "49a4dca17cb5c6c3d09d36de38008ab27ddc320472358f4fe378a0a7f92f512e",
+    "kind": ".pdf",
+    "pages": 11
+  },
+  {
+    "source": "AMSC5720_Advanced Materials Synthesis/CN/AMSC5720_失效、金属力学性能与强化机制_中文版.pdf",
+    "key": "ea8c5a046d19",
+    "bytes": 4135212,
+    "sha256": "9548b945e30432f94e4f0856dbd72a4f4ce563e6889365d1cb3725329a72301d",
+    "kind": ".pdf",
+    "pages": 30
+  },
+  {
+    "source": "AMSC5720_Advanced Materials Synthesis/CN/AMSC5720_金属_相图与加工_中文版.pdf",
+    "key": "3bed949271b5",
+    "bytes": 17223507,
+    "sha256": "8e290604fd9a317aa1f36f498c939b1fb9388f0a999505ff8e3d637e2e697e3c",
+    "kind": ".pdf",
+    "pages": 27
+  },
+  {
+    "source": "AMSC5720_Advanced Materials Synthesis/EN/AMS5720_Course Introduction_AY26-27.pdf",
+    "key": "908e77f51396",
+    "bytes": 279112,
+    "sha256": "b6c393ed8c1aad3aef30f098d25d604846fd6a827212f3a98360c02e52cc5e71",
+    "kind": ".pdf",
+    "pages": 7
+  },
+  {
+    "source": "AMSC5720_Advanced Materials Synthesis/EN/AMS5720_Topic 0_Part 1.pdf",
+    "key": "f4743e089851",
+    "bytes": 10145789,
+    "sha256": "e9e45a07485f7eaf5151f018b4b9eed1e48ea95226ea61b3df3d40147682434b",
+    "kind": ".pdf",
+    "pages": 78
+  },
+  {
+    "source": "AMSC5720_Advanced Materials Synthesis/EN/AMS5720_Topic 0_Part 2.pdf",
+    "key": "97dcc572d460",
+    "bytes": 4678707,
+    "sha256": "28d67416ecfdfc9f093f97d15df231e0da8b3370f70cda41c61c9639309ce4f1",
+    "kind": ".pdf",
+    "pages": 11
+  },
+  {
+    "source": "AMSC5720_Advanced Materials Synthesis/EN/AMSC5720_Topic 1_Ceramics_Part I.pdf",
+    "key": "3ebe8decd960",
+    "bytes": 1951195,
+    "sha256": "f2bbbff794a3bac6960e1b82fb839c07bb458128bd84dba40baa4c9e3abf6d25",
+    "kind": ".pdf",
+    "pages": 14
+  },
+  {
+    "source": "AMSC5720_Advanced Materials Synthesis/EN/AMSC5720_Topic 1_Metals_Part II Phase Diagram, Processing.pdf",
+    "key": "d64d530d2b9c",
+    "bytes": 3386573,
+    "sha256": "4f4c56cc13301f3ad2b3b546204c3f0c88aa2fdea89b883b71883f874683625f",
+    "kind": ".pdf",
+    "pages": 27
+  },
+  {
+    "source": "AMSC5720_Advanced Materials Synthesis/EN/AMSC5720_Topics 0-1_Failure, Mechanical Properties of Metals.pdf",
+    "key": "619b710658b1",
+    "bytes": 3298382,
+    "sha256": "3f377490fba9a24d23ddf22459fa8142a92829373d152e8cc00c7c56b161dff8",
+    "kind": ".pdf",
+    "pages": 30
+  },
+  {
+    "source": "AMSC5720_Advanced Materials Synthesis/Homework/Materials_Science_Assignment_English.pdf",
+    "key": "f7774bc37906",
+    "bytes": 94147,
+    "sha256": "7e88239e35f54981fb4c2d3638a18432e5ecf0c3ac51ea4b6089668aa286b9ad",
+    "kind": ".pdf",
+    "pages": 2
+  },
+  {
+    "source": "AMSC5720_Advanced Materials Synthesis/Homework/材料科学作业题目_中文版.pdf",
+    "key": "c5f5d835c2f6",
+    "bytes": 91757,
+    "sha256": "28fb2d71833a10a6103df6bc694325bd26a01adee154a2271d589b07b6e9e414",
+    "kind": ".pdf",
+    "pages": 2
+  },
+  {
+    "source": "AMSC5720_Advanced Materials Synthesis/Recording/10.6/相图与金属陶瓷材料.docx",
+    "key": "695255161d11",
+    "bytes": 84219,
+    "sha256": "3dce21154ebdec20a79fa77bf2f0b3ccbf7fc3b3ddc15374d23630b1a0c7f2e4",
+    "kind": ".docx",
+    "pages": 1
+  },
+  {
+    "source": "AMSC5720_Advanced Materials Synthesis/Recording/9.16/9.16.txt",
+    "key": "a53e1d740664",
+    "bytes": 187046,
+    "sha256": "8ea3761a70db5dac660c135eaa730a93e754f27014333176335ae52055bae4d1",
+    "kind": ".txt"
+  },
+  {
+    "source": "AMSC5720_Advanced Materials Synthesis/Recording/9.22/晶体缺陷与断裂.txt",
+    "key": "12adac9e6d60",
+    "bytes": 186550,
+    "sha256": "08947df0f60e4cc997d69957cdd0f5d33b80d4fe7e1fceef68a6d67fe58c318f",
+    "kind": ".txt"
+  },
+  {
+    "source": "AMSC5720_Advanced Materials Synthesis/Recording/9.29/材料失效与相图.txt",
+    "key": "3ec210d92fcd",
+    "bytes": 161135,
+    "sha256": "2c1a4b89fc225fca787b50f0498a551710250d4b7121812ed7fc1319481c41c9",
+    "kind": ".txt"
+  },
+  {
+    "source": "AMSC5720_Advanced Materials Synthesis/Recording/9.8/基础同传-1(1).txt",
+    "key": "2d2fa50c9612",
+    "bytes": 145440,
+    "sha256": "582ab605d01056c07dbe652ad32b9528ab062b58b2eef352cf5da85ef989ebf2",
+    "kind": ".txt"
+  },
+  {
+    "source": "AMSC5730_Frontiers in Advanced Materials/Classwork/Classwork2/121ED6B4-0821-450A-8660-FDFC9C2791E3.JPG",
+    "key": "23bd12ce7fa1",
+    "bytes": 343178,
+    "sha256": "9f93d0dbdbd16f500ce18c943a7a0fd8e45f9e835f486fb916c5fd3cc577eedb",
+    "kind": ".jpg",
+    "pages": 1
+  },
+  {
+    "source": "AMSC5730_Frontiers in Advanced Materials/Classwork/Classwork2/9D44569C-D967-4128-93BF-52C7BA5C1625.JPG",
+    "key": "bce71870a15d",
+    "bytes": 310050,
+    "sha256": "a99d8e45bd92bbfcd1083e467bfc7cc31c328dba6bd8f6c87ceda75ed674cee1",
+    "kind": ".jpg",
+    "pages": 1
+  },
+  {
+    "source": "AMSC5730_Frontiers in Advanced Materials/Classwork/Classwork3/Quiz (answers).pdf",
+    "key": "f30570bb0c8b",
+    "bytes": 531407,
+    "sha256": "244a92b4e4b36874fb2cd41a98cad1f40e3c4a71748d2ad71df53a889f9ba47d",
+    "kind": ".pdf",
+    "pages": 2
+  },
+  {
+    "source": "AMSC5730_Frontiers in Advanced Materials/CN/AMSC5730_lecture2_中文版.pdf",
+    "key": "de1b17afd555",
+    "bytes": 8236173,
+    "sha256": "59beee5ca5b9a2e097678c8854eb4192c96c04c7e7fb1604e16c5f29909317cf",
+    "kind": ".pdf",
+    "pages": 61
+  },
+  {
+    "source": "AMSC5730_Frontiers in Advanced Materials/CN/AMSC5730_lecture3_中文版.pdf",
+    "key": "1328bf2ecaad",
+    "bytes": 8530080,
+    "sha256": "dd36def35c426b1997d36294f0015da3f142c94cb8f62e17f9ae00eb008cdfca",
+    "kind": ".pdf",
+    "pages": 102
+  },
+  {
+    "source": "AMSC5730_Frontiers in Advanced Materials/CN/Lecture04_PV_Materials_CN.pdf",
+    "key": "d43a37b73801",
+    "bytes": 8596247,
+    "sha256": "e06b89a1034317bc570bf3a0e7eef732027b05a6b71eb7798231b2fdff8a152c",
+    "kind": ".pdf",
+    "pages": 60
+  },
+  {
+    "source": "AMSC5730_Frontiers in Advanced Materials/CN/lecture06_01_invisibility_cloaks_zh.pdf",
+    "key": "8e8fe13fde77",
+    "bytes": 25520815,
+    "sha256": "79938ad7157af6021b72e62e1a391c8f8e453ec706baa94fa87a8d65643ea205",
+    "kind": ".pdf",
+    "pages": 46
+  },
+  {
+    "source": "AMSC5730_Frontiers in Advanced Materials/CN/lecture06_02_hydrodynamic_cloaks_zh.pdf",
+    "key": "554eba9a8bed",
+    "bytes": 20101367,
+    "sha256": "af74cf6111ba95bb61f1ac396b866aee5784732bf3d8591b91965ba361cca121",
+    "kind": ".pdf",
+    "pages": 30
+  },
+  {
+    "source": "AMSC5730_Frontiers in Advanced Materials/CN/lecture06_03_ai_poissons_ratio_zh.pdf",
+    "key": "4637f65f12b4",
+    "bytes": 17150884,
+    "sha256": "a12ae2500c248dd25f94f81e1c7fcf435364a682e496d7fc17bf05134c0e59cc",
+    "kind": ".pdf",
+    "pages": 36
+  },
+  {
+    "source": "AMSC5730_Frontiers in Advanced Materials/EN/1_Invisibility_Cloaks_English_Polished.pptx",
+    "key": "8aea27d7121e",
+    "bytes": 121587986,
+    "sha256": "592afee352daf1348df0b0a7e1c28683bb62fd96c013ee81297ed4f999c17ba6",
+    "kind": ".pptx",
+    "pages": 42
+  },
+  {
+    "source": "AMSC5730_Frontiers in Advanced Materials/EN/2_Active_and_Passive_Hydrodynamic_Cloaks_Polished_Final.pptx",
+    "key": "0e4f9a191d77",
+    "bytes": 27113104,
+    "sha256": "123cc978bb5e150647de613606b6e0c81d9c19a9d16ae5c2ed38d85069a63723",
+    "kind": ".pptx",
+    "pages": 26
+  },
+  {
+    "source": "AMSC5730_Frontiers in Advanced Materials/EN/3_AI_Tuning_Poissons_Ratio_English_Polished.pptx",
+    "key": "41b0383d0784",
+    "bytes": 45599479,
+    "sha256": "d1b578c7a8dd2d08ed4c44d299cfbdde32a88d82e87c1289375f4c6dcceef2ad",
+    "kind": ".pptx",
+    "pages": 31
+  },
+  {
+    "source": "AMSC5730_Frontiers in Advanced Materials/EN/AMSC 5730 lecture 2.pptx",
+    "key": "2fea6a80cb83",
+    "bytes": 3443365,
+    "sha256": "e286c17bccc93738fb2cedf16c0a4529ddf6c27fff1e86483e4c33d21e179af7",
+    "kind": ".pptx",
+    "pages": 61
+  },
+  {
+    "source": "AMSC5730_Frontiers in Advanced Materials/EN/AMSC5730 - Lecture 3 - O. Savateev.pdf",
+    "key": "58dad5501b31",
+    "bytes": 8670387,
+    "sha256": "ad61591a3a2945bbd2f9f13bfa671a1669de0fd1f191c8dae49130ea21058207",
+    "kind": ".pdf",
+    "pages": 102
+  },
+  {
+    "source": "AMSC5730_Frontiers in Advanced Materials/EN/PV Materials(1).pdf",
+    "key": "88d2a3e32ac6",
+    "bytes": 8233751,
+    "sha256": "4fef134b382a9f2ec172622d22ca31b3936b9090c9ff97967c7d2715c3c115c9",
+    "kind": ".pdf",
+    "pages": 60
+  },
+  {
+    "source": "AMSC5730_Frontiers in Advanced Materials/EN/Week1_Introduction(1).pptx",
+    "key": "d506206c8dad",
+    "bytes": 28104862,
+    "sha256": "f441687ee7e7fc81eb766f9631e63c7f4e8689fa55a590d4ea334a188af4641b",
+    "kind": ".pptx",
+    "pages": 48
+  },
+  {
+    "source": "AMSC5730_Frontiers in Advanced Materials/Explain/lecture2_课程精讲.pdf",
+    "key": "f9cb2888a716",
+    "bytes": 4082767,
+    "sha256": "72488a92901ecb9f1553cbb51ea0e85e7ca9bc8dc64521f6aa54d15f60bcc168",
+    "kind": ".pdf",
+    "pages": 65
+  },
+  {
+    "source": "AMSC5730_Frontiers in Advanced Materials/Recording/10.8/光伏与太阳能电池前沿.docx",
+    "key": "6c5ea713421f",
+    "bytes": 79465,
+    "sha256": "7ba1d30c28746664cc911ecf7970833608f40e7f8de3d442f190a8084a0d8ab1",
+    "kind": ".docx",
+    "pages": 1
+  },
+  {
+    "source": "AMSC5730_Frontiers in Advanced Materials/Recording/9.10/基础同传-1(2).txt",
+    "key": "1e14b865d9cc",
+    "bytes": 141752,
+    "sha256": "32ac0b1928cda4d0e0702c022ba8c8fd0cf4cd71185a14a20543fa56dde11f8d",
+    "kind": ".txt"
+  },
+  {
+    "source": "AMSC5730_Frontiers in Advanced Materials/Recording/9.17/半导体物理与晶体生长.txt",
+    "key": "59a38c43d378",
+    "bytes": 77728,
+    "sha256": "c1902de927e5bf52831862180837a50bc175ed2d72ff8c25804bf5e3563e41f0",
+    "kind": ".txt"
+  },
+  {
+    "source": "AMSC5730_Frontiers in Advanced Materials/Recording/9.17/半导体缺陷与相分离.txt",
+    "key": "28799ca76f32",
+    "bytes": 147520,
+    "sha256": "a6ec0717f5ca4956a499901ec97f2b138962d0c5eb61a350c26ad59c34659b6e",
+    "kind": ".txt"
+  },
+  {
+    "source": "AMSC5730_Frontiers in Advanced Materials/Recording/9.24/光催化原理与应用.txt",
+    "key": "2174ab8878d5",
+    "bytes": 188847,
+    "sha256": "d3e46822cac629eedaa38a51bf3f07d91e011852de65c5b44619967332ac40ba",
+    "kind": ".txt"
+  },
+  {
+    "source": "AMSC5738_Surface Science and Thin Film Technology/AI_answer/AMSC5738_Homework1_Vacuum_Solutions.pdf",
+    "key": "02f0dc088008",
+    "bytes": 592204,
+    "sha256": "fecb14d0de78760fd5bde2c1eeff15ea4a1e0103c37f39f354fe5f3561f0bab7",
+    "kind": ".pdf",
+    "pages": 29
+  },
+  {
+    "source": "AMSC5738_Surface Science and Thin Film Technology/AI_answer/Homework_2_Exam_Answers.pdf",
+    "key": "8bb03949bd2d",
+    "bytes": 70404,
+    "sha256": "0c3cae85a9835eb642312598547ce2445f2a83fde91fadc4f8903d0d7cd784b0",
+    "kind": ".pdf",
+    "pages": 3
+  },
+  {
+    "source": "AMSC5738_Surface Science and Thin Film Technology/CN/AMSC5738 course outline 2026 27(1).pdf",
+    "key": "5a63393aa878",
+    "bytes": 167825,
+    "sha256": "32c0562d51b67396f287ff5fcbe90c622dfd4a69cd6660a5b6bcc1468e140471",
+    "kind": ".pdf",
+    "pages": 4
+  },
+  {
+    "source": "AMSC5738_Surface Science and Thin Film Technology/EN/AMSC5738 course outline 2026 27(1).pdf",
+    "key": "3d4891e95e9b",
+    "bytes": 167825,
+    "sha256": "32c0562d51b67396f287ff5fcbe90c622dfd4a69cd6660a5b6bcc1468e140471",
+    "kind": ".pdf",
+    "pages": 4
+  },
+  {
+    "source": "AMSC5738_Surface Science and Thin Film Technology/EN/Chapter 1 Introduction.pdf",
+    "key": "8cd2205d6a4f",
+    "bytes": 4611910,
+    "sha256": "c11f5add5ee38dbebbf107dfce70cff503a523da296597a7e2c16470dd48cb99",
+    "kind": ".pdf",
+    "pages": 37
+  },
+  {
+    "source": "AMSC5738_Surface Science and Thin Film Technology/EN/Chapter 2 Vacuum.pdf",
+    "key": "d69a556ab211",
+    "bytes": 1598114,
+    "sha256": "6915da7e9e9aba7f2ef04d98a27550a324c12f51c737d0a3b6dfb1cdfb1a734a",
+    "kind": ".pdf",
+    "pages": 14
+  },
+  {
+    "source": "AMSC5738_Surface Science and Thin Film Technology/EN/Chapter 3 Evaporation.pdf",
+    "key": "7ac51d03e012",
+    "bytes": 8703793,
+    "sha256": "3cc001ee03839db6303f563081ec94cd9fdbeb131c8477121dea95e1dfe5acc1",
+    "kind": ".pdf",
+    "pages": 84
+  },
+  {
+    "source": "AMSC5738_Surface Science and Thin Film Technology/EN/Notes for the course.pdf",
+    "key": "21c58dd6e53b",
+    "bytes": 635643,
+    "sha256": "34ecab0ed3d374dbffd875ad9b048ff7e311b761bb7047cf3ba363a8449ca176",
+    "kind": ".pdf",
+    "pages": 8
+  },
+  {
+    "source": "AMSC5738_Surface Science and Thin Film Technology/explain/Chapter_2_Vacuum_67页逐页精讲.pdf",
+    "key": "e160e940c348",
+    "bytes": 6902617,
+    "sha256": "34005abd1e0af5b1e6441b77d24fde13fb329ea010432d6965671e43ae92fd1f",
+    "kind": ".pdf",
+    "pages": 149
+  },
+  {
+    "source": "AMSC5738_Surface Science and Thin Film Technology/Homework/Homework 1 Vacuum.pdf",
+    "key": "64a2934445ca",
+    "bytes": 376998,
+    "sha256": "ac4a9b06479479e0436fd991e25a4e26c2bab84a69bf6069bb36c1af08d6fc15",
+    "kind": ".pdf",
+    "pages": 4
+  },
+  {
+    "source": "AMSC5738_Surface Science and Thin Film Technology/Homework/Homework 2 Evaporation.pdf",
+    "key": "e87097bb27a9",
+    "bytes": 310804,
+    "sha256": "f7d408796efa56138167440d26a0c0b74b0e28bb5ed377ec3149c9cca045eab3",
+    "kind": ".pdf",
+    "pages": 6
+  },
+  {
+    "source": "AMSC5738_Surface Science and Thin Film Technology/Homework/Homework 3 Deposition.pdf",
+    "key": "929e451fb69f",
+    "bytes": 427360,
+    "sha256": "1b2fd35ce9e33ce56e5d0f5fa479a3546001da68a2b26961a42435f7a5be26be",
+    "kind": ".pdf",
+    "pages": 5
+  },
+  {
+    "source": "AMSC5738_Surface Science and Thin Film Technology/Homework/Homework_1_Vacuum_中文_LaTeX(1).pdf",
+    "key": "8918fafd06a6",
+    "bytes": 131265,
+    "sha256": "c91baaffc09059081531d6002d4114e40ffa89cd7a850ddc31501a7830684656",
+    "kind": ".pdf",
+    "pages": 4
+  },
+  {
+    "source": "AMSC5738_Surface Science and Thin Film Technology/Teacher's_answer/AMSC5738 course outline 2026 27(1).pdf",
+    "key": "cea70c59ad37",
+    "bytes": 167825,
+    "sha256": "32c0562d51b67396f287ff5fcbe90c622dfd4a69cd6660a5b6bcc1468e140471",
+    "kind": ".pdf",
+    "pages": 4
+  }
+]

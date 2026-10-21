@@ -1,0 +1,355 @@
+=== PAGE 1 ===
+1
+Chapter 1. Introduction
+We will focus on those aspects that are related to thin films, including 
+their fabrication/preparation, structures, properties and applications.
+Surface science is the study of physical and chemical phenomena that 
+occur at the interface of two phases, including solid–liquid interfaces, 
+solid–gas interfaces, solid–vacuum interfaces, and liquid–
+gas interfaces. It includes the fields of surface chemistry and surface 
+physics.
+
+
+=== PAGE 2 ===
+2
+Thin films are deposited onto bulk materials (substrates) to 
+achieve properties unattainable or not easily attainable by 
+substrates alone.
+How thin?
+~0.5 nm – 1 mm, a difference of 6 orders of magnitude
+Surface science and thin film technology are closely related. They 
+overlap largely with each other in content. We therefore pack them 
+together in one course.
+Many existent technologies are more or less based on thin films.
+
+
+=== PAGE 3 ===
+3
+Optical
+Electrical/
+electronic
+Magnetic
+Chemical
+Mechanical
+Thermal
+Properties
+Applications
+Reflective/antireflective coatings; interference 
+filters; decoration (color, luster); waveguides; 
+displays; solar cells; photodetector arrays
+Insulation; conduction; semiconductor devices; 
+piezoelectric drives; integrated circuits; solar cells; 
+displays; photodetector arrays
+Memory disks
+Barriers to diffusion or alloying; protection against 
+oxidation or corrosion; gas/liquid sensors
+Tribological (wear-resistant) coatings; hardness; 
+adhesion; micromechanics
+Barrier layers; heat sinks
+
+
+=== PAGE 4 ===
+4
+Integrated Electronic Circuits
+
+
+=== PAGE 5 ===
+5
+Inside top
+SRAM transistors in Apple’s iPad 2 A5
+Inside
+cross-section
+
+
+=== PAGE 6 ===
+6
+LED Arrays as Displays
+LED matrix
+A LED device
+
+
+=== PAGE 7 ===
+7
+Photodetector Arrays in Digital Cameras
+
+
+=== PAGE 8 ===
+8
+Solar Cell Plant
+
+
+=== PAGE 9 ===
+Cars and Airplanes Powered by Photovoltaic Devices
+
+
+=== PAGE 10 ===
+10
+Optical Mirrors
+
+
+=== PAGE 11 ===
+11
+Optical Filters
+
+
+=== PAGE 12 ===
+12
+Multilayer Films of Different Dielectric Materials
+Dielectric mirrors consist of multiple 
+layers of films alternating between high 
+and low indexes of refraction. A, B, and C
+waves are in phase with each other and 
+interfere constructively.
+
+
+=== PAGE 13 ===
+13
+The manufacture of commercial electronic, photonic, 
+and optoelectronic devices is dominated by thin film 
+technologies.
+
+
+=== PAGE 14 ===
+14
+Thin Films for Mechanical Properties
+Cr coatings on automobile parts
+Impart hardness, metallic luster, 
+and protection against ultraviolet 
+light. Cr coatings on plastic parts 
+achieve the same functionality as 
+the bulk metal but at significant 
+savings in cost and weight.
+TiN coatings on cutting tools
+Offer hardness, low friction, and 
+a chemical barrier to alloying of 
+the tool with workpieces.
+
+
+=== PAGE 15 ===
+15
+Coatings for Prevention from Corrosion
+
+
+=== PAGE 16 ===
+16
+Stealth Aircraft: employing a combination of technologies to reduce 
+visibility in the visible, infrared (700 nm ‒ 1 mm), radio (3 kHz ‒ 300 GHz, for 
+radar), and audio (20 Hz ‒ 20 kHz) frequency spectral regions.
+F-117A Nighthawk
+B-2 Spirit Stealth Bomber
+歼20
+
+
+=== PAGE 17 ===
+17
+Cloaking in the Visible Region
+
+
+=== PAGE 18 ===
+18
+Semiconductor Heterostructures
+2D electron gas: Electrons are confined vertically to the ground state of a 
+quantum well located at a GaAs/AlGaAs interface, and form a 2D electron 
+gas (2DEG). A mean free path and coherence length on the order of 10 m
+insure that the carriers are coherent and ballistic. Metallic gates deposited by 
+electron beam lithography confine electrons laterally. A number of interesting 
+phenomena related to the quantum Hall effect (integer, 1985 Nobel Prize and 
+fractional, 1998 Nobel Prize) have been discovered on this system. 
+
+
+=== PAGE 19 ===
+19
+Two More Examples Closer to Current Research
+Diamond films and wafers
+Metallic quantum wells
+
+
+=== PAGE 20 ===
+20
+QMWG800 Synthetic Diamond HPHT Hydraulic Cubic Press
+Luoyang, Henan, China
+
+
+=== PAGE 21 ===
+21
+In addition to its unmatched beauty, diamond 
+has a number of other remarkable properties:
+Diamond
+These facts have spurred exciting and competitive quests in materials 
+science: the preparation of diamond. The most common method for 
+depositing diamond films is chemical vapor deposition (CVD).
+(1) Hardest substance ever known (Hv > 8000 kg mm‒2);
+(2) Higher elasticity modulus (E = 1050 GPa) than any other material;
+(3) One of the highest resistivities (> 1016 cm) when no impurities are 
+present;
+(4) Very high thermal conductivity (= 1100 W m‒1 K‒1) exceeding those of 
+Cu and Ag;
+(5) Low thermal expansion coefficient (= 1.2 10‒6 K‒1) to yield high 
+resistance to thermal shock;
+(6) Resistance to chemical attack.
+
+
+=== PAGE 22 ===
+22
+Diamond Films
+
+
+=== PAGE 23 ===
+23
+
+
+=== PAGE 24 ===
+24
+Nonstick pan
+Piston
+Medical implants
+Part in AK47 rifle
+
+
+=== PAGE 25 ===
+25
+Diamond can also be an outstanding semiconductor material, 
+superior in many ways to silicon. Diamond devices could operate at 
+higher temperatures (>400 C) and higher power than those of 
+silicon, as well as being faster, denser and more resistant to 
+radiation. But practical diamond electronics will need large-area, 
+single-crystalline diamond wafers to be fabricated, analogous to 
+silicon wafers commonly used in the semiconductor industry.
+Diamond can be grown on diamond (homoepitaxy) by chemical 
+vapor deposition. Electronics-grade diamond has been made in this 
+way. But single-crystal diamond substrates are small and expensive.
+The alternative is to grow diamond on a foreign (non-diamond) 
+single-crystal wafer (heteroepitaxy).
+Diamond Wafers
+
+
+=== PAGE 26 ===
+26
+Comparison between Diamond and Silicon
+
+
+=== PAGE 27 ===
+27
+Room-temperature drift mobilities of 4500 cm2 V1 s1 for electrons and 3800 
+cm2 V1 s1 for holes have been measured in high-purity single-crystalline 
+diamond. Such high charge mobilities of single-crystalline diamond films are 
+encouraging for the development of high-performance diamond electronics.
+J. Isberg, J. Hammersberg, E. Johansson, T. Wikström, D. J. Twitchen, A. J. Whitehead, S. E. 
+Coe, G. A. Scarsbrook, Science 2002, 297, 1670.
+
+
+=== PAGE 28 ===
+28
+Boron is relatively easily doped into diamond as a charge acceptor. 
+Superconductivity has been discovered in B-doped diamond synthesized at 
+high pressure (nearly 105 atm) and temperature (25002800 K). The 
+superconducting transition temperature Tc is ~4 K.
+Superconductivity in Diamond
+E. A. Ekimov, V. A. Sidorov, E. D. Bauer, N. N. Mel’nik, N. J. Curro, J. D. Thompson, S. M. 
+Stishov, Nature 2004, 428, 542.
+
+
+=== PAGE 29 ===
+29
+Epitaxial Growth
+S. T. Lee, Y. Lifshitz, Nature 2003, 424, 500; P. W. May, Science 2008, 319, 1490.
+
+
+=== PAGE 30 ===
+30
+Pb Films Grown on Si Substrates
+Science 2004, 306, 1915.
+
+
+=== PAGE 31 ===
+31
+Superconducting Tc Changes
+
+
+=== PAGE 32 ===
+32
+This course will focus on the deposition of thin films from the 
+vapor phase.
+We will not discuss the deposition of thin films from the liquid 
+phase or films grown by reaction with the substrate rather than 
+by deposition, such as SiO2 grown by the thermal reaction of 
+water vapor with Si.
+Vapor phase thin-film techniques have three advantages: (1) 
+applicability to any material, (2) wide adjustability in substrate 
+temperature, and (3) access to the surface during deposition.
+Liquid-phase techniques, such as electroplating, are useful for 
+low-cost production. They will not be covered in this course.
+
+
+=== PAGE 33 ===
+33
+A typical Thermal Evaporation System
+
+
+=== PAGE 34 ===
+34
+Our Electron-Beam Deposition System
+Venue: Room G24, Science Center North Block
+
+
+=== PAGE 35 ===
+35
+Process Steps
+Solid materials are vaporized by heat 
+or by an energetic beam of electrons, 
+photons (laser ablation), or positively 
+ions (sputtering) in order to transport 
+them to substrates. These methods 
+are categorized as physical vapor 
+deposition (PVD). Thin-film 
+processes that use gases, 
+evaporating liquids, or chemically 
+gasified solids as source materials 
+are categorized as chemical vapor 
+deposition (CVD).
+The key difference is that PVD is a 
+physical transfer from solid-to-
+solid (through vapor), while CVD 
+is a chemical reaction from gas-
+to-solid (often with flow control).
+
+
+=== PAGE 36 ===
+36
+A major issue in the transport step is the uniformity of the arrival rate over the 
+substrate. In a high vacuum, molecules travel from the source to the substrate in 
+straight lines, whereas in a fluid there are many molecular collisions during the 
+transport step. Therefore, in a high vacuum, the uniformity is determined by the 
+geometry, whereas in a fluid it is determined by gas flow patterns and by the 
+diffusion of source molecules.
+Substrate surface conditions include roughness, contamination level, degree of 
+chemical bonding with arriving materials, and crystallographic parameters.
+The reactivity factor refers to the probability of arriving molecules reacting with the 
+surface and becoming incorporated into the film. The probability is known as the 
+“sticking coefficient”, Sc, which can vary from 1.0 to <10‒3.
+Energy input, including substrate heating, energetic electrons, photons, plasma, 
+chemical reactions, has profound effects on both the reactivity of arriving materials 
+and on the composition and structure of films.
+In physics, a fluid is any substance that continuously deforms or flows when a 
+shear stress is applied. It includes liquids, gases, and even plasmas.
+
+
+=== PAGE 37 ===
+37
+Contents
+1.
+Introduction
+2.
+Vacuum science and technology
+3.
+Evaporation
+4.
+Deposition
+5.
+Epitaxy
+6.
+Chemical vapor deposition
+7.
+Film analysis
+8.
+Physical properties of thin films

@@ -1,0 +1,395 @@
+=== PAGE 1 ===
+AMSC 5710
+Advanced Materials Characterization
+Electron Microscopy (EM)
+Block 2
+[Speaker notes]
+1
+
+=== PAGE 2 ===
+Primary beam
+(source)
+Secondary beam
+(spectrometers, detectors)
+Photons
+Electrons
+Ions
+Photons
+Electrons
+Ions
+Phonons
+…
+An 
+electron microscope
+ 
+(EM) is a type of microscope that uses an 
+electron
+ 
+beam to illuminate a specimen and produce a 
+magnified image
+.                                                                -Wiki
+It offers unique possibilities to gain insights into 
+structure,
+topology, 
+morphology, and 
+composition of a material.
+What is an electron microscope?
+2
+[Speaker notes]
+2
+
+=== PAGE 3 ===
+3
+Let’s start with a microscope: magnification
+
+=== PAGE 4 ===
+Resolution
+The fineness of detail that can be distinguished in an image
+The optical limit
+P
+1
+P
+2
+d
+Lens
+B
+2
+B
+1
+Md
+Intensity
+Aperture
+4
+Smallest thing can be seen by microscope
+[Speaker notes]
+4
+
+=== PAGE 5 ===
+The Airy disk intensity profile from two point-sources 
+P1 and P2 defines the resolution of a lens. 
+The two Airy disks are so close that they cannot be distinguished,
+The two are separated such that the maximum in the image of P1 overlaps the minimum in P2. This is the definition of resolution defined by the 
+Rayleigh criterion
+.
+The diffraction limit
+  
+d
+5
+[Speaker notes]
+5
+
+=== PAGE 6 ===
+Diffraction-limited Resolution
+ of a microscope is proportional to the 
+wavelength
+ of the source beam
+ 
+The classical Rayleigh criterion for light microscopy, approximately gives the resolution, 
+d
+. 
+ ~ 
+wavelength, 
+n
+ ~ 
+refractive index of  medium, 
+air : 1
+
+ 
+~the semi angle of collection of the magnifying lens/aperture. 
+<70
+o
+For visible lights, 
+ ~ 
+390~780 nm, d ~300 nm. 
+6
+The diffraction limit
+[Speaker notes]
+6
+
+=== PAGE 7 ===
+If you fill the whole microscope with oil, 
+n
+ could be 1.5. 
+The maximum of sin
+
+ is 1
+Possible solution: 1, increase 
+n
+ and sin
+
+;
+Possible solution: 2, decrease the wavelength
+  
+1
+）
+Ultraviolet radiation—— absorbed by the sample;
+  
+2
+）
+X-ray —— common material does not bend x-ray;
+  
+3
+）
+Electron
+ 
+Based on de Broglie' s ideas of the wave-particle duality
+7
+How to improve the resolution
+[Speaker notes]
+7
+
+=== PAGE 8 ===
+The wave nature of electrons
+Wave-particle duality
+ 
+Louis de Broglie   (1892-1987) 
+Nobel Prize 1929
+All moving matter has wave properties with the wavelength 
+λ
+ being inversely related to the momentum 
+p by
+	
+     
+λ
+ = h / 
+p = h / mv
+Non-relativistic
+     = 
+h/(2m
+0
+K)
+1/2 
+~1.22/K
+0.5
+ nm     
+      (K- kinetic energy  in eV). 
+    When K=150 eV, =0.1 nm.  
+8
+Using electrons
+[Speaker notes]
+8
+
+=== PAGE 9 ===
+When 
+K ~100 
+keV
+, the relativistic effect can’t be ignored because the velocity of the electrons becomes greater than half the speed of light! And  wavelength should be written as
+Accelerating
+voltage (kV)
+Nonrelativistic
+wavelength (nm)
+Relativistic
+wavelength (nm)
+Mass
+(
+
+ 
+m
+0
+)
+Velocity
+100
+0.00386
+0.00370
+1.196
+0.548c
+120
+0.00352
+0.00335
+1.235
+0.586c
+200
+0.00273
+0.00251
+1.391
+0.695c
+300
+0.00223
+0.00197
+1.587
+0.777c
+400
+0.00193
+0.00164
+1.783
+0.828c
+1000
+0.00122
+0.00087
+2.957
+0.941c
+Table.  Electron Properties as a Function of Accelerating Voltage 
+9
+Using electrons
+[Speaker notes]
+9
+
+=== PAGE 10 ===
+Charge 
+(e)
+1 eV
+Rest mass 
+(
+m
+o
+)
+Rest energy 
+(m
+o
+c
+2
+)
+Kinetic energy (K)    
+(
+charge
+
+voltage
+)
+Plank’s constant (
+h)
+Speed of light (
+c
+)
+(-) 1.602 
+
+ 10
+-19
+ C
+1.602 
+ 
+10
+-19 
+J
+9.109 
+
+ 10
+-31
+ kg
+511 
+keV
+1.602 
+
+ 10
+-19
+ J   (1eV) 
+6.626 
+
+ 10
+-34
+ J s
+2.998 
+
+ 10
+8
+ m/sec
+Principle
+Useful Physical Constants
+10
+[Speaker notes]
+10
+
+=== PAGE 11 ===
+Light Microscope vs Electron Microscope
+11
+[Speaker notes]
+11
+
+=== PAGE 12 ===
+Beam of Electrons
+ 
+instead of a beam of light
+Electro-magnetic lens 
+instead of Ground glass lenses
+Cylindrical Vacuum column
+ 
+avoid  collisions with air molecules that cause scattering of electrons
+Electron sensitive detector
+ 
+instead of a common camera
+Optics: Light vs Electron Microscope
+12
+[Speaker notes]
+12
+
+=== PAGE 13 ===
+SEM
+AES
+EELS
+TEM imaging & diffraction
+EDS
+13
+SEM
+CL
+Electron specimen interaction
+[Speaker notes]
+13
+
+=== PAGE 14 ===
+Elastic Electron Interactions
+No energy
+ 
+is transferred from the electron to the sample.
+These signals are mainly exploited in 
+Imaging (TEM and SEM)
+Electron diffraction methods.
+14
+Scattering of electrons
+[Speaker notes]
+14
+
+=== PAGE 15 ===
+Inelastic Electron Interactions
+Energy is transferred from the electrons to the specimen
+The energy transferred can cause different signals such as 
+X-rays, 
+Auger electrons
+secondary electrons, 
+plasmons
+, 
+phonons, 
+UV quanta or cathodoluminescence. 
+Used in 
+Analytical Electron Microscopy/SEM
+15
+Scattering of electrons
+[Speaker notes]
+15
+
+=== PAGE 16 ===
+Scanning Electron Microscopy (SEM)
+Secondary Electron Imaging (SE) 
+Back-scattered Electron Imaging (BSE) 
+Transmission Electron Microscopy (TEM)
+Bright Field (BF)/ Dark Field (DF) (HAADF) 
+Electron Diffraction (ED) 
+High-Resolution Transmission Electron Microscopy (HRTEM)
+Analytical Electron Microscopy  (AEM)
+Energy dispersive X-ray (EDX)
+Electron Energy Loss Spectroscopy (EELS)
+Electron Spectroscopic Imaging (ESI) 
+Different types of EM
+16
+[Speaker notes]
+16
+
+=== PAGE 17 ===
+What to expect in Block 2
+17
+e -
+e -
+Inelastically scattered
+Elastically scattered
+Secondary electrons
+Forward-scattered electrons 
+Backscattered electrons 
+Electron diffraction (TED/LEED)
+SEM imaging
+Energy lost primary electrons
+EELS
+EDX
+CL
+TEM imaging
+Tertiary electrons
+Photons
+SEM
+TEM

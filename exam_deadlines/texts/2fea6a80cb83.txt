@@ -1,0 +1,1043 @@
+=== PAGE 1 ===
+AMSC 5730
+Brief introduction to semiconducting materials
+Junyi
+ Zhu
+
+=== PAGE 2 ===
+What are semiconductors?
+Resistivity lying between 10
+-2
+-10
+9
+ 
+W
+cm
+ and can be modified by impurities or defects. 
+Energy gap lying between 0~4 eV
+Insulators at 0K. 
+Conductivity
+with
+ T at low T 
+Doping decides what kind of carriers for conduction. N-type: electrons at CB or P-type: holes at VB
+[Speaker notes]
+2
+2
+
+=== PAGE 3 ===
+The first point-contact transistor invented in 1947.
+Inventors of the transistor:  William Shockley (seated), John Bardeen (left) and Walter H. Brattein (right) in 1948. 
+They received the Nobel Prize in Physics in 1956.
+[Speaker notes]
+3
+"
+A picture of the first transistor ever assembled
+, invented in Bell Labs in 1947. It was called a point contact transistor because amplification or transistor action occurred when two pointed metal contacts were pressed onto the surface of the semiconductor material. The contacts, which are supported by a wedge shaped piece of insulating material, are placed extremely close together so that they are separated by only a few thousandths of an inch. The contacts are made of gold and the semiconductor is germanium. The semiconductor rests on a metal base. 
+
+=== PAGE 4 ===
+Classification of Semiconductors
+Elemental
+：
+Si,Ge
+Compound
+Binary: GaAs, GaN, ZnSe, GaSe..
+Ternery: AgGaS
+2
+, CuInSe
+2
+..
+Quarternary: Cu
+2
+InGaS
+4
+, Cu
+2
+ZnSnS
+4
+…
+Other important semiconductors:
+Oxides: Cu
+2
+O, CuO, La
+2
+CuO
+4
+.. 
+Magnetic: EuO, MnTe..
+Ferroelectric: SbSI..
+Organic: (CH)
+n
+..
+[Speaker notes]
+4
+4
+
+=== PAGE 5 ===
+According to band gap:
+Direct
+：
+GaAs,InAs
+Indirect
+：
+Ge,Si,AlAs
+Narrow
+：
+HgTe, GaAs,                               
+Wide
+：
+GaN
+[Speaker notes]
+5
+5
+
+=== PAGE 6 ===
+Diamond Structure
+Group IV elements such as Si and Ge
+Two interpenetrating fcc structures displaced with respect to each other along (111) direction by one quarter the body diagonal of the elemental cube
+The basis two atoms locate at
+(0,0,0) and (1/4,1/4,1/4,)a
+The hard sphere filling factor is only 0.34 
+Simple 
+fcc
+ is 0.74.
+How many first nearest neighbors
+          ? 
+
+=== PAGE 7 ===
+
+
+=== PAGE 8 ===
+
+
+=== PAGE 9 ===
+Optical properties near the band 
+edge
+Absorption:
+Direct band gap
+：
+Indirect
+：
+Some common attributes:
+Light element materials tend to have X
+ 
+valley as CBM
+；
+Heavy ones tend to be direct band gap.
+[Speaker notes]
+9
+9
+
+=== PAGE 10 ===
+Indirect Energy-gap Bands
+Si
+[Speaker notes]
+10
+10
+
+=== PAGE 11 ===
+Direct Energy-gap Bands
+GaAs
+[Speaker notes]
+11
+11
+
+=== PAGE 12 ===
+Crystal
+Type
+Energy Gap (eV)
+Crystal
+Type
+Energy Gap (eV)
+Diamond
+i
+5.4
+PbS
+d
+0.286
+Si
+i
+1.17
+PbSe
+d
+0.165
+Ge
+i
+0.744
+PbTe
+d
+0.19
+InSb
+d
+0.24
+CdS
+d
+2.582
+InAs
+d
+0.43
+CdSe
+d
+1.84
+InP
+d
+1.42
+CdTe
+d
+1.607
+GaP
+i
+2.32
+ZnO
+d
+3.436
+GaAs
+d
+1.52
+SnTe
+d
+0.3
+GaSb
+d
+0.81
+Cu2O
+d
+2.172
+AlSb
+i
+1.65
+TiO
+d
+3.03
+Table for some semiconductors
+
+=== PAGE 13 ===
+How are semiconductors grown?
+Bulk crystals
+From melt: Czochralski, Bridgman,
+From solution
+From vapor phase
+Thin films (epitaxy)
+Gas Phase (
+Evaporation, Chemical Vapor Deposition
+)
+Molecular beams
+Liquid phase
+Nanocrystals
+Precipitates from Solution, glass melts etc
+[Speaker notes]
+13
+13
+
+=== PAGE 14 ===
+Czochralski
+ Method
+Why rotation is needed?
+[Speaker notes]
+14
+14
+
+=== PAGE 15 ===
+Three Modes of Epitaxial Growth
+2D growth
+: epilayer likes to adhere to substrate more than to each other
+3D or island growth (Volmer-Weber mode):
+ epilayer does not like to adhere to substrate
+2D growth followed by 3D growth (Stranski-Krastanow mode):
+ epilayer first wets substrate to form a thin layer but then balls up as the layer thickens
+[Speaker notes]
+15
+15
+
+=== PAGE 16 ===
+How are Low-Dimensinal semiconductors grown?
+Thin films (epitaxy)
+Gas Phase (
+Evaporation, Chemical Vapor Deposition
+)
+Molecular beams
+Liquid phase
+Nanocrystals
+Precipitates from Solution, glass melts etc
+[Speaker notes]
+16
+16
+
+=== PAGE 17 ===
+Molecular Beam Epitaxy (MBE) Machine
+[Speaker notes]
+17
+17
+
+=== PAGE 18 ===
+         
+II-VI MBE
+III-V
+ 
+MBE
+[Speaker notes]
+18
+18
+
+=== PAGE 19 ===
+MBE Growth
+Advantages:
+Ultra-high vacuum and ultra-clean
+Precision at sub-monolayer level 
+(how?)
+Disadvantages:
+Expensive machine
+Slow (rate at ~ few monolayers/min)
+Easily contaminated
+Not feasible for many compounds
+[Speaker notes]
+19
+19
+
+=== PAGE 20 ===
+Examples of Nanostructured Semiconductors
+Quantum Wells
+2D structures 
+confinement of electrons in 1-Dimension only
+Example: GaAs well with GaAlAs barriers
+[Speaker notes]
+20
+20
+
+=== PAGE 21 ===
+Organometallic Vapor Phase Epitaxy 
+(OMVPE)
+Trimethylgallium
+[Speaker notes]
+21
+21
+
+=== PAGE 22 ===
+Two-flow OMVPE by Nakamura et al for growing GaN
+Shuji Nakamura(
+中村修二
+)
+ “for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources”
+
+=== PAGE 23 ===
+OMVPE
+Advantages:
+Fast and can be scaled up for commercial production
+Can work at relative high pressure
+Capable of almost monolayer precision
+Disadvantages:
+Requires starting chemicals (precursors) to be in gas form and by-products also to be in gas form in order to be removed
+Many precursors are highly toxic and/or explosive metal-organic compounds
+Common contaminants: C, H
+[Speaker notes]
+23
+23
+
+=== PAGE 24 ===
+Phase equilibrium
+To grow semiconductors, it is essential to understand mixed phases.
+A starting point is the regular solution model (I assume most of you have already learned it)
+Entropy of mixing is the ideal configurational entropy of mixing
+Δ
+S
+M
+ = -R [
+xln
+ x + (1-x) ln (1-x)], x is the concentration.
+The enthalpy of mixing is done by summing nearest neighbor bond energy
+Δ
+H
+M
+ = x(1-x)
+Ω 
+Ω
+ is an interaction parameter.
+Entropy is mixing is always negative.
+However, enthalpy of mixing can be positive or negative.
+Determined by 
+Ω
+.
+[Speaker notes]
+24
+24
+
+=== PAGE 25 ===
+Bonding energy can be approximately proportional to a
+-2.5
+ 
+Here, a is the bond length. 
+Delta lattice parameter model to estimate 
+Ω
+ for III-V and II-VI semiconductors
+Always positive and proportional to (
+a
+A
+-a
+B
+)
+2
+/(
+a
+A
++a
+B
+)
+4.5
+For details, refer to Organometallic vapor-phase epitaxy, G. B. 
+Stringfellow
+. 
+
+=== PAGE 26 ===
+Phase Separation of 
+InGaN
+A very large positive enthalpy of mixing can overwhelm the negative entropy of mixing below critical temperature
+InGaN
+ is metastable!
+Large size mismatch between In and Ga. 
+Binodal
+ and 
+spinodal
+ lines of 
+InGaN
+Ho and 
+Stringfellow
+, Appl. Phys. let. 69 270.
+ 
+To understand the growth of 
+semiconuctors
+, it is extremely important to construct and understand phase diagrams. 
+There are new approaches to calculate it
+Good review topic
+[Speaker notes]
+26
+26
+
+=== PAGE 27 ===
+Why Study Defects?
+Defects 
+are like spice. If you put too much defects 
+in a 
+crystal they spoil the crystal. 
+If 
+you put too 
+little defects 
+in a crystal then the crystal is not 
+too interesting 
+nor too useful. 
+A 
+good crystal grower is 
+a person 
+who can introduce such the right kind 
+and amount 
+of defects into the sample
+.
+
+=== PAGE 28 ===
+PROS & CONS OF DEFECTS
+CONS
+:
+ 
+Defects scatter electrons AND 
+produce undesirable 
+resistance
+ 
+Defects act as non-radiative 
+recombination centers 
+for e and h pairs and hence 
+lower efficiencies 
+of solar cells, 
+photocatalyst
+, laser 
+and LED 
+etc
+ 
+Recombination at defects produce heat 
+which prevents 
+high power operation and can 
+shorten the 
+lifetime of devices.
+
+=== PAGE 29 ===
+PROS
+: 
+Defects 
+can introduce free carriers and makes it possible to 
+make 
+pn
+—junctions
+. 
+Defects 
+therefore are “enablers” of 
+diodes, 
+transitors
+, LED and lasers 
+etc
+Defects 
+can annihilate unwanted carriers via compensation 
+and therefore 
+control the resistance of semiconductors all the way 
+from metallic 
+to insulating.
+Defects 
+can break selection rules so that transitions that 
+are forbidden 
+can become allowed
+.
+
+=== PAGE 30 ===
+INTRODUCTION. Classification of
+Defects, their structures and
+symmetries
+Point Defects: Intrinsic Defects 
+& Impurities
+Extended 
+Defects
+: Complexes
+, 
+line defects 
+and surfaces
+Shallow 
+& Deep Impurity 
+Levels
+
+=== PAGE 31 ===
+POINT DEFECTS: Intrinsic
+Defects & Impurities
+The simplest kind of defect is clearly one which occurs at 
+only one 
+lattice site. 
+Such 
+defects are known as point defects and 
+are often 
+approximated by a point
+.
+
+=== PAGE 32 ===
+Example: Replacing a Si atom in a Si crystal by a B atom or 
+P atom
+. 
+In 
+both cases the foreign atom represent an impurity in 
+an otherwise 
+pure crystal
+.
+We 
+will see later that these impurity 
+atoms behave 
+differently in Si in terms of their electrical properties in 
+Si (B 
+is said to be an acceptor while P is said to be a donor).
+Impurities 
+can be detected chemically. 
+
+=== PAGE 33 ===
+If we remove a Si atom and create a 
+vacancy
+, this vacancy represents a form of defect which cannot be detected chemically. 
+Similarly a Si atom sitting at a site where there should not be an atom (called 
+Interstitials
+) is also a kind of defect which cannot be detected chemically. 
+These are examples of intrinsic defects. 
+Intrinsic defects occur only in Materials Science. 
+There are no intrinsic defects in chemicals.
+One questions, for intrinsic defects like Si vacancy or Si interstitial, are they donors or electrons?
+
+=== PAGE 34 ===
+In chemistry we represent elements by symbols.
+Similarly in materials science there are 
+special symbols 
+for point defects which are the “elements” 
+in materials 
+science.
+ For impurities, B
+Si
+=B replacing Si
+ For intrinsic defects: 
+V
+Si
+=vacancy 
+at Si atom
+ 
+I
+Si
+=Interstitial 
+Si 
+atom, this convention sometimes can be confusing because we may use I to dopant some compound that contains Si. Therefore, it is also common to use 
+Si
+i
+ to represent it. 
+ In GaAs when As replaces Ga (
+AsGa
+) one obtains 
+an 
+Antisite
+ 
+defect.
+
+=== PAGE 35 ===
+EXTENDED DEFECTS: Complexes,
+line defects and surfaces
+Elements can attract each other to form molecules, 
+similarly point 
+defects can attract each other to form complexes. 
+An 
+example is the 
+divacancy
+ 
+in Si. 
+V
+Si
+ 
+is a point defect. 
+It contains 
+4 broken bonds and so is a very high energy 
+state when 
+neutral. 
+
+=== PAGE 36 ===
+Healing of broken bonds. 
+The four dangling bonds are “healed” by formation of 2 
+new bonds
+. 
+The 
+bond distortions (
+Lattice Relaxation
+) 
+involved cost 
+lattice energy. 
+But 
+overall energy is still lowered. 
+Electron 
+energies~eV
+ 
+but lattice energy (~phonon energy) ~100meV
+. So it is a good deal!
+On semiconductor surfaces, surface defects may also induce a so-called “surface reconstructions”
+
+=== PAGE 37 ===
+From Vacancies to 
+Divacancy
+Defects can interact 
+like atoms 
+to form “molecules”.
+A 
+classic example is 
+the combination 
+of 
+two vacancies 
+in Si to form 
+a 
+divacancy
+, represented 
+as VV
+.
+When 
+two nearest 
+neighbor V 
+combine, the number 
+of dangling 
+bonds is 
+reduced from 
+8 to 
+6.
+
+=== PAGE 38 ===
+
+
+=== PAGE 39 ===
+CLASSIFICATION OF DEFECTS BY
+ELECTRONIC PROPERTIES
+Donors
+: defects which can contribute electrons such as P
+si
+ 
+in Si
+, 
+Si
+Ga
+ 
+in GaAs
+Acceptors
+: defects which can accept electrons (or 
+contribute holes
+) such as 
+B
+si
+ 
+in Si, 
+Si
+As
+ 
+in GaAs
+Isovalent
+ 
+or 
+Isoelectronic 
+centers: 
+N
+P
+ 
+in 
+GaP
+Amphoteric
+: Si in GaAs since SiGa is a donor while 
+SiAs
+ is 
+an acceptor.
+
+=== PAGE 40 ===
+What determines the defect properties?
+Combination of Two factors
+: 
+(
+1) “
+Local factor
+” such as chemical nature of defect
+(
+2) “
+Host factor
+” such as properties of the host lattice like 
+band structure
+, phonon energies
+Factor 
+(1) breaks translational symmetry and 
+requires understanding 
+of chemistry and atomic physics
+Factor 
+(2) emphasize knowledge of Solid State Physics 
+more than 
+chemistry
+.
+Donors 
+and acceptors are examples where Factor (
+2) dominates 
+and the chemical nature of the impurities is 
+less important
+. 
+
+=== PAGE 41 ===
+Defects are present in practically all solids.
+Defects 
+can take all forms and shapes varying from 
+isolated atomic 
+sites to macroscopic objects which extend 
+throughout the 
+whole solid.
+The 
+most powerful way to study defects is to 
+understand their 
+structure and symmetry.
+Many 
+defects are strongly affected by their local 
+symmetry. 
+Lattice 
+distortion allows defects to lower their electronic 
+energy at 
+the expense of small lattice energy.
+Understanding 
+the properties of defects is crucial in 
+making useful 
+devices.
+
+=== PAGE 42 ===
+ELECTRONIC PROPERTIES 
+OF SHALLOW 
+DEFECTS 
+IN SEMICONUCTORS
+Donors
+Acceptors
+
+=== PAGE 43 ===
+In Physics we try to 
+simplify 
+a problem by 
+making assumptions and simplifications. 
+The 
+ideal assumptions will make the 
+problem solvable 
+analyticall
+y and can be applied to a large 
+number of 
+cases irrespective of the chemical nature of the 
+defect. 
+One 
+such example is the 
+hydrogenic
+ model
+.
+So let us assume that we don’t need a very high accuracy and pretend that all different donors and acceptors share something in common. What is that common thing?
+
+=== PAGE 44 ===
+Assume an impurity like P substituting for a Si host atom 
+(a donor 
+by our scheme of classification).
+Compared 
+to Si there is an extra valence electron e in P
+In 
+a P 
+atom, 
+this extra e is quite strongly 
+bounded 
+to the 
+P nucleus 
+via a Coulomb attraction. 
+The 
+nucleus of P 
+is screened 
+by 
+inner electrons and valence electrons.
+However with 
+even all these 
+screening, 
+the Coulomb attraction is 
+of the 
+order eV or more.
+
+=== PAGE 45 ===
+In Si this e is very weakly bound to P+ by the 
+Coulomb Potential because 
+there is a huge number of valence electrons in a 
+piece of 
+Si and they will screen strongly the Coulomb potential.
+An 
+approximation of this screened Coulomb Potential is 
+given by 
+: 
+e/
+ε
+0
+r 
+.
+ε
+0
+ 
+is the dielectric constant of Si and it takes care of 
+the screening 
+of the impurity potential by the valence electrons.
+Notice that Si is covalent so there is no screening by the ions
+. For ionic crystals, we have extra terms.
+
+=== PAGE 46 ===
+To obtain the Schrödinger Equation for the e we have to 
+make another 
+approximation. 
+Unlike 
+the e in the hydrogen atom 
+this e 
+moves into a crystal. 
+Its 
+mass is changed by its 
+interaction with 
+other electrons
+.
+ 
+The effect of the “drag” by the other electrons and ions can 
+be approximated 
+by an 
+Effective Mass m
+*
+.
+In 
+this 
+Effective Mass Approximation 
+the Schrödinger
+This approach to calculate the electronic properties of 
+an impurity 
+is therefore known as the 
+hydrogenic
+ approximation
+.
+
+=== PAGE 47 ===
+EFFECTIVE MASS 
+APPROXIMATION 
+& THE HYDGROGENIC DONOR
+Assuming the simple case of a donor like Se
+As
+ or SiGa in GaAs one 
+can solve 
+the Schrodinger Equation and obtain the Donor energy levels as
+:
+E
+∞
+ 
+is the energy when the electron becomes free (or ionized in case of 
+H), so 
+this is the conduction band edge energy in 
+semiconductors.
+R
+*
+=energy to ionize electron in ground state=binding energy of electron 
+in 1s 
+level to donor ion
+.
+I
+n 
+semiconductors because m*~0.1m and 
+
+ ε
+0 
+is about 10
+, 
+R*~ 10-100 
+meV
+, 
+so 
+hydrogenic
+ defects are also known as shallow defects
+. 
+“
+Bohr radius” a*=(0.5Å)(m/m*)Å
+ 
+
+=== PAGE 48 ===
+
+
+=== PAGE 49 ===
+p-n Junction
+p-n junctions are of great importance both in modern electronic applications and 
+in understanding 
+other semiconductor devices
+.
+The 
+p-n junction theory serves as 
+the foundation 
+of the physics of semiconductor devices. 
+The 
+basic theory of 
+current voltage characteristics 
+of p-n junctions was established by Shockley
+. 
+This theory was 
+then extended by 
+Sah
+, Noyce, and 
+Shockley, 
+and by Moll
+.
+
+=== PAGE 50 ===
+Abrupt Junction
+When the impurity 
+concentration in 
+a semiconductor changes abruptly from acceptor impurities 
+N
+A
+ 
+to donor 
+impurities 
+N
+D
+, 
+as shown in Fig. la, one obtains an abrupt junction. 
+
+=== PAGE 51 ===
+
+
+=== PAGE 52 ===
+We first consider the thermal equilibrium condition, that is, one without applied voltage and current flow. 
+
+=== PAGE 53 ===
+Thus the condition of zero net electron and hole currents requires that the Fermi 
+level must 
+be constant throughout the sample
+.
+The built-in 
+potential or 
+diffusion 
+potential, as 
+shown in Fig. 1 b, c, and d, is equal 
+to 
+
+=== PAGE 54 ===
+For non-degenerated semiconductors, 
+
+=== PAGE 55 ===
+CURRENT-VOLTAGE CHARACTERISTICS
+Shockley equation. 
+The ideal current-voltage characteristics are based on the following four assumptions:
+( 1 ) the abrupt depletion-layer approximation; that is, the built-in potential and 
+applied voltages 
+are supported by a dipole layer with abrupt boundaries, and outside 
+the boundaries 
+the semiconductor is assumed to be neutral; 
+(
+2) the Boltzmann 
+approximation; 
+(
+3) the low-injection 
+assumption; that 
+is, the injected minority carrier densities are small compared with 
+the majority-carrier 
+densities; 
+(4
+) no generation-recombination current exists 
+inside the 
+depletion layer, and the electron and hole currents are constant throughout 
+the depletion 
+layer.
+
+=== PAGE 56 ===
+CURRENT-VOLTAGE CHARACTERISTICS
+We 
+first 
+consider the Boltzmann relation. At thermal equilibrium this relation 
+is given by
+At 
+thermal equilibrium, the 
+pn
+ product from the above equations is 
+equal to n
+i
+2
+. Here, 
+n
+i
+ is about 10
+10
+ /cm
+3
+ for Si at room temperature.
+When 
+voltage is applied, the minority-carrier densities on both sides of 
+the junction 
+are changed, and the 
+pn
+ 
+product is no longer equal to 
+n
+i
+2
+.
+
+=== PAGE 57 ===
+Quasi fermi level
+
+=== PAGE 58 ===
+
+
+=== PAGE 59 ===
+Next, you need to learn a little bit of electrodynamics to follow the whole derivation on the current density as a function of  e-field. 
+Here, I give you the general form of
+ 
+the total current, Shockley equation! Ideal diode law. 
+
+=== PAGE 60 ===
+Suggested final presentation 
+topics
+1. review of Semiconductor alloys and their applications
+2. Doping and defects in semiconductor materials
+3. Physical origin of band gap and carrier mobility
+4. 
+pn
+ junction and light emitting diodes
+5. brief review of epitaxial growth
+6. Alloys and phase diagram of semiconductor alloys
+
+=== PAGE 61 ===
+Suggested final essay topics
+1. How to control doping and defects in wide band gap semiconductors
+2. Review of OMVPE technique in nitride and phosphide. 
+3. Modern technique to construct phase diagram of semiconductor alloys
+4. brief review of transport calculations based on carrier concentrations and mobility
+5. Wetting conditions in epitaxial growth of semiconductors
+6. Brief historical review of light emitting diodes
