@@ -1,0 +1,2097 @@
+电子衍射与倒易空间
+日期: 2026年10月26日 12:35
+语言: 英语 → 中文
+时长: 2小时28分43秒
+
+Clear? It's not a random-ish chaos. It's chaos: half is correspondence in the real space, so what is the inconsistent HPL represent for in the real space?
+清楚吗？这并不是一种有点随机的混乱。这是混乱：一半对应于现实空间中的对应关系，那么不一致的 HPL 在现实空间中代表什么？
+
+It represents a plane HPL. So this is the most important relationship, right? So HPL—this is the same HPL in the reciprocal space—is the direction.
+它表示一个平面 HPL。所以这是最重要的关系，对吧？所以，HPL——这与倒易空间中的同一个HPL相同——就是这个方向。
+
+In the real space, HPL, the set HPL, is a set of planes with plane indices of HPL. It's the same thing, right? Now, the last, last lecture, right, we spent a lot of time explaining, right, so what's this HPL means in the other HPL.
+在实空间中，HPL，也就是 HPL 集合，是一组晶面，其晶面指数为 HPL。是同一个东西，对吧？那么，上上一节课，对吧，我们花了很多时间来解释，对吧，也就是这个 HPL 在另一个 HPL 中是什么意思。
+
+So what's the relationship? And here we have a direction. There we have a plane.
+那么，它们之间有什么关系？这里有一个方向。那里有一片平原。
+
+So what's the relationship between the two?
+那么，两者之间是什么关系？
+
+We say that this is the—I don't know if you go through the deductions or whatsoever, right, which you should, but that is the conclusion you should remember is that the direction HPL in the reciprocal space, right, is perpendicular to the plane HPL in the real space, or in other words, our star HPL or GHPL is the normal of the plane HPL in the real space. Right? So this is very important.
+我们说这是——我不知道你们是否学过推导之类的，对吧，你们应该学过，但你们应该记住的结论是：倒易空间中的方向 HPL，对吧，垂直于实空间中的 HPL 平面，换句话说，我们的星 HPL 或 GHPL 是实空间中 HPL 平面的法线。对吧？所以这一点非常重要。
+
+The plane HPL in the real space, and then that direction is here. Right? Now you say, "But then in the real space that is—there would be a similar thing.
+实空间中的平面 HPL，然后那个方向在这里。对吧？现在你会说：“但是，在现实空间中，也会有类似的东西。
+
+" I can also define some directions, right, which is perpendicular to this plane. Well, that's true, right? However, in the real space, its name is no longer HPL.
+我也可以定义一些方向，对吧，这些方向垂直于这个平面。嗯，确实如此，对吧？然而，在现实空间中，它的名称不再是 HPL。
+
+Right? So that is the most important relationship between the reciprocal space and real space. Mathematically, they are corresponding to two different sets of coordinates.
+对吧？所以，这是倒易空间与真实空间之间最重要的关系。从数学上讲，它们对应于两组不同的坐标。
+
+That's all. Right? You can always use math method to change from one coordinate to the other.
+就这些。对吧？你可以随时使用数学方法从一种坐标系转换到另一种坐标系。
+
+So that's a bigger matrix separation. Right? So in the true system, you can have the same direction vector, for example.
+所以，这是一个更大的矩阵分离。对吧？所以在实际系统中，你可以有相同的方向向量，例如。
+
+Right? You can have this HPL, however its name is HPL in the reciprocal space, but it names becomes something else. In the real space, right? So that is the most important fact about the correlation in between the real space and the reciprocal space, once you have that theory understood, right, the rest should be quite straightforward.
+对吧？你可以有这个 HPL，不过它在倒易空间中的名称是 HPL，但它的名称会变成别的东西。在实空间中，对吧？所以，这是关于实空间与倒易空间之间相关性的最重要一点。一旦理解了这个理论，对吧，其余部分应该都相当直观。
+
+Otherwise, we're getting into troubles after troubles. Right? So, um, this one, also to remind you, a little bit more, right, so this is after proving why GHPL is the normal of the plane HPL, right, with extended this, uh, statement of rumor saying that if I have a relationship for a defined GHPL—so that's a direction vector in the reciprocal space, right—for RUVW, so what is UVW? That is a vector defined in the real space. The dot quantification of the two vectors equals to L, right?
+否则，我们就会陷入一个又一个麻烦。对吧？所以，嗯，这个，也再提醒大家一下，对吧？也就是说，在证明了为什么 GHPL 是平面 HPL 的法线之后，对吧，再延伸这个，呃，传闻的陈述说，如果我有一个关于定义的 GHPL 的关系——所以这是对偶空间中的一个方向向量，对吧——对于 RUVW，那么 UVW 是什么？这是在真实空间中定义的一个向量。两个向量的点积等于 L，对吧？
+
+That represents a set of parallel planes with equal incidency. And the decreasing is the reciprocal of G vector. Right?
+它表示一组具有相同法向量的平行平面。而这个递减是 G 向量的倒数。对吧？
+
+So this is an extended deduction that obtains—right—based on the geometrical relationship we deduced earlier. Right? So, so that's a very quick review and emphasize on the key points regarding the relationship between the real space and the reciprocal space.
+所以，这是基于我们之前推导出的几何关系得出的一个扩展推导——对吧？对吧？所以，这只是一个非常简短的回顾，重点强调了关于实空间与倒易空间之间关系的关键点。
+
+Now we're going to move to the new lectures, um, today.
+现在我们要进入今天的新课程了。
+
+Right? So we solve the symmetry, we talk about real space, reciprocal space, now we're here. Right? Now we're going to discuss the electron scattering and diffraction patterns. Now, see, in the previous two sections, right, I have not even mentioned electrons.
+对吧？所以我们解决了对称性，讨论了实空间和倒易空间，现在我们讲到这里。对吧？现在我们要讨论电子散射和衍射图样。现在，你们看，在前两节里，对吧，我甚至都没提到电子。
+
+All I talk about is gears that have anticipatory, how a wave is primary in the real space, how a wave is private in the reciprocal space. Right? Now we're going to get into a slightly different topic, though it will be based on understanding of the AMP.
+我讲的全都是齿轮，它们具有预见性，波在实空间中如何是初级的，波在倒易空间中如何是私人的。对吧？现在我们要进入一个略有不同的主题，不过它将建立在对 AMP 的理解之上。
+
+Right? So now I'm going to give you electrons. Right?
+对吧？所以现在我要给你们一些电子。对吧？
+
+Now, electrons will interact with this piece of this one solid. Right? Known as the scattering of electrons, by the solid.
+现在，电子会与这个固体的一部分发生相互作用。对吧？称为电子对固体的散射。
+
+Right? And that scattering, right, we always concerned in these lectures, the elastic scattering in this section. Right? That will give you the so-called electron diffractions.
+对吧？而这种散射，对吧，在这些讲座中我们一直关注的是这一部分的弹性散射。对吧？这会产生所谓的电子衍射。
+
+Right? And the conclusion I want to bring about at first is that at the end you will see the results of the diffraction pattern is actually a conditioned replica of what you have in the reciprocal lattice. Right? In other words, if you see the diffraction pattern, that pattern is a conditioned replication of the reciprocal lattice itself.
+对吧？我想首先说明的是，最终你会看到，衍射图样的结果实际上是你在倒易晶格中所看到的条件性复制品。对吧？换句话说，如果你看到衍射图样，那么这个图样就是倒易晶格本身的条件复制。
+
+Right? Now, uh, we're going to find out how. Now, before getting to that, we have to first try to figure out a model to study the electron scattering process by the piece of solid.
+对吧？现在，呃，我们要弄清楚它是如何……现在，在进入这个内容之前，我们首先必须尝试建立一个模型，来研究电子与固体样品的散射过程。
+
+Right? Now, in this case, right, we'll not consider the electrons as a single particle. Though later on, we'll consider the elastic scattering. We'll go back to this particle model.
+对吧？现在，在这种情况下，对吧，我们不会把电子看作单个粒子。不过之后我们会考虑弹性散射。我们稍后会回到这个粒子模型。
+
+Now we're going to treat the electrons as waves. Just like photons, or X-rays, or, say, they are electromagnetic waves. Right? Now they have wavelengths, and the wavelength is associated or given by accelerated voltage, acceleration voltage, of inserted on these electrons.
+现在我们要把电子当作波来处理。就像光子、X射线，或者，比如说，它们是电磁波。对吧？它们现在具有波长，而波长与施加在这些电子上的加速电压有关，或者说由该电压决定。
+
+Right? So, uh, for waves, right, what we're going to solve eventually in terms of diffraction, uh, would be, uh, the wave function of the electrons. Right?
+对吧？所以，呃，对于波来说，对吧，我们最终要通过衍射来求解的，呃，就是电子的波函数。对吧？
+
+That is found in the space how we define waves. Right? And the so-called intensity that we'll see about these waves.
+它是在我们定义波的空间中找到的。对吧？以及我们即将看到的这些波所谓的强度。
+
+We don't see waves itself, but we see the intensity produced. So the intensity mathematically equals to φ, which is the wave function of the electrons times its conjugate, or φ2. Correct?
+我们看不到波本身，但能看到它产生的强度。所以，强度在数学上等于 φ，也就是电子的波函数与其共轭相乘，或者说 φ²。对吗？
+
+So that's how we'll get the intensity. We'll get to see the so-called diffraction or reflections. Okay? So, our role becomes, uh, straightforward. Uh, the goal is to find out the wave function of these electrons after it being scattered by a piece of crystalline solid.
+所以，这就是我们得到强度的方法。我们会看到所谓的衍射或反射。明白吗？所以，我们的角色就变得，呃，很明确。呃，目标是找出这些电子被一块晶体散射后的波函数。
+
+And how? Well, uh, so I'll describe the equation. That's the most straightforward method.
+怎么做？嗯，那么我会描述一下这个方程。这是最直接的方法。
+
+Right? So, uh, here the wave function φ of the electrons, right, at the non-relativistic velocities, not traveling too fast, right, that is why the time-independent Schrödinger equation, right, so here you see the Hamiltonian, and here I draw your attention to this two terms, right, uh, this E is the total energy of the electrons and the V is the potential energy. Right?
+对吧？那么，呃，这里电子的波函数 φ，对吧，在非相对论速度下，也就是没有运动得太快时，对吧，这就是为什么使用定态薛定谔方程，对吧？所以这里你们看到的是哈密顿算符，这里我请大家注意这两项，对吧？呃，这个 E 是电子的总能量，V 是势能。对吧？
+
+The electrons experience. So see, this E and V are different. Okay?
+电子经历。所以你看，这个 E 和 V 是不同的。明白吗？
+
+E is the total energy of your electron. So electron high energy electrons. Okay? And V is the potential energy this electron sees when it travels.
+E 是电子的总能量。所以，高能电子。明白吗？V 是这个电子运动时所经历的势能。
+
+Okay? So now you can see my modeling. Where is my model?
+明白吗？所以现在你们可以看到我的建模。我的模型在哪里？
+
+My model is that you have atoms in there for your solid. Right? So when electrons passing through this solid, right, you see the photonic potentials nearby.
+我的模型是，你的固体里面有原子。对吧？所以，当电子穿过这个固体时，对吧，你会看到附近的光子势。
+
+Right? So that's the potential energy it sees. Right?
+对吧？所以，这就是电子所看到的势能。对吧？
+
+From your piece of solid crystals. And that's how your piece of solid crystal plays a role in there, in determining the wave function of these electrons. Right? Now, uh, in absence of V, right, or in the constant V, V is not pending, right, you're going to get the solution, the Schrödinger equation will get a solution of a plane wave. Right? Now, if you have, uh, oscillating potentials, right, you have a piece of solid in final solution will be the wave format of a spherical wave lattice.
+来自你那块固体晶体。这就是固体晶体在其中发挥作用的方式，用来确定这些电子的波函数。对吧？那么，呃，在没有 V 的情况下，对吧，或者在 V 为常数的情况下，V 不是待定的，对吧，你会得到解，薛定谔方程会得到平面波解。对吧？现在，如果你有，呃，振荡势，对吧，那么在最终解中，固体的一部分将呈现球面波晶格的波形。
+
+Right? These are some general understandings. But anyways, the point of wave format, uh, will be taken the standard format.
+对吧？这些是一些基本的理解。不过，不管怎样，波形格式的重点，呃，会采用标准格式。
+
+Right? So you have a stands for the amplitude of the wave. And followed by a phase term is dimensional 2πI, right, k dot r, right, which is this k, right, is the scattering wave vector, and r is the described the location of the scattering.
+对吧？所以，A 表示波的振幅。后面是一个相位项，其量纲为 2πI，对吧？即 k·r，对吧？这里的 k，对吧，是散射波矢量，而 r 表示散射位置。
+
+Right? We're going to see that a little bit later.
+对吧？我们稍后会看到这一点。
+
+Well, now given that, right, so this is the general picture we're going to solve. Now, uh, in this class, we're not requiring, uh, any math or typical math that asks you to derive the derivatives or integrations. We're not going to require that. Though, uh, we're going to encounter, we're going to see some equations. The idea of introducing these equations, uh, is to let you see the physics behind.
+那么，现在既然已经知道了这一点，对吧，这就是我们要解决的总体情况。现在，呃，在这门课中，我们不要求你们进行任何数学运算，也不要求你们像通常那样推导导数或积分。我们不会要求你们做这些。不过，呃，我们会遇到一些方程，也会看到一些方程。引入这些方程的目的是让你们了解其背后的物理原理。
+
+Right? Why this electron diffraction process will take place and what is the result of it. Right? Uh, there will be a bit of the basic math, assuming that everybody has.
+对吧？为什么会出现这种电子衍射过程，以及它的结果是什么。对吧？呃，会有一点基础数学，假设大家都有。
+
+If you don't, you have to review it by yourself. Right? But by that time, I will bring it up.
+如果你没有，就得自己复习一下。对吧？但到时候我会提出来。
+
+Right? So we don't require that. Right? Now, let's look at a model here.
+对吧？所以我们不要求这样做。对吧？现在，我们来看一下这里的模型。
+
+I have an electron beam coming in the form of wave. Right? And that will be scattered by a piece of solid.
+我有一束电子，以波的形式入射。对吧？它会被一块固体散射。
+
+Now, how are we going to, uh, solve this problem? Right? Well, the general idea is that I'm going to cut this crystal into small, small pieces.
+那么，我们该如何，呃，解决这个问题呢？对吧？嗯，总体思路是把这块晶体切成非常非常小的碎片。
+
+Very small pieces. Right? How small?
+非常小的碎片。对吧？有多小？
+
+Right? That's stuffed from the smallest units. Right? So let's take this little atom in this crystal lattice. Right?
+对吧？那是由最小的单元填充而成的。对吧？那么，我们来看一下这个晶格中的这个小原子。对吧？
+
+But even for that, I'm going to cut this atom into small pieces. Right? Now, consider a volume, right, here of a single atom.
+但即使这样，我也会把这个原子切分成小块。对吧？现在，考虑一个单个原子的体积，对吧，就在这里。
+
+I'm going to define the origin for that individual anywhere, right, within this atom. Then, uh, at Ri which is a location this picture, away from the origin, I define the small volume. Right?
+我会在这个原子内部的任意位置定义这个单个原子的原点，对吧？然后，呃，在距离原点 R_i 位置，也就是这张图中的位置，我定义一个小体积。对吧？
+
+You see you have all volume here. I just pick up this one as a random example. Right? I pick up small volume. Now my waves are coming, right, this is my incident waves, described by the incident wave vector, lowercase k.
+你看，这里包含了整个体积。我只是随便拿这个为例。对吧？我选一个小体积。现在我的波正在传播，对吧？这是入射波，由小写 k 表示。
+
+Right? And then these waves will be scattered because you have a ton of solids in there, right, you have potential in there, it will be scattered, right, was the scattered wave vector known as lowercase k prime, right, k prime. So the scattered. Now that the magnitude of a k and k prime are the same, because they are elastic scatters, they don't lose energy.
+对吧？然后这些波会发生散射，因为里面有大量固体，对吧？里面有势场，所以会发生散射，对吧？散射波的波矢用小写 k′ 表示，对吧，k′。所以，散射的……现在，k 和 k' 的大小相同，因为它们是弹性散射，不会损失能量。
+
+Okay? So they're the same. Now, what is different? Well, what is different is that the phase, right, of the waves will be modified after it travels in the space.
+明白吗？所以它们是相同的。那么，有什么不同呢？那么，不同之处在于，波在空间中传播后，其相位会发生变化，对吧？
+
+Right? Now, let's consider, uh, a line of wave traveling, right, and being scattered by the small volume dBi and those traveled and scattered by a small volume at the origin. Right? We look at, right, the outcome of the scattered wave vectors and try to compare the difference of the two.
+对吧？现在，我们考虑一条传播的波，对吧，它被一个小体积元 dBi 散射，而这些波在原点被一个小体积元散射。对吧？我们来看散射后的波矢结果，并尝试比较两者之间的差异。
+
+So you see, uh, for this one, scattered by dBi, right, towards the incident wave, it travels an additional distance of this one. Right? But then, uh, for the scattered wave, if you, uh, put your connection board in here, you see the scattered wave k prime travels a bit more distance toward the incident waves that the scattered at the origin. Right? So, uh, if you're going to look at the, uh, there has my marker.
+所以你看，呃，对于这个由 dBi 散射的，对吧，朝向入射波的方向，它会额外传播一段这样的距离。对吧？但是，呃，对于散射波，如果你，呃，把连接板放在这里，你会发现，散射波的 k' 比在原点处散射时多向前传播了一点距离。对吧？所以，呃，如果你要看那个，呃，那里有我的标记。
+
+Right? So if you're going to look at, right, and compare the path difference of these two lines, now this is what you see, right? So you have, uh, k here, right, this is my eti, and here is
+对吧？所以，如果你要观察，对吧，并比较这两条线的光程差，现在看到的就是这个，对吧？所以这里有，呃，k，对吧，这是我的 eti，这里是……
+
+this is my scattered wave vector k prime. And this is my origin. So I have right, uh, another one.
+这是我的散射波矢量 k'。这是我的原点。所以我还有，呃，另一个。
+
+Well, this is not going very well.
+嗯，这不太顺利。
+
+It'll be easier. You see? Okay?
+会更容易。看到了吗？好吗？
+
+k prime and k prime, this is my k. Right? So let's look at the difference. So for the upper one, it travels a bit distance more here, right, but for the lower one, right, now after it being scattered, it travels a bit more.
+K 撇和 K 撇，这是我的 K，对吧？那么我们来看看这个差。所以，上面这个在这里多走了一点距离，对吧？但下面这个，对吧，散射之后，又多走了一点距离。
+
+Right? Now we're going to look at the difference between the two, and that tells the path difference of these two lines of electrons that travel through the scattered by the solids. All right?
+对吧？现在我们要看看这两者之间的差异，这表明了这两条穿过固体散射区域的电子束的路径差。明白吗？
+
+So what's the difference?
+那么，区别是什么？
+
+Difference will be this part minus this part. Is that right? Yeah.
+差就是这一部分减去那一部分。对吗？对。
+
+So what's this part?
+那么这一部分是什么？
+
+What's this part? This part.
+这一部分是什么？这一部分。
+
+What's this part? The distance of this one. So it will be Ri projected onto the k prime direction.
+这部分是什么？这个的距离。所以它将是 Ri 投影到 k' 方向上。
+
+Right? So it will be Ri dot lowercase k prime. Is that right?
+对吧？所以就是 R_i 点乘小写的 k'。对吗？
+
+Yeah. So how about the upper one? Similar things.
+对。那么上面那个呢？类似的东西。
+
+It's Ri projected onto the k directions.
+它是 R_i 在 k 方向上的投影。
+
+Right? So minus Ri dot k. Right? This becomes straightforward.
+对吧？所以是负的 R_i 点乘 k，对吧？这就变得很简单了。
+
+So you get Ri off, so I'm doing vectors. Vectorizations. Okay?
+所以你得到 R_i off，所以我用的是向量。向量化。明白吗？
+
+So Ri dot k prime minus k. Is that right? Okay. Now we're going to define the third physical parameters, which is very important we're going to follow that all the way along, which is the scattering wave vector that describes the difference between the scattered wave and the incident wave. All right? So scattering wave vector, I put k, define the difference in between the scattered wave and the incident wave.
+所以是 R_i 点乘 k' 减 k。对吗？好的。现在我们要定义第三个物理参数，这个参数非常重要，我们将在整个过程中一直沿用，也就是散射波矢量，它描述了散射波与入射波之间的差异。明白吗？所以，散射波矢量我用 k 表示，它定义了散射波与入射波之间的差。
+
+Okay? So that's, that's that. And then we have, uh, very simple conclusion drawn here.
+明白吗？所以，就是这样，就是这样。然后我们在这里得出了一个非常简单的结论。
+
+The path difference is actually the dot propagation between capital K prime and Ri. So what is capital K prime? The scattering wave vector, what is Ri?
+路径差实际上就是大写 K' 和 Ri 之间的点传播。那么，大写的 K' 是什么？散射波矢量，Ri 是什么？
+
+The that is for the location vector describes the location of the small volume. Okay? All right? So we get that. How about we get the path, the rest of things straightforward because of the path becoming too high, that gives the phase difference, right, of these two waves.
+那个位置矢量描述的是小体积的位置。明白吗？明白吗？所以我们明白了。我们来确定一下路径，其余部分就很简单了，因为路径变得太高了，这会导致这两列波之间存在相位差，对吧？
+
+Right? Now we can write the formula of the wave is as a, right, which is the amplitude, right, times exponential 2π I capital K prime dot Ri. Depending on where is your Ri, you have a lot of Ris in there. Okay? Now, another thing becomes straightforward.
+对吧？现在我们可以写出波的公式，就是振幅 a，对吧，乘以指数项 \(e^{2\pi i\mathbf{K}'\cdot\mathbf{R}_i}\)。根据你的 R_i 在哪里，那里有很多个 R_i。明白吗？现在，另一件事就变得很清楚了。
+
+You have an atom. I cut atoms into small pieces. At each of the location of the pieces, I give you the location Ri. All right? Now, each of these small volumes at Ri, will scatter the electrons at already solved, the wave format of electrons.
+你有一个原子。我把原子切成小块。对于每个碎片的位置，我都会给出它的位置 Ri。明白吗？现在，Ri处的每个小体积都会散射电子，而电子的波函数已经求解出来了。
+
+All right? The next thing is that if you collect all of them, right, and then there's a bit of trick, how to collect them. And that will be based on if we're going to spread out principle, so it tells you, right, each of the small volumes serves as the secondary sources emitting spherical wavelength. And the final wave you obtain for all of from all of them is the summation of the wavelengths.
+明白吗？接下来，如果你把它们全部收集起来，对吧，那么这里有一个小技巧，就是如何收集它们。这将基于我们是否要采用展开原理，所以它告诉你，对吧，每个小体积都充当发射球形波长的次级源。而从所有这些中得到的最终波，是各个波长的总和。
+
+Right? This is important. This is not the summation of the intensity.
+对吧？这一点很重要。这不是强度的总和。
+
+It's the summation of the wavelength. Right? If the intensity, you only have the A squared, then add up together. Right? But then, if you sum summation of the wave, the path difference comes to play a role.
+这是波长的总和。对吧？如果取强度，你只需把 A 的平方加在一起。对吧？但是，如果你对波进行求和，路径差就会发挥作用。
+
+Because you're going to integrate, right, as function of the path difference in there. Right? And then you can imagine this is a whole idea, right, telling you sometimes you have constructive interference or destructive interference, and you have strong scattering intensity somewhere, you have none.
+因为你要对路径差进行积分，对吧？它会作为其中的函数出现。对吧？然后你可以想象，这是一个完整的想法，对吧？它告诉你，有时会发生相长干涉或相消干涉；有些地方的散射强度很强，有些地方则没有。
+
+All right? So this is the nature of, uh, how you see, uh, the scattering or the diffraction of electrons because this is an integration of the secondary sources emitting spherical wavelengths, and these wavelengths have different phases. Right? How about with that, right, we're going to scan, uh, uh, we're going to skip, uh, 5,000 lines of the diffraction and similar, right, at the conclusions of, of the wave format scattered from, uh, single atom. All right? So here, uh, comes the summation results.
+明白吗？所以，这就是你如何观察电子散射或衍射的本质，因为这是由发射球面波长的次级源进行积分得到的，而这些波长具有不同的相位。对吧？那这样的话呢，对吧，我们要扫描，呃，呃，我们要跳过，呃，5,000条衍射线之类的，对吧，在……的结论中，以波的形式散射自，呃，单个原子的……明白吗？那么，呃，这里是求和结果。
+
+All right? I use it as an affimat. All right? So basically you, you are, uh, add up all the scattered waves from different locations in this atom.
+明白吗？我把它当作一个肯定句。明白吗？所以基本上，你，你就是，呃，把这个原子中不同位置的所有散射波加起来。
+
+Right? So here's the difference of potentials. Right?
+对吧？所以这里是电势差。对吧？
+
+And different locations of atom. All right? So that gives you affimat.
+以及原子的不同位置。明白吗？所以这就得到了 affimat。
+
+Of course, they're coming off wavelength in the form of a spherical wave. Right? So here's a typical form that you're going to write for spherical waves. But as much as putting here, right, affimat. So affimat is the so-called atomic scattering factor or, uh, atomic scattering amplitude.
+当然，它们以球面波的形式从波长中发出。对吧？所以，这是你们会写出的球面波的典型形式。但就像放在这里一样，对吧，affimat。所以，affimat 就是所谓的原子散射因子，或者，呃，原子散射振幅。
+
+Right? So that is very good. Very straightforward.
+对吧？所以，这非常好。非常直接。
+
+And think about the process. Then describe the capability of an atom that scattered electrons. There is a strong scattering, there is a weak scattering. Right? So that is what affimat tells you. Now, here this equation tells you the more about what affimat depends on or relies on.
+还要思考一下这个过程。然后描述一个散射电子的原子所具有的能力。有很强的散射，也有很弱的散射。对吧？所以，affimat 告诉你的就是这个。现在，这里的这个方程进一步说明了 affimat 取决于或依赖于什么。
+
+Right? Now, first of all, uh, when we calculate that, then that is the wavelengths of electrons. Right?
+对吧？那么，首先，呃，当我们计算这个时，那就是电子的波长。对吧？
+
+So the longer wavelengths the lower the energy of the electrons. So it has more chance to be scattered and interact. Right?
+所以，波长越长，电子的能量就越低。所以它更容易被散射和发生相互作用。对吧？
+
+These materials. So longer wavelengths, the scattering factor affimat is going up. That makes sense. Okay? And, uh, how about theta?
+这些材料。所以波长越长，散射因子 affimat 就越高。这说得通。明白吗？那么，呃，θ呢？
+
+Theta is the scattering angle. Right? So it tells you, right, the smaller the angle, the larger the scattering factor that is more.
+θ 是散射角。对吧？所以它告诉你，对吧，角度越小，散射因子越大，也就是越……
+
+That means this cannot be less scattering, is strongly forwarded. Right? At high angles, you don't have a lot of capability in there.
+这意味着这不能是散射较少，而是被强烈向前传输。对吧？在大角度下，你没有太多这方面的能力。
+
+All right? Now, uh, this term is actually a bit confusing. Right?
+明白吗？现在，呃，这个术语其实有点令人困惑。对吧？
+
+Now, previously in the model I just described, we don't have this. Right? We only consider Z.
+现在，在我刚才描述的模型中，我们没有这个。对吧？我们只考虑 Z。
+
+And that's doesn't make sense. Right? Z is the atomic number of the specific atom.
+这说不通。对吧？Z 是特定原子的原子序数。
+
+It basically tells you the atomic potential of this atom characteristic. All right? So the larger the Z, the heavier the atoms, the more scattering probability you're going to have.
+它基本上告诉你这个原子的原子势特征。明白吗？所以，Z 越大，原子越重，散射概率就越高。
+
+Making sense? All right? So the larger the Z, the larger the affimat.
+明白吗？明白吗？所以，Z 越大，affimat 越大。
+
+Right? Nonetheless, I'm putting an X here as a correction. Right? Because one electron is scattered, it's not always scattered, although strongly.
+对吧？不过，我在这里加一个 X 作为修正。对吧？因为一个电子被散射了，它并不总是被散射的，尽管散射很强烈。
+
+Right? By the atomic core. So that is the Z contribution. Right? It's also affected by the electrons and material electrons that are orbiting outside of the core.
+对吧？被原子核散射。所以那就是 Z 的贡献。对吧？它还会受到围绕原子核外运行的电子和材料电子的影响。
+
+So that's this at the spinning band, which should be corrected. Right? So this term affects, is actually a correction point introduced.
+所以，这就是旋转带中的这个，应该进行修正。对吧？所以，这个项会产生影响，实际上引入了一个修正点。
+
+Right? For the atomic structure scattering. Right? Now, uh, since we mentioned affects, we actually, uh, sort of mentioned it before.
+对吧？用于原子结构散射。对吧？现在，呃，既然我们提到了影响，其实，呃，我们之前也稍微提到过。
+
+Right? Let's try to understand why it's called affects, X stands for the force. X stands for accelerate.
+对吧？我们来试着理解一下为什么它叫作“affects”，X 代表力。X 代表加速。
+
+Right? Now, you should, uh, have something that sounds very similar in your mind. We talk about this. When we discuss the accelerates, all right, when we say the scattering of accelerates is actually very weak compared to electrons.
+对吧？现在，你应该，呃，脑海中浮现出一个听起来非常相似的东西。我们谈过这个。当我们讨论加速时，好吧，当我们说散射的加速实际上与电子相比非常弱。
+
+That's why in our day we're using electron source instead of accelerate source. So we mentioned that at the time. Right? Why is that? Because we think about it, what's the interaction between what's the nature of the interaction in between the electron and the solid?
+这就是为什么我们这个时代使用电子源，而不是加速源。所以我们当时提到过这一点。对吧？为什么？因为我们思考这个问题：电子与固体之间的相互作用是什么样的？这种相互作用的本质是什么？
+
+Coulombian interactions. So electron and charge particles, your, uh, materials, because of the positive charge of the source and negative charge of the charge electrons. Right?
+库仑相互作用。所以，电子和带电粒子，也就是你们的，呃，材料，由于源的正电荷和带电电子的负电荷。对吧？
+
+So these are charge interactions. Those are strong interactions. How about accelerate?
+所以这些是电荷相互作用。那些是强相互作用。加速呢？
+
+Accelerate are photons. Right? So photons are mass space and chargeless particles.
+加速是光子。对吧？所以，光子是无质量、无电荷的粒子。
+
+Right? The same way they can have spherical coulombian interactions. So the accelerate interactions are mainly happens what's the undershadowed electrons of the materials in terms of the wave interactions.
+对吧？同样，它们可以产生球对称的库仑相互作用。所以，加速相互作用主要发生在材料的电子上，就波相互作用而言，这些电子处于阴影之下。
+
+And those are weak interactions compared to the coulombian nature. Right? So in a sense, the affects, right, which is the scattering factor of accelerates, is a lot smaller than affimat, which is the atomic scattering factor of which, you know, is atomic force there.
+与库仑相互作用相比，这些相互作用很弱。对吧？所以从某种意义上说，affects，对吧，也就是加速的散射因子，比 affimat 要小得多。affimat 是原子散射因子，也就是其中的原子力。
+
+Right? Now, due to large and small interaction cross sections, right, now, because of that, right, the difference has of electrons are short. So in, uh, by a piece of, uh, solid with fixed thickness, you make the scatter is one time, two time, a lot of times. So it's called multiple scatterings. Right? And then for accelerates, right, big interactions might be transferred away.
+对吧？那么，由于相互作用截面的大小差异，对吧，正因为如此，电子的差异很短。所以在一片厚度固定的固体中，散射会发生一次、两次，甚至很多次。所以这叫作多次散射。对吧？然后对于加速器，对吧，大型相互作用可能会被转移走。
+
+So the penetration and single scattering process, what we call kinematical process. Right? Now, they also have a bit of difference on differentiating the light and heavy atoms.
+所以，穿透和单次散射过程，也就是我们所说的运动学过程。对吧？现在，它们在区分轻原子和重原子方面也有一点差异。
+
+Right? So that's a comparison of affects and affimat. Right?
+对吧？所以，这是对 affects 和 affimat 的比较。对吧？
+
+Now, so far so good. So we're done with the single atom. Right?
+到目前为止都还不错。所以我们已经讲完了单个原子。对吧？
+
+Now, our goal is to consider scattering from a whole piece of solid. The role it does with one atom has not yet been explained. A little bit. Now, the expansion is not that large. Now, we should consider one unit cell in the prism lattice.
+现在，我们的目标是研究整个固体的散射。它对单个原子的作用尚未得到解释。一点。现在，膨胀并没有那么大。现在，我们应该考虑棱柱晶格中的一个晶胞。
+
+One unit cell. Right? So that brings back to the early definitions and the big for us.
+一个晶胞。对吧？所以这就回到了我们之前定义的早期内容，以及对我们来说很重要的……
+
+Right? So what is a unit cell? Unit cell is defined in the prism lattice.
+对吧？那么，什么是晶胞？晶胞是在棱柱晶格中定义的。
+
+Right?
+对吧？
+
+So here is the confusing point. Right? So in the prism lattice, are there any atoms?
+所以，这里就是令人困惑的地方。对吧？那么，在棱柱晶格中，有没有原子？
+
+Yes, of course. Otherwise, you don't have crystals. Right?
+当然有。否则，你就没有晶体。对吧？
+
+So what's the relationship of these atoms and the lattice points? Now, if you recall, I said the atoms are not necessarily sitting on the lattice points.
+那么，这些原子和晶格点之间有什么关系？现在，如果你们还记得，我说过，原子不一定位于晶格点上。
+
+Right?
+对吧？
+
+So this goes back to an early exercise. The first line structure and the prism lattice are two different things. Prism lattice is an abstract concept describing the symmetry of the crystals. Right? And in each of the lattice, right, you can define a unit cell.
+所以这就回到了前面的一道练习题。第一行结构和棱镜晶格是两回事。棱柱晶格是一个描述晶体对称性的抽象概念。对吧？在每个晶格中，对吧，你都可以定义一个晶胞。
+
+And you can always define a primitive unit cell that contains one and only one lattice point. Did I say that? So a prism lattice basically is empty.
+你总可以定义一个原胞，它恰好包含一个晶格点。我说过吗？所以，棱柱晶格基本上是空的。
+
+It doesn't have any atoms in there. The real prism structure has right? Now, where are these atoms?
+里面没有任何原子。真正的棱柱结构有，对吧？那么，这些原子在哪里？
+
+So these atoms are sitting in specific locations in the unit cells. Right? So once you abstract it into an empty cell, you move the empty cell, you build up the lattice.
+所以这些原子位于晶胞中的特定位置。对吧？所以，一旦把它抽象成一个空单元格，你移动这个空单元格，就能构建出晶格。
+
+But then within each of the cells, you do have atoms in there in terms of the real prism structure. Right? Now, we are considering so in the earlier case where we discussed the symmetry, we can forget about where are the atoms.
+但在每个晶胞内部，实际上都存在原子，也就是真实棱柱结构中的原子。对吧？现在，我们考虑的是，所以在前面讨论对称性时，我们可以忽略原子位于何处。
+
+Right? But now, we're talking about the scattering. The atoms got to be there.
+对吧？但现在，我们讨论的是散射。原子必须在那里。
+
+If the atoms are not there, electrons will not be scattered. Okay? So now, we're putting the atoms back into the unit cells.
+如果原子不在那里，电子就不会发生散射。明白吗？所以现在，我们把原子放回晶胞中。
+
+Right? So where are these atoms?
+对吧？那么，这些原子在哪里？
+
+Where are these atoms?
+这些原子在哪里？
+
+These atoms, right, uh, will be inside by, again, a location vector of our eye. Now, what is our eye? Our eye is the coordinate of the specific atoms of interest.
+这些原子，对吧，呃，将再次由我们眼睛的位置向量表示。那么，我们的眼睛是什么？我们的眼睛是所关注的特定原子的坐标。
+
+Okay? Then if you have a unit cell, like this, you have a random unit cell like this.
+明白吗？那么，如果你有一个晶胞，像这样，你就会有一个像这样的随机晶胞。
+
+It is a primitive that has only one lattice point. But inside a different locations, you can you can have a splitting atoms if possible. Right? And you see the coordinates of any specific atom.
+这是一个只包含一个晶格点的原胞。但在不同的位置，如果可能的话，原子可能会分裂。对吧？你可以看到任意特定原子的坐标。
+
+It's a fraction of the lattice vectors. So it's not an even times. It's a fraction of the lattice vectors. All right?
+它是晶格矢量的一个分数。所以它不是偶数倍。它是晶格矢量的分数倍。明白吗？
+
+But with everything here, now, we're continuing our scattering. Now, the idea is the same. Previously, we say is that one atom you have atom in small pieces and consider all the small pieces, uh, secondary sources and then collected all the scattered waves in small group. Okay? Now, what we do now, we say, "I know the situation.
+但现在有了这里的所有内容，我们继续讨论散射。现在，思路还是一样的。之前我们说过，对于一个原子，把它分成许多小块，把所有小块都视为次级源，然后把所有散射波收集到一个小组中。明白吗？现在，我们所做的就是说：“我知道这种情况。
+
+I know the wave coming from one atom." Right? But now, we consider a unit cell.
+我知道来自一个原子的波。”对吧？但现在，我们考虑一个晶胞。
+
+In this unit cell, we have a few atoms at different locations. So what can we do? Do the same thing. All right?
+在这个晶胞中，有几个位于不同位置的原子。那么我们能做什么呢？做同样的事情。明白吗？
+
+So we have all three, uh, coming from each of the atoms is scattered. All right? And collect all of them.
+所以我们有全部三种，呃，来自每个原子的散射。明白吗？并将它们全部收集起来。
+
+In the form of wave summation. Again, all right? So we need to follow the same formula.
+以波浪叠加的形式。再来一次，好吗？所以我们需要遵循相同的公式。
+
+Right? So this is a circle with that. Then we're going to summarize is that we add up, right, uh, the atomic scattering factor of an atomic of an atom I, right, which is the amplitude of the wave, and the phase of the wave, which is described by exponential 2πI, is the same. Can we not take prime?
+对吧？所以这是一个带有那个的圆。然后我们要总结的是，我们把原子的原子散射因子相加，对吧，呃，也就是原子 I 的原子散射因子，对吧，也就是波的振幅和相位，由指数 2πI 表示，是相同的。我们不能取撇吗？
+
+The scattering wave vector dot with our eye. So what is our eye? The location of the atom.
+散射波矢量与我们眼睛的点积。那么，我们的“eye”是什么？原子的位置。
+
+Okay? So the idea is quite straightforward. Uh, then, uh, this is, uh, the thing. We only care about the summation term.
+明白吗？所以这个思路非常直观。呃，然后，呃，这就是，呃，那个东西。我们只关心求和项。
+
+Right? So in the summation term, you know, this term is here. That's the atomic scattering factor of a specific atom I.
+对吧？所以在求和项中，你知道，这个项在这里。那是特定原子 I 的原子散射因子。
+
+Now, you're going to summarize all of the atoms, right, starting from one to n. Right? Of this atom I in there. Right? And our eye, right, is the location of the uh, it's not the location of the lattice points, but the specific atomic XYYIZI at a fractional coordinates of atom I. Right? So with that, uh, we give a special name of the summation term, which is called the structure factor.
+现在，你要把所有原子的贡献加起来，对吧，从第一个到第 n 个。对吧？其中的这个原子 I。对吧？而我们的眼睛，对吧，是，呃，它不是晶格点的位置，而是特定原子 XYYIZI 在原子 I 的分数坐标处的位置。对吧？所以，呃，我们给这个求和项起了一个专门的名称，叫作结构因子。
+
+Right? So why is it called the structure factor? Because the real structure, right, lies on where are the atoms are.
+对吧？那么，为什么它叫作结构因子呢？因为真正的结构，对吧，取决于原子位于何处。
+
+Right? And then later on, you will see the structure factor is very important important in determining whether you will have the scattering intensity or not. Right? The reason why is that the structure factor the structure factor, right, uh, that, that is at right, the waves coming from it, we say you will see the waves.
+对吧？然后之后你会看到，结构因子对于确定是否存在散射强度非常重要。对吧？原因是结构因子，结构因子，对吧，呃，那个，那个在……对，来自它的波，我们说你会看到这些波。
+
+You will see the waves. Right? You see, okay, the waves we see is the, uh, wave function times this conjugate.
+你会看到这些波。对吧？你看，好的，我们看到的波是，呃，波函数乘以这个共轭。
+
+So it's the square of the wave function. Right? And, and that will give a term of a square of the amplitude which is the square of the structure factor.
+所以它是波函数的平方。对吧？这样就会得到一个振幅的平方项，也就是结构因子的平方。
+
+If this term is zero, which is nothing, right, only if this term is not zero, we're going to see the scattering intensity. Right? So that's why we care so much about it. Right? So this is a, uh, the definition and how to calculate a theta is a much harder test, right, question in this sense.
+如果这个项为零，也就是什么都没有，对吧？只有当这个项不为零时，我们才会看到散射强度。对吧？所以这就是为什么我们如此关注它。对吧？所以，这是一个，呃，关于定义以及如何计算 θ 的问题，从这个意义上说，这是一道难度更高的测试题，对吧？
+
+Right?
+对吧？
+
+So we're going to see how to solve that a bit later. All right? But let's first continue the scattering process.
+所以稍后我们会看到如何求解。明白吗？不过，我们先继续散射过程。
+
+Right? The scattering process. We're always done with one unit cell.
+对吧？散射过程。我们总是用一个晶胞完成。
+
+Right? Right? We're still having to care about the coordinates.
+对吧？对吧？我们仍然必须关注坐标。
+
+So how to expand from one unit cell to a whole person?
+那么，如何从一个晶胞扩展到整个人呢？
+
+How do I do that?
+我该怎么做？
+
+This is actually the most straightforward part. If you're clear about the definition of the personal lattice, now, I just said, "Okay, so this let you let me use 2D models to explain this." Right? So I have already solved the situation of, uh, electron scattered from one unit cell.
+这其实是最直接的部分。如果你清楚个人格子的定义，那么刚才我说：“好，所以这让我可以用二维模型来解释这一点。”对吧？所以我已经解决了电子从一个晶胞散射的情况。
+
+So in one unit cell, I can have some atoms here and there. Doesn't matter. So I know that.
+所以在一个晶胞中，我这里和那里都可以有一些原子。没关系。所以我知道这一点。
+
+All right? Now, I'm saying that I want to expand to the whole crystals. How do we do that?
+明白吗？现在，我想把它扩展到整个晶体。我们怎么做？
+
+So crystals means I expand this thing, right, by adding more and more unit cells in the three-dimensional space or two-dimensional space in the specific case.
+所以，晶体意味着我把这个东西扩展开来，对吧？具体来说，就是在三维空间或二维空间中不断增加更多的晶格单元。
+
+Is that right? Can I do this? Right?
+对吗？我可以这样做吗？对吧？
+
+I know the waves coming from this blob already. So I only need to add up the second blob, third blob. It's the same thing.
+我已经知道这个团块发出的波了。所以我只需要把第二个团块、第三个团块的波叠加起来。是一样的。
+
+All right? But I can use the same equation.
+明白吗？但我可以用同一个方程。
+
+Right? So the structure factor, right, which is coming from one of the unit cells, right, and phase terms, right, same thing. So I'm going to summarize all of them together.
+对吧？所以结构因子，对吧，它来自其中一个晶胞，对吧，还有相位项，对吧，是一样的。所以我要把它们全部汇总在一起。
+
+Using the sigma. All right? So add up together.
+使用西格玛。明白吗？所以把它们加在一起。
+
+That's not the problem. But the only question is that so what is my Rn?
+那不是问题。但唯一的问题是，那么我的 Rn 是什么？
+
+In the previous case, Rn, we know, is a location indicator of the real space. Right? That means from here, I'm going to do the equation.
+在前面的案例中，我们知道，Rn 是真实空间中的位置指示器。对吧？这意味着从这里开始，我要进行方程推导。
+
+Right? So where is it? So what is Rn?
+对吧？那么它在哪里？那么，Rn 是什么？
+
+In the corresponding real space lattice. So one Rn the first Rn represents the first unit cell. Right?
+在相应的实空间晶格中。所以，一个 Rn，第一个 Rn 表示第一个晶胞。对吧？
+
+The second, the second one part. Okay? So how do we do that?
+第二个，第二个部分。明白吗？那么我们该怎么做呢？
+
+So Rn is actually the location of the so this is my lattice. Right? So we have atoms inside and now we can forget about it for a while.
+所以，Rn 实际上是……的位置，所以这就是我的晶格。对吧？所以原子位于其中，现在我们可以暂时把它忘掉。
+
+All right? So these are my lattice.
+明白吗？所以这些是我的晶格。
+
+我要的是你刚刚截的那个什么。
+What I want is that thing you just screenshoted.
+
+So we're going back to the lattice.
+所以我们回到晶格。
+
+你刚刚发我那个截的原始什么什么样子。
+The original version of that screenshot you just sent me.
+
+All right?
+明白吗？
+
+是的，后面都一样。
+Yes, the rest are all the same.
+
+把它翻着写。
+Write it upside down.
+
+So you see that I first unit cell.
+所以你看，这是我的第一个晶胞。
+
+这边的一些数据是。
+Some of the data here is.
+
+So if I try at this point, I find.
+所以，如果我在这个时候尝试，我会发现。
+
+对。
+Right.
+
+So my first unit cell. Okay?
+所以我的第一个晶胞。明白吗？
+
+这个不行吗? 不能在这个上面去。我要把这个挪过来。
+Doesn't this work? You can't go on this one. I need to move this over.
+
+This is my second one.
+这是我的第二个。
+
+你这中文的，一般在香港都是英文。不是，你这个中文模板不丑吗?
+In Chinese, it’s usually in English in Hong Kong. No, isn’t this Chinese template ugly?
+
+Fourth one.
+第四个。
+
+可以再改啊。先把内容定。先把内容定。
+You can change it again. First, decide on the content. First, finalize the content.
+
+You are expanding.
+你正在扩张。
+
+模板就是不一样，但是内容写的没有完整。
+The template is different, but the content isn’t complete.
+
+All right. That represents.
+好的。那表示。
+
+啊?
+Huh?
+
+Unit cell. Right? So this is the thing.
+晶胞。对吧？所以就是这个东西。
+
+Each of the lattice points represents one unit cell. Right? Now, we have a clear definition of Rn.
+每个晶格点代表一个晶胞。对吧？现在，我们对 Rn 有了明确的定义。
+
+That is the coordinates of my lattice vector. Okay? So what is reported in my lattice vector?
+那就是我的晶格向量的坐标。明白吗？那么，我的晶格向量中报告的是什么？
+
+You mean W, basically. Here I use N1, N2, and N3.
+你基本上指的是 W。这里我使用 N1、N2 和 N3。
+
+All right? Okay. So we're good with that.
+明白吗？好的。所以我们没问题。
+
+And now, we arrive at, uh, this. Right? To review a little bit, right, because the methodology is really, really important.
+现在，我们得到了，呃，这个。对吧？稍微回顾一下，对吧，因为方法论真的非常重要。
+
+Right? What did we do? We tried to figure out the scattering of electrons from the piece of a crystalline solid.
+对吧？我们做了什么？我们试图研究电子从一块晶体固体中散射的情况。
+
+Right? We start from the basic of single atom. Right? So we do the integration. And in that process, we define a very important principle parameter, known as atomic scattering factor.
+对吧？我们从单原子的基本情况开始。对吧？所以我们进行积分。在这个过程中，我们定义了一个非常重要的原则参数，称为原子散射因子。
+
+That describes the capability of a single atom in scattering electrons. All right? It's strong, or it's weak. All right?
+它描述了单个原子散射电子的能力。明白吗？它很强，或者很弱。明白吗？
+
+Now, uh, from that, we expand to a single unit cell. All right? And there, we define the important physical term known as the structure factor.
+现在，呃，由此，我们扩展到单个晶胞。明白吗？在那里，我们定义了一个重要的物理量，称为结构因子。
+
+Right? That really relies on the specific location of the atoms in that unit cell. All right? Uh, and then, uh, with that, we can finally arrive at the wave format.
+对吧？这实际上取决于原子在该晶胞中的具体位置。明白吗？呃，然后，呃，有了这个，我们终于可以得到波形格式。
+
+All right? One electron scattered from the crystal. All right?
+明白吗？一个电子从晶体中散射出来。明白吗？
+
+That has this term. Which is the entity. All right?
+其中有这个项。这是实体。明白吗？
+
+And this is the phase and the format of the spherical wave pattern. Okay? What is the most important would be the phase term as I said. It's the intensity that you see from the waves.
+这是球面波图样的相位和形式。明白吗？正如我所说，最重要的应该是相位项。这是你从波中看到的强度。
+
+All right? So you're going to have a square on that one. All right?
+明白吗？所以那个上面会有一个正方形。明白吗？
+
+Or say, let's say this is the amplitude. Right? Of the wave.
+或者，假设这是振幅。对吧？波的。
+
+Right? But that is important. We have to make sure, right, this one will have the constructed materials.
+对吧？但这一点很重要。我们必须确保，对吧，这个会包含构建材料。
+
+So it needs the scattering intensity. Right? And if you look at the term, the summation term, we have two terms here.
+所以它需要散射强度。对吧？如果你看一下这个项，也就是求和项，这里有两个项。
+
+Right? One is the structure factor. That is just mentioned.
+对吧？一个是结构因子。这里只是提到了。
+
+And the other is the exponential term. Or the phase term. All right? Now, for the structure factor, for the same lattice, right, N is the number of unit cells you're going to do the summation.
+另一个是指数项。或者相位项。明白吗？现在，对于结构因子，对于同一个晶格，对吧，N 是你要进行求和的晶胞数量。
+
+Right? But then for the same lattice, F is fixed. Right?
+对吧？但对于同一个晶格，F 是固定的。对吧？
+
+For the same crystal, the lattice is fixed. So F is fixed. That F will not be changing from one unit cell to another.
+对于同一晶格，晶格是固定的。所以 F 是固定的。这个 F 在不同晶胞之间不会发生变化。
+
+All right? So in the summation, you can take it off. All right?
+明白吗？所以在求和中，你可以把它提出来。明白吗？
+
+So it's N times F. All right? Okay.
+所以是 N 乘以 F。明白吗？好的。
+
+As long as F is not zero, we're good. If F is zero, we're in trouble. We don't see anything.
+只要 F 不为零，就没问题。如果 F 为零，我们就麻烦了。我们什么也看不到。
+
+All right? So that will be discussed a little bit later. Right?
+明白吗？所以这个稍后再讨论。对吧？
+
+My second discussion. So we put it aside. We remove it for now. Now, we're going to look at what? The summation of the exponential 2πI k prime dot Rn.
+我的第二个讨论。所以我们把它放在一边。我们先把它删掉。现在，我们要看什么？指数项 \(e^{2\pi i k'\cdot\mathbf{R}_n}\) 的求和。
+
+Right? We're going to look at the summation term.
+对吧？我们要研究这个求和项。
+
+So we care about the summation term, the exponential 2πI capital k prime dot Rn.
+所以我们关注的是求和项，也就是指数项 \(e^{2\pi i\mathbf{K}'\cdot\mathbf{R}_n}\)。
+
+Right? So this is the matrix we care about. Uh, now, uh, again, skip the deductions, but assume that, uh, you know what will be the constructed interference case is that, right, this term, this term, right, now we consider is a number or something.
+对吧？所以这就是我们关注的矩阵。呃，现在，呃，还是跳过推导，但假设，呃，你知道，构造出来的干扰项会是什么，对吧？就是这个项，这个项，对吧？现在我们把它看作一个数之类的。
+
+Right? Now, we call it we give it name A. Right? So this becomes a summation exponential 2πI dot.
+对吧？现在，我们把它命名为 A，对吧？所以这就变成了求和指数 \(2\pi i\dot{}\)\(。
+
+We times N.
+我们乘以 N。
+
+All right? We're not going to go through the deductions because this is a, uh, university first-year math. All right?
+明白吗？我们不会详细推导，因为这是，呃，大学一年级的数学课。明白吗？
+
+So I'm going to use the conclusion right away. All right? And this one, all right, will have integers members.
+所以我会马上用这个结论。明白吗？而这个，好吧，它的成员都是整数。
+
+Or constructed constructed interference. One, this N is an integer. All right? So we can use that conclusion to produce a few constructed interference, go to the Internet, write deductions, write everything available in any of the textbooks, uh, university first-year, uh, mathematics.
+或者构造的、构造的干扰。一，这个 N 是整数。明白吗？所以我们可以利用这个结论构造出一些干扰项，上网，写出推导，写出任何教材中所有可用的内容，呃，大学一年级的，呃，数学。
+
+All right? So we can use that one. All right? And that one tells you your k prime dot N dot Rn need equals to an integer.
+明白吗？所以我们可以用那个。好吗？而那个告诉你，你的 k' 点 N 点 Rn 需要等于一个整数。
+
+That happens. You're going to have the so-called constructed interference, or the deduction. Right?
+这种情况会发生。你会得到所谓的构造干涉，或者推导。对吧？
+
+Now, let's look at this.
+现在，我们来看一下这个。
+
+Let's look at this. Can we do k prime dot Rn need equals to an integer?
+我们来看一下这个。我们能不能设 k' 点 Rn 需要等于一个整数？
+
+It looks similar, but it's unclear.
+看起来很像，但不清楚。
+
+好像我没听到。
+It seems like I didn't hear it.
+
+You're looking weird.
+你看起来怪怪的。
+
+Have you seen similar things in my earlier lectures?
+你们在我之前的讲座中见过类似的东西吗？
+
+Yeah. I, I just to show, as a review, right, let's say, uh, if you have EHKL, EHKL dot RUVW equals to an integer. If you have a set of parallel things, right, uh, that is the relationship, right, identified. Right? So in other words, if by capital k prime is equivalent or equals by G vector, if there is a, well, then this requirement is satisfied. Right? So in order to have k dot Rn equals an integer, I'd better, like, by k prime equals to GHKL.
+有。我，我只是想复习一下，对吧，假设，呃，如果你有 EHKL，EHKL 点 RUVW 等于一个整数。如果你有一组平行的物体，对吧，呃，这就是所确定的关系，对吧。对吧？换句话说，如果大写的 k' 等于 G 向量，那么这个要求就满足了。对吧？所以，为了使 k 点 Rn 等于一个整数，我最好，比如说，令 k 点等于 GHKL。
+
+Which is my reciprocal lattice vector.
+也就是我的倒易晶格矢量。
+
+Okay?
+明白吗？
+
+So that is the condition we derived. In order to have the depression intensity.
+所以，这就是我们推导出的条件。为了得到衍射强度。
+
+Right? And that sounds very strange and, uh, seems to be low meaning at all, but let's have a bit of deductions to see, uh, what is it.
+对吧？这听起来很奇怪，而且，呃，似乎完全没有什么实际意义，不过我们来推导一下，看看，呃，它究竟是什么。
+
+So let me move it to the top.
+那我把它移到最上面。
+
+So we say we want capital k prime equals to my GHKL in order to have depression intensity. Right? So what is my, uh, GHKL in terms of, uh, magnitude?
+所以我们说，我们希望大写 K' 等于我的 GHKL，以便得到沉降强度。对吧？那么，我的，呃，GHKL 用幅度来表示是多少？
+
+GHKL, the size of it, equals to 1 over GHKL. Right? So reciprocal relationship.
+GHKL 的大小等于 1 除以 GHKL。对吧？所以是互为倒数的关系。
+
+Okay? And how about, like, capital k prime? What is it? By definitions.
+明白吗？那大写的 K' 呢？它是什么？根据定义。
+
+Right? We see it's actually there straightforward. As long as you follow strict the definition.
+对吧？我们看到，它其实很直观地在那里。只要你严格遵循定义。
+
+Right? So what is, like, k prime? I have my incidence with vector k.
+对吧？那么，k'是什么呢？我有与向量 k 的内积。
+
+Right? And here I have my scatter with vector lowercase k prime. The difference tells me my scattering with vector, capital k prime, is the result. So we have a scattering angle θ.
+对吧？这里我有用小写 k' 表示的散射。差值告诉我是大写 k' 向量的散射结果。所以我们有一个散射角 θ。
+
+Okay? Now, let's look at some simple geometrical relationship. So what is the size of a capital k prime?
+明白吗？现在，我们来看一些简单的几何关系。那么，大写的 K' 是多大？
+
+So it's, uh, let's say it's the sum angle θ. Okay?
+所以，呃，我们把它称为总角度 θ。好吗？
+
+The size times sin θ. Is that right? So equals to k for k prime.
+大小乘以 sin θ。对吗？所以等于 k，对于 k'。
+
+Doesn't matter. It's the same. Okay?
+没关系。是一样的。明白吗？
+
+Times sin θ.
+乘以 sin θ。
+
+Right? Right? And 2 times okay?
+对吧？对吧？然后乘以2，好吗？
+
+All right. So what is this? What is this?
+好的。那么这是什么？这是什么？
+
+Let me put it, uh, on top.
+让我把它，呃，放到上面。
+
+So I say my capital k prime by geometry equals to 2 times my k. This one. Right?
+所以我根据几何关系说，我的大写 K 撇等于 2 倍的 k。就是这个。对吧？
+
+Times sin θ. Right? What is this?
+乘以 sin θ。对吧？这是什么？
+
+1 over lambda. Is that right? So equals to 2 lambda sin θ.
+1/λ。对吗？所以等于 2λ sin θ。
+
+Okay? So I say this one equals this one. So that is my DHKL equals to lambda over 2 over lambda sin θ.
+明白吗？所以我把这一项等于这一项。所以，我的 DHKL 等于 λ/2 除以 λ sin θ。
+
+What is this?
+这是什么？
+
+2D sin θ equals to lambda. Does that look similar to you? Many of you have seen this before.
+2D sin θ 等于 λ。你们觉得这看起来相似吗？你们很多人以前见过这个。
+
+This is the direct law deduced in the real space. Okay? So when we're deducing, it's the same direct law in the reciprocal space.
+这是在实空间中推导出的直接定律。明白吗？所以，当我们推导时，它在倒易空间中也是同样的直接定律。
+
+Okay? So we were just deducing from this analysis the direct law in the reciprocal space. All right, good?
+明白吗？所以我们刚才就是根据这个分析推导出倒易空间中的正律。好的，明白了吗？
+
+Okay? So if that is clear, now I'm going to ask, so what is the point? I mean, you spend a whole deal, right, if you're going to look at the simple crystallography diffractions using the X-rays, the picture is very straightforward.
+好吗？所以，如果这一点清楚了，现在我要问：那么重点是什么？我的意思是，你们花了不少功夫，对吧？如果要用X射线研究简单的晶体衍射，情况就非常清楚。
+
+You easily get the 2D sin θ equals to n times lambda. All right? So what is point of doing all these things around? Right? Because geometrically, right, uh, it's very straightforward in telling you what is the crystal lattice looks like.
+你很容易得到二维的 sin θ 等于 nλ。明白吗？那么，围绕这些事情做这一切的目的是什么？对吧？因为从几何角度来看，对吧，呃，它非常直观地告诉你晶格是什么样的。
+
+All right? Now let's move to that.
+明白吗？现在我们来看一下。
+
+Right?
+对吧？
+
+So, uh, we're here.
+那么，呃，我们到了。
+
+So we understand, right, in order to satisfy the bright condition, we have to have the scattering with vector, uh, overlaps with my lattice vector being the reciprocal space. Right? So in the reciprocal space, now I can imagine we have a lattice.
+所以我们明白，对吧，为了满足布里渊条件，散射矢量必须与我的晶格矢量重合，而晶格矢量位于倒易空间中。对吧？所以在倒易空间中，我现在可以想象有一个晶格。
+
+Right? It's a, uh, a three-dimensional lattice, but not, no, let's consider a simpler case. We have a layer.
+对吧？这是一个，呃，三维晶格，不过不，不，我们先考虑一个更简单的情况。我们有一个层。
+
+Right? Coming from this, uh, uh, three-dimensional space. So this is my, uh, lattice in the reciprocal space. And this is my particular reciprocal lattice vector, G. Okay? Now,
+对吧？来自这个，呃，呃，三维空间。所以这是我在倒易空间中的晶格。这是我的特定倒易晶格矢量 G。明白吗？现在，
+
+That and if you have this scattered wave vector overlapping the stream to know which one is scattered wave vector. Now, to do this, we're going to introduce the famous evil sphere, so I'm going to construct a sphere by describing the spherical wavelength, right? Now, this sphere, right, starts with an origin, with a radius of k, or 1 over λ, right? So now we're going to construct a spherical surface, right, now, uh, the definition of a k prime—having a k prime in spheres straightforward—that's the difference in between k and k prime.
+还有，如果你有这个散射波矢量与流重合，就能知道哪一个才是散射波矢量。现在，为了做到这一点，我们要引入著名的“邪恶球体”。所以，我要通过描述球形波长来构造一个球体，对吧？现在，这个球体，对吧，以原点为起点，半径为 k，也就是 1/λ，对吧？那么现在我们要构造一个球面，对吧？呃，k′的定义——在球体中直接用k′——就是k和k′之间的差。
+
+So it's here, right? So what I'm saying here is that if your k prime overlaps with t, right, you're going to see the scattering intensity, recognition.
+所以它在这里，对吧？所以我的意思是，如果你的 k' 与 t 重叠，对吧，你就会看到散射强度，识别。
+
+Is that right?
+对吗？
+
+So we specify this part overlaps with t. You receive this part.
+所以我们规定这一部分与 t 重叠。你会接收到这一部分。
+
+And with this part, this part is the lattice point in the reciprocal space. So if I will be able to see all of that, I know what my reciprocal lattice looks like. And there's a direct mathematical relationship in between the reciprocal lattice and row space lattice.
+而这一部分，这一部分是倒易空间中的晶格点。所以，如果我能看到所有这些，我就知道我的倒易晶格是什么样的。倒易晶格和行空间晶格之间存在直接的数学关系。
+
+So I know my row space looks like. Right, so geometrically, electron diffraction pattern is a replica of what you have in the reciprocal lattice. Right, and you have a direct correlation to this part, the reciprocal distractions. Right, so that's why, um, how—or how we're going to understand that you have some diffractions.
+所以我知道我的行空间是什么样的。对，所以从几何上看，电子衍射图样是你在倒易晶格中看到的图案的复制品。对，而且它与这一部分，也就是倒易衍射，有直接关联。对，所以这就是为什么，嗯，我们该如何理解存在一些衍射。
+
+Right? But if it's a bit of a, a careful thought, you're going to stand out in the, well, let's say—so this is what you expected, right? So you're going to reproduce, uh, what you have, right, of the reciprocal lattice projected along certain directions. Right? So this is the expected. But that gives a careful thought, uh, you're going to research anything that—wait a minute, this is not quite right.
+对吧？但如果稍微仔细想一想，你就会脱颖而出，在……怎么说呢——也就是说，这正是你所预期的，对吧？所以你要重现，呃，你所拥有的、沿某些方向投影的倒易晶格，对吧？对吧？所以这就是预期的结果。但这需要仔细考虑，呃，你要研究任何——等等，这不太对。
+
+Why? Right? Now, let's consider.
+为什么？对吧？现在，我们来考虑一下。
+
+So this is a plate, right, of my reciprocal lattice. Uh, this is the sphere, the evil sphere that we constructed. Now, in the most extreme case, you will see there will be one and only one exact point in between a spherical surface and a plane.
+所以这是我的倒易晶格的一个晶面，对吧？呃，这就是我们构造的邪恶球体。现在，在最极端的情况下，你会看到，在球面和平面之间恰好只有一个精确的点。
+
+Right? There's one point. Now, how come you have so many points? Now, of course, you can say, "I can tilt my plane a little bit and let it cut through the evil sphere.
+对吧？有一个点。现在，你怎么会有这么多点呢？当然，你可以说：“我可以稍微倾斜一下这个平面，让它穿过那个邪恶的球体。”
+
+" As long as there are intersections, right, I will see some spots here. And of course, you can see some spots here, but there's no way you can produce or reproduce the pattern, right, as a replica of the reciprocal lattice projected along certain directions. It doesn't work.
+只要存在交点，对吧，我就会在这里看到一些点。当然，你可以在这里看到一些点，但你不可能再现这种图案，对吧？它无法作为沿某些方向投影的倒易晶格的复制品。这行不通。
+
+Right? Well, but I can say now it still works, right? Uh, by making some approximations, right?
+对吧？嗯，但我现在可以说它仍然有效，对吧？呃，通过做一些近似，对吧？
+
+Now, let's see, uh, what is my argument, right? Now, we can see that the size of the evil sphere, right, that is determined by its radius. So radius is 1 over λ. Let's consider a proportional microscope which is usually in the range of, uh, high tension of 100 to 200 or 300 microvolts, right?
+现在，我们来看看，呃，我的论证是什么，对吧？现在，我们可以看到，邪恶球体的大小，对吧，是由它的半径决定的。所以，半径等于 1/λ。我们考虑一种比例型显微镜，其高张力通常在 100 到 200 或 300 微伏的范围内，对吧？
+
+That corresponding to a λ is worth less than that much, about 2.03 microns, 2.04 microns, let's say. Right? Now, 1 over λ will give you about 27 angstrom minus 1, right, at the radius for the evil sphere.
+对应的 λ 值小于这个量，大约为 2.03 微米、2.04 微米，姑且这么说。对吧？现在，对于这个邪恶的球体半径，1/λ 大约等于 27 埃⁻¹，对吧？
+
+Okay? Now, let's consider the size of your crystal in the reciprocal space. We know that the lattice spacing of a crystal in the real space is usually in the 2.
+明白吗？现在，我们来考虑晶格在倒易空间中的尺寸。我们知道，晶体在实空间中的晶格间距通常在2。
+
+3 angstroms. Right? So it uses the reciprocal of 1 over relationship we can deduce the reciprocal lattice should have a lattice parameter of 2.
+3 埃。对吧？所以，利用 1 的倒数关系，我们可以推断出倒格子的晶格参数应为 2。
+
+5 angstrom minus. Okay? Now, you compare these two numbers, 27, 2.5, there is almost 22 order of magnitude difference, right, in between the two.
+5 埃负。明白吗？现在，比较这两个数：27 和 2.5，两者之间相差近 22 个数量级，对吧？
+
+And large enough, that means, right, at the very bottom, right, when you have this lattice points mapping up there, right, your evil sphere is almost a flat plane. Right? Because the radius is so large. Right? So approximately, uh, my statement made earlier, still without—right, so this is the argument.
+而且大到足以让，对吧，最底部，对吧，当你把这些晶格点映射到上面时，对吧，你的邪恶球几乎是一片平坦的平面。对吧？因为半径太大了。对吧？所以，大致来说，呃，我之前说的，仍然没有——对，所以这就是论证。
+
+Right? Uh, but nonetheless, right, I have to admit, uh, even though we say the deviation is small, there is a deviation: a curved surface is a curved surface is never a flat surface. Right? So the next step we want to figure out if there is a deviation.
+对吧？呃，不过无论如何，对吧，我得承认，呃，尽管我们说偏差很小，但还是存在偏差：曲面永远不可能是平的。对吧？所以下一步，我们要确定是否存在偏差。
+
+What is the effect of this deviation introduced to the diffraction intensity? Right? Now you're going to see something magical happens. Now, first of all, again, by definition, how are we going to introduce a deviation?
+这种引入的偏差会对衍射强度产生什么影响？对吧？现在你们将看到一个神奇的现象发生。那么，首先，还是按照定义，我们要如何引入一个偏差呢？
+
+This is my lattice vector in the reciprocal space. This is my scattering vector, right? They do not overlap completely.
+这是倒易空间中的晶格向量。这是我的散射矢量，对吧？它们并不完全重合。
+
+There is a difference in between the two. Right? So here I define the difference as S, which is my deviation vector.
+两者之间存在差异。对吧？所以这里我把这个差定义为 S，也就是我的偏差向量。
+
+Okay? Reciprocal space vector, deviation vector, and my scattering vector. Note here, I'm standing in the reciprocal space.
+明白吗？倒易空间向量、偏差向量和散射向量。请注意，我这里站在倒易空间中。
+
+Okay? So the straight relationship happens in the reciprocal space. Okay?
+明白吗？所以，线性关系发生在倒易空间中。明白吗？
+
+Now, with that, we can go back to my amplitude terms and to see how that would be multiplied. Now, if you recall, yes, you remember, this is the wave, this is the amplitude, right, and we say F doesn't matter, we only focus on this one. Right? Okay? So now what I'm going to do is that replace this K, K prime with G plus S.
+现在，有了这个，我们可以回到我的振幅项，看看它们会如何相乘。现在，如果你还记得，对，你记得，这就是波，这是振幅，对吧？我们说 F 不重要，我们只关注这个。对吧？明白吗？所以现在我要做的是，把这个 K、K' 替换成 G 加 S。
+
+Okay? So G is my reciprocal lattice vector, S is my deviation vector. Right? We say this is in the reciprocal space, so the coordinate of my S can be described using a star B star C star.
+好吗？所以，G 是我的倒易晶格矢量，S 是我的偏差矢量。对吧？我们说这是在倒易空间中，所以我的 S 的坐标可以用星号表示：B*、C*。
+
+In the three directions of the reciprocal lattice. Okay? Now, given that, we can put everything into the equation and this is what you get.
+在倒易晶格的三个方向上。明白吗？现在，知道了这一点，我们就可以把所有内容代入方程，得到的就是这个结果。
+
+There. Right? I put G in.
+好了。对吧？我代入了 G。
+
+Right? G dot Rm is here. G dot Rm is what?
+对吧？G 点 Rm 在这里。G 点 Rm 是什么？
+
+It's an integer. Right? Like that.
+它是一个整数。对吧？像那样。
+
+It's here. It's that. Right? However, S dot Rm is not an integer.
+它在这里。就是这样。对吧？然而，S 点 Rm 不是整数。
+
+Right? However, S is defined in A star B star C star. And Rm is defined in ABC.
+对吧？然而，S 在 A 星、B 星、C 星中被定义。而 Rm 在 ABC 中定义。
+
+Right? So A, A star, equals what? A star B C equals to 0.
+对吧？那么，A，A 星，等于什么？A 星乘以 B、C 等于 0。
+
+So you only have the diagonal terms that over and that gives you has 1 and 1 has 2 and 2 and has 3 and 3. So that's what you have. Okay? So you extend that a little bit to put into the summations, you see, okay, so S1 and 1, S2 and 2, S3 and 3 are actually happening along the three dimensions.
+所以你只有对角项，上面是1，1对应的是2，2，还有3，3。所以，这就是你得到的结果。明白吗？所以你稍微扩展一下，把它代入求和中。你看，S1 和 1、S2 和 2、S3 和 3，实际上是在三个维度上进行的。
+
+And they're highly symmetrical, so they're basically identical along each of the dimensions. Right? So in principle, later on, I only have to look at one of them.
+而且它们具有很高的对称性，因此基本上在每个维度上都完全相同。对吧？所以原则上，之后我只需要研究其中的一个。
+
+It's good enough in terms of analysis. Right? So but here, uh, for simplicity, I still write all of them.
+从分析角度来看，这已经足够好了。对吧？所以，不过这里，呃，为了简单起见，我还是把它们都写出来。
+
+Right? Now here, what is that is what I'm doing. Right?
+对吧？现在这里，我正在做什么？对吧？
+
+I can forget about the n-term because that's, uh, simple multiplication of a constant. Okay? Now, the only thing that matters is S1 and 1, S2 and 2, and S3 and 3 terms.
+我可以忽略 n 次项，因为那只是，呃，常数的简单乘法。明白吗？现在，唯一重要的是一阶项 S1 和 1、二阶项 S2 和 2，以及三阶项 S3 和 3。
+
+Right? But that was summarized over three directions.
+对吧？但那是沿三个方向求和的。
+
+Right?
+对吧？
+
+Now, we have to explain a little bit. So what is n?
+现在，我们得稍微解释一下。那么，n 是什么？
+
+What is n? Well, if we look at what is n, n is here. Right?
+什么是 n？嗯，如果我们看看 n 是什么，n 就在这里。对吧？
+
+So n is a suffix of R. What is R?
+所以，n 是 R 的后缀。R 是什么？
+
+What is R? I removed it already. Uh, my lattice
+R 是什么？我已经把它删掉了。呃，我的格。
+
+my lattice in the real space is it? My lattice point, okay, so n is the numbers of my unit cells. Right? So I'm stacking along the three directions.
+我实空间中的晶格是它吗？我的晶格点，好的，所以 n 是晶胞的数量。对吧？所以我沿着三个方向进行堆叠。
+
+Right? Now, I've dissembled it in three different directions. So I'm stacking this crystal, this unit cells, in three dimensions.
+对吧？现在，我从三个不同的方向把它拆解了。所以我是在三维空间中堆叠这个晶体，也就是这些晶胞。
+
+Is that right? So for each of the dimensions, I confirm the number of unit cells. Right?
+对吗？所以，对于每个维度，我都会确认晶胞的数量。对吧？
+
+M1, or I would say M1 is this direction. Right? This direction.
+M1，或者我可以说，M1是这个方向。对吧？这个方向。
+
+Right? Starting from 0 to M1 minus 1. Right?
+对吧？从 0 到 M1 减 1。对吧？
+
+So you count so many numbers of unit cells. Right? And do the summation. Right? Do the same things for M2 and M3 as well.
+所以你要数出这么多数量的晶胞。对吧？然后求和。对吧？对 M2 和 M3 也做同样的操作。
+
+So that's right, the final amplitude you're going to obtain by considering the deviation factors. Right? Now, again, right, what is the result? Well, in terms of results, we care about when the square of it and that gives you, right, uh, the deduction of the summations will give you, uh, the scale of answers.
+所以没错，最终的振幅将通过考虑偏差系数来获得。对吧？那么，再问一次，对吧，结果是什么？嗯，就结果而言，我们关注的是它的平方，这会得到，对吧，呃，求和的扣除会得到，呃，答案的尺度。
+
+Right? Which have a form of a side function, uh, straightforward side function. Right? Now, as I said, we only care about the result from one of the directions and can spread it to the other.
+对吧？其形式为辅助函数，呃，一个简单的辅助函数。对吧？现在，正如我所说，我们只关心其中一个方向的结果，然后可以把它推广到另一个方向。
+
+Other directions. Right? Now, the important part, so if I'm going to plot the intensity profile as a function of a deviation S1, I take along only one direction.
+其他方向。对吧？现在，重要的是，如果我要绘制强度分布随偏差 S1 变化的曲线，我只沿一个方向取值。
+
+Let's see what we got.
+我们来看看结果。
+
+We got this, right, intensity, right, with a maximum at 0 and then decays with a width and ripples a little bit. What does that mean? Right? Uh, whenever you have trouble to figure out what does that mean, right, you go to the simplicity numbers.
+我们得到了这个，对吧？强度，对吧？在0处达到最大值，然后衰减，宽度有所变化，并出现一些波动。这是什么意思？对吧？呃，每当你搞不清楚那是什么意思时，对吧，你就去看那些简单的数字。
+
+Right? You put a number to see what's going on. Right?
+对吧？你给它加一个数字，看看发生了什么。对吧？
+
+Let's say, let's take S1 as 0. Right? So it goes here. You have the maximum intensity. What does that mean? That means if you don't have any deviations, your standard vector exactly overlap with the G vector, you have a strong scattering intensity or diffraction intensity.
+假设，我们把 S1 设为 0。对吧？所以它到这里。你有最大强度。这是什么意思？这意味着，如果没有偏差，标准向量与 G 向量完全重合，那么散射强度或衍射强度就会很强。
+
+Does that make sense? Yes. Right?
+明白吗？是的。对吧？
+
+But then what is the interesting is that it's not a sharp delta function. Right? It has a width.
+但有趣的是，它并不是一个尖锐的δ函数。对吧？它有一个宽度。
+
+That is what? That means even if you have a bit of deviations, you still have the intensity. Although the intensity is a bit weaker. And even weaker.
+那是什么？这意味着，即使有一点偏差，你仍然有强度。尽管强度稍微弱一些。甚至更弱。
+
+And eventually, it's going to disappear when it goes down to here. You don't have any more intensities. And that disappearing point is determined by what?
+最终，当它降到这里时，就会消失。你不再有任何强度了。而这个消失点是由什么决定的？
+
+By f. Again, what is f?
+由 f 决定。再说一次，f 是什么？
+
+What is f? What is f? What is f?
+f 是什么？f 是什么？f 是什么？
+
+F is the number of stackings along one of the directions in the unit cells. Right? Now, if I want the intensity to be intensity to spread a little bit more, right, so I want this number to be large.
+F 是晶胞中沿其中一个方向的堆垛数。对吧？现在，如果我想让强度分布得更广一些，对吧，那么我希望这个数值更大。
+
+If this number is large, that means M1 got to be small. So you want small crystals, thick crystals, in order to have a spread of the diffraction intensity. So this is another understanding of the reciprocal relationship. You have something small in the real space, you have something large in the corresponding reciprocal space. Right? This is always the case.
+如果这个数很大，那就意味着 M1 必须很小。所以，为了使衍射强度分布得更广，你需要小晶粒、厚晶粒。所以，这是对这种互逆关系的另一种理解。实空间中有一个小物体，相应的倒易空间中就会有一个大物体。对吧？情况总是如此。
+
+In terms of the relationship between the real space and the reciprocal space. In the real space, you have small reciprocal space, you have large. Reciprocal space, you have small.
+从实空间与倒易空间之间的关系来看。在实空间中，你有小的倒易空间，也有大的。倒易空间，你有小的。
+
+Real space, you have large.
+实空间，你有大的。
+
+All right? Now, with this understand, let's go to the real pictures of a G and K prime. Now, let's consider, right, let's consider so this is my electron beam coming from top to top. Right?
+明白吗？现在，有了这个理解，我们来看一下 G 和 K' 的实际图像。现在，我们来考虑一下，对吧，我们来考虑一下。所以，这是我的电子束从顶部到顶部。对吧？
+
+So I have an egosphere bigger and this is the lattice on top of that. Right? Now, with this in mind, I'm defining this M1 direction.
+所以我的电子球壳更大，而这是叠加在它之上的晶格。对吧？现在，考虑到这一点，我定义了这个 M1 方向。
+
+M1 is one of the directions. It's parallel to the electron beam. Okay?
+M1 是其中一个方向。它与电子束平行。明白吗？
+
+So with this picture, now, let's look at the intensity profile and the resulting diffraction pattern. How is it affecting the resulting diffraction pattern? Right?
+那么，现在来看这张图，我们来看看强度分布和由此产生的衍射图样。它如何影响最终的衍射图样？对吧？
+
+So this is my electron beam coming down. Okay? So here, I have my reciprocal lattice.
+所以，这是向下射来的电子束。明白吗？所以这里，我有倒易晶格。
+
+Okay? This is my reciprocal lattice. Right?
+明白吗？这是我的倒易晶格。对吧？
+
+Of course, you have, right, three dimensions. This is one layer. You have other layers in there.
+当然，它是三维的，对吧？这是一层。里面还有其他晶层。
+
+All right? Now, the deviation in between my G vector and capital K prime is this. S. All right? Now, I just deduced how the intensity of this diffraction will change as a function of S.
+明白吗？现在，我的小写 g 向量与大写 K' 之间的偏差就是这个。S。明白吗？现在，我刚刚推导出了这种衍射强度如何随 S 变化。
+
+Okay? So you have a distribution. You have a width. That explains, let's say, your egosphere have to overlap with the C in order to have a diffraction.
+明白吗？所以你有一个分布。你有一个宽度。这说明，比如说，你的电子球必须与 C 重叠，才能发生衍射。
+
+Now, you don't. As long as the egosphere cuts through the intensity profile, you're going to have some intensity in there.
+现在，你没有。只要电子球体穿过强度分布，那里就会存在一定的强度。
+
+You're going to create a foul.
+你会造成一个污点。
+
+Right? Of course. The further away the acid is, the larger the axis, the weaker intensity you're going to have.
+对吧？当然。酸离得越远，轴越大，强度就越弱。
+
+So in other words, intensity of the electron diffraction, right, in this case, instead of a quick response, right, becomes a small. Okay? And to consider the crystal, right, so the real space is small.
+换句话说，在这种情况下，电子衍射的强度，对吧，不再是快速响应，对吧，而是变小了。明白吗？而要考虑晶体，对吧，那么实空间很小。
+
+Okay? And then you can apply that to say that, um, so when the deviation vector is small, then you have stronger intensities at this locations compared to this one. That's true. And that is exactly what you see in the real electron diffraction patterns.
+明白吗？然后你可以应用这一点来说明，嗯，当偏差向量较小时，与这里相比，这些位置的强度会更强。确实如此。而这正是你在实际电子衍射图样中看到的。
+
+Right? So the ones that are close to the center is the strongest. Then we can, right, add a piece away from the center.
+对吧？所以，那些靠近中心的衍射环最强。然后我们可以，对吧，添加一个远离中心的部分。
+
+Right? So in this way, uh, I have completed a quick reduction of the, um, electron diffractions and how to interpret it corresponding to the reciprocal lattice. Right? Now, here is a bit of a few more words, right? Now, when we start from the real space with a thick crystal, right, now, for the reciprocal lattice, the diffractions, are all sharp spots.
+对吧？所以，呃，通过这种方式，我已经快速完成了电子衍射的简化，以及如何根据倒易晶格来解释它。对吧？现在，这里再多说几句，好吗？现在，当我们从具有厚晶体的实空间出发时，对吧，那么在倒易晶格中，衍射斑点都是尖锐的。
+
+And then you can spit down the crystals that are along this direction. Now, in the corresponding reciprocal space, you study to have this elongated diffraction intensities. The thinner the crystal, the longer the diffraction intensity along this direction. Now, the common practice, right, uh, that you have is that, uh, questions usually ask is that if we're going to have different shapes, right, of crystals in the real space, how would you expect to see the diffraction profiles in the diffraction intensities, right? Now, for example, if you have a few, right, which is really small, right, so you have small size or three dimensions, right, in the corresponding profile.
+然后你可以把沿这个方向排列的晶体分开。现在，在相应的倒易空间中，你会观察到这些细长的衍射强度。晶体越薄，沿这个方向的衍射强度就越长。现在，通常的做法是，呃，题目通常会问的是，如果我们有不同形状的晶体，对吧，那么在实空间中，你会预期在衍射强度中看到什么样的衍射图谱，对吧？例如，如果你有几个，对吧，它们非常小，对吧，所以它们的尺寸较小，或者在相应的衍射图谱中具有较小的三维尺寸，对吧。
+
+Intensity profiles of the diffractions, you're going to have long loss along the three directions, right? Now, if you have a sphere, right, uh, if you have a large sphere, then your diffraction intensity will be very obvious given the very small sphere, your diffraction intensity will be diffuse, will be large. Right? Now, this is the thin plate simulation we use examples.
+衍射强度分布沿三个方向都会出现长尾，对吧？现在，如果你有一个球体，对吧，呃，如果你有一个大的球体，那么它的衍射强度会非常明显；而如果球体非常小，衍射强度就会比较弥散，也会比较强。对吧？现在，这是我们用来举例的薄板模拟。
+
+So you have elongated rocks. But then you can imagine if you have a rod, right, uh, which is sliding on the plane, uh, perpendicular to the electron beam, right? Now, I see things are different. Uh, you are confined, um, this direction, right, and that direction, but not confined on this direction.
+所以你会看到细长的岩石。但你可以想象，如果有一根杆，对吧，呃，它沿着与电子束垂直的平面滑动，对吧？现在，我看到情况有所不同。呃，你在这个方向和那个方向上受到限制，对吧，但在这个方向上不受限制。
+
+So in this direction, you have long, uh, rocks, right? So you have a lot of materials. That means different intensity in this direction, right, will be squeezed.
+所以在这个方向上，你有长长的，呃，岩石，对吧？所以你有很多材料。这意味着这个方向上的强度不同，对吧，会被挤压。
+
+Right? But in other directions, in this one, or that one, you have small crystals in this two dimensions. That means your diffraction intensity will be extended so that you will have the same green dimensions. So this is a lot of simplicity questions, right?
+对吧？但在其他方向上，比如这个方向或那个方向，你会看到二维小晶体。这意味着衍射强度会扩展，从而具有相同的绿色尺寸。所以，这涉及很多简化问题，对吧？
+
+Um, of different crystals and their diffraction intensities. Right? Now, uh, this is a optional part, but the surface is a very good checklist, uh, for checking on your understanding of the relationships in between the real space and the reciprocal space.
+嗯，不同晶体及其衍射强度。对吧？现在，呃，这部分是可选的，但表面分析是一个非常好的检查清单，呃，可以用来检验你对实空间与倒易空间之间关系的理解。
+
+How would you master that? Right? Uh, now, if you look at, right, all the diffractions or patterns explained in the past lectures, uh, I have been thinking about, uh, there's a one layer of reciprocal lattice at the bottom of the egosphere. Is that right? So all my models are based on this. Okay?
+你会如何掌握这一点？对吧？呃，现在，如果你看一下，对吧，过去讲座中解释的所有衍射或图案，呃，我一直思考的是，呃，等球体底部有一层倒易晶格。对吗？所以，我所有的模型都是以此为基础的。明白吗？
+
+And then if you, if you think about the reciprocal space lattice, it's also three-dimensional. So they're not only one layer. And if you have a layer at the bottom and a layer on the top. Right? But then as I said, as long as the egosphere is going to intersect with the lattice, right, the intersection point with a small amount of deviation that is allowed, you're going to see some diffraction intensities. Then you realize right away, right, for the second layer, subset layers and so on and so forth, right, they're going to intersect with the egosphere.
+然后，如果你考虑倒易空间晶格，它也是三维的。所以它们不只是单层的。如果你在底部有一层，在顶部也有一层。对吧？但正如我所说，只要电子球层与晶格发生交叠，对吧，只要允许有一点小偏差，就会观察到一些衍射强度。然后你马上就会意识到，对第二层、子层等等来说，它们都会与电子球相交。
+
+Their allocation is going to produce the refract, uh, diffraction intensity as well. Which is true, right? So at the bottom of, and the common diffraction patterns we usually encounter is called the zero-order line loss.
+它们的分配也会产生衍射强度。这是正确的，对吧？所以在底部，以及我们通常遇到的常见衍射图样中，称为零级线损失。
+
+Right? And one layer above it, uh, is called the first-order line loss. And then the second and third entire-order line loss on the top therein.
+对吧？而它上面一层，呃，称为一级线损失。然后在其上方是第二和第三全阶线损耗。
+
+So in a diffraction pattern, yes, sometimes, right, not very common, but, uh, sometimes we do see the different-order line loss, the diffraction patterns show up and down. So, uh, here in the center, you always see the zero-order line loss. This is the most common diffraction pattern you can see, right?
+所以在衍射图样中，是的，有时，对吧，这种情况不太常见，但，呃，我们有时确实会看到不同级次的线损失，衍射图样会呈现上下起伏。所以，呃，在这里中间，你总是会看到零级衍射线。这是最常见的衍射图样，对吧？
+
+But then, uh, after a while, you see, uh, there's empty space. You do have a diffraction intensities, but after that, some diffraction intensities appear again, which is the second or third. For the first, the second, the third, for line loss appearing. Right? Now, I checked on you, uh, for your understanding of this whole picture and how the electron diffraction, uh, produced.
+但是，呃，过一会儿，你会看到，呃，那里有一片空白。确实有衍射强度，但之后又会出现一些衍射强度，也就是第二或第三种。对于第一、第二、第三，对于出现的线损失。对吧？现在，我检查了你们对整个图景的理解，以及电子衍射是如何产生的。
+
+Right? Now, see, for the zero-order line loss, they have a radius and certain distance. That disappears.
+对吧？现在，对于零级线损失，它们有一个半径和一定的距离。那消失了。
+
+Right? And then there's appearance of the second, uh, the first-order line loss. Then again, this first-order line loss also having a radius.
+对吧？然后会出现第二个，呃，一级线损失。同样，这个一级线损耗也有一个半径。
+
+Right? Now, when I ask you a question is that, uh, what would affect our knot and our wire and how?
+对吧？那么，当我问你这个问题时，呃，什么会影响我们的节点和导线，以及会如何影响？
+
+Right? So let's look at the first verse. Right? So what would affect the radius of our knot, which is the radius of the zero-order line loss?
+对吧？那么，我们来看第一节经文。对吧？那么，什么会影响我们这个结的半径，也就是零阶线损耗的半径？
+
+In other words, your zero-order line loss diffraction pattern, uh, at certain distance it will disappear.
+换句话说，你的零级线损失衍射图样，呃，在一定距离处会消失。
+
+Right? At one, it will disappear. What will affect that?
+对吧？在某个距离，它会消失。什么会影响这一点？
+
+Any idea? Should be quite straightforward. Why it disappeared?
+有什么想法吗？应该很简单明了。它为什么消失了？
+
+Because there was a deviation factor, right? And if you have a very long diffraction intensity, so that will be 10 a little bit. Right? Then if you have not a lot of long intensities, the egosphere goes up, goes up.
+因为有一个偏差因子，对吧？如果你的衍射强度很长，那么就会是10，稍微……对吧？那么，如果你没有很多长强度值，那么 egosphere 就会上升，会上升。
+
+It's no longer intersect with the intensity. Then you're lost. Okay?
+它不再与强度相交。那你就迷路了。明白吗？
+
+So that depends on what? The thickness of the crystal.
+所以这取决于什么？晶体的厚度。
+
+Is that right? The thickness of the crystal. So the thinner the crystal, the larger radius that it will have.
+对吗？晶体的厚度。所以晶体越薄，它的半径就越大。
+
+Right? So that's what the crystal size.
+对吧？所以，这就是晶体的尺寸。
+
+Right? And the other aspect you can think of is that because of whether you can have intensity, it depends on the curvature of the egosphere. Is that right? So the larger the radius, right, that reduced the deviation factors.
+对吧？另一个你可以考虑的方面是，能否产生强度取决于等势球的曲率。对吗？所以半径越大，对吧，偏差因子就越小。
+
+Is that right? So you can have a larger radius. So larger radius of the, uh, the egosphere means you're one order lambda is large.
+对吗？所以你可以采用更大的半径。所以，呃，等离子体鞘层的半径越大，意味着你的一个量级 λ 越大。
+
+It's your lambda is small. So you want to have high energy electrons. Right?
+你的 λ 很小。所以你需要高能电子。对吧？
+
+So these are actually experimental tricks. So when you want to produce, uh, zero-order line loss diffraction pattern as large as possible, covering as many as diffraction spots as possible, you should use same crystals and use electrons operated at high voltage. Right? So all this basic understanding eventually will be transferred into practical life, uh, in experiments.
+所以这些其实都是实验技巧。所以，当你想尽可能产生零级线损失衍射图样，覆盖尽可能多的衍射斑时，应该使用相同的晶体，并让电子以高电压运行。对吧？所以，所有这些基本理解最终都会应用于实际生活，呃，应用于实验。
+
+Right? And you'll have this experiment to do that. Right?
+对吧？你们会有一个实验来做这个。对吧？
+
+Now, uh, with that, uh, you should be able to analyze what you can use the R1.
+那么，呃，有了这个，呃，你应该能够分析一下可以使用 R1 的内容。
+
+For the same logic, the lambda, which is the wavelength of electrons, will affect R1.
+同样，λ，也就是电子的波长，会影响 R1。
+
+So you can do curves up and intersect with the second layer. Right? So if you curve up very fast, assume you're going to intersect with the second layer.
+所以你可以画出曲线，并让它与第二层相交。对吧？所以，如果你的曲线上升得非常快，假设它会与第二层相交。
+
+Is that right?
+对吗？
+
+So you have the first layer, you have the second layer, right? You have the egosphere, like this.
+所以你有第一层，也有第二层，对吧？你有这个等离子体层，像这样。
+
+So if it's curves up very fast, sooner you're going to intersect with the second layer. If the radius is very large, right, you'll intersect with the second layer at a much, much larger distance. Right? So lambda matters, but it's the opposite to what you have for the, uh, the, the zero-order line loss.
+所以，如果它上升得非常快，就会更早与第二层相交。如果半径非常大，对吧，那么你就会在远得多的距离处与第二层相交。对吧？所以波长很重要，但其影响与零级线损失时的情况正好相反。
+
+Okay? And what else?
+明白吗？还有什么？
+
+From a mature aspect, you see if the second layer is at here, or is at here, does that make a difference? In one, it will be red of course, right? In this case, it will appear sooner than in that case.
+从成熟的角度来看，第二层是在这里还是在这里，会有区别吗？在一个里，它当然是红色的，对吧？在这种情况下，它会比另一种情况出现得更早。
+
+Right? So radius R1 is smaller. Right?
+对吧？所以半径 R1 更小。对吧？
+
+In this case. But if this distance is shorter, that means what?
+在这种情况下。但如果这个距离更短，那意味着什么？
+
+That means you have larger than the spacing.
+这意味着间距更大。
+
+In the real space, in that direction. Is that right? But again, there's no relationship. So, uh, one of the things about transmission electron diffraction pattern is that you see, you always get a two-dimensional image.
+在实际空间中，沿那个方向。对吗？但同样，两者没有关系。所以，呃，透射电子衍射图样的一个特点是，你看到的总是二维图像。
+
+So that will always provide, will always provide your two-dimensional information of the crystals. So in order to get information from the third dimension, right, you have to tune the crystals to different directions so that basically you're looking at the projection from different directions. Right? So that's how you get the three-dimensional information. The density was the higher-order line loss that somehow also provide information of third dimension.
+所以，它总会提供、总会提供晶体的二维信息。所以，为了获得第三维的信息，对吧，你必须让晶体朝向不同的方向，这样基本上就是从不同方向观察其投影。对吧？这样你就能获得三维信息。密度是更高阶的线性损失，不知为何也提供了第三维度的信息。
+
+So this is one of the components. All right?
+所以这是其中的一个组成部分。明白吗？
+
+So with that, okay, we're done with the recognition explanations, right? So review, right, with derive the recognition in the reciprocal space, right? Now, review the one-to-one correlation in between the reciprocal space and the diffraction pattern. Basically, we say the diffraction pattern is a replica of what you have in the reciprocal space lattice.
+那么，好了，我们讲完识别方面的解释了，对吧？所以复习一下，对吧，通过在倒易空间中推导识别，对吧？现在，回顾一下倒易空间与衍射图样之间的一一对应关系。基本上，我们说衍射图样是倒易空间晶格中相应结构的复制品。
+
+Right? And that was the last, right, uh, which I can solve the, uh, problem with the deviations and saying that why even though there is a deviation, you still see the diffraction pattern. Right? And there is strength in your understanding of the relationship between real space and the reciprocal space.
+对吧？这就是最后一个，对吧，呃，我可以解决，呃，关于偏差的问题，并说明为什么即使存在偏差，你仍然能看到衍射图样。对吧？你对实空间与倒易空间之间关系的理解很扎实。
+
+So we're done with that. Okay? Now, we're going to move on. Now remember, in this term, amplitude, right, the second term, is one aspect of the recognition.
+所以我们这部分讲完了。明白吗？现在，我们继续。现在请记住，在这个项中，振幅，对吧，也就是第二项，是识别的一个方面。
+
+We still have this f term, uh, not solved yet. What is that? The structure factor of the crystal.
+我们还有这个 f 项，呃，还没有求解。那是什么？晶体的结构因子。
+
+Right? We say, and this is a fixed thing, once you have a lattice. But still, that thing cannot be zero.
+对吧？我们说，这是个固定量，一旦有了晶格。但那个东西仍然不能为零。
+
+Right? Uh, so f factor is, uh, again, a master test. Right? Uh, topic in all of the exams, right?
+对吧？呃，所以 f 因子，呃，同样，是一个主测试。对吧？呃，所有考试都会考这个主题，对吧？
+
+Uh, it appears in the homework as well, uh, which can be done today. Right? Uh, uh, here, I want to have your attention making sure that every one of you know how to calculate the structure factor.
+呃，它也会出现在作业中，呃，今天就可以完成。对吧？呃，呃，这里，我想请大家注意一下，确保你们每个人都清楚如何计算结构因子。
+
+So this is one of the most important things. Right? So structure factor, by definition, right, is giving us the atomic scattering factor times the exponential 2πI k prime dot RI.
+所以这是最重要的内容之一。对吧？所以，按照定义，结构因子就是原子散射因子乘以指数项 \(e^{2\pi i\mathbf{k}'\cdot\mathbf{R}_i}\)。
+
+Now, record what is RI. Rn is the location of the n point. RI is the location of the specific atoms in your unit cell.
+现在，记下 R I 是什么。Rn 是第 n 个点的位置。RI 是晶胞中特定原子的位置。
+
+Right? Atomic locations. Right?
+对吧？原子位置。对吧？
+
+And then the rest of the thing is very straightforward. You're going to go through a bit of the calculations. Like figuring out, right, uh, what is RI. That's how you need to do it.
+然后剩下的部分就很简单了。你们会做一些计算。比如弄清楚，对吧，呃，RI 是什么。这就是你需要做的。
+
+Right? So let's look at, uh, a bit of the intentions of how this equation goes.
+对吧？那么，我们来稍微看一下这个方程是如何推导出来的。
+
+Here, definition, right? So fi, basically, uh, you can leave it there. It's a fixed value for certain atom i.
+这里，定义，对吧？所以，fi，基本上，呃，你可以把它留在那里。它是给定原子 i 的固定值。
+
+Right? Of course, if you have more than one type of atoms, this fi value will be different. Okay? But then, uh, that's basically not change, right, with the summation.
+对吧？当然，如果你有不止一种类型的原子，这个 fi 值就会有所不同。明白吗？但是，呃，基本上，用求和来表示时，这并没有改变，对吧？
+
+Now, uh, what happens here is that the exponential terms, you have to pay attention, uh, this structure factor calculations is only considered at the exact recognition. Right? So in this case, right, we can replace 10 to the k prime with G, which is the reciprocal lattice vector.
+现在，呃，这里的情况是，对于指数项，你必须注意，呃，这个结构因子的计算只考虑精确识别。对吧？所以在这种情况下，我们可以把 \(10^{k'}\) 替换成 \(G\)，也就是倒易晶格矢量。
+
+Right? As a recognition is satisfied. All right? So we put G here, then dot RI, and we know RI is the location of atoms in the real space that is in the cell.
+对吧？当这个条件满足时。明白吗？所以我们在这里写 G，然后点乘 RI。我们知道，RI 是实空间中位于晶胞内的原子的位置。
+
+And the G is defined in the reciprocal lattice, uh, HkL. Right? Now, the rest of the calculation, right, and you put it expand a little bit, that equals the summation over fi.
+而 G 定义在倒易晶格中，呃，HkL。对吧？现在，剩下的计算，对吧，你把它稍微展开一下，就等于对 fi 求和。
+
+Exponential 2πI h x k y, and that was it. So this is the implication, right? Although you don't need to remember the formulas because you can always find in the literatures or textbooks or notes, right, or like this.
+指数项 \(e^{2\pi i h x k_y}\)，就这样。所以这就是它的含义，对吧？虽然你不需要记住这些公式，因为你可以随时在文献、教科书或笔记里找到，对吧，或者像这样。
+
+But the thing is that you have to be able to calculate and figure out what the structure factor is. Right? So let's look at a few examples.
+但关键是你必须能够计算并弄清楚结构因子是什么。对吧？那么我们来看几个例子。
+
+Right?
+对吧？
+
+Very straightforward. These examples are the favorite ones, right, uh, people use. Uh, either from ECC to SEC or SEC to DCC.
+非常直接。这些例子是最常被人们使用的，对吧？呃。呃，要么从 ECC 到 SEC，要么从 SEC 到 DCC。
+
+So is the case. Right? Now, let's start from a BCC lattice with ECC, lattice-centered cubic.
+情况就是这样。对吧？现在，我们从具有ECC的BCC晶格开始，即体心立方晶格。
+
+Right? So you have a cubic lattice. You have one atom sitting on the center.
+对吧？所以你有一个立方晶格。中心有一个原子。
+
+Right? BCC lattice. Right? Now, again, uh, we're going to follow the definitions with the definition.
+对吧？体心立方晶格。对吧？现在，呃，我们还是按照定义来。
+
+So f k L, right, vector k L, right, equals f. So here, in this lattice, we consider one, only one type of atoms, so not f, right? It doesn't have a suffix i.
+所以，\(f_{kL}\)，对吧，矢量 \(kL\)，对吧，等于 \(f\)。那么在这里，对于这个晶格，我们只考虑一种原子，所以不是 \(f\)，对吧？它没有下标 i。
+
+That example is a fixed number, right? Now, uh, I can figure out by putting into the locations of an atom. Here, I need to figure out various x, y, z.
+那个例子是固定数量的，对吧？现在，呃，我可以通过把它放到原子的位置来弄清楚。这里，我需要求出各种 x、y、z。
+
+Right? HkL is always there. Okay?
+对吧？HkL 总是在那里。明白吗？
+
+So where is my x, y, z? Now, in this lattice, though I have many atoms, sitting on different locations, the symmetry, you know, there are only two different characteristic locations. One is on the vertices, the other is in the lattice center. Right? So the one, the eight ones on the vertices are identical as the one sitting at the origin.
+那么，我的 x、y、z 在哪里？现在，在这个晶格中，虽然有许多原子占据不同的位置，但就对称性而言，你知道，只有两个不同的特征位置。一个位于顶点，另一个位于晶格中心。对吧？所以，八个顶点上的那个都和位于原点的那个相同。
+
+I'm going to use that one. Right? Uh, as the representative ones. Now, I also have to consider the one at the lattice center, right, which is a different, right, uh, from the rest of the corners.
+我就用那个。对吧？呃，作为代表性的那些。现在，我还得考虑晶格中心的那个，对吧？它和其余的角点不一样，对吧？呃……
+
+Right? So I'm going to choose that one. Then the next step is putting the numbers in there, right?
+对吧？所以我选那个。然后下一步就是把数字填进去，对吧？
+
+And now you see things become quite straightforward. Right? This is zero, that's one.
+现在你就会发现，事情变得相当简单明了。对吧？这是零，那是壹。
+
+Right? So this is half and half and half. Right?
+对吧？所以这是二分之一、二分之一和二分之一。对吧？
+
+Now, this, right, see, this is the important part, huh? You have a half and a half and half. This fractional coordinate only appears in the real space lattice. Right?
+现在，这个，对吧，看，这就是重点，嗯？你有一半、一半和一半。这个分数坐标只出现在实空间晶格中。对吧？
+
+Because this tells you the real atomic positions. But it never appears in the reciprocal lattice. HkL must be integer. Right? Because in the lattice, you don't have in the reciprocal lattice, where in the real space lattice, right, the lattice point, the lattice point is only described by integers.
+因为这告诉你的是实际的原子位置。但它永远不会出现在倒易晶格中。H、k、L 必须是整数。对吧？因为在倒易晶格中，你没有……在实空间晶格中，对吧，晶格点，晶格点只由整数来描述。
+
+There's no fractions. Fractions only occur in the case of a real atomic locations. Okay? So now, with that, uh, you end up with this fact. Right? So here is asking you to have a basic, again, university math for a very straightforward.
+没有分数。分数只出现在原子实际位置的情况中。明白吗？所以现在，有了这个，呃，你最终会得到这个事实。对吧？所以这里要求你掌握基础的，还是大学数学，非常简单明了。
+
+So you know what's this?
+所以你知道这是什么吗？
+
+Exponential pi i h plus k plus l equals to what? So this is you need to have, right? So we know if exponential pi i times n, right, that's equivalent to minus one n times.
+指数项 \(e^{i\pi h+k+l}\) 等于什么？所以这个是你需要有的，对吧？所以我们知道，如果取指数 πi 乘以 n，对吧，那就等同于负一的 n 次方。
+
+Right? So this is, again, uh, a conclusion you draw, right, like you thought that you know. Right?
+对吧？所以这又是你得出的一个结论，对吧，就像你认为你知道的那样。对吧？
+
+So you see, uh, this can take two values, basically. Right? It's not really, basically, um, this is a technology. Uh, cosine, right, uh, pi i plus i sine.
+所以你看，呃，这基本上可以取两个值。对吧？这其实并不是，基本上，嗯，这是一项技术。呃，余弦，对吧，呃，πi 加上 i 正弦。
+
+Right? Now, with this, you see, you can equal to a even number. So this is one, right?
+对吧？现在，用这个，你看，它可以等于一个偶数。所以这是1，对吧？
+
+Even number. This is one. Is it?
+偶数。这是1。是吗？
+
+If n is an even number, this is one. Is it? Okay.
+如果 n 是偶数，这个就是 1。是吗？好的。
+
+If it's an odd number, it's minus one. Okay? So that's, that's very straightforward. Right? Now, if you have h plus k plus l equals to an even number, so this one plus one equals two.
+如果是奇数，就是负一。明白吗？所以，这非常简单明了。对吧？现在，如果 h 加 k 加 l 等于偶数，那么这个加一等于二。
+
+You have now zero structure factor. But if you have this guy, equals to an odd number, this becomes minus one. So they can solve your structure factor goes to zero.
+现在结构因子为零。但如果这个等于奇数，那么结果就是负一。所以它们可以让你的结构因子趋近于零。
+
+Right? Now, the important conclusion. In the BCC lattice, right, when you calculate the structure factor, let's actually bring to the reciprocal space.
+对吧？现在，重要的结论。在体心立方晶格中，对吧，当你计算结构因子时，实际上把它带到倒易空间。
+
+Right? If you have h plus k plus l, an even number, right, you're going to see the depression intensity. Otherwise, they will be zero.
+对吧？如果 h+k+l 是偶数，对吧，你会看到衍射强度。否则，它们将为零。
+
+Okay? So what's the implication of this one?
+明白吗？那么，这有什么含义呢？
+
+You have a cubic lattice. That's the same in the reciprocal space. Right? So we say h, k, and l must be all even numbers.
+你有一个立方晶格。在倒易空间中也是如此。对吧？所以我们说，h、k 和 l 都必须是偶数。
+
+Or so on, one even that added together become an even number. Okay? So the possible numbers will be you can see zero, zero, zero at worst.
+诸如此类，两个偶数相加后仍为偶数。明白吗？所以可能的数字是……最坏情况下，你可以看到零、零、零。
+
+All even. All right? Then zero, one, zero.
+全都是偶数。明白吗？然后是零、一、零。
+
+Doesn't work. One odd, two even. It doesn't work.
+行不通。一个奇数，两个偶数。行不通。
+
+Right? There's no spot there. Then the next one will be two, all two.
+对吧？那里没有位置。那么下一个就是两个，全都是二。
+
+I said two, all two, all two, all. Right? And so on, the eight corners.
+我说了两个，全两个，全两个，全。对吧？诸如此类，八个角。
+
+All right. Right? Now, the other options that you have have two odd, one even. So that means one, one, all is okay.
+好的。对吧？现在，你其他的选项有两个奇数，一个偶数。所以这意味着一、一，全都没问题。
+
+Right?
+对吧？
+
+One, one, all is okay. One, all, one is okay. All, one, one is okay.
+一，一，都好。一，全，一可以。全、一、一都可以。
+
+So where are these? These are, um, the base sentence. Is that right?
+那么这些在哪里？这些是，嗯，基本句。对吗？
+
+But one, one, one, it's not okay.
+但是，一个、一个、一个，这样不行。
+
+Right? Where is one, one, one? One, one, one is in the center. Of the lattice. So you see, the depression of a BCC lattice becomes SCC.
+对吧？一个、一个、一个在哪里？一、一、一在中间。晶格的。所以你看，体心立方晶格的凹陷变成了面心立方。
+
+So this way, you talked before, we're talking about the real space and reciprocal space. So this is a representation of what we talked before. All right?
+所以，像你之前说的，我们讨论的是实空间和倒易空间。所以，这是对我们之前讨论内容的一种表示。明白吗？
+
+When you calculate from the structure factor.
+当你根据结构因子进行计算时。
+
+I should.
+我应该。
+
+All right? So let's, uh, piece through the second example. Right? Uh, which I don't have intentions to talk about.
+明白吗？那么，我们来逐步分析第二个例子。对吧？呃，我本来没打算讲这个。
+
+Right? Because this is the vice versa. Use that from a base sentence cubic. Right? And how it will bring you back to the lattice and the cubic in terms of the structure factor calculations.
+对吧？因为这是反过来的。从一个立方基句开始使用它。对吧？以及它将如何让你在结构因子计算中回到晶格和立方晶系。
+
+All right? So before representative atomic locations chosen, only, again, when corner elements but then you have three pairs. Or six.
+明白吗？所以在选择代表原子位置之前，只有——再说一次——角元素，但随后你有三对。或者六个。
+
+Case sentence. You have to take three of them. Right? Because this is three dimension. So usually, we're going to take the cluest case sentence.
+情况句。你必须从中选三个。对吧？因为这是三维的。所以通常，我们会采用“cluest”这个句型。
+
+This one. That one. And that one.
+这个。那个。还有那个。
+
+All right? So then you don't miss anything.
+明白吗？这样你就不会漏掉任何内容。
+
+All right? But you need this case, and then you're going to write, uh, this conclusions. And I see that you guys are getting tired, you too. All right?
+明白吗？但你需要这个案例，然后你要写，呃，这些结论。我看得出你们累了，我也累了。好吗？
+
+Let's cut the brick here before we move into the next one.
+在进入下一个之前，我们先在这里切一下砖。
+
+I think something will get beaten by the England coaches not to.
+我觉得英格兰教练会因为某件事而被揍，而不是。
+
+Are you ready for it?
+你准备好了吗？
+
+Spain won England.
+西班牙队击败了英格兰队。
+
+嗯？
+Huh?
+
+Right, we don't have to memorize
+对，我们不用背。
+
+Right, I said: if I pick up light, if I put everywhere, uh, everything, every atom, you get an activation without work. Well, that actually also works, but then your calculation will become awfully complicated because you put so many atoms in there. So the trick that you need to get is that— Right, it's such a complicated lattice, right? You don't have to put every location of the atom in there; you find the sensitive ones, right, and that simplifies the calculations.
+对，我说：如果我拾取光，如果我把它放到各处，呃，所有东西，每个原子，你就会获得无功的激活。嗯，这其实也可以，但那样你的计算会变得非常复杂，因为里面有太多原子了。所以你需要掌握的诀窍是——对，这是一个非常复杂的晶格，对吧？你不必把每个原子的位置都放进模型里；你只需要找出那些敏感的位置，对吧？这样就能简化计算。
+
+Because the more atoms in there, the longer the equation you have, the more mistakes you can make, right? So kind of you put a curve, and it always helps, right? Now, in this case, why I say this is slightly different, right, in all previous cases, the lattice our units have only contained 1, right?
+因为原子越多，方程就越长，出错的可能性就越大，对吧？所以，你大致画一条曲线，这总是有帮助的，对吧？那么，在这种情况下，为什么我会说它略有不同呢？对吧？在之前所有情况下，晶格的单位都只包含1，对吧？
+
+Now it doesn't matter.
+现在这并不重要。
+
+Which one?
+哪一个？
+
+The structure itself is actually very simple, right, you put sodium and chlorine as the same atom, and that is actually simple cubic, very straightforward. Nonetheless, right, they appear in the alternating manner with two different atoms, sodium and chlorine, so chlorine and you see 2, sodium I use red, right? Now, the structure is getting a bit more complicated, but then if we separate the two of them from this is what we see. Now, we'll focus on the two atoms only, which is chlorine. And you see the structure is actually kind of forward; you have eight corners, and you have six face centers, is that right?
+这种结构本身其实非常简单，对吧？你把钠和氯当作同一个原子来放，它其实就是简单立方结构，非常直接。不过，对吧，它们以两种不同原子——钠和氯——交替出现，所以氯是……你看到两个，钠我用红色表示，对吧？现在，这种结构变得稍微复杂一些，但如果我们把它们分开，就会看到这样的结果。现在，我们只关注这两个原子，也就是氯原子。你可以看到，这个结构实际上是某种向前延伸的；它有八个顶点和六个面心，对吗？
+
+So this is, uh, chlorine atoms actually move one set of face centers to this group, okay? Now, you if that's the case, you will see the symmetry of the prime atoms are actually exactly the same as the blue ones.
+所以，呃，氯原子实际上会把一组面心移到这个群中，好吗？那么，如果情况确实如此，你会看到，这些原子的对称性实际上与蓝色原子完全相同。
+
+Uh-huh.
+嗯哼。
+
+Right? So if you're smart, you can guess right away, so the red ones must form another set of axis events, which is the case. But if you don't, then you can still, right, by mapping out all the locations of the red atoms, you still can figure it out, right? You can remove all of the blue ones and focus on the red ones, right?
+对吧？所以，如果你聪明的话，马上就能猜出来，红色的那些必须构成另一组轴事件，事实也确实如此。但如果你不这样做，那么你仍然可以通过标出所有红色原子的位置来弄清楚，对吧？你可以把所有蓝色的都去掉，专注于红色的，对吧？
+
+And you will see right away, so this is the origin.
+你会马上看到，所以这是原点。
+
+Uh-huh.
+嗯哼。
+
+And you will see, because you have to expand the lattice a little bit, right, you will see this one, this one, this one, this one, so this this is the other lattice form, correct? So you expand a little bit, and you will see this is really another set of axis structures. So what's the structure of so the core, the core right, is basically two sets of interconnecting axis structures, right, put together. Let's see if you're going to calculate the structure factor of this unit cell when you do that.
+你们会看到，因为你们得稍微扩大晶格一点，对吧？你们会看到这个、这个、这个、这个，所以这个……这是另一种晶格形式，对吧？所以稍微扩展一下，你就会看到，这其实又是另一组轴结构。那么，它的结构是怎样的？核心，核心，对吧，基本上就是两组相互连接的轴状结构组合在一起。我们来看看，当你计算这个晶胞的结构因子时，你会怎么做。
+
+Well, same thing, right, for the equations, the equation tells you, uh, you have to put down, right, the atomic structure factor, sorry, atomic structure factor, right, and then followed by, right, the exponential to pi I that is Hx, plus Ky, plus Lz.
+嗯，同样的，对吧，对于这些方程，方程告诉你，呃，你必须写下，对吧，原子结构因子——抱歉，是原子结构因子，对吧——然后后面是指数项 \(e^{i\pi Hx}\)，加上 Ky，再加上 Lz。
+
+Yeah. So that's the one, that's the equation we use, right? The only thing you need to put in is X, Y, Z, the location of the atoms.
+对。所以就是这个，这就是我们使用的方程，对吧？唯一需要代入的是 X、Y、Z，也就是原子的位置。
+
+How do you do them together?
+你们是怎么把它们放在一起的？
+
+So let's start with the blue one first. The blue one is actually double 4, why? Because the blue one is X, Z, C, right?
+那么，我们先从蓝色的那个开始。蓝色的那个实际上是双4，为什么？因为蓝色的那个是 X、Z、C，对吧？
+
+In the last example, example number 2, right, we just solve it. So basically.
+在最后一个例子，也就是第二个例子，对吧，我们刚刚解了它。所以基本上。
+
+为什么减到多少？
+Why is it reduced to that amount?
+
+This is optimal, right, the locations of the characteristic face centers and the origins so I say you choose this one.
+这是最优的，对吧，特征面中心和原点的位置，所以我建议你选择这个。
+
+我看不懂，会太大。
+I don't understand. It might be too big.
+
+The face centers, the other face centers on the front side, and one face center on the left side, so you get the three of them. Plus the one at the origin, right, that gives you the core characteristic atomic locations in the axis structure, and that's the correlation you're going to have, right? Then if you consider the sodium chloride structures, you can pretty much borrow what you have derived from the axis structures, right?
+面中心、正面的其他面中心，以及左侧的一个面中心，这样你就能得到这三个。再加上原点处的一个，对吧，这样就得到了轴结构中核心特征原子的位置，而这正是你们将要建立的关联，对吧？那么，如果你考虑氯化钠结构，基本上可以借用你从轴结构中推导出的结果，对吧？
+
+对。
+Right.
+
+So Cl has one plus from the ground, which is 100, right, in the earlier slide, right? Now, how about the red ones? The sodium, right, same thing, you have to choose the characteristic locations for the sodium atoms, right?
+所以，Cl 的基态是 1s，也就是 1s²，对吧？在前面的幻灯片里，对吧？那么，红色的呢？钠，对吧，也是一样的，你必须为钠原子选择特征位置，对吧？
+
+Then, uh, you can choose actually any one of them, to start with. That doesn't make any difference, right? But then if by choosing this one as the origin, you need to expand it a little bit, right, seeing where are the three corresponding face centers.
+然后，呃，其实你可以任选其中一个开始。这没什么区别，对吧？但是，如果选择这个作为原点，你就需要稍微把它展开一点，对吧，看看三个对应面心分别在哪里。
+
+Right? So, um, if you play around with it a little bit, right, you will see it right away that by choosing this one at the value center as the origin, you'll have will be your best bets, right? Then you can easily find the three face centers, right, corresponding face centers, which I think is, uh, let's see, the ideal ones which is I think is this one, right, one of this, the other ones on the other side, the other side.
+对吧？所以，嗯，如果你稍微摆弄一下，对吧，你马上就会发现，选择这个值中心作为原点，会是你的最佳选择，对吧？然后你可以很容易地找到三个面中心，对吧，也就是对应的面中心。我觉得，呃，让我们看看，理想的面中心应该是这个，对吧，这个里的一个，另一边的其他那些，另一边。
+
+And do I can do that?
+那我能做到吗？
+
+Right, did I get it? Did I get it? So basically you follow symmetry, follow the face center for the blue ones or the previous face, did you see the characteristic of the choice?
+对，我弄明白了？我明白了吗？所以基本上，你要遵循对称性，对蓝色的那些或之前的面，以面中心为基准。你看到这个选择的特点了吗？
+
+What's the characteristic of the choice? If you choose this one as the origin, okay, so the three face centers, so what's the correlation with this one? You choose one, diagonal ones, the other diagonal ones, and the third diagonal ones, so basically you define the square, then you find the diagonal directions, so these are the three characteristic ones, okay, on the face centers.
+这个选择的特点是什么？如果你把这个选为原点，好，那么三个面心与这个有什么关系？你选择一个对角线、另一个对角线，以及第三个对角线，所以基本上你先定义正方形，然后找出对角线方向，这就是三个特征方向，好吗？它们位于面心上。
+
+Now, when you shift into the red ones, so this is the original square lattice, right, so square lattice goes here, so what are the diagonal ones? The diagonal ones are here, there, and there, right? So the same thing, the red ones you figure that out, right, you calculate the coordinates of the characteristic, right, locations in there, and then summarize a little bit you see, uh, this becomes, right, for the sodium, you have the atomic scattering factor times exponential for the rest is the same, the only additional term is this, exponential to pi H half and L half, right? This is actually equivalent to you shift everything, right, you shift everything from the origin to a half, a half, and half, right?
+现在，当你移到红色的那些时，这就是原来的正方格子，对吧？正方格子就在这里。那么对角线方向是什么？对角线方向在这里、那里和那里，对吧？所以同样的，红色那些你们自己算出来，对吧？计算其中特征位置的坐标，然后稍微总结一下，你们就会看到，呃，这变成了，对吧，对于钠，你有原子散射因子乘以指数，其余部分都一样，唯一的附加项是这个：指数项乘以 πh 半和 l 半，对吧？这实际上相当于把所有东西都平移，对吧？把所有东西从原点平移到二分之一、二分之一、二分之一，对吧？
+
+So it's actually quite straightforward. But then, uh, you can just solve it, right, and you solve it and you will see something very interesting, right, uh, the structure factors, right, for if H, K, and L are all even numbers, right, that gives you the largest structure factor equals to F equals to 4 times F, sodium plus F, chlorine, okay, but then if you have H, K, L are all odd numbers, and now you have, uh, the difference in between the chlorine and the sodium, right? So this value is smaller than this value, because that's the difference. Now, for the other cases, if they're mixed, right, you don't have any intensities, in there, right?
+所以其实非常直观。但是，呃，你可以直接求解，对吧？求解之后，你会看到一个非常有趣的现象，对吧？呃，结构因子，对吧？如果 H、K 和 L 都是偶数，对吧，那么你会得到最大的结构因子，F等于4倍的钠的结构因子加上氯的结构因子，好吗？但是，如果H、K、L都是奇数，那么现在你有，呃，氯和钠之间的差值，对吧？所以这个值比这个值小，因为这就是差值。现在，对于其他情况，如果它们是混合的，对吧，那么其中就没有任何强度，对吧？
+
+So this results actually quite similar to that of the SEC, in the previous case of the SEC you can guess, but in this, right, you have a strong SEC, one they are all even or all odd, but then, um, you don't have any scattering intensity when they're mixed, right? So the same conclusion code, which is in the case of sodium chloride when they are mixed, you don't have any scattering intensity, but then, uh, if they're all even or odd, there's a difference, in the previous SEC there's no difference, right? In this case, right, um, the body centers do have a difference, so it appears to be weaker, right, compared to the corner ones in terms of the depression intensity. So you see, uh, that's how, uh, electron defections are actually very sensitive to the atomic structures and their arrangement, right? Now, that's, uh, about the definition of the lattice and their technication of the structure factors, right?
+所以这个结果实际上和 SEC 的结果很相似。在前面 SEC 的例子中，你可以猜到，但在这个例子中，对吧，你有一个强 SEC，一个……它们全都是偶数或全都是奇数，但然后，嗯，当它们混合时，就没有散射强度了，对吧？所以同样的结论是：氯化钠混合时，没有散射强度；但如果它们全都是偶数或奇数，就会有差异。在之前的 SEC 中没有区别，对吧？在这种情况下，对，嗯，体心确实存在差异，所以就凹陷强度而言，它看起来比角心的要弱，对吧？所以你看，电子衍射其实对原子结构及其排列非常敏感，对吧？那么，刚才讲的是晶格的定义以及结构因子的计算，对吧？
+
+Uh, now, the next sample I'm going to show you is that, uh, sometimes—
+呃，现在我要给你们看的下一个样品是，呃，有时候——
+
+No, let me just—
+不，让我先——
+
+The symmetry elements also want to be the same, right? Now, let's recall a very special two types of symmetry elements, uh, mentioned earlier in the first lecture on the symmetry, right? So they are the glide planes and the skew axes, right?
+对称元素也必须相同，对吧？现在，我们来回顾一下在对称性第一讲中提到的两种非常特殊的对称元素，对吧？所以它们是滑移面和斜轴，对吧？
+
+So this is a combination of the full symmetry and the transmission symmetry in a crystal lattice. Now, remember what is a glide plane and a skew plane, basically, right? So you do a mirror image, then you glide along certain directions, so that's the ramp plane operation, skew axis is that you rotate into rotate operation and then you rotate to climb along certain axis within the distance, so that's the skew axis operation, right? So if we have this kind of symmetries, sometimes you will cross this one two factors to change as well, now this is one of the examples, right?
+所以，这是晶体晶格中完全对称性和传递对称性的一种组合。现在，还记得什么是滑移面和斜滑移面吗？基本上，对吧？所以，你先进行镜像，然后沿某些方向滑移，这就是滑移面操作；斜轴则是旋转——旋转操作，然后沿某个轴爬升一段距离。所以这就是斜轴操作，对吧？所以，如果我们有这种对称性，有时也会通过这个一、二因素来改变。现在这是一个例子，对吧？
+
+Now, we consider, right, in this unit cell, in this unit cell, okay, we have a glide plane which is parallel to the B axis and perpendicular to the A axis, so my glide plane is here, right? So the nature of the glide plane is a mirror plane, so what you do is that you forgive an atomic position X, Y, Z, imagine I have a lattice here, so the symmetry will produce a mirror image of this at minus X, Y, and Z, right? But then, I have to do the glide, so there's no real atom, I have to move this atom to a half of B, so that becomes minus X, Y plus a half, and Z, okay?
+现在，我们来看一下，对吧，在这个晶胞中，在这个晶胞中，我们有一个与 B 轴平行、与 A 轴垂直的滑移面，所以我的滑移面在这里，对吧？所以滑移面的本质是镜面。那么，假设我有一个原子位置 (X, Y, Z)，想象一下，我这里有一个晶格，所以，对称性会在负X、Y和Z处产生这个原子位置的镜像，对吧？但接下来，我还要进行滑移，所以这里没有实际原子，我必须把这个原子移动到 B 轴的一半位置，因此它就变成负 X、Y 加上半，以及 Z，好吗？
+
+So this is the consequence of the glide plane operation of starting with location at the location X, Y, Z, right? Now, by calculating the structure factor, right, associated with this kind of symmetry, uh, we can do the same thing, basically, with just follow the definitions, right, as the same exponential, uh, what you have to put in is this X, Y, Z and this minus X, Y plus a half, and Z, right, in two exponential terms, and calculate to see what the results, but the results will awfully complicated, but then if we set H equals to zero, this becomes not more simplified, you will have something here, right? You see, right away, if K equals to an even number, you have a different intensity here, but K equals to an odd number, this term is not, this is zero, right?
+所以，这就是滑移面操作的后果：从位置 X、Y、Z 开始，对吧？现在，通过计算与这种对称性相关的结构因子，呃，我们基本上可以做同样的事情，只需遵循定义，对吧，就像同一个指数，呃，你得代入的是这个 X、Y、Z，以及这个负 X、Y 加半，和 Z，对吧？代入两个指数项中，然后计算结果。不过结果会非常复杂。但如果令 H 等于零，这并不会变得更简化，这里会得到一个式子，对吧？你看，如果 K 等于偶数，这里的强度会有所不同；但如果 K 等于奇数，这一项就不是……这个是零，对吧？
+
+You don't have a different intensity here, that is, for the diffractions, right, you can produce, for example, you produce, right, uh, lines of diffraction spots with, uh, zero, right, zero L, right? So you have a line with diffraction spots, the next one, supposed to be, zero, one L, so different L, right? And the next one should be zero, two L, you have this, now, this structure factor thing tells you this line of diffraction, it's not allowed, because the corresponding structure factor is zero, right?
+这里没有不同的强度。也就是说，对于衍射，对吧，你可以产生，比如说，产生，对吧，呃，衍射斑的零级线，呃，零，对吧，零 L，对吧？所以你有一条包含衍射斑的线，下一条应该是零、一L，也就是不同的L，对吧？下一个是零、二L。现在，这个结构因子告诉你，这条衍射线是不允许的，因为对应的结构因子为零，对吧？
+
+That's right.
+对。
+
+So instead of having a diffraction, right, you do have to for that is clear, but then this line of diffraction, without using, right, with that, right, basically, uh, I finished all the deductions and explanations of the recognitions and the structure factors, right, that's the most fundamental to understand electron diffractions, now to expand a little bit, uh, to, uh, explain some of the phenomenons that are seen in electron diffractions and what kind of information we can obtain from it, right? Um, now, first of all, diffraction from a single crystal, now, uh, by now you should already get an idea, right, for a single crystal, what does it look like if you have, uh, a sort of, uh, this lattice projected along certain directions, this is what you get from the diffraction, right? So with that, you can pretty much guess what is the reciprocal lattice looks like, right, but projected along these directions, right?
+所以，你不会有衍射，对吧？这一点很清楚，但这条衍射线，不用，对吧，用那个，对吧，基本上，呃，我已经完成了所有推导，也解释了识别和结构因子，对吧？这是理解电子衍射最基础的内容。现在稍微扩展一下，呃，去，呃，解释电子衍射中观察到的一些现象，以及我们能从中获得什么样的信息，对吧？嗯，现在，首先，单晶的衍射。现在，呃，到目前为止，你们应该已经对单晶有所了解了，对吧？如果你们有，呃，某种，呃……这个晶格沿某些方向投影，这就是衍射所得到的结果，对吧？所以，由此你基本上可以猜出倒易晶格是什么样的，对吧？只不过它是沿这些方向投影的，对吧？
+
+And I'm starting information you can obtain is that this is the replica of that, right? So you can always try to, uh, divide two lattice factors because it's equal space, right? Then the linear summation of the two of them will help you to produce any of the lattice laws in there, right? And the size of this factors matters because it basically tells you the corresponding e-spacing in the real space, right?
+而我开始时的信息是，这是它的复制品，对吧？所以你总是可以试着，呃，除以两个晶格因子，因为它们是等价的，对吧？那么，把它们线性叠加，就能得到其中任意一个晶格定律，对吧？这些因子的大小很重要，因为它基本上告诉你实空间中相应的 e 距离，对吧？
+
+So this is, uh, what you get from a single crystal, right? Now, um, more complicated case, is that, uh, when you have some, uh, special structures in the crystal, a little dispute to find in the category of a single crystal, diffraction pattern will look different, uh, three structures is one of them, so what is the three? Well, three by nature means identical, right? So the three structure is actually projected by a special plane known as the three planes, that serves as actually a mirror plane, so the crystal, the crystal, if you look at it as a mirror crystal, that forms a three structure.
+所以这就是你从单晶中得到的结果，对吧？那么，更复杂的情况是，当晶体中存在某些特殊结构，稍微偏离单晶类别时，衍射图样看起来会有所不同，呃，三种结构就是其中之一，那么这三种结构是什么？那么，三重对称本质上意味着完全相同，对吧？所以，三重结构实际上是由一个称为三重晶面的特殊晶面投影而成的，而这个晶面实际上充当镜面。因此，晶体，如果把它看作镜面晶体，它形成一种三重结构。
+
+这个角落是斜平的，老老实实的，慢慢的。
+This corner is slanted and flat, steadily and slowly.
+
+这个角落是直角的。
+This corner is a right angle.
+
+我看到是他不老实，这其实他不能给我，我不能让他完成他的指令，然后我在那个什么，慢慢聊，你明天一起搞完吧，慢慢聊一下，我最好的，不能聊，主要是我不知道，其实我英文也没那个什么呀，我不知道一分怎么解释，我不知道你直接说呀，你问他，我不知道怎么改，你跟他说就行了，嗯，行，你现在试啊，就是不是你现在是
+I saw that he wasn’t being honest. Actually, he couldn’t give it to me. I couldn’t let him finish his instructions. Then I was, like, “Let’s talk about it slowly. We’ll finish it together tomorrow.” Let’s talk about it slowly. My best, I can’t chat. Mostly, I don’t know. Actually, my English isn’t good either. I don’t know how to explain “one point.” I don’t know how to say it directly. Ask him. I don’t know how to change it. Just tell him. Mm, okay. Try it now. It’s not that you’re now…
+
+。
+.
+
+So you start by joining one unit cells, right, then you can expand along any of the lattice factor directions, right, by moving the same distance, you always end up with a lattice force, so that means you work with the consistency of the lattice, right? Now, for the electron diffraction pattern I showed you here, you see there's a bit of a problem, right? So if I draw the gray one like this, you see there's an angle swap here, you don't know where your lattice comes from, right? So if you draw the blue one in there, right, you have another one there, so you're always additional swaps, you don't know where it's coming from, right?
+所以你先连接一个晶胞，对吧，然后可以沿着任意一个晶格方向扩展，对吧，移动相同的距离，你总会得到一个晶格力，所以这意味着你要保持晶格的一致性，对吧？现在，对于我在这里展示的电子衍射图样，你们会看到有一点问题，对吧？所以，如果我把灰色的那个这样画出来，你们会看到这里有一个角度错位，你不知道晶格是从哪里来的，对吧？所以，如果你把蓝色的那个画进去，对吧，那里又有一个，所以总会有额外的错位，你不知道它来自哪里，对吧？
+
+And this are actually coming from, uh, the three structures, right? So the blue one is one second of the lattice, right, you see this one is actually the ending of the blue lattice, right, and the green one coming from the other side, so that's the three structures, right? Now, one of the most interesting diffraction pattern is the so-called long-period optical structures, right?
+而这些实际上来自，呃，三种结构，对吧？所以蓝色的那个是晶格的一部分，对吧？你看，这个其实是蓝色晶格的末端，对吧？绿色的那个则来自另一侧，所以这就是三种结构，对吧？现在，最有趣的衍射图案之一就是所谓的长周期光学结构，对吧？
+
+Now, a check on you, uh, which is a plan我也不知道。 So if I have, uh, structure of A and B, uh, or material A and B, right, so.
+现在，考考你们，呃，哪个平面……我也不知道。所以，如果我有，呃，A和B的结构，呃，或者A和B的材料，对吧，那么。
+
+工作的部分有点少，实习的他是不能工作的。
+There’s not much work involved. During the internship, he can’t work.
+
+This is my A, and on top of it, I build another layer, 那
+这是我的A，在它上面我再建一层，那……
+
+我
+I
+
+now, first of all, do I see, uh, precise structures corresponding precise structures within the structures of A?
+那么，首先，我是否能看到A的结构中与之精确对应的结构？
+
+Yes. I looked at A, but A is there, right? So A is here, so I would see A, okay?
+是的。我看过 A，但 A 在那里，对吧？所以 A 在这里，我会看到 A，好吗？
+
+So let's say there's a shield, A has a lattice like this.
+那么，假设有一个屏蔽，A 有一个这样的晶格。
+
+就像。
+It’s like…
+
+The lattice is my favorite.
+这个晶格是我最喜欢的。
+
+那个影像工作台这样，但是另一个研究像。
+That imaging workbench is like this, but another study is like...
+
+你可以编。
+You can code it.
+
+自己了解清楚说什么不能编。
+Make sure you understand clearly what you can and cannot fabricate.
+
+Right, so let's imagine that B is somewhere else, but I don't draw, but you see that, okay? Now, let's see anything else.
+对，那么我们想象一下，B 在别的地方，不过我没画出来，但你们能看出来，好吗？现在，我们来看看有没有别的。
+
+B。
+B.
+
+Yeah, so some of you already see, hey, if you follow the whole idea of crystal lattice, and you discover that here, I have to, I repeated unit cells, right, by joining A and B together as a band block, then I have another block, I have a third block, so three are alternating as well, so there are periodicities going along those directions, right? So if one is the case, let's see, so this is a testing, already a testing of your understanding of real space, uh, relationship within the single space and how would you apply it into the real space.
+对，所以你们有些人已经看出来了。如果你们理解了晶格的整个概念，就会发现，这里我必须——我重复了晶胞，对吧？把 A 和 B 连接起来，形成一个带状块，然后我还有另一个块，还有第三个块，所以这三个块也是交替排列的，因此沿这些方向也存在周期性，对吧？所以，如果情况是这样，我们来看一下。这已经是在检验你们对实空间的理解，呃，检验你们对单空间中各种关系的理解，以及你们会如何将其应用到实空间中。
+
+What is the expected result?
+预期结果是什么？
+
+So after this, it's very easy actually, okay, because in this, let's look at the diffraction pattern coming from A first, right? So if I look at this reciprocal lattice spot, G, this here, what is it? What does it represent in the real space? So this is in the real space, this is in the reciprocal space, okay, so what is G in the real space?
+所以做完这个之后，其实很简单，好吗？因为在这里，我们先来看一下来自 A 的衍射图样，对吧？那么，如果我看看这个倒易点阵斑点 G，也就是这里，它是什么？它在实空间中代表什么？所以这是实空间中的，这是倒易空间中的，好吗？那么，G 在实空间中是什么？
+
+Okay, so G is the lattice spot, in the reciprocal space, so a lattice spot represents a lattice vector, whereas a lattice vector, this is my origin, right?
+好的，所以 G 是倒易空间中的晶格点。一个晶格点代表一个晶格向量，而一个晶格向量，这是我的原点，对吧？
+
+This is my lattice vector, okay? And that lattice vector, GHKL, has similar relationship with, uh, what? In the real space, this is the first reciprocal relationship I try to build with geometric reductions and so on and so forth, in the whole lecture, and this is the single idea I try to deliver throughout the lecture.
+这是我的晶格向量，好吗？那么，这个晶向量 GHKL 与，呃，什么有类似的关系？在实空间中，这是我在整个讲座中试图通过几何约简等方法建立的第一个对偶关系，这也是我试图贯穿整个讲座表达的唯一一个核心思想。
+
+What is C?
+C 是什么？
+
+What is G?
+什么是 G？
+
+G is a reciprocal lattice vector, so what is it? What's the correlation? Why is called HKL?
+G 是倒易晶格矢量，那么它是什么？有什么关联？为什么叫 H、K、L？
+
+Yeah, a plane, very good, it's a plane, where is the plane?
+对，一个晶面。很好，它是一个晶面。这个晶面在哪里？
+
+GHKL is the plane normal, so this is the whole idea I've been trying to, you know, spend time to discuss with it. So this is the plane, okay, so where is the plane? This is the plane, right? This is the plane, this is the plane in A lattice, so the diffraction pattern you do see the plane, that's the plane, that's the set of planes, in there, in the real space lattice.
+GHKL 是晶面法线，所以这就是我一直试图花时间讨论的整个思路。所以这就是这个平面，好，那么这个平面在哪里？这就是平面，对吧？这是晶面，这是A晶格中的晶面。所以你在衍射图样中看到的这些面，就是这些晶面，也就是实空间晶格中的晶面族。
+
+Okay? Now, with that as clear, right, so if you have a plane, you have a reflection in there, now, do I can I imagine this block as a plane? As an artificial plane?
+明白吗？现在，既然这一点已经清楚了，对吧？那么，如果你有一个晶面，它就会产生一个衍射峰。现在，我能不能把这个晶块看作一个晶面？把它当作一个假想平面？
+
+Yes, I can, one plane, two planes, three planes, can I have many planes in there for the long periodicity? So what's the difference in this plane and that plane?
+是的，可以。一个平面、两个平面、三个平面，为了实现长程周期性，里面可以有多个平面吗？那么，这个平面和那个平面有什么区别？
+
+What's the difference? Question four, so this is the atomic plane, we talk about, right? And this is the artificial plane, we talk about, is that right?
+有什么区别？第四题，所以这就是我们所说的原子面，对吧？而这是我们所说的假想平面，对吗？
+
+So what's the difference in between these two planes?
+那么，这两个晶面之间有什么区别？
+
+So, um.
+所以，嗯。
+
+So how far is these two planes apart from each other?
+那么，这两个平面相隔多远？
+
+Compared to how far is this plane apart from each other?
+相比之下，这个平面彼此相隔多远？
+
+Any difference? Yes? So what's the difference?
+有什么区别吗？是吗？那么有什么区别？
+
+So this is the D spacing, of A, and this is the D spacing of AB, what's the relationship in between A and AB?
+所以这是 A 的 D 间距，这是 AB 的 D 间距，那么 A 和 AB 之间有什么关系？
+
+Yes?
+对吧？
+
+Can I tell?
+我能判断出来吗？
+
+What's the difference?
+有什么区别？
+
+This is not obvious? This difference and that difference is not obvious?
+这不明显吗？这个区别和那个区别不明显吗？
+
+You see it?
+你看到了吗？
+
+So why is so you guys get me, what's the thing?
+所以为什么……你们明白我的意思吗？问题出在哪里？
+
+So what's the difference in between this and that? Nobody knows?
+那么，这个和那个有什么区别？没人知道吗？
+
+So what's the difference?
+那么有什么区别？
+
+Can I tell?
+我能说吗？
+
+This is five, this is ten, what's the difference?
+这是五，这是十，有什么区别？
+
+You don't know? Why it's small, the other is large, you guys cannot hear that?
+你不知道吗？为什么这个小，那个大，你们听不出来吗？
+
+Is it? Do we agree why it's small, the other is large?
+是吗？我们同意为什么这个小，而另一个大吗？
+
+Mm-hmm.
+嗯哼。
+
+Okay, so why is small, the other is large? In the real space.
+好的，那么为什么这个小，另一个大？在现实空间中。
+
+Then in the corresponding reciprocal space. What would you like?
+那么在相应的倒易空间中。您想要什么？
+
+Very good, it's the inverse relationship, small one will become large, and large one becomes small, so if this is the diffraction pattern corresponding to the planes in A, now, if you're going to have a reflection from the long periodical relationship in the real space, it's very far apart, in the real space, in the reciprocal space, you're going to have a squeeze, right? So if I'm going to look at around this pattern, right, I'm going to look at this, I'm going to see smaller blocks with shorter separation distance, right? And that distance, right, represents the D spacing you have for the long periodicity, right? So this is how it looks like, in the diffraction pattern, and in the lattice layers, you see the stacking of A and B and A and B and A and B in the repeating layer, right? So, uh, this example, basically, is the ultimate test of your understanding of the real space and reciprocal space relationships, right?
+非常好，这是反比关系：小的会变大，大的会变小。所以，如果这是对应于 A 中晶面的衍射图样，那么现在，如果你要从实空间中的长周期关系中得到衍射，那么在实空间中它们相距很远，而在倒易空间中，它们会收缩，对吧？所以，如果我观察这个图案周围，对吧，我看到这个，就会看到间距更短、更小的块，对吧？而这个距离，对吧，就代表了长周期结构的 d 间距，对吧？所以衍射图样看起来就是这样，在晶格层中，你会看到A和B、A和B、A和B在重复层中交替堆叠，对吧？所以，呃，这个例子基本上是对你们理解实空间与倒易空间之间关系的终极检验，对吧？
+
+How would you interpret the diffraction patterns when they're in reduced planes that are in the real space?
+当衍射图样位于实空间中的原点晶带面上时，你会如何解释它们？
+
+All right? This is an analytical case.
+明白吗？这是一个解析情况。
+
+Right? Uh, next one, so that's simple crystal, right? Um, now we're going to cut the simple crystals, to smaller pieces, right? Uh, and then each of the single crystals may rotate a little bit, right?
+对吧？呃，下一个，所以那是简单晶体，对吧？嗯，现在我们要把简单晶体切割成更小的碎片，对吧？呃，然后每个单晶可能会稍微旋转一点，对吧？
+
+Now we're going to see, uh, for this new materials produced by cutting the big crystal into small, and that then we misalign a little bit, of what would be the resulting result, again, the reduction process. Now, I have a single crystal, okay? So now, considering electrons coming from top to down, right?
+现在我们要看看，呃，把大晶体切割成小块，然后稍微错位，所得到的结果会是什么，也就是再进行一次减小处理。现在，我有一块单晶，好吗？那么现在，假设电子从上往下传播，对吧？
+
+Now, for planes satisfied along zone, we'll have a standard diffraction pattern, now, I know, right, with this model, you know, my zoom axis or my electrons are coming from top to down, then this plane is perpendicular to the electron beam directions, or my zoom axis, and also this plane satisfied direct conditions, I should see in the diffraction pattern two spots here, is that right?
+现在，对于沿区域取向的晶面，我们会得到一个标准衍射图样。现在，我知道，对吧，根据这个模型，我的缩放轴，或者我的电子是从上往下来的，那么，这个晶面垂直于电子束的方向，也就是我的缩放轴；而且这个晶面也满足直接绕射条件。因此，我应该在衍射图样中看到这里有两个斑点，对吗？
+
+Here, this is my one side of plane, this is the other side of plane, right? You have the diffraction spots in there, okay? So these are two planes, pair of planes, two sets of parallel planes, okay? You will see diffraction spots in here, right?
+这里，这是平面的一侧，这是另一侧，对吧？里面有衍射斑点，对吧？所以这是两个晶面，一对晶面，也就是两组平行晶面，好吗？你会在这里看到衍射斑点，对吧？
+
+But I say, I have cut these crystals into smaller pieces, right? And they going to change their orientations a little bit, right? Now, if there are not going to be peaks, but rotate in the planes, right? So I have this set of planes corresponding to these two points, right?
+但我说，我把这些晶体切成了更小的块，对吧？它们的取向会稍微改变一点，对吧？那么，如果不会有峰，但会在平面内旋转，对吧？所以，我有一组与这两个点相对应的晶面，对吧？
+
+Now, if my crystal rotates a little bit, what happens?
+现在，如果我的晶体稍微旋转一下，会发生什么？
+
+My plane spots will move to here, is that right? This is the same model, right? So my crystal, on this plane, can basically rotate 360 degrees, so now you'll see now you'll see this spot will also rotate 360 degrees, so one set of diffraction spots now becomes a ring, just so, right? So this is what we have, and eventually, it forms a ring, if you have our crystals, right?
+我的衍射斑会移到这里，对吗？这是同一个模型，对吧？所以我的晶体在这个平面上基本上可以旋转360度。现在你们会看到，这个衍射斑也会旋转360度，因此一组衍射斑现在就变成了一个环，就是这样，对吧？所以这就是我们得到的结果。最终，如果使用我们的晶体，它会形成一个环，对吧？
+
+We have all crystals, we are taking all 360 degrees, right?
+我们有所有晶体，我们取的是完整的360度，对吧？
+
+But, of course, you will say, uh, if the rotations are not on the plane, only, if they flip, what happens? They flip, this fragment is no longer satisfied, right? So you won't be able to see this set of planes anymore, right?
+但是，当然，你会问，呃，如果旋转不在平面上，只有当它们翻转时，会发生什么？它们翻转了，这个片段不再满足条件，对吧？所以你将再也看不到这一组晶面了，对吧？
+
+It doesn't make any difference on the stage, right?
+它在舞台上没有任何区别，对吧？
+
+Right, so that's coming this way, right? On the next one, I'm going to continue our story, so we're going to cut this coming crystal's slashes even smaller sizes for each of the individual crystals, right? Now what happens?
+对，所以它是从这边过来的，对吧？接下来，我会继续讲我们的故事，所以我们会把这些即将出现的晶体的切口，也就是各个单独晶体的尺寸，做得更小，对吧？现在会发生什么？
+
+Now what happens?
+现在会发生什么？
+
+Again, that test, your understanding of the real space and the reciprocal space, right? So you're going to have smaller small crystals.
+再强调一次，那项测试考察的是你对实空间和倒易空间的理解，对吧？所以你会得到更小的晶体。
+
+You can change the diffraction in the reciprocal space will get reduced as wide, right? So small in the real space, large in the reciprocal space, right? So, uh, instead of a sharp diffraction rings, that would just be half of the coming crystals, or you would expect to see quite a much more diffused rings, right?
+你可以改变衍射，使倒易空间中的衍射变窄，对吧？所以在实空间中较小，在倒易空间中较大，对吧？所以，呃，不是会出现清晰的衍射环，而是只会出现一半的晶体，或者你会预期看到扩散得多得多的衍射环，对吧？
+
+And also, uh, when the size of the crystals is getting so small, right? Now we're going to have a very interesting, uh, things happen, right? What we define the crystal, this definition is coming from the definition of the Newton's law, and you have the repeated Newton's cells halved, this is given in a spatial, you have a crystal, right?
+而且，呃，当晶体的尺寸变得非常小时，对吧？现在，我们会看到一些非常有趣的现象，对吧？我们对晶体的定义源自牛顿定律的定义，而牛顿元胞被反复减半，这是以空间形式给出的，你有一个晶体，对吧？
+
+So when you cut a crystal into such a small size, right, in a new one, uh, below the size of the Newton's cell, crystal crystal, right? So you see, uh, this reduced in size, phenomenon, right, is a continuous process, and the old definition of a crystal versus amorphous, when the crystal lost its originality, you call it amorphous, right? It's actually a continuous process, in the process you start from the long-range ordering, which is required, a perfect crystal, to a short-range ordering, right?
+所以，当你把晶体切割成这么小的尺寸，对吧，在一个新的，呃，低于牛顿晶胞尺寸的晶体、晶体，对吧？所以你看，呃，这种尺寸缩小的现象，对吧，是一个连续过程。而对晶体与非晶态物质的旧定义是：当晶体失去其原有特性时，你就称之为非晶态物质，对吧？这实际上是一个连续过程，在这个过程中，你从长程有序开始，而长程有序是完美晶体所必需的，最终会变成短程有序，对吧？
+
+That defines a state, a continuous state, in between, the crystal and the perfect amorphous amorphous, eventually, uh, you go to a completely randomness, right? So in this, uh, case, if you were going to talk about short-range orders or, uh, complete amorphous materials, we're going to take that for a diffraction experiment, what to expect, now, just to explain when the crystal size is getting smaller and smaller, what we have reduced diffraction intensities, but then when you lost, completely lost the order, right, you get things in the diffraction, you lost, right? Because we have matter there, when electrons are scattered in the matter, the energy gets scattered in the matter, but then the thing is that, how would it look like?
+这定义了一种状态，一种连续状态，介于晶体和完全无序的非晶态之间。最终，呃，你会达到完全无序的状态，对吧？所以，在这种情况下，如果你要讨论短程有序，或者完全无序的材料，那么对于衍射实验，我们会考虑预期会看到什么，现在，只是为了说明，当晶粒尺寸越来越小时，衍射强度会变弱；但当有序结构完全消失时，对吧，衍射中就会出现一些东西，对吧？因为那里有物质，电子在物质中散射时，能量也会在物质中散射。但问题是，它会是什么样子？
+
+This is how it would look like, you see that ring as it goes from polos, right? Uh, should it was more than one polus, right? Then all the energy gets dispersed, right?
+它看起来就是这样。你会看到从极点开始的环，对吧？呃，如果它有不止一个极，对吧？那么所有的能量都会被分散，对吧？
+
+Well, in the bigger case, if you look at this, this is the crystal, right? Why do you have the different spots? Because that tells you, uh, that the different sets of planes, right?
+嗯，在更大的情况下，如果你看这个，这就是晶体，对吧？为什么会有不同的斑点？因为这说明了，呃，不同组的晶面，对吧？
+
+So the distance, right, in between, the or the size of the crystal that is not going to tell you what he's thinking of the set of planes, basically, right? But now, you don't have planes anymore, right? But then, you consider one atoms in the plane, right?
+所以，中间的距离，对吧，或者说晶体的大小，基本上不会告诉你他所考虑的晶面组，对吧？但现在，你已经没有晶面了，对吧？但接下来，你会考虑平面上的一个原子，对吧？
+
+Although they are randomly oriented, right? So there's very, uh, random relationships in between, uh, each of the atoms. But then, I mean, you can still define the nearest and neighbors.
+尽管它们的取向是随机的，对吧？所以，各个原子之间的关系非常，呃，随机。但话说回来，我的意思是，你仍然可以定义最近邻。
+
+免费版。
+Free version.
+
+Right? Of the surrounding atoms away from this one. Then you can define the second nearest neighbors and third is also fourth, right?
+对吧？远离这个原子的周围原子。然后你可以定义第二近邻，第三也是第四，对吧？
+
+So some of them are falling into these regions.
+所以其中一些会落入这些区域。
+
+你会聊天吗？
+Can you chat?
+
+And then, because.
+然后，因为。
+
+你又是聊天吗？
+Are you also chatting?
+
+Similar distance, right?
+距离相似，对吧？
+
+这个因为什么工作模式？
+What kind of working model is this?
+
+So you're scattering, uh, events will be similar.
+所以，你分散的，呃，事件会很相似。
+
+你这样跟他聊吗？这个用什么工作模式？
+Do you talk to him like this? What work mode does this use?
+
+Diffraction polos. So by analyzing the different.
+衍射波洛斯。所以，通过分析不同的……
+
+你没升级。
+You haven't upgraded.
+
+The reduction.
+这种现象。
+
+我就数非常多。
+I just count a very large number.
+
+Right?
+对吧？
+
+你没升级。
+You didn't upgrade.
+
+Yes.
+是的。
+
+iPad升级首先没升级。手机升级不是账号被翻了吗？
+The iPad upgrade—first of all, it hasn’t been upgraded. If you upgrade your phone, isn’t your account compromised?
+
+Or the nearest and neighbor separate units, and the second.
+或者最近的和相邻的独立单元，以及第二个。
+
+你换一个账号下这个。
+Use a different account to download this.
+
+That's new.
+这是新的。
+
+这个这个软软件不对。
+This software is wrong.
+
+Second information of the amorphous material.
+非晶态材料的第二项信息。
+
+然后下面再切账号。从这个里面切你的登录里面就可以了。我就说怎么用了这么这么水的东西，干嘛买的BB扇子。
+Then switch accounts again below. Just switch to your logged-in account from here. I’m just saying, why use such a shoddy thing? Why buy a BB fan?
+
+So for this one work, I gave you a short amount of time, um, uh, for a week, right? Uh, the reason why is that you need to finish this one, because next week, uh, we're going to have, uh, uh, the lecture on low energy electron diffraction pattern, right? Uh, that is basically, um, an exercise class, right?
+所以对于这项作业，我给你们了很短的时间，嗯，呃，一周，对吧？呃，原因是你们需要完成这个，因为下周，呃，我们会讲低能电子衍射图谱，对吧？呃，那基本上就是，嗯，一个练习课，对吧？
+
+That you practice what you learned on the diffraction, um, to, uh, put them two-dimensional lattice.
+你们要练习所学的衍射知识，嗯，把它们放到二维晶格中。
+
+下一个考试。
+Next exam.
+
+Speedy here, a lot of complications.
+这里很快，有很多复杂情况。
+
+下一个考试。
+Next exam.
+
+We're dealing with this.
+我们正在处理这个问题。
+
+下一个考试。
+The next exam.
+
+Right? Now, to simplify it to low energy electron diffraction pattern using two-beam models, right? The first thing can be manipulated, calculated, and the plotted, right, in a straightforward way. And the lead is also a massive test. Right? Uh, or a massive stem problem, uh, that will appear in the later courses, because, uh, that serves as a very good model system to see how you, uh, how you, uh, master, right, the, uh, or how you understand the effect of the reciprocal and the concept of the diffraction and so on and so forth. So being able to move through that, being able to follow the exercise of the lead, or my lectures of the lead, next Monday, right?
+对吧？现在，用双束模型将其简化为低能电子衍射图样，对吧？第一个可以直接进行处理、计算和作图，对吧？而且，铅也是一个巨大的考验。对吧？呃，或者说是一个巨大的茎问题，呃，这会在后面的课程中出现，因为，呃，它是一个非常好的模型系统，可以让你看看你，呃，你，呃，如何掌握，对吧，这个，呃，或者你们如何理解互易效应、衍射概念等等。所以，能够顺利地完成这些内容，能够跟上接下来周一的练习，或者我的讲座，对吧？
+
+You have to have some practice. Right? Uh, based on your understanding today.
+你必须进行一些练习。对吧？呃，基于你今天所理解的内容。
+
+Right? So this is a must. That's why today I want you guys, uh, uh, could be even longer, but this one you have to finish before next Monday.
+对吧？所以这是必须的。所以今天我想让你们……呃，呃，甚至可以更长，但这个你们必须在下周一之前完成。
+
+Okay?
+明白吗？
+
+这好像195。
+This seems to be 195.
+
+Uh, not yet. Let's still have 10 minutes, right? Let me go through.
+呃，还没有。我们还是留10分钟，好吗？我来过一遍。
+
+10 minutes。
+10 minutes.
+
+Quickly. Today we don't have time for, no worries. We have time for the next week, okay?
+快点。今天我们没时间做这个，没关系。我们下周有时间，好吗？
+
+你知道什么？为什么要做？这今天没时间做。
+What do you know? Why do it? There’s no time to do it today.
+
+So this is basically a tutorial, right? Um, diffraction pattern.
+所以这基本上是一次辅导课，对吧？嗯，衍射图样。
+
+上了。
+It’s on.
+
+I will be very fast on this one, right? Because there's, uh, not much to talk about during this thing. Concept-wise, right, it is more difficult for the path vector that I have, right, today.
+这个我会讲得很快，对吧？因为这个过程中，呃，没什么可说的。从概念上来说，对今天的路径向量而言，确实更难，对吧？
+
+Right? Understanding the reciprocal relationship and the real state and also how to interpret the diffraction pattern will take a bit of effort to appreciate, right?
+对吧？理解它们之间的互惠关系、实际状态，以及如何解读衍射图样，都需要花一些功夫去领会，对吧？
+
+So, uh, diffraction pattern reporting in TEM, or practically, so this is a real set of diffraction pattern. In there, right? Uh, and, uh, this is not, uh, it's a replica of the reciprocal lattice, but it's not a reciprocal lattice.
+那么，呃，透射电子显微镜中的衍射图样报告，或者说实际上，这是一组真实的衍射图样。在其中，对吧？呃，而且，呃，这不是，呃，它是倒格子的复制品，但它并不是倒格子。
+
+The reason why is that during the photo, the photo will be enlarged, right? Or the object that you have, right? So the photo, a simple geometrical relationship, if you look at the this triangle and the this triangle, right?
+原因是，在摄影过程中，照片会被放大，对吧？或者你所拥有的物体，对吧？所以，对于这张照片，一个简单的几何关系：如果你看这个三角形和这个三角形，对吧？
+
+Somehow you can use a relationship, right, of the two, uh, which is known as RE equals to L lambda, right? So R is the distance that you measure from the diffraction pattern. P is the real P spacing of the crystals.
+不知怎么的，你可以利用两者之间的一个关系，对吧？这个关系叫作 RE 等于 Lλ，对吧？所以，R 是你从衍射图样中测得的距离。P 是晶体的实际晶格间距。
+
+L is known as the camera lens of your TEM.
+L 是透射电子显微镜的相机焦距。
+
+我去聊一下。
+I’ll go have a chat.
+
+And the reflex of the electron beam that you use, right? Do you see? Those two are instrumental factors, right?
+还有你所使用的电子束的衍射，对吧？你看到了吗？这两个是仪器因素，对吧？
+
+So, uh, they're sometimes considered together, right, as okay, right? The camera electronic. Right? So to calculate the obvious thing, this is in most cases even, or can be found from the menu, right?
+所以，呃，它们有时会被一起考虑，对吧，算是，对吧？相机电子。对吧？所以，要计算这个显而易见的东西，在大多数情况下甚至……或者可以从菜单中找到，对吧？
+
+What you measure is R, and what you try to decide is E, right?
+你测量的是 R，而你要确定的是 E，对吧？
+
+So diffraction patterns, right? Uh, now we're going to find, this is a very old, uh, photograph, uh, taken from a negative, right? So you see on the left corner there is a very blurred, the letters written as, uh, 0.
+所以是衍射图样，对吧？呃，现在我们要找的是，这是一张非常古老的，呃，从底片上拍摄的照片，对吧？所以你看，左上角有一个非常模糊的……写着，呃，0 的字母。
+
+40. So that's actually tells you the camera lens, right? Uh, nowadays it is everything is digital, so you can also find it in the manuals or in the interfaces.
+40。所以那其实是在告诉你相机镜头，对吧？呃，如今一切都是数字化的，所以你也可以在手册或用户界面中找到它。
+
+But that number is there, right? Uh, so with that you can calculate, with the camera lens and, uh, the wavelengths of electrons, you can sort of estimate the camera parameters, usually in net range. But the point is this, right? This is a very rough number, right? Um, in many cases when the new microscopes delivered on site, you need to do a calibration of that, of that, uh, camera parameter, right?
+但那个数字是有的，对吧？呃，所以你可以用它来计算，结合相机镜头和电子的波长，可以大致估算相机的参数，通常是在净范围内。但重点是这里，对吧？这是一个非常粗略的数值，对吧？嗯，在很多情况下，新显微镜运抵现场后，你需要对那个、那个，呃，摄像头参数进行校准，对吧？
+
+So there are two ways of doing the calibration. So those are kind of straightforward, right? The first one you're using the, uh, known materials and particles line, and the second you use a single crystal.
+所以，校准有两种方法。所以这些都比较简单，对吧？第一种是使用已知材料和颗粒的线，第二种是使用单晶。
+
+The idea is the same. So basically because it's known material, you already know what is the diffraction pattern, right? Then by measuring, right, the radius where the diameter of the rings, basically you know.
+思路是一样的。所以基本上，因为这是已知材料，你已经知道它的衍射图样是什么了，对吧？然后通过测量，对吧，就是测量环的直径所对应的半径，基本上你就能知道。
+
+空的。
+empty.
+
+Of the beads and so on and so forth, right? Uh, then you take a diffraction from, uh, using the microscope that you have, right? And, uh, the calibration is done, uh, by, right, measuring this first, right? And using the known HPLs of this crystal, they calculate the d-values correspondingly, right?
+珠子的，等等，对吧？呃，然后你用现有的显微镜进行衍射测量，对吧？然后，呃，标定是通过，对吧，先测量这个，对吧？然后利用该晶体已知的 HPL，他们相应地计算出 d 值，对吧？
+
+Now, this is the result, uh, of the experiments you see. This is the values, the measures from the rings. So this is corresponding d-spacings, right?
+现在，这就是你们看到的实验结果。这些是环测得的数值。所以这些对应的是 d 间距，对吧？
+
+You calculate it, right? And, uh, with that you can calculate the camera parameter using the equations. And what you get is that the different rings you see, you have a deviation, this is reasonable because when you measure the rings your arrows, right, for each of them is different than you get the average. And even you get the average, the average is 10.
+你计算出来，对吧？然后，呃，你可以用这些数据和相关方程计算相机参数。你得到的是，对于不同的环，你都会有一个偏差。这是合理的，因为当你测量这些环时，对每个环的箭头，对吧，都会有所不同，所以要取平均值。即使取平均值，平均值也是10。
+
+58, and you see how that deviates from the given number by the vector. So usually you have to do the calibration. So this is the whole idea.
+58，你可以看到它如何通过这个向量偏离给定的数值。所以通常你必须进行校准。这就是整个思路。
+
+Now I'm going to skip the single crystal ones. Basically it's the same idea, right? Uh, then the difficult part, right?
+现在我要跳过单晶那些。基本上是同样的思路，对吧？呃，然后是难点，对吧？
+
+Which is actually not difficult. It's always large database, and, uh, AIs, right? So in a sense, uh, in the exams I will never ask you to index the diffraction pattern, right? Uh, for one reason is that it's hard to do, right, during class because you have to do the measurement and the things and so on and so forth.
+其实并不难。一直都是大型数据库，还有，呃，人工智能，对吧？所以从某种意义上说，呃，在考试中我绝不会要求你们对衍射图样进行索引，对吧？呃，其中一个原因是，这很难在课堂上完成，对吧？因为你们得进行测量之类的工作。
+
+And the other reason is there's really no need to do that because nowadays, right, computers can build up the database for you and do the matching for you. So what's the point of doing it by myself? Uh, but then, uh, the thing is that you still have to understand the diffraction because the fitting parameters and send to the computer got to be correct, so before you get the right, right, uh, answers out.
+另一个原因是，现在真的没有必要这么做，因为计算机可以帮你建立数据库，并为你进行匹配。那我自己做还有什么意义呢？呃，不过，关键是你仍然必须理解衍射，因为拟合参数必须正确输入计算机，这样才能得到正确的答案。
+
+Right? So, uh, let's just very quickly go through the process you have to have. Simple case is that you're dealing with a piece of materials, a pie symmetry, for example, silicon, diamond, or anything with structures, right?
+对吧？那么，呃，我们快速过一下你们必须完成的流程。最简单的情况是，你处理的是具有某种对称性的材料，比如硅、金刚石，或者任何具有某种结构的材料，对吧？
+
+So for these crystals usually the database is already built many tens of years ago, right? So you have standard database and you find in the printed textbooks or internet, everywhere, right? So what you do is that you take the diffraction pattern, right? Then you measure, uh, through that distractors or two vectors in the pattern, and also the angle you take.
+所以对于这些晶体，数据库通常都是几十年前就已经建立好的，对吧？所以你有标准数据库，可以在印刷教材或互联网上找到，到处都有，对吧？所以，你要做的是获取衍射图样，对吧？然后你通过图案中的那些分隔线或两个向量进行测量，同时还要测量角度。
+
+Or you can measure, uh, a third one which is a summation, vector summation of R1R2. Then you look at the database to see, uh, which symmetry is similar, right? So you find one that is similar and do 10 measurement to see if they match. If they match, you got a pattern, right?
+或者你可以测量第三个，也就是 R1R2 的向量和。然后查看数据库，看看，呃，哪种对称性相似，对吧？所以你找到一个相似的，然后做10次测量，看看它们是否匹配。如果它们匹配，你就得到了一个模式，对吧？
+
+So this is a, as you see, a very low tech trick, uh, that you have, right? But that is, uh, people have been using for many tens of years, right? Now, uh, the first that people have tried to, uh, make it, uh, uh, more standard procedures.
+所以，正如你们所看到的，这是一个非常低科技含量的技巧，呃，你们有这个，对吧？但这个，呃，人们已经用了几十年了，对吧？现在，呃，人们首先尝试把它，呃，呃，变成更标准的程序。
+
+The reason why is because all the gas is based on the measurement, right? Now, if you look at the measurement, you see this is very coarse measurement. First of all, the spot that you can measure, right, from this to this distance is not very accurate, right?
+原因是所有气体都基于测量，对吧？现在，如果你看一下这个测量结果，就会发现它非常粗略。首先，你能测量的这个点，对吧，从这里到这里的距离并不是非常精确，对吧？
+
+Though you can say I'm going to measure from here to there, that's why I want to have many spots as possible. And then I divide it by the number of spots in there, right? Helps a bit still, makes very coarse, right?
+虽然你可以说我要测量从这里到那里，但这就是为什么我想尽可能多地设置测量点。然后用它除以里面的点数，对吧？还是有点帮助，但会很粗糙，对吧？
+
+But then along the angles, right, the angles tilted to this way a little bit, that way a little bit, differs a lot. That's why, right, imagining is needed. Right?
+但沿着这些角度，对吧，角度稍微朝这边倾斜，稍微朝那边倾斜，差别就很大。所以，对吧，需要借助想象。对吧？
+
+Um, so here is the common way of doing that. So for, uh, uh, known crystal, uh, for example, this is one. This is a cubic system.
+嗯，所以这里是一种常见的做法。所以，呃，对于已知的晶体，呃，比如这个就是一种。这是一个立方晶系。
+
+It should be a cubic system, right? So this is the diffraction pattern, uh, that are obtained, right? Uh, I index the FCC structure diffraction pattern. So it tells you it's FCC, it asks you to index that. It tells, uh, what are the GHPLs of each of the spots and what are the, what is the zone axis, right? So in this way you already know for FCC crystals you have a reflection from 101 to 002 to 0311.
+它应该是一个立方晶系，对吧？所以这就是得到的衍射图样，对吧？呃，我来对面心立方结构的衍射图进行标定。所以它告诉你这是面心立方结构，然后让你对其进行衍射指标化。它会告诉你，呃，每个衍射斑的 GHKL 是什么，以及什么……晶带轴是什么，对吧？所以通过这种方式，你已经知道，对于面心立方（FCC）晶体，会有从（101）到（002）再到（0311）的衍射。
+
+So these allow the reflections are different, for characteristic structures. See, FCC and BCC will be different, right? So, uh, this one, right, allows this is the 101 to 002 to 0 that you see some of, for example, uh, I think 012 or some other things.
+所以，这些衍射对于特征结构来说是不同的。看，面心立方和体心立方会有所不同，对吧？所以，呃，这个，对吧，允许这个是101到002到0，你会看到其中一些，例如，呃，我想是012或其他一些。
+
+Are not allowed in the, uh, uh, HPLs, right? So figure out what are allowed and you calculate using the equations, right? Uh, of this.
+在 HPL 中是不允许的，对吧？所以弄清楚哪些是允许的，然后用这些方程进行计算，对吧？这个的。
+
+Then the next step is that, uh, you compare the ratio in between this, uh, calculated d-spacings, for example, so d200 over d111 equals to 0.86, right? So you do all this calculations, right? And then, uh, after you're done all of them, right, uh, you will see which the measurement from here, which the measurement.
+然后下一步是，呃，比较这些计算出的 d 间距之间的比值。例如，d200 除以 d111 等于 0.86，对吧？所以你把这些计算都做一遍，对吧？然后，呃，做完所有这些之后，对吧，呃，你会看到这里哪个测量值，哪个测量值。
+
+So measurement is here. I have R1 equals to 0.65 and R2 equals to 1.
+所以测量值在这里。R1 等于 0.65，R2 等于 1。
+
+1.1, right? So what I'm going to try to, uh, find out, right, if the ratio, right, 0.
+1.1，对吧？所以我要试着，呃，弄清楚，对吧，如果这个比值，对吧，是0。
+
+592, right, kind of a close to which one in my table, right? So you see there are quite large deviations. None is 0.
+592，对吧，有点接近我表里的哪一个，对吧？所以你可以看到，偏差相当大。没有一个是0。
+
+9, some 0.59 something. So you have close ones, you map it out, right?
+9，大概是0.59多一点。所以有一些比较接近的，你把它映射出来，对吧？
+
+Uh, let's say, so how do you decide? There are three possible values. Well, don't forget to use you have an angle.
+呃，比如说，你是怎么决定的？有三个可能的值。嗯，别忘了利用你有一个角度。
+
+Right? So, uh, you should check the angles and to see, uh, which one that works, right? That's also worse.
+对吧？所以，呃，你应该检查一下这些角度，看看，呃，哪一个可行，对吧？那也更糟。
+
+I guess, uh, I'm going to not going to read it. It's just, uh, through the process, right? Um, you need to have the index spelled out and also from the index you can calculate the zone axis from HH the law of zone, right?
+我想，呃，我就不读了。只是，呃，贯穿整个过程，对吧？嗯，你需要把指数写出来，而且根据指数，你可以用 HH 区域定律计算区域轴，对吧？
+
+Right? Uh, the next one I'll leave it to you if you're, uh, want to have the exercise you can do it by yourself. It is a piece of work, right?
+对吧？呃，下一个我就不讲了，如果你愿意做练习，可以自己做。这是一项工作，对吧？
+
+In the more general format, right, say if your crystal is not cubic, right, a much more complicated, uh, symmetrical situation that you may encounter, right? Uh, but then the idea you do the same thing. You create a database.
+在更一般的形式下，对吧，比如说，如果你的晶体不是立方晶系的，对吧，那可能会遇到一种复杂得多的，呃，对称情况，对吧？呃，但同样的思路还是要用。你创建一个数据库。
+
+Right? Say, calculating or modeling, you create a database, right, by using either UVW method or the HKL method. It tells you it's pretty much the same thing, but one starts on UVW, the other starts on HKL, and there's equal space, right?
+对吧？比如，进行计算或建模时，你可以创建一个数据库，对吧？使用 UVW 方法或 HKL 方法都可以。它告诉你，两者基本上是一样的，只不过一个从 UVW 开始，另一个从 HKL 开始，而且空间是相等的，对吧？
+
+So you decide all the possible directions, right? But for each of the directions, right, you get to find out all possible HKL satisfy the law of zone. Then you calculate the size of the HKL and create the database and their name, right?
+所以你会确定所有可能的方向，对吧？但对于每个方向，对吧，你都要找出所有满足截面指数定律的可能的 HKL。然后计算 H、K、L 的大小，创建数据库并命名，对吧？
+
+Find the visual values and then lastly matching what you have in the diffraction pattern, right? So this process will be extremely complicated in terms of, uh, data, creation, right? For example, on a clinic notice, right, you do the calculations and you create. This is only part of the table, right?
+求出这些数值，然后最后将它们与衍射图谱中的结果进行匹配，对吧？所以，从数据创建等方面来看，这个过程会极其复杂，对吧？例如，在临床通知上，对吧，你进行计算并创建。这只是表格的一部分，对吧？
+
+You can have thousands of lines on the table telling you all the possibilities, right? Then you do the match, right? You, uh, you, you measure from the diffraction pattern, right?
+表格里可以有数千行，列出所有可能的情况，对吧？然后你进行匹配，对吧？你，呃，你，你从衍射图样中进行测量，对吧？
+
+You look at oh, there are a few matches in there, right? So are they the ones, right? You can find out through the angles, and then the fields. Eventually, uh, you sort out, right, these should be the set of diffraction that satisfy what you measure in the diffraction patterns, right?
+你看，哦，里面有几个匹配项，对吧？所以它们就是那些，对吧？你可以通过角度，然后是场域来弄清楚。最终，呃，你会弄清楚，对吧，这些应该是一组满足你在衍射图样中测量结果的衍射，对吧？
+
+And, uh, lastly, you calculate the zone axis, uh, from the cross multiplication of G1 and G2, which are the two index that you spot. Right? Uh, so the method is sort of a straightforward and, uh, I have no intention to get you to, uh, to go through the, uh, a lot of the details.
+最后，你通过交叉相乘 G1 和 G2 来计算晶带轴，其中 G1 和 G2 是你标出的两个指数。对吧？呃，所以这个方法比较直接，而且，呃，我无意让你们，呃，过多地了解那些细节。
+
+Right? Uh, this one works a few words of imagining that. So see, the point I made is very clear. There's no way I can test you, uh, on indexing a single crystalline diffraction pattern, especially of a very complicated structure, right?
+对吧？呃，这个可以通过想象几句话来实现。所以，你看，我提出的观点非常清楚。我根本不可能考你们，呃，索引单个晶体衍射图，尤其是非常复杂的结构的衍射图，对吧？
+
+Because for that you have to create a large database and that cannot be done, right? But the general idea is there, right? But this actually can, okay? But these are also you don't want to rely everything on the computers, right?
+因为为此你必须创建一个庞大的数据库，而这根本做不到，对吧？但总体思路是有的，对吧？但这其实是可以做到的，好吗？但这些也是……你不想一切都依赖电脑，对吧？
+
+Um, you have to have some basic understandings of what's going on. So what this tells you is that, uh, when you have also the simple structures, of the cubic system, for example, right, and you see there are some rules, right? But the rules is that, right, uh, so R is the measurement, right? And basically this correlated to B. So what really matters is the B. So B equals to basically H plus K plus L divided by A squared, right?
+嗯，你必须对正在发生的事情有一些基本的了解。所以，这告诉你们的是，呃，当你们也有简单的结构时，比如立方晶系，对吧，你们会看到其中有一些规律，对吧？但规则是，对吧，呃，所以 R 是测量值，对吧？这基本上与 B 相关。所以真正重要的是 B。B 基本上等于 H 加 K 再加 L，除以 A 的平方，对吧？
+
+So that's the relationship. Now, for single, for the cubic structures, this is very interesting. You see, if HKL add up together equals to N, right?
+所以这就是它们之间的关系。现在，对于单……对于立方结构，这一点非常有意思。你看，如果 H、K、L 相加等于 N，对吧？
+
+You see this 1 over B squared is proportional to N, okay? So you can measure the B spacing. B spacing is proportional to N, right?
+你看，1/B² 与 N 成正比，对吧？所以你可以测量 B 间距。B 间距与 N 成正比，对吧？
+
+Then there's a fixed relationship in terms of N. The ratio relationship. If you've been to look at the allowed HKLs in each of the cubic systems.
+那么，N 之间存在固定的关系，也就是比值关系。如果你看过立方晶系中各个晶系允许的 hkl。
+
+Now, for example, single cubic, you can have add up together HKLs, N takes to 1, 2, 3, 4, 5, 5, 6, 8, 9, no, 7, all right? 10, 11, so on and so forth. So, so there are certain patterns.
+比如，对于单斜晶系，HKL可以相加，N取1、2、3、4、5、5、6、8、9，不，7，明白吗？10、11，依此类推。所以，这里存在某些规律。
+
+But then, uh, this corresponding to these plates. But then body centers, you have different. You have 2, 4, 6, 8, 10, 12, no more numbers, right?
+但是，呃，这对应于这些板。但体心晶格则有所不同。你有2、4、6、8、10、12，没有更多的数字了，对吧？
+
+But then if you have three centers, you have 3, 4, 8, 11, 12. Those are very characteristic, right? So if you measure that and look at the ratios, basically right, you only map on the ratios that tell you which structure it belongs to.
+但如果有三个中心，就有3、4、8、11、12。这些是非常有特征的，对吧？所以，如果你测量这些并查看这些比率，基本上，你只需根据能告诉你它属于哪种结构的比率来进行映射。
+
+So this is a very useful method, right? Uh, of that. And here's a table telling you, right, what are the sequence, uh, characteristics of different cubic structures and with that you can use to index what kind of cubic structure you have, right, in your range division patterns.
+所以这是一种非常有用的方法，对吧？呃，那个的。这里有一张表，告诉你不同立方结构的序列特征，你可以用它来确定你的衍射图样中属于哪种立方结构。
+
+Right? So this is one of the samples, uh, I, I would say pay some attention to this.
+对吧？所以这是其中一个样品，呃，我，我想请大家注意一下。
+
+So that ends my lecture today, right? Uh, and, uh, that's that. You have the homework.
+那么，今天的讲座就到这里，对吧？呃，就这样。你们有作业。
+
+Just finish up this piece and, uh, next week we're going to do. And, uh.
+把这一部分做完，然后，呃，下周我们要做……然后，呃。
+
+这个没有观察，有什么时候不看，再去炒这边。
+There’s no observation here. When there’s no watching, go back and speculate on this side.
+
+— 由 LecSync 生成
