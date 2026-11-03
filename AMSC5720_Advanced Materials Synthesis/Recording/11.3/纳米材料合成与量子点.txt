@@ -1,0 +1,642 @@
+纳米材料合成与量子点
+日期: 2026年11月3日 19:27
+语言: 英语 → 中文
+时长: 37分57秒
+
+Text: They're talking about those already peeled off kind of materials, right? But we cannot always—if you know anything about the Nobel Prize graphing—we cannot always use Scotch tape, right? So how do they get Nobel Prizes? They use Scotch tape, they peel this off.
+他们说的是那种已经剥离的材料，对吧？但我们不能总是——如果你了解诺贝尔奖的图形化工作——我们不能总是使用美纹纸胶带，对吧？那么，他们是怎么获得诺贝尔奖的？他们用美纹纸胶带，把这层揭掉。
+
+This is just, uh, production rate is too low. Right? You can't hire 100 workers to just do that, right?
+这只是，呃，生产率太低了。对吧？你不可能雇100名工人来做这个，对吧？
+
+You can't control the quality, you can't, uh, regulate the quality. Right? One by one. So people are now actively working on ways that can separate interlayers.
+你无法控制质量，也无法，呃，规范质量。对吧？一个一个来。所以，人们现在正在积极研究能够分离夹层的方法。
+
+And in the meantime, maybe they can give them some new functions. Right? Especially when they realize that many of these AX2 materials are actually semiconductors.
+与此同时，也许还可以赋予它们一些新功能。对吧？尤其是当他们意识到许多这些 AX2 材料实际上是半导体时。
+
+So semiconductors are a very hot electronic material. Right? You can make them into chips, you can make them part of an FET, part of your logic gate.
+所以，半导体是一种非常热门的电子材料。对吧？你可以把它们制成芯片，也可以把它们作为场效应晶体管的一部分，作为逻辑门的一部分。
+
+So that's what Professor Chen will talk about later. Right? How he is kind of the pioneers of inventing some new methods to separate that interlayer and make them a whole library of materials.
+所以，这就是陈教授稍后要讲的内容。对吧？他是如何在发明一些新方法来分离这些中间层，并将它们整合成一个完整的材料库方面，算是先驱者之一。
+
+Atomically think. Okay?
+原子级思考。明白吗？
+
+So that's one direction. Right? When people focus on one kind of structure and they try to destructure it, right, that's one kind of nanomaterial research.
+所以这是一个方向。对吧？当人们关注某一种结构，并试图将其解构时，对吧，这就是一种纳米材料研究。
+
+And last week I talked about the wet chemical synthesis. Right? So let me quickly go through this.
+上周我讲了湿化学合成。对吧？那么我快速过一下这个。
+
+Most of the contents I won't go through again. Right? So if you recall, I talked about another classic example of solution-based synthesis is a bottom-up method. Okay? Bottom-up means like we start from atoms. Atoms are gradually reduced, right, and gradually reduced, and then they gradually become larger and become particle.
+大部分内容我不会再讲了。对吧？所以，如果大家还记得，我提到过，基于解决方案的合成的另一个经典例子是自下而上的方法。明白吗？自下而上意味着我们从原子开始。原子逐渐减小，对吧，逐渐减小，然后又逐渐变大，形成粒子。
+
+But the 2D peeling I just talked about is actually top-down. Right? You start with the bulky material. Micro or even millimeter in size, and you peel it off, you make it shorter and shorter, or thinner and thinner.
+但我刚才提到的二维剥离实际上是自上而下的。对吧？你从笨重的材料开始。尺寸微小，甚至只有毫米级，然后把它剥离下来，使其越来越短，或者越来越薄。
+
+Right? That's top-down. So this is bottom-up.
+对吧？这是自上而下的方法。所以这是自下而上的。
+
+Okay? Most of the solution methods are bottom-up. Okay?
+明白吗？大多数求解方法都是自下而上的。明白吗？
+
+So the exfoliation is a rare case.
+所以，剥落是一种罕见的情况。
+
+Okay? So we talk about the role of the surface ligand. Right? So in this particular example, right, they can direct this one-dimensional growth of the rod because they blocked the sideways.
+明白吗？所以我们来谈谈表面配体的作用。对吧？所以在这个特定的例子中，对吧，它们可以引导杆状物的一维生长，因为它们阻断了横向生长。
+
+Right? So when the goal is to start from a seed, right, they just look like this. So why do they only grow in a linear direction? Right? That's because they have this surface ligands which work as me cells.
+对吧？所以，当目标是从一个种子开始时，对吧，它们看起来就是这样。那么，为什么它们只朝一个方向生长呢？对吧？这是因为它们具有这种表面配体，而这些配体就像我的细胞一样发挥作用。
+
+Right? So if you have you heard about Professor Ito's talk?
+对吧？所以，如果你……你听说过伊藤教授的演讲吗？
+
+If you heard about this micro-emotion. Right?
+如果你听说过这种微表情。对吧？
+
+So the surface ligand, it's usually for example, it has a hydrophobic head and a hydrophilic tail, or the other way around, a hydrophilic head, hydrophobic tail. So they will form this double layer. And this double layer will wrap up this particle.
+所以，表面配体通常具有疏水性头部和亲水性尾部，或者反过来，具有亲水性头部和疏水性尾部。所以它们会形成这种双层结构。这个双层会包裹住这个颗粒。
+
+And they only specifically wrap up certain surfaces. So whenever which shape you're starting from, right, after they stabilize in certain surfaces, these surfaces will be blocked and stabilized. They will not grow larger. Right? They're kind of stopped. Right? But those less protected surfaces are those that are exposed.
+而且它们只专门包裹某些表面。所以，无论你从哪种形状开始，对吧，一旦它们在某些表面上稳定下来，这些表面就会被阻隔并稳定住。它们不会继续生长变大。对吧？它们算是停止了。对吧？但那些保护较少的表面就是那些暴露在外的表面。
+
+Right? So when they're exposed, the new gold atoms can come in, right, can come in, deposit on it, so they grow larger. Okay? So whatever you see at the end, right, those areas, those large area surfaces are those that are protected well by the surface ligands.
+对吧？所以当它们暴露在外时，新的金原子就可以附着上去，对吧，可以附着并沉积在上面，因此它们会变大。明白吗？所以，最终你看到的那些区域，也就是那些大面积的表面，都是被表面配体很好地保护起来的。
+
+Okay? So that's the take-home message for this ligand control. Yep.
+明白吗？所以，这就是本次配体调控的要点。对。
+
+We also talk about this. Right? So today we already have so large group of surface protected mitochondrial crystals.
+我们也会谈到这一点。对吧？所以今天，我们已经有一大批表面保护的线粒体晶体。
+
+So one particularly good glass, maybe I can talk more, is this nano sheet. Okay? So these nano sheets, so it's a very extreme example.
+所以，一种特别好的玻璃，也许我可以多讲一点，就是这种纳米片。好吗？所以这些纳米片，这是一个非常极端的例子。
+
+Okay? So if I tell you this nano sheet is usually for FCC metals, they're usually so they're usually 111 crystal plane family.
+明白吗？所以，如果我告诉你，这种纳米片通常用于面心立方金属，那么它们通常……它们通常属于（111）晶面族。
+
+Right? So this surface, if we observe by TEM, for example, we can figure out this is 111 surface. So what does that tell us?
+对吧？所以，如果我们用透射电子显微镜（TEM）观察这个表面，就可以判断它是（111）表面。那么，这说明了什么？
+
+So that means scientists have found out some surface ligands that particularly protect 111.
+这意味着科学家已经发现了一些表面配体，它们尤其能保护（111）面。
+
+Right? So all the other surfaces, they don't protect that much as 111. So when the ligand come to that, they sit here, they block the surface of 111.
+对吧？所以，所有其他表面的保护作用都不如（111）面。所以，当配体到达那里时，它们会占据这里，从而阻塞（111）面。
+
+Right? The sides edges are those that are growing continuously. So you end up to be laterally flat crystal.
+对吧？侧棱是那些持续生长的部分。所以最终会得到一个横向平直的晶体。
+
+Okay? So this is important. Okay?
+明白吗？所以这一点很重要。明白吗？
+
+All the others, you still have some shapes. Right? So that means you probably have more than one surface exposing but for this kind of sheet, if it's ideal, thin sheet, then it's only the lateral surface that the ligand is protecting. Okay? So that means some ligands, they work on particular surfaces like 111 much better than others.
+其他的，你仍然会有一些形状。对吧？所以这意味着你可能有不止一个暴露的表面，但对于这种片材，如果它是理想的薄片材，那么配体只保护侧表面。明白吗？所以这意味着，有些配体在某些特定晶面上的活性比其他晶面高得多，比如（111）晶面。
+
+While some maybe protecting other surfaces as well, but not in the same degree of strength. Right? So it's a different strength distribution.
+而有些配体可能也会保护其他晶面，但保护强度没有那么强。对吧？所以，这是一种不同的强度分布。
+
+It's also possible. Okay?
+这也是可能的。明白吗？
+
+All right?
+明白吗？
+
+We also talk about how stabilizing nanomaterials are important. Right? So whenever you see nano, you think about stabilization. Okay? No matter whether they are suspended particles or they're nano structures, naturally thermodynamically they're not stable.
+我们还讨论了稳定纳米材料的重要性。对吧？所以，每当你看到“纳米”这个词，就要想到稳定化。明白吗？无论它们是悬浮颗粒还是纳米结构，从热力学角度来看，它们本质上都是不稳定的。
+
+Okay? Because they have too many surfaces. And surface means it's defect.
+明白吗？因为它们的表面太多。而表面意味着它有缺陷。
+
+Surface means dangling bonds, broken bonds. Surface means high energy. So they will want to make the surface smaller.
+表面意味着悬空键、断裂键。表面意味着高能量。所以他们希望减小表面面积。
+
+Right? Whenever you try to grow, for example, you just reduce a photo of metal ion without adding any protection, what it will do? They will just grow larger and larger until they become micro or millimeter in size.
+对吧？比如，每当你尝试生长时，如果只是减少金属离子的照片而不添加任何保护措施，它会怎么做？它们只会不断长大，直到达到微米或毫米的尺寸。
+
+Okay? So we have something called surface energy. Surface to volume ratio.
+明白吗？所以，我们有一种叫作表面能的东西。表面积与体积比。
+
+Right? So surface to volume, this is a E here. Right? So surface to volume ratio, this is a numerical value that will have a critical point.
+对吧？所以，表面与体积之比，这里是一个 E。对吧？所以，表面积与体积比是一个具有临界点的数值。
+
+Right? So when your material is too small, let's say one as small as one atom, then your surface to volume ratio is maximized. Your atom is not bonded at all. Right? If you have two atoms, then the two atoms are already linked up by one bond, but one atom needs more bonds.
+对吧？所以，当你的材料太小时，比如说小到只有一个原子，那么它的表面积与体积比就达到了最大值。你的原子完全没有成键。对吧？如果有两个原子，那么这两个原子已经通过一条键连接起来了，但一个原子还需要更多的键。
+
+Right? One carbon needs four bonds. Right?
+对吧？一个碳原子需要四个键。对吧？
+
+So I only have one side bonded, the other three are active. Right? So if you're talking about 2D surface, then the surface outside is not bonded.
+所以我只有一侧成键，另外三个是未成键的。对吧？所以，如果你说的是二维表面，那么表面外部是没有成键的。
+
+The surface inside are bonded. So the surfaces are the active parts. The volume the bulky volume are considered the stable part.
+内部表面是键合的。所以这些表面是起作用的部分。体积，也就是笨重的体积，被视为稳定部分。
+
+Right? So this is a ratio that is usually critical for you to know how big will a crystal grow. Until they are stable. Right? So before that, they're all unstable. Right? And all the nanomaterials, they have a very big surface to volume ratio.
+对吧？所以，这个比值通常对判断晶体会长到多大至关重要。直到它们达到稳定状态。对吧？所以在那之前，它们都是不稳定的。对吧？而且所有纳米材料的表面积与体积比都非常大。
+
+So they're not stable. Right? So we need to figure out various ways to separate them because if they meet, they will merge.
+所以它们不稳定。对吧？所以我们需要想办法把它们分离出来，因为如果它们相遇，就会合并。
+
+And they will become one. Right? They naturally do that. Even at very low temperature. Okay? So as long as your temperature is not zero Kelvin, which is absolute zero, they can move.
+它们会合二为一。对吧？他们自然会那样做。即使在非常低的温度下。明白吗？所以，只要温度不为零开尔文，也就是绝对零度，它们就能运动。
+
+Right? They have some kinetic energy and they can meet. So we use two ways.
+对吧？它们具有一定的动能，可以发生碰撞。所以我们采用两种方式。
+
+Right? One is by using electrostatic charges that forbid the particles from go together. Right?
+对吧？一种是利用静电荷，阻止这些粒子聚集在一起。对吧？
+
+You can give every particle with a positive charge on the outside. Right? So positive charge and positive charge, they will repel each other. Right? So this is usually done by, for example, having a for example, a negative particle surface.
+你可以给每个粒子的外表面带上正电荷。对吧？所以，正电荷和正电荷会互相排斥。对吧？所以这通常是通过，比如说，让一个……比如说，带负电的粒子表面来实现的。
+
+And then you have a positive molecule, which will come to block your negative surface. So that's why we call it double layer. Right? Because there's usually at least two species that form this charged particle.
+然后有一个正分子，它会过来堵塞你的负表面。所以这就是为什么我们称之为双电层。对吧？因为通常至少有两种物种会形成这种带电粒子。
+
+Right? A particle, if it's only surrounded by one layer of charge, like say negative charge, they're also not stable. Right? The positive charge will come to it. Right? But once the positive charge come to it, right, the other end, right, you completely the other end of this positive charge, and make them, for example, long or make them less polar.
+对吧？如果一个粒子只被一层电荷包围，比如负电荷，它们也不稳定。对吧？正电荷会吸引它。对吧？但一旦正电荷靠近它，对吧，另一端，对吧，你就完全……正电荷的另一端，使它们，比如说，变得更长，或者使它们的极性降低。
+
+So they can gradually block this electron force away. Okay? And then we have steric stabilization, which is simply a physical blocker.
+所以它们可以逐渐排斥这种电子力。明白吗？然后是空间位阻稳定，它只是一个物理阻隔。
+
+Right? They're typically polymers. Right? Or long chain molecules.
+对吧？它们通常是聚合物。对吧？或者长链分子。
+
+But it's not always have to be very long. Right? As long as they can stop the particle from getting together.
+但不一定非得很长。对吧？只要它们能阻止这些颗粒聚集在一起。
+
+Right? They can work as a steric stabilization. So you can imagine sometimes a molecule can be functioning in both ways. They can be a long chain polymer or long chain molecule and in the meantime, they can be charged.
+对吧？它们可以起到空间位阻稳定作用。所以你可以想象，有时一个分子可以同时发挥这两种作用。它们可以是长链聚合物或长链分子，同时也可以带电。
+
+On their tips or have the tips. Right? So we have some examples here.
+在它们的末端，或者具有末端。对吧？所以我们这里有一些例子。
+
+Most of these, I think here, are steric. Right? So you can see steric ligands means they're mostly not so polar.
+我认为，这些大多属于空间位阻效应。对吧？所以你可以看到，配体主要是非极性的。
+
+Right? Carbon, hydrocarbon chains or benzenes. And some are weakly charged, like sulfur or oxygen or nitrogen.
+对吧？碳、碳氢链或苯。有些则带弱电荷，比如硫、氧或氮。
+
+Right? So these are typically less polar. Right?
+对吧？所以这些通常极性较弱。对吧？
+
+So the oxygen or sulfur or nitrogen can weakly coordinate with the metal surface. Right? And especially sulfur.
+所以，氧、硫或氮可以与金属表面弱配位。对吧？尤其是硫。
+
+Right? Sulfur is a strong one. Sulfur can form covalent light interaction with a lot of metals, like gold, PT, right, a lot of them. And so people have been widely using this sulfur-containing long molecule.
+对吧？硫磺很强。硫可以与许多金属形成共价的弱相互作用，比如金、PT，对吧，很多金属都可以。因此，人们一直在广泛使用这种含硫长分子。
+
+We call it thiol molecule. Right? So and then they can bond.
+我们称之为巯基分子。对吧？所以它们之后可以结合。
+
+Protect one side and the other side by. But the sulfur is biologically not so favored. So many of these bioapplications when you use sulfur, right, they may actually become a harmful species.
+保护一侧，而另一侧则通过……但硫在生物学上并不那么受青睐。所以，在许多这类生物应用中，当你使用硫时，对吧，它实际上可能会变成一种有害物质。
+
+To the cell, to some tissue. So this is one of the drawbacks. Okay? So something you can know for information.
+对细胞，对某些组织。所以，这是它的缺点之一。明白吗？所以，这是你可以了解的一点信息。
+
+Okay? So I believe we don't have we didn't have much time talking about quantum dots. On Thursday.
+明白吗？所以我想，我们没有……我们没有太多时间讨论量子点。星期四。
+
+So maybe today I can briefly mention it. Let's see. Yeah.
+所以今天我可以简单提一下。让我看看。对。
+
+We got some time. So this is another Nobel Prize winner. Right?
+我们还有一些时间。所以，这是另一位诺贝尔奖获得者。对吧？
+
+Very recent, actually. So and it's also important to know that they were awarded for the preparation and the discovery of this material. So you can imagine everything in quantum science, but can you make them in quantum science?
+其实非常近期。另外，了解他们因制备和发现这种材料而获奖也很重要。所以你可以想象量子科学中的所有东西，但你能用量子科学制造它们吗？
+
+And something easily repeatable by the other research labs worldwide, that's a huge difference. Okay? So that's why it's very important that experimentalists who know how to prepare this win the prize.
+而且，这种材料能够被世界各地的其他研究实验室轻松复制，这才是巨大的不同。明白吗？所以，为什么知道如何制备这种材料的实验物理学家获奖非常重要。
+
+Right? So we know that there's still value, right, to prove things that may already be thought about by those theory people. Right?
+对吧？所以我们知道，证明那些理论物理学家可能已经在思考的东西，仍然具有价值，对吧？对吧？
+
+Decades ago. Right? If you can't prove it, right, you don't know whether it's correct or wrong.
+几十年前。对吧？如果你无法证明它，对吧，你就不知道它是对还是错。
+
+Right? So quantum dots, if I go to the making first, you also use the classic wet chemical methods, especially these classic examples of cadmium silicide, for example. Right?
+对吧？所以，量子点，如果先从制备说起，也会采用经典的湿化学方法，尤其是这些经典的镉硅化物例子。对吧？
+
+So we also need precursors on the metal salt. And some steric ligands. Right?
+所以我们还需要金属盐前驱体。以及一些空间位阻配体。对吧？
+
+So TUP is a very classic ligand for quantum dots. It contains phosphorus, which is a weak polar side. It's just like this nitrogen or this oxygen here. Right? Or this TPP here. It's a oxidative element, but not so oxidizing, but because it's a polymer or long chain molecule.
+所以，TUP 是量子点非常经典的配体。它含有磷，而磷具有较弱的极性侧基。它就像这里的这个氮原子或氧原子。对吧？或者这里的 TPP。它是一种氧化性元素，但氧化性没那么强，因为它是聚合物或长链分子。
+
+Right? So it's only weakly oxidizing this a coordinating with our metal salt. And well, they can also gradually reduce this cadmium. And this silicide also come from the TUP coordinated precursor.
+对吧？所以它只有弱氧化性，这与我们的金属盐配位有关。而且，它们也可以逐渐还原这种镉。这种硅化物也来自 TUP 配位前体。
+
+And everything are mixed up, right, in a very high organic temperature, organic solvent. And if you look at here, we have a syringe. Okay?
+所有这些物质都在非常高的有机温度下、用有机溶剂混合，对吧？如果你看这里，我们有一支注射器。明白吗？
+
+So this syringe is a room temperature solution. So we gradually injected our room temperature precursors into a very hot pot of liquid. So that's why we also call this method hot injection.
+所以这个注射器里的溶液是室温的。所以我们逐渐将室温前驱体注入一个非常热的液体锅中。所以这就是为什么我们也将这种方法称为热注入法。
+
+Okay? Hot injection. You may heard it somewhere.
+明白吗？热注入。你可能在什么地方听说过。
+
+Right? So it's very common method to make ultra small nanoparticles. Right? Because when you inject one droplet, for example, right, into this solution, which is typically stirred, right, so it's not just very high temperature, and it is quickly stirred, right, by a stirrer.
+对吧？所以，这是制备超小纳米颗粒的一种非常常用的方法。对吧？因为例如，当你向这种通常会搅拌的溶液中注入一滴，对吧，所以它不只是处于非常高的温度，还会被搅拌器迅速搅拌，对吧。
+
+So it's this whole mixture is quickly mixing itself. So when you do that, that means a very small concentration of your cadmium and silicide is added to the system. Drop by drop. And once they reach the hot solution, the temperature quickly increase.
+所以整个混合物会迅速混合。所以当你这样做时，就意味着只有非常低浓度的镉和硅化物被加入到体系中。一滴一滴地加入。一旦它们进入高温溶液，温度就会迅速升高。
+
+So there will be thermal decomposition. So basically, if there's no chemical reaction, the physical heat can separate the cadmium and the silicide. So that's our two things we want.
+所以会发生热分解。所以基本上，如果没有化学反应，物理热量就可以将镉和硅化物分离。所以，这就是我们想要的两个结果。
+
+Right? Cadmium and silicide. So before adding they are not bonded.
+对吧？镉和硅化物。所以在添加之前，它们并没有键合。
+
+Right? So due to the sudden change of the high temperature, they are separated and the cadmium and silicide, they bond together. And that's it.
+对吧？所以，由于高温的突然变化，它们分离了，而镉和硅化物则结合在一起。就是这样。
+
+No more cadmium and silicide in the system. Right? Because we only add one droplet.
+系统中不再有镉和硅化物。对吧？因为我们只加一滴。
+
+Okay? So once that's done, you add your second droplet. So as long as they reach the hot pot, they're quickly dispersed away by the high-speed stirring and they're quickly reduced on site.
+明白吗？所以做完之后，再加入第二个液滴。所以，只要它们接触到高温熔池，就会被高速搅拌迅速分散开来，并在现场迅速还原。
+
+So that's why we can very precisely control their size. Okay? Microscopically, we don't do anything.
+所以，我们能够非常精确地控制它们的尺寸。明白吗？从微观上看，我们什么也不做。
+
+Right? It looks like it just common chemical reaction. But because of this limited injection and very fast chemical reaction, they can form this tiny particles that are in the quantum level. Right? So that's why it's a very beautiful design that they can create a lot of nanoparticles.
+对吧？看起来就像一个普通的化学反应。但由于这种有限的注入和非常快的化学反应，它们可以形成量子尺度上的微小颗粒。对吧？所以，这就是为什么这种设计非常巧妙，能够制造出大量纳米颗粒。
+
+Right? In a short, in a very robust manner. Right? So as long as your lab allows the use of heavy metals, right, by the way, I don't think our lab allows that.
+对吧？在很短的时间内，以一种非常稳定的方式。对吧？所以，只要你所在的实验室允许使用重金属，对吧？顺便说一下，我觉得我们实验室不允许。
+
+Right? So we can't really repeat it. But it's very simple and robust experiment.
+对吧？所以我们其实没法重复这个实验。但这是一个非常简单且稳健的实验。
+
+Right? If you have the all these things, you just do it in your lab. Everyone can make a lot of quantum dots.
+对吧？如果你具备所有这些条件，就直接在自己的实验室里做就行了。每个人都可以制造大量的量子点。
+
+Right? So that's why it's so important. Okay?
+对吧？所以这就是它如此重要的原因。明白吗？
+
+Oops.
+哎呀。
+
+So I didn't have time, I think, to talk about the quantum effect and why it's important. Right? So let me use this one.
+所以我想，我没有时间讲量子效应，以及它为什么重要。对吧？那我就用这个。
+
+So the one important applications of quantum dots right, so is that they are semiconductors that can have quantized energy band gap. Okay? So semiconductors we all know, right, they are the kind of material that have partial ability to conduct electricity.
+量子点的一个重要应用，对吧，就是它们是半导体，可以具有量子化的能带隙。明白吗？所以，我们都知道半导体，对吧？它们是一类具有部分导电能力的材料。
+
+Right? And that ability is activated by overcoming an energy barrier called energy band gap. Right?
+对吧？这种导电能力是通过克服一个称为能带隙的能量势垒而被激活的。对吧？
+
+Band gap. And typically, that's about several eV. But that's usually fixed. Right? Given a semiconductor, a silicon, a germanium, right, it's fixed value.
+带隙。通常，这个能隙大约为几个电子伏特。但那通常是固定的。对吧？对于给定的半导体，比如硅、锗，对吧，它的值是固定的。
+
+Right? So you can dope the material to get different energy band gap. That's a traditional semiconductor industry. But for quantum dots, all you need to do is to change their size.
+对吧？所以你可以对材料进行掺杂，以获得不同的能带隙。那是传统的半导体产业。但对于量子点，你只需要改变它们的尺寸。
+
+Their physical size. Right? How big is your particle?
+它们的物理尺寸。对吧？你的颗粒有多大？
+
+It's two nanometers or ten nanometers or twenty nanometers. And because of this size, it's restrained their quantum confinement. They can show you a different energy band gap.
+它是两纳米、十纳米还是二十纳米。由于这种尺寸，它们受到量子限制。它们可以呈现出不同的能带隙。
+
+Okay? So when you excite the particle from its ground state, to the valence state, right, you need some energy. Right?
+明白吗？所以，当你把粒子从基态激发到价带态时，对吧，你需要一些能量。对吧？
+
+And that energy can be as big as you want. Right? So your electron go to your excited state, which is in this case the continuum, or is it conduction band. Right? So this energy as long as it's bigger than its energy band gap, right, this is energy band gap, as long as you're bigger than this, you get your excitation.
+而这个能量可以任意大。对吧？所以你的电子跃迁到激发态，在这个例子中，是连续态，还是导带？对吧？所以，只要这个能量大于其能带隙，对吧？这就是能带隙。只要大于这个值，就会发生激发。
+
+Right? So that's fine. That's just making your electron free electron.
+对吧？所以没问题。那只是把你的电子变成自由电子。
+
+The interesting thing is, when you're excited quantum dots, want to return to its ground state, which is naturally happening because it's now stable to be stay excited. Right? So after being excited, which can be done by giving light irradiation, for example.
+有趣的是，当量子点受到激发时，它会想要回到基态，而这本来就会发生，因为保持激发态现在是不稳定的。对吧？所以，它在受到激发后，例如可以通过光照来实现激发。
+
+Right? The excited electrons, you always want to come down. So when the electrons will do is that they will return to the lowest energy, of this band, and then they will drop down.
+对吧？被激发的电子总是会回落。所以，电子所做的就是返回到该能带的最低能级，然后下降。
+
+Okay? So no matter how high they are excited, eventually, they will all go down to this level and then they jump to the ground state.
+明白吗？所以，无论它们被激发到多高的能级，最终都会降到这个能级，然后跃迁到基态。
+
+所以它可以。
+So it can.
+
+Okay? So this energy difference is a fixed value.
+明白吗？所以这个能量差是一个固定值。
+
+Right? And this is the emitted energy difference. Okay? When your electron is excited, it has some more energy.
+对吧？这就是发射的能量差。明白吗？当电子被激发时，它会拥有更多的能量。
+
+It will return to the ground state. It will jump down and it will release exactly this amount of energy. Right?
+它会回到基态。它会跃迁回下方，并恰好释放出这个能量。对吧？
+
+And this gap, this distance, right, is closely related to the size.
+而这个间隙，这个距离，对吧，与尺寸密切相关。
+
+Okay? So what is this distance? Energy delta E.
+明白吗？那么，这个距离是多少？能量差 ΔE。
+
+It is a specifically irradiation or luminescence of light. Okay? So that's why you see this colorful thing here. This is observed when you shine this solutions with light.
+这是一种特定的辐照，或光的发光。明白吗？所以你才会看到这里这个五彩缤纷的东西。当你用光照射这些溶液时，就会观察到这种现象。
+
+And then you switch off the light. When you switch off the light, these solutions, they will emit light by themselves. But not very long time. Okay? They will gradually lose energy.
+然后你把灯关掉。当你关灯时，这些溶液会自行发光。但不会持续很久。明白吗？它们会逐渐失去能量。
+
+So this is what they emit to our eyes. Without having a light source. And why we have this colorful color?
+所以，这就是它们进入我们眼睛的光。没有光源。那为什么会有这些五彩缤纷的颜色呢？
+
+Because they all respond to a specific wavelength. Right? The only emit red light.
+因为它们都会对特定波长的光产生响应。对吧？只有它发出红光。
+
+Only emit yellow light. Right? Only emit blue light.
+只发射黄色光。对吧？只发射蓝光。
+
+Right? So why only one color? Because they have fixed energy band gap.
+对吧？那么，为什么只有一种颜色呢？因为它们的能带隙是固定的。
+
+Okay? And this is so precise that this color red color is very red. Right? So it's, you know, when you see some red color, it's actually a mixture.
+明白吗？而且这种精确度非常高，这种红色非常红。对吧？所以，你知道，当你看到某种红色时，它其实是多种颜色的混合。
+
+Maybe some yellow, orange, some violet color inside. But when you see a very good quality bottle of quantum dot particle, emitting red light, it's going to be a very single red light wavelength. Right? So it's wavelength if you observe that in a spectrum.
+里面可能还有一些黄色、橙色和紫色。但当你看到一瓶质量非常好的量子点颗粒发出红光时，它的红光波长会非常单一。对吧？所以，如果你在光谱中观察它，它的波长……
+
+Right? It's a very, very sharp and smooth peak. Right?
+对吧？这是一个非常非常尖锐且平滑的峰。对吧？
+
+So if you go back, right, you look at that, this is 400 to 700 nanometers. That's about the visible light. Right? If you check the plasmonic particles, for example, here, right, this is also one way of seeing colorful solution.
+所以如果你回过头来看，对吧，你看这个，这是400到700纳米。那大约是可见光的范围。对吧？如果你看一下等离子体颗粒，比如这里，对吧，这也是观察彩色溶液的一种方式。
+
+This is plasmonic. Right? So this is silver. From 400 to 800. So you can see, you can see how wide are these peaks.
+这是等离子体共振。对吧？所以这是银。从400到800。所以你可以看到，这些峰有多宽。
+
+For example, this purple one, it can range from 600 all the way to 750. Right? So over at least 100 nanometers wide.
+例如，这个紫色的范围可以从600一直延伸到750。对吧？所以至少有100纳米宽。
+
+Wide of wavelengths. Right? So you see a color, but it's not very, very pure.
+宽的波长范围。对吧？所以你看到了一种颜色，但它的纯度不是很高。
+
+And here, right, so from 400 to 800, right, we are accommodating already six peaks. Right? So if you pick one, right, if you look at how they rise and fall down, it's only about 50 or less than 50 wavelengths wide wavelengths.
+这里，对吧，从400到800，对吧，我们已经包含了六个峰。对吧？所以，如果你选一个，对吧，如果你观察它们如何上升和下降，它们的宽度大约只有50个波长，或者不到50个波长。
+
+Right? So they have a very sharp peak. Right?
+对吧？所以它们的峰非常尖锐。对吧？
+
+The comparison I just did is very qualitative. Okay? I didn't tell you intensity.
+我刚才做的比较只是定性的。明白吗？我没有告诉你强度。
+
+Right? But you can get an idea that these are very sharp. Absorption peaks. So that's why when you buy some display, right, in the market, we have Cu-LED.
+对吧？但你可以看出，这些非常锋利。吸收峰。所以这就是为什么你在市场上买一些显示器时，对吧，我们有 Cu-LED。
+
+Cu for quantum dot. Right? So that is why you have this very good color.
+Cu 代表量子点。对吧？所以这就是为什么它能呈现出这种非常漂亮的颜色。
+
+Right? Because they can provide very pure, right, very pure blue. Right? Out of their LED.
+对吧？因为它们可以提供非常纯净的，对吧，非常纯净的蓝色。对吧？从它们的 LED 中。
+
+So that color purity is enhanced by quantum dots. Okay? So that's the background story.
+所以，量子点可以提高这种颜色的纯度。明白吗？这就是背景故事。
+
+Right? Of the usefulness of quantum dots. Right? Of course, this course more is about how to make them.
+对吧？量子点的用途。对吧？当然，本课程更多是讲如何制备它们。
+
+So this is just a side story. But it's kind of important. Right?
+所以这只是个旁支内容。但这还挺重要的。对吧？
+
+So we know why they're good. Okay?
+所以我们知道它们为什么好。明白吗？
+
+All right.
+好的。
+
+So we also talk about this hydrothermal synthesis. So it's one of high-pressure solution-based synthesis. We can make this tube-like or other three-dimensional hollow structures because of this high-pressure liquid vapor coexisting system.
+所以我们也会讨论这种水热合成。所以，这是高压溶液法合成的一种。由于高压下液相与气相共存，我们可以制备这种管状或其他三维中空结构。
+
+So but the exact formation mechanism is, frankly, not so clear. But they're good in producing something very good quality. So this is actually one of the examples that is quite close to the industry replication.
+但坦率地说，其确切形成机制并不十分清楚。但它们很擅长生产质量非常好的东西。所以，这实际上是与产业复制非常接近的例子之一。
+
+We do have people that's already using this high-pressure vessel in this liter size scale. Like the 50 liter. 100 liter scale.
+我们确实有人已经在使用这种升级规模的高压釜了。比如50升的。100升规模。
+
+That's a producing of materials. Right? So yeah, it's just like pressure cooking pot. Right? But it's a lot of unclear mechanisms in that.
+那是材料的生产。对吧？所以，是的，它就像高压锅一样。对吧？但其中有很多不明确的机制。
+
+Okay? So in last Thursday, I talked quite detailed with this gross mechanism. So here I just like to quickly give you a recap. Okay? So generally, for any solution-based growth, we can roughly distinguish the stages of these growths, especially for bottom-up kind, by these three categories.
+明白吗？所以上周四，我比较详细地讲了这个粗略的机制。所以在这里，我只是想快速给大家回顾一下。好吗？一般来说，对于任何基于解决方案的增长，我们大致可以将这些增长阶段，尤其是自下而上的增长阶段，分为这三类。
+
+Right? Nucleation is when you start from single atoms being reduced to aggregating into this clusters. Right? And then we have growth, which is typically the part that we can play with.
+对吧？成核是指从单个原子开始，它们被还原并聚集成这些团簇。对吧？然后是生长，这通常是我们可以加以调控的部分。
+
+Right? And they can actually become larger and to some regular shape that we can control. Right? And then it's just worsening or agglomeration where we just they start to be maybe too big or start to be precipitating out of the solution.
+对吧？它们实际上可以变大，并形成某种我们可以控制的规则形状。对吧？然后情况只会恶化，或者发生团聚，它们可能开始变得过大，或者开始从溶液中沉淀出来。
+
+No longer a colon.
+不再是菌落。
+
+Okay? So for nucleation, typically we care about whether they're homogeneous or heterogeneous. Depending whether we have a foreign species there, inside the solution, to lower the energy down.
+明白吗？所以对于成核，我们通常关注它是均相成核还是非均相成核。取决于溶液中是否存在外来物种，以降低能量。
+
+Right? If we have a heterogeneous nucleation, that means something are there. Remember the fingering, the soda. So you see a lot of bubbles around your finger. Right? So that is a site that bubbles nucleate first because it's easier.
+对吧？如果有异质形核，那就意味着那里有某种东西。还记得手指状结构，苏打。所以你会看到手指周围有很多气泡。对吧？所以，那个位置是气泡首先成核的地方，因为那里更容易。
+
+Right? Some surface energy are reduced. Right?
+对吧？某些表面能降低了。对吧？
+
+Where homogeneous one is no foreign species. Right? So harder to nucleate. But you can imagine if you want homogeneous size distribution, sometimes you want them to be isolatedly produced.
+其中均匀相不含外来物种。对吧？所以更难成核。但你可以想象，如果你想要均匀的粒径分布，有时你会希望它们单独生成。
+
+Right? So if heterogeneous sometimes there will be a concentration local concentration variation that makes the material less homogeneous. All right?
+对吧？所以，如果存在不均匀性，有时会出现局部浓度变化，从而使材料的均匀性降低。明白吗？
+
+And for growth, right, we care about how we control it. Right? So for example, we have thermodynamic or kinetic control.
+至于生长，我们关注的是如何控制它。对吧？例如，我们有热力学控制或动力学控制。
+
+Thermodynamics are basically time and temperature. Right? Big T and small t. Right? So they are the more straightforward ways.
+热力学基本上取决于时间和温度。对吧？大写 T 和小写 t。对吧？所以这些是比较直接的方法。
+
+Higher temperature, faster reduction or faster growth. Right? Longer time, bigger growth. That's the common sense. Kinetic controls are more like uncommon senses or like human interference.
+温度越高，还原越快，或者生长越快。对吧？时间越长，生长越大。这是常识。动力学控制更像是反常的直觉，或者说是人为干预。
+
+Right? How we manually change or alter their thermodynamically controlled pathway. So for example, just now, we talk about this hot injection. Right?
+对吧？我们如何手动改变或改变化学反应的热力学控制路径。比如，刚才我们谈到了这种热注入。对吧？
+
+Hot injection is a typical way of kinetic control. We limit your reactants. Right?
+热注入是一种典型的动力学控制方法。我们限制你的反应物。对吧？
+
+Even if you increase your temperature, if there's no injection, how can you grow larger? Right? I simply reduce the concentration for you to grow it. So you can stop the growth by reducing the concentration, for example.
+即使提高温度，如果没有注入，又怎么能生长得更大呢？对吧？我只需降低浓度，让你让它生长。所以，例如，你可以通过降低浓度来阻止其生长。
+
+Right? And you can also isolate your product by some methods. So there's a lower concentration of particle indoor solution. Right? So that's all ways of kinetic control. Right? So we sometimes also add some inert surface ligand or some very viscous solvent to slow down hot species or diffusing through each other. Right?
+对吧？你也可以通过一些方法分离出你的产物。所以，室内溶液中颗粒的浓度较低。对吧？所以，这些都是动力学控制的方式。对吧？所以，我们有时也会加入一些惰性表面配体或高粘度溶剂，以减缓热物种的反应，或减缓它们彼此扩散。对吧？
+
+For you to grow larger, your atom need to come to the surface. Now I make your solution very viscous. So you need to travel long distance or you need to overcome a larger barrier.
+为了让它长大，原子需要到达表面。现在我把你的溶液调得很黏稠。所以你需要走很长的距离，或者需要克服更高的势垒。
+
+Then you can grow slower. Right? And the other way around, if you wanted to grow faster, you can use some small molecule solvent, for example.
+那么你就能生长得更慢。对吧？反过来，如果你想让生长得更快，可以使用一些小分子溶剂，例如。
+
+Right? So everything are more smooth. Okay? And there are also another set of control we call it interface control surface control.
+对吧？所以一切都会更顺畅。好吗？还有一组控制装置，我们称之为接口控制面控制。
+
+Oops.
+哎呀。
+
+Right? Versus diffusion. Right?
+对吧？与扩散相对。对吧？
+
+So that is interface surface is like heterogeneous nucleation. We can only have heterogeneous growth. So basically, your surfaces are interfaces or active parts.
+所以，界面表面就像异质成核。我们只能有异质生长。所以基本上，你的表面就是界面或活性位点。
+
+Right? They can grow larger. Right?
+对吧？它们可以变大。对吧？
+
+So they can be the first part of growth. Or you can use diffusion. Diffusion is more like controlling the surrounding. So this interface is more like controlling your seed. Where what is already growing?
+所以，它们可以是生长的第一部分。或者你可以使用扩散。扩散更像是控制周围环境。所以，这个界面更像是在控制你的种子。已经生长的东西在哪里？
+
+Well, diffusion is more like controlling the environment. Right? Environment.
+嗯，扩散更像是控制环境。对吧？环境。
+
+Wow, this is really difficult to understand. Right? This is environment. So basically, you can control what is already there.
+哇，这真的很难理解。对吧？这是环境。所以基本上，你可以控制已经存在的东西。
+
+Right? How it can welcome the new species. Or you can control the guests who will come to your seed or to your now crystal to become part of your species.
+对吧？它如何欢迎新物种。或者，你可以控制哪些访客会来到你的种子，或者现在的水晶中，成为你这个物种的一部分。
+
+Right? So these are some very general strategies or logics that people use when they use growth control. Okay?
+对吧？所以，这些是人们在实施生长控制时采用的一些非常笼统的策略或逻辑。明白吗？
+
+All right? So there are also some other kinds of chemical synthesis that are so well studied, so they kind of like a separate subject. So I only briefly mention them here.
+明白吗？所以，还有一些其他类型的化学合成经过了深入研究，因此它们几乎已经成了一门独立的学科。所以我在这里只简要提到它们。
+
+Right? First one is microemulsions. So this one Professor I told is an expert.
+对吧？第一种是微乳液。所以，教授，我告诉过您，他是这方面的专家。
+
+He's has been working on microemulsions for decades. Right? So if you're interested, you can go back and maybe check his lecture notes.
+他研究微乳液已有数十年。对吧？所以，如果你感兴趣，可以回去看看他的讲义。
+
+Right? So basically, the idea is it's a steel solution, but we kind of now focus on the hydrophobicity of your system. It can be a water, water-like molecule.
+对吧？所以，基本上，这个想法是采用钢制解决方案，但现在我们主要关注系统的疏水性。它可以是水或类似水的分子。
+
+We call it hydrophilic. Or they can be oil-like molecule. We call them hydrophobic.
+我们称之为亲水性的。或者它们可以是油性分子。我们称它们为疏水性的。
+
+They naturally separate them from each other. So if you have both kinds, and you have a ligand which is one side like water, one side like oil, then you create a bi or even three-phase system. Right? So that's what the idea of microemulsion is. Right?
+它们会自然地彼此分离。所以，如果你同时存在这两种类型，并且配体的一端像水，另一端像油，那么就会形成双相甚至三相体系。对吧？所以，这就是微乳液的概念。对吧？
+
+So you can mix a water part, an oil part with a surface effect. Right? So you create a very stable.
+所以，你可以将水相和油相混合，并加入表面活性剂。对吧？所以你会得到一种非常稳定的。
+
+It's actually a very stable mixture. Right? Which is, for example, watering outside organic molecule inside or organic molecule inside water outside.
+实际上，这是一种非常稳定的混合物。对吧？例如，水在外部，有机分子在内部，或者有机分子在内部，水在外部。
+
+All right? And this thing, we call it me cell. Right?
+明白吗？而这个东西，我们称之为“me cell”。对吧？
+
+This whole three-dimensional ball is a me cell. It can be sphered in size and also be other shapes like channels. Right?
+整个三维球体就是一个 me 细胞。它的大小可以做成球形，也可以做成其他形状，比如通道。对吧？
+
+So once you have a local confined area, this become your microreactor. Right? So you can let reaction happen or you can let your nanoparticle grow bigger.
+所以，一旦你有了一个局部受限区域，它就变成了你的微反应器。对吧？所以你可以让反应发生，也可以让纳米颗粒长大。
+
+Only in this area. So you end up to have a lot of thing you can play with inside this particle and you can also regulate the size. So you can regulate how big they can grow. Right? For example. So we can have all different kind of shapes out of this microemulsion.
+只在这个区域。所以，你最终可以在这个颗粒内部进行大量调控，也可以调节它的尺寸。所以你可以控制它们能长到多大。对吧？例如。所以，我们可以用这种微乳液制备出各种不同的形状。
+
+All right? And I think Professor I also works on solidify this material while they're in this me cell shape. So they get this hollow structure.
+明白吗？我想，教授，我也会研究在这些材料仍呈微乳液状时将其固化。所以它们会形成这种中空结构。
+
+But inside, you can once it's formed, right, for example, they save certain ligand. They polymerize. And form a shell.
+但在内部，一旦形成，对吧，比如说，它们会保存某些配体。它们聚合。并形成一个壳。
+
+You can evaporate inside. So they become hollow. Right?
+你可以蒸发内部。所以它们会变成中空的。对吧？
+
+So you have very nice hollow shell.
+所以你会得到非常漂亮的中空壳。
+
+Okay? So another classic white chemical method, it's let's talk about these days, but it's kind of classic. About I think like five years ago, maybe.
+明白吗？所以，另一种经典的白色化学方法——我们今天就来谈谈这个——不过它也算是比较经典的。我想大概五年前吧，也许。
+
+Right? So classic one we call sole gel method. Right?
+对吧？所以，我们称之为“solo gel”法。对吧？
+
+It has been widely applied to prepare all these kind of oxide or hydroxide nanoparticles. So why is it called sole gel? Right? It's a kind of a strange term. So sole gels are actually two states or two statuses of the growth of solution.
+它已被广泛应用于制备所有这些类型的氧化物或氢氧化物纳米颗粒。那么，为什么它叫“sole gel”？对吧？这是一个有点奇怪的术语。所以，sole gels 实际上是溶液生长的两种状态或两种状况。
+
+Sole is short for solution. So that is when you start the growth or start the preparation. It's a homogeneous solution.
+Sole 是 solution 的缩写。所以，那是在你开始生长或开始制备时。这是一种均相溶液。
+
+Usually aqueous solution. Right? And it is when you dissolve all your metal salt, all your reacting species, that's a solution.
+通常是水溶液。对吧？当你溶解了所有的金属盐、所有的反应物时，就得到了这种溶液。
+
+But this solution is capable of becoming a gel-like network. So we have this gel state. Right?
+但这种溶液能够形成类似凝胶的网络结构。所以我们有这种凝胶态。对吧？
+
+So this is a semi-solid or you can say semi-liquid. A network. Usually it's polymer-like. Right? So during this sole gel process, a series of chemical reactions usually take place.
+所以这是一种半固体，或者也可以说是半液体。网络。通常它具有聚合物般的性质。对吧？所以在这种溶胶-凝胶过程中，通常会发生一系列化学反应。
+
+Right? So this metal this M is metal.
+对吧？所以这种金属，这个 M，是金属。
+
+Oops. Right? And it will usually undergo a hydrolysis process.
+哎呀。对吧？它通常会经历水解过程。
+
+So we add water in it. It's aqueous solution. And then so we form this complex coordination molecule where this oxygen hydroxide group is outside.
+所以我们向其中加入水。这是水溶液。然后，我们形成这种配合物分子，其中羟基氧基团位于外部。
+
+And this hydroxide group is later then removed away. So you dry out the solution once it's mixed well. So we dry out some part and the remaining part become harder.
+然后这个羟基随后会被去除。所以，混合均匀后，你要把溶液烘干。所以我们把其中一部分烘干，而剩余部分则变得更硬。
+
+So they're kind of partially solidified, but not totally hard, but a very soft gel-like polymer. So they kind of hold in their physical position. Right?
+所以它们算是部分固化了，但还没有完全变硬，而是一种非常柔软的凝胶状聚合物。所以它们会保持在原来的位置。对吧？
+
+In the 3D space. So they're at their that particular network, they were further dried. Gel are still partially dissolved.
+在三维空间中。所以它们处于那个特定的网络中，它们被进一步干燥了。凝胶仍然部分溶解。
+
+So you further remove all these small solvents. They become totally solidified. And the hydroxide particles are therefore form right where they were.
+所以，你进一步去除所有这些小溶剂。它们完全凝固了。因此，氢氧化物颗粒就形成在原来的位置。
+
+Okay? So at this stage, they're hydroxide. If you further remove hydrogen, you may get oxide.
+明白吗？所以在这个阶段，它们是氢氧化物。如果进一步去除氢，可能会得到氧化物。
+
+Okay? So depending which one you want, you can decide where to stay. Okay? So that's a sole gel method. A lot of particles oxide has been prepared in this method.
+明白吗？所以，根据你想要哪种，你可以决定停在哪个阶段。明白吗？所以，这是一种单凝胶法。许多颗粒氧化物都是用这种方法制备的。
+
+They specialize silicon oxide. And some people also use these two methods together. Right? So for example, they can have a sole gel on the outside.
+它们专门生产氧化硅。有些人也会将这两种方法结合起来使用。对吧？所以，例如，它们的外部可以有一层单独的凝胶。
+
+Right? And inside, they have this well-dispersed me cells. Which is the microemulsions. Right? So they can end up to have this network where we have this hollow pores inside.
+对吧？而在内部，它们有这种分散良好的 me 细胞。也就是微乳液。对吧？所以它们最终可以形成这种网络结构，其中存在中空孔隙。
+
+We call it mesohollow structures. Okay? Mesohollow structures.
+我们称之为介孔结构。明白吗？中空结构。
+
+Okay?
+明白吗？
+
+All right?
+明白吗？
+
+Okay. I think I can pause here.
+好的。我想我可以在这里暂停一下。
+
+I will speaker is also here already. Let's take a short break. Can you come back at 8:15?
+我的发言者也已经在这里了。我们短暂休息一下。你能8点15分回来吗？
+
+Huh?
+？
+
+8:15.
+8点15分。
+
+Okay?
+好吗？
+
+有啥用？我给我实验室的书从这里要上来。有啥用？
+What good is it? I need to get the books for my lab from here. What’s the use?
+
+有教你要上来。
+I taught you to upload it.
+
+— 由 LecSync 生成

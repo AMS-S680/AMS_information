@@ -1,0 +1,1698 @@
+LEED与表面晶格分析
+日期: 2026年11月2日 12:47
+语言: 英语 → 中文
+时长: 1小时53分28秒
+
+That is the Brag wall, right? Assuming that everybody knows what is the Brag wall coming from X-rays, right, so we have a 2D sight data equals to n times Δ, right? But we have nothing to use it from a different space, which is university space, the loss vector, right?
+那就是“Brag wall”，对吧？假设大家都知道布拉格壁是由X射线产生的，对吧？所以我们有二维视图数据等于n乘以Δ，对吧？但我们没有其他空间的数据可以用来进行比较，也就是大学空间的损失向量，对吧？
+
+So we say at that time, right, it was what we learned. We know from X-ray diffractions, right, 2D sight data equals to nΛ, that is the condition that if we have constructed these appearance so that the diffraction happens, right? Or in the reciprocal space, let's say the—this is speaking to the X-ray—we're deducing from the reciprocal space, right, using electrons, right, what we have is that the scattering vector comes from K prime, equals to the specific reciprocal that is vector G times Kl.
+所以我们当时说，对吧，这就是我们学到的。我们知道，根据X射线衍射，对吧，二维视图数据等于nλ。也就是说，如果我们构建了这些外观，使衍射发生，对吧？或者在倒易空间中，假设——这是针对X射线而言的——我们从倒易空间推导，对吧？用电子的话，我们得到的是散射矢量来自K′，等于特定的倒易向量，也就是 G 向量乘以 Kl。
+
+Right, so the two of them will show they're the same thing, right? Now I'm going to look at that slightly differently geometrical configuration, right? Right, so this is a 3D, this is X-ray. So here we're talking about beam, right? Still, using the electrons, but the geometrical configuration is a little bit different.
+对，所以这两者会表明它们是同一个东西，对吧？现在我要从稍微不同的几何构型来看这个问题，对吧？对，所以这是三维的，这是X射线。所以这里我们说的是束流，对吧？仍然使用电子，但几何构型略有不同。
+
+Right? So let's consider a lattice in a real space, okay? So these are the incident electrons that are perpendicular to the surface of this material.
+对吧？那么，我们来考虑一下实空间中的晶格，好吗？这些是垂直于该材料表面入射的电子。
+
+And as I said, these electrons are not going anywhere deeper, pretty much they're going to stay on the surface and get reflected. Right? So we're using the same strategy as we do for X-rays, right? To find out, right, whether we're going to have constructed or distributed appearance.
+正如我所说，这些电子不会深入任何地方，基本上会停留在表面并被反射。对吧？所以我们采用的策略和处理X射线时一样，对吧？为了弄清楚，对吧，我们是会形成构造外观，还是分散外观。
+
+We look at, right, two electron beams, right, that scatter by different rows of atoms, and find out the cast difference and their beam. The phase difference of these electron beams, right? And then that satisfies this nΛ and that gives you the diffraction condition.
+我们观察两个电子束，对吧？它们分别被不同原子行散射，然后找出它们的相位差和束流。这些电子束的相位差，对吧？然后，这满足这个 nΛ，从而得到衍射条件。
+
+Right? Then the geometry becomes twist forward because now you have incident electrons that are perpendicular to the surface, right? So there's no path difference for all these incident electrons. Right? But then what is scattered and then if you receive them from here, right, you see there is a path difference, right?
+对吧？那么，几何结构就会发生前向扭曲，因为现在入射电子与表面垂直，对吧？所以，所有这些入射电子都没有相位差。对吧？但随后哪些电子会被散射？然后，如果你从这里接收它们，对吧，你会发现它们存在路径差，对吧？
+
+For example, if you look at this pathway and that pathway, this vector there, you see for this line, for this way, you have always an additional distance of distance, right? If you put down this lattice equals to n times Δ, then the condition, right? So we're just keeping that the lattice spacing, right? A, right, and the scattering angle, which is the angle in between, the incident wave and the scattered wave, we describe, right?
+例如，如果你看这条路径和那条路径，看这里的这个向量，你会发现，对于这条线、这条路径，总是会多出一段距离，对吧？如果把这个晶格距离设为 n 倍的 Δ，那么条件，对吧？所以我们只是保持晶格间距不变，对吧？A，对吧，还有散射角，也就是入射波与散射波之间的夹角，我们来描述，对吧？
+
+So we see—so look at this triangle we're sharing about this, right? A, this is π angle, right? So A sin π gives you the section of the distance, right?
+所以我们看到——来看一下我们刚才谈到的这个三角形，对吧？A，这是 π 角，对吧？所以，A 乘以 π，就得到距离的这一部分，对吧？
+
+So we say if A sin π equals to n, uh, A sin π equals to nΛ, well, that is pretty much the definition that needs to be satisfied in order to have the diffraction condition. So that's the leap. Right? And then we say, so you're deducing this similar to what we have in X-ray, and that's in the real space deductions.
+所以我们说，如果 A sin π 等于 n，呃，A sin π 等于 nΛ，那么，这基本上就是满足衍射条件所需的定义。所以这就是飞跃。对吧？然后我们说，所以你是在推导这个，类似于我们在X射线中所看到的，而那是实空间中的推导。
+
+How come they're different in X-ray? So X-ray will come in from this and then you'll complete the lattice. So how come we have two different section conditions?
+为什么它们在X射线中不一样？所以，X射线会从这里进来，然后你会完成晶格。那么，为什么会有两种不同的截面条件？
+
+Well, they're not two different diffraction conditions. They are the same, actually. Right?
+嗯，它们并不是两种不同的衍射条件。其实它们是一样的。对吧？
+
+So let's see why they are the same. So this is the convention of X-ray diffraction picture. Now you've got 33 years away, and we consider an incident X-rays, right, coming from here and X-rays X-rays coming from there.
+那么，我们来看看为什么它们是相同的。所以，这是X射线衍射图的惯例。现在你们相隔33年，我们考虑入射X射线，对吧，从这里来的X射线，以及从那里来的X射线。
+
+Right? So when we compare is that the X-rays, right, scattered by the first line, and X-rays scattered by the second line. Right? So we look at the additional path, the second X-ray travels, and that is satisfied with 2D sin θ equals to n Δ conditions.
+对吧？所以，当我们进行比较时，就是第一条线散射的X射线，和第二条线散射的X射线，对吧？对吧？所以我们来看额外的路径，也就是第二束X射线传播的路径，它满足2D sin θ 等于 nΔ 的条件。
+
+This is for X-ray. Right? And now, we look at what we have for anything, right? So the thing is, this is really is the geometrical configuration we use is a little bit different.
+这是针对X射线的。对吧？现在，我们来看看我们有什么，对吧？所以，实际情况是，我们所采用的几何构型确实略有不同。
+
+But if we want to, or correlate to what we have in X-ray, right, so we have to let the electron move, sorry, the X-ray beams, right, here we can always switch it to the electrons. No difference, right? Coming in this way, right, so this is perpendicular to the surface lattice, but you can imagine leaping to the lattice, you also have lattice planes that form similar correlation like in this case, right? So here we're creating that they have parallel planes in there, and the incident angle X-ray data θ angle is here, which is the same as in this case, this is θ.
+但如果我们想把它与X射线中的情况联系起来，对吧，那么我们就得让电子运动，抱歉，是让X射线束运动，对吧？在这里，我们总是可以把它换成电子。没有区别，对吧？以这种方式入射，对吧？所以这与表面晶格垂直，但你可以想象跃迁到晶格上；晶格中也有形成类似相关性的晶面，就像这个例子一样，对吧？所以这里我们假设其中存在平行晶面，入射角 X 射线数据的 θ 角就在这里，与这种情况相同，这就是 θ。
+
+Right? So we can create that. Then you can see, okay, then this is the plane normal, then we collect the exit X-rays for electrons the same, right?
+对吧？所以我们可以创建它。然后你可以看到，好，这是平面法线。接着我们收集电子的出射X射线，也是一样的，对吧？
+
+So we look at this. So this will exactly be the same X-ray conditions as this one. Is that right? Right? So if you write it here, right, assuming this is the least spacing we use, so we have 2D sin θ equals to nΛ.
+所以我们来看这个。所以这将与这个完全相同的X射线条件。对吗？对吧？所以，如果你把它写在这里，对吧，假设这是我们使用的最小间距，那么就有 2D sin θ 等于 nΛ。
+
+So we start, we still start from here.
+所以我们从这里开始，还是从这里开始。
+
+Same thing. Okay? Now we're going to use some geometry to find out whether they are the same.
+同样的。明白吗？现在我们要用一些几何知识来判断它们是否相同。
+
+Right? The leap, we just say, uh, we have this, uh, leap. Sin φ, equals to nΛ. Is that right?
+对吧？这个跳跃，我们只是说，呃，我们有这个，呃，跳跃。sin φ 等于 nΛ。对吗？
+
+We see this is the same. Now we start from here. We start from here.
+我们看到这是相同的。现在我们从这里开始。我们从这里开始。
+
+Okay? Now what we try to find out, nΛ is always the same. Okay?
+明白吗？现在我们要弄清楚的是，nΛ 始终是相同的。明白吗？
+
+So nΛ equals to 2D sin θ. Let me put it this way.
+所以，nΛ 等于 2D sin θ。我这样写吧。
+
+So what is leap?
+那么，leap 是什么？
+
+Leap is this value. Is that right? This value.
+莱普就是这个值。对吗？这个值。
+
+What's the relationship between the small d and the big D? So small d equals to d sin α. Right? So d equals to d sin α.
+小写 d 和大写 D 之间有什么关系？所以小 d 等于 d sin α，对吧？所以，d 等于 d sin α。
+
+Sin θ. Is that right? Okay, next.
+θ。对吗？好的，下一个。
+
+What is the relationship between θ and α?
+θ 和 α 之间有什么关系？
+
+So this is my θ.
+所以这是我的 θ。
+
+This is my α. Right? I can define it this way.
+这是我的 α，对吧？我可以这样定义它。
+
+So θ plus α equals to negative phase. Right? So that equals to 2D sin α.
+所以，θ 加 α 等于负相位。对吧？所以等于 2D sin α。
+
+Sin 90 degrees minus α. Is that right? So that becomes cos α.
+sin(90度减α)。对吗？所以就变成了 cos α。
+
+Right?
+对吧？
+
+All right? So 2 sin α, 2 sin α. So we know this is a d sin 2 α.
+明白吗？所以是 2 sin α，2 sin α。我们知道这是 d sin 2α。
+
+So what is 2 α? 2 α is my φ. Right?
+那么，2α是多少？2α 就是我的 φ，对吧？
+
+So this is sin φ.
+所以这是 sin φ。
+
+So I have nΛ equals 2D sin φ. And so this is exactly the same thing, all right? We play around this way or that way, we're always on the track of, right?
+所以，nλ 等于 2D sin φ。因此，这完全是一回事，明白吗？我们这样改、那样改，始终都沿着这条思路，对吧？
+
+So that's how, right, using the same diffraction law, right, you would in principle be able to tell, uh, how the surface lattice looks like. Right?
+所以，对吧，利用同样的衍射定律，原则上你就能知道表面晶格是什么样的。对吧？
+
+In general.
+一般来说。
+
+Now, of course, right, in the critical case, right, uh, you need to worry whether this, uh, electron will use a really perpendicular to the surface, right? So there will be a bit of deviations. Right?
+当然，在临界情况下，你需要担心这个电子的入射方向是否真的垂直于表面，对吧？所以会有一点偏差。对吧？
+
+Because the sample can be tilted a little bit, but not smooth. Right? So you take that into consideration, you have to modify the difference a little bit, and then, uh, we're in the same train.
+因为样品可能会稍微倾斜，但不平滑。对吧？所以你要把这一点考虑进去，必须稍微调整一下这个差值，然后，呃，我们就在同一条轨道上。
+
+Now, instrumental-wise, right, uh, the setting is pretty much straightforward once you have all this experience with the XPS, with the electron microscopes, and so on, so forth. Right? So we're using basically same parts first of all.
+现在，从仪器方面来说，对吧，呃，一旦你有了使用 XPS、电子显微镜等等的丰富经验，实验设置基本上就很简单了。对吧？所以首先，我们基本上使用的是相同的部件。
+
+You have a magnet system, and you will have to have magnet systems to deal with electrons. Right? And then in the magnet system, uh, you have this kind of thing that will require you to have first an electron gun, but then you need electrons.
+你有一个磁体系统，而且你必须有磁体系统来处理电子。对吧？然后在磁体系统中，呃，你会遇到这种情况：首先需要电子枪，但之后还需要电子。
+
+So this time you don't have to add high tension to it. So you just have the electrons, which you already know. Right?
+所以这次你不必给它加上高压。所以你只需要电子，这些你已经知道了。对吧？
+
+So these electrons, right, are emitting from the filaments. Right? And accelerate it until the surface of your sample. Right? Once there, these low-end electrons are pretty much restricted on the surface without penetrating into the materials, and they are bouncing back.
+所以这些电子，对吧，是从灯丝发射出来的。对吧？并将其加速至样品表面。对吧？到达表面后，这些低能电子基本上只能停留在表面，无法穿透材料，而且会弹回来。
+
+Right? Mostly not in wave, and big electron wave. Right? But then, uh, if you're going to have a constructive wave appearance, right, you can only consider the elastic wave scattered electrons, because they're a phase, right, so that you can have an inferior sample. So for any elastic scattered electrons, they don't have coherence properties, right?
+对吧？大部分不是波，而是大的电子波。对吧？但是，呃，如果你想得到建设性波的外观，对吧，你只能考虑弹性波散射电子，因为它们有相位，对吧，这样你就可以得到一个劣质样品。所以，任何弹性散射电子都不具有相干性质，对吧？
+
+So there's no way you can sum the waves is that you sum the intensity or that contribute to a background that something you don't want. So in order to figure out all these noise backgrounds, right, you do add three, right, ellipses. So figure out the new elastic scattered electrons only the elastic scattered electrons that are on the same energy as the incident ones.
+所以，你不可能把这些波叠加起来，也就是说，你只能把强度相加，否则就会产生你不想要的背景。所以，为了弄清楚所有这些噪声背景，对吧，你要加上三个，对吧，椭圆。所以，只计算新的弹性散射电子，也就是那些与入射电子具有相同能量的弹性散射电子。
+
+Okay? So and then, uh, you're going to receive the electrons. Right?
+明白吗？然后，呃，你会接收到这些电子。对吧？
+
+When they're detected, right, in the core of the special pattern. So this is a screen, right, you're going to hear about. Right? This reduces friction. So this is the setting. Now, I forgot to mention is that some screens, right, which the sample sees now, right, uh, is called no data, which can gravitate, right, in the directions, and also can rock a little bit, meaning that this is the incident microscope, so it can rotate and can rock a little bit.
+当它们被探测到时，对吧，在特殊图案的核心区域。所以这是一个你们将要听到的屏幕，对吧？对吧？这可以减少摩擦。所以这就是设定。现在，我忘了提到，有些屏幕，对吧，也就是样品现在看到的这些，对吧，呃，被称为“无数据”，它们可以朝各个方向偏移，对吧，也可以稍微摇动一下。也就是说，这是投射显微镜，所以它可以旋转，也可以稍微摆动一下。
+
+Right?
+对吧？
+
+So this is the setting of the electrons. And this is how the, uh, leap happen looks like. Okay, it looks like a little transition before, right?
+所以，这是电子的设置。这就是，呃，跃迁发生时的样子。好的，看起来之前有一个小小的跃迁，对吧？
+
+Uh, but then if you look at this, you compare that, right, if you're either with what you should have for the electron detection method, you will be able to look like a normal detection method. Right? But this does not, right?
+呃，但如果你看一下这个，把它和那个比较一下，对吧，如果你采用电子检测方法应有的方式，你就能看起来像一种正常的检测方法。对吧？但这不是，对吧？
+
+Why do I say so? Right? Now, one of the important things you have to be self-appealing with the detection method is that they are replicable of the physical lattice.
+我为什么这么说？对吧？现在，使用这种检测方法时，你必须具备自我吸引力的一个重要方面是，它们能够与物理晶格重复。
+
+So it's a lattice. So what's the feature of the lattice?
+所以这是一个晶格。那么，晶格有什么特征？
+
+You don't have periodicity.
+你没有周期性。
+
+Right? So how do we interpret the periodicity means in this lattice?
+对吧？那么，我们该如何理解这个晶格中的周期性呢？
+
+So in this.
+所以在这个……
+
+In this lattice, right, if you start with one lattice point, define that is vector R1, and you find another lattice point, define that is vector R2. The vector summation of these two vectors would lead to a third one ending up a third lattice point that must belong to this lattice. So this is knowing as the translation. So basically you can move it, right, along all the lattice vector directions, and you get the whole lattice.
+在这个晶格中，对吧，如果你从一个晶格点出发，把它定义为向量 R1，然后找到另一个晶格点，把它定义为向量 R2。这两个向量的向量和会得到第三个向量，其终点对应第三个晶格点，而这个晶格点必须属于该晶格。所以这称为平移。所以基本上，你可以沿着所有晶格向量的方向平移它，对吧？这样就能得到整个晶格。
+
+All right? So this is the feature of the diffraction method. And in this case, you see this feature is here.
+明白吗？所以，这就是衍射法的特点。在这种情况下，你可以看到这个特征就在这里。
+
+Now you start from this, and then this one, that one, that added together to this one, and this continues, right, into the outer banner. So you're good. All right?
+现在你从这里开始，然后这个、那个，把它们加在一起得到这个，然后这样一直延伸下去，对吧，延伸到外侧的横幅。所以没问题。明白吗？
+
+What's strange about this one?
+这个有什么奇怪的？
+
+What's strange about this one? So assuming you have a second spot here, and you took this one and that one as R1, R2, right? So the vector summation of this one, that one will go to somewhere here, and you don't have a spot. And that's really strange, right?
+这个有什么奇怪的？所以，假设这里还有第二个点，你把这个和那个分别取为 R1 和 R2，对吧？所以，这个和那个的向量相加会到这里某个位置，而你这里没有位置。这真的很奇怪，对吧？
+
+And, and according to find out how how, uh, that happened. So that was actually pretty important. The, uh, leap, right?
+而且，而且要弄清楚，呃，那是怎么发生的。所以那其实相当重要。那个，飞跃，对吧？
+
+It's one of the key difference, right, from leap. Right? Now, leap can be two kind of information. One is precision of the response and the other is convenience means that, uh, we're having to look at the intensities too much, right?
+这是与 leap 的关键区别之一，对吧？对吧？现在，leap 可以是两类信息。一种是响应的精确度，另一种是便利性，也就是说，呃，我们不得不过多地查看强度，对吧？
+
+So we always figure it out precisions. That's how we do geometry of the surface lattices. Right?
+所以我们总是弄清楚精度。这就是我们确定表面晶格几何结构的方法。对吧？
+
+Now we're going to go back a little bit. So we're talking about the instrumentation and how we dependent. Now we're going to go back a little bit. Now, uh, this is going to my, uh, previous argument is that, right, the whole idea of teaching you the reciprocal lattice is to build up your sort of a correlation.
+现在我们要稍微回溯一下。所以，我们讨论的是仪器设备，以及我们如何依赖它们。现在我们要稍微回溯一下。现在，呃，这又回到了我之前的观点，对吧？教你理解倒格子的整个想法，就是让你建立起某种关联。
+
+What's the real space lattice, right? So the next a few, I mean, tens of minutes, right, we're going to go through a lot of exercise, right? The whole idea is that we see two dimension. Now, leap is of two dimension, right? Now you're going to, uh, exercise yourself from the real space to the reciprocal space and reciprocal space back to the real space, right?
+什么是实空间晶格，对吧？所以接下来的几分钟，呃，几十分钟，我们会做很多练习，对吧？整个想法是，我们看到二维。现在，leap 是二维的，对吧？现在你们要，呃，练习从实空间到倒易空间，再从倒易空间回到实空间，对吧？
+
+You have to be able to do that. And in order to understand the, uh, the, the, the leap habits, right? Now, as I said, leap goes to two dimension. And in two dimension, things become a lot more straightforward. Now, first, you have to review what we learned about the real space and the reciprocal space.
+你必须能够做到这一点。为了理解，呃，这些、这些、这些跳跃习惯，对吧？正如我所说，跳跃进入二维空间。而在二维空间中，事情会变得简单得多。首先，你们必须复习一下我们学过的实空间和倒易空间。
+
+We learned from three dimension, using very straight mathematical definitions. Now we're going back to one dimension lattice. It's because most straightforward.
+我们从三维空间出发，使用了非常直接的数学定义。现在我们回到一维晶格。因为这是最直接的。
+
+But the same principle helps. Right? So what's the principles? Now remember in the three dimension, what I said, so you have A, B, C lattice.
+但同样的原理也有帮助。对吧？那么，原则是什么？现在记住我在三维空间中说过的，所以你有 A、B、C 晶格。
+
+So you have an A, B, C lattice.
+所以你有 A、B、C 晶格。
+
+Right? And you have a star B star C star. In the reciprocal space, right? So how can we find a star? So now we know a star is perpendicular to B and C.
+对吧？你还有星B、星C。在倒易空间中，对吧？那么，我们如何找到星点呢？所以现在我们知道，A 星垂直于 B 和 C。
+
+And a star size is equivalent to 1 over 8. Now be careful, because it's a vector reciprocal relationship. So if A and A star are along same direction, well, it's safe.
+而星号的大小相当于八分之一。现在要小心，因为这是向量的互逆关系。所以，如果 A 和 A 星同向，那当然没问题。
+
+So A star equals to 1 over 8. All right? But then if you're not on the same direction, you have to consider the angle in between the two of them.
+所以 A 星等于 1/8。明白吗？但如果你的方向不一致，就必须考虑两者之间的夹角。
+
+So we say A star times A and angle in between two of them equals to 1. Right? So this is something you have to have in mind, right?
+所以我们说，A 星乘以 A，再乘以两者之间的夹角，等于 1。对吧？所以这是你必须牢记的一点，对吧？
+
+Now we say everything is go back to three dimensional. Things become straightforward. You just reduce one dimension lattice.
+现在我们说，一切都回归到三维。事情变得简单明了。你只需将一维晶格降维。
+
+All right? Let's get rid of C. All right?
+明白吗？我们把 C 去掉，好吗？
+
+Now what do we have?
+现在我们有什么？
+
+Same thing. Everything holds. The lattice just get rid of the C, right?
+同样的东西。一切都成立。这个格子，把 C 去掉，对吧？
+
+Now where's the direction of A star, right? It would be right where C star. And where's A?
+那么，A 星的方向在哪里，对吧？它就在 C 星的位置。那A在哪里？
+
+That's the direction, right? And the size relationship still holds, like this one. Right?
+那就是方向，对吧？大小关系仍然成立，就像这个。对吧？
+
+So this is what this slide says. You know, there are a bit of a complicated equations. So now, uh, we can have some trials on very simple, uh, lattices. For example, you can do a real space lattice, which is a square, right?
+所以，这张幻灯片就是这么说的。你们知道，这里有一些相当复杂的方程。所以现在，呃，我们可以在非常简单的，呃，晶格上做一些试验。例如，你可以做一个实空间晶格，也就是一个正方形，对吧？
+
+So you have A is perpendicular to A. A1 is perpendicular to A2, and A1 equals to A2. All right? So we have it is equal space. Where is A star?
+所以，A 垂直于 A。A1 垂直于 A2，而且 A1 等于 A2。明白吗？所以我们有它是一个等距空间。A 星在哪里？
+
+A star is perpendicular sorry, well, where is B1? Are you B1 to represent A star, okay? So where is B1? B1 is perpendicular to A2, right?
+A 星是垂直的，抱歉，嗯，B1 在哪里？你是用 B1 来表示 A 星吗？好的？那么，B1 在哪里？B1 垂直于 A2，对吧？
+
+So B1 is here, and so does B2 perpendicular to A1, right? So this is okay? Now how about the size?
+所以 B1 在这里，而 B2 也垂直于 A1，对吧？所以这样可以吗？那么尺寸呢？
+
+So this one, so this one, come up together, equals to 1. So inverse, right? So that's how it's done.
+所以这个，这个，加起来等于1。所以是逆矩阵，对吧？所以就是这样做的。
+
+Now how about if A1 and A2 are not perpendicular to each other? Well, same thing, right? So we know B1 is perpendicular to A2, right?
+那么，如果 A1 和 A2 互不垂直呢？嗯，还是同样的道理，对吧？所以我们知道 B1 垂直于 A2，对吧？
+
+So what's A2? We draw a perpendicular line, which is the direction of B1, right? So how about if B2?
+那么，A2是什么？我们画一条垂直线，也就是 B1 的方向，对吧？那么，如果 B2 呢？
+
+B2 is perpendicular to A1, so B2 is here. Right? And then we find the theta relationships.
+B2 垂直于 A1，所以 B2 在这里。对吧？然后我们求出θ之间的关系。
+
+Between B1 and A1. Now you know A1 times B1 times cosine theta minus 90 minus theta equals to 1, right? With calculation that gives you the estimate.
+B1 和 A1 之间。现在你知道，A1乘以B1再乘以θ的余弦，减去90减去θ，等于1，对吧？通过计算，你会得到这个估计值。
+
+So this is the rule, right? We need to use, right, to what you're later calculations. In order to find out if I give you the real space lattice, you know how to produce a reciprocal space.
+所以这就是规则，对吧？我们需要用它，对吧，用于你之后的计算。为了弄清楚，如果我给你实空间晶格，你知道如何生成倒易空间。
+
+Or if I give you the reciprocal space, you should go back to the real space. So these are the little tricks we're going to play, right, in today's class.
+或者，如果我给你倒易空间，你应该回到实空间。所以，这些就是我们今天这堂课要玩弄的小把戏，对吧？
+
+Right? Then again, talking about two dimension, right, the, uh, reciprocal lattice systems, we'll reduce from seven to four, right? We're reducing from, uh, the three dimensional space, we have seven reciprocal lattice systems, we have 14 round lattice.
+对吧？再说一次，谈到二维，呃，倒格子系统时，我们会把数量从七个减少到四个，对吧？我们从三维空间中进行简化。我们有七种倒格子系统，有14种圆格子。
+
+Now if two dimension, we have only four reciprocal lattice systems, and five round lattice. So three members of a smaller and symmetric, uh, simpler, right? So these four reciprocal lattice systems are square lattice, hexagonal lattice, rectangle lattice, and oblique lattice.
+现在如果是二维的，我们只有四种倒格子类型和五种晶格。所以，三元系更小、更对称，呃，也更简单，对吧？所以，这四种倒格子系统分别是正方格子、六方格子、矩形格子和斜方格子。
+
+Right? So they have all different characteristics that are listed here, right? But then we say four reciprocal lattice systems of five lattices, right?
+对吧？所以它们都有不同的特性，这里列出了这些特性，对吧？但接下来我们说有四种倒格子系统和五个晶格，对吧？
+
+That means the lattice is not necessarily primitive, right? So you have three lattices or most of them, or, uh, square, hexagonal, and oblique. But then for the rectangular lattice, you do have two different types of lattices.
+这意味着晶格不一定是原胞晶格，对吧？所以你有三种晶格，或者大多数情况下有三种，呃，分别是正方晶格、六方晶格和斜方晶格。但对于斜方晶格，确实有两种不同的晶格类型。
+
+One is the primitive, the other is standard. Right? Primitive means you have one lattice A1 that is point in one of the cells. Standard means you have a center point.
+一种是原胞格子，另一种是标准格子。对吧？原胞是指你有一个 A1 晶格，它位于其中一个晶胞中。标准型意味着有一个中心点。
+
+So that makes this non-primitive. You have two lattice points in this lattice. Okay?
+所以这使得它不是原胞。这个晶格中有两个晶格点。明白吗？
+
+Same thing, little definition.
+同样的情况，简单定义一下。
+
+All right? So here are, uh, at least, all right, showing you the correlation in between the real space and the reciprocal space for this five different lattices. So obviously here, and you can have a trials, right, exercise by yourselves.
+明白吗？所以这里，呃，至少，好吧，向你们展示了这五个不同晶格的实空间与倒易空间之间的对应关系。所以很明显，这里你们可以自己尝试一下，对吧？做个小练习。
+
+Right? Now again, with the two dimensional lattice in mind, and now we go to instruction. Instruction is the same, right? So we're still looking at this, right? Uh, basically the standard aptitude, right, will be determined, right, at this time.
+对吧？现在，再次牢记二维晶格，接下来我们进入说明。指令是一样的，对吧？所以我们还是在看这个，对吧？呃，基本上，标准能力，对吧，会在这个时候确定，对吧。
+
+Right? And, uh, uh, everything keeps the same in two dimension, and, uh, let's think about the receiving of the compression lattice. Now recall what we have, right, in the three dimensional space.
+对吧？而且，呃，呃，一切在二维中都保持不变，然后，呃，我们来考虑压缩晶格的接收。现在回想一下我们在三维空间中所学的内容，对吧。
+
+And remember, so we say we construct an equal sphere. Okay? And if this spherical surface cut through my lattice, reciprocal lattice, right? So here, here's that. We do get a diffraction intensity in here.
+记住，所以我们说，我们构造一个等球体。明白吗？如果这个球面穿过我的晶格，也就是倒易晶格，对吧？所以这里，就是这个。这里确实会产生衍射强度。
+
+That's how it produces the diffraction pattern, uh, in terms of the reciprocal lattice, right? Nonetheless, we spend quite a bit of time to discuss what? Right? Uh, it's not a perfect condition, right? The equal sphere is going to curve up eventually, and there will be deviation between the real G and your sketch lattice.
+这就是它如何产生衍射图样，呃，从倒易晶格的角度来看，对吧？尽管如此，我们花了相当多的时间讨论什么？对吧？呃，这不是一个完美的条件，对吧？这个等球最终会向上弯曲，实际的 G 与你的草图晶格之间会产生偏差。
+
+So there will be a deviation factor. So we spend quite a bit of time to discuss this here. And remember, when this conclusion, the conclusion is that if your sample is very thin, very limited, never in the cells, right?
+所以会有一个偏差系数。所以我们在这里花了不少时间讨论这个问题。记住，当得出这个结论时，结论是：如果你的样本非常稀薄、非常有限，就永远不会在细胞中，对吧？
+
+Your diffraction intensity along this direction will be long strides instead of a narrow spot. Right? As far as your equal sphere will cut the strides, which is the diffraction intensity.
+沿着这个方向的衍射强度会是一条长条，而不是一个窄斑。对吧？只要你的等球体会截断这些步长，也就是衍射强度。
+
+You still see the difference.
+你仍然能看到差异。
+
+Right? So this is the whole idea. This is a very important conclusion with physical origins.
+对吧？所以，这就是整个想法。这是一个具有物理起源的非常重要的结论。
+
+Right? So now, if that is the case, now let's imagine what happens in terms of leaves.
+对吧？那么，既然情况是这样，现在我们来想象一下叶子方面会发生什么。
+
+Now, leaves, our collection is green down top, right? The equal sphere is on the bottom. So it sounds a little bit strange.
+那么，叶子，我们的集合从上到下都是绿色的，对吧？等球体在底部。所以听起来有点奇怪。
+
+Right? But then, uh, start to make sense because for leaves, right, we're looking at only, uh, one or two surface monolayers. Right? So this is extremely thin.
+对吧？但这样就开始说得通了，因为对于叶片来说，对吧，我们观察的只是表面的一两层单分子层。对吧？所以这极其薄。
+
+So it is very, extremely thin in the real space. That means in the reciprocal space, it was very intensely. It's extremely long.
+所以在实际空间中，它非常、极其薄。这意味着在倒易空间中，它的强度非常高。它极其长。
+
+All right? It becomes a long line going through the tubing, right? The narrower, the thing in the real space, the longer that it will have in the reciprocal space. Right? The relationships.
+明白吗？它变成一条穿过管状结构的长线，对吧？在真实空间中越窄，它在倒易空间中的对应物就越长。对吧？这些关系。
+
+We find in case we have long strides instead of, uh, spots, right, for the diffraction intensity to go up. And we see these diffraction intensities strides cut through the entire equal sphere and also bottom on the top. Right? So we find it long. So if you have a space here on the top, you can collect these diffraction intensities as well.
+我们发现，如果步长很长，而不是，呃，点，对吧，衍射强度就会升高。我们看到这些衍射强度台阶横穿整个等球体，也从底部到顶部。对吧？所以我们发现它很长。所以，如果顶部这里有空间，你也可以收集这些衍射强度。
+
+Right? And so that's explains, right, uh, in terms of, uh, leaf collection, right, or actually receiving it from the very first surface. All right? Uh, now, let's look at real, uh, look, look, uh, look at a real example, right?
+对吧？所以这就解释了，对吧，呃，从，呃，叶收集的角度来看，对吧，或者实际上是从最初始的表面接收它。明白吗？呃，现在我们来看一个实际的例子，好吗？
+
+So this is, uh, uh, the real space. Uh, absolutely lattice, uh, in itself, right? So absolutely, again, you have three centers, right?
+所以这是，呃，呃，真实空间。呃，绝对晶格，呃，本身，对吧？所以绝对来说，还是有三个中心，对吧？
+
+Other than the borders in three centers. Now, uh, in this one, uh, we're going to look at a specific plane. Uh, which is known as the 11O plane.
+除了三个中心的边界之外。现在，呃，在这个例子中，呃，我们要看一个特定的平面。它被称为11O晶面。
+
+11O plane. So if you look at that, uh, here, you find the origin this is the 10O direction. This is the 01O direction, and that one is the 001 direction for the A to C, right?
+11O 面。所以，如果你看这里，呃，你会发现原点，这是 10O 方向。这是 01O 方向，而那个是 A 到 C 的 001 方向，对吧？
+
+So 11O means a direction, right? So 1, 1, 0. So it's a direction going the diagonal.
+所以，11O表示一个方向，对吧？所以是 1、1、0。所以这是一个对角线方向。
+
+Okay? So we're talking about a plane perpendicular to the 11O direction. So that's the 11O plane. Right? So which is the, uh, purple shaded plane that I marked?
+明白吗？所以我们讨论的是一个垂直于 11O 方向的晶面。所以那就是（110）晶面。对吧？那么，我标出的，呃，紫色阴影平面是哪一个？
+
+So this is the 11 oh, sorry, 11O plane in axis dimension. So I took that plane out and plotted there. All right? Do you see that?
+所以这是轴向尺寸中的 11O，抱歉，是 11O 面。所以我把那个平面取出来，然后在那里进行了绘制。明白吗？你看到了吗？
+
+So I took this plane out with axis on it. I plotted here. So what do we have? So we have the four quarters there, and the middle one there.
+所以我把这个带有坐标轴的平面取出来了。我在这里画出了。所以我们有什么？所以我们这里有四个象限，还有一个中间的。
+
+Right? So the characteristic of such a lattice is what? These two atoms are close packed, will not be split. Is that right? Right? So in this case, you actually have defined rectangle lattice instead of a square.
+对吧？那么，这种晶格的特点是什么？这两个原子紧密堆积在一起，不会分开。对吗？对吧？所以在这种情况下，你实际上定义的是矩形晶格，而不是正方形晶格。
+
+So this is extruder. This is slopper. Okay?
+所以这是挤出机。这是斜坡。明白吗？
+
+So this is the feature of the 11O plane.
+所以这是11O晶面的特征。
+
+Then, uh, what will be the diffraction looks like if I took a diffraction on the 11O plane?
+那么，呃，如果我在（110）晶面上做衍射，衍射图会是什么样的？
+
+Now, I just plotted the lattice of the 11O plane. So in this is a rectangle lattice. Is that right?
+现在，我刚刚绘制了11O晶面的晶格图。所以这是一个矩形晶格。对吗？
+
+Right? And rectangle was feature along the AB direction is short. And along the AD direction is long.
+对吧？矩形的特征是沿 AB 方向较短。沿着 AD 方向较长。
+
+And what happens in the reciprocal space? They're using the rules that we just learned, right? So my reciprocal lattice vector, let's say this is, uh, a one stop or a stop, right?
+那么倒易空间中会发生什么？他们正在运用我们刚刚学到的规则，对吧？所以我的倒格矢，假设这是，呃，一个停止点，对吧？
+
+Will be particular to my A2 or B. Right? So it's here.
+会取决于我的 A2 或 B，对吧？所以它在这里。
+
+And so does the other one. It's along here. Right? So you see A1, a one stop, B1, B, uh, B one stop are basically along the same direction.
+另一个也是。它沿着这里。对吧？所以你看，A1，一个停靠点，B1，B，呃，B1停靠点基本上朝同一个方向。
+
+And the diffraction pattern also follows a rectangle lattice. Right? Nonetheless, the symmetry is a little different.
+衍射图样也遵循矩形晶格。对吧？不过，其对称性略有不同。
+
+So in the real space, this is short, and this is long. And in the corresponding reciprocal space, you have a numerous relationship that means this will be long, and this will be short. Right?
+所以在实空间中，这是短的，这是长的。而在相应的倒易空间中，存在一种数量关系，这意味着这个会很长，而这个会很短。对吧？
+
+So that's how it works.
+所以它就是这样运作的。
+
+All right? So this is, uh, uh, I'll skip this slide just so we can use that a bit later. Right? So one of the important goals, uh, of using leaf is to study the surface layers.
+明白吗？所以这个，呃，呃，我先跳过这张幻灯片，稍后再用。对吧？所以，使用 Leaf 的一个重要目标，呃，就是研究表层。
+
+So the surface structures. Right? So what do I mean?
+也就是表面结构。对吧？那么，我是什么意思呢？
+
+So you have a piece of materials, right, and you have original surface structures. Then you put a surface monolayer on top of it, and these surface monolayers form certain symmetrical patterns. Right? And these will help you to tell you, uh, where is the starting surface and how the newly added atoms, uh, sitting, um, the original surface.
+所以你有一块材料，对吧，它具有原始表面结构。然后在它上面覆盖一层表面单分子层，而这些表面单分子层会形成某些对称图案。对吧？这些会帮助你判断，呃，起始表面在哪里，以及新添加的原子，呃，如何，嗯，位于原始表面上。
+
+Right? So this is an important piece, uh, that we use.
+对吧？所以，这是我们使用的一个重要部分。
+
+Right? Now, regarding the add layers, right, you can just see, uh, they have many different probabilities to see how different relations. But here is, uh, one of the examples to illustrate. Right? Here I show different pieces of an axis in crystals again. And here this is the 111 surface or 111 planes on the axis showing a typical example of symmetry.
+对吧？现在，关于添加图层，对吧，你可以看到，呃，它们有很多不同的概率，以观察不同的关系。但这里有一个示例来说明这一点。对吧？这里我再次展示了晶体中不同轴线的部分。这里，这是轴上的（111）表面，也就是（111）晶面，展示了一个典型的对称性例子。
+
+Right? And this is the, uh, 1OO. That is a square lattice.
+对吧？这是，呃，1OO。那是一个正方格子。
+
+And this is the 11O, which is dimensional. So you have this rectangle, rectangle lattice. Right? Now, if you took these surfaces at the starting point and tried to deposit add layers on top of it, right, and you see there are many different sides these add atoms can sit on.
+这是11O，它是维度的。所以你有一个这样的矩形，矩形晶格。对吧？现在，如果你从起点开始，取这些表面，并尝试在上面逐层沉积，对吧，你会发现这些新增原子可以位于许多不同的面上。
+
+For example, for the 111 surface, the add atoms are sitting on top of each of the atoms. Or sitting in between two atoms. Or in sit in between the three atoms.
+例如，对于（111）表面，外延原子位于每个原子的正上方。或者位于两个原子之间。或者位于三个原子之间。
+
+So there are three different characteristic sides these add atoms can sit on. But in terms of the axis, you see the symmetry is different. They share the same two sides, on top of the atoms, in between two close packed atoms.
+所以，这些添加原子可以位于三个不同的特征位置。但从轴的角度来看，你会发现对称性是不同的。它们在原子上方的两侧相同，位于两个紧密堆积原子之间。
+
+But the third one, where you see now have a formal symmetry, here you have a triple symmetry. Right? And if you're working on the 11O surface, things become functional, right?
+但第三个，你现在可以看到，它具有形式对称性，这里具有三重对称性。对吧？如果你研究的是11O表面，这些东西就会变得具有功能性，对吧？
+
+Well, this one and this one are the same. But then you create additional sides on this one and that one. So this one is actually on multiple layers.
+嗯，这个和这个是一样的。但随后你会在这个和那个上再添加一些侧边。所以这个实际上位于多个图层上。
+
+Right? So this is a top layer. You have the bottom layers over there.
+对吧？所以这是顶层。底部图层在那边。
+
+But then obviously, if your add atom is small enough, then it's sitting there. Right? So there are different sides that you can so that you can create different symmetries of the add layers.
+但显然，如果你添加的原子足够小，它就会待在那里。对吧？所以你可以从不同的侧面进行添加，从而形成不同对称性的添加层。
+
+Now, in the real space lattice, how do we describe the add layer? Right? Conventional layer, we're going to use a nutritional as the surface distribution.
+那么，在实空间晶格中，我们如何描述这个附加层？对吧？对于常规层，我们将使用营养物质作为表面分布。
+
+Right? That comes with, uh, uh, long and complicated formula that actually is not. Right? So that's pretty true. Right? So it tells you x hdl.
+对吧？它伴随着，呃，呃，很长且复杂的公式，其实并不是。对吧？所以这确实很准确。对吧？所以它告诉你 x hdl。
+
+So x stands for the original materials under substrate. So the surface to start with, what is it? Right?
+所以，x 代表衬底下的原始材料。那么，一开始的表面是什么？对吧？
+
+At hdl is the specific corresponding plane that you work on. Right? Now, here is a bit one of the confusions is that, "Hey, you just said we're working on 2D.
+在 hdl 处，是与之相对应的特定工作平面。对吧？现在，这里有一点容易让人困惑的地方是：“嘿，你刚才说我们是在二维空间里工作。”
+
+How come there's a hdl coming from 3D?" Well, it's because it's a 2D plane. This plane is coming from a 3D crystal.
+怎么会有来自3D的hdl？”这是因为这是一个二维平面。这个平面来自一个三维晶体。
+
+Right? So you're saying the starting is the substrate. Right? And then slash we have I, and, uh, sort of a matrix in there or a relationship in there.
+对吧？所以你是说，起始材料是衬底。对吧？然后是斜杠，我们有 I，呃，里面还有某种矩阵或某种关系。
+
+So this tells you I is the type of lattice in the two dimensions. Right? B is primitive or centered.
+所以这说明 I 是二维情况下的晶格类型。对吧？B 是原胞型或心型。
+
+So you have two different choices: primitive or centered. Right? So B and A are the manufacturers of your original lattice, for example, the blue one, which is the square lattice shown here. And the lattice formed by the add layers and atoms.
+所以你有两种不同的选择：原胞或心胞。对吧？所以，B 和 A 是原始晶格的制造者，例如蓝色的那个，也就是这里所示的正方晶格。以及由额外的层和原子形成的晶格。
+
+So I mark with the orange locations, right? These are the add atoms. And the new lattice is marked by the green square.
+所以我用橙色标记这些位置，对吧？这些是加原子。新的晶格由绿色方格标出。
+
+Right? So you see the lattice parameters for the blue one and the green one are different. Right?
+对吧？所以你可以看到，蓝色和绿色的晶格参数是不同的。对吧？
+
+So the green one is two times of the blue one. Right? So in this case, I know B1 over A1 will be B2. And B2 over A2 will be B2 as well.
+所以绿色的是蓝色的两倍。对吧？所以在这种情况下，我知道 B1 除以 A1 等于 B2。B2 除以 A2 也会等于 B2。
+
+So here, this becomes 2 by 2 because it's green. So 2 by 2 lattice. Okay? And it's not the end of it. We have an R alpha that tells you the possible rotation of the new lattice formed by the add layer to the original lattice of course in this case.
+所以这里，因为它是绿色的，这就变成了2乘2。所以是2×2晶格。明白吗？这还没完。我们有一个 Rα，它表示在本例中，添加一层后所形成的新晶格相对于原始晶格可能的旋转。
+
+You don't have any rotation. There are exactly the same orientations. So we're going to omit this R alpha.
+你没有任何旋转。取向完全相同。所以我们省略这个 Rα。
+
+But in some of the cases, we have a relation as you can see in the examples. Right? Uh, and the last one, A, you have to present an effort.
+但在某些情况下，正如你们在示例中看到的，我们存在某种关系。对吧？呃，最后一个，A，你必须展示出努力。
+
+A is the type of atoms in your plane that is what add layer the add layer when you combine a unit cell. How many A atoms are in each of the unit cells? And what is A? Right? So we're going to see examples one by one.
+A 是平面上原子的类型，也就是当你组合一个晶格单元时会添加的层，添加的层。每个晶胞中有多少个 A 原子？A 是什么？对吧？所以我们会逐一来看这些例子。
+
+Uh, the next slide springs through whatever this is plane. Right? And one of the things, uh, portion is the boost location. How many units is included ammo of the surface in such a unit lattice?
+呃，下一张幻灯片从这个平面的任意位置弹出。对吧？其中一部分，呃，是提升位置。这样的晶格中，表面的弹药包含多少个单元？
+
+So we don't have it. Similar dimensions otherwise, uh, one cannot use the boost location.
+所以我们没有它。否则，如果尺寸相似，呃，就不能使用 boost 位置。
+
+Right?
+对吧？
+
+Now, uh, you exercise an explanations. Right? Examples of the surface factors.
+现在，呃，你进行一些解释。对吧？表面因素的例子。
+
+So here, we start with the bottom O circles, right, that define the square lattice with manufacturers of A1, A2. Right? Now, we have an add layer, right, marked by the orange circles.
+所以这里，我们从底部的 O 圈开始，对吧，它们定义了具有 A1、A2 制造商的正方格子。对吧？现在，我们有一个附加层，对吧，由橙色圆圈标出。
+
+We're sitting in the blue O centers of the bottom atoms. Right? So before we discuss the lattice, now, uh, I want you to find out the boost location of this structure, how do we do that?
+我们位于底部原子的蓝色 O 中心。对吧？所以在讨论晶格之前，呃，我想让你们找出这个结构的布洛赫位置。我们该怎么做呢？
+
+Now, we're going to follow the definition, right? Right? We'll follow that formula to find out information. But first of all, I need to find the, uh, what it will tell me what kind of material is that.
+现在，我们要按照定义来做，对吧？对吧？我们将按照这个公式来获取信息。但首先，我需要找出，呃，它会告诉我那是什么样的材料。
+
+Right? And what is the surface of that? Usually, that is given.
+对吧？那它的表面是什么样的？通常，这个是给定的。
+
+Right? So S hkl is solved. Right? The next thing, uh, is most tricky part is that you have to find the BA relationship.
+对吧？所以，S hkl 得到了解。对吧？接下来，呃，最棘手的部分是，你必须找出 BA 关系。
+
+Right? So that means you have to define the unit cells in the lattice. Right?
+对吧？所以这意味着你必须定义晶格中的晶胞。对吧？
+
+So the unit cell of the bottom one is the core as I said. It's a square lattice. Right? That is vector A1, A2, A9 in there.
+所以，底部的晶胞就是我刚才说的核心部分。这是一个正方晶格。对吧？那就是其中的矢量 A1、A2、A9。
+
+So the problem. Now, the thing is that, yeah, you have to define the unit cell in this one. But this is straightforward.
+所以，问题。问题是，是的，你得在这个例子中定义晶胞。但这很简单。
+
+You can draw unit cell in this one. Right?
+你可以在这个里面画出晶胞。对吧？
+
+So unit cell will be like this. Isn't it? Right?
+所以晶胞会是这样的。不是吗？对吧？
+
+So this is the unit cell. Unit cell means you can repeat it, right, in a, uh, two dimensional space. Along the characteristic manufacturers. Right?
+所以这就是晶胞。晶胞意味着你可以在，呃，二维空间中重复它，对吧？沿着特征制造商。对吧？
+
+So this is the unit cell. Right? Now, you can find it with the unit cell B and AB5.
+所以这是晶胞。对吧？现在，你可以用晶胞 B 和 AB5 来找到它。
+
+You can find the correlation in between the two. First of all, is B along the same direction as A1? Yes.
+你可以找出两者之间的相关性。首先，B 是否与 A1 沿着相同的方向？是的。
+
+And B2 along the same direction as A2? Yes. Okay? So there's no rotations between the two of them.
+B2 与 A2 方向相同吗？是的。明白吗？所以两者之间没有旋转。
+
+Okay? And how about B1 and A1 relationship?
+明白吗？那B1和A1之间的关系呢？
+
+They equal to each other?
+它们彼此相等吗？
+
+This equals to each other. Right?
+它们互等。对吧？
+
+And how about this one? B2 is three times of A2. Is that right?
+那这个呢？B2 是 A2 的三倍。对吗？
+
+Right? So it's equal geometry Cw, right? So this is, uh, uh, 3 by 1 lattice.
+对吧？所以它等于几何形状 Cw，对吧？所以这是，呃，呃，3乘1的晶格。
+
+Right? Uh, that you have more. Oh, sorry, 1 by 3 because I said this is A1.
+对吧？呃，你还有更多。哦，抱歉，是1乘3，因为我刚才说这是A1。
+
+Right? So first direction, the same. The second is three times 3.
+对吧？所以第一个方向也是一样。第二个是3乘3。
+
+1 by 3. Right? So you solve the boost location. Right? Now, let's try a few different cases. Right? Uh, to get yourself familiarized with this kind of, uh, location.
+1乘以3。对吧？所以你要确定提升位置。对吧？现在，我们来尝试几个不同的情况。对吧？呃，为了让自己熟悉这种，呃，位置。
+
+This is the one you follow. Right? So I usually tell you what is S hkl.
+这就是你要跟着的。对吧？所以我通常会告诉你 S hkl 是什么。
+
+Right? So I tell you this is SCC1OO structure. It's a typical or characteristic square lattice.
+对吧？所以我告诉你，这是 SCC1OO 结构。这是一个典型的或特征性的正方晶格。
+
+Of the blue circles at the bottom. Okay? And this is my, uh, add layer.
+底部的蓝色圆圈。明白吗？这是我的，呃，添加图层。
+
+I use the green blue circles. Okay? Right?
+我用绿色和蓝色的圆圈。明白吗？对吧？
+
+So, uh, I want to first draw the subject unit cell. Which is the square? Okay?
+所以，呃，我想先画出主晶胞。也就是正方形？好吗？
+
+Substrate. Bottom one.
+衬底。底部的那个。
+
+Okay?
+明白吗？
+
+And how about the assorted unit cell? The add atoms.
+那各种晶胞呢？添加原子。
+
+That'd be this.
+那就是这个。
+
+Right? Also a square. But it's larger.
+对吧？也是一个正方形。但它更大。
+
+Okay? So with that, can you tell what type of unit cell is that, the green one?
+明白吗？那么，根据这个，你能判断出绿色的那个是什么类型的晶胞吗？
+
+B?
+B？
+
+Or C? P means primitive. C means centered.
+还是C？P 表示原胞。C 表示心形。
+
+This one?
+这个？
+
+Primitive means you have one only one that is pointing there. So it's a primitive or centered.
+“原始”意味着只有一个指向那边。所以它是原点中心的。
+
+This is the unit cell that you draw.
+这就是你画的晶胞。
+
+Right? The green atoms. Is that right?
+对吧？绿色原子。对吗？
+
+Is it a primitive or centered? Huh? Centered.
+它是原胞还是心形晶胞？？中心格子。
+
+Where is the center?
+中心在哪里？
+
+Centered means you have to have a center in there. Right? Primitive means you have one and only one that is point.
+“centered”意味着里面必须有一个中心。对吧？“原始”意味着只有一个，而且它是一个点。
+
+You have one first, one first, one first, one first. You have one and only one that is point in the unit cell. Right?
+你先有一个，一个，一个，一个。晶胞中只有一个点。对吧？
+
+So this is a concept ever since many, many times. The last test in the exam. Okay?
+所以这是一个从很多很多次以来就一直存在的概念。考试中的最后一项测试。明白吗？
+
+Right? So this is the one. You have a primitive unit cell in there.
+对吧？所以就是这个。里面有一个原胞。
+
+And the relationship of B1, B2, I, I see some of you already figured out. Right? So this is, uh, this is a two times of the two.
+还有 B1、B2、I 之间的关系，我看到你们有些人已经想出来了。对吧？所以这是，呃，这是两个的两倍。
+
+This is the two times of the two. So it's a two by three. So it's a primitive two by three cell.
+这是二的二倍。所以这是一个二乘三的。所以这是一个最简的 2×3 晶胞。
+
+Right? It's a primitive usually. You omit the P.
+对吧？通常是原胞。你省略 P。
+
+Right? This is, uh, centered. You put the center.
+对吧？这是，呃，中心的。你把中心放进去。
+
+You put the C there. Right? So if you don't have any letters in there, that means you're primitive cell.
+你把 C 放在那里。对吧？所以，如果里面没有任何字母，那就意味着这是原胞。
+
+All right? Works it? Okay.
+明白吗？明白吗？好的。
+
+Now, next one.
+现在，下一个。
+
+Similar case. Right? But then, uh, we are starting on a different substrate.
+类似的情况。对吧？但是，呃，我们开始时使用的基底不同。
+
+So we have SCC1O. Okay? So this is, uh, uh, SS.
+所以我们有 SCC1O。明白吗？所以这是，呃，呃，SS。
+
+Uh, rectangle lattice instead of squares. Right? So this is smaller, and this one. Okay? When you draw this in lattice, right, basic lattice, and then, uh, I put add atoms, uh, characteristic locations like this.
+呃，矩形晶格，而不是正方形。对吧？所以这个更小，而这个……明白吗？当你把这个画成晶格时，对吧，也就是基本晶格，然后，呃，我添加原子，呃，像这样放置特征位置。
+
+Then you draw the lattice again. You see this is very similar to the previous case. Right?
+然后你再画一次晶格。你可以看到，这和前面的情况非常相似。对吧？
+
+And everything's the same. So this is also a two by two lattice. Right? Now, let's look at a slightly more complicated case.
+一切都一样。所以这也是一个二乘二的晶格。对吧？现在，我们来看一个稍微复杂一点的情况。
+
+Right? Uh, so we don't have rectangle relationships. Uh, so the blue one is the bottom.
+对吧？呃，所以我们没有矩形关系。呃，所以蓝色的那个在下面。
+
+And the green one is the lattice formed by the add atoms. Although this is not rectangle, but then, uh, you see they're the same. They're no locations.
+绿色的是由加原子形成的晶格。虽然这不是矩形，但你看，呃，它们是一样的。它们没有位置。
+
+And the green one is two times blue one still a two by two lattice. Isn't it? So it's straightforward.
+绿色的是蓝色的两倍，仍然是一个 2×2 的晶格。不是吗？所以这很简单。
+
+Right? But the last one, uh, can be ambiguity. Right?
+对吧？但最后一个，呃，可能会有歧义。对吧？
+
+Why is it ambiguity? Right? Again, we look at the bottom one.
+为什么它会是歧义的？对吧？我们再看下面这个。
+
+The blue open circles. That's the substrate. Right?
+蓝色的空心圆。那是底物。对吧？
+
+Can we draw the unit cell? Yes. A square.
+我们能画出晶胞吗？可以。一个正方形。
+
+Right? So this is should be very familiar now because we have exercised this so many times. Okay?
+对吧？所以这个现在应该非常熟悉了，因为我们已经练习过很多次了。明白吗？
+
+And now, add add atoms.
+现在，添加，添加原子。
+
+Now, you see there's orange ones. And I ask you to draw the unit cells.
+现在，你看到有橙色的。然后我要求你们画出晶胞。
+
+So drawing unit cells is actually a consultant different ways how to draw. Right? The only is that primitive unit cells you can take one only one that is point.
+所以，绘制晶胞实际上有多种不同的绘制方法。对吧？唯一的是，对于原胞，你只能取一个，也就是点。
+
+You can, you can have non-primitive unit cells. That's no problem with that. That just takes more than one.
+你可以，你可以有非原胞。这没问题。那只需要不止一个。
+
+Right? So here you see I draw the unit cells of the add layers in two different manners. Right?
+对吧？所以在这里，你可以看到，我用两种不同的方式画出了叠层的晶胞。对吧？
+
+So in the first manner, right, I draw this large cell. That one is not a primitive cell. Is that right, so?
+所以第一种方式，对吧，我画的是这个大晶胞。那个不是原胞。对吗，所以？
+
+So I have that in point here, that in point here, this could be the boost, and that in point here. So this is a centered lattice. Right?
+所以我这里有这个点，这里这个点，这可以是 boost，还有这里这个点。所以这是一个中心格子。对吧？
+
+And that's the case how many atoms in there? Two. So this is non-primitive unit cell.
+那么在这种情况下，里面有多少个原子？两个。所以这是一个非原胞。
+
+Okay?
+明白吗？
+
+Or alternative case. I can draw the green. Would that work? That work, right? So as long as I can move the unit cell along characteristic directions, I can repeat my lattice.
+或者另一种情况。我可以画绿色的。这样可以吗？这样可以，对吧？所以，只要我沿着特征方向移动晶胞，就可以重复晶格。
+
+I'm good. Okay? So I can do that as well.
+我明白了。明白吗？所以我也可以这么做。
+
+So this time I can move along this way. Or that way. Or it's still good.
+所以这次我可以沿着这条路走。或者那样。或者这样也行。
+
+So there are two different ways you can draw. One is non-primitive cell. The other is primitive unit cell.
+所以有两种不同的画法。一种是非原胞。另一种是原胞。
+
+Okay? For the add lattice. Now, let's, let's look at the different cases.
+明白吗？对于加法晶格。现在，我们来看一下不同的情况。
+
+Right? So, uh, SCC1OO as a substrate. A unit cell is the blue. Right? Now, let's look at the red one first, which is going here, which is a centered cell.
+对吧？那么，呃，以 SCC1OO 为衬底。一个晶胞是蓝色的。对吧？现在，我们先来看红色的那个，它指向这里，是一个心形晶胞。
+
+Right? So we can put down C. Right?
+对吧？所以我们可以写上 C。对吧？
+
+Now, for the centered cell, is there a location? Which is the blue one? No, there's no location.
+那么，对于居中的单元格，它有一个位置吗？哪个是蓝色的那个？没有，没有位置。
+
+Very good. How about the size relationship? This one is two times of this one.
+非常好。大小关系呢？这个是这个的两倍。
+
+Right? So this will be a C. Two by two cell.
+对吧？所以这个会是一个 C。二乘二的单元格。
+
+Two by two's location.
+二乘二的位置。
+
+Okay? Now, how about the green one then?
+明白吗？那么，绿色的那个呢？
+
+Very good. Right? So if you look at this square, you will see this is a diagonal.
+非常好。对吧？所以，如果你看这个正方形，就会看到这是一条对角线。
+
+This is a diagonal. Okay? The diagonal is a square with a two.
+这是一条对角线。明白吗？对角线是一个带有数字 2 的正方形。
+
+Times A. Right? So now your blue lattice is a square with a two and also a square with a two. So the square with a two by square with a two.
+乘以 A。对吧？所以现在你的蓝色晶格是一个边长为2的正方形，也是一个边长为2的正方形。所以，边长为二的正方形乘以边长为二的正方形。
+
+Okay? And the rest. Is that okay?
+明白吗？还有其他的。这样可以吗？
+
+It okay? Okay. How many degrees?
+可以吗？好的。多少度？
+
+45 degrees. So you have to put that location.
+45度。所以你得标出那个位置。
+
+Right? So this is also you have a square with a two times I square with a two and rotate it 45 degrees. So that's complete.
+对吧？所以这里也是一个正方形，边长为二，再旋转45度。所以就完成了。
+
+If you have interlocation angle, how would you put it down? Right? So that's that.
+如果有相对位置角，你会怎么把它标出来？对吧？所以就是这样。
+
+Right? And, uh, this one. The blue region.
+对吧？还有，呃，这个。蓝色区域。
+
+Right? So here, I have instead of, uh, single atom, attached on the surface. Now, I have a only two.
+对吧？所以这里，我有附着在表面上的，呃，不是单个原子。现在，我只有两个。
+
+Attached on the surface. This molecule is carbon. Uh, oxide.
+附着在表面上。这个分子是碳。氧化物。
+
+CO. Right? So you have a carbon.
+CO。对吧？所以你有一个碳。
+
+You have oxygen. Right? So what this molecule seems on the surface.
+你有氧。对吧？所以，从表面上看，这个分子……
+
+Right? What is my surface? This is my carbon monoxide. Right?
+对吧？我的表面是什么？这是我的一氧化碳。对吧？
+
+It doesn't sit on, like, straightforward way like this. So it's tilted. Right? So on the first, on the first row, this.
+它不会像这样以一种很直接的方式附着。所以它是倾斜的。对吧？所以在第一行，第一行，这个。
+
+Right? It's tilted on the left. On the second row, it's tilted on the right.
+对吧？它向左倾斜了。第二行，它向右倾斜。
+
+Right? So it's, uh, alternating in this ways. And then that was drawn on this lattice.
+对吧？所以它以这种方式交替。然后，那个被画在这个晶格上。
+
+Right? Now, I already did the same thing to find the boost location. And this is, uh, see, this thing sounds like a little bit similar to what we have before.
+对吧？现在，我已经用同样的方法找到了提升位置。这个，呃，你看，这个听起来有点类似于我们之前遇到的情况。
+
+Remember? You see these carbon monoxide molecules are actually taking exactly the same size as this one. See?
+还记得吗？你看，这些一氧化碳分子实际上占据的空间和这个完全一样。看到了吗？
+
+And then the difference is that the molecules are tilting a little bit. Right? With left and right in the alternating manner.
+然后不同之处在于，这些分子稍微倾斜了一点。对吧？分子以左右交替的方式倾斜。
+
+Right? How are you to draw the lattice? And divide it.
+对吧？你该如何画晶格？并将其划分。
+
+Well, the bottom substrate is always the same. Okay? Now, the important thing is that, uh, the center. Right? How are you from this atomic direction actually in terms of the lattice?
+嗯，底部衬底总是一样的。明白吗？现在，重要的是，呃，中心。对吧？实际上，从这个原子方向来看，它在晶格中是如何分布的？
+
+How are you to draw it? This one?
+你要怎么画它？这个？
+
+Can we draw this way?
+我们可以这样画吗？
+
+Where?
+哪里？
+
+Why not?
+为什么不呢？
+
+Now, I'm asking you, I draw this lattice.
+现在，我问你，我画出这个晶格。
+
+This is the atomic structure. I'm saying, can I draw the lattice?
+这是原子结构。我是说，我可以画出晶格吗？
+
+So this is a, a common confusion with the difference in between the real atomic structure and the definition of the lattice. Now, I'm I emphasize this many, many times in the previous lectures. This line structure is not the same as boosted lattice. You know, that is, you don't have atoms in it.
+所以，对于真实原子结构与晶格定义之间的区别，这是一个常见的误解。现在，我在之前的讲座中多次强调这一点。这种线结构与提升后的晶格并不相同。你知道，也就是说，里面没有原子。
+
+That is empty. Right? Can I draw such a lattice?
+它是空的。对吧？我可以画出这样的晶格吗？
+
+That means I only have an empty free square. And my lattice point is on the full corner. So there's no center.
+这意味着我只有一个空的自由方格。我的晶格点位于完整的角上。所以没有中心。
+
+And that, yes, as long as this is my unit cell, right, I can move my unit cell repeatedly in this way. So there's no limit. By drawing this way.
+是的，只要这是我的晶胞，对吧，我就可以像这样反复移动晶胞。所以没有限制。像这样画。
+
+In other words, I abstract the whole thing into one lattice point.
+换句话说，我把整个东西抽象成一个晶格点。
+
+So that's how you draw the lattice.
+所以，这就是绘制晶格的方法。
+
+Okay? So with that, then you will realize the difference in the previous case. In the previous case, because all these atoms are the same, all these atoms are the same.
+明白吗？有了这个，你就会意识到与之前情况的区别。在前一种情况下，因为所有这些原子都相同，所有这些原子都相同。
+
+Right? So the primitive lattice contains one lattice point. It's actually this.
+对吧？所以，原胞包含一个晶格点。其实是这个。
+
+It's a much smaller module or area. Compared to this one. And then you cannot do the same thing for this case.
+它的晶格模块或面积要小得多。与这个相比。然后，对于这种情况，你不能采用同样的做法。
+
+You cannot draw this right? You cannot draw this because they're not the same. These four points.
+你不能画这个，对吧？你不能这样画，因为它们不一样。这四个点。
+
+They're not the same. Right? So it doesn't work anymore. Right? So in this case, the unit cell that you find in this case is a primitive unit cell.
+它们不一样。对吧？所以这不再行得通了。对吧？所以在这种情况下，你在这里找到的晶胞是原胞。
+
+It contains one and only one lattice point. But two atoms in it.
+它只包含一个晶格点。但它包含两个原子。
+
+Okay? Right? So this is a very tricky process to follow. Right? So when you put it out, right, when you put it out, you see this one, the no the, the, the boost location is exactly the same as this one in terms of two by two.
+明白吗？对吧？所以，这个过程很难把握。对吧？所以当你把它放出来时，对吧，当你把它放出来时，你会看到这个，不，这个，这个，boost 位置在二乘二方面和这个完全一样。
+
+Right? But it doesn't have a seam. It's a primitive cell.
+对吧？但它没有接缝。这是一个原胞。
+
+It's a primitive cell. Right? And the final boost location is really here. If I tell you I start from a nickel 100 substrate, which is a square lattice, right, I have a primitive.
+这是一个原胞。对吧？而最终的提升位置确实在这里。如果我告诉你，我从镍（100）衬底开始，它是一个正方晶格，对吧，我有一个原胞。
+
+You don't have to write it if you want to omit. Right? Two by two.
+如果你想省略，就不必写出来。对吧？二乘二。
+
+Lattice. Right? And in each of the unit cell, you have two. Carbon monoxide molecules in there. So you have the four corners is one.
+晶格。对吧？每个晶胞中有两个。里面有二氧化碳分子。所以四个角各有一个。
+
+And the center is another one. So the four corners why is one? Because they're the same.
+中心是另一个。那么，为什么四个角算一个？因为它们是相同的。
+
+You can cut one portion of it for each of them.
+你可以为它们中的每一个切出一部分。
+
+Okay? So that's the, uh, the little bit tricky part. Currently, in the CM, uh, the student structures.
+明白吗？所以这就是，呃，稍微有点棘手的部分。目前，在 CM，呃，学生结构中。
+
+Right? Uh, now, uh, for some of you who are not good at the geometries, you say, "Oh my God, if you look at all the squares and open circles and closed circles and metric distance of the, of the, I cannot do that." Right? Now, I'll show you a simple method to figure out the relationships. Right? Which is used to matrix locations.
+对吧？呃，现在，呃，对于你们当中不擅长几何学的一些人来说，你们会说：“天哪，如果你看所有这些正方形、空心圆、实心圆，以及……的度量距离，……的，……的……”我做不到。”对吧？现在，我会向你们展示一种简单的方法来弄清楚这些关系。对吧？用于矩阵位置。
+
+Right? Now, think about it. Why this works with matrix?
+对吧？现在，想一想。为什么这能和矩阵一起使用？
+
+Right? And here, when we're debating is that I have one lattice.
+对吧？这里，当我们讨论时，我有一个晶格。
+
+Right? This is the point of it. Right? And I have another lattice.
+对吧？这就是它的要点。对吧？我还有另一个晶格。
+
+I want to find out the relationship between these two lattices. Let's say two coordinate systems. Right?
+我想找出这两个格之间的关系。假设是两个坐标系。对吧？
+
+So whenever you compare that, right, you can use the matrix to connect the problem. This is the same thing like doing that in real space and virtual space. Basically, you find the coordinate system and you see how to do the change of one to the other.
+所以，每当你比较这两个坐标系时，对吧，你就可以用矩阵来连接这个问题。这和在真实空间和虚拟空间中那样做是一样的。基本上，你要找到坐标系，并了解如何从一个坐标系转换到另一个坐标系。
+
+Right? So now, uh, and this will make it simpler to work. Right? So you can truly, uh, replace here remember, right, in there before SKL and what's in here before, you have the size relationship and the rotation angle.
+对吧？所以现在，呃，这样会更方便计算。对吧？所以你可以真正地，呃，替换这里。记住，对吧？在 SKL 之前的那里，以及这里之前的内容，你有尺寸关系和旋转角度。
+
+Right? Now, I'm going to use a matrix to represent all of that. And you're going to see, right, uh, how easy that is.
+对吧？现在，我要用一个矩阵来表示所有这些内容。你们会看到，对吧，呃，这有多么简单。
+
+Right? Now, we're looking at the same thing.
+对吧？现在，我们看到的是同一个东西。
+
+The brains are B, the blues are A. Okay? So how about B1 and A1 relationships?
+大脑是B，蓝色的是A。明白吗？那么，B1 和 A1 之间的关系呢？
+
+So B1 basically is, right, A1 stacked on the same direction without any contribution from A2. Is that right? So it's 2A1 plus 0A2.
+所以，B1基本上就是，对吧，A1沿同一方向堆叠，而A2没有任何贡献。对吗？所以是2A1加0A2。
+
+Right? And how about this one? It's 0A1 plus 2 times A2.
+对吧？那这个呢？它是 0A1 加 2 倍的 A2。
+
+So your matrix is this one. Right? So matrix is a number before A1A2.
+所以你的矩阵是这个。对吧？所以，矩阵就是 A1A2 前面的数字。
+
+Right? So simple matrix operations. All right? And this one, right, because the geometry is so simple, does not help you too much.
+对吧？所以，简单的矩阵运算。明白吗？而这个，对吧，因为几何结构太简单了，对你帮助不大。
+
+Right? And this, you can see a little bit things with rotation. Right? Now, I start with A1A2.
+对吧？而这个，你可以看到一些与旋转有关的东西。对吧？现在，我从 A1A2 开始。
+
+Right? So what is my B1? For representation that B1 is A1 plus A2. Is that right? So I put A1 plus A2.
+对吧？那么，我的 B1 是什么？对于这种表示，B1 等于 A1 加 A2。对吗？所以我写的是 A1 加 A2。
+
+How about my B2? B2 is my minus A1 plus A2. So my minus A1 plus A2, number matrix is straightforward.
+那我的 B2 呢？B2 是负 A1 加 A2。所以，我的负 A1 加 A2，数值矩阵很简单。
+
+You don't have to figure out any angles for measurements. So vector summations. Right? And things become even more straightforward if you look at this.
+你不需要计算任何用于测量的角度。所以，向量相加。对吧？如果你看这个，事情就会变得更容易理解。
+
+But the biggest thing that asks you to calculate is kind of straightforward. Right? Now, I'm going to ask you to calculate the angles in the sort of the summation.
+但要求你计算的最大项其实相当简单。对吧？现在，我要你们计算一下这个求和式中的角度。
+
+That will be difficult. Right? But now, if you draw the vector summations, let me show you how simple is that.
+那会很难。对吧？但现在，如果你画出向量相加，我来给你演示一下这有多简单。
+
+Right? So you just draw along A1 and A2 directions and form a lattice. Right? And now you'll see this one represents your B1. Right?
+对吧？所以你只需沿 A1 和 A2 方向画出并形成一个晶格。对吧？现在你会看到，这个代表你的 B1。对吧？
+
+So that is two times A1 plus A2. Is that right? Now, how about your B2?
+所以，那是 2A1 加 A2。对吗？那么，你的 B2 呢？
+
+So which is here. That is my minus A1 plus A2. Is that right?
+也就是这里。那就是负的 A1 加 A2。对吗？
+
+So your minus A1, this is A1, this is minus A1. So your B2 is here. Right?
+所以你的负 A1，这是 A1，这是负 A1。所以你的 B2 在这里。对吧？
+
+So vector summations will solve the problem in no time. Right? You don't have to do the calculations that were used much smaller or much much more straightforward.
+所以用向量相加很快就能解决这个问题。对吧？你不必进行那些计算，因为它们要简单得多，或者简单得多。
+
+Right? And that is, uh, uh, sort of a 3D picture of how these atoms actually were molecules sitting on the substrate surface. Right? Now, real stuff. Right?
+对吧？这算是一个三维图像，展示了这些原子实际上是如何排列成分子，又如何分布在衬底表面上的。对吧？现在，来看真实的东西。对吧？
+
+Uh, this haven't get us into the reciprocal space. We're just talking about the definition of the boost locations, how to describe some surface structures. Stick on the substrate surface. Right? Now, uh, we're going to exercise a little bit from the real space to the reciprocal space and backwards.
+呃，这还没有让我们进入倒易空间。我们只是在讨论提升位置的定义，以及如何描述某些表面结构。附着在衬底表面。对吧？现在，呃，我们要做一些从实空间到倒易空间，再返回实空间的练习。
+
+Right? So this is what we have. We start from a real space lattice. Right?
+对吧？这就是我们所拥有的。我们从实空间晶格开始。对吧？
+
+And we know how to draw the corresponding reciprocal space lattice. We have a few trials. Right? And when key point is that your detection pattern or lead pattern obtained from the machine.
+我们知道如何画出相应的倒易空间晶格。我们试了几次。对吧？关键点在于，你的检测图案或衍射图案是由机器获得的。
+
+Right? Is a replica. Of your reciprocal lattice.
+对吧？是复制品。你的倒易晶格的。
+
+But then that's only a replica. It's not the same. Right? Because you're taking a picture.
+但那只是个复制品。它并不相同。对吧？因为你是在拍照。
+
+You're enlarging the original, uh, uh, reciprocal lattice. It's not the same size. Right?
+你是在放大原始的，呃，呃，倒易晶格。它不是同一个尺寸。对吧？
+
+So that has to be taken consideration by calculating the factor lengths. Right? But then the ratio will be the same. What I mean is that if you look at the ratio between A1 star and A2 star in the corresponding detection pattern is the same as R1 R2.
+所以在计算因子长度时必须考虑到这一点。对吧？但这样比率会保持不变。我的意思是，如果看相应探测图案中 A1 星与 A2 星之间的比值，它与 R1 R2 相同。
+
+All right? And the symmetry will be the same as well. Right?
+明白吗？而且对称性也会相同。对吧？
+
+So basically, you can use this one. Right? Sort of use what happens in your real space, real space uses.
+所以基本上，你可以用这个。对吧？某种程度上，利用现实空间中发生的情况，现实空间的用途。
+
+All right?
+明白吗？
+
+Okay. Now, uh, from the real space, we can use the detection patterns. We have to try a few times.
+好的。现在，呃，我们可以利用现实空间中的检测模式。我们得试几次。
+
+We can practice the lattice already. Right? Now, how about how would you be able to draw the real space lattice or, uh, atom structures?
+我们已经可以练习晶格了。对吧？那么，你们该如何画出实空间晶格，或者，呃，原子结构呢？
+
+Right? What's the reciprocal space information? Now, here is an example.
+对吧？倒易空间信息是什么？现在，这里有一个例子。
+
+If you look at this as a detection pattern that you took. Right? Now, how would you be able to find out how the real space lattice looks like?
+如果你把它看作你拍下的衍射图案。对吧？那么，你如何确定真实空间晶格是什么样的呢？
+
+Very straightforward. Right? Now, if I pick up this lattice point, right, now I'm asking you, is not this lattice point represents I know in the reciprocal lattice, right, this lattice point corresponding to a lattice vector R1 coming from the origin pointing to this point.
+非常简单。对吧？现在，如果我取这个晶格点，对吧，现在我问你，这个晶格点不表示——我知道，在倒易晶格中，对吧，这个晶格点对应于从原点出发、指向这个点的晶格向量 R1。
+
+What is that?
+那是什么？
+
+We're commonly asking questions that ask many times. Is that, uh, lattice point in the reciprocal space represent what?
+我们经常问一些反复出现的问题。那，呃，倒易空间中的晶格点代表什么？
+
+So the reciprocal lattice vector is a direction. That's what direction it is.
+所以，倒易晶格矢量表示一个方向。它就是那个方向。
+
+That direction represents or correlates something in the real space pointing that thing.
+这个方向代表或关联着实空间中的某个东西，指向那个东西。
+
+So that is the most important thing or essence we try to learn from the real space and the reciprocal space. There's a connection between the two. What's the connection?
+所以，这是我们试图从实空间和倒易空间中了解的最重要的东西，或者说本质。两者之间存在联系。两者之间有什么联系？
+
+So you read the detection pattern. When you're reading there, what do you see? You see spots here.
+所以，你读取检测模式。当你在那里阅读时，你看到了什么？你在这里看到一些斑点。
+
+So what are these spots?
+那么，这些斑点是什么？
+
+What are these spots represent in the real space?
+这些斑点在现实空间中代表什么？
+
+All right. This is, I guess, maybe the first time or fourth time that I said. A reciprocal lattice vector is a direction.
+好的。我想，这可能是我第一次或第四次说了。倒格矢量是一个方向。
+
+And that direction is called HKL.
+这个方向称为 H、K、L。
+
+So what is HKL? That is a plane in the real space. So that's the connection.
+那么，HKL是什么？那是实空间中的一个晶面。所以这就是联系。
+
+So that direction, HKL, is the normal of the plane HKL. All right? So I'm going to use that. Right? So I'm going to draw a parallel line sorry.
+所以，这个方向，HKL，就是 HKL 平面的法线。明白吗？所以我要用这个。对吧？所以我要画一条平行线，抱歉。
+
+I'm going to draw a line perpendicular to my R1. Okay? So that means this is my plane.
+我要画一条与我的 R1 垂直的线。好吗？所以这意味着这就是我的平面。
+
+Right? So you can imagine there's a series or a set of parallel planes all perpendicular to my R1. Okay?
+对吧？所以你可以想象，有一系列或一组平行平面，都垂直于我的 R1。明白吗？
+
+So the R1 is the plane normal of these kind of planes. Right? Now, for this kind of planes, there will be a new spacing. So what is new spacing?
+所以，R1 是这些平面的法线。对吧？现在，对于这类平面，会有一个新的间距。那么，什么是新间距？
+
+It's 1 over R1. Is that right? Right?
+它是 1/R1。对吗？对吧？
+
+So with that, I can draw, uh, that data set of planes. Right? With that being perpendicular to my R1 and the separation distance inwards of R1.
+所以有了这个，我就可以画出，呃，那个平面数据集。对吧？它垂直于我的 R1，并且向内与 R1 之间的距离。
+
+Okay? So I can set the distance. Now, I can do the same thing for my R2.
+明白吗？所以我可以设定这个距离。现在，我也可以对 R2 做同样的操作。
+
+Okay? So I draw another set of planes with these spacing determined by the size of R2. Right? And the intersection of these planes gives me atomic positions.
+好吗？所以我再画一组间距，让它们由 R2 的大小决定。对吧？这些晶面的交线就给出了原子位置。
+
+Because they are the real atomic planes that I have.
+因为它们就是我所拥有的真实原子面。
+
+Right? This is, uh, how you get the, uh, from your real space to the real space. Right? Uh, but they are the same thing. They is always the same thing. You follow the relationship between the real space and the reciprocal space relationships.
+对吧？这就是，呃，如何从实空间得到，呃，实空间。对吧？呃，但它们是同一个东西。它们始终是同一回事。你遵循实空间与倒易空间之间的关系。
+
+Right? Now, with that, right, uh, we can have the trials of, uh, deciphering the, um, detection patterns and the lead patterns of the atom layers. Right? Now, again, um, so this kind of question can only be asked from two sides.
+对吧？那么，有了这个，对吧，呃，我们就可以尝试，呃，解读原子层的探测模式和导带模式。对吧？那么，同样，嗯，这类问题只能从两个方面来问。
+
+Either that, uh, I give you, uh, how the lattice looks like or how the atomic structure looks like in the real space. And ask you, what do you expect in the reciprocal space for a detection pattern? Or I give you the detection pattern and ask you, uh, what will be like for the atom layer structures of molecular substrates in the real space?
+要么，呃，我告诉你晶格是什么样的，要么告诉你实空间中的原子结构是什么样的。然后问你：对于探测图案，你预期在倒易空间中会看到什么？或者，我给你探测图案，然后问你，呃，分子衬底在实空间中的原子层结构会是什么样的？
+
+So this is the two things I'm going to play around and ask you that. All right? So let's look at one such examples. Right?
+所以，这就是我要尝试探讨并问你们的两个问题。明白吗？那么，我们来看一个这样的例子。对吧？
+
+Uh, this is, uh, a substrate. We saw many times that we square lattice. Right? Uh, marked by characteristic lattice vectors A1, A2.
+呃，这是一个衬底。我们多次见过正方形晶格。对吧？由特征晶格矢量 A1、A2 标记。
+
+Already spots on the atom layers. On top of it. Okay? And we're going to, uh, take the detection pattern from the substrate first.
+原子层上的斑点已经存在。在它上面。明白吗？然后，呃，我们先获取衬底上的检测图案。
+
+So that gives me the kind of spots. In there. Corresponding to the A lattice.
+这样就会得到那种斑点。在其中。对应于 A 晶格。
+
+Straightforward? So again, one more trial, uh, my last explanation. You have A1, A2.
+简单明了？所以，再来一次尝试，呃，我最后的解释。你有 A1、A2。
+
+All right? So where is my A1 star? This right here.
+明白吗？那么，我的 A1 星在哪里？就在这里。
+
+Right? Perpendicular to my A2. All right?
+对吧？垂直于我的 A2。明白吗？
+
+A2 star. Perpendicular to my A1. Okay?
+A2 星。垂直于我的 A1。明白吗？
+
+So I have my A1 star and A2 star here. Direction first. Then size. So in real space, it's small.
+所以我这里有 A1 星和 A2 星。方向第一。然后是大小。所以在实际空间中，它很小。
+
+That means in the reciprocal space, it's large. Okay? Now, my atom layer.
+这意味着在倒易空间中，它很大。明白吗？现在，我的原子层。
+
+So my atom layer, I see they are of the same lattice. That means for the P1 star, P2 star, they're taking along the same direction as A1 star and A2 star. All right?
+所以我的原子层，我看到它们具有相同的晶格。这意味着，对于 P1 星、P2 星，它们与 A1 星和 A2 星沿相同的方向延伸。明白吗？
+
+So direction swap. Now, size relationship. Now, my P1, two types of A1.
+所以方向互换。现在，来看大小关系。现在，我的 P1，两种 A1。
+
+In the real space, that means one word, variance in the real space. So you can expect that lattice spots sorry, detection spots will be appearing here, there, there, there, there, in halfway locations. This is all right.
+在真实空间中，这意味着一个词，即真实空间中的方差。所以你可以预期，晶格点——抱歉，是探测点——会出现在这里、那里、那里、那里、那里，以及中间位置。这没问题。
+
+Similar case. Right? Uh, you have A1, A2, B1, B2.
+类似的情况。对吧？呃，你有 A1、A2、B1、B2。
+
+Now, you should get this up there near your wrist. Whenever you have a square lattice, you know, A1 and A2 star or P1 star along the same directions as A1 and the P1. Okay? So you can draw, uh, A1 star, lattice, and P1 star and P2 star lattice.
+现在，你应该把这个举到手腕附近。每当存在正方晶格时，你知道，A1 和 A2 星，或者 P1 星，都与 A1 和 P1 沿着相同的方向。明白吗？所以你可以画出，呃，A1星格子，以及P1星格子和P2星格子。
+
+All right? Now, the only thing you need to figure out is size relationship. Again, in this case, it's straightforward.
+明白吗？现在，你唯一需要弄清楚的是它们的大小关系。同样，在这种情况下，这很简单。
+
+So this is one. P1 is a square reduction of A. Okay?
+所以这是1。P1 是 A 的平方约简。明白吗？
+
+This is a square. This is a diagonal. It's a square with a 2.
+这是一个正方形。这是一条对角线。这是一个带有 2 的方阵。
+
+Okay? So that in the reciprocal space, there will be 1 over a square with a 2. Right? We get the same thing. The real space is larger.
+明白吗？所以在倒易空间中，会有 1 除以具有 a² 的平方。对吧？我们得到的是同一个结果。实空间更大。
+
+In the reciprocal space, it will be smaller. Right?
+在倒易空间中，它会更小。对吧？
+
+You can always add that. Right? Now, uh, this is, uh, uh, one more complicated, uh, example.
+你总是可以加上那个。对吧？现在，呃，这是，呃，呃，另一个更复杂的，呃，例子。
+
+Right? I start with, uh, reciprocal space lattice. Right?
+对吧？我先从倒易空间晶格讲起。对吧？
+
+So this is my original, uh, detection pattern. Taking from a plane constant normal space. And now, after calculating, uh, layer of oxidant, right, my detection pattern changed. Right? So you have now, this is a bit of a, uh, misleading part of the next one.
+所以这是我的原始，呃，探测图案。取自一个平面恒定法向空间。现在，计算出氧化剂层之后，对吧，我的检测模式发生了变化。对吧？所以现在，这是下一个部分中有点误导性的内容。
+
+That is the reciprocals are additional detection spots appearing. Okay? Right?
+也就是说，互为倒数的检测点会额外出现。明白吗？对吧？
+
+Because it overlaps with the original detection spots of this one. So they're actually here as well. It's not that the old reciprocal space is here.
+因为它与这个的原始检测点重叠。所以它们其实也在这里。并不是说旧的倒易空间在这里。
+
+They're here as well. They're overlapping right now. Right?
+它们也在这里。它们现在重叠在一起。对吧？
+
+So this is a new detection content that I will be creating. Right? Now, my question is that, so what will be like? Uh, for the absolute layers, absolute layers, uh, of the constant of the oxygen on the constant normal?
+所以，这是我将要创建的一个新的检测内容。对吧？那么，我的问题是，它会是什么样的？呃，对于绝对层，绝对层，呃，氧的常数在常数正常情况下的？
+
+Right? So when we're saying same thing, right, and then you go later, it's no difference. But first of all, you have to draw the lattice of A.
+对吧？所以当我们说同样的东西时，对吧，然后你之后再看，也没什么区别。但首先，你必须画出 A 的格子。
+
+Right? So small in reciprocal space means large and in the real space or small in the real space means large in the reciprocal space. So the first, right, draw the lattice of A in the real space.
+对吧？所以在倒易空间中越小，在实空间中就越大；或者在实空间中越小，在倒易空间中就越大。所以第一步，对吧，画出实空间中 A 的晶格。
+
+That's square. Okay? And then you have to decide where is the B lattice.
+那是正方形的。明白吗？然后你必须确定B晶格在哪里。
+
+So what's the relationship? Well, you can sell B.
+那么，两者有什么关系？嗯，你可以卖B。
+
+So it's 1 over 2. That means in the real space is 2 times 2 times. So it's a 2 by 2 lattice.
+所以是二分之一。这意味着在实际空间中是2乘以2。所以这是一个2×2的晶格。
+
+All right? So you draw B by 2 lattice. Right?
+明白吗？所以你画出 B/2 晶格。对吧？
+
+So it's actually quite straightforward.
+所以其实非常简单。
+
+Right? And, uh, who would aim up with this condition with you? Okay?
+对吧？那么，呃，谁会和你一起用这个条件瞄准向上？明白吗？
+
+Okay. Uh, same thing. Right?
+好的。呃，一样。对吧？
+
+I leave this to you. I'll go back to think about it. Right? But again, so the already spots, right, already spots, right, are the newly appeared detection spots after you deposit the surface layers.
+这个留给你们。我会回去再想想。对吧？不过，再说一遍，那些已经出现的斑点，对吧，已经出现的斑点，对吧，是在沉积表面层之后新出现的检测斑点。
+
+But that, it does not say here what's going to happen. Here also happen detection spots. Right?
+但这里并没有说明会发生什么。这里也会出现检测斑点。对吧？
+
+Contributed by the origin. Right? So then you can draw, uh, the lattice like this.
+由起源处贡献。对吧？所以你可以像这样画出晶格。
+
+Okay? So I leave this to your right for your, uh, actually, right, for a little bit. Uh, and, uh, one thing to mention is that, um, sometimes we get a new pattern. Right? Of similar symmetries. But then, uh, in these cases, you don't really know where are the exact locations of these atom patterns.
+明白吗？所以我把这个留给你们右边，呃，其实，对，稍微留一下。呃，还有一点要提的是，嗯，有时候我们会得到一个新的图案。对吧？具有相似对称性的。但是，在这些情况下，你并不真正知道这些原子图案的具体位置。
+
+For example, right, you see, uh, if you see the new pattern of the three, uh, scenarios, the detection pattern will be simply the same because the symmetry is the same. How's the last? Right?
+例如，对吧，你看，呃，如果你看这三种情况的新图案，探测图案就会完全相同，因为对称性相同。最后一个怎么样？对吧？
+
+So each atom atoms are actually sitting on different chemistry centers, right, along the involvement substrate. Right? So there's no way you can figure out that. You only know the symmetry. Right? Now, my last example, right, which is the most confusing one.
+所以，每个原子实际上都位于不同的化学中心，对吧，沿着参与底物。对吧？所以你根本无法弄清楚这一点。你只知道对称性。对吧？现在，我的最后一个例子，对吧，也是最令人困惑的一个。
+
+Right? Uh, is that in any cases, right, uh, if you have only one sample of the new pattern, this is one of the detection pattern you can tell whether it's a good cell and solve the problem. But if you have more than one sample of detection pattern, right, and that becomes a bit confusing. So here is a sample showing, uh, how come that happens and how to differentiate between of them.
+对吧？呃，也就是说，在任何情况下，对吧，呃，如果你只有新模式的一个样本，这是其中一个检测模式，你可以判断它是否是良性的细胞，并解决问题。但如果你有不止一个检测模式样本，对吧，那就会有点令人困惑。所以这里有一个示例，展示了这是如何发生的，以及如何区分它们。
+
+Now, uh, let's look at, uh, in this situation. This is a common silicon, uh, substrate. Uh, sorry, sorry.
+现在，呃，我们来看一下这种情况。这是一块普通的硅衬底。呃，抱歉，抱歉。
+
+Silicon surface. Right? So silicon, uh, 100 surface.
+硅表面。对吧？所以是硅，呃，100面。
+
+Silicon is a diamond structure. So it's a cubic structure. It's 100 surface.
+硅具有金刚石结构。所以它是一种立方结构。这是（100）面。
+
+It's a square lattice. Right? Square lattice.
+它是一个正方晶格。对吧？正方晶格。
+
+Okay? But what happens on the silicon surface is that, right, for these atoms sitting on the surface, it seems its environment be different from that of the mole. Right?
+明白吗？但在硅表面，情况是这样的：对位于表面的这些原子来说，它们的环境似乎与体相中的原子不同。对吧？
+
+So in many cases, they look around and then you are happy. Right? So what if you are unhappy?
+所以在很多情况下，它们会四处观察，然后你就满意了。对吧？那么，如果你不满意呢？
+
+They will try to break that spot in the surface that holding themselves to different locations. And you say, so what's the difference for origin of that? It's because of energy.
+他们会试图打破表面那个将自己固定在不同位置的点。你会问，那这与它的起源有什么区别？这是因为能量。
+
+Right? The surface is always trying to minimize the surface energy. Right?
+对吧？表面总是会尽量降低表面能。对吧？
+
+And that's why the silicon atoms sitting on the surface are unhappy when you look around. Right? So it's very famous. The silicon surface can reconstruct with many different types of, uh, structures.
+所以，当你环顾四周时，你会发现表面的硅原子并不开心。对吧？所以这非常有名。硅表面可以重构为许多不同类型的，呃，结构。
+
+Right? The most famous one is the silicon center by center. And here, uh, we look at the different ones.
+对吧？最著名的是硅的中心对中心结构。这里，呃，我们来看看不同的。
+
+Right? So, uh, one is atom construction surface is called the original cell 1 by 1. That is, right? Now, how come the construction happens, for example, right? So for the 1 by 1 surface, this, uh, these surface atoms will be square lattices.
+对吧？所以，呃，一种原子构造表面称为原始单胞 1 by 1。也就是说，对吧？那么，构造是如何发生的呢？比如说，对吧？所以对于1×1表面，这些，呃，这些表面原子会形成正方形晶格。
+
+Right? Of equal spacing and they form a supplemental relationship. Right?
+对吧？间距相等，并且它们形成一种补充关系。对吧？
+
+And then what happens is these two atoms can get close together. And these two are so this two. And then the next ones can form a pair with this one.
+然后会发生的是，这两个原子可以靠得很近。而这两个，所以这两个。然后接下来的两个可以和这个配对。
+
+So they form that pair close together. And then again, you're going to have this kind of, uh, situations. Right?
+所以它们形成那一对，靠得很近。然后，你还会遇到这种，呃，情况。对吧？
+
+You can consider the two of that merging into one location. Right? And so this is 2 and that 2.
+你可以考虑把那两个合并到一个位置。对吧？所以这是2，那是2。
+
+So what happens? They need to happen on this direction. So that means the lattice spacing, right, or just nearly form the simple structure, right, is the same.
+那么会发生什么？它们需要沿着这个方向发生。所以这意味着晶格间距，对吧，或者说几乎构成简单结构的晶格间距，对吧，是相同的。
+
+Along those directions as the original one. However, right, because you have a two merging into one, now the lattice spacing between here and here is twice of that. The original one. Right? So this is the so-called, uh, silicon 2 by 1 structure.
+沿这些方向与原始方向相同。不过，对吧，因为有两个合二为一，所以现在这里和这里的晶格间距是原来的两倍。原来的。对吧？所以这就是所谓的，呃，硅2×1结构。
+
+So the 1 by 2 structures. Right? And the key part is that, okay, we start from, uh, the initial surface is a square lattice. So what's the thing of the square lattice?
+那么，1×2 结构。对吧？关键在于，我们从初始表面是一个正方格子开始。那么，正方形晶格有什么特点？
+
+You tell that we are away from each other. The square lattice is a multiple solution. So that means I rotate for 90 degrees, 90 degrees, another 90 degrees, another 90 degrees.
+你告诉我们，我们彼此相距甚远。正方形晶格有多个解。所以这意味着我旋转90度、90度、再90度、再90度。
+
+You cannot tell the difference. Right? So that means the square, they can get close to different areas or get close to one direction.
+你无法分辨出区别。对吧？所以这意味着正方形可以靠近不同的区域，或者朝一个方向靠近。
+
+It's the same. Right? And then if you have these two different close-ups, one close in this direction, the other close-up in that direction, comes together, and then the same electron will be told. And the detections are all correct in direction. Okay?
+是一样的。对吧？然后，如果你有这两个不同的特写，一个朝这个方向靠近，另一个朝那个方向靠近，它们会汇聚到一起，然后同一个电子就会被告知。而且这些探测结果的方向都是正确的。明白吗？
+
+You have two sets of different patterns of anatomical relationship. Right? And that sometimes appears to be a bit confusing.
+你有两组不同的解剖关系模式。对吧？这有时看起来有点令人困惑。
+
+Now, let's foresee what's going to happen. Right? So this is the, uh, silicon detection pattern taken from, uh, 100 surface, showing the two square symmetry.
+现在，让我们预判一下接下来会发生什么。对吧？所以这是从（100）表面获得的硅探测图案，显示了其二元对称性。
+
+Right? So this is the detection pattern. And now, let's consider we have, uh, 2 by 1.
+对吧？所以这就是探测图案。现在，我们考虑一下，呃，2乘1。
+
+1 by 2.
+1乘2。
+
+1 by 2 lattice 4. Why is 1 lattice 2? Now, this is the newly formed detection pattern.
+1×2晶格4。为什么是1晶格2？现在，这是新形成的检测模式。
+
+Right? So in this direction, it's the same as before. And in this direction, you have a half created.
+对吧？所以在这个方向上，和之前一样。而在这个方向上，你有一个已经形成了一半的。
+
+That means in the real lattice, that's. So this is 1 by 2 lattice. Right?
+这意味着在真实晶格中，那就是……所以这是一个1×2晶格。对吧？
+
+But then if you squeeze it, it happens on the on top of a direction. You can do it on every kind of direction. Right?
+但如果你把它挤压，它就会沿着某个方向发生。你可以在任意方向上这样做。对吧？
+
+So you have this is squeezed, but not this direction. Right? So this becomes 2 by 1.
+所以这个方向被挤压了，但这个方向没有。对吧？所以这就变成了2乘1。
+
+Right? So if you have an overlapping of 1 by 2 and 2 by 1, you have this kind of a pattern.
+对吧？所以，如果 1×2 和 2×1 重叠，就会形成这种图案。
+
+Right? Not correct because I have a 2 and a red and a gray mark that you know who is who. But then particular electron depression pattern, they all appear white.
+对吧？不对，因为我有一个2，还有一个红色和灰色的标记，这样大家就知道谁是谁。但随后，特定的电子衰减模式，它们都显示为白色。
+
+Right? And then this is a pattern you can have and this pattern goes straight after 1 by 10 and the very beginning of the lead lecture. Right?
+对吧？然后，这就是你可能得到的一种模式，这种模式直接出现在 1/10 之后，也就是先导讲座的最开头。对吧？
+
+So this is strange. Why strange? Because if you took this as the shortest lattice vector and that as the shortest vector, and you do the lattice summation at this point, something is missing. So they're not continuous. Right?
+所以这很奇怪。为什么奇怪？因为如果你把这个当作最短晶格向量，把那个当作最短向量，然后在这个点进行晶格求和，就会漏掉一些东西。所以它们不是连续的。对吧？
+
+And this is the most likely difference you have. More than 1. And that's very common on the surface domain.
+而这很可能是你们之间最大的区别。超过1。而且这在表面域中非常常见。
+
+Right? So if you have something like that, then the first basic beginning is that, okay, we may have more than 1 set of results. Then you look at the symmetries of the lattice and you can guess, right, uh, by removing, uh, one of the layers.
+对吧？所以，如果你遇到类似的情况，那么首先要明确的是，我们可能会有不止一组结果。然后你观察晶格的对称性，就可以猜出来，对吧，呃，通过移除，呃，其中一层。
+
+Whether you're going to come up with the right one. Right? So now, this is, uh, overlapping of a 1 by 2 and 2 by 1 lattice.
+你是否能得出正确的结果。对吧？所以现在，这是，呃，1×2 和 2×1 晶格的重叠。
+
+You end up with this kind of detection. Right? And then if you have a 2 by 2 lattice, what will be the pattern?
+你会得到这种检测结果。对吧？那么，如果有一个 2×2 的晶格，图案会是什么？
+
+2 by 2 lattice. Everything is a half of it. The difference between 2 by 2 and the sum up of the 1 by 2 and 2 by 1 is the 2 by 2 will have a detection response detail.
+2×2晶格。一切都是它的二分之一。2×2 与 1×2 和 2×1 之和之间的区别是，2×2 会有检测响应细节。
+
+Right?
+对吧？
+
+All right. So this will be all we have for the lattice. Right?
+好的。所以，这就是我们关于晶格的全部内容。对吧？
+
+Now, uh, my last example, right, um, sometimes it so we continue with 2x higher, do we need a break? Close-up. Yes?
+现在，呃，我的最后一个例子，对吧，嗯，有时候它……所以我们继续用两倍高的，需要休息一下吗？特写。需要吗？
+
+Okay, we have a 2x break before coming back to this last example.
+好的，休息两倍时间，然后再回到最后一个例子。
+
+Yeah.
+对。
+
+看看这个为什么。
+Look at this to see why.
+
+Sure. So, uh, then what you can do is imagine the database within your linear with the axis of motion, right? You would know, right, the ratio between these two is, uh, that, uh, put 7 for, say, a square root of 2, or 1 over square root of 2, depends on which is ratio to which, right? And that should be coming from a specific location that is the equivalent of a direction of seaward, right?
+好的。所以，呃，你可以把数据库想象成位于你的线性……沿运动轴，对吧？你会知道，对吧，这两个之间的比值，呃，就是，呃，比如说，取 7 作为根号 2，或者 1 除以根号 2，具体取决于比较的是哪两个，对吧？而那应该来自一个特定位置，相当于朝向海的方向，对吧？
+
+Now, one of the things you can do is that, uh, you can reconstruct the surface pattern for the real space lattice of such a surface pattern, right? Which is the sort of formal things, right? They're very formal things. You have two close paths patterns, and it's far, uh, from each other, right?
+现在，你可以做的一件事是，呃，可以重构这样一个表面图案的实空间晶格的表面图案，对吧？也就是一些形式上的东西，对吧？它们是非常形式化的东西。你有两个接近的路径模式，而且它们彼此相距很远，对吧？
+
+So that's kind of a standard thing, right? And the next experiment is that we need to deposit, uh, a layer of sodium chloride, right, on the surface of the seaward so we don't give a lot of movement, right? And, uh, carry out the new impact method. So here, this is not very clear, so I drawn it, right, and got it, right? So the purple ones, right, are the original depression patterns taken from the seaward around all surface, right?
+所以这算是一个很标准的情况，对吧？下一个实验是，我们需要在 seaward 的表面沉积一层氯化钠，对吧？这样就不会发生太多移动，对吧？然后，呃，进行新的冲击法。所以这里不太清楚，所以我把它画出来了，对吧？然后就明白了，对吧？所以，紫色的那些，对吧，是取自整个表面海向区域的原始凹陷模式，对吧？
+
+And the deeper depressions falls, right, are nether of them, are falling here, right? So the question now is that, so what happens on some surface after the deposition of sodium chloride, right? So basically this question asks you to analyze the depression patterns following the standard distribution that we, uh, discussed, right, in the class, and to figure out, uh, what, uh, the symmetry of that layers on the surface of the seaward.
+而更深的凹陷，对吧，都不是，都落在这里了，对吧？所以现在的问题是，氯化钠沉积后，某些表面上会发生什么，对吧？所以，基本上这道题要求你根据我们在课堂上讨论的标准分布，分析凹陷的形态，并找出，呃，什么，呃，面向海侧表面的那些层的对称性。
+
+Right? Now, your turn. We have the same so many examples, right, and now your turn to have a little trial to see how this pattern can be analyzed.
+对吧？现在轮到你们了。我们有很多相同的例子，对吧？现在轮到你们试一试，看看这个模式可以如何分析。
+
+Any idea?
+有什么想法吗？
+
+So let's pause in the standard what we say strange pattern.
+那么，我们先暂停一下，看看我们所说的“奇怪模式”在标准中是如何表述的。
+
+Right, strange pattern. One thing is strange, because in the standard procedure I'm going to choose the two shortest lattice vectors, same as pattern, right? So the shortest one will be this one, and that one, right? So you can choose the two of them.
+对，奇怪的模式。有一点很奇怪，因为在标准程序中，我会选择两个最短的晶格向量，和图案一样，对吧？所以最短的会是这个和那个，对吧？所以你可以选择其中两个。
+
+I see the vector summation of the two of them, right? Suppose to have a different response in there, but it doesn't. All right, so it's missing. All right, and then that's how I say strong indication if you have more than one set, right?
+我看到它们两个的向量相加，对吧？假设那里会有不同的响应，但事实并非如此。好的，所以它缺失了。好的，所以如果你有不止一组，我就会说这是强有力的提示，对吧？
+
+Right? And then the next step, right, let's just remind a little bit, um, how do you guess, right, uh, the unit cells in each of the different units? Right, so the first conclusion is straightforward, right?
+对吧？然后下一步，对吧，我们稍微回顾一下，嗯，你怎么猜，对吧，呃，每个不同单元中的晶胞是什么样的？对，所以第一个结论很直接，对吧？
+
+You try this.
+你试试这个。
+
+You see there's an absolute response in there, um, suggesting that, um, I mean, two sets of different response. You're there. Right? So now the next task is to determine, right, what the unit cell looks like.
+你可以看到，其中有一个绝对响应，嗯，这表明，嗯，我是说，两组不同的响应。你在那里。对吧？所以现在下一步是确定，对吧，晶胞是什么样的。
+
+You choose a set of the depression.
+你选择一组凹陷。
+
+How do I do that?
+我该怎么做？
+
+How do I do that?
+我该怎么做？
+
+How do I do that?
+我该怎么做？
+
+Any idea?
+有什么想法吗？
+
+So we're always have a few trials, right, before we can figure it out, but the trials is very straightforward. Right? Uh, why is it straightforward?
+所以我们总得做几次试验，对吧，才能弄明白，但这些试验非常简单明了。对吧？呃，为什么这么简单呢？
+
+Because you try this, it doesn't work, right? Uh, then you try in large cell a little bit to see if it works. Still not working.
+因为你试过这个，但没成功，对吧？呃，然后你试着在大细胞里稍微做一下，看看是否可行。还是不行。
+
+Then you try in few, you find that why it works. So you have this one, this one, this one, that one, that work, but then you have additional responses there, right? Right?
+然后你用几个试试，就会发现为什么它能用。所以你有这个、这个、这个、那个，它们能用，但那里还有其他响应，对吧？对吧？
+
+So these are the additional responses you can do. Is that the one? All right? So you identify this as the unit cells, right, then presumably you need to remove this one, this one, this one, this one, this one, this one, and all these ones along the slides will be removed.
+所以这些是你可以采取的其他应对方式。是那个吗？明白吗？所以你把这些识别为晶胞，对吧？那么显然你需要删除这个、这个、这个、这个、这个、这个，以及所有这些沿着滑面的晶胞都会被删除。
+
+So if that's the case, right, um, that will give you a set of guess depression spots, like this. Right? So you have this as a unit cell.
+所以，如果是这样的话，对吧，嗯，就会得到这样一组猜测的凹陷点。对吧？所以，你把这个当作一个晶胞。
+
+That works, right? And then I realized, because you have to remove some things, right, I have to put it back. Now things become straightforward, because I have the original guess already. Right?
+这样可以，对吧？然后我意识到，因为你得去掉一些东西，对吧，所以我得把它放回去。现在事情变得简单了，因为我已经有了原来的猜测。对吧？
+
+So I will put the red spots these ones that I put away back in there. Right? But now, what I need to remove is the depression spots that only appears in this one.
+所以我会把那些我刚才移开的红色标记放回去。对吧？但现在，我需要删除的是只出现在这个里的凹陷点。
+
+So I see this one overlaps with this. Right? This one overlaps with this.
+所以我看到这个和这个重叠了。对吧？这个和这个重叠。
+
+All right? Right? And the one that is new for this pattern is this one.
+明白吗？对吧？而这个模式中新增的是这个。
+
+And this one. Is that right? So now I'm going to remove this lines which is here.
+还有这个。对吗？所以现在我要删除这里的这些线。
+
+Is that okay? So when you remove this line and that line, you do that belongs to this depression pattern. The rest. Right? Should be the other set of depression pattern, which looks like this.
+可以吗？所以，当你删除这条线和那条线时，你所做的属于这种凹陷模式。其余的。对吧？应该是另一组看起来像这样的凹陷图案。
+
+Is that right? So basically I remove this line and that line, so that gives me this.
+对吗？所以基本上，我把这条线和那条线去掉，就得到了这个。
+
+Right? It'll be easy to draw the unit cell. That's easy, right?
+对吧？这样就很容易画出晶胞。这很简单，对吧？
+
+The unit cell. Right? So this is how, um, again, very standard procedures, that you, uh, start from a complicated depression patterns and figure out, uh, what is the origin of the two of them.
+晶胞。对吧？所以，嗯，这又是非常标准的流程：从复杂的凹陷图案出发，弄清楚这两种图案的起源是什么。
+
+So you're going to look at, uh, each one of them, the blue one first. I see the original depression pattern is the one marked by the purple spots.
+所以你们要逐一观察，呃，先看蓝色的那个。我看到，最初的凹陷模式就是标有紫色斑点的那个。
+
+Purple spots.
+紫色斑点。
+
+Okay? So where are these purple spots? One in the center.
+明白吗？那么这些紫色斑点在哪里？一个在中间。
+
+One here. One there. And one there. All right? So along the direction is the lattice parameter the same as the purple lattice?
+这里有一个。一个在那里。还有一个在那里。明白吗？那么，沿这个方向的晶格参数和紫色晶格的晶格参数相同吗？
+
+Yes. So that's one. Now in this direction, what's the relationship?
+是的。所以这是一个。那么在这个方向上，它们之间有什么关系？
+
+It's the half. So in the real space, all right, so we have 1 by 2 lattice for the blue pattern. Now similarly, for the red one, right, so where are the purple ones?
+是一半。所以在实空间中，好吧，蓝色图案的晶格间距是 1/2。现在同样，对于红色的，对吧，那么紫色的在哪里？
+
+The purple ones are here. There. There.
+紫色的在这里。那里。那里。
+
+And there. Is that right? So along this direction, the lattice spacing is the same.
+还有那里。对吗？所以沿这个方向，晶格间距是相同的。
+
+Right? So this is one. Right? Along this direction, right, so this is the 1, 2, 3, 4.
+对吧？所以这是1。对吧？沿着这个方向，对吧，所以这是1、2、3、4。
+
+One-fourth of it. Right? So that will be 4 by 1 lattice. So here, you have two sets of surface reconstructions or at-layers, right, one is the so-called 1 by 2 lattice, and the other is the 4 by 1 lattice, which are also belonging to each other. And you definitely covers most of them, so you see the distribution of both of them in the depression pattern.
+它的四分之一。对吧？所以那将是4乘1的晶格。所以这里有两个表面重构或原子层，对吧？一个是所谓的1×2晶格，另一个是4×1晶格，它们也彼此相关。而且你肯定涵盖了其中大部分，所以你会在凹陷图案中看到这两种重构的分布。
+
+All right? So that's the solution of, uh, this depression pattern analysis. And, uh, then the experimental, uh, experiment continues people give a little more solute chloride and put it in a circuit and then retake the depression pattern, and now we see the symmetry of the depression pattern completely changes, right, to a square lattice. Why? Because, right, uh, now the surface is fully covered by a layer of, uh, solute chloride.
+明白吗？所以，这就是，呃，这个凹陷模式分析的解决方案。然后，呃，实验继续进行，人们加入更多溶质氯化物，把它放入回路中，然后再次测量凹陷图案。现在我们看到，凹陷图案的对称性完全改变了，对吧？变成了正方形晶格。为什么？因为，对，呃，现在表面完全被一层，呃，溶质氯化物覆盖了。
+
+It doesn't form add-on layers, so there's a blue layer of solute chloride and matching the lattice parameters of that solute chloride, which is the wrong solved pattern. Or supposed to be solved pattern. It's ultimately sodium and chlorine atoms, right, potential.
+它不会形成额外的层，所以有一层蓝色的溶质氯化物，其晶格参数与该溶质氯化物相匹配，这就是错误的衍射图案。或者应该是解析的图案。归根结底是钠和氯原子，对吧，潜在的。
+
+Right? So this is the whole story of this is what's called and, uh, now to repeat, what will be, uh, needed in solving this kind of, um, uh, uh, problem for. What is the rationale behind this kind of testing is that eventually you've got a set of at least different depressions. Right? And the question is that you want to know, in the real space lattice, how at-layers are seen on the original pattern.
+对吧？所以这就是全部内容，这就是所谓的……呃，现在再说一遍，要解决这类……呃，呃，呃，问题，需要……这类测试的依据是，最终你会得到一组至少不同的抑郁状态。对吧？问题是，你想知道在实际的晶格中，各个层在原始图案上是如何呈现的。
+
+Right? So scientifically we need to use the whole so that the. Location cell. Right? Variations too. But before you can figure that out, right, you need first, right, to draw your simple space lattice.
+对吧？所以从科学上讲，我们需要使用整个……以便……位置细胞。对吧？变异也是如此。但在弄清楚这一点之前，对吧，你首先需要，对吧，画出你的简单晶格。
+
+Right? And to find the correlation between at-layer and surface. And then, uh, convert it back to real space, and then find two of these correlations.
+对吧？并找出原子层与表面之间的相关性。然后，呃，把它转换回真实空间，再找出其中两个相关性。
+
+So that's the so-called standard procedures. And the tested concept would be, uh, you've got to know the difference between a crystalline structure and a lattice. Right? The correlation between the simple space and the real space.
+所以，这就是所谓的标准流程。这里要检验的概念是，呃，你必须知道晶体结构和晶格之间的区别。对吧？简单空间与真实空间之间的对应关系。
+
+Right? So there are all physical relationships. Right? And there is, uh, geometrically how we construct the relationships.
+对吧？所以，所有这些都属于物理关系。对吧？还有，呃，从几何上来说，我们如何构建这些关系。
+
+Right? So this is that part. Right? And the last few slides is straightforward.
+对吧？所以这就是那部分。对吧？最后几张幻灯片很简单。
+
+Right? Uh, the deep pattern is highly sensitive to the electron beam energies. Right?
+对吧？呃，深层形貌对电子束能量非常敏感。对吧？
+
+Now, uh, if you look at the ground condition, you see the sine phi, which tells you the, uh, the wide spread of the depression angles is proportional to lambda. So the lambda in lambda, that is the operating wavelength, right, the larger, um, the deep pattern. Or of course, if your lattice spacing is small, uh, that also gives you large size of deep pattern. But that intensity of these depression spots will be affected, right, the energy as well.
+现在，呃，如果你观察基态，就会看到 sin φ，它表明，呃，凹陷角度的宽分布与 λ 成正比。所以，λ中的λ就是工作波长，对吧？它越大，嗯，图案就越深。当然，如果晶格间距较小，也会使深陷图案的尺寸较大。但这些凹陷点的强度会受到影响，对吧，能量也会受到影响。
+
+Your, like, optional solution scheme. Right? The last slides are one step to two minutes to elaborate more of it, because that prepares, right, three different standard work depression techniques, right, of different nature. Right? When we talked a lot about, uh, X-rays and electrons, right, now, uh, let's review and then compare the difference of the two of them.
+你的，比如，可选的求解方案。对吧？最后几张幻灯片可以花两分钟进一步阐述，因为这介绍了三种不同性质的标准工作抑郁技术，对吧？对吧？我们之前讲了很多关于X射线和电子的内容，对吧？现在，呃，我们来回顾一下，然后比较一下它们之间的区别。
+
+So first of all, the nature of these standard interactions, a very different X-ray and electrons in this case. Now, that nature has many types. X-rays, right, interact with the outer shell electrons in a very different energy.
+首先，这些标准相互作用的本质非常不同，X射线和电子在这一点上就不同。这种性质有多种类型。X射线，对吧，会以一种非常不同的能量与外层电子发生相互作用。
+
+X-rays are mass-based or disproposed. These particles, right, the whole they interact with the electrons, the electron clouds of materials, uh, in the quick interaction or quick interference matter. So these are the so-called weak interactions.
+X射线是基于质量的，或者说是不被接受的。这些粒子，对吧，它们会与材料中的电子、电子云发生相互作用，呃，在快速相互作用或快速干涉物质中。所以这些就是所谓的弱相互作用。
+
+Right? Now, because of that, right, uh, X-ray have a deep penetration depth. And what is scattered is scattered only once.
+对吧？正因为如此，对吧，呃，X射线的穿透深度很深。而散射的只是被散射一次。
+
+And so-called kinematical scattering.
+也就是所谓的运动学散射。
+
+Now, as a comparison, the electron depression is very different. Right? Electrons are light and charged particles. They have a strong interaction with the solid when they scatters.
+现在，相比之下，电子衰减则大不相同。对吧？电子是轻且带电的粒子。它们在散射时与固体发生强烈相互作用。
+
+And the nature of the interaction is prolific interaction. So strong interactions, basically. Right? And the strong interaction determines the squall or shore impact test.
+这种相互作用的本质是丰产相互作用。所以基本上就是强相互作用。对吧？而强相互作用决定了阵风或海岸冲击测试。
+
+And that's the shallow penetration depth. Of course, that is prolific dependent on the energy associated with the electrons. Now, in terms of meaning, right, because you're using very low energy electrons, so the penetration depth is extremely short.
+这就是浅层穿透深度。当然，这取决于电子所具有的能量。现在，从含义上来说，对吧，因为你使用的是能量非常低的电子，所以穿透深度极其短。
+
+So we need to use a surface sensitive penetration method. Right? And also for the same thing, because electrons have short impact test. So what is scattered, right, in the materials tend to be scattered more than one time.
+所以我们需要采用对表面敏感的穿透法。对吧？而且出于同样的原因，因为电子的穿透深度很短。所以，材料中发生散射的电子往往会散射不止一次，对吧？
+
+So it's scattered again and again and again and again. So the so-called micro scattering or dynamic movements. So that's the key difference between electron and X-ray depression.
+所以它会一次又一次地散射。所以，所谓的微观散射或动态运动。所以，这就是电子与X射线衰减之间的关键区别。
+
+Right? Now, what you simply mentioned in the figure is the, uh, scattering by leading atoms. Right?
+对吧？现在，你刚才在图中提到的是，呃，由前导原子引起的散射。对吧？
+
+Why? Uh, I think here because this is a very special type of, uh, scattering.
+为什么？呃，我想这里之所以这样，是因为这是一种非常特殊的散射类型。
+
+Considering the nature of the interaction between the atoms and materials. Compare it to X-rays and electrons. Big difference from.
+考虑到原子与材料之间相互作用的本质。把它与X射线和电子进行比较。与……有很大区别。
+
+Folks, X-ray photos and electrons leading atoms is mutual. But it's large. Right?
+各位，X射线照片和电子导致原子发生相互作用。但它很大。对吧？
+
+That's the first thing. Right? And when it got smashed onto the atoms of materials, it doesn't happen.
+这是第一点。对吧？而当它撞到材料的原子上时，这种情况就不会发生。
+
+So this can be solved by answering or thinking about the scenario is that you are bringing an atom close to a known atom. Then you will see the interaction changes and these two atoms approach each other. Right? So we know if you bring an atom very far away, uh, from a distance, right, it will be closer.
+所以，这个问题可以通过回答或思考以下情景来解决：你让一个原子靠近一个已知原子。然后你会看到相互作用发生变化，这两个原子彼此靠近。对吧？所以我们知道，如果你把一个原子从很远的地方，呃，从远处移过来，对吧，它就会靠得更近。
+
+So when it's close enough, there will be strong attraction between the two. The two atoms. But then if you push it even closer, right, you bring in proliferation, uh, distance.
+所以，当它们足够接近时，两者之间就会产生很强的吸引力。两个原子。但如果你把它推得更近，对吧，就会产生排斥，呃，距离。
+
+A strong repulsion will happen between these two atoms. Right? And that cannot be described what happens if you have an atom between atoms in the surface.
+这两个原子之间会产生强烈的排斥力。对吧？而这无法解释，如果表面的原子之间有一个原子，会发生什么。
+
+Right? So in the sense, because it's very strong repulsions, the leading atoms never get really into the atoms. So the leading depression is also a strongly surface sensitive techniques.
+对吧？所以从这个意义上说，由于排斥力非常强，前导原子永远不会真正进入原子内部。所以，领先降压也是一种对表面非常敏感的技术。
+
+Very similar to the electrons. The nature is a little bit different. Right?
+与电子非常相似。其性质略有不同。对吧？
+
+Uh, notice that, right, if the two of them are surface sensitive. Right? So you have only thin layers, right, here in this depression process.
+呃，注意，对吧，如果这两个都是表面敏感的。对吧？所以在这个凹陷过程中，你只有薄层，对吧？
+
+Right? The concept of this depression happens, right, a lot of interactions will produce the elongated depression. Unlike the X-ray, you always have a very concentrated depression spots. Right? So that serves as a sort of a summary of the, uh, deep pattern in this chapter of we're pretty much done, right?
+对吧？这种凹陷的概念是，对吧，大量相互作用会产生细长的凹陷。与X射线不同，你总会看到非常集中的凹陷斑点。对吧？所以，这算是对本章深入内容的一种总结。我们差不多讲完了，对吧？
+
+And, uh, the rest of the thing is we're going to have, uh, a video showing and, uh, the classwork. Which is actually the classwork number two, all right? We never have time to do that. Um,
+然后，呃，剩下的内容会包括一段视频展示，以及，呃，课堂作业。其实就是课堂作业二，明白吗？我们从来没有时间做那个。嗯，
+
+他说啥呀？看视频，看完20分钟然后跑。嗯，操。
+What did he say? Watch the video, then run after 20 minutes. Mm, fuck.
+
+哎，你们家小孩咋的？后面内地还是在香港？哎呀，上学还早，到时候再说。
+Hey, what’s up with your kids? Is it in mainland China or Hong Kong? Oh, it’s still early for school. We’ll talk about it later.
+
+上学还有还有几几节？幼儿园啥时候？三岁还是四岁？
+How many more classes are there before school? When does kindergarten start? Three or four years old?
+
+幼儿园啥时候上上都行吧，幼儿园又不是强制的。有的有不愿意管的，两岁都愿意，两岁都。你看你在香港还是在这？
+You can start kindergarten whenever you like. It’s not mandatory. Some people are reluctant to take care of them. They’re willing at two years old, they’re all willing at two years old. Look, are you in Hong Kong or here?
+
+香港好像要提前预约，要排队把麻烦。我在香港上幼儿园。好事啊，知道了。
+In Hong Kong, you seem to have to make an appointment in advance and wait in line, which is troublesome. I go to kindergarten in Hong Kong. That’s good. Got it.
+
+我他妈都快了，好吧。快什么？我也给我像通牒的，30天快上幼儿园了。
+I fucking almost did, okay. What are you in a hurry for? I also gave myself a kind of ultimatum: “In 30 days, you’ll be going to kindergarten.”
+
+不是，30岁之前必须要结婚。妈的，操。哎，啊，糟了。哎，8年了，香港会员过7年就过去了。
+No, you have to get married before you turn 30. Fuck, shit. Oh, shit. Oh, eight years. After seven years, Hong Kong membership will expire.
+
+Hello, my name is Anne Marie Schliebler. Today I would like to show you how FTIR spectroscopy works and what the method is used for. FTIR spectroscopy stands for Foucault transformed infrared spectroscopy. This powerful analytical technique enables us to identify and characterize chemical compounds.
+大家好，我叫安妮·玛丽·施利贝尔。今天，我想向大家介绍傅里叶变换红外光谱法的工作原理及其应用。FTIR 谱学代表傅科变换红外光谱学。这种强大的分析技术使我们能够识别和表征化合物。
+
+During the analysis, infrared rays are passed through the sample. The chemical bonds absorb characteristic wavelengths of the infrared light, causing the molecules to vibrate. These vibrations are specific to the type of bond and the structure of the molecule. The part of the light not absorbed is acquired by the nitrogen cold detector and stored as an interferogram.
+分析过程中，红外线会穿过样品。化学键会吸收红外光中特定波长的光，从而使分子发生振动。这些振动取决于化学键的类型和分子的结构。未被吸收的光由氮冷探测器接收，并以干涉图的形式保存。
+
+In an mathematical process known as Foucault transformation, this raw signal is converted into a spectrum. The spectrum shows the intensity of the absorption as a function of the wave number and thus provides us with a leak fingerprint of the molecule.
+通过一种称为福柯变换的数学处理过程，原始信号会被转换成光谱。光谱显示了吸收强度随波数的变化，因此为我们提供了分子的泄漏指纹。
+
+After comparison with the relevant databases, we can clearly identify which substances the molecule contains irrespective of whether the sample is solid, liquid, or gaseous. It is also possible to make a quantitative statement. Different measuring modes are used depending on the sample and the information required.
+通过与相关数据库进行比对，我们可以清楚地识别出分子中含有哪些物质，无论样品是固态、液态还是气态。还可以进行定量分析。根据样品和所需信息，采用不同的测量模式。
+
+The transmission mode is a classic FTIR analytical method. The infrared radiation passes through the sample and the light absorbed is measured. This measuring mode is suitable for thin, liquid, and transparent samples.
+透射模式是一种经典的 FTIR 分析方法。红外辐射穿过样品，测量被吸收的光。这种测量模式适用于薄层、液体和透明样品。
+
+With the reflection method, the infrared radiation is directed at the sample and the light reflected is analyzed. This method is used for smooth reflective surfaces. We primarily utilize the ATR mode, i.
+在反射法中，红外辐射照射样品，然后分析反射光。该方法适用于光滑的反射表面。我们主要采用 ATR 模式，i。
+
+e., attenuated total reflection. Here, the infrared light is totally reflected in a crystal, usually germanium or diamond, and during this process, it reacts with the surface of the sample.
+即衰减全反射。在这里，红外光在晶体中发生全反射，通常使用锗或金刚石；在此过程中，它会与样品表面发生相互作用。
+
+This method is suitable for solid and liquid samples and does not require any complex sample preparation. The advantage of infrared spectroscopy is fast, mostly non-destructive analysis with high sensitivity and reproducibility. The wide range of possible applications is particularly advantageous, e.g., in plastics analytics, the pharmaceutical industry, food monitoring, and for the analysis of fibers, particles, and filmic residues on component surfaces.
+该方法适用于固体和液体样品，且不需要任何复杂的样品前处理。红外光谱法的优点是分析速度快，大多为无损分析，并具有高灵敏度和重现性。其广泛的应用范围尤其具有优势，例如塑料分析、制药工业、食品监测，以及对纤维、颗粒和部件表面薄膜残留物的分析。
+
+Which samples can we analyze for you?
+我们可以为您分析哪些样品？
+
+Hey everybody, Professor Daviss here from ChemSurvival.com, the YouTube channel ChemSurvival. And today I'm going to give you a brief introduction to UV visible spectroscopy and your Lambert law.
+大家好，我是来自 ChemSurvival.com、ChemSurvival YouTube 频道的戴维斯教授。今天，我将简要介绍紫外-可见光谱法以及朗伯定律。
+
+To begin our discussion, I've drawn a schematic on the bottom half of this screen depicting a fairly typical setup for a UV visible spectral photometer. Now, there are many different ways to build a spectral photometer, but this is one of the simpler designs, so I thought we'd start there. It consists of a source lamp, which is something as simple as a headlamp from a motor scooter, or more complicated, like a deuterium lamp or xenon arc lamp.
+首先，我在屏幕下半部分画了一张示意图，展示了紫外-可见分光光度计相当典型的配置。现在，光谱光度计有多种不同的构造方式，但这是其中一种较为简单的设计，所以我想我们先从这里开始。它由光源灯组成，光源灯可以很简单，比如摩托车头灯；也可以更复杂，比如氘灯或氙弧灯。
+
+The next device in line is what's known as a monochrometer. Which is two slits which separate or are separated by a prism or a diffraction gradient. The next element of our spectral photometer is what's known as a beam splitter, which divides a beam of light into two equal parallel beams of light.
+接下来的装置叫作单色仪。它由两个狭缝组成，狭缝之间装有棱镜或衍射光栅。光谱光度计的下一个元件称为分光镜，它将一束光分成两束强度相等且相互平行的光束。
+
+Next is the sample compartment, which contains cells for both the reference and the sample. And finally, detectors, which are devices that convert the impact of photons into electrical current that can be monitored by a computer.
+接下来是样品池，其中装有用于参考光和样品的两个样品池。最后是检测器，它是一种将光子撞击转化为可由计算机监测的电流的装置。
+
+So now that we've defined each of the smaller pieces within our spectral photometer, let's turn it on and see what happens.
+那么，既然我们已经定义了光谱仪中的各个小部件，接下来就把它打开，看看会发生什么。
+
+I'll ignite the source lamp, creating a variety of wavelengths of different light. This light passes through the first slit of the monochrometer, ensuring that all of those light photons are traveling along parallel pathways. So that when they strike the prism, they are refracted into a rainbow of colors.
+我将点燃光源灯，产生多种不同波长的光。这些光穿过单色仪的第一个狭缝，确保所有光子沿平行路径传播。这样，当它们照射到棱镜上时，就会被折射成七彩光谱。
+
+So each wavelength of light is moving through a different place in space.
+所以，每种波长的光都会穿过空间中的不同位置。
+
+So only one wavelength of light in this situation is going to make it through the second slit in my monochrometer. Striking the beam splitter, and becoming two beams of equal intensity.
+所以在这种情况下，只有单一波长的光能够穿过我的单色仪中的第二个狭缝。撞击分束器，并形成强度相等的两束光。
+
+These two beams of equal intensity will traverse a cell, a different one for each, of course, one being the reference and one being the sample cell. As the beam exits these cells, it strikes the detectors, which are firing away, creating an electrical current. And you'll notice at the moment that the intensity of the light exiting both the reference and sample cells is identical.
+这两束强度相等的光将穿过一个池，当然，每束光穿过不同的池：一束作为参比池，另一束作为样品池。当光束离开这些池后，会照射到探测器上，探测器随即产生电信号。你会注意到，此时从参比池和样品池中出来的光的强度是相同的。
+
+Therefore, the current generated by each detector is identical. So in this case, the intensity detected by each of my two detectors are the same. So if I were to consider the ratio of the intensity leaving the sample cell to that leaving the reference cell, I see that the transmittance of my sample cell is 100% that of the reference. So I'm going to plot that here at zero concentration, 100% transmittance.
+因此，每个检测器产生的电流都相同。所以在这种情况下，我的两个探测器检测到的光强度是相同的。所以，如果我考虑离开样品池的强度与离开参比池的强度之比，就会发现样品池的透射率是参比池的100%。所以我会在这里标出零浓度、100%透射率。
+
+Now let's add a little sample to that cell, something that might absorb this light.
+现在往那个样品池里加入一点样品，加入一种可能会吸收这些光的物质。
+
+Now notice that when I do this, the intensity of the light exiting the sample cell has decreased, and therefore the current generated by its detector has also decreased. So now the ratio of intensities is no longer 100%. In this case, let's say that it's down to 50% at a given concentration, which I'm going to call X.
+现在请注意，当我这样做时，从样品池中射出的光的强度降低了，因此检测器产生的电流也降低了。所以现在光强比不再为100%。在这种情况下，假设在某一浓度下，这个比值降到了50%，我把它记作X。
+
+If I add another equivalent of my sample to the sample cell, that decreases the intensity even more. Not only that, it decreases the intensity at the sample cell by a known amount, exactly one half for each equivalent of sample that I add. So when I compare my new intensities at the sample and reference cells, I see that I'm now at 25% transmittance.
+如果我向样品池中再加入等量的样品，强度就会进一步降低。不仅如此，它还会使样品池中的强度降低一个已知量，也就是说，每加入一当量样品，强度就会降低正好一半。所以，当我比较样品池和参比池的新强度时，我看到现在的透射率为25%。
+
+And similarly, an incremental increase in the concentration once more in my sample cell leads to another reduction in by 50%, and therefore a percent transmittance of 12 and a half.
+同样，当我再次增加样品池中样品的浓度时，透射率会再降低50%，因此透射率百分比为12.5%。
+
+Now we have enough data points to see something very interesting here. The relationship between the percent transmittance and the concentration of a sample is not linear. Instead, it's exponential.
+现在我们有足够的数据点，可以观察到这里一个非常有趣的现象。样品的百分透射率与浓度之间的关系并不是线性的。相反，它是指数关系。
+
+And while it's very useful to have this information, scientists and spectroscopists prefer if they can to discuss linear relationships within their data, because this makes for a much simpler discussion and it's much easier to predict how things will behave if we have a simple linear plot to compare.
+虽然掌握这些信息非常有用，但科学家和光谱学家更希望能在数据中讨论线性关系，因为这样讨论起来简单得多，而且如果有一个简单的线性图可供比较，就更容易预测事物会如何表现。
+
+This is where your Lambert law comes in. You'll notice that right now I have an exponential relationship between my percent transmittance and my concentration. We can see that in the equation here, where the concentration is a term up here in the exponent.
+这就是朗伯定律发挥作用的地方。你会注意到，现在我的透射率百分比与浓度之间存在指数关系。我们从这里的方程中可以看出，浓度是指数项中的一个因子。
+
+But what August Bier did was to convert that percent transmittance into a new unit called absorbance. And he did so by taking the logarithm on really negative logarithm of the transmittance.
+但奥古斯特·比尔所做的，是将透射率百分比转换为一种称为吸光度的新单位。他通过取透射率的负对数来实现这一点。
+
+Taking the logarithm of an exponential function creates a linear function. And so the data, when plotted as absorbance rather than transmittance, is actually considerably easier to look at. Not to mention, it's much easier to predict the exact absorbance by either extrapolating or interpolating within the dataset that I collected.
+对指数函数取对数，就会得到一个线性函数。因此，将数据绘制成吸光度图，而不是透射率图，实际上会容易得多。更不用说，通过外推或插值，根据我收集的数据集来预测准确的吸光度要容易得多。
+
+This is the utility of the Bier-Lambert law, and the reason why we convert percent transmittance into absorbance so often when conducting UV visible spectroscopy. That's all for now, everyone. I'm Professor Davis from ChemSurvival.
+这就是比尔-朗伯定律的实用价值，也是我们在进行紫外-可见光谱分析时经常将百分比透射率转换为吸光度的原因。大家，今天就到这里。我是 ChemSurvival 的戴维斯教授。
+
+com, the YouTube channel ChemSurvival.
+com，ChemSurvival YouTube 频道。
+
+— 由 LecSync 生成

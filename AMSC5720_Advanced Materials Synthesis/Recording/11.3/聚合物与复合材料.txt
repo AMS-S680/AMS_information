@@ -1,0 +1,600 @@
+聚合物与复合材料
+日期: 2026年11月3日 18:38
+语言: 英语 → 中文
+时长: 35分57秒
+
+The disperser, right, not just this hole, so your other courses.
+分散器，对吧，不只是这个孔，还有你的其他课程。
+
+So hook you're doing fine. Um, so we— I assume you have a lot of quizzes and essays and presentations like that, right? So, um, I'm not sure about other courses for the rest of this course, after I finish composites today, right, we'll go to advanced material sets.
+所以，钩子，你做得很好。嗯，所以我们——我想你们有很多小测验、论文和这样的展示，对吧？所以，嗯，我不确定其他课程的情况。这门课剩下的部分，我今天讲完复合材料后，对吧，我们会进入高级材料组。
+
+So that's basically case study, so each lecture will compose of several small topics, and we'll focus on different kinds of materials. So I've been coordinating with the guest lecturers, so luckily I finalized their availability. So today, the last about one-third of the time will be given to a guest lecture, so I will talk about his direction and the importance of that area. Before he starts, so here's the agenda for this course: today and the following two weeks.
+所以这基本上就是案例研究。每堂课都会由几个小主题组成，我们会重点介绍不同类型的材料。我已经和客座讲师协调过了，很幸运，我最终确定了他们的授课安排。所以今天，最后大约三分之一的时间将留给一位客座讲师，我会谈谈他的研究方向以及该领域的重要性。在开始之前，这是本课程的课程安排：今天以及接下来的两周。
+
+Today we're going to finish everything about topic one, which is, as you can imagine, the main content of this course. And I will start to talk about topic two and three together. So case study of various kinds of materials with a focus on their synthesis.
+今天我们将完成主题一的所有内容。正如大家所想，这是本课程的主要内容。然后我会开始一起讲第二和第三主题。所以，我们将对各种材料进行案例研究，重点是它们的合成。
+
+I will finish nanomaterial synthesis today. Part of that is already sort of being taken care of. Last Thursday, but there's more to that. And then I will pass the time to Professor Zeng, and next week I will continue to talk more kinds of materials, all kinds of advanced fabrications. And that will be my— our second last lecture.
+我今天会讲完纳米材料的合成。其中一部分已经算是得到了处理。上周四，不过这还涉及更多内容。然后我会把时间交给曾教授，下周我会继续讲更多种类的材料和各种先进制造技术。那将是我的——我们的倒数第二场讲座。
+
+And so it's a normal lecture as compared to the last one, on 17th of lecture content. So in that week I will use the one-third of the time talking about over— about our time talking about quality control, which is kind of calculation synthesis intensive. Okay, so that's the only math part of this course that requires your extra attention, right, because that's going to end up at least one question in the final exam. Okay, it's just that something you should be aware of. And then I will spend about half an hour talking about final exam, talk about presentation assessment details, so it's very important that you or your classmates who are not here but are your friends— right, please tell them to be here. On that day, right, otherwise they may miss important information.
+所以，这是一堂常规课，与上一堂相比，17日的课程内容。所以在那一周，我会用三分之一的时间来讨论——讨论我们的质量控制，这在某种程度上是计算和综合分析密集型的。好的，这是这门课中唯一需要你们额外注意的数学部分，对吧？因为期末考试中至少会有一道题考这个。好的，这只是你们应该注意的一点。然后我会花大约半个小时讲一下期末考试，讲一下展示考核的具体安排。所以非常重要的是，你们或者不在场但和你们是朋友的同学——对吧，请让他们来参加。那天，对吧，否则他们可能会错过重要信息。
+
+Okay? Of course I will also pose important things on the blackboard. But yeah, if you have questions you can only ask me when you're here, right, so it's important to be here especially on the 17th of November, which is our last formal lecture.
+好吗？当然，我也会把重要内容写在黑板上。不过，如果你有问题，只能在我在这里的时候问我，对吧？所以一定要来，尤其是11月17日，这是我们最后一次正式讲座。
+
+Okay? And then there will be another guest lecture that's representative from the industry. Which I think is very important.
+好吗？然后还会有另一位行业代表做客座讲座。我认为这一点非常重要。
+
+I think most of us, right, when you are finishing this program, right, you're probably thinking about careers beyond academia. Right? So what are the local opportunities, right, what do material scientists do in Hong Kong, right, that would be a very good example.
+我想我们大多数人都会，对吧？等你们完成这个项目后，可能就会考虑学术界以外的职业。对吧？那么，当地有哪些机会呢？材料科学家在香港可以做什么？这会是一个很好的例子。
+
+So that guest lecture I will announce the information later, but she's actually the CTO of one of the largest materials research institute in Hong Kong. So many of our fresh graduates go to that institute, right, so what kind of research we do here. How is it different from mainland or other parts of China or in the world, right? Something you know.
+所以，关于那场客座讲座，我会稍后公布相关信息，但她其实是香港最大的材料研究机构之一的首席技术官。我们很多应届毕业生都去了那家研究所，对吧？那么我们在这里做什么样的研究呢？它与中国内地、中国其他地区或世界其他地方有什么不同，对吧？你知道的。
+
+And she will also share about some of their research on battery, materials, okay, so that's some heads up. Okay? So most of the time, just sit here and relax. We can try to have you enjoy these advanced materials, parts, right.
+她还会分享他们关于电池和材料的一些研究，好的，这些都先给大家一个大致的了解。好吗？所以大部分时间就坐在这里放松一下。我们可以尽量让你们欣赏这些先进材料和零部件，对吧。
+
+Most of those are a little bit too deep for assessment purposes, right. We'll only test you on very basic concepts in these courses. So try to stay with us.
+其中大部分内容对于考核来说都稍微太深入了，对吧。在这些课程中，我们只会测试你们对非常基础概念的理解。所以请尽量跟我们坚持到底。
+
+But of course if you're interested, right, you can— you want to know more, you can be more attentive and maybe ask questions if you want. Okay? So that's the kind of schedule.
+不过，当然，如果你感兴趣，对吧，你可以——你想了解得更多，可以更专心一点，如果愿意，也可以提问。好吗？所以，大致就是这样的安排。
+
+Of this course. And on the first of December, I think that will be our last lecture day, and on that day I will be only given revisions. Revisions about this whole course, especially the first three topics.
+这门课的。我想，12月1日将是我们的最后一次上课，那天我只会布置复习内容。关于这门课程的复习，尤其是前三个主题。
+
+Well, actually we can include four as well, but that's a very short topic four. So I will go through all the slides, and let you know what are the parts that are not required for the final exam. But that day may be switched to online mode because I have a university duty which may require me to leave Hong Kong.
+嗯，其实我们也可以把第四部分包括进去，不过第四部分非常短。所以我会把所有幻灯片过一遍，并告诉你们哪些部分不是期末考试的要求。但那天可能会改为线上授课，因为我有一项大学公务，可能需要离开香港。
+
+But it's not confirmed, right. If it's the case I will inform you guys in blackboard. So maybe you can just access the last day of lecture online, right. That's another thing I'd like to announce first.
+但还没有确定，对吧。如果真是这样，我会在 Blackboard 上通知大家。所以你们也许可以直接在线查看最后一天的课程内容，对吧？这是我想先宣布的另一件事。
+
+Okay? All right. So let's get started.
+好吗？好的。那么，我们开始吧。
+
+Testing, testing.
+测试，测试。
+
+This will be a challenge for our speaker today.
+这对今天的演讲者来说将是一个挑战。
+
+Okay.
+好的。
+
+So let me continue about polymers. I think we ended the processes. I do recall you see a lot of videos. Right? Small videos about how to blow up a plastic bag, for example.
+那么，我继续讲聚合物。我想我们已经讲完这些过程了。我记得，你们会看到很多视频。对吧？比如，一些关于如何吹爆塑料袋的小视频。
+
+Right? That would be this one. Right? And how we extrude the materials to make long wires, right, like this one.
+对吧？就是这个。对吧？以及我们如何将材料挤制成长丝，对吧，就像这个。
+
+Okay? And the 3D printing, how we rotate, like how you make a birthday cake, right, how you rotate the substrate, and you just add things on top, right, in a 3D version. Okay?
+明白吗？还有3D打印，我们如何旋转，就像你制作生日蛋糕时那样，对吧？你旋转基底，然后在上面添加东西，对吧？只不过这是3D版本。明白吗？
+
+So maybe let me— let me start from here.
+所以，也许让我——让我从这里开始。
+
+Okay. So polymer, as I mentioned before, it's a giant market industry, right. If you study polymer, and in some mainland China the research group usually, if they're really good in polymer, they're usually having simultaneously a lot of companies that are actually profiting.
+好的。所以，聚合物，正如我之前提到的，是一个庞大的市场行业，对吧。如果你研究聚合物，那么在中国大陆的一些地方，研究团队如果在聚合物领域真的很强，通常会同时拥有许多实际从中获利的公司。
+
+Right? Not just some spin-offs with incubated by universities. They're actually profiting companies and profitable companies which makes a lot more than being a professor. Right? So you will realize that their focus of research are very practical, and also in the meantime highly confidential.
+对吧？不只是由大学孵化的一些衍生公司。它们实际上是盈利的公司，而且利润远高于当教授。对吧？所以你会意识到，他们的研究重点非常实际，同时又高度保密。
+
+So only a few of the core group members they know some secret recipe. Right? So nowadays what we can learn from textbooks are really just basics.
+所以，只有少数核心小组成员知道某种秘方。对吧？所以如今，我们从教科书中学到的其实只是基础知识。
+
+Okay? So if you are into polymer industry, it works for you to dig much deeper. Right? Than what we are learning now.
+明白吗？所以，如果你从事聚合物行业，就需要深入研究。对吧？比我们现在学的更深入。
+
+But for others, right, if you're not really into polymer industry, well, just we just didn't know some general ideas about what they are. Right? So when should we opt for a polymer material, for example?
+但对其他人来说，对吧，如果你不太了解聚合物行业，嗯，我们只是不知道它们究竟是什么的一些大致概念。对吧？那么，比如，我们应该在什么时候选择聚合物材料呢？
+
+Okay? So here I give you one example. It's ultra-high molecular weight polyethylene.
+明白吗？那么，我给大家举一个例子。它是超高分子量聚乙烯。
+
+Right? So we all know polyethylene, right? We start learning polymer by start learning how to break carbon-carbon double bond and form a long chain.
+对吧？我们都知道聚乙烯，对吧？我们开始学习聚合物时，首先要学习如何断裂碳碳双键并形成长链。
+
+So polyethylene is the simplest example. Only carbon-carbon. Right?
+所以聚乙烯是最简单的例子。只有碳碳键。对吧？
+
+You want to break the bond, it become a carbon-carbon with two dangling bonds. So you can link up, right, a line of pure line of carbon. Right? And all the outside are hydrogens which making this carbon saturated.
+如果你想断开这个键，它就会变成一个带有两个悬垂键的碳-碳键。所以你可以把它们连接起来，对吧，形成一条纯碳链。对吧？而且所有外部都是氢原子，这使得这个碳原子饱和。
+
+Okay? Nothing else. Right? But we have a very special extreme of polyethylene that is this ultra-high molecular weight.
+明白吗？没有别的了。对吧？但聚乙烯有一个非常特殊的极端情况，就是超高分子量。
+
+So it has a specific abbreviation for this material.
+所以这种材料有一个特定的缩写。
+
+That's this UHM, right, WPI. So you may see this a lot. Right?
+就是这个 UHM，对吧，WPI。所以你可能会经常看到这个。对吧？
+
+In the material selection book, right, if you ever try to design a product and start selecting materials from a material selection book, right, you may encounter this abbreviation quite often. Right? This is actually quite expensive and quite high-end kind of polymer.
+在材料选型手册里，对吧？如果你曾经尝试设计一个产品，并开始从材料选型手册中选择材料，对吧？你可能会经常看到这个缩写。对吧？这实际上是一种相当昂贵、档次很高的聚合物。
+
+Right? So that's exactly what this full name is telling us. Right? They look for molecular weights that are super high, usually in the level of millions of gram per mole.
+对吧？所以，这正是这个全称告诉我们的意思。对吧？它们寻找分子量极高的分子，通常达到每摩尔数百万克的水平。
+
+Okay? Millions of gram per mole. So you can imagine the preparation of such molecule is very precise.
+明白吗？数百万克每摩尔。所以你可以想象，这类分子的制备过程非常精确。
+
+Right? You need to make sure the chain continues to grow. Right?
+对吧？你需要确保链继续增长。对吧？
+
+Without being broken. And because it's a very clean straight line, well, technically it's not like 180-degree kind of straight line, but compared to other kind of wrench polymers they're really, really linear. Right?
+不被中断。而且因为它的分子链非常笔直，嗯，严格来说，它并不是那种180度笔直的链，但与其他类型的支化聚合物相比，它们确实非常非常直。对吧？
+
+No branches. So they can pack up in a very high density manner. Okay? And they have no other functional groups, so they're kind of chemically inert.
+没有支链。所以它们可以以非常高的密度进行包装。明白吗？而且它们没有其他官能团，所以化学性质比较惰性。
+
+And they're specifically good for wear resistance and low coefficient of friction. So in other words, they're smooth on the surface, and you can hardly leave a scratch. On the surface compared to other polymers.
+它们尤其适用于提高耐磨性和降低摩擦系数。换句话说，它们表面很光滑，几乎不会留下划痕。与其他聚合物相比，表面……
+
+Right? So remember we talk about hardness. Right? How diamond is hard as natural materials, and how polymers are generally soft.
+对吧？所以请记住，我们谈到了硬度。对吧？钻石在天然材料中有多硬，而聚合物通常有多软。
+
+So if they're applications that you must choose polymer, but you still want a material to be hard, right, so this is your one of your choice, your ultra-high molecular weight polyethylene. Okay? And they're also biologically inert.
+所以，如果应用场合要求你必须选择聚合物，但你仍然希望材料具有较高的硬度，对吧？那么，超高分子量聚乙烯就是你的一个选择。明白吗？而且它们还具有生物惰性。
+
+So that's why many of these medical applications where we need plastics, right, we use this ultra-high molecular weight polyethylene. Okay?
+所以，这就是为什么在许多需要使用塑料的医疗应用中，我们会使用这种超高分子量聚乙烯，对吧？明白吗？
+
+So you can see some of their other examples here. Bulletproof vest. Right?
+所以你们可以在这里看到他们的一些其他例子。防弹背心。对吧？
+
+Golf ball. Right? Or hip implants.
+高尔夫球。对吧？或者髋关节植入物。
+
+This is only actually just part of the hip implant. Right? So this is a liner.
+这实际上只是髋关节植入物的一部分。对吧？所以这是一个衬垫。
+
+You can kind of want a softer part between your metal and the ceramic joints. Right? If you let metal and ceramic directly contact each other, you can imagine the kind of noises you're going to experience on their surface.
+你可能希望在金属和陶瓷关节之间使用更柔软的部件。对吧？如果让金属和陶瓷直接接触，你可以想象它们表面会产生什么样的噪音。
+
+Right? When they're frictioning each other. So we need something that is softer than metal, and ceramic, to serve as a buffer layer.
+对吧？当它们相互摩擦时。所以，我们需要一种比金属和陶瓷更柔软的材料，作为缓冲层。
+
+And to make sure this is a very neat and compact joint, but in the meantime, right, you want it to be free from scratches. So they're softer inside. I mean, as in they're elastic.
+还要确保接头非常整齐、紧凑，但同时，对吧，你又希望它没有划痕。所以里面更柔软。我是说，它们是有弹性的。
+
+But they're not soft. On the outside, right, they're smooth on the surface. So that's the kind of thing we want. So all of these examples, right, are actually expensive applications.
+但它们并不柔软。从外面看，对吧，它们表面很光滑。所以，这正是我们想要的效果。所以，所有这些例子，对吧，实际上都是成本高昂的应用。
+
+Right? So this is one expensive choice of polymer.
+对吧？所以，这是聚合物的一种昂贵选择。
+
+Okay?
+明白吗？
+
+So here's another very common example. Right? It's a very famous thermoelastic thermoplastic elastomer.
+这是另一个非常常见的例子。对吧？这是一种非常著名的热弹性热塑性弹性体。
+
+Right? It's called a styrene built-in thing. A lot called polymer. So it is known to combine classical example of linear anamorphic polymer section with a classic example of crystalline and ordered polymer section. Right? So the linear part, the amorphous part, come from this built-in thing.
+对吧？它叫作苯乙烯内置材料。很多人称之为聚合物。所以，它结合了线性变形聚合物的经典例子和结晶且有序聚合物的经典例子。对吧？所以，线性部分和非晶部分都源于这种内禀结构。
+
+Right? So it has this when you have a long chain of poly built-in thing, it tends to be very, very random and amorphous. Right? So you end up to be this soft buffer regions.
+对吧？所以，当你有一个很长的聚……内建结构链时，它往往会非常非常无规且非晶态。对吧？所以最终会形成这些柔软的缓冲区。
+
+Well, the polystyrene is a good example of being a rigid because of this benzene ring. Right? So when the polystyrene, when the benzene ring meeting each other, they tend to pack together.
+嗯，聚苯乙烯由于这个苯环，是一个很好的刚性例子。对吧？所以，当聚苯乙烯中的苯环彼此靠近时，它们往往会相互堆积。
+
+Right? Because they have this disc-like high-pine direction. Right? So they want the disc will try to align themselves, right, into layers.
+对吧？因为它们具有这种盘状的高pine方向。对吧？所以，这些盘状结构会试图相互对齐，对吧，形成层状结构。
+
+So they start to form this order structure. So they contribute to the hard component. Right? Inside the material. So you can get a polymer, a copolymer that is resilient tough, and in the meantime, shapeable and soft.
+所以它们开始形成这种有序结构。所以它们构成了坚硬的部分。对吧？在材料内部。所以你可以得到一种既坚韧又有弹性，同时又可塑且柔软的聚合物或共聚物。
+
+Okay? So they can absorb lots of energy by their amorphous part, while they're not easily broken because of this small crystallized coming from this polystyrene. Okay?
+明白吗？所以，它们的非晶态部分可以吸收大量能量，同时由于聚苯乙烯形成的少量结晶，不易断裂。明白吗？
+
+So that's one common example of thermoplastic elastomer. Okay? Right?
+所以，这是热塑性弹性体的一个常见例子。明白吗？对吧？
+
+This is only for information. Right? So no worries.
+这只是供参考。对吧？所以不用担心。
+
+Okay. So that's pretty much the story of the three classic kinds of materials: metals, ceramic, and polymer. So this is our final conclusion by adding everyone together. Right? So now that we're living in a world that made up from mixtures, right, so instead of having only single pure kind of material, most of the products we're using, we're touching, are composites.
+好的。所以，这就是金属、陶瓷和聚合物这三种经典材料的大致情况。所以，这就是把大家综合起来得出的最终结论。对吧？所以，我们现在生活在一个由混合物构成的世界里，对吧？也就是说，我们使用的、接触到的大多数产品都不是单一的纯物质，而是复合材料。
+
+Right? So in the context of material science, composite is a multi-phase material that is artificially made. Right?
+对吧？所以在材料科学中，复合材料是一种人工制造的多相材料。对吧？
+
+Artificially made. Of course, there will be natural ones. Right?
+人工制造的。当然，也会有天然的。对吧？
+
+But we focus on those that are human-made. Right? And they are supposed to have a different phases which are that are chemically different and separated by a clear interface.
+但我们关注的是那些人为制造的。对吧？它们应该具有不同的相，这些相在化学性质上彼此不同，并由清晰的界面分隔开来。
+
+Okay? So this is actually a very macroscopic definition. So otherwise, something we usually distinguish by our naked eye. You don't have to peel it off to molecular level to determine whether it's composite or not.
+明白吗？所以，这实际上是一个非常宏观的定义。所以，否则，我们通常用肉眼就能分辨出来的东西。你不必把它剥到分子层面，就能判断它是否是复合材料。
+
+You just use common sense. Right? Is it something that is made up by mixing different kinds of things together that you can actually disassemble it by yourself?
+你只需要运用常识。对吧？它是不是由不同种类的东西混合而成的，而且你自己其实可以把它拆解开来？
+
+Right? Of course, there will be a special kind which is called nanocomposite. That one you need zoom in.
+对吧？当然，还有一种特殊的材料，叫作纳米复合材料。那个需要放大才能看清。
+
+You need to enlarge and see. Right? But for general kinds of composites, you just simply know it.
+你需要放大才能看到。对吧？但对于一般类型的复合材料，你只需简单地知道它。
+
+Right? Where by common sense. So here we are showing this classic example.
+对吧？凭常识。所以这里我们展示这个经典例子。
+
+Right? So many, many of our sports gears are composites. Right?
+对吧？所以，我们的许多运动装备都是复合材料制成的。对吧？
+
+So this is one of the high-end sports gear. Right? This is a ski board.
+所以，这是高端运动装备之一。对吧？这是一块滑雪板。
+
+Right? So if we peel off the ski board, right, so this is the whole long plate-like, right, structure. And if we take the plate out and we cut it and we see the cross section too, so this is a long the direction, axial direction of that ski board and so this is its cross section.
+对吧？所以，如果我们把滑雪板剥开，对吧，这就是整个长条形的，对吧，结构。如果我们把这块板取出来并切开，也能看到它的横截面。所以，这是滑雪板的纵向，也就是轴向；而这是它的横截面。
+
+So this is typically what we can see.
+所以，这通常是我们的观察结果。
+
+Right? So in the main body, it is actually something used mainly to fill the space and lower the density. It is typically a foam material. A foam is a solid with many, many built-in pores.
+对吧？所以，在主体部分，它实际上主要用于填充空间并降低密度。它通常是泡沫材料。泡沫是一种具有大量内置孔隙的固体。
+
+Holes. Right? Empty voids.
+孔。对吧？空腔。
+
+That's what we call foam. Right? So a foam means that it's a solid, but it's very empty inside. If you zoom in. So the density, the macroscopic density measured will be very, very low.
+这就是我们所说的泡沫。对吧？所以，泡沫意味着它是一种固体，但内部非常空。如果你放大来看。所以测得的宏观密度会非常非常低。
+
+Right? So this is a solid filling of foam. Which is generally made either by some high-end polymer or by some natural materials.
+对吧？所以，这是泡沫的固体填充物。它通常由一些高端聚合物或天然材料制成。
+
+Right? Like woods. Right?
+对吧？比如木材。对吧？
+
+Like wood. Or bamboos. Right?
+就像木头一样。或者竹子。对吧？
+
+In some cases. Right? But they're not just something you harvest from nature and directly use.
+在某些情况下。对吧？但它们并不是你直接从大自然中采伐并使用的东西。
+
+Right? They're usually modified wood. Modified bamboo or modified natural materials.
+对吧？它们通常是经过改性的木材。改性竹或改性天然材料。
+
+Right? Depending on the price. Right? Basically, determine what kind of high-end filament we're going to use because this is usually the cheap part of this whole design.
+对吧？取决于价格。对吧？基本上，要确定我们将使用哪种高端长丝，因为这通常是整个设计中成本较低的部分。
+
+Right? And after that, right, very importantly, we have a you look at this gray layer. Right? So this gray shell is a coating made from fiber reinforced composites.
+对吧？然后，非常重要的是，我们有一个……你看这个灰色层。对吧？所以，这个灰色外壳是由纤维增强复合材料制成的涂层。
+
+Okay? Fiber reinforced composite. So if it's a high-end, expensive one, we generally use aramid or carbon fibers.
+明白吗？纤维增强复合材料。所以，如果是高端、昂贵的材料，我们通常使用芳纶纤维或碳纤维。
+
+Right? Glass is less used. Right? So this is a protecting coating which is particularly good than in resisting the tear or torsion force.
+对吧？玻璃纤维的使用较少。对吧？所以这是一种保护涂层，尤其擅长抵抗撕裂力或扭转力。
+
+Right? Torsion or tear force.
+对吧？扭转力或撕裂力。
+
+So tear. This is a word now. Okay?
+所以是撕裂。这现在是一个词了。明白吗？
+
+Tear. So that means you're peeling something off. Right? If you hold a piece of paper and you try to tear it apart, that's a tear force.
+撕裂。所以，这意味着你在把某物剥掉。对吧？如果你拿一张纸，试图把它撕开，那产生的就是撕裂力。
+
+Okay? So fiber, especially carbon or aramid fibers, particularly good in resisting tear force. So you can imagine a foam filling itself will be very rigid. Right? They're light, but they're kind of easy to be broken. If you get a very sticky and very thick wrapping, right, they can very well protect being apart from being simply broken.
+明白吗？所以，纤维，尤其是碳纤维或芳纶纤维，特别擅长抵抗撕裂力。所以你可以想象，泡沫本身填充后会非常坚硬。对吧？它们很轻，但有点容易损坏。如果你得到一种非常黏稠、非常厚实的包裹物，对吧，它们除了可能被简单地弄破之外，还能很好地起到保护作用。
+
+But even if they break, it will be like a rigidly broken. So it's like a very like a gentle bending gradually gets bigger and bigger degree, but without fracture being a brittle way. Right? Because they're glued together by this outer shell.
+但即使它们断了，也会像是硬生生地断开。所以，它就像是一种非常……像是一种逐渐加大弯曲程度的温和弯曲，但不会以脆性方式断裂。对吧？因为它们被这个外层包裹在一起。
+
+Okay? And then we have another reinforcement layer. Right? So that's the top and bottom layer. Right? So well, depending on the kind of the kind of design, right, there could be different kinds of fiber composites. Right? And this this is another film-like design.
+明白吗？然后我们还有另一层增强层。对吧？所以，那是顶层和底层。对吧？所以，嗯，根据设计类型，对吧，可能会有不同的纤维复合材料。对吧？这是另一种薄膜式设计。
+
+So they're going to have to be thin compared to the film filler they're going to be thin. Right? So we call them thin films.
+所以，与薄膜填料相比，它们必须很薄，会很薄。对吧？所以我们称它们为薄膜。
+
+Right? So usually, people use glass fibers. So it's another way of increasing the stiffness. Okay? And then there's another outer part. Right? Usually, some tear-resistant polymers.
+对吧？所以通常人们会使用玻璃纤维。所以这是另一种提高刚度的方法。明白吗？然后还有另一层外层。对吧？通常是某些抗撕裂聚合物。
+
+Right? So the top part, usually, you want to color it, and you want to make sure it's friction-resistant. Right? So we use polyamide. And on the bottom, very importantly, we need this ski board.
+对吧？所以顶部通常需要上色，并确保其具有防摩擦性能。对吧？所以我们使用聚酰胺。在底部，非常重要的是，我们需要这块滑雪板。
+
+Right? To cut through the snow. Right? So we still need to have some part that are particularly strong and into mechanical resistant force.
+对吧？用来切穿积雪。对吧？所以，我们仍然需要有一些特别坚固、能抵抗机械力的部分。
+
+So typically, only built in two very thin chips of metals. Right? So this is usually steel.
+所以通常，只内置两片非常薄的金属片。对吧？所以这通常是钢。
+
+What we have here, carbon steel. Right? So that's the kind of material people typically use. So you can imagine the metal part in the whole design is actually very, very small now.
+我们这里用的是碳钢。对吧？所以，这通常是人们使用的材料类型。所以你可以想象，整个设计中金属部分其实非常非常少。
+
+Right? Only the edges are contacting the ice. Or snow. Right? So they only leave that parts metal. All the other parts, they're replacing them with polymers or fiber reinforced polymers or composites.
+对吧？只有边缘与冰接触。或者雪。对吧？所以它们只留下金属的那一部分。其他所有部件都改用聚合物、纤维增强聚合物或复合材料。
+
+Okay? So if you take this whole ski board as a whole piece, this is a composite. And if you just take out one single layer, for example, the fiber layer, it is also a composite. Okay? So composite can be different scales when we talk about that because it's still a mixture.
+明白吗？所以，如果你把整块滑雪板看作一个整体，它就是一种复合材料。如果你只取其中一层，例如纤维层，它也属于复合材料。明白吗？所以，当我们谈论复合材料时，它可能涉及不同的尺度，因为它仍然是一种混合物。
+
+Right? So as we mentioned, right, this fiber reinforcement composites are typically used and the matrix is a polymer and the fillers are usually fibers. We learned about carbons and glasses and other kind of fibers.
+对吧？正如我们提到的，对吧，这种纤维增强复合材料通常采用聚合物作为基体，填料通常是纤维。我们学习了碳纤维、玻璃纤维以及其他类型的纤维。
+
+Right? So that's another layer of composites. Okay? So very important message.
+对吧？所以，这是复合材料的另一层。明白吗？所以，这是一个非常重要的信息。
+
+Why do we need composites? Right? So the key is that when we have one component, and a second component, we kind of want them to be at least equal.
+为什么我们需要复合材料？对吧？所以关键在于，当我们有一个组分和另一个组分时，我们希望它们至少是相等的。
+
+Right? Or greater than simply adding them or using them together, but separate in a separate way. Okay? So when you design product, that has one, two, three, four component, you want them to have this new or better combination of properties than the single one if you use them separately, one by one, or parallelly together. They don't work. Okay?
+对吧？或者大于它们简单相加或共同使用后的结果，但以一种分开的方式。明白吗？所以，当你设计一种由一、二、三、四个部件组成的产品时，你希望它们通过单独使用、逐一使用或并行组合，形成一种新的、或比单个部件性能更好的组合。它们不起作用。明白吗？
+
+So that's very unfortunate. Otherwise, everything can be called composite. Right? So we composite are usually very carefully designed. Right? So they're presenting a better combination of properties.
+所以这非常遗憾。否则，所有东西都可以称为复合体。对吧？所以，复合材料通常会被非常精心地设计。对吧？所以，它们呈现出更理想的性能组合。
+
+Okay? So that is very important.
+明白吗？所以这一点非常重要。
+
+Okay? So in the past, people usually focus on enhancing the mechanical characteristics. Right?
+明白吗？所以过去，人们通常专注于改善机械性能。对吧？
+
+And nowadays, right, people also focusing on protecting. Right? Like you have material that is very strong, but it somehow are for example, sensitive to acid or sensitive to high temperature or sensitive to water.
+如今，人们也更加注重保护。对吧？比如，有些材料非常坚固，但它们对酸、高温或水等都有某种敏感性。
+
+So you want them to be coated or embedded in some protecting parent materials. So they can function on the inside and outside are something cheaper or something you can bear to lose. Right? So that's another way of increasing the functionality or durability of a material.
+所以你希望给它们涂覆一层保护层，或者把它们嵌入一些保护性基质材料中。这样它们就能在内部发挥作用，而外部则是成本较低的材料，或者是可以承受损失的材料。对吧？所以，这是提高材料功能或耐用性的另一种方法。
+
+Okay? So they're very they're only two very important terms. Right? In composite. One is the parent material.
+明白吗？所以，它们是非常……只有两个非常重要的术语。对吧？在复合材料中。一个是母质。
+
+We call them matrix. Okay? So matrix is the majority of a given composite.
+我们称它们为基体。明白吗？所以，基体是给定复合材料中的主要成分。
+
+Right? For fiber reinforcement polymer, composite, then most of the time, polymer is a matrix. The fibers are the second phase that is dispersed in this matrix.
+对吧？对于纤维增强聚合物复合材料来说，大多数情况下，聚合物是基体。纤维是分散在该基体中的第二相。
+
+So that is the dispersed phase all those kind of fibers.
+所以，所有这些纤维都是分散相。
+
+Okay? But it doesn't have always to be polymers to be the matrix. Right?
+明白吗？但基质并不一定总是聚合物。对吧？
+
+It's just a binary classic example. Okay? So matrix dispersed phase.
+这只是一个经典的二元例子。明白吗？所以，基质分散相。
+
+Right? When we talk about the bi-phase system, which is also the most common kind of composite, just remember matrix and dispersed phase. Okay? And sometimes, maybe we have a matrix and two or more kinds of dispersed phases, but they're usually very easily identified.
+对吧？当我们谈到双相体系时，也就是最常见的复合材料类型，只需记住基体相和分散相。明白吗？有时，我们可能有一个基体和两种或更多种分散相，但它们通常很容易识别。
+
+Right? We don't often mix who is matrix, who is dispersed phase. It's usually quite straightforward.
+对吧？我们通常不会混淆什么是基质，什么是分散相。通常都很直观。
+
+Like these schemes here. Right? You can readily know the blue parts are matrix.
+就像这里的这些方案。对吧？你可以马上看出蓝色部分是矩阵。
+
+Right? They are like the C. Where all the fishes are swimming in the sea.
+对吧？它们就像 C，所有的鱼都在海里游动。
+
+Right? So it's kind of obvious. So for the filler or the dispersed phases, right, we have a lot of thing that we can play with. Right? So for example, we can play with their concentration.
+对吧？所以这有点显而易见。所以对于填料或分散相来说，我们有很多可以调整的地方。对吧？例如，我们可以调整它们的浓度。
+
+How many are filled? Right? How many are or how concentrated are they filled?
+有多少个被填满了？对吧？有多少，或者说它们的浓度有多高？
+
+Right? And how big are these fillers? Right?
+对吧？这些填料有多大？对吧？
+
+So what are the shapes of their fillers? And also distribution, orientation. Right? Like how they were Vs together.
+那么，它们的填料是什么形状的？还有分布和取向。对吧？比如它们是如何相互叠加的。
+
+Right? So for carbon fiber, let me see.
+对吧？那么对于碳纤维，让我看看。
+
+I think we have an example of carbon fiber. Maybe in the ceramic parts.
+我想我们有一个碳纤维的例子。也许在陶瓷零件里。
+
+Right?
+对吧？
+
+We have an orientation image. Let me show this.
+我们有一张取向图像。我来展示一下。
+
+Right. So this is carbon fiber reinforcement polymer. This is only carbon fiber.
+对。所以这是碳纤维增强聚合物。这只是碳纤维。
+
+Right? Not reinforced yet. Right? But you can see this in this case, we have fibers which are weaved right?
+对吧？还没有增强。对吧？但你可以看到，在这种情况下，我们有编织好的纤维，对吧？
+
+So they're mixed together. Artificially, in this 90-degree two-dimensional alignment. So they're very closely compactively knit together.
+所以它们混在了一起。人为地，以这种90度二维取向。所以它们非常紧密地交织在一起。
+
+And now so usually what people do is, right, after they make this patterned carbon fibers, they pour the polymer matrix onto it. The polymer matrix are still liquid before they become solid. Okay?
+现在，通常人们的做法是，对吧，制备好这种图案化碳纤维后，再把聚合物基体浇铸在上面。聚合物基体在固化前仍然是液体。明白吗？
+
+So this is the precursor, and they can infiltrate this carbon fiber. Right? So you don't have to worry there are small holes that they this polymer cannot infiltrate.
+所以这是前驱体，它们可以浸渗到这些碳纤维中。对吧？所以你不用担心会有小孔，这种聚合物无法渗入。
+
+Right? The polymer will always be able to infiltrate and they will become everywhere surrounding these fibers. And that is where when you let the polymer solidify.
+对吧？聚合物始终能够渗入，并会遍布这些纤维周围。这就是你让聚合物固化时的情况。
+
+Right? Where it's a cure. Right?
+对吧？也就是固化的地方。对吧？
+
+In polymer term, it's a cure. So the precursors or the monomers cure into polymers or elastomers. Right?
+在聚合物领域，这叫固化。所以，前体或单体会固化成聚合物或弹性体。对吧？
+
+So they're surrounding it like that. Okay?
+所以它们像这样包围着它。明白吗？
+
+Okay? So how we make composites are closely associated about how we design composites. So when people start to think about making composites, they're already close to the user end.
+明白吗？所以，我们如何制造复合材料与如何设计复合材料密切相关。所以，当人们开始考虑制造复合材料时，他们已经接近用户端了。
+
+They know very clearly what is the purpose or property that they want to enhance. Right? And they also take consideration of the cost and processing difficulty.
+他们非常清楚自己想要增强的目的或性能。对吧？他们还会考虑成本和加工难度。
+
+Right? So if you want to make them aligned, right, you better make them aligned in a cheap way. Right? In a cost-effective way. And how they will mix together. So when you study specific composites, you need to simultaneously think about their processing and application.
+对吧？所以，如果你想让它们对齐，对吧，最好用一种成本低廉的方式对齐。对吧？以成本效益高的方式。以及它们将如何混合在一起。所以，当你研究特定的复合材料时，需要同时考虑其加工和应用。
+
+Right? They're already very close. To the application side.
+对吧？它们已经非常接近了。面向应用的一侧。
+
+Okay? So classic definitions of composites have already kind of figured out how we distinguish the categories. Right?
+明白吗？所以，经典的复合材料定义已经大致明确了我们如何区分这些类别。对吧？
+
+We have four subcategories of composites. Right? So particle reinforced composites, are those that are made by mixing particles. Right?
+复合材料有四个子类别。对吧？颗粒增强复合材料是由颗粒混合而成的。对吧？
+
+Suspended particles. Inside a whole matrix. Okay? So by, say, particles, that means we don't care about orientation of the particles because we assume they're either spherical or near-spherical.
+悬浮颗粒。整个基质内部。明白吗？所以，比如说，这里的“颗粒”意味着我们不关心颗粒的取向，因为我们假设它们是球形或近似球形的。
+
+So we don't really care how they're oriented. They're just dots. To us.
+所以我们其实并不关心它们的取向。它们只是点。对我们来说。
+
+So we care about the dot size or the dot position, but we don't care about orientation of the dots. Right? So that's a feature.
+所以我们关心点的大小或位置，但不关心这些点的方向。对吧？所以这是一个特征。
+
+And then we have fiber reinforced composite. Right? So it's very clear that we need the dispersed phase to be a fiber. So it is a very clearly distinguished 1D structure.
+然后是纤维增强复合材料。对吧？所以很明显，我们需要分散相是纤维。所以，它是一种非常明确的1D结构。
+
+Okay? And we already know we have glass fiber, carbon fiber, right, polyamide, all these kind of fibers.
+明白吗？而且我们已经知道有玻璃纤维、碳纤维，对吧，还有聚酰胺等各类纤维。
+
+All right? And then we have structural composite. Right? So structural composites are how we build up our buildings.
+明白吗？然后是结构复合材料。对吧？所以，结构复合材料是我们建造建筑物的材料。
+
+Right? We mix the network of stainless steel with cement, for example. Right? That's how we make our building strong and resilient.
+对吧？例如，我们将不锈钢网络与水泥混合。对吧？这就是我们让建筑变得坚固且具有抗灾能力的方式。
+
+Right? So structural composites are featured to have this layered structure. Right?
+对吧？因此，结构复合材料具有这种分层结构。对吧？
+
+So again, like how you make rusticate, but it's more complicated than that. Right? So usually we have different functions, add up together.
+所以，这又有点像制作 rusticate 的方式，但比那更复杂。对吧？所以通常我们会把不同的函数加在一起。
+
+Right? But even if it's layered, sometimes we also have vertical penetration. Right? Like during this layering, we reinforce a three-dimensional metal mesh for example, to make it entirely more strong.
+对吧？但即使它是分层的，有时也会有垂直穿透。对吧？比如，在这种分层过程中，我们会加固一个三维金属网，使其整体强度更高。
+
+Right? But they have this feature of having an add-up, right, 2D add-up of functions.
+对吧？但它们具有叠加功能，对吧？也就是二维功能叠加。
+
+All right? And then we have nanocomposite. So this is, again, quite a blur category.
+明白吗？然后我们有纳米复合材料。所以，这同样是一个相当模糊的类别。
+
+But everything are small enough. Right? Whether they're fiber or particle, you probably can sort of characterize them into nanocomposite.
+但所有东西都足够小。对吧？无论它们是纤维还是颗粒，你大概都可以把它们归类为纳米复合材料。
+
+So the key feature is kind of we mostly focus on the level of control that you can gain. Right? So for example, if you take out one single fiber out of the fiber reinforced composite, there probably also nano in their diameter and size.
+所以，关键特征主要是我们关注的是你能达到的控制程度。对吧？所以，例如，如果你从纤维增强复合材料中取出一根纤维，它的直径和尺寸可能也处于纳米级别。
+
+But people don't care. About that. Right?
+但人们并不在意。关于这一点。对吧？
+
+They don't control that. They just use the whole bundle. Right? As the very thick rope.
+他们无法控制那件事。他们只是把整套东西都用上。对吧？就像非常粗的绳子。
+
+So that, in that case, they're not nanocomposite. Right? So for nanocomposite, people will usually will extremely highlight the function of being a nanosized structure or adding some nanosized additives.
+所以，在这种情况下，它们并不是纳米复合材料。对吧？所以，对于纳米复合材料，人们通常会非常强调其纳米级结构或添加纳米级添加剂所带来的功能。
+
+Okay? So that would be something very obvious. Okay?
+明白吗？所以，这会是一个非常明显的特征。明白吗？
+
+Okay. So some fun to have. I hope you already have your dinner. So let's focus on the first three kinds of composites.
+好的。所以会有一些乐趣。希望你已经吃晚饭了。那么，我们来重点讲讲前三种复合材料。
+
+Okay? The last one is nano. We don't see that very often. So out of the three, right, so if you think about it, the particle fiber and the structural composite we just talked about.
+好吗？最后一种是纳米复合材料。我们不太常看到这种材料。所以在这三种中，对吧，如果你仔细想想，就是我们刚才谈到的颗粒纤维和结构复合材料。
+
+Right? So which one do you think which composite do you think is this one?
+对吧？那么，你觉得这是哪一种复合材料？
+
+Which one?
+哪一个？
+
+I heard someone is what is it? Structural? Any objection?
+我听到有人在说什么来着？结构性的？有人反对吗？
+
+One, two. You heard both.
+一，二。你俩都听到了。
+
+Right? So it's a very clear layered structure. Right?
+对吧？所以这是一个非常清晰的分层结构。对吧？
+
+So it has some different functions. Right? But you can see it overall, it's one layer.
+所以它具有不同的功能。对吧？但你可以看到，整体上它只有一层。
+
+So the second one, this is ice cream. Chocolate chip. One of my favorite flavors.
+所以第二个，这是冰淇淋。巧克力片。我最喜欢的味道之一。
+
+So what kind of composite is this one?
+那么，这是哪种复合材料？
+
+Particle.
+颗粒复合材料。
+
+Yeah.
+对。
+
+Which one?
+哪一个？
+
+Particle.
+粒子。
+
+Particle. Right? So I heard people saying particle.
+粒子。对吧？所以我听到有人说是粒子。
+
+So you can see this black dots. They're randomly dispersed. Right? In the whole ice cream. You don't care what shape they are.
+所以你可以看到这些黑点。它们是随机分布的。对吧？在整个冰淇淋中。你不在乎它们是什么形状。
+
+Right? So as long as they're small enough, they're just you just care about density. Right? So they're just a homogeneous well, close to homogeneous mixture.
+对吧？所以，只要它们足够小，你只关心密度。对吧？所以它们就是一个均匀的……接近均匀的混合物。
+
+Okay? So how about last one?
+明白吗？那么最后一个呢？
+
+I don't know.
+我不知道。
+
+Anyone have this before? So this is a potato chips. Right?
+有人以前做过这个吗？所以这是一个薯片。对吧？
+
+Made into a pancake.
+做成煎饼。
+
+So this should be the last kind. We haven't talked about. Right?
+所以这应该是最后一种。我们还没谈到。对吧？
+
+Fiber.
+纤维。
+
+Fiber.
+纤维。
+
+Reinforced.
+增强的。
+
+Composite. Okay? Fiber composite.
+复合材料。明白吗？纤维复合材料。
+
+So you can clearly identify a one-dimensional structure outside this composite. Right? If you see the one-dimensional dispersed phase, you know it's a fiber-like.
+所以你可以清楚地识别出这种复合材料外部的一维结构。对吧？如果你看到一维分散相，就知道它是纤维状的。
+
+Right? It's usually very obvious. Right? I think you won't mix up 1D with this 0D mixture.
+对吧？这通常非常明显。对吧？我觉得你不会把一维和这个零维混合物搞混。
+
+Okay?
+明白吗？
+
+Can we have the answer now?
+我们现在能知道答案吗？
+
+Yeah. Okay.
+可以。好的。
+
+All right.
+好的。
+
+Okay. It's about time. Let's have a break.
+好的。差不多该到了。我们休息一下吧。
+
+Well, I fixed this microphone. So now it has sounds. Okay.
+嗯，我把这个麦克风修好了。所以现在它能出声音了。好的。
+
+Let's have a break. Please come back at 7:20. Okay? 7:20.
+我们休息一下吧。请在7点20分回来。好吗？7点20分。
+
+— 由 LecSync 生成

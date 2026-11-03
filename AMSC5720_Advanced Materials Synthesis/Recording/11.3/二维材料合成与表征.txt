@@ -1,0 +1,360 @@
+二维材料合成与表征
+日期: 2026年11月3日 20:15
+语言: 英语 → 中文
+时长: 51分37秒
+
+Solution-based, or not solution-based, and so actually open a whole area of research that we can work on various kinds of two-dimensional materials. Professor Sun is also an expert in characterizing these materials using various kinds of in-situ methods, so it's a good chance to actually learn both the synthesis and the characterization part of this special material. So, um, Professor Sun has a long list of honors and awards, so I will skip that.
+基于溶液的，或者不基于溶液的，因此实际上开辟了一个全新的研究领域，我们可以研究各种二维材料。孙教授也是利用各种原位方法表征这些材料的专家，因此这是一个很好的机会，可以真正学习这种特殊材料的制备和表征。那么，嗯，孙教授获得过很多荣誉和奖项，我就不再赘述了。
+
+I already sent you the introduction in the Blackboard, so please feel free to read that. So without any delay, let's welcome Professor Zeng.
+我已经把介绍发到 Blackboard 上了，请随意阅读。那么，我们不作任何耽搁，欢迎曾教授。
+
+Thank you.
+谢谢。
+
+Thank you, Professor Chen, for the, um, for the invitation and the same for give me this opportunity to, uh, to present here to, uh, to introduce, uh, a 2D material and also, uh, cancel for, um, my group's research in, um, in City University of Hong Kong. Uh, so today so this is just the, uh, presentation title. This is just my group's research. It's focusing on the transition method action item, but since this is kind of a lecture, I would say I will first introduce the, uh, the synthesis method for two-dimensional materials. Okay? And, uh, so, uh, first is the background for 2D material.
+谢谢陈教授的邀请，也谢谢您给我这个机会，呃，在这里介绍一种二维材料，另外，呃，取消，嗯，我们小组在香港城市大学的研究。呃，那么今天，这只是，呃，演示文稿的标题。这只是我们小组的研究。它主要关注过渡方法的行动项目，但由于这算是一场讲座，我想我会先介绍二维材料的合成方法。好吗？那么，呃，首先介绍一下二维材料的背景。
+
+We know that 2D material including of course the first material of 2D is graphene. Graphene nanosheets. And so graphene is it's kind of a star material in 2D material.
+我们知道，二维材料当然包括第一种二维材料——石墨烯。石墨烯纳米片。所以，石墨烯可以说是二维材料中的明星材料。
+
+That's in conductivity, in all kinds of properties. And later people also let's say develop the other 2D material like boron nitride, moly disulfide, or let's say transition method action item including MOS2, WS2, TS2, TS2, ZS2, and also selenite and terurite. Okay? And so the difference is that so the graphene the conductivity is much, much better compared to the transition method action item.
+它在导电性以及各种性质方面都很出色。后来，人们还开发了其他二维材料，比如氮化硼、二硫化钼，或者过渡金属硫化物，包括MoS₂、WS₂、TS₂、TS₂、ZS₂，以及硒化物和碲化物。明白吗？所以区别在于，与过渡金属硫化物相比，石墨烯的导电性要好得多。
+
+So this transition method action item is kind of semiconductor. And the boron nitride is kind of insulate the band gap is very, very large. Okay?
+所以，这种过渡方法的行动项目有点像半导体。而氮化硼是绝缘体，其带隙非常非常大。明白吗？
+
+And so this is just the background showing that the transition method action item showing high carrier mobility. Which can be used for transistor because in nowadays people want to investigate or let's say develop integrated circuit circuits using silicon-based material. Let's say they can develop 13 nanometer or let's say 20 nanometer 13 nanometer 7 nanometer and 5 nanometer.
+所以这只是背景介绍，说明过渡方法的行动项具有高载流子迁移率。这可以用于制造晶体管，因为如今人们希望研究，或者说开发基于硅材料的集成电路。可以说，他们可以开发13纳米，或者说20纳米、13纳米、7纳米和5纳米。
+
+But when they are further developed the silicon-based integrated circuit for to reduce the size it is quite difficult. Then people are trying to using the 2D material such as the molybdenum disulfide to fabricate the gates all around transistors. Because previously for silicon-based material people always using the thin fat.
+但当他们进一步开发硅基集成电路以减小尺寸时，这相当困难。于是，人们尝试使用二硫化钼等二维材料，在晶体管周围制造栅极。因为以前对于硅基材料，人们总是使用“thin fat”。
+
+Thin fat. Thin fat is the foundation for all the semiconducting materials. But currently let's say TSMC or some other semiconductor company is developing the 2D material such as molybdenum disulfide to kind of wrap up the let's say the silicon wire to fabricate the gates all around semiconductor. So this is how important this is how importance of 2D material such as molybdenum disulfide.
+薄脂肪。薄脂肪是所有半导体材料的基础。但目前，假设台积电或其他半导体公司正在开发二硫化钼等二维材料，以包裹所谓的硅线，从而在半导体周围制造栅极。所以，这说明二维材料，比如二硫化钼，有多么重要。
+
+And also it's showing the transparent nonlinear optical response and high strength flexibility and also conductivity. So this 2D transition method action item have high specific area that it can be used for catalysis because the molybdenum disulfide they have the moly that sandwiched between the sulfur. Sulfur atom. So this you can see this is all sulfur atom and the sulfur atom is very useful for the for catalysis.
+此外，它还表现出透明的非线性光学响应、高强度和柔韧性，以及导电性。所以，这种二维过渡金属硫化物具有高比表面积，可用于催化，因为二硫化钼的钼夹在两个硫原子之间。硫原子。所以你可以看到，这些都是硫原子，而硫原子对催化非常有用。
+
+It can kind of binding the hydrogen or let's say some other molecules it's quite useful or let's say it's quite active to activate the catalytic performance. Okay? And so this is just the 2D material can be used for defense for for coating aerospace biomedicine electronics.
+它可以与氢或其他一些分子结合，这很有用，或者说，它具有很强的活性，能够提升催化性能。明白吗？所以，这种二维材料可以用于国防、航空航天、生物医学和电子领域。
+
+Energy and also environmental applications. Okay?
+能源以及环境应用。明白吗？
+
+And so then we will introduce the method for production of the 2D material. Especially 2D transition method action item. We will introduce the there are two rules to fabricate the 2D material. First is top-down approach which means that using the top-down means that from the back to single layer or two or bi-layer or three layer.
+然后，我们将介绍二维材料的制备方法。尤其是二维过渡方法的行动项目。我们将介绍制造二维材料的两条规则。第一种是自上而下法，也就是说，自上而下是指从多层到单层，或者单层到双层或三层。
+
+So with back layer material and separate them into individual and also few layer sheets. Okay? And for top-down method people can using the mechanical exfoliation using the scotch tap method which is basically repeatedly exfoliate let's say the graphene or let's say molybdenum disulfide repeatedly exfoliate then the thickness of the TMD or the graphene will be thinner and thinner and thinner and eventually it will become the single layer graphene and also the molybdenum disulfide. Okay? That's how so you can see for this mechanical exfoliation is quite tedious and also long time to fabricate single layer and also the yield is not that higher.
+所以，用底层材料将它们分离成单层，以及多层薄片。明白吗？对于自上而下的方法，人们可以采用机械剥离法，也就是 Scotch tape法。其基本原理是反复剥离石墨烯，或者反复剥离二硫化钼。这样，TMD或石墨烯的厚度会越来越薄，最终会变成单层石墨烯和单层二硫化钼。明白吗？所以你可以看到，这种机械剥离方法相当繁琐，制备单层材料也需要很长时间，而且产率也不是很高。
+
+Okay? And so you can see peeling layer from back material yield high crisp. But the advantage is that they are showing high crisp crisper quality and also pristine lattice. But the disadvantage low throughput and small flake size.
+明白吗？所以你可以看到，从背面材料剥离的层具有很高的清晰度。但优点是，它们表现出更高、更清晰的品质，以及原始晶格。但缺点是生产通量低，且薄片尺寸较小。
+
+Make it difficult to scale up. Okay? And then so since the mechanical exfoliation have this kind of disadvantage so people trying to using some other method to accomplish the top-down approach which is liquid exfoliation. So for liquid exfoliation of course the advantage is that because it's in solution using this solution to exfoliate the back material into solution then you can get a bunch of two-dimensional nanosheets. So the yield is much, much higher compared to the mechanical exfoliation.
+难以规模化生产。明白吗？那么，由于机械剥离存在这种缺点，人们尝试采用其他方法来实现自上而下的剥离，也就是液相剥离。所以，液体剥离法的优点当然是，因为它是在溶液中进行的，利用这种溶液将基材剥离到溶液中，然后可以获得大量二维纳米片。所以，与机械剥离相比，产率高得多。
+
+And so you can see the process is dispersing back layer into suitable solvents. And then apply mechanical shear force. And also address application.
+所以你可以看到，这个过程就是将底层分散到合适的溶剂中。然后施加机械剪切力。还要考虑应用。
+
+So this address application is the most popular method for liquid exfoliation. But people also can using the ball milling microfluid or chemical intercalation. Chemical intercalation. So this one I would say the advantage in enable larger scale high volume production of 2D material ink and also dispersion but the disadvantage is that the flake often have small lateral side because when you're using the ultrasonication long time sonication then this back material will break into small pieces. That's why would say it's small lateral side.
+所以，这种地址法应用是液体剥离中最常用的方法。但人们也可以使用球磨、微流体或化学插层。化学插层。所以，我认为这种方法的优点是能够实现二维材料油墨的大规模、高产量生产，以及分散，但缺点是薄片的横向尺寸往往较小，因为超声处理时间较长时，这种材料会破碎成小块。所以才会说它的横向尺寸较小。
+
+And also random thickness distribution means that this kind of material sometimes single layer sometimes three layer sometimes or let's say ten layer. Which means that the uniformity using this liquid exfoliation is not that good. And also another disadvantage is that potential solvent residue. Because we when we using the liquid exfoliation to exfoliate people using the NMP and the DMF.
+而且，厚度分布不均匀意味着这种材料有时是单层，有时是三层，有时则是十层，可以说。这意味着使用这种液相剥离法时，均匀性并不理想。另一个缺点是可能存在溶剂残留。因为我们在使用液相剥离时，人们会使用 NMP 和 DMF。
+
+So NMP DMF is kind of for high matching point solvents. Which is after you exfoliate into the nanosheets you want to do the application is a little bit difficult to remove this solvent since it have high matching point. High matching point.
+所以，NMP、DMF 这类溶剂的匹配点较高。也就是说，剥离成纳米片后，如果你想进行应用，就很难去除这种溶剂，因为它的匹配点很高。高匹配点。
+
+Or let's say boiling point. Okay?
+或者说，沸点。明白吗？
+
+Then later so this liquid exfoliation it can increase the yield but the uniformity is not that good. So people later trying to using the electrochemical lithium intercalation which means that it can intercalate some molecules or ions in between the layer structure which means that after intercalation the interlayer spacing will increase a little bit in this case it can have the layer structure to exfoliate. That's the advantage. Okay? So you can see using voltage to dry iron for from an electrolyte into the interlayer space and so in this case it is fast and also relatively high yield. Since this back material every layer I think most of the back material every layer is intercalated in intercalated with the molecules or ions in this case the exfoliation efficiency would be much better than the liquid exfoliation using the solid solvent.
+那么，这种液相剥离可以提高产率，但均匀性不太好。所以后来人们尝试采用电化学锂插层，也就是说，它可以在层状结构之间插层一些分子或离子。这意味着插层后，层间距会稍微增大；在这种情况下，它可以使层状结构剥离。这就是优点。明白吗？所以你可以看到，利用电压将铁从电解液中干燥并转移到介层空间。因此，在这种情况下，速度很快，产率也相对较高。由于这种后处理材料，我认为每层材料中大部分都发生了分子间插层，或者在这种情况下与分子或离子发生了间插，因此剥离效率会比使用固体溶剂的液相剥离高得多。
+
+Okay? But also there are some disadvantage that hard to precisely control the number of atomic layers. Okay?
+明白吗？但这种方法也有一些缺点，比如难以精确控制原子层数。明白吗？
+
+And also the method for production of the 2D layer is also including the bottom up approach which is chemical vapor division. So here you can see chemical vapor division means that the reaction gas precursors let's say transition material character source at elevated temperature inside a furnace to deposit uniform 2D film onto a target substrate such as the silicon such as the silicon. Okay? And so then you can see the advantage is that can provide the precise control thickness and also domain size.
+此外，二维层的制备方法还包括自下而上的方法，即化学气相沉积。所以在这里可以看到，化学气相沉积是指在炉内高温下，使反应气体前驱体，比如说过渡材料源，沉积在硅等靶基底上，形成均匀的二维薄膜。明白吗？所以，可以看到，这种方法的优点是可以精确控制厚度和畴区尺寸。
+
+Also allow for larger area and the waveform scale single crisp but the disadvantage is that you can see require strict parameter optimization and also there is a substrate material interaction that if we want to transfer the 2D material from chemical vapor division onto substrate we normally using the PMMA to coating this film and then transfer. To the other substrate. Okay?
+还可以实现更大的面积和单个清晰的波形尺度，但缺点是，可以看到，它需要严格的参数优化，而且还会发生衬底材料相互作用。如果我们想将二维材料从化学气相沉积转移到衬底上，通常会用PMMA涂覆这层薄膜，然后再进行转移。转移到另一基底上。明白吗？
+
+And so this is chemical vapor division method. And then for the bottom up approach people also using the molecular beam attacher. So for this method you can see this is evaporating element source in ultra high vacuum to grow atomic layer or a clean substrate then you can see the advantage that it can accomplish extremely high purity and also in-situ characterization. This is because for molecular beam attacher people using the high vacuum.
+所以，这就是化学气相沉积法。然后，对于自下而上的方法，人们也使用分子束外延。所以对于这种方法，你可以看到，它是在超高真空条件下使用蒸发元素源来生长原子层，或者在洁净衬底上生长。你可以看到，它具有能够实现极高纯度以及原位表征的优点。这是因为分子束外延采用的是高真空。
+
+Let's say 10 to minus 10 torque. 10 to minus 10 torque. In this case the film quality is really higher compared to the chemical vapor division. There is no impurities.
+比如说，10的负10次方托。10 的负 10 次方托尔克。在这种情况下，与化学气相沉积相比，薄膜质量确实更高。没有杂质。
+
+The purity let's say 99% 0.99. This is how molecular beam attacher can fabricate the single layer high purity 2D structures but the problem is also the very low growth rate and also expensive. Equipment since this molecular beam attacher needs a high vacuum.
+纯度，比如说，99%，也就是0.99。这就是分子束外延如何制备单层高纯度二维结构，但问题也在于生长速率非常低，而且成本高昂。设备，因为这种分子束外延设备需要高真空环境。
+
+So then you can we need to fabricate the chamber. So this chamber need to pump down the pressure into 10 to the minus 10 torque which is very high vacuum. That's why need the expensive equipment.
+所以，我们需要制造这个腔室。所以这个腔室需要将压力抽低到10的负10次方托，也就是超高真空。所以需要昂贵的设备。
+
+Okay? And then for the bottom up approach people can also using the solution based synthesis. So in this case this is kind of for using the small molecules to assemble.
+明白吗？然后，对于自下而上的方法，人们也可以采用基于溶液的合成。所以在这种情况下，这算是利用小分子进行组装。
+
+To assemble to the 2D material. So you can see it's kind of interface media growth and also hydrosomal synthesis. So this advantage is that operates at low growth temperature and also offer flexible chemistry but the disadvantage is that the material stability often require post synthesis improvement such as the heat treatment. So then you can see then you can see top down approach from back to the single layer and bottom up means that from the atom to the 2D material to the 2D material.
+组装成二维材料。所以你可以看到，这属于界面介体生长，也属于水性合成。因此，其优点是在较低的生长温度下进行，而且化学反应具有灵活性；但缺点是材料稳定性往往需要通过后合成处理，例如热处理来改善。所以你可以看到，自上而下的方法是从多层到单层，而自下而上则是从原子到二维材料，再到二维材料。
+
+Okay? So this is kind of schematic showing the method for the production of 2D material. So you can see that this is mechanical exfoliation from the back to cleverage and then cleverage and then single layer.
+明白吗？所以，这是一张示意性展示二维材料制备方法的图。所以你可以看到，这是机械剥离，从背面剥离，然后剥离，再得到单层。
+
+And direct exfoliation using the back material of course using the solvent such as NMP DMF to exfoliate. Sonication. So in this case sonication or shear force.
+以及直接剥离，使用背面材料，当然还要使用NMP、DMF等溶剂进行剥离。超声处理。所以在这种情况下，就是超声处理或剪切力。
+
+Okay? And then intercalation based exfoliation in that compared to the direct exfoliation. Only solvents. Here using the some kind of small molecule to intercalate in between the layers.
+明白吗？然后是基于插层的剥离，与直接剥离相比。仅使用溶剂。这里使用某种小分子插入层与层之间。
+
+So that the exfoliation efficiency will be higher compared to the direct exfoliation method. And then this is kind of CVD growth. Then you can see CVD growth means that there is a tube. There is a tube. And there is a gas to let's say some reactive gas into it and also there is a gas source using pump to pump the tube into kind of low pressure. Low pressure. So that using the CVD growth can deposit single layer 2D material or 2D material on the substrate okay?
+因此，与直接剥离法相比，剥离效率会更高。然后，这算是 CVD 生长。然后你可以看到，CVD生长意味着这里有一根管子。有一根管子。然后有气体，比如说，把一些反应气体送入其中；同时还有气体源，通过泵将管内抽到某种低压。低压。这样，通过CVD生长，就可以在衬底上沉积单层二维材料，或者二维材料，好吗？
+
+And then for the wet chemical synthesis which is molecular assembly from atom to the 2D sheet then people can using the hydro solvent. Solvent synthesis. Okay? So and also hot injection method to do the wet chemical synthesis.
+然后，对于湿化学合成，也就是从原子到二维片层的分子组装，人们可以使用水溶剂。溶剂合成。明白吗？所以，也可以采用热注入法进行湿化学合成。
+
+So this is just a brief introduction for the top down method and also the bottom up approach. Okay?
+以上只是对自上而下法和自下而上法的简要介绍。明白吗？
+
+And then this is a little bit more introduction because the molecular beam attacher is also very useful for semiconductor when you're fabricate let's say 5 nanometer or 2 nanometer integrated circuit. So molecular beam attacher is very important because you want to fabricate very thin layer of oxide layer between the gate and the source and the drain. That's why molecular beam attacher is very important because molecular beam attacher can guarantee very high purity film with no impurity. So then you can see for this molecular beam attacher this is you can see there is a chamber.
+然后这里再稍微介绍一点，因为分子束外延在半导体制造中也非常有用，比如在制造5纳米或2纳米集成电路时。所以，分子束外延非常重要，因为你想在栅极与源极和漏极之间制备非常薄的氧化层。这就是为什么分子束外延非常重要，因为它可以保证薄膜具有非常高的纯度，不含杂质。所以你可以看到，对于这个分子束外延设备，这里有一个腔室。
+
+This is a chamber need to pump down this chamber into high vacuum. And besides the molecular beam growth chamber there is a preparation chamber. Means that the silicon wafer will be loaded in this cassette.
+这是一个需要抽真空的腔室，需要将其抽到高真空状态。除了分子束外延生长室之外，还有一个制备室。这意味着硅晶圆将装入这个盒式托盘中。
+
+In this cassette. Because before the silicon wafer load into this growth chamber we need to degasing this silicon wafer. That's why need the growth chamber preparation chamber and also the analyze chamber.
+在这个盒子里。因为在将硅晶圆装入生长腔室之前，我们需要对硅晶圆进行脱气。这就是为什么需要生长室、制备室以及分析室。
+
+Analyze chamber. Okay? And so when we insert this silicon wafer in the in this preparation chamber and then we degasing the silicon wafer then we can insert it into the NB growth chamber. And then after that we can deposit different kind of element.
+分析室。明白吗？所以，当我们把这块硅晶圆放入这个制备室，然后对硅晶圆进行脱气处理后，就可以把它放入 NB 生长室。然后，我们可以沉积不同种类的元素。
+
+Let's say for each effusion cell can have different element. Let's say this one one element. This one this one another element.
+假设每个蒸发源单元可以含有不同的元素。假设这个是单一元素。这个，这个，另一个元素。
+
+This one the third element. Okay? So then in this case this silicon wafer can be deposited let's say three different layer or single atom layer let's say single atom thickness layer layer by layer using this effusion cell. And then of course during the growth of the chamber people using the in situ kind of RHED reflective high energy electron diffraction to in situ monitor the film that grow on the silicon wafer is good or not.
+这个是第三个元素。明白吗？那么在这种情况下，可以使用这个蒸发源，逐层沉积这颗硅晶圆，形成三个不同的层，或者单原子层，也就是单原子厚度的层。然后，在生长过程中，人们当然会在腔室内使用原位的 RHED，也就是反射高能电子衍射，来实时监测生长在硅晶圆上的薄膜质量是否良好。
+
+Okay? Okay?
+明白吗？明白吗？
+
+Dr.
+博士。
+
+Green are you ready?
+绿色，你准备好了吗？
+
+Then you can see this ultra high vacuum division chamber and transfer system and also this one. After we growth the single atom layer or several atom layer on the silicon wafer then we can extract the silicon wafer out. Then we can insert this already film deposited layer into this analyze chamber using x-ray source or let's say energy analyzer or electron gun to analyze the film quality or the division. It's good or not. Okay? And so this is another picture showing the molecular beam attacher.
+然后你可以看到这个超高真空分段室和转移系统，以及这个。在硅晶圆上生长单原子层或几原子层后，我们就可以取出硅晶圆。然后，我们可以将已经沉积了薄膜的晶圆插入这个分析室，使用X射线源，或者所谓的能量分析仪或电子枪，来分析薄膜的质量或成分。好不好。明白吗？所以，这是另一张展示分子束附着器的图片。
+
+So you can see effusion cell for different element to deposit the film onto this silicon wafer. And okay? So this is how the molecular beam attacher growth is working.
+所以你可以看到，不同元素的蒸发源用于在硅晶圆上沉积薄膜。明白吗？所以，分子束外延生长就是这样工作的。
+
+Okay?
+明白吗？
+
+And then this is method for the production of 2D material. So you can see mechanical exfoliation and this is how people using the Scotch tap. Scotch tap.
+然后，这是制备二维材料的方法。所以你可以看到机械剥离，人们就是用这种 Scotch tap 来进行的。苏格兰胶带。
+
+Let's say the first only one position and the Scotch tap. Two position. Two position. Repeatedly at different location then after long time repeating then we can many times then can get the single layer graphene or TMD nano sheet on silicon substrate.
+假设第一个只有一个位置，还有 Scotch tap。两个位置。两个位置。在不同位置反复进行，经过长时间的重复，我们可以多次在硅衬底上获得单层石墨烯或TMD纳米片。
+
+Okay? On silicon substrate. Okay?
+明白吗？在硅衬底上。好的？
+
+And this is method for the production you can see people can using the deep coating. Deep coating or let's say this CVD growth and also low pressure CVD system. To deposit the single layer onto the substrate. Okay?
+这是生产方法，你可以看到人们可以使用深镀层。深镀层，或者说这种CVD生长，以及低压CVD系统。在衬底上沉积单层。明白吗？
+
+So this is the detailed fabrication procedure. Okay?
+所以，这就是详细的制备步骤。明白吗？
+
+And so then in my in all groups we are focusing on the electrochemical disease methylation. The reason why we want to develop electrochemical disease methylation because as we said for liquid exfoliation there's low single layer yield. So in this case there is reduced lateral dimension and also rely on solvent surface energy. So in this case liquid exfoliation it's not that good. And of course before that people also trying to using the MPTDC methylation but this MPTDCM is kind of chemical that need high reaction temperature and long reaction time. So there is lack of controllability how many lithium is interpolated. Because we can only put this powder into this solution.
+然后，在我的……在所有小组中，我们重点研究电化学疾病甲基化。我们之所以想开发电化学疾病甲基化，是因为正如我们所说，液相剥离的单层产率很低。所以在这种情况下，横向尺寸会减小，而且也取决于溶剂表面能。所以在这种情况下，液相剥离的效果并不理想。当然，在此之前，人们也曾尝试使用 MPTDC 甲基化，但这种 MPTDCM 是一种需要较高反应温度和较长反应时间的化学试剂。所以，无法控制有多少锂被嵌入。因为我们只能把这种粉末加入这种溶液中。
+
+So this is kind of solution then we need to wait for let's say one day or two day or three day to let the MPTDCM molecule gradually interpolate in between the layers. There's no parameter to monitor how many lithium is interpolated in between the layers. Then there is high demand to find controllable method for effective exfoliation. Okay? And so all strategy is that we using the electrochemical disease methylation using the battery method.
+所以，对于这种溶液，我们需要等上一天、两天或三天，让 MPTDCM 分子逐渐插层。没有参数可以监测有多少锂插层进入了层间。因此，迫切需要寻找一种可控的、能够有效剥离的方法。明白吗？所以，整个策略是利用电化学疾病甲基化，采用电池方法。
+
+So you can see we can assemble lithium battery using the lithium method as anode and in between there is electrolyte and also there is a tassel. Tassel. So when we do the discharge process the lithium ion will dissolve from the lithium method and then interpolate in between the TMD layer structure. So this is when we do the discharge process lithium will dissolve from lithium and then interpolate in between the TMD layer structure.
+所以你可以看到，我们可以用锂法组装锂电池，锂作为阳极，中间有电解液，还有一个小帽。Tassel。所以，当我们进行放电过程时，锂离子会从锂材料中溶解，然后嵌入 TMD 层结构中。所以，当我们进行放电过程时，锂会从锂中溶解，然后嵌入 TMD 层结构之间。
+
+So after we do the discharge process we can see lithium will be interpolated in between the layer structure. So after certain lithium interpolate then we take out the back material and then we put it in water then we can get a series of single layer nano sheet structure. Okay? This is how we can but here the advantage is that we can using the cathode bolting.
+所以，放电过程结束后，我们可以看到锂会插层进入层状结构中。所以，锂插层一段时间后，我们取出背面材料，然后将其放入水中，就能得到一系列单层纳米片结构。明白吗？我们可以这样做，但这里的优势是，我们可以使用阴极电镀。
+
+So here is the cathode bolting. Let's say cathode bolting is here then the lithium insertion mount is here. If the cathode bolting is lower then the lithium insertion mount will be higher. Okay? So that's how we using the cathode bolting to precisely control how many numbers of lithium interpolated in between the layer structure.
+所以这里是阴极锚杆。假设阴极螺栓在这里，那么锂嵌入支架就在这里。如果阴极螺栓位置较低，那么锂嵌入件的位置就会较高。明白吗？所以，我们就是通过阴极插层来精确控制有多少个锂插入层结构之间。
+
+Okay?
+明白吗？
+
+And this is detailed preparation procedure for electrochemical disease methylation. We using the coyin cell. So you can see this is the coyin cell and we coat the TMD back material or powder onto copper foil and then we using the separator to separate the tassel and the anode.
+这是电化学疾病甲基化的详细制备步骤。我们使用的是 coyin 细胞。所以你可以看到，这是 Coyin 电池。我们把 TMD 后续材料或粉末涂覆在铜箔上，然后使用隔膜将 tassel 和阳极分开。
+
+And this is anode. Anode is lithium. Okay? Then we can assemble this lithium battery into this coyin cell.
+这是阳极。阳极是锂。明白吗？然后我们可以把这种锂电池组装成这种 CoYIN 电池。
+
+So this is the detailed stacking order for this coyin cell. So you can see but at the bottom stain is still this TMD back material coated on the copper foil. Then the PP film and then lithium foil and this is gasket shutner and also aluminum coater.
+所以，这就是这种 COYIN 电池的详细层叠顺序。所以你可以看到，底部的涂层仍然是涂在铜箔上的这种TMD背材。然后是PP膜，接着是锂箔，这是隔膜，还有铝涂层。
+
+Okay? So then we can using this coil we do the discharge process. We do the discharge process. Then we take out this TMD coated copper foil and put it into the water solution and then we sonicate then we can got opaque solution.
+明白吗？然后我们可以用这卷材料进行放卷工艺。我们进行放电过程。然后，我们取出这层涂有TMD的铜箔，放入水溶液中，再进行超声处理，就能得到不透明的溶液。
+
+So this opaque solution is single layer nano sheet. It's hundreds of single layer nano sheet dispersed into the water. Okay?
+所以，这种不透明溶液就是单层纳米片。数百片单层纳米片分散在水中。明白吗？
+
+And so this is FM image showing that single layer nano sheet is single layer. It's only one nanometer thickness. Which confirm that this TMD nano sheet is single layer. So you can see we do statistical analysis to show that this nano sheet is single layers.
+所以，这张傅里叶变换扫描电子显微镜图像表明，单层纳米片确实是单层的。它的厚度只有1纳米。这证实了这种TMD纳米片是单层的。所以你可以看到，我们进行了统计分析，证明这种纳米片是单层的。
+
+It's single layers. Okay?
+它是单层的。明白吗？
+
+And of course we what we can do is that because for some material let's say for boron nitride there is no discharge platter. There is no discharge platter then what we can do is that we can do control experiment to find the best lithium interpolation amount. And another thing that for cellulite because it's easy to break into small pieces. Then what we can do is that we decrease the discharge current to improve the quality to let the nano sheet not that easy to break into small pieces.
+当然，我们能做的是，因为对于某些材料，比如说氮化硼，没有放电盘。如果没有放电平台，那么我们可以做对照实验，找出最佳的锂插层量。另外，对于蜂窝煤，因为它很容易破碎成小块。那么我们可以降低放电电流，以提高质量，让纳米片不易破碎成小片。
+
+So using this method using this optimization we can using this electrochemical disease methylation to synthesize 11 kinds of 2D TMD nano sheet and among them 4 TMD monolayer or double layer yield is higher than 90%. Okay? Okay? And so when we do the interpolation process we find that during the interpolation the atom will kind of how to say to change the phase. Let's say at the beginning. The phase is kind of like this but after lithium interpolation because lithium interpolation have kind of electron transfer from the lithium to the TMD nano sheet which will let the lattice to kind of distortion. Distortion. Then there is a problem is that TMD nano sheet quality will be various due to too many parameters so that we need to elucidate the mechanism for repeatable and also stable preparation. Okay? And so what we can do is that we can develop in-situ technique for elucidating the mechanism.
+因此，采用这种方法和这种优化，我们可以利用电化学疾病甲基化法合成11种二维TMD纳米片，其中4种TMD单层或双层的产率高于90%。明白吗？明白吗？所以，当我们进行插值处理时，会发现原子在插值过程中会以某种方式——该怎么说呢——改变相位。假设一开始。相位大致是这样的，但在锂插层之后，因为锂插层会导致电子从锂转移到TMD纳米片，从而使晶格发生一定程度的畸变。畸变。然后，TMD纳米片的质量会因参数过多而存在差异，因此我们需要阐明其机制，以实现可重复且稳定的制备。明白吗？因此，我们可以开发原位技术来阐明其机制。
+
+So the first one we using the we develop in-situ liquid phase TM to characterize the dynamic process during the lithium interpolation and then we can also using the real-time characterization on interpolation and exfoliation process and then we can elucidate what's the structure evolution and also freeze the phase transformation. Okay? And the first one we can using the in-situ XRD and Raman to monitor what's the crystal structure changes.
+所以，第一种方法是，我们开发了原位液相TM技术，用于表征锂插层过程中的动态过程。然后，我们还可以对插层和剥离过程进行实时表征，从而阐明结构演变，并冻结相变过程。明白吗？首先，我们可以利用原位XRD和拉曼光谱来监测晶体结构的变化。
+
+So here you can see during the in-situ XRD characterization we can see for different group of TMD the lithium interpolation into this layer structure will kind of change. The lattice spacing. So you can see for here the lattice spacing is kind of continuously change.
+所以在这里可以看到，在原位XRD表征过程中，我们可以看到，对于不同的TMD族，锂在该层结构中的插层方式会发生一些变化。晶格间距。所以你可以看到，这里的晶格间距是连续变化的。
+
+Expansion. Expansion. While for the other group of TMD let's say for group six TMD let's say for liquid molybdenum disulfide and NBSC2.
+扩展。扩展。而对于另一类TMD，比如说第六族TMD，比如说液态二硫化钼和NBSC2。
+
+So you can see that the lattice spacing C will change from the C lattice spacing to the there is a jump which means two phase transformation. And for group five so you can see there is a two jump which means three triple phase transformation. Okay? So this is how this is how we calculate based on the in-situ XRD to see the lattice spacing is continuously changing.
+所以你可以看到，晶格间距 C 会从 C 晶格间距发生跃变，这意味着发生了相变。对于第五组，可以看到有两个跳跃，这意味着发生了三次三相转变。明白吗？所以，这就是我们如何根据原位XRD进行计算，以观察晶格间距是否在不断变化。
+
+Continuous changing. Okay?
+不断变化。明白吗？
+
+And also we compare the in-situ and ex-situ XRD on the TMD to see to confirm that the in-situ can monitor the some kind of rearrangement of lithium ion in TMD and also structure relaxation. Okay? And then we can also using the in-situ Raman characterization to further confirm the single phase, double phase, and triple phase transformation.
+我们还比较了TMD的原位和体外XRD，以确认原位实验能够监测TMD中锂离子的某种重新排列，以及结构弛豫。好吗？然后，我们还可以利用原位拉曼表征进一步确认单相、双相和三相转变。
+
+Okay? And then we need to know why the for this different group of TMD some phase show transformation some phase didn't show the transformation. This is because the for this group.
+明白吗？然后我们需要知道，为什么对于这一组不同的TMD，有些相发生了相变，而有些相没有发生相变。这是因为对于这一组。
+
+Different group there are different phase. There's one T phase and two H phase. There are energy difference.
+不同的组有不同的相。有一个 T 相和两个 H 相。存在能量差。
+
+It's different. And after lithium interpolation you can see the energy difference will be changed. Let's say from high value to low value. That's why before and after lithium interpolation the phase is changing.
+这是不同的。进行锂插值后，你可以看到能量差会发生变化。比如说，从高值变为低值。这就是为什么锂插值前后相位会发生变化。
+
+It's changing from two H to one T or one T to two H. Okay? And this is then we can using the DFT calculation and also we also characterize after lithium interpolation this different TMD showing phase transformation or not. Okay? So this is kind of summary showing that for this different group let's say groups four group six and group five or group five group six before lithium interpolation and also after exfoliation there is phase transformation from one T to one T to one T.
+它从两个 H 变为一个 T，或者从一个 T 变为两个 H。明白吗？然后我们可以使用DFT计算，也可以在锂插层后表征这些不同的TMD是否发生了相变。明白吗？所以，这算是一个总结，表明对于不同的族，比如说第四族、第六族和第五族，或者第五族、第六族，在锂插层之前以及剥离之后，都会发生从一种 T 到另一种 T 的相变。
+
+While for group five you can see the phase is kind of from one T to two H to one T and then for group six you can see from two H to one T then to two H. So then we can develop a fully documented landscape of phase evolution in group four to group six TMD layer structure. Okay?
+而对于第五组，可以看到相变大致是从单T到双H再到单T；对于第六组，可以看到从双H到单T，然后再到双H。因此，我们可以建立一套有充分记录的第四组至第六组TMD层结构相演化图谱。明白吗？
+
+And this is how we because we want to elucidate the phase transformation then we further develop in-situ liquid phase TM for interphase reactions. So this is quite an interesting because we can see the dynamic electrochemical reaction in the TM in the TM. So here this is the setup and the main points that we can fabricate this small liquid cell. So this is a picture showing that this is a small liquid cell and in the center is silicon nitride window.
+这就是我们的做法，因为我们想阐明相变机制，因此进一步开发了原位液相TM，用于相界面反应。所以这非常有意思，因为我们可以观察到 TM 中的动态电化学反应。所以，这就是我们的实验装置，也是我们能够制备这种小型液体池的主要要点。这是一张展示小型液体池的图片，其中心是氮化硅窗口。
+
+So for this area we can see the magnified image. So you can see this silicon nitride window that is silicon nitride window. So this electron beam will travel through the silicon nitride window which is 20 nanometers and then another silicon nitride window. In between the silicon nitride window is liquid electrolyte which is 100 nanometers.
+所以在这个区域，我们可以看到放大后的图像。所以你可以看到这个氮化硅窗口，也就是氮化硅窗口。所以，电子束会穿过厚度为20纳米的氮化硅窗口，然后穿过另一个氮化硅窗口。硅氮化物窗口之间是厚度为100纳米的液体电解质。
+
+Okay? So the electron beam will travel through 20 nanometers silicon nitride window liquid layer 100 nanometers then another silicon nitride window. Okay? And so the advantage that when we apply biopsy through this connecting wire through this connecting wire to the tiny liquid cell we can using the TM because this TM holder which is inserted into the TM then we can using the TM to in-situ monitor what's the reaction on this tiny titanium electrode then we can in-situ monitor what's the reaction what's the initiation reaction of lithium in the almost two nanosheets.
+明白吗？所以，电子束将穿过20纳米的氮化硅窗口、100纳米的液体层，然后穿过另一个氮化硅窗口。明白吗？因此，当我们通过这根连接线对这个微型液滴池进行取样时，我们可以使用透射电子显微镜（TEM），因为这个TEM样品架被插入TEM中。然后，我们可以利用TEM原位监测这个微型钛电极上的反应，以及锂在大约两层纳米片中的反应和起始反应。
+
+Okay? And so this is the fabrication procedure that's how we fabricate this tiny liquid cell. So you can see we can the idea is that we can fabricate very thin silicon nitride membrane and also very thin liquid layer which is 100 nanometers. This is commercial liquid cell. So which is let's say 1,000 nanometers thickness which means that our fabricated silicon nitride window is much, much thinner compared to the commercial liquid cell.
+明白吗？这就是制备过程，也就是我们如何制备这个微型液态池。所以你们可以看到，我们的想法是可以制作出非常薄的氮化硅膜，以及100纳米的非常薄的液体层。这是商用液体池。也就是说，它的厚度大约为1,000纳米，这意味着与商用液体池相比，我们制备的氮化硅窗口薄得多。
+
+Okay? And so this is the result. We can using the we can using this using this self-designed liquid cell then we can in-situ monitor the reaction. So this is the whole area is filled with liquid with liquid and so this one is titanium electrode which is used to apply biopsy.
+明白吗？所以这就是结果。我们可以使用这个自行设计的液体池，从而原位监测反应。所以整个区域都充满了液体，这个是钛电极，用于施加电压。
+
+And then this one is almost two nanosheets. So when we apply biopsy we can see the initiation reaction on this almost two nanosheets. And so this movie we can see that this is the gold electrode. When we apply biopsy we can see the ACI layer on gold electrode will have kind of yellow pure process.
+然后这个是近两层纳米片。所以，当我们进行活组织检查时，可以看到几乎两层纳米片上的起始反应。所以在这段视频中，我们可以看到这是金电极。当我们进行 Biopsy 时，可以看到金电极上的 ACI 层会呈现出一种黄色的纯过程。
+
+Peeling and also thickening process. And this is another movie showing that the this is also titanium electrode. The whole area is filled with liquid electrolyte. And when we apply biopsy then we can see this titanium electrode have some kind of lithium F nanocrystal sheets growth on the titanium electrode.
+剥离，以及增厚过程。这是另一段视频，显示的也是钛电极。整个区域都充满了液体电解质。当我们进行生物探针扫描时，可以看到这种钛电极上生长着某种锂F纳米晶片。
+
+Okay?
+明白吗？
+
+Reaction. But this dynamic reaction only can see the morphology then we still need to further see the detailed let's say chemical elementary distribution to elucidate the elementary distribution and also structure information. That's why after the in-situ experiments we still need the post in-situ characterization.
+反应。但这种动态反应只能观察到形态，因此我们还需要进一步观察详细的，比如说化学元素分布，以阐明元素分布以及结构信息。这就是为什么在原位实验之后，我们仍然需要进行原位后表征。
+
+So this post in-situ characterization including the Hadoff image and also the Foley step. So this Hadoff image you can see that we can using the EDX mapping to map out what's the reaction element for this almost two nanosheets. And we can also using the EDX mapping to map out what's the ACI layer elementary distribution.
+所以，这种原位后表征包括 Hadoff 图像以及 Foley 步骤。所以从这张 Hadoff 图像中可以看到，我们可以使用 EDX 映射来确定这近两层纳米片的反应元素。我们还可以使用EDXmapping来绘制ACI层的元素分布。
+
+Let's say carbon and also fluorine on this ACI layer. Okay?
+比如说，这个 ACI 层上的碳和氟。明白吗？
+
+And then for this ACI layer we need to further showing that if this ACI layer is kind of inorganic layer or organic layer. If inorganic layer it will show the diffraction pattern. If organic layer it will be show no diffraction pattern.
+然后对于这个 ACI 层，我们还需要进一步说明它是无机层还是有机层。如果是无机层，就会显示衍射图样。如果是有机层，就不会出现衍射图案。
+
+So then using this Foley step this Foley step means that the nanobeam diffraction. So this nanobeam is only 1.2 nanometers. Then we can using this nanobeam diffraction to scan the ACI layer pixel by pixel line by line.
+所以，使用这个 Foley 步骤，这个 Foley 步骤意味着纳米束衍射。所以这根纳米束只有1.2纳米。然后，我们可以利用这种纳米束衍射，逐个像素、逐行扫描 ACI 层。
+
+Then we can get a series of diffraction pattern for ACI layer. Then we can see based on this a series diffraction pattern we can know this ACI layer which part show diffraction pattern which part that's no diffraction pattern.
+然后，我们可以得到一系列ACI层的衍射图样。然后，我们可以看到，基于这一系列衍射图样，就能知道ACI层的哪一部分有衍射图样，哪一部分没有衍射图样。
+
+If have diffraction pattern then the contrast is bright. If no diffraction pattern the contrast will be dark. So based on this Foley step characterization or let's say nanobeam diffraction series we can see the lithium F nanocrystal which show diffraction pattern. It's homogeneously distributed in between the ACI layer. This is how we using this in-situ post in-situ characterization.
+如果有衍射图案，那么对比度就很强。如果没有衍射图案，对比度就会变暗。所以，基于这种 Foley 步阶表征，或者说纳米束衍射系列，我们可以看到显示出衍射图案的锂 F 纳米晶体。它均匀分布在 ACI 层之间。这就是我们如何利用这种原位、后原位表征方法。
+
+Okay? Okay? And also this is we further using the cryo-EM for characterize the ACI layer for different electrolyte.
+明白吗？明白吗？此外，我们还进一步使用冷冻电子显微镜来表征不同电解质的 ACI 层。
+
+And which showing that for different electrolyte the ACI layer is different. And we can also using the XPS to characterize the composition. Let's say inner layer showing the lithium F nanocrystal and outside showing the lithium carbonate.
+这表明，对于不同的电解液，ACI 层是不同的。我们还可以使用XPS来表征其组成。假设内层是锂F纳米晶体，外层是碳酸锂。
+
+Lithium carbonate. Okay?
+碳酸锂。明白吗？
+
+And let's say this is all this is all electrochemical lithium that we can control the phase and also we can control the nanosheet thickness and also nanosheet size. Okay? And then this is a picture showing that using this electrochemical lithium methylation we can prepare the nanosheet in larger amount in larger amount and then we can using this nanosheet to fabricate to fabricate the wafer scale membrane. Which can be later used for electronic devices for electronic devices.
+假设这些都是电化学锂，我们可以控制其相态，也可以控制纳米片的厚度和尺寸。明白吗？然后，这张图表明，通过这种电化学锂甲基化，我们可以大量制备这种纳米片，然后用这些纳米片来制造、制造晶圆级膜。之后可以用于电子设备，用于电子设备。
+
+Okay? And so this is kind of applications I would like to skip. Skip. Okay? And I think okay.
+明白吗？所以，这些应用我就不讲了。跳过。好吗？我觉得可以。
+
+And so this is kind of summary that we fabricate so we just introduced different 2D material fabrication let's say using the top-down method and bottom-up method. Well I would say different 2D material fabrication show different advantage. Let's say for Scotch tape and also for the CVD process of course they can fabricate high quality nanosheets but the yield is not that lower. And for liquid exfoliation people can fabricate larger amount of 2D material but the quality is not that high enough.
+所以，这算是我们编写的总结。我们刚刚介绍了不同二维材料的制备方法，可以说，包括自上而下法和自下而上法。嗯，我想说，不同的二维材料制备方法各有优势。比如说，使用 Scotch 粘带以及 CVD 工艺，当然可以制备高质量的纳米片，但产率并没有那么低。而液相剥离法可以制备大量二维材料，但质量不够高。
+
+That's why we want to using the electrochemical lithium methylation to increase the 2D layer yield and also increase the quality of the 2D material.
+这就是为什么我们想采用电化学锂甲基化来提高二维层的产率，同时提高二维材料的质量。
+
+And so this is how general kind of introduction for this 2D material. Let's say if you guys have any questions any questions?
+以上就是对这类二维材料的总体介绍。那么，大家有什么问题吗？有什么问题吗？
+
+Or TM image is too beautiful you already lost.
+或者TM图像太美了，你已经输了。
+
+Any questions? It's okay if you're not okay.
+有问题吗？如果你不舒服也没关系。
+
+我就说中文吧可以吗太着急了就是我想着就是就特别好就是我觉得老师做科研的方法就是一个完全纯体系的东西我想知道就是您肯定第一开始的最初的一个idea应该就是想用这个chart的方式来形成单层的这个锂的这个那个什么那后边才会有一些比如说我想要观察它是怎么形成的像的一些不同像的形成或者像之间界面所以你才使用原位的这些TM的方法吗就是在这个过程中遇到的一些问题老师您是觉得就是比如说这个问题我需要解决我就直接的去直接的去观察它的像合成然后直接的去解决还是用一些侧面的方法来解决
+Can I just speak Chinese? That’s too rushed. I was thinking it would be really good. I think the way the teacher conducts research is a completely pure, systematic thing. I want to know—when you first started, your initial idea must have been to use this chart to form a single layer of lithium, and then later there would be some, like, I wanted to observe how it was formed, like… the formation of different phases or the interfaces between them. So is that why you used in-situ TEM methods? As for the problems encountered during this process, do you think that if I need to solve a problem, I should directly observe the phase synthesis and address it directly, or use some indirect methods?
+
+就是我觉得这个是这样的就是说我们刚开始就像你说的刚开始做这个我们想得到这个如何得到这个单层单层嘛所以我们就用这个怎么说呢当时有一些这种非原位的手段为什么后面是用这种原位的手段其实也是随着这个因为这个我也是很长时间也是很长时间的也是后面比如说我有这个机会接触到这个原位的技术才有可能就不是说刚开始就有这个条件只是说后面刚好就是进入到一个环境刚好可以学到这个原位的技术所以后面才有机会去做这个进一步的这个机理的去看这个phase去看这个phase
+I think it’s like this. At the beginning, as you said, when we first started doing this, we wanted to obtain this—how to obtain this single layer, this single layer. So we used some non-in situ methods at the time. Why we later switched to in situ methods was actually also due to this. I also spent a long time—also a long time—afterward, for example, when I had the opportunity to get in touch with... to this in-situ technique. It wasn’t that we had the conditions from the very beginning; it just so happened that later, when we entered an environment where we could learn this in-situ technique, we had the opportunity to further investigate the mechanism and look at this phase, this phase.
+
+好就比如说如果我们因为我们很多实验室肯定是没有TM或者是一些可以直接就是接原位的这样的一个观察或者是我们的电化学工作站不可能直接接TM因为我们的TM是一个比如说一个大的apartment共用的那么我们可以用什么间接的方式来观察它就是锂离子在这个界面中运动就比如说你想知道它到底是一个像还是说生成的是单层嘛就比如说我们可以用原位的那种阻抗来观察但是原位的阻抗观察呢就不一定它的那个varriage就那个圆它不是会拟合嘛那如果我们用这个条件的话我们还可以用什么方法呢就你。
+Okay, for example, if many of our labs definitely don’t have TEM, or if we can’t directly connect it to in-situ observation equipment, or if our electrochemical workstations can’t be directly connected to TEM—because our TEM is, say, shared by a large apartment complex—what indirect way can we use to observe the movement of lithium ions at the interface? For example, if you want to know whether it is a layer or whether a single layer is formed, we can use in-situ impedance to observe it. But in-situ impedance analysis doesn’t necessarily provide a complete picture. Its curve isn’t necessarily fitted properly. So if we use this approach, what other methods can we use? You…
+
+原位除了原位那个阻抗的还有XRB拉曼都可以拉曼XRB也可以XRB拉曼也可以我看看其他的这个TM是最直观的但其实这个做起来也很麻烦想一下其他的原位的话还真就我觉得可能就是原位就是你们比较容易接触到的就是XRB跟拉曼应该都可以对吧原位XRB当然还有就是比如说还可以有的时候会做一些这个比如说他们有的做催化的呀要看这种流的这个接触啊比如说那种生成的那种产物啊还可以用那个原位红外啊或者是我想一下还有原位的这个核磁啊这些这些这些的话也是没有那么容易就是最容易的就是那个阻抗然后就是XRB拉曼这个是最直接的这个更容易你们接触到。
+Besides in-situ impedance, X-ray photoelectron spectroscopy (XPS) and Raman spectroscopy can also be used. Raman and XPS can also be used. Let me see. As for the other in-situ techniques, the most intuitive one is probably XPS, but it’s actually quite troublesome to perform. As for other in-situ techniques, I think the ones you’re more likely to have access to are XPS and Raman, right? In-situ XPS, and also, for example, there is also… Sometimes you can do things like catalysis, depending on the contact of this flow, or the products generated. You can also use in situ infrared, or I’ll think about it. In situ nuclear magnetic resonance is also not so easy. The easiest one is impedance, and X-ray photoelectron spectroscopy (XPS) and Raman are the most direct and easier for you to connect. to access.
+
+老师就是还有一个out of curiousity就是您做这个实验这个项目用了多长时间啊就这么完整这么具体各个方面把我们就是因为我本科也是做电池的一大个stunning震惊到了就是您从这个前期的构思到后边这么成熟的落地花了多长时间呢
+Professor, out of curiosity, how long did it take you to complete this experiment and this project in all its aspects—from the initial conception to the final, fully mature implementation? I was really impressed by your work on batteries during my undergraduate studies.
+
+那这个的话就是从我读PhD开始08年开始然后。
+Well, this started when I began my PhD in 2008, and then...
+
+那我们稍微有了点安慰。
+That gives us a little comfort.
+
+是。
+Yes.
+
+下一个。
+Next.
+
+就是相当于说08年比如说08到13读PhD然后后面是去做postdoc是 在美国那边嘛那边他有这种好一点的这个条件就是08到13然后13到17然后但后面我去干别的事情我去公司里面就跟这个不相关的去做那个半导体的然后后面在回来再去就是你刚才看到的就是我回来因为香港这边他有的没有那么高端的条件嘛但是原位的这种XRD啊拉曼啊然后这个红外啊这些都是有的嘛所以我就把这些又把它补齐了就是相当于说是一个对就是在不同阶段就是全部把它给总结出来的。
+It’s basically like this: from 2008—say, 2008 to 2013—I did my PhD, and then after that, I went to do a postdoc in the U.S., where the conditions were better. So from 2008 to 2013, then from 2013 to 2017. But later, I went to do something else, to a company unrelated to this, working in semiconductors. Then later, I came back again. That’s what you just saw: I came back because… In Hong Kong, the facilities aren’t as advanced, but they do have in-situ XRD, Raman, and infrared spectroscopy, so I supplemented those areas. Basically, I summarized all the data from different stages.
+
+好为我们展示了一个感觉一个顶刊是如何写的谢谢老师搒样 long journey to success
+Okay, it gave us a sense of how a top journal article is written. Thank you, teacher. It’s a long journey to success.
+
+我也用中文了就是老师因为我看您做这个二硫化物比较多还是有foreign。
+I also used Chinese. Professor, because I see that you do a lot of work on sulfides, or are there any foreigners?
+
+— 由 LecSync 生成
