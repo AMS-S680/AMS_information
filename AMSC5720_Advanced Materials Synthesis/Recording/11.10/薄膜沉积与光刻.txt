@@ -1,0 +1,1449 @@
+薄膜沉积与光刻
+日期: 2026年11月10日 19:41
+语言: 英语 → 中文
+时长: 1小时29分34秒
+
+# AI 纪要
+
+本次课程回顾了半导体能带理论（能带、费米能级、空穴、N型/P型掺杂），重点讲解了PVD中的掠射角沉积与VLS生长机制，以及CVD在纳米材料中的应用；随后详细介绍了光刻工艺（旋涂、曝光、显影、剥离）及分辨率提升（EUV、光刻胶类型），最后简要提及4D打印和课程安排。
+## 考试速览
+
+- 核心讲座内容（半导体基础、PVD/CVD、光刻）
+- 期末考试
+- 下周课程包含嘉宾讲座、质量控制、项目评估要求及期末考试说明；项目展示时评分，需提交幻灯片；作业二明天发布，截止日期在展示结束后。
+## 对我重要的
+
+- 考点: 掌握能带、费米能级、空穴、N/P型掺杂等半导体基础概念。
+- 考点: 理解掠射角PVD和VLS生长机制。
+- 考点: 掌握光刻工艺流程（旋涂、曝光、显影、沉积、剥离）及分辨率影响因素。
+- 待办: 作业二明天发布，截止日期在项目展示结束后，需关注Blackboard。（tomorrow）
+- 待办: 项目展示前可提问，评分基于展示本身，需提交幻灯片供交叉参考。
+- 日期: 下周课程包含嘉宾讲座、质量控制、项目评估和期末考试说明。（next week）
+## 讨论题
+
+- 当你即将成为工程师或材料科学家时，除了材料制备之外，你还会考虑哪些工具或因素？
+- 光刻过程中，光是如何作为中间介质触发书写活动的？
+- 主讲人的答案: 光线通过掩模版上的窗口垂直照射在涂有聚合物的光刻胶样本上，形成特定的光路分布；随后光刻胶与光发生相互作用，形成图案，并通过热处理进一步强化，最后通过显影液（溶剂）进行化学反应来显现图案。
+## 半导体能带理论回顾
+
+- 能带由原子能级分裂形成：原子靠近时能级分裂，大量原子（摩尔量级）时分裂密集形成连续能带。
+> when atoms are getting closer, right, their energy level starts to become a split of energy levels.
+- 费米能级是绝对零度下最高占据态的能量，类比水表面。
+> Fermi energy is talking about our number one electron. Right? So the highest filled state has an energy we call Fermi energy.
+- 自由电子是能量高于费米能级的电子，进入导带；价带是较低能带。
+> We have energy greater than the Fermi energy. We call this electron free electron.
+- 空穴是电子离开后留下的带正电的空位，可移动并贡献电流。
+> this empty seat is a what? Is a positively charged seat.
+- 带隙Eg是价带顶与导带底之间的能量差。
+> This EG. Right? So this band gap, this is the energy difference between my first electron in the valence band.
+- 本征半导体中电子与空穴浓度相等；N型掺杂（如五价原子）提供多余电子，P型掺杂（如三价原子）提供空穴。
+> when I have five electrons, my four electrons bonded with silicon. And I have an extra electron that is dangling there.
+- 电导率σ = n e μ_e + p e μ_h，电子和空穴均贡献。
+> One from electron, one from hole. Okay? So this is electron part. This is the hole part.
+## PVD与掠射角沉积
+
+- 掠射角PVD通过倾斜基底角度和旋转，利用阴影效应形成倾斜柱状或螺旋结构。
+> a glancing angle PVD is a special kind of PVD, which is playing with the angle and the rotation.
+- 倾斜沉积时，已形成的岛状物遮挡后续原子，产生阴影区，导致倾斜线条。
+> whenever there's an angle, my previously formed islands will serve as an optical, right? And this new nucleate has a shadow.
+- 旋转基底可得到螺旋状手性结构，左旋或右旋取决于旋转方向。
+> you will see I can get the spring-like helix, right? It's kind of a chiral structure, right?
+- 可交替沉积不同材料形成多分支结构。
+> each one of these vertical structures is not a single a single material, a single composition, but a petro structure that has many branches, right, with different angles.
+## CVD与VLS机制
+
+- CVD利用化学反应沉积薄膜；VLS（气-液-固）法使用催化剂（如金颗粒）引导纳米线生长。
+> we have an interesting one called vapor liquid solid deposition. Right? VLS.
+- 催化剂降低反应能垒，金颗粒在生长过程中始终位于纳米线顶端。
+> they realize that a catalyst, usually a noble metal particle, right, in this case, people find gold, they can actually, whenever they are, right, the wires or their these semiconductor materials, they will follow the gold to grow.
+- 纳米线直径由金颗粒尺寸决定（如34 nm vs 14 nm）。
+> this is about 34 nanometers in diameter. This is about only 14. So that depends on how small you use your gold nanoparticle.
+## 光刻工艺
+
+- 旋涂光刻胶：滴加粘性液体，高速旋转（数千rpm）利用离心力铺展，然后烘烤固化。
+> you drop something on top, usually a very sticky liquid, like glue, right? ... you start a very high-speed rotating, and by this, uh, centric force, right, all the glue will be spread out.
+- 曝光：平行光通过掩膜版（有透光窗口）选择性照射光刻胶。
+> when a parallel beam vertically hits this mask, only part of the light comes through.
+- 显影：使用显影液选择性去除曝光或未曝光区域（取决于正负胶）。
+> my developer can selectively remove part of my substrate. Okay? Sometimes it's a part that is exposed to light, sometimes it's a part that's not exposed to light.
+- 沉积金属（如PVD溅射）后，去除光刻胶，留下金属图案（剥离工艺）。
+> I coat a thin layer of gold, uh, atoms, for example, on top. ... after I wash everything away, I leave a clean cut of metal line.
+- 分辨率公式包含波长λ、数值孔径NA和工艺常数k1；缩短波长（DUV 193nm至EUV 13.5nm）可提高分辨率。
+> this expression is focusing on the, uh, wavelengths of our incoming source and the camera setup. So we call numerical aperture
+- 负胶曝光后不溶，显影后留下与掩膜互补的图案；正胶曝光后溶解，显影后留下与掩膜相同的图案。
+> negative photo resist is when we have a, uh, when we have a, uh, insoluble, uh, soluble to insoluble change after the light hits on it
+正负光刻胶对比
+- 负胶 — 曝光后变化：可溶变不溶（硬化）；显影后图案：与掩膜互补；成本：较低
+- 正胶 — 曝光后变化：不溶变可溶（软化）；显影后图案：与掩膜相同；成本：较高
+## 4D打印与课程安排
+
+- 4D打印在3D打印基础上增加时间维度，材料随时间变化（形状或功能），需触发条件（水、温度、光等）。
+> The four, fourth dimension is the time dimension. So it refers to those fabrications where after you finish your normal 3D printing, it's not finished, right?
+- 下周课程：嘉宾讲座、质量控制、项目评估和期末考试要求；作业二明天发布，截止日期在展示后。
+> the last week, as I mentioned, uh, I will, will be one-third about guest lecture, one-third about the policy control, one-third about, uh, the, uh, requirement for project assessment and our final exam.
+---
+*本文由 AI 根据录音自动生成*
+# Sync AI
+
+边听边标出重点和待办提醒
+## 斜角物理气相沉积 (Glancing Angle PVD)
+
+- 斜角 PVD 是一种通过改变入射角度和基底旋转来控制沉积过程的特殊 PVD 方法。
+- 在斜角沉积过程中，已形成的岛状结构会产生阴影效应，导致后续粒子无法到达阴影区域，从而形成倾斜的垂直结构而非垂直线条。
+- 通过旋转基底，可以制造出具有手性的螺旋状结构，其左旋或右旋取决于旋转方向。
+- 通过交替改变不同材料的沉积角度，可以构建具有多分支、不同角度且成分复杂的复合结构。
+## 气相化学沉积 (CVD) 与 VLS 机制
+
+- VLS (Vapor-Liquid-Solid) 沉积是一种涉及材料的三相状态（气、液、固）的化学沉积方法。
+- 催化剂通过降低反应能垒，使化学反应在更低能耗或更低温度下更快速地进行。
+- 在 VLS 过程中，金 (Au) 颗粒作为催化剂，在局部加热下部分熔化形成液滴，引导半导体材料（如硅或氮化镓）沿催化剂界面生长。
+- VLS 生长的纳米结构尺寸和位置可以通过控制初始催化剂颗粒的大小和沉积位置来设计。
+- 在 VLS 过程中，若生长高度达到临界值或前驱体供应过快，纳米线可能会失去控制并向侧向生长。
+- VLS 生长的纳米线顶部通常带有金属颗粒，其直径大小取决于所使用的金纳米颗粒的尺寸。
+- VLS 机制是 CVD 用于生长纳米材料或纳米阵列的一种特殊应用，而 CVD 本身也可用于生长包括氧化物在内的各种大块材料。
+## 光刻与半导体应用
+
+- 本次课程最后一部分将重点讨论光刻和半导体的应用实例。
+- 半导体技术已非常成熟，且与未来的职业发展密切相关，是学习的重点。
+## 半导体能带结构原理
+
+- 下周将讨论质量控制与材料选择（主题四）。
+- 能带的形成源于原子间距缩短导致能级分裂，当原子数量达到摩尔量级时，大量分裂的能级在宏观上表现为连续的能带。
+- 在单原子状态下能级是量子化的，但在大块材料中，由于电子态分布极其密集，可以将其视为连续的能带结构。
+- 在绝对零度（理想基态）下，电子按能量等级依次排列，每个能级占据一个位置；但在实际情况中，由于热能或缺陷的影响，电子会获得能量并跃迁至空位，成为具有高迁移率的自由电子。
+- 能隙（Gap）是由材料自身特性自然决定的，半导体是指具有中等能隙且可被激活的材料，而绝缘体的能隙则非常大，需要极高能量才能使电子跃迁。
+- 费米能级（Fermi level/energy）是指电子所能占据的最高填充态的能量水平。
+- 通过水瓶表面来类比费米能级：在绝对零度且稳定的状态下，水面高度代表费米能级；当加热时，获得能量的分子会跃迁至水面以上，类似于电子跃迁至费米能级之上。
+- 导带（Conduction band）与价带（Valence band）是能带结构中的两个基本组成部分，无论是否存在能隙，这两层能带始终存在。
+- 空穴（HOE）是指电子跃迁后留下的带正电的空位，其电荷性质与带负电的电子相反。
+- 在半导体中，电流由带负电的自由电子和带正电的空穴共同贡献；空穴通过电子的跳跃移动来传递正电荷，从而参与电流传输。
+- 能隙（EG）定义为价带中第一个电子与导带最低能量水平之间的能量差。
+- 迁移率（Mobility）指电子变为可移动状态的能力；通过引入杂质可以从本征半导体转变为外征半导体，以改变迁移率或导电特性。
+- 在硅（Silicon）等半导体中，加热通常会增加其电导率，因为热能会激发电子使其跃迁。
+- 本征半导体中，由于电子跃迁产生的自由电子数量与留下的空穴数量相等，且材料整体保持电中性。
+- 通过在硅晶格中引入替代位置的杂质（如砷或镓）来改变导电性：砷具有五个价电子，其中四个用于成键，多出的一个电子接近自由状态；镓具有三个价电子，成键后会留下一个空位，即空穴。
+- 引入杂质可以增加电荷载流子的浓度，并由于这些载流子不处于稳定的八电子构型，从而降低其移动的能垒，提高迁移率。
+- 电导率（$\sigma$）由电子和空穴两部分共同决定，其数值取决于载流子浓度、电荷量以及迁移率；电阻率是电导率的倒数。
+- 在实际应用中，通过化学方法确定杂质（如镓）的浓度是调节半导体电导率的一种可量化的手段。
+- N型半导体是指负电荷（自由电子）浓度极高的外征半导体，其名称源于电子的负电性。
+- P型半导体是指正电荷（空穴）浓度极高的外征半导体，其名称源于空穴的正电性。
+- 施主（Donor）是指引入第5族元素（如磷、砷）的杂质，它们提供额外的松散结合电子。
+- 受主（Acceptor）是指引入第3族元素的杂质，它们会产生空穴并允许电子进入。
+- 在重掺杂（Heavy doping）情况下，由于杂质产生的载流子浓度远高于本征载流子，电导率可简化为仅由施主或受主提供的载流子部分决定。
+## 光刻技术基础
+
+- 半导体技术的核心在于构建结（Junction），即在一侧导电性强、另一侧导电性弱的界面，例如 PN 结或金属与硅接触形成的界面。
+- 光刻（Lithography）一词源于希腊语，意为在硬质表面（如石头）上进行书写或印刷的过程，本质上是在平面基底上通过某种工具或方法创建图案的技术。
+- 光刻技术包含多种实现方式，除了光刻外，还包括利用物理探针进行切割（如 AFM 探针的纳米书写）等物理加工手段。
+- 浸没式笔纳米光刻 (Dip Pen Nanolithography, DPN) 是一种介于物理加工与传统光刻之间的技术，其核心在于利用 AFM 探针尖端与基底之间的毛细作用力。
+- DPN 的工作原理是利用探针尖端与基底间隙中的液体液滴作为局部反应器，通过毛细效应将液体或溶剂固定在间隙中。
+- 在 DPN 中，可以通过探针尖端向液滴中供应仅溶于水的分子，使分子以逐渐溶解的方式在基底上书写图案。
+- DPN 技术具有高度的可控性与可逆性，通过控制探针高度可以移动或移除液滴，实现清洁的加工过程。
+## 光刻技术与芯片制造流程
+
+- 利用 DPN 技术可以实现局部限制，例如在液滴内混合 10 种元素以制造高熵合金。
+- 在物理探针光刻中，探针的尺寸决定了图案书写的分辨率极限。
+- 光刻技术利用光作为中间媒介来引发书写反应，以实现比物理探针更精确、更一致的批量生产。
+- 芯片制造是一个包含多个步骤的复杂过程，光刻仅是其中的一个环节。
+- 半导体工业使用的硅片通常由单晶硅制成，通过在含有液态硅的溶液中悬挂单晶硅种子生长而成。
+- 单晶硅生长过程通过在液态硅中悬挂单晶硅种子进行异质成核，生长出的单晶硅呈圆柱状，随后被切割成圆盘状的硅片。
+- 旋涂技术（Spin coating）通过将硅片固定在高速旋转的载台上，利用离心力将粘性液体均匀铺展在表面，以制造极薄的涂层。
+- 旋涂薄膜的均匀性取决于旋转速度与液体粘度之间的平衡。
+- 光刻胶（Photoresist）是一种粘性液体，在涂覆后需经过烘烤（Post-application bake）使其硬化或趋于稳定，随后进入光刻工艺。
+- 光刻工艺利用光源通过一系列透镜形成平行光束，并照射在预先涂覆好的材料上。
+- 光罩（Mask）是带有许多窗口的金属片，窗口允许光线通过，而窗口框架则阻挡光线，用于对平行光束进行图案化筛选。
+- 光刻胶在受到光照并经过图案化后，通常需要通过进一步的烘烤或热处理来强化或硬化图案。
+- 显影（Development）是指通过溶剂（Developer）引发化学反应，从而创建或确认光刻胶图案的过程。
+- 光刻分辨率受波长 (lambda)、数值孔径 (NA) 以及常数 K1 的共同影响，其中 K1 与光刻胶质量、曝光及后续工艺等人工过程相关。
+- 光刻分辨率的损失可能源于光束并非完全平行（导致开口变大）或沉积过程不垂直（导致结构底部变宽）。
+- 通过缩短波长可以提升分辨率，例如从 193 nm 的深紫外光 (DUV) 转向 13.5 nm 的极紫外光 (EUV)。
+- 光刻胶分为正胶和负胶两种，其区别在于光照后化学性质的变化以及在显影液中的溶解性不同。
+- 显影过程通过溶剂选择性地移除光照后发生化学变化的区域，从而在基底上形成图案。
+- 在金属沉积工艺中，先在光刻胶上进行 PVD 溅射镀金，随后通过化学方法移除有机光刻胶，从而在硅片上留下纯净的金属导电线路。
+- 通过结合高数值孔径 (High NA) 设计与 EUV 光源，可以实现极高的分辨率，从而制造出 2 纳米或 5 纳米级别的先进芯片。
+- 光刻技术面临的瓶颈包括：如何产生极紫外光 (EUV) 的仪器设置，以及如何通过提高分辨率来匹配工程需求；此外，寻找能与 EUV 匹配且不会在反应时闭合间隙的合适光刻胶聚合物也是材料科学层面的瓶颈。
+- 负胶（Negative photoresist）在光照后由可溶变为不溶，聚合物变硬，显影液仅移除未受光照的软化部分；正胶（Positive photoresist）则相反，受光照部分变软并被显影液移除，最终图案与光罩窗口形状一致。
+- 目前高分辨率光刻通常使用正胶，因为其在复制光罩图案方面表现更好，但成本也比负胶更高。
+## 芯片制造的 3D 结构与 CVD 工艺原理
+
+- 芯片制造通过多轮光刻与沉积工艺的循环，实现复杂的 3D 结构，其中包含绝缘体、导体或半导体等不同层级的图案设计。
+- CVD（化学气相沉积）的核心在于反应气体的动态平衡，通过在开放式的反应腔室中引入反应气体，使气体在基底表面发生反应，并让副产物以气体形式排出。
+- 薄膜技术不仅关注厚度，还关注表面纹理与 2D 图案，例如用于触摸屏的超硬高光涂层（super coating）就是一种应用实例。
+## 4D 打印技术
+
+- 4D 打印是在 3D 打印的基础上增加了时间维度，指打印完成后材料会随时间发生预设的、设计良好的变化。
+- 4D 打印材料的变化通常表现为形状的改变，也可以是功能或性质的变化。
+- 植入体内的生物材料是 4D 打印的应用实例，例如伤口覆盖材料在初期起到隔绝空气和细菌的作用，随后随时间发生降解或闭合。
+- 4D 打印的变化通常需要特定的触发机制，如环境中的水分、温度变化或光照等输入信号。
+- 目前 4D 打印在工业界的应用主要集中在聚合物材料，其他材料仍面临制造成本问题。
+- 4D 打印实现了设计与产品的集成，能够实现接近实际应用场景的变化。
+- 使用水凝胶（Hydrogel）作为前驱体进行 4D 打印，打印出的物体呈柔软透明状，浸泡在水中后可实现自动移除或形状改变，此类应用最接近生物医学领域。
+## 课程安排与项目评估说明
+
+- 下周将完成所有核心课程内容的讲解，内容涵盖嘉宾讲座、质量控制以及项目评估与期末考试的要求。
+- 评分将根据项目演示过程进行，提问不会影响评分。
+- 学生需在项目演示前将幻灯片发送给老师，以便进行交叉引用检查。
+- 作业二预计将于明天发布，完成时间为所有人完成项目演示之后，限时 12 至 14 天
+## 待办事项
+
+- 下周将讨论质量控制与材料选择（主题四）。
+- 学生需在项目演示前将幻灯片发送给老师，以便进行交叉引用检查。
+- 作业二预计将于明天发布，完成时间为所有人完成项目演示之后，限时 12 至 14 天
+
+---
+
+Uh, this is a special type. Then I'd like to talk about.
+呃，这是一种特殊类型。那么我想谈谈。
+
+Right, so have you guys heard about Prof. Y. Chen's seminar? Not yet. Okay, then maybe I don't give you too much advice at your surprise.
+好的，你们听说过教授吗？Y. Chen 的研讨会？还没有。好吧，那也许我就不给你们太多建议了，让你们感到惊喜。
+
+But anyway, this is one very interesting area of PVD methods, right? So remember just now, the whole the whole substrate, right, is vertically or sometimes with an angle sitting on top, which is receiving all the incoming atoms. Now, people start to think, can I play with the positioning and the status of these three parts?
+不过，无论如何，这是PVD方法中一个非常有趣的领域，对吧？所以请记住，刚才整个基底，对吧，是垂直放置的，有时也会倾斜放置，所有入射原子都落到其表面。那么，人们开始思考：我能不能调整这三个部分的位置和状态？
+
+Must it be, for example, static, or it can be moving? Right? Can it be rotating?
+例如，它必须是静止的吗？还是可以移动的？对吧？它可以旋转吗？
+
+So a glancing angle PVD is a special kind of PVD, which is playing with the angle and the rotation. Right? So, for example, instead of using vertical position, we can use angle position.
+所以，斜角PVD是一种特殊的PVD，它会改变角度和旋转。对吧？所以，例如，我们可以采用倾斜位置，而不是垂直位置。
+
+So when the incoming beam hits my substrate, my substrate is not vertically receiving everyone, but I'm in a slumped way receiving everyone. Right? So it is not a big difference when the first layer of atoms hit the substrate.
+所以，当入射光束照射到我的衬底上时，我的衬底并不是垂直接收所有光，而是以倾斜的方式接收所有光。对吧？所以，当第一层原子撞击衬底时，差别并不大。
+
+But when there are already some particles, right, that are first there, and your second particle starts to come in, there will be a difference. Right? Because whenever there's an angle, my previously formed islands will serve as an optical, right?
+但是，当已经有了一些粒子，对吧，它们先在那里，而第二个粒子开始进入时，就会有所不同。对吧？因为只要存在一个角度，我之前形成的岛就会起到光学作用，对吧？
+
+And this new nucleate has a shadow. And this shadow. Well, if you have if you're vertically coming in, it doesn't mean anything.
+而这个新的成核点有阴影。还有这个阴影。嗯，如果你是从垂直方向进入的，那就没什么意义。
+
+But if I'm coming in with an angle, there will be areas that it is blocking. Right? It's shadow, shadow area. So the result is, right, if you just do that, right, you are going to see slanted vertical lines instead of vertical lines.
+但如果我是斜着进来的，就会有它遮挡的区域。对吧？是阴影，阴影区域。所以结果是，对吧，如果你只这样做，对吧，你会看到倾斜的竖线，而不是竖直的竖线。
+
+And if you play with that further, right, we can also, for example, rotate it. Right? So my substrate, my this is circulating itself, right?
+如果你继续调整它，对吧，我们还可以，比如说，把它旋转一下。对吧？所以我的基底，我的这个本身就在循环，对吧？
+
+And you will see I can get the spring-like helix, right? It's kind of a chiral structure, right? It has a rotating angle.
+你会看到，我可以得到类似弹簧的螺旋结构，对吧？它有点像手性结构，对吧？它有一个旋转角度。
+
+It can be left-hand or right-hand, depending on how you rotate it. Right? Or some people play with the deposition, right? They can, for example, instead of having one straight line, they can tilt some angle, deposit one kind of material, and they tilt the other angle, deposit the other kind of material.
+它可能是左旋的，也可能是右旋的，具体取决于你如何旋转它。对吧？或者有些人会调整沉积条件，对吧？例如，他们可以不采用一条直线，而是倾斜一定角度沉积一种材料，再倾斜另一个角度沉积另一种材料。
+
+So each one of these vertical structures is not a single a single material, a single composition, but a petro structure that has many branches, right, with different angles. So that's something we can play with, right, for PVD. Okay?
+所以，这些垂直结构中的每一个都不是单一材料、单一成分，而是一种具有许多分支的岩层结构，对吧？这些分支的角度各不相同。所以，对于PVD来说，我们可以灵活运用这一点，对吧？明白吗？
+
+The whole big library of PVD, and we won't have time to talk about that, right? So I'd like to focus on those that are interesting and more specifically for nanostructures. That was this topic four. So I'm going to switch to a special kind of chemical wafer deposition, right?
+整个庞大的 PVD 库，我们没有时间讨论，对吧？所以我想重点讲讲那些有趣的内容，尤其是与纳米结构相关的部分。那就是第四个主题。所以我要转到一种特殊的化学晶圆沉积，对吧？
+
+So against PVD, we have CVD. All the wafer depositions that are using a chemical reaction we call it CVD. And the amount of CVDs, we have an interesting one called vapor liquid solid deposition.
+那么，与PVD相对的是CVD。所有利用化学反应进行晶圆沉积的方法，我们都称为CVD。至于CVD，其中有一种很有意思的，叫作气液固沉积。
+
+Right? VLS. Right? So its name tells its complexity, right?
+对吧？VLS。对吧？所以它的名字就说明了它的复杂性，对吧？
+
+We have both all three phases of a material. So what is happening is that people realize that when they're trying to grow some semiconducting materials, like silicon or gallium nitride, gallium acetate, we will talk about semiconductor just a few minutes later, so don't worry. So basically, when they're growing these materials, right, they realize that, well, you can be physical, right?
+我们拥有材料的所有三个相。所以，人们意识到，在尝试生长一些半导体材料时，比如硅或氮化镓、醋酸镓——我们稍后会讲到半导体，所以不用担心。所以基本上，当他们生长这些材料时，对吧，他们意识到，嗯，你可以采用物理方法，对吧？
+
+You can use this method to bombard your silicon out, or you can simply find a chemical reaction and maybe be able to take place, for example, in room temperature, right? So they can actually grow into a different kind of shape, then realize that there is a catalyst that can direct growth. Right?
+你可以用这种方法轰击硅，也可以简单地找到一种化学反应，也许可以在室温下进行，对吧？所以它们实际上可以长成不同的形状，然后发现有一种催化剂可以引导生长。对吧？
+
+Whenever there's a chemical reaction, chemists look for catalysts. Right? Catalysts are those active species that do not directly participate in your reaction, but they can lower your energy barrier.
+每当发生化学反应时，化学家都会寻找催化剂。对吧？催化剂是那些不直接参与反应，但能够降低反应活化能的活性物质。
+
+So you can reach your destination faster and in a lower energy consumption. So that's why people want catalysts. They like the shortcut of a material of a process.
+所以你可以更快地到达目的地，并且以更低的能量消耗。所以人们才想要催化剂。他们喜欢材料或工艺带来的捷径。
+
+Right? So they realize that a catalyst, usually a noble metal particle, right, in this case, people find gold, they can actually, whenever they are, right, the wires or their these semiconductor materials, they will follow the gold to grow. Right? So initially, maybe we start with a substrate, and this substrate is bare.
+对吧？所以他们意识到，催化剂通常是一些贵金属颗粒，对吧？在这种情况下，人们发现，无论在哪里，对吧，导线或这些半导体材料，它们都会沿着金颗粒生长。对吧？所以一开始，我们也许从一个衬底开始，而这个衬底是裸露的。
+
+So we start with an empty, clean surface, and we put some gold particles on top. So this is simply only solid and solid. And you start to introduce your wafers in. So when your wafers come in and we have this local heating, so this gold particle is partially melted.
+所以我们从一个空的、干净的表面开始，然后在上面放置一些金颗粒。所以这里只是固体与固体。然后你开始把晶圆放进去。所以，当晶圆进入后，由于存在这种局部加热，这个金颗粒会部分熔化。
+
+Right? It's partially melted, so it becomes less rigid. Right? So it's like a soft, soft, and it starts to have a higher contact angle here.
+对吧？它部分熔化了，所以变得不那么坚硬。对吧？所以它变得很软、很软，而且这里的接触角开始变大。
+
+So our wafer comes in, and our wafer is very happily sitting on the substrate where the gold contacts our substrate. It starts to grow at this gap area. Right?
+所以晶圆进来了，晶圆非常顺利地坐落在衬底上，而金触点接触衬底。它开始在这一间隙区域生长。对吧？
+
+And the next wafer comes in, they will still look for gold, right? They will grow on the this interface. So they will actually it's like how you grow a plant, right?
+下一片晶圆进来后，他们还是会寻找金，对吧？它们会在这个界面处生长。所以它们实际上就像你种植物一样，对吧？
+
+You place a seed, and right at this position, your new plant will just grow larger and higher and higher. Right? And your catalyst is always on top of this structure.
+你种下一颗种子，就在这个位置，你的新植物会不断长大、越来越高。对吧？而你的催化剂始终位于这个结构的顶部。
+
+And you can stop the reaction by stop supplying the wafer, and you can determine the width of your plant by determining the seed. Size, right? They can be a large diameter or small diameter.
+你可以通过停止供应晶圆来终止反应，也可以通过确定晶种来确定晶片的宽度。尺寸，对吧？它们可以是大直径的，也可以是小直径的。
+
+And you can also design where they grow by designing where you deposit the initial places of these particles. So that's why this is very interesting phenomena. And of course, there are also overgrowth.
+你也可以通过设计这些颗粒的初始沉积位置来控制它们的生长位置。所以，这就是为什么这是一个非常有趣的现象。当然，也会发生过生长。
+
+So if you were reaching a critical height and sometimes also because you're supplying too much wafer in a short period of time, they also can grow in a more less controlled manner, like they grow in a lateral direction. Right? So but overall, people can get really nice and really uniform structures like this. Okay? So each one of them is like an antenna, a very neat and straight.
+所以，如果它达到了临界高度，有时也因为你在短时间内供应了过多的晶圆，它们也会以一种或多或少可控的方式生长，比如横向生长。对吧？所以，总的来说，人们可以得到这种非常规整且非常均匀的结构。明白吗？所以它们每一个都像一根天线，非常整齐笔直。
+
+Right? They look very beautiful because they have a crown on the top. Right?
+对吧？它们看起来非常漂亮，因为顶部有一顶冠冕。对吧？
+
+Each one of them has a metal particle on top. And people are nowadays, they can also control the they can also do a video real-time video showing how the nanowire is going up. Right? So you can see here, people are controlling the diameter.
+它们的顶部各有一个金属颗粒。如今，人们还可以控制……还可以实时拍摄视频，展示纳米线是如何上升的。对吧？所以你可以看到，人们正在控制纳米线的直径。
+
+Right? So this is about 34 nanometers in diameter. This is about only 14.
+对吧？所以它的直径大约是34纳米。这大约只有14。
+
+So that depends on how small you use your gold nanoparticle. Okay? So that's one interesting thing.
+所以，这取决于你使用的金纳米颗粒有多小。明白吗？所以，这是个有趣的现象。
+
+Right? So people have been growing many semiconducting wires using this method.
+对吧？所以，人们一直使用这种方法生长许多半导体纳米线。
+
+Okay?
+明白吗？
+
+All right. So yeah, that's about it. Right?
+好的。所以，嗯，差不多就是这些。对吧？
+
+So for CVD, we only talk about this VLS. This is particularly for nanomaterials or nano arrays. Right? Of course, if you don't have this nano confinement, nano definition, CVD is also a very useful method for all kinds of bulky materials, including the oxides that Prof.
+所以对于CVD，我们只讨论这个VLS。这尤其适用于纳米材料或纳米阵列。对吧？当然，如果你没有这种纳米尺度的限制，也没有这种纳米定义，那么CVD对于各种块状材料也非常有用，包括教授……的氧化物。
+
+Y. Chen just talked about. I think we also have some information about CVD and CVD in our semiconductor part.
+Y. Chen 刚才提到的。我想，我们在半导体部分也介绍了一些关于CVD和CVD的信息。
+
+Right? So that's just the special case for nano.
+对吧？所以这只是纳米材料的特殊情况。
+
+Okay.
+好的。
+
+Okay. Let me continue.
+好的。我继续。
+
+Okay. So this will be the last topic for the last lecture for topics two and three, where we focus on some examples of photolithography and semiconductors. Actually, we have another side topic which I couldn't get an available schedule from a guest lecturer.
+好的。那么，这将是我们最后一讲的最后一个主题，也是主题二和主题三的内容，我们将重点介绍一些光刻和半导体方面的例子。其实，我们还有一个副主题，但我没能安排到一位客座讲师。
+
+She will talk about AI for science, but AI for materials. Yeah. But I think it's okay.
+她将讲人工智能在科学领域的应用，但具体是人工智能在材料领域的应用。对。不过我觉得没问题。
+
+A couple of steps.
+几个步骤。
+
+The status of AI's use in most of these advanced materials courses are mostly still on the surface. Right? Frankly.
+在大多数这些先进材料课程中，人工智能的使用现状大多仍仅停留在表面层面。对吧？坦率地说。
+
+So maybe we can wait for them to grow larger and more mature. Right? We can introduce that later.
+所以，也许我们可以等它们长大、更加成熟一些。对吧？我们稍后可以引入这个。
+
+What I'm talking about today, I think, is more important. Semiconductor industries are closely related to your probably your job and your career and at least we should know something about semiconductors nowadays. And it's also very mature technology already, so we can really learn something useful.
+我认为，我今天讲的内容更重要。半导体行业与你们的工作和职业密切相关，至少我们现在应该对半导体有所了解。而且这已经是一项非常成熟的技术，所以我们确实可以学到一些有用的东西。
+
+And not so outdated. And after this, next week, as I mentioned I will talk about some quality control and material selection. A really brief one as topic four. So when you were about to become an engineer or material scientist somewhere, what are the tools and things you may consider outside the material fabrication box?
+而且并没有那么过时。接下来，也就是下周，正如我提到的，我会讲一些质量控制和材料选择。作为主题四，会做一个非常简短的介绍。那么，当你即将在某个地方成为一名工程师或材料科学家时，除了材料制备之外，你还会考虑使用哪些工具和方法？
+
+We need to think about some bigger picture, something like that. Right? So okay.
+我们需要从更宏观的角度思考，大概就是这样。对吧？所以，好吧。
+
+Right. So I need to quickly recap the knowledge about semiconductors. So I think we talked about this in our topic zero.
+对。所以我需要快速回顾一下半导体的相关知识。我想我们在主题零中讲过这个。
+
+Right? So we talked about what is an energy band. Right? So remember, we have conductor, insulator, and semiconductor.
+对吧？所以我们讨论过什么是能带。对吧？所以请记住，我们有导体、绝缘体和半导体。
+
+Semiconductor is in between. Right? So but why do we have a why do we think this is interesting?
+半导体介于两者之间。对吧？那么，为什么我们会觉得这个很有意思呢？
+
+Right?
+对吧？
+
+Yeah.
+对。
+
+Okay.
+好的。
+
+So why do we think it's interesting?
+那么，为什么我们认为它很有意思？
+
+So if we look at each single atom we already learned from high school what are their energy levels. Right? We have inner core shell, outer shell, the valence shell.
+所以，如果我们观察每一个原子，我们已经从高中学过它们的能级是什么。对吧？我们有内层核心壳层、外层壳层，也就是价电子层。
+
+So we have 1s, 2s, 2p, things like that. But when atoms come closer, because in the real world, we don't leave a single atom. Right? Those high school electron configurations are ideal case for single atoms at ground state.
+所以我们有1s、2s、2p之类的。但当原子靠得更近时，因为在现实世界中，我们不会留下单个原子。对吧？那些高中讲的电子排布，是单个原子处于基态时的理想情况。
+
+The real life is atoms are together. Right? So when atoms are getting close, this is an interatomic separation.
+现实生活中，原子是聚集在一起的。对吧？所以，当原子彼此靠近时，这就是原子间距离。
+
+So that's the distance between atoms. When atoms are getting closer, right, their energy level starts to become a split of energy levels. Okay?
+所以，这就是原子之间的距离。当原子彼此靠得更近时，对吧，它们的能级开始发生分裂。明白吗？
+
+So one reason their energy level are quantized. So we don't see a gradual change. We see a sudden separate.
+所以，它们的能级是量子化的，这是一个原因。所以我们看不到平滑的变化。我们会看到突然的分离。
+
+One energy becomes two, two energy becomes four. Right? And each one of them have quantized separated value.
+一种能量变成两种，两种能量变成四种。对吧？而且它们各自都有离散的量子化值。
+
+Okay? Now, that is when we have from, for example, one atom to 100 atoms. Now, but in the real world, we're talking about what?
+明白吗？现在，这就是当我们有，比如说，从一个原子到100个原子时的情况。那么，在现实世界中，我们说的是什么？
+
+Moles of atoms. Right? We have Avogadro's number.
+原子的摩尔数。对吧？我们有阿伏伽德罗常数。
+
+Right? So one mole is 6.02 times 10 to the power of 23. Right? So that's the amount of atoms we're talking about. So when that happens, the splitting although still quantized, become irrelevant.
+对吧？所以，一摩尔等于6.02乘以10的23次方。对吧？所以，这就是我们所说的原子数量。所以当这种情况发生时，尽管分裂仍然是量子化的，但就变得无关紧要了。
+
+Less relevant because there are too many of them. Right? So if you have 1 million strings, you probably can consider them as a band instead of 1 million strings.
+因为原子太多，所以分裂的影响就没那么大了。对吧？所以，如果你有100万个弦，你可能可以把它们看作一个带，而不是100万个单独的弦。
+
+Right? So when they're splitting, it's talking about a bulky size of material where we have a bulky size of a bulky size number of atoms.
+对吧？所以，当它们分裂时，我们讨论的是一个巨大的物质，其中包含大量原子。
+
+The energy level become energy band. That's just naturally the fact that energy band. So one energy level right?
+能级会形成能带。这自然就是能带这一事实。所以是一个能级，对吧？
+
+One energy level become an energy band like that. Okay?
+一个能级就会变成那样的能带。明白吗？
+
+Right?
+对吧？
+
+So we have here for large number of atoms, electrons are perturbed. So when they are when they have a closely spaced electron states, just like these brushes. Right? Then they become a band. So it's a continuous distance that we care about.
+所以对于大量原子，这里的电子会发生扰动。所以，当它们……当它们具有间距很近的电子态时，就像这些刷子一样。对吧？那么它们就会形成一个能带。所以，这是一个我们关注的连续距离。
+
+Right? So we think of them as continuous. Okay? Now, another thing I need to highlight is let me see.
+对吧？所以我们把它们看作连续的。明白吗？现在，我还需要强调另一点，让我想想。
+
+Okay. Maybe you can we can use make use of these band structures on the right. So we were talking about any given material.
+好的。也许你可以……我们可以利用右边的这些能带结构。所以我们刚才讨论的是任意给定的材料。
+
+Right? You know the number of electrons. And we know their energies.
+对吧？你知道电子的数量。我们知道它们的能量。
+
+Right? If given a fixed temperature, let's say usually people when people talk about it, people talk about ground state first. So basically 0 Kelvin, ideal case. In ideal case, all my electrons are lined up.
+对吧？如果给定一个固定温度，比如说，通常人们谈到这个时，首先会谈到基态。所以基本上就是0开尔文，也就是理想情况。在理想情况下，我的所有电子都排列整齐。
+
+Right? One energy level, one electron. Right?
+对吧？一个能级，一个电子。对吧？
+
+Although they're all considered sitting within this band, each one of them still have a separate seat. Right? So if we look at this vertical level as the energy increase, right, I have one electron that is first in the line.
+尽管它们都被认为处于这个能带之内，但每个电子仍然都有一个单独的位置。对吧？所以，如果我们从这个垂直方向观察，随着能量增加，对吧，我有一条电子链，电子排在最前面。
+
+It has the highest energy. And then the second, the third, they're all aligned and they're sitting very nicely. Each one of them have their own seat.
+它的能量最高。然后是第二个、第三个，它们都排成一条直线，排列得非常整齐。它们各自都有自己的位置。
+
+Okay? So that is basically this all these energy splits. Right?
+明白吗？所以，基本上就是这些能量的分配。对吧？
+
+So that's the ground state. Now, we never really have a ground state in real life. Right?
+所以这就是基态。现在，现实生活中我们实际上从来不存在基态。对吧？
+
+We don't have 0 Kelvin. So whenever there is a tiny amount of energy input, either by He or by anything else, maybe some vacancy, some defects. Right? My electron starts to get hot and get mobile.
+我们没有0开尔文。所以，只要有一点能量输入，无论是由 He 还是其他任何东西，比如一些空位、一些缺陷，都会……对吧？我的电子开始发热并获得迁移能力。
+
+So we call sometimes we call them become free electrons. Depending on the context of that story. But we can just well, for example, just call them free electron for now. So this electron, it will leave its seat and jump to these bigger area where you have more empty seats.
+所以我们有时称它们为自由电子。这取决于那个故事的具体语境。不过我们暂时就叫它们自由电子吧，比如说。所以这个电子会离开它原来的位置，跃迁到这些更大的区域，在那里有更多空位。
+
+And where originally, there were no electron. So originally, there are just empty seats. Right?
+而原本那里没有电子。所以原本只有空位。对吧？
+
+My electron jump over. And this area, the magic of this region is it's a valence band or valence area. And this area is where my electrons are totally free.
+我的电子跳过去。而这个区域，这个区域的神奇之处在于，它是一个价带，或者说价区。而这个区域是我电子完全自由活动的地方。
+
+Right? So set are free. They can move everywhere. They have the highest mobility in terms of moving, vibration, carrying charge, carrying heat.
+对吧？所以这些电子是自由的。它们可以到处移动。它们在移动、振动、携带电荷和传递热量方面具有最高的迁移率。
+
+Right? So they all can be done when there's one step inside this region. Okay? So the interesting thing is, right, not all materials look like this.
+对吧？所以，当这个区域内有一个步骤时，所有这些都可以完成。明白吗？所以有意思的是，对吧，并不是所有材料看起来都像这样。
+
+Some material look like this. Right? So when you try to align their atoms their electrons, they also align here.
+有些材料看起来是这样的。对吧？所以，当你试图让它们的原子、电子对齐时，它们也会在这里对齐。
+
+They have the first highest energy, second one. Right? But it's not right next to its movable region.
+它们是能量第二高的，第一。对吧？但它并不紧挨着它的可移动区域。
+
+Right? Its movable region sometimes is still a big step away. Right? So we don't get to design or choose how far the next empty seat is.
+对吧？它的可移动区域有时仍然远得很。对吧？所以我们无法设计或选择下一个空座位有多远。
+
+It's usually naturally determined by the material's own features. We just go and measure it, and we record down. That's the gap level.
+这通常会由材料本身的特性自然决定。我们只需去测量并记录下来。那就是间隙水平。
+
+Okay? So the semiconductors are those that have a medium gap value that is somewhat activatable. Right? For insulators, that would be this is a huge gap. It's a gap that's so huge that you probably need to heat it, for example, to 1,000 degrees Celsius.
+明白吗？所以，半导体是指带隙值适中、能够一定程度上被激活的材料。对吧？对于绝缘体来说，其带隙会非常大。这个间隙非常大，以至于你可能需要把它加热到，比如说，1000摄氏度。
+
+Before it can knock out its first electron. Just as an example. So basically, we look for those materials that have a intermediate level of gap over here that can be made use of.
+它才能逸出第一个电子。举个例子。所以，基本上，我们要找的是这里具有可利用的中间带隙水平的材料。
+
+Right? So what use for that is usually electrons. So we have some terms here.
+对吧？所以，通常利用的是电子。所以我们这里有一些术语。
+
+Right? So the Fermi level or Fermi energy is the first important concept. Right? If you're in semiconductor industry, you must know this. Right?
+对吧？所以，费米能级或费米能量是第一个重要概念。对吧？如果你从事半导体行业，就必须了解这一点。对吧？
+
+So Fermi energy is talking about our number one electron. Right? So the highest filled state has an energy we call Fermi energy.
+所以，费米能级指的是我们最外层的电子。对吧？所以，最高被占据态的能量我们称为费米能。
+
+And again, this is when we're talking about ground state ideal 0 Kelvin case. Right? So let's imagine every material we can cool them down to 0 Kelvin, and we start to measure their energy one by one.
+同样，这是指基态、理想状态以及0开尔文的情况。对吧？那么，我们假设所有材料都能冷却到0开尔文，然后开始逐一测量它们的能量。
+
+And the highest one gets to define what is a Fermi energy. So this is very much like what? So people when I was a student, people the lecturer tried to help us understand what is Fermi energy by thinking about photo.
+其中最高的那个可以用来定义费米能级。所以这很像什么？所以，我学生时代，老师会试着通过思考“photo”来帮助我们理解什么是费米能。
+
+Maybe I can use that one. Can I borrow your light? That one.
+也许我可以用那个。我能借用一下你的灯吗？那个。
+
+I need a transparent one. Thank you.
+我需要一个透明的。谢谢。
+
+Okay.
+好的。
+
+So if you look at this water bottle. Right? So if I'm holding here very still, I have a water surface.
+所以，如果你看一下这个水瓶。对吧？所以，如果我在这里非常静止地拿着，这里就有一片水面。
+
+This surface is my Fermi level for now.
+这个表面目前就是我的费米能级。
+
+Oh, sure.
+哦，当然。
+
+But this is ground state. Right? Whenever I try to slightly move it or let's say I heat this bottle, the surface atoms will molecules will be the first molecules that come out.
+但这是基态。对吧？每当我试图稍微移动它，或者比如说给这个瓶子加热时，表面的原子或分子就会最先逸出。
+
+Right? Maybe they're just like shaking. They come out. Or maybe it's vaporizing.
+对吧？也许它们只是在晃动。它们出来了。或者它可能正在汽化。
+
+So they come really far away. Right? But in either way, my Fermi level is overcome.
+所以它们从很远的地方过来。对吧？但无论如何，我的费米能级都被克服了。
+
+Okay? So the level here is just like original surface line that I can draw when everyone I cool down and in a steady state. So I can, for example, draw a line here. So that's my Fermi level for the this particular energy band gap energy band structure.
+明白吗？所以这里的能级就像我冷却后处于稳态时可以画出的原始表面线。所以我可以，比如说，在这里画一条线。所以，这就是这个特定能带间隙、能带结构的费米能级。
+
+Right? And then everything happens after I heat it will be above Fermi level. Okay?
+对吧？然后，我把它加热之后，所有东西都会高于费米能级。明白吗？
+
+That's easier to understand. Right? Okay.
+这样更容易理解。对吧？好的。
+
+Thank you very much.
+非常感谢。
+
+Sure. Of course.
+当然。当然。
+
+So that's the first concept. All right? So the next thing I also talked about just now is free electron.
+所以，这是第一个概念。明白吗？那么，我刚才讲到的下一个概念是自由电子。
+
+Right? So when my water molecule has crossed that surface line, they have energy above that starting point. Right?
+对吧？所以，当我的水分子越过那条表面线时，它们所具有的能量高于起始点。对吧？
+
+We have energy greater than the Fermi energy. We call this electron free electron.
+我们的能量大于费米能级。我们称这种电子为自由电子。
+
+Okay? And usually, that means they're already inside the conduction band. Right? So the upper band, we call this conduction band.
+明白吗？通常，这意味着它们已经处于导带中。对吧？所以，我们把较高能带称为导带。
+
+Lower band is valence band. Okay? Here, it's a similar. It doesn't matter whether we have a gap or not.
+下带是价带。明白吗？这里，它也是类似的。我们有没有带隙并不重要。
+
+We always have a conduction band and a valence band.
+我们总是有一个导带和一个价带。
+
+Right? They should be continuous.
+对吧？它们应该是连续的。
+
+Drawn here.
+画在这里。
+
+So it should be either conduction band or valence band. Right? And something new that you probably haven't heard about any physics book before I mean, from maybe our traditional understanding of conductivity and all that, we have a new concept of semiconductors. It's called HOE. Okay? What is HOE? HOE is the seat left when this electron go free.
+所以它应该是导带或价带。对吧？还有一些你们可能以前在任何物理教材中都没听说过的新内容。我的意思是，从我们对导电性等传统理解来看，我们有了半导体这一新概念。它叫 HOE。明白吗？什么是HOE？H.O.E. 是这个电子自由移动时留下的空位。
+
+Okay? Originally, every electron have their own seat. And this seat is here.
+明白吗？原本，每个电子都有自己固定的座位。这个座位在这里。
+
+Right? And electron may come and go. Seat is still always here.
+对吧？电子可能会来来去去。这个座位始终都在这里。
+
+So when the electron is going out, it's freed. It's accelerated. It's activated or whatever.
+所以，当电子出去时，它就自由了。它被加速了。它被激活了，或者怎么说。
+
+Right? They have an absence electron. Right?
+对吧？他们有一个缺失的电子。对吧？
+
+So this empty seat is a what? Is a positively charged seat. Right?
+所以这个空位是什么？是一个带正电的空位。对吧？
+
+Because my electron is negatively charged.
+因为我的电子带负电。
+
+Yeah.
+对。
+
+So for semiconductors, their conductivity is not so high. So we include everyone's contribution. Right?
+所以对于半导体来说，它们的导电性没有那么高。所以我们把每个人的贡献都包括在内。对吧？
+
+In metals, do we have empty seats? Probably also yes. But we don't care.
+金属方面有空缺吗？可能也是。但我们不在乎。
+
+Because the amount and their mobility is nothing compared to my C electrons. Right? But for semiconductors, these empty seats with electron is gone.
+因为与我的 C 电子相比，它们的数量和迁移率都不算什么。对吧？但对于半导体来说，这些带有电子的空位已经消失了。
+
+It's carrying a negative charge. It's contributing to my current. And my leftover, my empty seat with absence electron is now forced to be positively charged.
+它带负电荷。它对电流有贡献。而我剩下的、空着的座位上没有电子，现在被迫带正电。
+
+And this seat can also move. Right? How do it move?
+这个空位也可以移动。对吧？它是怎么移动的？
+
+It move when my next electron come in. Right? My second line I will fill this first seat. And then the second line I have an empty seat.
+当我的下一个电子进来时，它会移动。对吧？我的第二条线，我先填这个座位。然后第二行有一个空位。
+
+That empty seat is actually just moved from here. Right? So the positive charge can also be moved when the electrons is hopping.
+那个空座位其实只是从这里移过来的。对吧？所以，当电子跃迁时，正电荷也可以移动。
+
+So the positive charge is also carrying the positive charge to one direction. That also a way of current. Right?
+所以，正电荷也会把正电荷朝一个方向携带。这也是电流的一种方式。对吧？
+
+Current is basically charge move. Right? One negative charge goes that direction is current.
+电流基本上就是电荷的移动。对吧？一个负电荷朝那个方向移动，就是电流。
+
+Positive charge moves this direction also current. Right? So both parts are contributing.
+正电荷朝这个方向移动，也是电流。对吧？所以两部分都有贡献。
+
+And both parts are important for semiconductors. So that's why people talk about electrons. Have you talked about HOEs?
+这两部分对半导体都很重要。所以人们才会谈到电子。你们讲过高阶谐波吗？
+
+Right? They're both very important. And electrons are negative.
+对吧？它们都非常重要。而电子带负电。
+
+HOEs are positive. Okay? So that's something you need to know.
+HOEs 是正的。明白吗？所以这是你需要知道的。
+
+Another concept is the energy band gap. Right? We have this EG.
+另一个概念是能带隙。对吧？我们有这个 EG。
+
+Oops.
+哎呀。
+
+Anyway, maybe you can—
+总之，也许你可以——
+
+你怎么看不着？你是戴眼镜吗？小声，小声。
+How do you see it? You can't see it. Do you wear glasses? Lower your voice, lower your voice.
+
+Just look at here.
+看这里。
+
+Okay.
+好的。
+
+Right? This EG. Right? So this band gap, this is the energy difference between my first electron in the valence band.
+对吧？这个 EG。对吧？所以这个带隙，就是价带中第一个电子的能量差。
+
+Right? This restricted area. So the free region, the lowest energy.
+对吧？这个受限区域。所以，自由区域，也就是能量最低的区域。
+
+So this gap.
+所以这个能隙。
+
+我的指标好。
+My indicators are good.
+
+Is my energy. Okay?
+是我的能量。明白吗？
+
+All right.
+好的。
+
+So that's the recap. Right?
+这就是回顾。对吧？
+
+这是拼多多财富。
+This is Pinduoduo Wealth.
+
+If you're studying material science, you probably already learned that.
+如果你学的是材料科学，那可能已经学过了。
+
+真的。
+Really.
+
+And another thing you probably also learned when I was a professor.
+还有件事，我当教授的时候，你们可能也学过了。
+
+便宜没好。
+Cheaper doesn't mean better.
+
+Let me just talk about this N-type and P-type. So what does we mean by N-type and P-type? Okay?
+我先讲一下 N 型和 P 型。那么，我们所说的 N 型和 P 型是什么意思？明白吗？
+
+So if you have a natural material, let's say semiconductor, that would be, for example, silicon, germanium, right? Silicon is also still the major substrate material we use. Right?
+所以，如果你有一种天然材料，比如说半导体，比如硅、锗，对吧？硅仍然是我们主要使用的衬底材料。对吧？
+
+For example, your solar panels, we use silicon. Wafers. Right?
+例如，你们的太阳能电池板使用硅。晶圆。对吧？
+
+So if you're talking about a natural silicon, that would be you look at this region. For example, you ignore the green ones for now. So the silicon atoms, if you recall, they will have four valence electrons.
+所以，如果你说的是天然硅，那就是看这个区域。例如，现在先忽略绿色的那些。所以，如果你们还记得，硅原子有四个价电子。
+
+Right? So each silicon has four outside electrons that are more mobile and more ready for bonding. So when I have a silicon, I will have let's assume a naturally perfect crystal of silicon. Then I will be surrounded by another four silicons.
+对吧？所以每个硅原子都有四个外层电子，这些电子更容易移动，也更易于成键。所以，当我有一个硅原子时，假设它是一个天然完美晶体中的硅原子。然后，我会被另外四个硅原子包围。
+
+And I form this eight-electron configuration. Right? That's very stable configuration.
+我形成这种八个电子的结构。对吧？这是一个非常稳定的电子构型。
+
+So in this case, all my electrons are actually bonded. And I know electrons are contributing to conductivity. So when they're bonded, they're kind of losing the conductivity, losing the mobility.
+所以在这种情况下，我的所有电子实际上都处于成键状态。我知道电子有助于导电。所以，当它们成键时，导电性就会有所下降，迁移率也会降低。
+
+Right? The ability of these electrons to become mobile or moving, we call it mobility. So people have figured out a way to increase that mobility or change the situation. Right? So compared to intrinsic semiconductor, people invented extrinsic semiconductor.
+对吧？这些电子成为自由电子或运动的能力，我们称之为迁移率。所以人们已经找到了一种提高这种迁移率或改变这种情况的方法。对吧？所以，与本征半导体相比，人们发明了非本征半导体。
+
+Right? So in intrinsic semiconductor, when electron is knocking out, for example, even for an eight-electron configuration, I can have my electron activated by, for example, heating. Right?
+对吧？所以在本征半导体中，当电子被激发时，例如，即使处于八电子构型，电子也可以被加热等作用激发。对吧？
+
+Or by other things. Normally, most semiconductors, when you heat them, their conductivity increase. Right?
+或者通过其他方式。通常，大多数半导体加热时，其电导率会增加。对吧？
+
+That's just some more dynamics telling you everyone are more kinetically available. So that's how it sounds. When you excite my electron, electron goes out.
+这只是另一种动力学效应，说明所有原子都具有更高的动能。所以听起来就是这样。当你激发我的电子时，电子就会逸出。
+
+So what is left over is a hole. So whenever you have a mobile electron, you have a free electron, you have a hole. So the concentration of my the number of holes of number of my electrons, usually we use N for electron.
+所以剩下的就是一个空穴。所以，每当你有一个可以移动的电子，也就是一个自由电子时，同时也会有一个空穴。所以，空穴的浓度，也就是空穴的数量，通常我们用 N 表示电子。
+
+This is for electron. Right? And this is for hole.
+这是电子的。对吧？而这是针对空穴的。
+
+Hole, we usually use H. Some people use H+. Right? Most common one is just H.
+空穴，我们通常用 H 表示。有些人用 H+。对吧？最常见的就是 H。
+
+So the concentration of electrons and concentration of holes will be equal. Right? Because my empty seat and my number of electrons should be exactly matching each other.
+所以电子浓度和空穴浓度会相等。对吧？因为我的空位数和电子数应该完全匹配。
+
+The whole material should be neutral. Right? In charge.
+整个材料应该是电中性的。对吧？负责。
+
+And the people start to purposely introduce some impurities. Right? So this is an example we talk about imperfections.
+人们开始故意引入一些杂质。对吧？所以，这是一个我们讨论缺陷的例子。
+
+Right? Imperfections can be a good thing. Right? So now I purposely introduce some, for example, here we have acetate or gallium.
+对吧？不完美也可以是件好事。对吧？所以现在我故意引入一些，例如，这里有醋酸盐或镓。
+
+Right? So these are not silicon. Right? These are impurities in foreign elements.
+对吧？所以这些不是硅。对吧？这些是外来元素杂质。
+
+I inserted them into my silicon lattice. And I asked them to replace as a substitute position to my silicon. So what's going on is we chose these materials to have either five valence electrons or three valence electrons.
+我把它们掺入硅晶格中。我让它们取代硅原子，占据硅晶格中的位置。所以，我们选择这些材料，是因为它们各有五个或三个价电子。
+
+So happened to me not to be four. Right? So when I have five electrons, my four electrons bonded with silicon.
+所以碰巧不是四个。对吧？所以，当我有五个电子时，其中四个电子与硅键合。
+
+And I have an extra electron that is dangling there. Okay? So this electron, without any much activation, they're pretty much already free.
+我还多了一个悬空的电子。明白吗？所以这个电子不需要太多活化，基本上就已经是自由的了。
+
+Okay? So whenever you introduce a S, for example, right? Acetate, you have an electron that is only one step away from being free.
+明白吗？所以，比如说，每当你引入一个 S，对吧？乙酸根中，一个电子距离变成自由电子只有一个步骤。
+
+Right? So they're near-free electron. Okay?
+对吧？所以它们几乎是自由电子。明白吗？
+
+Similarly, I can have a gallium atom that is substituting silicon. And gallium has three electrons. So naturally, it can only form three bonds.
+同样，我也可以有一个取代硅原子的镓原子。镓有三个电子。所以，它自然只能形成三个键。
+
+And the other one, leave an empty seat. Right? So it's like it comes with an empty seat where nobody is sitting.
+另一个则留下一个空位。对吧？所以它就像自带一个没人坐的空位。
+
+And that becomes a hole. So one gallium atom in one extra hole compared to original pristine silicon. Right? For acetate, it's one acetate in one free electron that's already here. Okay? So that is the way of increasing the concentration of charge carriers.
+然后那里就变成了一个洞。所以，与原始未掺杂的硅相比，一个镓原子会多出一个空位。对吧？对于醋酸根，一个醋酸根对应一个已经存在的自由电子。明白吗？所以，这就是增加载流子浓度的方法。
+
+And actually, in the meantime, lowering the energy barrier of the moving these charge carriers. Right? Because this extra one is more mobile than the bonded one by nature.
+而且实际上，在此过程中，还会降低这些电荷载流子移动的能量势垒。对吧？因为这个额外的电子天生比键合电子具有更高的迁移率。
+
+Right? Because it's not in eight-electron stable configuration. So they want to be free.
+对吧？因为它没有处于八电子稳定构型。所以它们想要变成自由的。
+
+Okay? So when that happens, so if we I didn't actually skip this equation here. I don't want to make this too difficult to follow. So basically, people have figured out a formula to try to quantify these conductivity.
+明白吗？所以当这种情况发生时，如果我们——我其实并没有跳过这里的这个方程。我不想让这个方程太难理解。所以，基本上，人们已经推导出一个公式，试图量化这些电导率。
+
+Right? So we have this sigma here. This is conductivity.
+对吧？所以我们这里有这个西格玛。这是电导率。
+
+Usually, when we start learning conductivity, we learn resistivity first. Right? So that's actually the reciprocal of conductivity. Right?
+通常，当我们开始学习电导率时，会先学习电阻率。对吧？所以，它实际上是电导率的倒数。对吧？
+
+So this value, the bigger it is, the more conductive the material is. And they have already figured out the two components. That is contributing to the conductivity.
+所以这个值越大，材料的导电性就越强。他们已经确定了这两个组成部分。这有助于导电性。
+
+One from electron, one from hole. Okay? So this is electron part.
+一个来自电子，一个来自空穴。明白吗？所以这是电子部分。
+
+This is the hole part. Electron part, we have electron concentration, electron's charge, electron's mobility. And for hole part, we have hole concentration, hole charge. The charge of a hole is the same as the charge of electron.
+这是空穴部分。电子部分，我们有电子浓度、电子电荷和电子迁移率。对于空穴部分，我们有空穴浓度、空穴电荷。空穴的电荷与电子的电荷相同。
+
+Only the opposite sign. Right? So when we have this absolute value, they're the same.
+只是符号相反。对吧？所以，当我们取这个绝对值时，它们是相同的。
+
+Okay? And then mobility of hole.
+明白吗？然后是空穴迁移率。
+
+You got a minute?
+你有一分钟吗？
+
+Okay? Now, mobility is more complicated term. It can be influenced by many factors.
+好的？现在，迁移率是一个更复杂的概念。它会受到许多因素的影响。
+
+So we mostly in this course, we talk about concentration. That's very easy to change. So simply by introducing the impurities we just talked about.
+所以在这门课中，我们主要讨论浓度。这很容易改变。所以，只需引入我们刚才提到的杂质。
+
+Right? It's the right click quantifiable. The concentration of gallium, you can easily measure.
+对吧？这是右键单击的可量化结果。镓的浓度很容易测量。
+
+Right? A lot of chemical methods can determine the composition. You know the concentration of gallium, you know how much holes you introduce. And you can directly have fill this formula and know how much conductivity you have to label this.
+对吧？许多化学方法都可以测定其组成。你知道镓的浓度，也知道引入了多少空穴。然后你可以直接代入这个公式，知道你必须标出多少载流子浓度。
+
+So this is very straightforward. So it's a very smart way of playing semiconductors' number of holes and number of electrons. Okay?
+所以这非常简单明了。所以，这是一种非常巧妙的方式来控制半导体中的空穴数和电子数。明白吗？
+
+All right? So this is the some practical examples. Right? So virtually all commercial semiconductors nowadays are extrinsic.
+明白吗？所以，这些是一些实际例子。对吧？所以，如今几乎所有商用半导体实际上都是杂质半导体。
+
+Right? So we already did our best job to modify them. So they're better than silicon in terms of their performance.
+对吧？所以我们已经尽最大努力对它们进行了改性。所以就性能而言，它们比硅更好。
+
+Right? So you can have higher concentration of conducting species, basically. All right? So when we say N type, we say the kind of extrinsic semiconductor that has a very high concentration of negative charges.
+对吧？所以基本上，你可以让导电物质的浓度更高。明白吗？所以，当我们说 N 型时，我们指的是负电荷浓度非常高的外加型半导体。
+
+That's how I remember it. Because N for negative, right? P for positive.
+我是这么记的。因为 N 代表负电荷，对吧？P 表示正。
+
+Right? So where does the negative come from? We come from the extra electrons. Right? Because electrons are negative. Right? So whenever you have a five-electron configuration coming in replacing my silicon, I have more negative free electrons.
+对吧？那么，负号是从哪里来的呢？我们来自额外的电子。对吧？因为电子带负电。对吧？所以，每当有五电子构型取代我的硅时，我就会有更多自由电子带负电。
+
+So I have N type semiconductor. Right? And the typical elements are, of course, those that have five electrons.
+所以我有N型半导体。对吧？典型的元素当然是那些有五个电子的元素。
+
+Right? So you look for Group 5 elements. Right?
+对吧？所以你要找第5族元素。对吧？
+
+Group 5 elements, phosphorus, arsenic. Right? These are five electron, five valence electron species.
+第5族元素，磷、砷。对吧？这些是具有五个电子、五个价电子的物种。
+
+Right? So they cause some extra loosely bonded electrons. Right? Like I said, one step from being free.
+对吧？所以它们会产生一些额外的弱结合电子。对吧？就像我说的，距离成为自由电子只差一步。
+
+Right? And they donate a single electron. Right?
+对吧？它们会捐赠一个电子。对吧？
+
+So that's a donor. Right? So another term.
+所以那是一个施主。对吧？所以，另一个术语。
+
+Right? So semiconductor people, they like to learn new terms. Okay?
+对吧？所以半导体领域的人都喜欢学习新术语。明白吗？
+
+Donor.
+施主。
+
+Right? And opposite to that, we have P type, which is when you introduce Group 3 elements. Right? So they naturally have only three outer shell electrons.
+对吧？与此相反，我们有P型，也就是掺入第3族元素时形成的类型。对吧？所以它们的最外层自然只有三个电子。
+
+They will have a hole introduced whenever they come. And this hole, because it's an empty seat, it can allow electrons to come and sit. We call them acceptor.
+它们一出现，就会引入一个空穴。这个空穴因为是空位，可以让电子过来占据。我们称它们为受体。
+
+Right? Acceptor. Okay?
+对吧？受体。明白吗？
+
+Right? So what is people doing is usually when we actually manufacture these semiconductors, we actually do a heavy doping. Right?
+对吧？所以，人们通常的做法是，在实际制造这些半导体时，我们会进行重掺杂。对吧？
+
+Like a high concentration of three electron elements or high concentration of five electron elements so that the original free electron or original free holes are the minor part in the group. In other words, we can make the concentration of my free electrons my loosely bonded electrons very, very high, much higher than my intrinsic ones. So my conductivity can actually be estimated. Right? By only my electron contribution.
+比如，将三价元素或五价元素的浓度调高，使原本的自由电子或自由空穴成为该组中的少数载流子。换句话说，我们可以让自由电子，也就是弱键合电子的浓度非常高，远高于本征浓度。所以我的电导率实际上是可以估算的。对吧？只考虑我的电子贡献。
+
+Basically, when it's too big than that one. Right? So we ignore that one. Right? And similar to that, when you have a high concentration of holes, I can only estimate that there's no hole part.
+基本上，当它比那个大得多时。对吧？所以我们忽略那个。对吧？类似地，当空穴浓度很高时，我只能估计那里没有空穴部分。
+
+So that means the story has been simplified. Whenever you do a doping, you only need to know the dopant concentration. Right?
+所以这意味着这个故事已经被简化了。进行掺杂时，你只需要知道掺杂剂浓度。对吧？
+
+The dopant concentration. And the other things are usually constants. Right? So that's simplified story. Of course, if you don't feel safe, you can also follow the whole equation.
+掺杂剂浓度。而其他因素通常都是常数。对吧？所以，这就是简化的说法。当然，如果你觉得不安全，也可以按照完整的方程来计算。
+
+You realize the entire part is too small. They probably will not be reflected in your final result if you use, for example, a limited number of scientific digits. So you can the rest part are already, right, done.
+你会发现整个部分太小了。例如，如果你使用有限数量的有效数字，它们可能不会反映在你的最终结果中。所以剩下的部分已经完成了，对吧？
+
+So that's possible.
+所以这是有可能的。
+
+Yeah.
+对。
+
+Okay.
+好的。
+
+So that's the recap of knowledge.
+以上就是知识回顾。
+
+All the semiconductors we just reached now is that we may have very big revolutions in technology, but scientific-wise, science-wise, it's still the same. And still the basic concept. We need a junction, which is more conducted on the one side and less conducted on the other side.
+我们刚才谈到的所有半导体，都可能带来技术上的巨大变革，但从科学层面来说，科学层面仍然是一样的。而且基本概念仍然是一样的。我们需要一个结，一侧的导电性更强，另一侧的导电性更弱。
+
+So we have all kinds of designs. Like PN junction. People talk about PN junction a lot.
+所以我们有各种各样的设计。比如PN结。人们经常谈论PN结。
+
+That's a PN junction. Right? You have a P type, N type, close to each other.
+那是PN结。对吧？你有一个P型和一个N型，彼此靠近。
+
+For example, you can partially dope your silicon. So one side is more P, that side is more N. And you have a junction.
+例如，你可以对硅进行部分掺杂。所以一侧是更多的 P 型，另一侧是更多的 N 型。然后这里就形成了结。
+
+Right? Or you can simply have a metal on top of the silicon. That's also a PN junction.
+对吧？或者你也可以直接在硅上覆盖一层金属。那也是一个PN结。
+
+One is conductive, one is less conductive. And you create a barrier or a step. Right?
+一个导电性较强，另一个导电性较弱。你会形成一个势垒或一个台阶。对吧？
+
+That step can be your logical gate or can be your electronic component.
+这个台阶可以作为你的逻辑门，也可以作为你的电子元件。
+
+Okay. Let's have another break.
+好的。我们再休息一下。
+
+Please come back at 8:25. Okay?
+请在8点25分回来。好吗？
+
+People have been talking about, right, part of the chip war is photolithography, okay? So, um, I think the, the, the job market for people specializing in this area is still big.
+大家一直在讨论，对吧，芯片战的一部分是光刻，好吗？所以，嗯，我认为，这个领域专业人才的就业市场仍然很大。
+
+It's still big.
+它仍然很大。
+
+Unfortunately, we can only use this one lecture time to very roughly talk about that. Yeah. So, um, actually, the, the, the number one company in the world, right, the ESML, they have this educational thing.
+很遗憾，我们只能利用这一个讲座时间，非常粗略地谈谈这个。对。所以，嗯，实际上，世界上排名第一的公司，对吧，ESML，他们有一个教育项目。
+
+So, uh, they actually— We have it here. Yeah, ESML. So the, the, the website, uh, on the page here, this company, they have a lot of educational videos that are teaching us why they can do culture, uh, UV lithography that no other people can do, right?
+所以，呃，他们其实——我们这里有。对，ESML。所以，呃，这个网站的页面上，这家公司有很多教育视频，向我们介绍为什么他们能进行文化，呃，紫外光刻，而其他人做不到，对吧？
+
+So this is, uh, really proud demonstration of their capability. Yeah. So, uh, let me go through the basics first.
+所以，这确实非常自豪地展示了他们的能力。是的。那么，呃，我先讲一下基础知识。
+
+Okay? So the photolithography comes from lithography. So lithography is a bigger, uh, category, right? So lithography is a term coming from two Greek words, uh, litho means hard things that can bite, like stone, and grapho is like the, the, the gesture of writing or the gesture of printing, right? So lithography is talking about a, a simply a printing process, but most time it's on the surface, right? So still today we talk a lot about surface technologies, right? So, um, uh, lithography is about printing something, maybe an image, maybe some words, right?
+好吗？所以，光刻源自平版印刷术。所以，平版印刷是一个更大的类别，对吧？所以，lithography 这个词源自两个希腊词，呃，litho 的意思是坚硬、有咬合能力的东西，比如石头；grapho 则类似于书写或印刷的动作，对吧？所以，平版印刷只是一种印刷工艺，但大多数时候是在表面上进行，对吧？所以直到今天，我们仍然经常谈到表面技术，对吧？所以，嗯，呃，平版印刷就是用来印制某些东西的，可能是图像，也可能是文字，对吧？
+
+On a flat surface.
+在平面上。
+
+On a flat surface. And, um, this— This surface is, uh, somewhat, um, like, uh, uh, uh, a reflection or an interaction with the tool or the method you use that created the pattern in the first place. So the substrate is interactive, and the substrate is part of this process, okay?
+在平面上。而且，嗯，这个——这个表面在某种程度上，呃，就像是对工具或方法的反映或互动，而正是这些工具或方法创造了最初的图案。所以，基底具有交互性，基底也是这个过程的一部分，明白吗？
+
+So we have, if we don't have to be talking about photo, we have, uh, large family of ways that people can lithograph, right, on a substrate, right? So, for example, they can, uh, have a physical tip, right, like an angle shaping or an angle graphing. If you have something that, that feels like a sharp knife locally, then they can actually cut things away, right? Just like how, uh, uh, uh, guys are shaving their beards, for example, right?
+所以，如果我们不必谈摄影，人们可以在基底上进行蚀刻的方式有很多种，对吧？所以，例如，它们可以，呃，使用物理尖端，对吧，比如角度成形或角度图形化。如果你有一种局部感觉像锋利刀片的东西，那么它实际上可以切掉一些东西，对吧？就像，呃，呃，呃，大家刮胡子一样，对吧？
+
+You, you move over, right? All these tiny molecules are simply cut away, okay? So that's shaving or grafting, right?
+你，你挪一下，对吧？所有这些微小分子都被简单地切掉了，明白吗？所以这就是剃除或嫁接，对吧？
+
+It's a physical process, right? And if you have learned about AFM, right, AFM tip is a very good way of doing a nano writing or nano crafting, okay? And we also have polymer pan arrays.
+这是一个物理过程，对吧？如果你学过原子力显微镜，对吧？原子力显微镜探针是一种非常优秀的纳米书写或纳米加工方式，好吗？我们还有聚合物阵列。
+
+It's very much like, uh, how we print things, right? So you can have a, uh, soft polymer-based, uh, uh, pattern that is pre-grafted on your topper part, your writing part. And your writing part can come close to the writing and leave, right?
+这很像我们打印东西的方式，对吧？所以，你可以有一个基于软质聚合物的图案，预先接枝在你的顶部部分，也就是书写部分上。然后你的书写部分可以靠近书写面，再离开，对吧？
+
+So the soft part, they can write things just like how we draw things with traditional Chinese picture, right? That's how you do it, okay? And, uh, there's also something we call dip pen nano lithography. I think this is something new, right? The, uh, one of the pat, uh, scientists for dip pen lithography, DPN, is Chad Merkin, right?
+所以软质部分，他们可以像我们画传统中国画一样作画，对吧？就是这样做的，好吗？呃，还有一种叫作蘸笔纳米光刻的技术。我觉得这是个新东西，对吧？，呃，点笔光刻，也就是 DPN，的几位专利，呃，科学家之一是 Chad Merkin，对吧？
+
+Uh, he's also, uh, uh, very well-known nano scientist. So, um, uh, this method is somewhat between the previous ones. I think he also has a tip, and that's usually the commercial AFM tip, right? So you buy a tip, AFM, and, uh, the tip is solid and rigid on the tip top, right?
+呃，他也是，呃，呃，非常著名的纳米科学家。所以，嗯，呃，这种方法介于前面几种方法之间。我想他也有一个探针，那通常是商用的原子力显微镜探针，对吧？所以你买一个尖端、一台原子力显微镜，呃，尖端顶部是固体且坚硬的，对吧？
+
+And you can let your tip to be close to your substrate but not contact it, and then they creatively introduce a liquid droplet in the gap here. Now, because of capillary effect, uh, water or liquid, uh, uh, uh, uh, droplet, they will adhere to a solid surface by surface tension, right? So this water molecule is actually trapped between the tip and the substrate if we have a very suitable distance.
+你可以让探针尖端靠近衬底，但不与之接触，然后他们巧妙地在这里的间隙中引入一滴液体。现在，由于毛细作用，呃，水或液体，呃，呃，呃，呃，液滴，会因表面张力而附着在固体表面，对吧？所以，如果我们保持一个非常合适的距离，这个水分子实际上会被夹在探针尖端和衬底之间。
+
+It does not want to leave. And when you move the tip vertically, the water moves along with it. So it becomes a local reactor, which is liquid. So you can, for example, uh, so, so, so that's a, that's the whole idea.
+它不想离开。当你垂直移动探针尖端时，水也会随之移动。所以它变成了一个局部反应器，其中的物质是液体。所以，比如说，呃，所以，所以，所以这就是，这就是整个想法。
+
+And then you can make use of that. For example, I, we can supply some molecules, which only dissolve in water. So I can supply my molecule from my tip, and when the tip, uh, molecule reaches the water surface, it dissolves, but the ink dissolves in a gradual manner.
+然后你可以利用这一点。例如，我，我们可以提供一些只溶于水的分子。所以我可以从笔尖供应我的分子，当笔尖的分子，呃，到达水面时，它会溶解，但墨水会逐渐溶解。
+
+And on the other side, I can write this away, and the molecule will be like coming down, right, like that. And there's another way you can also collect a sample molecule from my tip.
+另一方面，我可以把这个写掉，分子就会像这样往下移动，对吧？像那样。还有另一种方法，你也可以从我的尖端收集一个样品分子。
+
+AMS?
+AMS？
+
+Right? So that's very important. Okay? So this was the dip pen. Basically, you have a pen, which is dipped in a liquid or in a, uh, uh, uh, uh, uh, uh, uh, uh, sol- solvent, sometimes even organic solvent, right, that can actually allow some physical space that is, uh, uh, mobile and dissolvable. So you can play with your part. So, so I, I think one of their, uh, uh, uh, latest work is they're using this as a reactor, right?
+对吧？所以这一点非常重要。明白吗？所以，这就是蘸笔。基本上，你有一支笔，笔尖浸在液体里，或者浸在，呃，呃，呃，呃，呃，呃……溶……溶剂里，有时甚至是有机溶剂，对吧，这实际上可以提供一些物理空间，也就是，呃，呃，可移动且可溶解。所以你可以发挥你的作用。所以，我觉得他们最近的一项工作是把它用作反应器，对吧？
+
+So they can draw a lot of water droplets on the surface. If you, if you lift this tip up high enough, the water droplet will stay here, right? So you can move it, but when you decide to move it, you can come down again and totally clean and reversible, right? You can move it somewhere else, and you take it out, right?
+所以他们可以在表面上画出很多水滴。如果你把这个尖端抬高到足够高的位置，水滴就会留在这里，对吧？所以你可以移动它，但当你决定移动它时，可以再把它降下来，完全清洁且可逆，对吧？你可以把它移到别的地方，然后把它取出来，对吧？
+
+So because of surface tension, they will stay there as you want. So that's something interesting, okay? So for that, they can draw a lot of patterns, right?
+所以，由于表面张力，它们会像你想要的那样留在那里。所以这是个很有意思的现象，好吗？所以，这样一来，它们可以形成很多图案，对吧？
+
+It could be very, very small on different scales, right? You can write words, you can make local reactions, right? So for some of you, make high-entropy alloys.
+它在不同的尺度上可以非常非常小，对吧？你可以写文字，也可以产生局部反应，对吧？所以，对你们中的一些人来说，制造高熵合金。
+
+They can mix 10 elements together. How do you make sure the 10 elements don't go away, right? You create a local confinement, right?
+它们可以将10种元素混合在一起。你怎么确保这10种元素不会消失，对吧？你创建一个局部约束，对吧？
+
+Only the droplet is where your metal can stay. Maybe there's still iron form, right? So when you lift it out, they're fixed here, and you can do the reaction within this liquid.
+只有液滴中，金属才能保留。也许仍然有铁的形式，对吧？所以当你把它取出来时，它们固定在这里，你可以在这种液体中进行反应。
+
+So that's, uh, interesting. Uh, uh, uh, interdisciplinary research. Okay? Now, uh, what I'd like to talk in more detail today is photolithography.
+所以，呃，这很有意思。呃，呃，呃，跨学科研究。明白吗？那么，呃，今天我想更详细地谈谈光刻技术。
+
+That's how we make chips, how we make integrated circuits, right? The processors, the, uh, the, the, uh, GPU, right? All these fancy things, the computing unit.
+我们就是用这种方法制造芯片、制造集成电路，对吧？处理器，呃，那个，那个，呃，GPU，对吧？所有这些精密的东西，计算单元。
+
+So the modern IC patterning process is mostly based on photothermal, uh, sorry, photolithography. And based on the simple idea that we want to deposit metal that's a representative of conductor on semiconductors or less conducting parts. So we have metal on silicons, we call MOFs, right? You've probably heard about MOFs somewhere, okay? And this whole architecture, it could be really complicated in 3D, but they're still built on layer by layer, and that's based on photolithography, okay? So just now, we talked about a lot of lithographies that rely on the physical tip, right?
+所以，现代集成电路图案化工艺主要基于光热，呃，抱歉，是光刻。其基本思路是，我们希望在半导体或导电性较弱的部件上沉积代表导体的金属。所以我们在硅上沉积金属，我们称之为 MOF，对吧？你们可能在某个地方听说过 MOF，对吧？整个结构在三维空间中可能非常复杂，但它们仍然是逐层构建的，而这是基于光刻技术的，好吗？所以刚才我们谈了很多依赖物理尖端的光刻技术，对吧？
+
+It could be a, a AFM tip, or it could be a polymer tip. It could be hard, it could be soft. But you can imagine the tip size determines your resolution.
+它可以是原子力显微镜探针，也可以是聚合物探针。它可以是硬的，也可以是软的。但你可以想象，探针的尺寸决定了分辨率。
+
+Right? How small can you make your tip will be how small you can write your pattern. There is a limit of doing that, right?
+对吧？你的笔尖能做得多小，你的图案就能写得多小。这样做是有极限的，对吧？
+
+And you can, you can imagine the cost, right? So if you want to produce something in batches, you probably need something that is more precise, and more, um, well, more consistent in quality. So a very smart idea, people use light.
+你可以，你可以想象一下成本，对吧？所以，如果你想批量生产某种东西，可能就需要更精确、质量更，嗯，更一致的东西。所以，一个非常聪明的主意是，人们使用光。
+
+So that's where we have photo on the front. People use light as an intermediate that is causing the writing, activity, right? So what's, what, what does, what, how does it happen?
+所以我们在正面用了照片。人们把光作为一种媒介，从而产生书写、活动，对吧？那么，这是什么，什么，什么……，什么，这是怎么发生的？
+
+Okay? So we start from a substrate. So this ABCDE process here is the overall chip-making pro- uh, process. And the photolithography is only actually part of it.
+明白吗？所以我们从基底开始。所以，这里的ABCDE工艺是芯片制造的总体工艺——呃，工艺。而光刻实际上只是其中的一部分。
+
+But let me start from the born of this chip. So usually, we start from a silicon wafer. A silicon wafer is a single straight slice of silicon plate.
+不过，让我从这颗芯片的诞生讲起。所以通常，我们从一片硅晶圆开始。硅晶圆是一片硅板的单片直切片。
+
+Uh, uh, which is usually grown from a large cylinder, right? So I'm not sure if you have learned about silicon supercrystal, how we grow single silicon supercrystal, right? So silicon pure silicon, uh, are made from different ways.
+呃，呃，它通常是从一个大圆柱体中生长出来的，对吧？所以我不确定你们是否学过硅超晶格，以及我们如何生长单晶硅超晶格，对吧？所以，硅，也就是纯硅，呃，是通过不同的方法制成的。
+
+For semiconductor industries, we want them to be single crystal. So we start a very, uh, delicate process of having a single, single, uh, silicon seed in the, uh, in the middle, and the crystal, when they're given a steady state, they will grow by themselves in the, into a single crystal, right? So, uh, what they did is they have a string that is, uh, attaching a single piece of, uh, crystal of silicon on the, on the, on the bottom, and it is hanging in a solution full of silicon, liquid silicon. So the solidify, and they will come to the seed.
+对于半导体行业，我们希望它们是单晶。所以，我们开始一个非常，呃，精密的过程：在中间放一颗单晶硅籽晶；当晶体达到稳态时，它们就会自行生长，在……长成单晶，对吧？所以，呃，他们采用的方法是，用一根细丝把一块硅晶片固定在底部，让它悬挂在充满硅的溶液中，液态硅。所以它会凝固，并附着在晶种上。
+
+The seed is, uh, heterogeneous nucleation site, remember? So every, every silicon will have to come here and nucleate and, uh, grow. So you, when they grow, you pull it out, and when you grow, you pull it out. So it's a very steady process. So the whole, uh, the whole growth is a centric size.
+晶种是，呃，非均相成核位点，还记得吗？所以，每颗硅都必须来到这里成核，然后，呃，生长。所以，当它们生长时，你要把它拉出来；当它生长时，你要把它拉出来。所以这是一个非常稳定的过程。所以整个，呃，整个生长都是以中心尺寸为基准的。
+
+So laterally, it's a circle. It's a round size. And vertically, it's a cylinder, right?
+所以横向来看，它是一个圆。它是圆形的。而纵向来看，它是一个圆柱体，对吧？
+
+Because you're pulling out at a steady speed. So the cylinder is single crystal, but it's too big, and people cut it nicely. They're in a lateral way.
+因为你以恒定速度往外拉。所以这个圆柱体是单晶的，但它太大了，人们把它切得很整齐。它们是横向的。
+
+So they become a round disc, right? So that's how the wafer comes from, right? So we have silicon wafer, and they use paint coating, it's another way of making a thin film, right? So people, if you want to coat some liquid on a solid, uh, they can use, they can simply, for example, pour it, and I use a brush.
+所以它们就变成了一块圆盘，对吧？所以晶圆就是这样形成的，对吧？所以我们有硅晶圆，然后在上面涂覆涂料，这是另一种制备薄膜的方法，对吧？所以，人们如果想把某种液体涂在固体上，呃，他们可以使用……他们可以直接，比如说，倒上去，或者我用刷子。
+
+I can brush it, right? That's one way. And if they want to make very, very nice thin coating, they have this paint coating technology.
+我可以刷上去，对吧？这是一种方法。如果他们想涂出非常非常细腻的薄涂层，他们就采用这种涂料涂覆技术。
+
+So basically, your wafer is vacuumed to be closely attached to this, uh, stage, which is rotating by itself. Again, like the birthday cake, right? So, uh, it is fixed here.
+所以基本上，你的晶圆会被抽真空，使其紧密贴合在这个，呃，旋转的平台上。还是像生日蛋糕一样，对吧？所以，呃，它固定在这里。
+
+Only rotating by itself, and the speed could be very high. It could be thousands, uh, rounds per minute, okay? And you drop something on top, usually a very sticky liquid, like glue, right?
+它只会自行旋转，而且转速可能非常快。每分钟可以转几千圈，好吗？然后你把某种东西倒到上面，通常是黏性很强的液体，比如胶水，对吧？
+
+Very like, much like glue. So when you drop a glue on that, if you don't do anything, the glue will gradually spread out, right? But it's not uniform. Usually, it will dry out somewhere in the middle. But when the time, at the time you, you dip in your glue or your very viscous liquid, you start a very high-speed rotating, and by this, uh, centric force, right, all the glue will be spread out. Okay? Of course, if it's too speed, uh, too high speed, then all the liquid will be totally gone.
+非常像，很像胶水。所以，当你把胶水滴在上面时，如果不做任何处理，胶水会逐渐扩散开来，对吧？但它不是均匀分布的。通常，它会在中间某处干涸。但是，当你把胶水或黏稠液体浸进去，开始高速旋转时，借助离心力，对吧，所有胶水都会被铺开。明白吗？当然，如果转速太快，呃，转速太高，那么所有的液体都会完全被甩掉。
+
+It's possible, right? So you need to play with, uh, uh, speed of the rotation and also the viscosity of the liquid. How sticky they are, okay? And, uh, the long story, long story short, after the coat, after the staining, a thin layer of this polymer is coated on top.
+这是有可能的，对吧？所以你需要调整旋转速度，还要调整液体的黏度。它们有多黏稠，明白吗？呃，长话短说，涂覆、染色之后，会在上面涂上一层这种聚合物。
+
+And this polymer, it, because of its function, we call it photoresist, right? We'll talk about what is photoresist later, but it's basically a viscous liquid. And this liquid will become hardened or become more, uh, steady after some heat treatment.
+这种聚合物由于其功能，我们称之为光刻胶，对吧？稍后我们会讲什么是光刻胶，但它基本上是一种黏稠液体。这种液体经过一定热处理后会变硬，或者变得更，呃，稳定。
+
+So usually, after the coating, after the, uh, uh, staining, and we will put it for baking, we call it, uh, post-application bake, right? So, uh, make it, uh, uh, usually hardened or make it, uh, more, uh, steady. And that is when we start a photosomal, uh, photolithography process, right? So what is photolithography? We, first of all, have a light source, and, uh, by a series of lenses, they will become a parallel beam, right?
+所以通常，涂覆之后，呃，呃，染色之后，我们会把它放入烘烤炉中，这叫作，呃，后处理烘烤，对吧？所以，呃，让它，呃，通常硬化，或者让它，呃，更，呃，稳定。然后我们就开始光致抗蚀剂，呃，光刻工艺，对吧？那么，什么是光刻？首先，我们有一个光源，然后，呃，通过一系列透镜，它会变成平行光束，对吧？
+
+So if you recall, electron beam, microscopy, we also have a outcoming electron beam that you kind of want them to be parallel, right? So to a certain degree, it, it is, um, it's a parallel beam, right? And, uh, the beam will hit something that is pre-patented.
+所以，如果你还记得，电子束显微镜也有一个输出电子束，你希望它大致保持平行，对吧？所以在一定程度上，它，它算是平行光束，对吧？而且，呃，电子束会撞击某种已经预先处理过的东西。
+
+We call it a match. What is a mass? Mass is when you have holes in it, right?
+我们称之为匹配。什么是“mass”？Mass 是指它里面有孔，对吧？
+
+That's how we put facial mask. For a mask for the wafer, it's a pre-patented, uh, mash-like metal, metal piece has a lot of windows on it. So the windows are the openings that light can pass through, where these, uh, window frames are those that light cannot pass through, right? So when a parallel beam vertically hits this mask, only part of the light comes through.
+我们就是用这种方式敷脸膜的。对于晶圆的掩膜，它是一种预专利的，呃，糊状金属，金属片上有很多窗口。所以，这些窗口就是可以让光透过的小孔，而这些，呃，窗框则是光无法透过的部分，对吧？所以，当平行光束垂直照射这幅掩模时，只有部分光会透过。
+
+That's the job of a mask. And then the light will hit on our, uh, samples, which are screen-coated, so the polymer. So usually, uh, now in modern, uh, uh, liquid lithography, we also have some refinement. After the beam has been screened out by the mask, right, a lot of refinement to make the resolution better.
+这就是掩模的作用。然后光线会照射到我们的，呃，样品上，这些样品涂有屏幕，也就是聚合物。所以通常，呃，现在在现代的，呃，呃，液相光刻中，我们也进行了一些改进。光束被掩模屏蔽后，对吧，还需要进行大量精加工，以提高分辨率。
+
+And then something happens on the surface, right? So the photoresist will interact with the light. And because of the screening of the mask, the interaction is also patented, right? And then the patent is further strengthened or further hardened by another baking, another heat treatment, and that's pretty much ready.
+然后表面会发生一些变化，对吧？所以光刻胶会与光发生相互作用。由于掩模的屏蔽作用，这种相互作用也会受到限制，对吧？然后，通过另一次烘烤、另一次热处理，使该专利进一步增强或固化，基本上就差不多完成了。
+
+And then we do some, uh, development to the, uh, patented, uh, uh, uh, photoresist. So in this whole process, uh, you need to know what is a photoresist. This is a very specific term we use for photolithography.
+然后我们对这种获得专利的光刻胶进行一些开发。所以在整个过程中，呃，你需要知道什么是光刻胶。这是我们在光刻工艺中使用的非常专业的一个术语。
+
+And what is development, another term, okay? So when I say, uh, this thing is developed, we're actually, for example, creating a patent and confirming the patent by a chemical reaction. This reaction is usually done by a solvent. We call developer a developer.
+什么是显影？这是另一个术语，好吗？所以，当我说，呃，这个东西已经显影了，我们实际上是在，比如说，制作一个专利，并通过化学反应确认这个专利。这个反应通常是在溶剂中进行的。我们把显影剂称为显影剂。
+
+And this process is called development. When we say this photoresist is being developed, okay? So this is an important term, uh, we need for, for, for that.
+这个过程称为显影。当我们说这种光刻胶正在被显影时，好吗？所以这是一个重要的术语，呃，我们为此需要……为此需要……为此需要……
+
+All right? So another version of, uh, reading this, uh, uh, uh, whole process is you look at a cross section, right? So let's, uh, skip the, the, the, the, uh, the machine setup. We look at what happened to the, to the chip, right?
+明白吗？所以，阅读整个过程的另一种方式，呃，呃，呃，是观察一个横截面，对吧？那么，我们先跳过，呃，机器的设置。我们来看看切屑发生了什么，对吧？
+
+So we start with, with a silicon slice, right? We have a spin coating of photoresist. Sometimes they just say resist. And then this resist has a mass placed on top, okay?
+所以我们从一片硅片开始，对吧？我们对光刻胶进行旋涂。有时他们就直接说“光刻胶”。然后在这个抗蚀剂上面放了一个质量体，好吗？
+
+So this black thing is representing the mask, and, uh, when light comes in, some part, the black part, are blocked by the mask. Only the window allows, allows the light to come in, and the light will, in this case, react with this part only. And this part become, uh, different. Right? Depending on the kind of photoresistant, we actually have two kinds of ways of being different, right?
+所以这个黑色的东西代表掩膜，呃，当光线进来时，其中一部分，也就是黑色部分，会被掩膜挡住。只有窗口能让光进入，而在这种情况下，光只会与这一部分发生反应。而这一部分就会变得，呃，不一样。对吧？根据光敏剂的类型，我们实际上有两种不同的方式，对吧？
+
+We call them negative or positive, which we'll talk about later. So basically, uh, the, the part that's interacting with the light now becomes different, chemically different, and this chemical difference can be further uh, uh, uh, uh, played with the developer, right? For example, my developer here, when I apply to the whole piece of substrate, only this part that has been reacting with the light is reacting away.
+我们把它们称为负型或正型，稍后会讲到。所以基本上，呃，现在与光发生相互作用的部分会变得不同，也就是发生化学变化。这种化学变化可以通过显影剂进一步，呃，呃，呃，呃，进行处理，对吧？例如，我这里用的显影剂涂在整块基底上时，只有与光发生反应的这一部分会被显影剂作用掉。
+
+So I'm, I'm selectively removing the part that is exposed to light. That's what my developer is doing. My developer can selectively remove part of my substrate.
+所以，我选择性地去除暴露在光下的部分。这就是显影剂的作用。我的显影剂可以选择性地去除基底的一部分。
+
+Okay? Sometimes it's a part that is exposed to light, sometimes it's a part that's not exposed to light. Okay?
+明白吗？有时是暴露在光下的部分，有时是未暴露在光下的部分。明白吗？
+
+And of course, what, who determines which part is, is selected by light? It's the mask. Okay? And now it's not finished yet.
+当然，什么，是谁决定了哪些部分会被光选中？是掩模。明白吗？现在还没结束。
+
+Remember, this is still a layer of photoresist, which is usually polymer. Now, uh, the next step is also case by case. People have different purposes.
+记住，这仍然是一层光刻胶，通常由聚合物制成。现在，呃，下一步也要视具体情况而定。人们有不同的目的。
+
+They may have different next step. Uh, but usually, let's say we are talking about the, the most, uh, primary purposes we deposit a metal on a sub silicon, right? Now, I start to do metal coating.
+他们接下来的步骤可能各不相同。呃，但通常来说，假设我们讨论的是，最，呃，主要的用途，也就是在硅衬底上沉积金属，对吧？现在，我开始进行金属镀层。
+
+Usually, PVD, okay? So I use sputtering. I, I coat a thin layer of gold, uh, atoms, for example, on top.
+通常是PVD，好吗？所以我采用溅射。我，我在上面镀上一层薄薄的金原子，呃，比如。
+
+So I, I coat evenly to all my surfaces, right? If this is lower because of the etching, then I have only, uh, this part, this part I have metal all the way down. And these two, because the photoresist are still there, metals are on top of the polymer.
+所以我，我会均匀地涂覆到所有表面，对吧？如果由于蚀刻，这里变低了，那么我就只有，呃，这一部分；这一部分一直到底部都有金属。而这两个，因为光刻胶还在，金属就覆盖在聚合物上。
+
+Okay? And apparently, for this particular scheme, we only want this part to be, to be, uh, reserved. So we can wash away or react away my polymer by some other method, right? Because this is the only organic part, right?
+明白吗？显然，对于这个特定的方案，我们只希望保留这一部分。所以我们可以用其他方法把我的聚合物洗掉或反应掉，对吧？因为这是唯一的有机部分，对吧？
+
+So they're easily removed away by chemical methods, right? I can use some strong acid or strong base, for example. I can get rid of this, right? And my metal, no, usually noble metal are generally, uh, resistant to all these chemical attacks once it's a physically deposited.
+所以它们很容易通过化学方法去除，对吧？我可以使用一些强酸或强碱，例如。我可以把它去掉，对吧？而我的金属，不，通常贵金属一般，呃，一旦物理沉积，就能抵抗所有这些化学侵蚀。
+
+So I want, after I wash everything away, I leave a clean cut of metal line. This could be my, for example, conducting circuit, right? So that's my, of course, this is a side view, right?
+所以我想，在把所有东西都洗掉之后，留下一条干净的金属切痕。例如，这可以是我的导电电路，对吧？所以这就是我的……当然，这是侧视图，对吧？
+
+If you go to the top view, it could be a line. It could be a line. Okay?
+如果你看俯视图，它可能是一条线。它可能是一条线。明白吗？
+
+Of course, it depends on the mask. If your mask is a hole, then you leave a hole. If your mask is a string of empty window, then you get a string shape, uh, uh, uh, uh, patent.
+当然，这取决于掩膜。如果你的掩模是一个孔，那么你就会留下一个孔。如果你的掩模是一串空窗口，那么你会得到一个字符串形状，呃，呃，呃，呃，专利。
+
+Okay? So that's the whole idea, right? Basically, that's the whole idea of photolithography.
+明白吗？所以这就是整个思路，对吧？基本上，这就是光刻技术的全部原理。
+
+Okay? So you can imagine one of the features, uh, uh, that we care about most of the time nowadays is the resolution. I think you probably also learned about resolution in electron microscopy, right? So we have a different ways of defining microscopy, uh, defining resolution, right?
+明白吗？所以你可以想象，如今我们最关注的特征之一，呃，呃，就是分辨率。我想你们可能也在电子显微镜课上学过分辨率，对吧？所以，我们有不同的方法来定义显微镜，呃，定义分辨率，对吧？
+
+Here, uh, this, uh, this, uh, expression is focusing on the, uh, wavelengths of our incoming source and the camera setup. So we call numerical aperture, okay? Numerical aperture and lambda, both are actually, this is actually a, a, a general expression that works on other kind of imaging as well, or other kind of resolution computation as well.
+这里，呃，这个，呃，这个，呃，表达式关注的是入射光源和相机设置的波长。所以我们称之为数值孔径，好吗？数值孔径和 λ，两者实际上都是一个通用表达式，也适用于其他类型的成像，以及其他类型的分辨率计算。
+
+And, uh, for photolithography, you also have another constant on all sides. We call it K1, which is actually related to the, uh, the, the manual process, like, uh, for example, we have here the quality of the photoresist, right? Exposure to, uh, the post-reaction processes.
+而且，呃，对于光刻，所有侧面还有一个常数。我们称之为 K1，它实际上与人工处理过程有关，比如，呃，这里就有光刻胶的质量，对吧？曝光，呃，以及后反应过程。
+
+Because ideally, right, you can imagine we have a 90-degree cut right here. Actually, the joint is already, uh, reflecting the fact, right? In this case, the, the, although this, uh, light coming, right, ideally, the only coming 90-degree way, but it's not 100% parallel. Sometimes they still have some small angle.
+因为理想情况下，对吧，你可以想象，我们这里有一个90度的切口。实际上，这个接头已经，呃，反映了这个事实，对吧？在这种情况下，这个，这个，虽然光线是这样来的，对吧，理想情况下，光线只能以90度的方式进来，但它并不完全平行。有时它们仍然存在一些小角度。
+
+And because of that, the opening here is actually larger, right? So this is what? This is already a resolution loss, okay? Originally, your mass, this was, uh, it comes down, it becomes larger, right?
+正因为如此，这里的开口实际上更大，对吧？所以这是什么？这已经是一种分辨率损失了，明白吗？原本，你的质量，这个，呃，它会变小，然后变大，对吧？
+
+So this is one way of losing some resolution. And sometimes when you do deposition, it's not also not vertical, right? Sometimes your deposition could be like that, right? So you're actually creating a well that is, uh, particularly narrower at the, at the opening, uh, surface, and it gets wider down there, right?
+所以，这是损失部分分辨率的一种方式。而且有时候沉积时，它也不是垂直的，对吧？有时候，沉积物可能会像那样，对吧？所以你实际上是在形成一个槽，呃，尤其是在开口，呃，表面处更窄，而往下逐渐变宽，对吧？
+
+It's possible. So all these things will have some, uh, contribution to the resolution in the end. Uh, usually not a good contribution, right? So they will be reflected by this K1 constant.
+这是有可能的。所以，所有这些因素最终都会对分辨率产生一定的影响。呃，通常不会带来什么好结果，对吧？所以，它们会反映在这个 K1 常数中。
+
+So you can imagine when we all have very good setup, pretty much K1 is fixed. And Na is the numerical aperture. This is how you set up the distance. And, uh, especially when you have a concentrated beam, the distance between the beam will give a different numerical aperture.
+所以你可以想象，当我们所有人的设置都很好时，K1 基本上是固定的。Na 是数值孔径。这就是设定距离的方法。而且，呃，尤其是在光束很集中的情况下，光束之间的距离会产生不同的数值孔径。
+
+And this is usually also limited to a certain extent, right? So once you have a fixed instrument, this is pretty much fixed already. So the only thing that we probably can easily change compared to the others is the wavelengths.
+而且这通常也会在一定程度上受到限制，对吧？所以，一旦仪器固定下来，这基本上就已经固定了。所以，与其他仪器相比，我们唯一可能很容易改变的大概就是波长。
+
+Okay? So traditionally, photolithography used via, uh, ultraviolet UV light, and they're usually in the deep UV region. We call it DUV, right? It has a, it has the, uh, characteristic wavelengths of 193 nanometers, and what this AMSL company can do, sorry, ASML company can do is to switching this wavelength from deep UV, which is already very high energy, all the way to extreme EUV, right?
+明白吗？所以传统上，光刻使用的是，呃，紫外光，通常处于深紫外区域。我们称之为 DUV，对吧？它有，它有，呃，193纳米的特征波长。ASML公司——抱歉，是ASML公司——可以做的是将这个波长从深紫外切换过来，深紫外已经是能量非常高的光了，一直切换到极紫外光，对吧？
+
+EUV, which has a wavelength is only about 13.5 nanometers, okay? So only about 13 nanometers, okay? So the shorter wavelengths, not only directly change the resolution by this formula, right?
+EUV 的波长只有大约 13.5 纳米，好吗？所以只有大约13纳米，好吗？所以，较短的波长不仅会直接通过这个公式改变分辨率，对吧？
+
+But they also make lower defect and higher precision, right? So ultimately, this will make your, uh, the, the pattern that you can have, right, as small and as accurate as possible, okay? So that's how we have 2 nanometer, 5 nanometer chip, right? That's how they can do that. So I think they have a video here.
+但它们还能降低缺陷，提高精度，对吧？所以最终，这会使你能获得的图案尽可能小、尽可能精确，对吧？所以，我们才有2纳米、5纳米的芯片，对吧？他们就是这样做到的。所以我想他们这里有一段视频。
+
+This is an official video from this company. So again, uh, if you're interested, you can click on the second link, right? It goes to their official website.
+这是这家公司的官方视频。所以，呃，如果你感兴趣，可以点击第二个链接，对吧？它会带你进入他们的官方网站。
+
+And, uh, they have all these educational information. Why they're the best, right? So that's, uh, hopefully one day we will have some other companies that can do that, right?
+而且，呃，他们有所有这些教育信息。为什么他们是最好的，对吧？所以，呃，希望有一天会有其他公司也能做到这一点，对吧？
+
+They can, they explain you what is high Na. So that's a high numerical aperture. That's, that's an engineering design. And this is, uh, the, uh, EUV light source, right?
+他们可以，他们能向你解释什么是高钠。所以这就是高数值孔径。那是，那是一项工程设计。这是，呃，EUV 光源，对吧？
+
+How they can make a resolution very nice, right? So there are all these advanced models. And I'd like to show you one of their videos that they actually posted on YouTube about their. So how does the modern setup look like, right?
+它们如何实现非常出色的分辨率，对吧？所以有这些先进的模型。我想给大家看他们发布在 YouTube 上的一段视频，内容是关于他们的……那么，现代的设置是什么样的呢？对吧？
+
+So this one.
+所以就是这个。
+
+Okay. This is the one.
+好的。就是这个。
+
+I don't know if you can see the transition, right?
+我不知道你们能不能看到这个过渡，对吧？
+
+Okay.
+好的。
+
+So it's kind of ironic they are displaying all the details, but we just cannot repeat it, right? As, as good as theirs. So maybe they're hiding something, right? We don't know. But anyway, um, if you still want them, I think, uh, our not just ours, most companies' major group, major target to actually, uh, get as close as this company can get, right? So we can make our own chip, right?
+所以有点讽刺的是，他们把所有细节都展示出来了，但我们却无法复刻，对吧？像，像他们的一样好。所以也许他们隐瞒了什么，对吧？我们不知道。不过，嗯，如果你还是想要它们，我觉得，呃，我们——不只是我们，大多数公司的主要目标群体，主要目标，就是尽可能接近这家公司能达到的程度，对吧？所以我们能自己制造芯片，对吧？
+
+So that's something maybe you guys can, uh, work on in the future as well.
+所以，这也许也是你们以后可以着手研究的方向。
+
+Okay? So just now I'll talk about the total resist, right? So this is where some chemical things is taking place, right?
+好吗？所以刚才我会讲一下总电阻，对吧？所以这里正在发生一些化学反应，对吧？
+
+So usually total resist, as you can imagine, one thing is instrumental setup, how people can make ultra UV light, right? That's something as an extreme UV light, that's not something we can simply eject. It's not like the, uh, light bulb, right? You don't get that pure UV light.
+所以通常，总电阻，正如大家所想，其中一点是仪器设置，也就是人们如何产生超紫外光，对吧？这是极紫外光之类的东西，不是我们随便就能射出来的。它不像，呃，白炽灯，对吧？你得不到那种纯净的紫外线。
+
+The other thing is the, the increase in Na, right? Sorry, the decrease in Na, the increase in resolution. Those are engineering settings.
+另一件事是 Na 的增加，对吧？抱歉，是 Na 的降低，分辨率的提高。那些是工程设置。
+
+This is more material science or more chemistry, okay? How we get a total resist that is matching the resolution. Just now we talked about.
+这更偏向材料科学或化学，好吗？我们如何获得与分辨率相匹配的总电阻。刚才我们谈到的。
+
+Remember, uh, you have a mask, you have a, a light that comes through. The mask leaves some pattern that my photo resist is supposed to be the one that is copying that pattern. So my photo resist has to be as good resolution as my mask.
+记住，呃，你有一个掩模，有一束光穿过它。掩模会留下某种图案，而我的光刻胶应该就是用来复制该图案的。所以，我的光刻胶必须具有与掩模一样高的分辨率。
+
+Okay? So this is a polymer science, uh, I guess. Today it's still a polymer science.
+明白吗？所以，这是高分子科学，呃，我想。今天它仍然是一门高分子科学。
+
+Maybe in the future it's not just polymer. But for now, right, most of the time we're still dealing with the another bottleneck technique is finding the correct, uh, photo resist polymer that is matching with the EUV we, we generated. Otherwise, when it hardens, when it reacts, for example, it may close the gap, right?
+也许将来它不再只是聚合物。但目前，对吧，大多数时候我们仍然面临另一个瓶颈：如何找到与我们产生的EUV相匹配的合适光刻胶聚合物。否则，当它固化、发生反应时，比如，它可能会把间隙封住，对吧？
+
+It may not copy the pattern, okay? So if we talk about, uh, general, uh, uh, uh, uh, classification, right, we have two kinds, right? The, uh, negative photo resist oops.
+它可能无法复制图案，明白吗？所以，如果我们谈一谈，呃，一般的，呃，呃，呃，呃，分类，对吧，我们有两种，对吧？呃，负型光刻胶，哎呀。
+
+The negative photo resist is when we have a, uh, when we have a, uh, insoluble, uh, soluble to insoluble change after the light hits on it, right? So your polymer become hardened and not reactable after the light hits it, right? So when, when the light hits it, my, uh, reactive part is hardened.
+负型光刻胶是指，呃，当光照射到它时，它会发生从可溶变为不可溶的变化，对吧？所以，光照后聚合物会变硬，不再发生反应，对吧？所以，当光照射到它时，我的，呃，活性部分会硬化。
+
+It's like a, a, a, a cement or some other very hard material. And my developer come in, my developer can only react with the soft part. So I leave my negative photo resist here. Right? So you compare to the final pattern made by the photo resist and the mass pattern.
+它就像水泥或其他非常坚硬的材料。然后显影液就会起作用，显影液只能与软的部分发生反应。所以我把我的负型光刻胶留在这里。对吧？所以，你要把它与光刻胶和金属图案制成的最终图案进行比较。
+
+So they're actually compensating each other, right? So that means if you add this to this, you can close it. So that is negative, right?
+所以它们实际上是相互补偿的，对吧？所以这意味着，如果你把这个加到这个上面，就可以把它闭合起来。所以那是负的，对吧？
+
+So remember it in this way. That's negative photo resist, okay? And for positive resist, that's the opposite, right? That is when, uh, the reactive part become softer and attackable.
+所以要这样记住它。那是负型光刻胶，明白吗？对于正性抗蚀剂，情况则相反，对吧？也就是说，呃，反应性部分会变得更软，更容易受到侵蚀。
+
+So the reactive, the exposed part will be removed by the developer later. So in the final result, when you look at the positive photo resist pattern, the shape of this positive photo resist is the how we see this items are exactly the masks shape, right? Where the lights are blocked, right?
+所以，感光、曝光的部分之后会被显影液去除。所以在最终结果中，当你观察正性光刻胶图案时，正性光刻胶的形状，也就是我们看到这些项目的形状，正是掩模的形状，对吧？光线被遮挡的地方，对吧？
+
+Where the lights are blocked, my mask, I have some window frame, right? So the shape is just like the window frame where light cannot come in. That's my positive photo resist. Okay? So nowadays, uh, for high resolution, which typically use, uh, positive photo resist, right?
+光线被遮挡的地方，我的掩模有一些窗口框架，对吧？所以这个形状就像一个窗框，光线无法进入。那就是我的正性光刻胶。明白吗？所以现在，呃，对于高分辨率，通常使用，呃，正性光刻胶，对吧？
+
+So the depending on the polymer type, this polymer type is usually better in resolution in copying the mask's pattern. But, uh, it's generally also more expensive, right, compared to the negative one. So that's the current status. Of course, these things can change whenever you have a new photo resist, polymer coming out, right?
+所以，根据聚合物的类型，这种聚合物通常在复制掩模图案时具有更好的分辨率。但是，呃，与负型光刻胶相比，它通常也更贵，对吧？所以，这就是目前的情况。当然，只要出现新的光刻胶或聚合物，这些情况随时都可能发生变化，对吧？
+
+You may change the gain, okay?
+你可以调整增益，好吗？
+
+All right. I think that's pretty much close to our end. So this is just a very quick, uh, uh, overview of the thinking technologies I talked about, right?
+好的。我想差不多就要到我们这边的终点了。所以，这只是对刚才提到的思维技术非常简短的，呃，呃，概述，对吧？
+
+So, um, we still rely on layer by layer deposition. It's just that photo lithography gives us a way of making the pattern very precise and elegant, but if you look at the real cross section, I don't think we have here, but if you Google what, uh, uh, image of a real cross section of chip, it's very, very complicated and 3D, right? So what we do is we design very many layers of such pattern, and we do photo lithography one round after another round after another round, right?
+所以，嗯，我们仍然依赖逐层沉积。只是，光刻技术让我们能够以非常精确、优雅的方式形成图案；但如果你看实际的剖面图——我想我们这里没有——如果你用谷歌搜索，呃，呃，芯片真实截面的图片，会发现它非常非常复杂，而且是三维的，对吧？所以我们设计很多层这样的图案，然后一轮接一轮地进行光刻，对吧？
+
+So it could be five, six cycles of the whole process before we have a three-dimensional patterning, all right? Sometimes we need it to be insulated in the middle or in conductor or semiconductor in the middle and then conductor and maybe some other pattern, some gates, some other things. So it's, uh, it's so that's why, uh, how design is also important, right? You need to know how to, uh, send your instruction to the manufacturer who can make, make them, uh, uh, to the real world, right?
+所以，在完成三维图案制作之前，整个工艺可能要经过五六个周期，对吧？有时我们需要中间是绝缘层，或者中间是导体或半导体，然后是导体，可能还有一些其他图案、栅极和其他东西。所以，呃，这就是为什么，呃，设计也很重要，对吧？你需要知道如何把你的设计指令传达给制造商，让制造商把它们变成现实，对吧？
+
+That's the other thing. So, uh, the physical, the thinking techniques are still behind the stage. They're still doing the job. And based on, again, whether it's a physical process and chemical process, we have PVD and CVD, right?
+这是另一件事。所以，呃，物理方面的、思维方面的技术仍然处于幕后。他们还在做这项工作。再根据是物理过程还是化学过程，我们有PVD和CVD，对吧？
+
+So this is just another set of scheme. So how they are generally operating. So I'm going to skip this part.
+所以这只是另一套方案。那么，它们通常是如何运行的。所以我要跳过这一部分。
+
+It's pretty much like the chem, uh, the, the nanostructure part when we talk about it. Okay? So maybe another thing I can highlight here is for the CVD, right?
+这和我们谈到化学，呃，纳米结构部分时的情况差不多。明白吗？所以，也许我还可以在这里强调一下 CVD，对吧？
+
+For CVD, that means you have a vapor that is reacting. So it's a reacting gas. And so we need to make sure the whole system is, uh, in a dynamic equilibrium, as in you have gas coming in.
+对于CVD，这意味着有一种气体正在发生反应。所以它是一种反应气体。所以，我们需要确保整个系统处于动态平衡状态，也就是说，有气体不断进入。
+
+So that means you have seen gas coming out, right? So the pressure is, uh, stable. So usually what we do is we have a bolt-like chamber, which is open on both sides.
+所以这意味着你已经看到气体出来了，对吧？所以压力是，呃，稳定的。所以通常我们会设置一个类似螺栓的腔室，两侧都开口。
+
+And in the bolt body, we have some wafers or some substrates that are vertically, uh, standing there. And my chemical gases, they come in from one side. They react at my substrate, and whatever is left or whatever is generated, the exit the system in gas form as well. So only the part we want, they, they stay on the substrate surface.
+在螺栓主体中，我们有一些晶圆或衬底，它们垂直地立在那里。我的化学气体从一侧进入。它们与衬底发生反应，而剩余物质或生成物也会以气体形式离开系统。所以只有我们想要的部分会留在衬底表面。
+
+So that's the idea of CVD, right? It could be different way of setting up. Sometimes it's lateral, sometimes it's vertical, sometimes it's, uh, multi-step.
+所以这就是CVD的原理，对吧？也可以采用不同的设置方式。有时是横向的，有时是纵向的，有时是，呃，多步骤的。
+
+You can have another one, for example. But, uh, the whole basic unit is looking like that, okay? It's a chemical vapor reacting system.
+比如，你还可以采用另一种方式。但是，呃，整个基本单元看起来是这样的，好吗？这是一个化学气相反应系统。
+
+Okay? So people also can make, uh, some, uh, texturing out of the surfaces film. So even if you have a thin film, right, people not just worry about the thickness. They also worry about, uh, when you look down the thin film, right, uh, uh, what is a 2D pattern that you can create?
+明白吗？所以人们也可以在表面薄膜上做一些纹理处理。所以，即使薄膜很薄，对吧，人们也不只是担心厚度。他们还担心，呃，当你从下方观察薄膜时，对吧，呃，呃，你能形成什么样的二维图案？
+
+So, uh, just like bulky material, we also have the concept of grain and the concept of grain size. And, uh, for particular something, some interesting, uh, um, interesting applications, I think the one I'm, I'm, I'm, uh, highlighting here is a super coating. So like the kind of the glossy hard glossy coatings we use for our touch screens, right? In the past old days, those are actually one example of well-tough, well-tempered, uh, super tough glass, right?
+所以，呃，就像块状材料一样，我们也有晶粒和晶粒尺寸的概念。而且，呃，对于某些特别有趣的应用，我想我在这里重点介绍的是超涂层。比如我们用于触摸屏的那种光亮坚硬的涂层，对吧？在过去，那些其实是一种韧性好、经过调制的，呃，超硬玻璃的例子，对吧？
+
+So how they were made is by creating this very small nucleates, right, in the surface. And, and between these nucleates, we have amorphous regions, which look, which act as buffers. And the whole system is nanosized in, in, in, in scale. So we call it nanocomposite coating, right? So that's, uh, uh, uh, uh, interesting example of thin film.
+所以，它们的制造方法是在表面形成这些非常小的晶核，对吧？而在这些成核点之间，存在非晶态区域，它们起到缓冲作用。整个体系的尺度都是纳米级的。所以我们称之为纳米复合涂层，对吧？所以，呃，呃，呃，呃，这是薄膜的一个很有意思的例子。
+
+Okay?
+明白吗？
+
+I think we talked about this too in the glass part when we have this, uh, multiface, uh, uh, system, right? When we have this, uh, uh, crystallizing amorphous, uh, petrophase part.
+我想我们在玻璃部分讲过这个，就是这种，呃，多界面，呃，呃，系统，对吧？当我们有这个，呃，呃，结晶态非晶态，呃，岩石相部分时。
+
+Okay.
+好的。
+
+So this is, uh, more for your information.
+所以，这更多是供你参考。
+
+I'm sure you just need to.
+我相信你只需要……
+
+Okay. So, um, we have another interesting direction.
+好的。那么，嗯，我们还有另一个有趣的方向。
+
+Another football.
+另一个足球。
+
+Uh, which I don't really find a better way to place it. So I decided to include it in this last part.
+呃，我觉得不太好放在这里。所以我决定把它放到最后一部分。
+
+Okay.
+好的。
+
+Uh, it's 4D printing.
+呃，这是4D打印。
+
+Mm-hmm.
+嗯哼。
+
+Okay?
+明白吗？
+
+That's cool.
+真酷。
+
+So, uh, 3D printing is already industrialized, commercialized. 4D printing, partially commercialized, but mostly still in the lab research. So the 4D part is adding another D to 3D.
+所以，呃，3D打印已经实现了产业化和商业化。4D打印已部分商业化，但大部分仍处于实验室研究阶段。所以，4D是在3D的基础上再增加一个维度。
+
+That D, that dimension is usually time. Okay? Usually time.
+这个 D，也就是这个维度，通常是时间。明白吗？通常是时间。
+
+Just like how we normally talk about 3D and 4D. The four, fourth dimension is the time dimension. So it refers to those fabrications where after you finish your normal 3D printing, it's not finished, right?
+就像我们通常所说的三维和四维一样。第四个维度，也就是第四维，是时间维度。所以，它指的是那些在完成常规3D打印后仍未完成的制造，对吧？
+
+And at the point, at the time point where it's, uh, 3D printing is finished, you start to count the fourth dimension of time. And the material starts to change. With respect to time.
+而在，呃，3D打印完成的那一刻，你开始计算第四个维度——时间。材料开始发生变化。相对于时间而言。
+
+And this change usually well-designed, right? This can be a change of shape, very often it's a shape, right? Of course, in some other cases, it could be functions and properties, okay?
+而且这种变化通常是经过精心设计的，对吧？这可能是形状的变化，而且往往是一种形状，对吧？当然，在其他一些情况下，也可能是功能和属性，好吗？
+
+So why do we need something to still be changing after printing? One good example would be those biomaterials that we implant in a body.
+那么，为什么打印之后还需要继续有东西在变化呢？一个很好的例子就是那些我们植入体内的生物材料。
+
+Mm-hmm.
+嗯哼。
+
+Or coat on the womb surface.
+或者涂覆在子宫表面。
+
+Okay.
+好的。
+
+So they do have a surface time. And they have different functions over the time, right? In the first, for, for them to cover wound, they probably just need to be, uh, uh, uh, insulating the air and insulating the bacteria.
+所以它们确实有一个表面时间。而且它们在不同时间具有不同的功能，对吧？首先，为了覆盖伤口，它们可能只需要，呃，呃，呃，隔绝空气，同时隔绝细菌。
+
+That's interesting.
+这很有意思。
+
+But as time goes by, you may want your glue to close up or to degradate away, right? So there is sometimes when they're well-designed and they're functioning environment, they need some to some change among the time for the 4D printing. So this fourth dimension needs a trigger, right? Very importantly.
+但随着时间的推移，你可能希望胶水凝固，或者逐渐降解消失，对吧？所以，有时，如果它们设计合理、在环境中发挥作用，那么在四维打印过程中，它们需要随时间发生一些变化。所以，这第四个维度需要一个触发因素，对吧？这一点非常重要。
+
+It doesn't just automatically finish its change. We usually need some input like water in terms of thin moist in the environment or different time or temperature or even light or even light, okay? And in terms of material type, it can be any kind, right? People in the lab, you will have realized 4D printing, all these major groups of materials, right?
+它不会自动完成它的变化。我们通常需要一些输入，比如环境中适量的水分，或者不同的时间、温度，甚至光线，甚至光线，好吗？就材料类型而言，它可以是任何种类，对吧？实验室里的人，你们应该已经了解了4D打印，以及所有这些主要材料类别，对吧？
+
+In the industry, I'm not so sure. Probably polymers, right? The others, they're still kind of, uh, uh, suffering from some, uh, fabrication cost issues.
+在工业领域，我不太确定。可能是聚合物，对吧？其他的，仍然多少，呃，呃，存在一些，呃，制造成本方面的问题。
+
+Okay? But in the long term, this is supposed to be a very promising direction, right? So you input more design, input more, uh, product self-involvement.
+明白吗？但从长远来看，这应该是一个非常有前景的方向，对吧？所以你要投入更多设计，投入更多，呃，产品自我参与。
+
+So it's kind of like, uh, design to product integration, right? And, uh, it, it, it gives some, uh, very close to scenario, uh, changes. So I think, uh, that's the last video we're going to see.
+所以这有点像，呃，设计与产品融合，对吧？而且，呃，它，它，它带来了一些非常接近场景的，呃，变化。所以我想，呃，这是我们最后要看的视频。
+
+I cannot find my mouth. It's here. So just, uh, take a look at this very short video.
+我找不到我的嘴。在这里。那么，呃，来看一下这个很短的视频。
+
+I think it's, uh, about the 40, 40-pointed, uh.
+我觉得，呃，大约是40，40个尖的，呃。
+
+多多保留，没事。
+Keep more of it. It’s okay.
+
+呃， I don't know what's the cost. So self-moving architecture. Let's, let's check it out.
+呃，我不知道成本是多少。所以，自移动建筑。我们来看看。
+
+没事，我回去再拿过去。
+It’s okay. I’ll go back and get it.
+
+So usually, for 4D printed items, well, they will be printed. They're still soft.
+所以通常，对于4D打印物品，嗯，它们会被打印出来。它们仍然很软。
+
+我去。
+I’ll go.
+
+And gel-like, right? And after that's finished, they start to be hardened or start to change. So it's like a precursor instead of the final material.
+而且像凝胶一样，对吧？完成后，它们开始硬化或发生改变。所以它就像一种前体，而不是最终材料。
+
+我帮你刷一下。我感觉它在买呢。
+I’ll brush it for you. I feel like it’s buying it.
+
+So this one they're using a hydrogel. Hydrogel is the water, is a water-dissolved gel and it's, uh, softened, transparent.
+所以这个他们使用的是水凝胶。水凝胶就是水，是一种溶于水的凝胶，而且，呃，很柔软，是透明的。
+
+嗯。
+Mm-hmm.
+
+Yeah.
+对。
+
+Yeah. So the fancy final demonstration is, uh, soaked in the water and removed by itself. Okay? So frankly, this is, uh, most of the work, the applications of 4D printed items so far.
+对。所以，最后那个很酷的演示是，呃，把它浸在水里，然后它自己会被移除。明白吗？所以坦率地说，这基本上就是迄今为止四维打印物品的大部分应用。
+
+多点。
+More.
+
+They're closest to biological applications, but still, we're still, we still have some distance.
+它们最接近生物医学应用，但我们仍然还有很长的路要走。
+
+Yeah.
+是的。
+
+它真的这样。
+It really is like this.
+
+Okay. Now, before we end, just a very quick, uh, overview of our schedule.
+好的。现在，在结束之前，我们快速看一下日程安排。
+
+Mm-hmm.
+嗯哼。
+
+Um, the last week, as I mentioned, uh, I will, will be one-third about guest lecture, one-third about the policy control, one-third about, uh, the, uh, requirement for project assessment and our final exam. And, uh, that will be it, right? So all the core lecture contents will be finished on the next week's lecture.
+嗯，正如我提到的，最后一周，呃，我会用三分之一的时间讲客座讲座，三分之一的时间讲政策控制，三分之一的时间讲项目考核和期末考试的要求。嗯，就这些，对吧？所以，所有核心课程内容将在下周的课程中讲完。
+
+And the next, next week, we have a project assessment. Okay? I noticed that, that some of you already start to, uh, ask me, asking me questions about your project's, uh, presentations.
+然后，再下下周，我们会有项目考核。明白吗？我注意到，你们当中有些人已经开始，呃，问我关于你们项目，呃，展示的问题。
+
+Uh, feel free to do so, okay? Uh, you have questions about your project title, you have questions, questions about your scope, anything, uh, uh, I'm responsible to answer them, okay? So don't worry.
+呃，尽管问，好吗？呃，你们对项目标题有疑问，对项目范围有疑问，任何问题，呃，呃，我都有责任回答，好吗？所以别担心。
+
+Uh, I will not start grading based on your questions, okay? Everything, every, everything happened about the grading will take place during the presentation itself. Of course, I do require you to send me the slides, uh, just for cross-reference check, okay?
+呃，我不会因为你们的问题就开始评分，好吗？关于评分的所有事情，都会在演示过程中进行。当然，我还是需要你们把幻灯片发给我，呃，只是为了交叉核对，好吗？
+
+And another thing is, uh, the, the assignment two will be released tomorrow, uh, hopefully. We were given 12, 14 days, right? The deadline will be after the everyone has finished their, uh, presentations.
+还有一件事，呃，作业二应该会在明天发布，呃，希望如此。我们有12到14天，对吧？截止日期将在大家完成展示之后。
+
+So make sure you all have time to do that. So keep an eye on your, uh, on your, on your, on your, uh, assignment and blackboards.
+所以请确保你们都有时间完成这个。所以请留意你们的，呃，你们的，你们的，你们的，呃，作业和黑板。
+
+Okay.
+好的。
+
+Okay? No more questions? Uh, see you next week.
+明白吗？没有其他问题了吗？呃，下周见。
+
+Okay?
+好吗？
+
+Okay.
+好的。
+
+— 由 LecSync 生成
