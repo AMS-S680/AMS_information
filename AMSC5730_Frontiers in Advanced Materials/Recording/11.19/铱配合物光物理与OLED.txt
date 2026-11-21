@@ -1,0 +1,1704 @@
+铱配合物光物理与OLED
+日期: 2026年11月19日 18:32
+语言: 英语 → 中文
+时长: 52分39秒
+
+And on go, right, gold is a very expensive metal now. So Iridium just near the gold, and also heavy metal.
+而且，对吧，黄金现在是一种非常昂贵的金属。所以铱就在黄金附近，而且也是重金属。
+
+这边就是火花了。
+Here, the sparks are.
+
+Is even expensive than gold. So maybe you are wondering, then, if it's such a, uh, expensive metal, why we must need to utilize this. In an old-life technology, we know in industry always seek for low cost, right?
+甚至比黄金还贵。所以你可能会想，既然这是一种如此昂贵的金属，为什么我们还需要使用它呢？在传统技术中，我们知道工业总是追求低成本，对吧？
+
+Iridium, even expensive than gold, then why we must choose Iridium as an organic emitting material in old-life device? So that's a problem we need to solve for today's lecture. So I will show you from different reasons why we finally have to choose this quite expensive metal to be utilized in a quite widely used old-life technology. Okay, so let's start. So how do we understand the photophysical properties of a molecule?
+铱甚至比黄金还贵，那么为什么我们必须选择铱作为有机发光器件中的发光材料呢？所以，这就是我们今天讲座中需要解决的问题。所以，我会从不同的角度向大家说明，为什么我们最终不得不选择这种价格相当昂贵的金属，将其用于一种应用相当广泛的旧式技术。好的，我们开始吧。那么，我们如何理解一个分子的光物理性质呢？
+
+We have three very powerful methods, all three very powerful pictures. The first one is based on molecular orbital. Diagram.
+我们有三种非常强大的方法，三种都非常强大的成像方法。第一种是基于分子轨道的。示意图。
+
+So I think it may have some background chemistry, right? So we hear about the bonding, the chemical bonds between different elements, between different atoms, and they constitute this ammo diagram. This diagram help us to understand electrons orbital, electrons energy.
+所以我觉得这可能涉及一些化学背景知识，对吧？所以我们了解了成键，也就是不同元素之间、不同原子之间的化学键，而它们构成了这个 ammo 图。这张图帮助我们理解电子的轨道和电子的能量。
+
+Quite first important thing, we will study the ammo diagram. It will help us to understand electronic structure of that Iridium metal complex. Second picture is the state diagram.
+首先，我们要学习原子轨道图。这将帮助我们理解铱金属配合物的电子结构。第二张图是状态图。
+
+It's all about spin. Okay, first picture is about electrons orbital. Second picture is about electron spin.
+这全都是关于自旋的。好的，第一张图是关于电子轨道的。第二张图是关于电子自旋的。
+
+We know electron we can utilize the orbital to describe it, but the electron also has spin, right? And that spin is quite important. For us to understand the photophysical properties.
+我们知道，可以用轨道来描述电子，但电子也有自旋，对吧？而这种自旋非常重要。帮助我们理解光物理性质。
+
+That's the second picture. Third picture is about the nuclear. We will talk about vibration of nuclear. So every material every molecule every solid state material is made by electron and nuclear, right?
+这是第二张图。第三张图是关于核的。我们将讨论原子核的振动。所以，每种材料、每个分子、每种固态材料都是由电子和原子核构成的，对吧？
+
+That's all. Nothing else. Electrons and nuclear. As long as you understand electrons, and nuclear, you will know everything.
+就这些。没有别的。电子和核。只要你们理解了电子和核，就什么都知道了。
+
+You can understand everything, every physical property of the material. Magnetic properties, electrical properties, photophysical properties, so these three pictures are quite useful for you to understand every physical property of a material. First of all, it's orbital.
+你可以理解一切，包括材料的所有物理性质。磁性、电学和光物理性质。因此，这三张图对理解材料的各种物理性质非常有用。首先，这是轨道。
+
+Orbital's picture. Second, spin. Spin's picture.
+轨道图。第二，自旋。自旋的图景。
+
+States diagram. The third one is about nuclear. Nuclear can vibrate.
+状态图。第三个是关于核的。原子核可以振动。
+
+That will also bring some feature to the material. So we will start them one by one for this evening's lecture. So first of all is the orbital. Molecular orbital theory.
+这也会给材料带来一些特性。所以，今晚的讲座我们会逐一介绍这些内容。那么，首先是轨道。分子轨道理论。
+
+So what's the molecular orbital for this Iridium metal complex? So we so we need to learn a little bit coordination chemistry. So has anyone learn about coating chemistry before?
+那么，这个铱金属配合物的分子轨道是什么？所以我们需要稍微学习一下配位化学。那么，有人以前学过配位化学吗？
+
+Organo magnetic chemistry, coat you? So coordination chemistry actually is, uh, based on metal. Especially transition metal.
+有机磁性化学，你学过吗？所以，配位化学实际上是，呃，以金属为基础的。尤其是过渡金属。
+
+So where where are those transition metals? Has anyone know about that?
+那么，那些过渡金属在哪里？有人知道吗？
+
+In the periodic table, the transition metal are in the between, right? In the middle part. Group one, group two, uh, alkaline metal and alkaline earth metal.
+在元素周期表中，过渡金属位于中间，对吧？在中间部分。第一族、第二族，呃，碱金属和碱土金属。
+
+And right, right-hand sides are some, uh, mineral, uh, elements like carbon, nitrogen, oxygen, right? In between you have those transition metal. So calcium chemistry is based on the, uh, transition metal complex.
+而右边是一些，呃，矿物质，呃，元素，比如碳、氮、氧，对吧？中间是那些过渡金属。所以，钙化学是以过渡金属配合物为基础的。
+
+So this is the Iridium metal complex chemical structures. We have Iridium in between, and it bond to some organic part. And we call them ligands.
+所以，这是铱金属配合物的化学结构。中间是铱，它与一些有机部分结合。我们称它们为配体。
+
+Okay? Organic part, those those atom can coordinate to Iridium. And this bond we will call it coordination bond.
+明白吗？有机部分，那些……那些原子可以与铱配位。这种键我们称之为配位键。
+
+That's about calcium chemistry. I believe you will know this chemical structure, right? This is a benzene if you read this carbon to nitrogen you will have a pyridine. This is a pyridine.
+这大约是关于钙化学的。我想你们会知道这个化学结构，对吧？这是一个苯环；如果你看这个碳氮键，就会得到一个吡啶。这是一个吡啶。
+
+So this this molecule is name is phenol pyridine. And we have three phenol pyridine here. And they all coordinate to the Iridium.
+所以，这个分子的名称是苯酚吡啶。这里有三个苯酚吡啶。它们都与铱配位。
+
+And it, uh, has such a geometry. That's the Iridium. And the complex. So to understand the electronic structure of an Iridium, we need to figure out its oxidation state first.
+而且，呃，它具有这样的几何构型。那就是铱。还有这个配合物。所以，要理解铱的电子结构，我们首先需要确定它的氧化态。
+
+I believe you learn about oxidation numbers, right? Sodium has an oxidation number of positive one, magnesium should have a positive two, metal has an oxidation number. So we need to identify its oxidation number first.
+我想你们学过氧化数，对吧？钠的氧化数为正一，镁应该为正二，金属有氧化数。所以我们首先需要确定它的氧化数。
+
+So how many d electrons times? So clarify its oxidation number. We need to clarify the charge of the ligands.
+那么，有多少个 d 电子？所以，明确它的氧化数。我们需要明确配体的电荷。
+
+So generally we will have two types of ligands. So one is L-type ligand, charge neutral ligand. Another one is S-type ligand, they are anionic ligand. Ligand carries negative charge. So for the L-type ligand, those ligand carry a long tail of electrons.
+一般来说，配体分为两类。一种是L型配体，即电荷中性的配体。另一种是S型配体，即阴离子配体。配体带负电荷。所以，对于L型配体，这些配体带有长长的电子尾部。
+
+So we know to form a chemical bond. We need to have two electrons. And, uh, two atoms.
+所以我们知道，要形成化学键。我们需要有两个电子。还有，呃，两个原子。
+
+Each one contribute orbital, right? One contribute one orbital, another one contribute another orbital, overlap and share these two electrons. For the L-type ligand, that electron pairs from the ligand itself. That's L-type ligand. They are charge neutral.
+每个原子都贡献一个轨道，对吧？一个贡献一个轨道，另一个贡献另一个轨道，发生重叠并共享这两个电子。对于L型配体，这些电子对来自配体本身。那是L型配体。它们是电中性的。
+
+For example, this is amine ligand, there's a long tails on the nitrogen atom. Phosphate ligand, long tail on the phosphorus atom. This water. Water has two long tails.
+例如，这是胺配体，氮原子上有一个长尾基团。磷酸根配体，磷原子上有一个长尾。这水。水有两个长尾。
+
+Also L-type ligand. This monocarbo, uh, oxide, long tail, long tail. Both of the carbon and oxygen can coordinate to metal.
+也是L型配体。这个一羰，呃，氧化物，长尾，长尾。碳和氧都可以与金属配位。
+
+So they are L-type ligand. We can have X-type ligand. X-type ligand means that one atom contribute one electron, metal also contribute one electron. They share.
+所以它们是L型配体。我们也可以有 X 型配体。X型配体是指一个原子贡献一个电子，金属也贡献一个电子。它们共用。
+
+There's two electrons. And that is X-type ligand. And we know for metal it already has weak electron negativity, right?
+有两个电子。那是X型配体。我们知道，金属本身的电子负电性已经很弱了，对吧？
+
+这个外卖点。
+This takeout order.
+
+Weak electron negativity means that this pair, this electron pair, will be almost always by those organic atoms.
+电子负电性较弱意味着，这对电子几乎总是会被那些有机原子所占据。
+
+那个。
+Um.
+
+And that's why by coordinating to this X-type ligand, the metal will be oxidized. Okay? So that is X-type ligand.
+所以，当与这种X型配体配位时，金属会被氧化。明白吗？所以，那就是X型配体。
+
+They are anionic. They carry negative charge. For example, this is a hydro H minus. Chloride.
+它们是阴离子。它们带有负电荷。例如，这是一个氢离子 H⁻。氯离子。
+
+Chlorine minus. Okay? This is a carbon anion.
+氯负离子。明白吗？这是一个碳阴离子。
+
+This is an amide. This is an alkalosite. And this is, uh, cyanide.
+这是一个酰胺。这是一个碱性位点。这是，呃，氰化物。
+
+They are all minus. One minus ligand. After they coordinate to the metal, they will oxidize the metal. So based on these two type ligand, let's have a look on the Iridium.
+它们都是负的。一个负配体。它们与金属配位后，会氧化金属。那么，基于这两种配体，我们来看看铱。
+
+So we have a phenol group here, right? That is a carbon ion. So this one is a carbon minus.
+所以我们这里有一个酚基，对吧？那是一个碳离子。所以这个是碳负离子。
+
+This pyridine. So pyridine has a long tail. Like an amine ligand.
+这个吡啶。所以吡啶有一个长尾。就像胺配体一样。
+
+So this one is an L-type ligand. Phenol pyridine together it has a one minus charge. So we have three such ligands. That means in total they have three minus charge.
+所以这个是L型配体。酚和吡啶一起带一个负电荷。所以我们有三个这样的配体。这意味着它们总共带三个负电荷。
+
+And this molecule overall is a charge neutral molecule. That means Iridium has a three, right? Oxidation state of three.
+而这个分子整体上是电中性的。这意味着铱的电荷是三，对吧？氧化态为三。
+
+And for Iridium metal, in total, it has nine valence electrons. After it shows this oxidation state of three, it means you will have six electrons left. That's the first step.
+对于铱金属，总共拥有九个价电子。它显示三价氧化态后，就意味着还剩六个电子。这是第一步。
+
+So figure out electronic structure of a metal complex. You need to figure out its oxidation state. To figure out its oxidation state, you need to identify the ligand first.
+所以，要弄清楚金属配合物的电子结构。你需要确定它的氧化态。要确定其氧化态，首先需要识别配体。
+
+Okay? L-type ligand and X-type ligand. That's the first step.
+明白吗？L型配体和X型配体。这是第一步。
+
+Okay? Then based on this, okay, we have six electrons left. How does the Iridium form a chemical bond?
+明白吗？那么根据这个，我们还剩六个电子。铱是如何形成化学键的？
+
+Form a what we call coordination bond with the ligand. First of all, we need to figure out the d orbitals. So we know atom has different kinds of orbitals, right? S orbital, p orbital, b orbital, f orbital.
+与配体形成我们所说的配位键。首先，我们需要确定d轨道。我们知道原子有不同的轨道，对吧？s轨道、p轨道、b轨道、f轨道。
+
+Transition metal bound d orbital. So it's a group of d orbitals. So we have this five different d orbitals.
+过渡金属的成键 d 轨道。所以它是一组d轨道。所以我们有这五个不同的 d 轨道。
+
+d, y, z, d, x, y, d, x, z, d, x squared minus y squared, d, z squared. So one quick question. How to understand the orbital?
+d、y、z、d、x、y、d、x、z、d、x平方减y平方、d、z平方。那么，快速问一个问题。如何理解这个轨道？
+
+这个。
+This.
+
+Why? Why we need orbital to describe an electron?
+为什么？为什么我们需要用轨道来描述电子？
+
+So I believe you've learned chemistry of atomic module, right? Rutherford module, Thompson atomic modules, electrons. Rotate around the nucleus, right?
+所以我想你们已经学过原子化学模块了，对吧？卢瑟福模型、汤姆逊原子模型、电子。绕着原子核旋转，对吧？
+
+But why? Why the orbital here look like this? How do we understand that?
+但为什么？为什么这里的轨道看起来是这样？我们怎么理解这一点？
+
+So to understand orbital why they look like this, the most important thing you need to understand is about nature of electron. Do you really understand electrons?
+所以，要理解轨道为什么会有这样的形状，最重要的是要理解电子的本质。你真的理解电子吗？
+
+So to understand electron you need to only remember two things. So the nature of electron is all about weight, or from weight, how to understand that? Try it again.
+所以，要理解电子，你只需要记住两件事。所以，电子的本质全在于重量，或者说，要如何从重量来理解它？再试一次。
+
+Right? Weight of weight. How to understand?
+对吧？重量的重量。怎么理解？
+
+Two key here. One is weight. One is probability.
+这里有两个关键点。一个是权重。一个是概率。
+
+So suppose okay, there's a pen in my hand, right?
+那么，假设，好吧，我手里有一支笔，对吧？
+
+非常重要。
+Very important.
+
+Do you know which is this pen?
+你知道这支笔是哪支吗？
+
+啊?
+Huh?
+
+No, this is in my hand, right? But suppose on my hand there's an electron. Do you know the accurate position of the electron?
+不知道，这支笔在我手里，对吧？但假设我的手上有一个电子。你知道电子的确切位置吗？
+
+No. Right? I only tell you, okay, this 20% of probability has that electron here, 20% has that electron here.
+不知道。对吧？我只能告诉你，好吧，这个电子有20%的概率在这里，也有20%的概率在这里。
+
+应该改得不了。
+It probably can't be changed.
+
+20% of probability has that electron here. It's about possibility distribution.
+电子有20%的概率在这里。这是关于概率分布的。
+
+我当时是跟着。
+I followed along at the time.
+
+This one is.
+这个是。
+
+我是把我主要的。
+I took my main...
+
+It's about probability. You can only tell you okay how, uh, how many probability we can find electron here. So that's the nature.
+这是关于概率的。你只能告诉你，呃，我们在这里找到电子的概率有多大。所以这就是它的本质。
+
+高的那个。
+The taller one.
+
+Electron get. Probability and how do we.
+电子得到。概率，以及我们如何……
+
+等一等就行了。
+Just wait a moment.
+
+How do we uh, uh, describe that probability?
+我们如何，呃，呃，描述这个概率？
+
+他说这个跟ID没啥关系。
+He said this has nothing to do with ID.
+
+Example S orbital is a ball, right? It has a spherical shape. That means in this region you have large charms to find electron there.
+例如，S 轨道是一个球，对吧？它具有球形形状。这意味着在这个区域里，你有很大几率在那里找到电子。
+
+We have a p orbital. They have to do two blocks, right? Why do you have two blocks? That means in this region you have large probability to find electron there.
+我们有一个 p 轨道。它们必须做两个区块，对吧？为什么有两个区块？这意味着在这个区域里，电子出现的概率很高。
+
+That is why we need to find orbital. Because electron is about probability.
+这就是为什么我们需要寻找轨道。因为电子的位置是概率性的。
+
+他说在那个。
+He said it was in that...
+
+So how to understand weight?
+那么，如何理解权重呢？
+
+这个那个什么里面关系。
+This, um, what’s inside—the relationship.
+
+Shape has one critical, uh, factor. It has space, right? And have a cyan function thing.
+形状有一个关键的，呃，因素。它有空间，对吧？还有一个青色功能的东西。
+
+什么球落。
+What ball fell.
+
+Cyan function of weight. They carry space. Information if you have a two, uh, weight then it's all about space. If you combine them together nothing left, right?
+重量的青色函数。它们承载着空间。如果你有两个，呃，权重，那么这一切都与空间有关。如果把它们组合在一起，就什么都没有了，对吧？
+
+If you have a weight like this, you have another weight.
+如果你有一个像这样的重量，你还有另一个重量。
+
+它不能有面部识别。
+It can't have facial recognition.
+
+Combine them together nothing. Only when they face a match. You combine them together you can have increased amplitude of the face.
+把它们合在一起，就什么都没有了。只有当它们面对一个匹配项时。把它们组合在一起，可以增加面部的振幅。
+
+Electron is a weight. That means it also carry the face information. How do we describe that face information?
+电子是一个权重。这意味着它也携带着面部信息。我们如何描述这个面部信息？
+
+If you have color, you only have one color. White color. That means it's a face.
+如果你有颜色，你只有单一的颜色。白色。这意味着它是一张脸。
+
+If you have S orbital look like this, you have S orbital look like this.
+如果你的 S 轨道是这样的，你的 S 轨道就是这样的。
+
+就这里吗?
+Is it just here?
+
+So face. If you combine these two S orbital together they are also face. And this is S body orbital.
+所以，面。如果把这两个 S 轨道结合起来，它们也是面。这是 S 体轨道。
+
+等于本基。
+equal to the base.
+
+Any body orbital.
+任意体轨道。
+
+没有啊。
+No.
+
+Another S orbital look like this. B face combination, right? Then you have a it will be body orbital.
+另一个 S 轨道是这样的。B 面组合，对吧？然后你会有一个，它会是体态轨道。
+
+而且。
+And.
+
+So that's two important thing for you to understand electrons orbital.
+所以，这是你们理解电子轨道需要掌握的两个重要方面。
+
+这个不行。
+This one doesn't work.
+
+Probability will look like this shape. Describe the probability. Weight carry the face information. You can have different color.
+概率分布会呈现这样的形状。描述这个概率。权重承载着人脸信息。你可以有不同的颜色。
+
+To describe that face information. And that's why the orbitals look like this.
+来描述那个面部信息。这就是轨道看起来这样的原因。
+
+这个长起来不对。这个手表不对。
+This one doesn't grow correctly. This watch is wrong.
+
+That's the orbitals. We have five different the orbitals d, y, z. It has a photo ops.
+那就是轨道。我们有五个不同的轨道：d、y、z。它有一个照片操作。
+
+In the, uh, y, z plane. Okay? d, x, y in the x, y plane.
+在，呃，y-z 平面上。明白吗？dxy 位于 x-y 平面。
+
+d, x, z, uh, this orbital in the x, z plane.
+d、x、z，呃，这个轨道位于 x-z 平面。
+
+这个。
+This one.
+
+This one has y squared. Again, it's in the x, y plane but it's this photo they are aligned along this x and y axis. And for d, x, y they are along the diagonal.
+这个含有 y 的平方。同样，它位于 x-y 平面，但在这张照片中，它们沿 x 轴和 y 轴对齐。对于 d、x、y，它们沿着对角线排列。
+
+Direction.
+方向。
+
+两三个小时。
+Two or three hours.
+
+So that's four.
+所以这是四个。
+
+两三百。
+Two or three hundred.
+
+This four the orbitals they have photo ops. And this one, d, z squared, it has two, two lobes along the z axis and here.
+这四个轨道有照片。而这个，d_z²，它有两个、两个瓣，沿着 z 轴延伸到这里。
+
+不是。
+No.
+
+And this shape tell you where you can find electron. For the orbital.
+这个形状告诉你可以在哪里找到电子。对于这个轨道。
+
+这就是过两天。
+This is in just a couple of days.
+
+You have 90% of the shape of region.
+这个形状占该区域的90%。
+
+这个。
+This.
+
+The meaning of orbital.
+轨道的含义。
+
+这啥我也不懂。
+I don't understand this either.
+
+So based on the the orbitals, uh, yes, we can have other different types of orbitals. The orbitals is here. So we can have S orbitals, right?
+所以，基于这些轨道，呃，是的，我们还可以有其他不同类型的轨道。轨道在这里。所以我们可以有 s 轨道，对吧？
+
+S orbital has a spherical shape. P orbitals has two lobes.
+S轨道具有球形形状。P轨道有两个波瓣。
+
+这是表的。
+This is for the table.
+
+And this are, uh, are the the orbitals and we can have more complicated S orbitals and we can have constructed. Combination. B face combination.
+这些是，呃，是轨道。我们可以有更复杂的 S 轨道，也可以进行构造。组合。B 面组合。
+
+So that is a bonding bonding orbital. If we include the C, C stratum combination for two orbitals that is.
+所以那是一个成键轨道。如果我们把 C、C 层的组合包括在内，对于两个轨道来说，那就是。
+
+我都是第一次听。
+This is my first time hearing it.
+
+This will lead to anti-bonding orbitals. So this architecture results. So if you resolve.
+这会产生反键轨道。所以，这种结构会产生。所以，如果你解析。
+
+Schrödinger's equation of the hydrogen atom, it will give you the solution. Like this. And you can resolve this difference orbitals.
+氢原子的薛定谔方程，它会给出解。像这样。你可以解析这些不同的轨道。
+
+And I believe you have learned about quantum numbers and principle quantum number L orbital angular momentum quantum number ML, right? Magnetic quantum number. They show actually in this result solutions.
+我想你们已经学过量子数，以及主量子数、角量子数 L 和轨道角动量量子数 m_L，对吧？磁量子数。它们实际上体现在这些结果和解中。
+
+You have different number of n, m, L. You will have this difference orbital shape. That's why we will, we have this different orbitals.
+n、m、L 的数值不同，就会有不同的轨道形状。所以我们会有这些不同的轨道。
+
+And we can have this different quantum numbers. You have learned about that, right? That's the, uh, they also have some relationship among these different quantum numbers.
+我们可以有不同的量子数。你们已经学过这个了，对吧？这些，呃，不同的量子数之间也存在一些关系。
+
+So n principle quantum number describe the average difference, average, uh, average distance between the electrons and the nuclei, right? You have a 1. That means you have a 1 S orbital.
+所以，主量子数 n 描述的是电子与原子核之间的平均距离，对吧？你有一个1。这意味着你有一个 1s 轨道。
+
+Close or very close to the nuclei. If you have a 2, you can have a 2 S orbital and a 2 p orbital, right? For n equals to 2, L is 0.
+靠近或非常靠近原子核。如果你有2，就可以有一个2s轨道和一个2p轨道，对吧？对于 n 等于 2，L 等于 0。
+
+L can also be 1. For L equals to 1, you will have a 2 p orbital, right? And for L equals to 1, you can have a three different nl.
+L 也可以是 1。对于 L 等于 1，你会有一个 2p 轨道，对吧？对于 L 等于 1，你可以有三种不同的 nL。
+
+I'll do 1, then do 1, 0, corresponding to p, x, p, y, and p, z. Right? So that's how we have this different orbitals.
+我会先做1，然后做1、0，分别对应p_x、p_y和p_z。对吧？所以，我们就是这样得到这些不同的轨道。
+
+It just showed the Schrödinger's equation for hydrogen. We will have this solution can find different number perimeter n m l here. So by using different the number, you can have this different solution and that corresponds to different orbitals to remember the equation.
+它只是展示了氢原子的薛定谔方程。我们将得到这个解，可以在这里找到不同的参数 n、m、l。所以，通过使用不同的数值，你可以得到不同的解，而这些解对应于不同的轨道。记住这个方程。
+
+Just need to understand the picture. The picture. Of orbital. Now let's come back to the the orbitals.
+只需要理解这张图。图片。轨道的。现在我们回到轨道。
+
+Okay? We learned about the orbitals. There are five different the orbitals right? Now let's try to figure out how the the orbital form coordination bond with the ligand.
+明白吗？我们学过轨道。有五个不同的轨道，对吧？现在我们来试着弄清楚这些轨道如何与配体形成配位键。
+
+We talk about the logic, right? Autophase combination with anti-bonding orbital, E phase combination with bonding orbital, right? So let's figure out what the iridium metal complex, how does the metal of iridium form a bond with the ligand.
+我们来谈谈逻辑，对吧？自旋相位与反键轨道组合，E相位与成键轨道组合，对吧？那么，我们来弄清楚铱金属配合物中，铱金属是如何与配体形成键的。
+
+So iridium coordinate to six atoms, right? And it has this alpha hydro collision geometry. So what is alpha hydro collision geometry?
+所以，铱与六个原子配位，对吧？它的配位几何构型是α-氢碰撞构型。那么，什么是 α-hydro collision 几何构型？
+
+So it coordinate to four atoms in the x y plane. So L1, L2, L3, L4, they are in the x y plane. L5, L6 in the z axis.
+所以，它在 x-y 平面上与四个原子配位。所以，L1、L2、L3、L4 都位于 x-y 平面上。L5、L6 在 z 轴上。
+
+So that is alpha hydro collision geometry. So based on this collision geometry, how we understand the collision bond. So we utilize this six sigma 1 to sigma 6 references.
+所以这就是 α-hydro 碰撞几何。那么，基于这种碰撞几何结构，我们如何理解碰撞键。所以我们利用这些 6σ1 到 σ6 的参考。
+
+The ligand orbitals. There are 14 along the x and the y axis and the z axis. Let's first consider about the d, y, z, d, x, y, and d, x, z orbitals. So for d, y, z orbital, d, y, z orbitals, this the orbital is in the y z plane, right?
+配体轨道。沿 x、y 和 z 轴各有 14 个。我们先来考虑 dxy、dyz、dxz 这些轨道。那么对于 d_yz 轨道，d_yz 轨道，这个轨道位于 yz 平面内，对吧？
+
+And this four lobes, four along the diagonal direction, right?
+而这四个瓣，四个，沿着对角线方向，对吧？
+
+太大了嘛。我只能带最小的。
+It’s too big. I can only take the smallest one.
+
+And our ligand. Points along the x and the y axis. So what's the interaction between the ligand and the metal?
+还有我们的配体。沿 x 轴和 y 轴延伸。那么，配体和金属之间有什么相互作用？
+
+Like, like, right? Like white. Autophase.
+对吧？像白色。Autophase。
+
+Half autophase. Half E phase. That is not bonding.
+半自相位。半 E 期。那不是结合。
+
+Right? Half bonding, half, half anti-bonding. You have a non-bonding orbital.
+对吧？一半成键，一半，一半反键。你有一个非键合轨道。
+
+That's a picture. So what is, what about x y? Similar. So this four lobes point along the diagonal direction.
+那是一张图。那么，xy 怎么样？相似。所以这四个叶瓣沿对角线方向延伸。
+
+Half bonding, half anti-bonding, non-bonding. So for this d, y, z, d, x, y, d, x, z orbital, interaction, they are non-bonding orbitals. No bonding, no anti-bonding between ligand and metal.
+半成键、半反键，非键合。所以，对于这个 d_yz、d_xz 轨道，它们是非键合轨道。配体与金属之间既没有成键，也没有反键。
+
+So two critical orbitals are the d, s squared minus y squared. This one. And d, z squared.
+所以，两个关键轨道是 d、s²-y²。这个。以及 d z²。
+
+And have a look at the d, z squared orbital first. The d, z squared orbital, points along the z axis, right? You have a dark lobe, uh, at the top, dark lobe at the bottom.
+先看一下 d z² 轨道。d z² 轨道沿 z 轴方向，对吧？顶部有一个暗瓣，呃，底部也是一个暗瓣。
+
+And for the ligand, you can have a this is E phase. Combination, right? That is a bonding orbital.
+对于配体，你可以有一个，这是 E 相。组合，对吧？那是一个成键轨道。
+
+And you can imagine you can have a totally different picture. Black to white. Black to white. So that is anti-bonding orbital. That's what d, z squared.
+你可以想象，情况可能会完全不同。从黑色到白色。从黑色到白色。所以那是反键轨道。那就是 d、z 的平方。
+
+Indeed has some interaction with the ligand. So how about d, s squared minus y squared? It's in the x y plane, right?
+确实与配体发生了一些相互作用。那么，d²s-y²呢？它在 x-y 平面上，对吧？
+
+And for these four lobes, they point along the x axis and the y axis. And the ligand also along the x axis and the y axis. So you can imagine you can have this is a bonding orbital, right?
+对于这四个叶瓣，它们沿 x 轴和 y 轴方向延伸。配体也沿着 x 轴和 y 轴。所以你可以想象，这可以是一个成键轨道，对吧？
+
+White to white, white to white, black to black, black to black. This is a bonding. E phase combination.
+白对白，白对白，黑对黑，黑对黑。这是一个成键轨道。E 相组合。
+
+And you can have an anti-bonding. White to black.
+而且可以形成反键。从白色到黑色。
+
+黑的很多。
+A lot of them are black.
+
+White to black.
+白到黑。
+
+全面不见。
+Completely invisible.
+
+Black to white.
+黑色到白色。
+
+Black to white. That is an anti-bonding orbital.
+黑色到白色。那是反键轨道。
+
+黑的全面不见。
+The black part is completely invisible.
+
+So d, x squared minus y squared. d, z squared can eat.
+所以是 d、x²-y²。d、z 的平方可以吃。
+
+你还是要涂吗？
+Do you still need to apply it?
+
+From some interaction with the ligand.
+来自与配体的某种相互作用。
+
+它竟然没有上头。
+It doesn’t have a top at all.
+
+And some interaction will lead to what we call ligand phase splitting. At first, we have five the orbitals, right? They are generated.
+而某些相互作用会导致我们所说的配体相分裂。一开始，我们有五个轨道，对吧？它们是生成的。
+
+It generate means that they have the same energy. But after coordinating to the ligand, two the orbitals will have different energies. So this d, z squared and the d, s squared minus y squared will be lifted. They are anti-bonding orbitals.
+它生成意味着它们具有相同的能量。但在与配体配位后，这两个轨道将具有不同的能量。所以这个 d_z² 和 d_x²-y² 会受到能级分裂。它们是反键轨道。
+
+Right? We talk about bonding, anti-bonding. For bonding orbital, mainly contributed by the ligand.
+对吧？我们讲的是成键轨道和反键轨道。成键轨道主要由配体贡献。
+
+For the anti-bonding orbital, mainly contributed by the metals. So these two orbitals due to the anti-bonding interactions will be lifted up.
+对于反键轨道，主要由金属贡献。所以，这两个轨道会因反键相互作用而向上移。
+
+没有那个危险的表情。
+It doesn't have that dangerous expression.
+
+These two orbitals. And we have three orbitals left. Of the same energy compared to the previously non this degenerated the orbitals.
+这两个轨道。还剩三个轨道。与之前非简并的轨道相比，这些轨道具有相同的能量。
+
+That is non-bonding orbitals. d, s y, d, y, z, d, x, z. We will have such a splitting.
+那是非键合轨道。d、s y、d、y、z、d、x、z。我们会看到这样的分裂。
+
+Alpha hydro will have a group. And in that group, we have some symmetry, okay? And for these two types of orbitals, one belong to each subgroup, one belong to each T2G subgroup.
+α-氢会有一个基团。而在那个基团中，我们有一些对称性，好吗？对于这两种轨道，每种轨道属于一个子群，也就是每个 T2G 子群各有一个。
+
+And that's why we call these two EG orbitals. These three T2G orbitals. These three are non-bonding orbitals.
+这就是为什么我们称这两个轨道为 EG 轨道。这三个 T2G 轨道。这三个是非键合轨道。
+
+These two are anti-bonding orbitals. And remember iridium has also been listed of three, right? Since electrons left, then we will have such electronic structure to describe iridium metal.
+这两个是反键轨道。记住，铱也有三个，对吧？由于电子已经离开，因此我们将用这样的电子结构来描述铱金属。
+
+Since electrons left, in these three non-bonding orbitals. And the two empty. Anti-bonding orbitals. Right? And another important thing, we need to know is that instead of iridium, we have a ligand.
+由于电子离开了这三个非键合轨道。还有两个空的。反键轨道。对吧？还有一点很重要，我们需要知道的是，我们不是有铱，而是有一个配体。
+
+Ligand is inhibited, right? Inhibited is a pi conjugated system. That means it will have a relatively low lying pi star orbital.
+配体受到抑制，对吧？抑制剂是一个π共轭体系。这意味着它会有一个相对较低的能量π*轨道。
+
+Even lower than the EG orbital. Those anti-bonding orbitals. So for this complex, this molecule, we will have such a molecular orbital.
+甚至比EG轨道还低。那些反键轨道。所以对于这个配合物、这个分子，我们会得到这样的分子轨道。
+
+These three, okay, non-bonding orbitals, are homo. What is homo? It is a highest occupied molecular orbitals. And these three non-bonding orbitals, they are occupied.
+这三个，好的，非键合轨道，是HOMO。什么是 homo？它是最高占据分子轨道。而这三个非键合轨道是被占据的。
+
+And they have the highest energy. And they correspond to homo highest occupied molecular orbitals. And we have a pi star orbital. Particularly from the ligand, right? And we call it homo means that lowest and occupied molecular orbitals.
+它们的能量最高。它们对应于最高占据分子轨道，即HOMO。我们还有一个π*轨道。尤其是来自配体的，对吧？我们称之为“homo”，意思是最低的占据分子轨道。
+
+They are unoccupied. No electrons there. But they have the lowest energy.
+它们是空的。那里没有电子。但它们的能量最低。
+
+And they correspond to this orbital corresponds to homo. And these are the EG orbital that talk about those anti-bonding orbitals. So for this metal complex.
+它们对应于这个轨道，对应于HOMO。这些是EG轨道，指的是那些反键轨道。所以对于这个金属配合物。
+
+Now we have. Is molecular orbital diagram, right? Electronic structures.
+现在我们有。是分子轨道图，对吧？电子结构。
+
+We know the homo from metals.
+我们知道金属的HOMO。
+
+起码有声音。
+At least there’s sound.
+
+Metals three. The orbitals, right?
+金属三。轨道，对吧？
+
+你不要乱按。
+Don't press anything randomly.
+
+Generate the orbitals. Humo from the ligand. Ligand pi star orbitals.
+生成轨道。配体的 HOMO。配体的π*轨道。
+
+来。
+Come.
+
+The first part, we have already derived.
+第一部分我们已经推导出来了。
+
+什么是。
+What is?
+
+Is molecular orbital diagram. For iridium metal complex. Now we extend it.
+是分子轨道图。对于铱金属配合物。现在我们将其扩展。
+
+When you study photoelectric forces, right? To study photoelectric forces, we will extend it using a mat. And the electron will be extended.
+当你研究光电力时，对吧？为了研究光电力，我们将用垫子将其扩展。电子也会被扩展。
+
+From homo to humo. Okay? From homo this d orbitals, we put one electrons.
+从 homo 到 humo。明白吗？从HOMO到这个d轨道，我们放入一个电子。
+
+And to the humo. To the pi star orbitals. This extended state we will call it MLCT.
+然后到 HOMO。进入π*轨道。我们将这种扩展态称为 MLCT。
+
+Very important and very famous extended state in, uh, protein chemistry. It's metal to ligand charge transfer extended state. MLCT extended state.
+这是蛋白质化学中一个非常重要且非常著名的扩展态。这是金属-配体电荷转移激发态。MLCT 扩展态。
+
+Because the electrons is, uh.
+因为电子是，呃。
+
+有手表的话不是。
+Not if you have a watch.
+
+Transfer from the metal to the ligand. And it is a singlet. Extended state.
+从金属转移到配体。而且它是单重态。扩展态。
+
+Right? Singlet means that, uh, you have two orbitals and you have a electron off. Another electron on.
+对吧？单重态意味着，呃，你有两个轨道，而且有一个电子未成对。另一个电子开启。
+
+That is singlet. So that's why we have this singlet. One.
+那是单重态。所以这就是为什么我们有这个单重态。一。
+
+我们不学还有啥意思。自己探索。
+What’s the point of not learning it? Explore on your own.
+
+有意思。
+Interesting.
+
+So that is a singlet.
+所以那是一个单重态。
+
+你就说。没事。
+Just say it. It’s okay.
+
+I want to talk about steam vapor in molecules. But for the iridium metal complex, you mentioned from the triplet MLCT. We'll talk about this that one later.
+我想谈谈分子中的蒸汽。但对于铱金属配合物，你提到的是三重态MLCT。我们稍后会讨论这个。
+
+So we can have singlet extended state as one. Triplet extended state T1. The emission for iridium metal complex is from the T1 state.
+所以我们可以有一个单线态扩展态。三重态扩展态 T1。铱金属配合物的发射来自T1态。
+
+That's the first, right?
+这是第一个，对吧？
+
+电子。
+Electronics.
+
+Yes.
+是的。
+
+So that's some information for this iridium iridium molecular orbitals. And this extended state.
+所以，这就是关于铱分子轨道的一些信息。还有这个扩展态。
+
+And let's talk about the state. Configurations.
+我们来谈谈这个态。配置。
+
+两个加合的负。
+The negative of the two additions.
+
+So we talk about electron orbitals. That's a very important thing. Is electron spin.
+所以我们来谈谈电子轨道。这是非常重要的。是电子自旋。
+
+感应。但是软件安装。
+Induction.But software installation.
+
+So for this picture, can anyone figure out which element corresponds to this?
+那么，对于这张图，谁能猜出它对应的是哪种元素？
+
+反射。不说吧。
+Reflection. Let’s not say it.
+
+Diagram?
+图？
+
+How many electrons there? Three, four, five, six. How the right?
+有多少个电子？三、四、五、六。对吗？
+
+How does that sit?
+那怎么对得上？
+
+大家用手表到底能不能看到百分之多少的功能。感觉好鸡肋。
+Can everyone really see what percentage of the functionality is available on their watches?Feels pretty useless.
+
+No. That's how the right. This is a ground state.
+不。对。这是基态。
+
+Ground state means that this state configuration has the lowest energy. So that corresponds to ground state.
+基态意味着这种状态配置具有最低的能量。所以这对应于基态。
+
+不行。
+No.
+
+不行。不好看的。
+No. It’s not very good-looking.
+
+Compared to ground state, we can have extended state. Extended state means that we remove one electron from a lower energy orbital to a high energy orbital. We will have extended state.
+与基态相比，我们还可以有扩展态。扩展态是指我们将一个电子从低能轨道移至高能轨道。我们将会有扩展态。
+
+华为手表。
+Huawei Watch.
+
+For example, if we remove this electrons from two s orbitals to two p orbitals, we will have extended state. Based on this state, we will have a state diagram. For example, we can have we can have all these orbitals. This is this corresponds to S0.
+例如，如果我们把这两个电子从两个 s 轨道转移到两个 p 轨道，就会形成扩展态。基于这个状态，我们会得到一个状态图。例如，我们可以有，我们可以有所有这些轨道。这是对应于 S0 的。
+
+Ground state. Singlet ground state. That corresponds to S0.
+基态。单重态基态。这对应于 S0。
+
+Another extended one electron from homo to humo. We will have extended state. One here means the lowest.
+另一个从HOMO到HUMO的扩展单电子。我们将会有扩展态。这里的“一”表示最低。
+
+Energy. Extended state. That is S1.
+能量。扩展态。那是 S1。
+
+The second lowest one is S2. So based on the relative energy of this state diagram, we have a lowest one. That is a singlet ground state.
+第二低的是 S2。所以，根据这个状态图中各状态的相对能量，我们有一个最低的。那是单重态基态。
+
+Singlet extended state. S1.
+单态扩展态。S1。
+
+因为小。
+Because it’s small.
+
+Second highest extended state S2. And this state diagram. Based on the state diagram, we can, uh, plot the relative energy.
+第二高激发态 S2。还有这个状态图。根据这个态图，我们可以，呃，绘制相对能量图。
+
+We can now have a ground state energy here. Singlet extended state. Triplet extended state.
+现在我们可以在这里标出基态能量。单重态扩展态。三重态扩展态。
+
+You already have the lower. Energy compared to S1.
+你已经有了较低的。与 S1 相比的能量。
+
+就重新去找。
+Just look for it again.
+
+From two s S0 is for brightness. From S1 to S0 is for resonance.
+从两个 s，S0 是为了亮度。从 S1 到 S0 是共振。
+
+你用的是啥。
+What are you using?
+
+So that's based on state diagram.
+所以这是基于状态图的。
+
+我用的是磁场。
+I’m using a magnetic field.
+
+From S1 to T1, we call it an intersection intersection crossing process. Okay? And next, I want to talk a little bit more about the scheme.
+从 S1 到 T1，我们称之为交叉、交叉、交叉过程。明白吗？接下来，我想再多谈谈这个方案。
+
+We can have a singlet.
+我们可以有一个单态。
+
+这个电脑上有那个聊天记录。这个加在前面聊天记录。
+There’s that chat record on this computer. Add this to the chat history at the front.
+
+行。
+Okay.
+
+我现在学一下。
+I’ll learn it now.
+
+哎
+Hey.
+
+。
+.
+
+What's there are three substates in the physics state. So now talk about three fundamentals, right? And now.
+物理态中有三个子态。那么现在谈谈三个基本的，对吧？现在。
+
+Ml.
+Ml。
+
+我应该没念错。
+I think I spelled it correctly.
+
+Fundamental. It's speed, right? And.
+基础。是速度，对吧？而且。
+
+好。
+Okay.
+
+So if we have a speed of electrons in one or two, we found that this is two. Now about order two, right? So singlet state is at two to zero, right?
+所以，如果我们有一个电子的速度，是一还是二，我们发现这是二。现在来说二阶，对吧？所以单态位于2到0，对吧？
+
+The same thing. Two to one. So we will have at two to one.
+同样的。二到一。所以我们会得到二到一。
+
+That means your Ms have negative one, zero. At two to one. You have speed.
+这意味着你的 M_s 是负一、零。二比一。你有速度。
+
+Singlet substate that's why we call it singlet. So how many angles are the triple triplet substate? Why we have three singlet state?
+单重态亚稳态，所以我们称之为单重态。那么，三重态三重态基态有多少个角度？为什么有三个单态？
+
+So for singlet state, it's quite easy to imagine. You have a speed of. Been done.
+所以对于单态，很容易想象。你的速度是……已经完成了。
+
+The electrons are located, right? Speed. And they are rotate.
+电子是位于某个位置的，对吧？速度。它们在旋转。
+
+At the same time, they are 180 degree out of place. Speed also have a face. Okay? When rotate clockwisely, when rotate anti-clockwisely, they are always out of place.
+与此同时，它们的位置相差180度。速度也有一个面。明白吗？顺时针旋转时，逆时针旋转时，它们总是错位的。
+
+But for spin triplet, you can have these three pictures. Both of two.
+但对于自旋三重态，你可以得到这三张图。两个都是。
+
+对。
+Right.
+
+包括我也是。跟我爸爸休息。
+including me.Rest with my father.
+
+Both of two spin up. The another situation, one up, one down.
+两个都是自旋向上。另一种情况，一个自旋向上，一个自旋向下。
+
+因为爸爸是女的，就啥都能看到。
+Because Dad is a woman, she can see everything.
+
+One up, one down. But they rotate.
+一个自旋向上，一个自旋向下。但它们会旋转。
+
+只剩下你这种没有对象。
+Only people like you are left without a partner.
+
+In phase. In phase.
+同相。同相。
+
+And that corresponds to another triplet. Substate. So you have these three pictures.
+而这对应于另一个三重态。子态。所以你有这三张图。
+
+Describe. A triple sub-levels. And based on this picture, we will have a information.
+描述。三个子能级。基于这张图，我们会得到一些信息。
+
+你知道这个微信。
+You know this WeChat.
+
+How zero is.
+零是多少。
+
+我在家给我爸打消息都能看到。
+I can even see the messages I send to my dad at home.
+
+This is zero fill space.
+这是零填充空间。
+
+那岂不是很容易暴露颜色。
+Then wouldn’t it be very easy to reveal the color?
+
+Now we have three sub-levels.
+现在我们有三个子层级。
+
+不错。
+Not bad.
+
+只是和他这个没有对象的差别。
+It’s just different from his version without the object.
+
+Right.
+对。
+
+消失。
+disappear.
+
+So now calibrate.
+那么现在进行校准。
+
+我啥也是中心。啥也是中心。
+I’m also the center. What is also the center.
+
+They are degenerate.
+它们是退化的。
+
+As no.
+因为不。
+
+等会儿我给你我会给你那个什么号的。
+In a bit, I’ll give you—I’ll give you that, um, number.
+
+Because in real molecule.
+因为在真实分子中。
+
+我现在觉得蛮舒服的。后来我感觉它可能。
+I feel pretty comfortable right now. Later, I felt that it might.
+
+Always have some interaction with the orbital with another spin. So we will have a concept of zero fill splitting. So these three state three substate for spin triplet levels are not degenerate.
+总会与另一个自旋的轨道发生某种相互作用。所以我们会有一个零填充分裂的概念。所以，自旋三重态能级的这三个状态并不简并。
+
+And their energy difference is a zero fill splitting. So for hydrocarbon type molecules, you already have very small zero fill splitting. Around 10 micro eV.
+它们之间的能量差就是零填充分裂。所以对于烃类分子，零场分裂已经非常小了。大约10微电子伏。
+
+But if we have a heavy metal, like uranium, we are talking about uranium, or platinum, or gold, you will have a large zero fill splitting. Because the spin can interact with the orbital. And you will have a large energy difference among these three energy sub-levels.
+但如果涉及重元素，比如铀、铂或金，就会出现较大的零填充分裂。因为自旋可以与轨道相互作用。而且这三个能量亚层之间的能量差会很大。
+
+If you follow a external magnetic field, it will further split based on the mass splitting. So two interactions. About the spin. Spin itself can interact with each other with the orbital have this zero fill splitting.
+如果你施加一个外磁场，它还会根据质量分裂进一步分裂。所以是两种相互作用。关于自旋。自旋本身可以与轨道相互作用，从而产生这种零填充分裂。
+
+With the external magnetic field, it will have this demand splitting. Energy. And now let's talk let's talk about most critical part.
+在外部磁场的作用下，它会产生这种需求分裂。能量。现在我们来谈谈最关键的环节。
+
+Now we know about orbital, about uranium. We know about spin. Excited state. Ml city excited state.
+现在我们了解了轨道，也了解了铀。我们知道自旋。激发态。Ml 城市激发态。
+
+How do we understand why we need to choose uranium in all life? The most critical thing is that in all life, it is an electron luminescence. We input electricity in the generate emission.
+我们如何理解为什么在所有生命中都需要选择铀？最关键的是，在所有生命中，它都是电子发光。我们输入电能来产生发射。
+
+Electricity in all life. Twice will populate excited state.
+所有生命中的电。两次会填充激发态。
+
+我做一个小表格。可以啊。
+I’ll make a small table.Sure.
+
+One over four. Okay?
+四分之一。明白吗？
+
+Four.
+四。
+
+Well, only 30% of the excited state.
+嗯，只有30%处于激发态。
+
+对。
+Right.
+
+From a simulator.
+来自模拟器。
+
+直接拷贝吧。
+Just copy it.
+
+And other.
+还有其他的。
+
+拷贝那个功能。
+Copy that feature.
+
+75%.
+75%。
+
+我还是拷贝。
+I’ll copy it instead.
+
+Comes from the triplet excited state. Because you utilize electricity.
+来自三重态激发态。因为你利用了电。
+
+这些你也可以直接问他。
+You can also ask him directly about these.
+
+To induce the emission.
+来诱导发射。
+
+就下载。
+Just download it.
+
+Very naturally, you will populate 75% excited state on the triplet excited state. From triplet excited state to ground state, that is called brightness.
+很自然地，75% 的激发态会处于三重态激发态。从三重态激发态回到基态，这称为亮度。
+
+但是我如果打开。
+But if I open it.
+
+Not brightness.
+不是亮度。
+
+如果这样的话我们就打开。
+If that’s the case, we’ll open it.
+
+So most of the organic molecules, they are just so fluorescent.
+所以大多数有机分子都非常容易发生荧光。
+
+是吗？是的。它会它会攻击。
+Really? Yes. It will, it will attack.
+
+它会拦截。我不知道。
+It will intercept. I don't know.
+
+Fluorescence.
+荧光。
+
+For fluorescence.
+用于荧光。
+
+这太好了。这是什么？
+That's great. What is this?
+
+还有第二道是吗？
+Is there a second layer?
+
+第二道不会。这个会。哎，手机代码也太低了。
+I don't know the second one. I can do this. Oh, the phone code is way too low.
+
+So for ground state, you have one spin up, one spin down. For equal state, both spin up or both spin down. From this condition to this condition, you flip the spin, right?
+所以对于基态，一个自旋向上，一个自旋向下。对于等态，两个自旋都向上，或者都向下。从这个状态到这个状态，你要反转自旋，对吧？
+
+And that's the most typical part. For us, we want the material that can generate this spin flip emission. So how do we.
+这是最典型的部分。对我们来说，我们需要能够产生这种自旋翻转发射的材料。那么我们怎么……
+
+That is the fluorescence.
+那就是荧光。
+
+If you want to flip emission, that means you will have the angular momentum. The nature of spin actually is about angular momentum. When you flip the spin, you will have.
+如果你想反转发射，那就意味着你会有角动量。自旋的本质其实与角动量有关。当你反转自旋时，你会有。
+
+你都上好了吗？我只要你这边。
+Have you finished uploading everything? I only need yours.
+
+The angular momentum.
+角动量。
+
+How do we realize that?
+我们如何实现这一点？
+
+好了。我要回去了。
+Okay. I need to go back.
+
+Spin has angular momentum.
+自旋具有角动量。
+
+Orbital also has angular momentum.
+轨道运动也有角动量。
+
+那我知道。
+I know.
+
+If you want to change the speed.
+如果你想改变速度。
+
+你根据推荐搞的吗？
+Did you do it based on the recommendation?
+
+You can borrow.
+你可以借用。
+
+我写这些。
+I wrote these.
+
+From orbital.
+从轨道。
+
+对。
+Yes.
+
+And that's why we need to introduce what we call spin orbital coverage.
+这就是为什么我们需要引入所谓的自旋轨道覆盖。
+
+那搞成一样。
+Then make them the same.
+
+The fluorescence.
+荧光。
+
+它有很多让自己写。
+It has a lot that lets you write it yourself.
+
+And uranium based on this Ml city excited state.
+而铀则是基于这个 Ml 城市激发态。
+
+你知道里面。
+You know what's inside.
+
+It has a very large spin orbital count. So say they take the spin.
+它的自旋轨道耦合非常强。所以，假设他们取这个自旋。
+
+回去就开始搞那个PET。我已经会搞PET。
+Go back and start working on that PET. I already know how to do PET.
+
+So how do we understand that? We know.
+那么，我们该如何理解这一点呢？我们知道。
+
+你看我这个。
+Look at this of mine.
+
+You have another concept.
+你还有另一个概念。
+
+但是有点但是有点呃我没有。
+But, um, I don’t have it.
+
+You have five different p orbitals.
+你有五个不同的 p 轨道。
+
+但是你看什么。
+But look, what?
+
+And they also.
+而且它们也。
+
+就是。
+That’s it.
+
+Have angular momentum.
+具有角动量。
+
+还是你这种的话我可以回来。
+Or if it’s like yours, I can come back.
+
+In a normal angular momentum from a real factor.
+由一个真实因子产生的普通角动量。
+
+不行。
+No.
+
+Overall, they are conserved. And that's how we have.
+总体而言，它们是守恒的。这就是我们所拥有的。
+
+我知道。
+I know.
+
+Spin flip from fluorescence.
+荧光引起的自旋翻转。
+
+不够符合。
+Not quite up to the mark.
+
+And because uranium have a it's Ml city excited state. Remember this metal from string generate p orbitals, right?
+而且因为铀有一个……它的 Ml 城市激发态。还记得这种金属会从弦生成 p 轨道，对吧？
+
+对。
+Right.
+
+Because they are degenerate.
+因为它们是简并的。
+
+就是累计条件。
+It’s the cumulative condition.
+
+And very easily borrow.
+而且很容易借。
+
+就是用这样的。
+Use this one.
+
+The orbitals change. Of this d orbitals. They are degenerate.
+轨道会发生变化。这些 d 轨道的。它们是简并的。
+
+It can easily couple. With each other.
+它可以很容易地耦合。彼此。
+
+对对对。
+Right, right, right.
+
+So based on this Ml city excited state, the metal can.
+所以，基于这个 Ml 城市激发态，金属可以。
+
+这个spin我们。
+This spin, we.
+
+Similarly borrowed angular momentum from the p orbitals。
+同样，从 p 轨道借来角动量。
+
+就你直接顺着抛的话你就得100。它们。
+If you just throw it straight ahead, you’ll get 100. them.
+
+So that's why we choose uranium. Uranium is a heavy metal. Have this Ml city excited state.
+所以我们才选择铀。铀是一种重金属。具有这个 Ml 城市激发态。
+
+Degenerate. String d orbitals. That means it could be a very effective fluorescence emitter.
+简并的。d 轨道。这意味着它可能是一种非常有效的荧光发射体。
+
+那如果。
+Then if...
+
+And for all life, your device will have 75% of excitation energy from a triplet state. And that's why we need to design an effective fluorescence emitter. So that's why we choose uranium.
+对于所有生命体，你的器件将有75%的激发能量来自三重态。这就是为什么我们需要设计一种高效的荧光发射体。所以这就是我们选择铀的原因。
+
+是吧。
+Right.
+
+And that's the whole story of the Ml diagram.
+这就是 Ml 图的全部内容。
+
+这个没拿起来。
+This one hasn't been picked up.
+
+You also need to understand the spin.
+你还需要理解自旋。
+
+你忘了。
+You forgot.
+
+For fluorescence emitter, you need to consider all triplet state.
+对于荧光发射体，你需要考虑所有三重态。
+
+这是外面的。
+This one is from outside.
+
+Based on this emitter, you can understand why we must.
+基于这种发射体，你可以理解为什么我们必须。
+
+这个叫英文肯定会翻成。
+This is called English, and it will definitely be translated into...
+
+Expensive uranium metal complex.
+昂贵的铀金属配合物。
+
+丢掉。
+Discard it.
+
+And the last picture is about the nuclei. Just want to go briefly this picture.
+最后一张图是关于原子核的。只想简单讲一下这张图。
+
+这个就是。
+This is it.
+
+For emission of some metal complex for organic molecules. You can always see such a small picture. There are two bands here.
+用于某些金属配合物或有机分子的发射。你总能看到这么小的画面。这里有两条谱带。
+
+So why? Why would we not have a single band? You have such a what we call vibrational peak.
+所以为什么？为什么不会有单一的谱带呢？你有这样一个我们称之为振动峰的东西。
+
+It's based on the nuclear vibration. So how do we understand nuclear vibration?
+它基于核振动。那么，我们如何理解核振动呢？
+
+没错。
+That's right.
+
+老板就。
+The boss just...
+
+The last picture. What is a vibration? Look at how many different types of vibrations.
+最后一张图。什么是振动？看看有多少种不同类型的振动。
+
+For example, this is a methylene group. You can have symmetry stretching. Asymmetric stretching or bending.
+例如，这是一个亚甲基。可以发生对称伸缩振动。不对称伸缩或弯曲。
+
+How do we describe that? We utilize a potential energy curve. So at least you learned about Hooke's law.
+我们如何描述它？我们利用势能曲线。所以至少你们学过胡克定律。
+
+在这个。
+In this.
+
+Your high school physics.
+你们高中物理。
+
+不是我的。他们也不用这么多考。
+Not mine. They don’t need to take so many exams either.
+
+It's vibrant, right?
+它很活跃，对吧？
+
+特别好玩吧。
+It’s especially fun, right?
+
+You will utilize this
+你会用到这个。
+
+have dissolution in the vibrated parabolic curve. So that describes this molecular vibration picture.
+在振动抛物线中发生溶解。所以，这描述了这种分子振动图景。
+
+没有会后来这么多。
+There wouldn’t have been so many later.
+
+And how do we understand that? We know electron has orbital. Orbital represents a frequency of electrons.
+我们如何理解这一点？我们知道电子有轨道。轨道代表电子的频率。
+
+Nuclear also has a frequency. The result is component. The result is dropping emission.
+原子核也有一个频率。结果是分量。结果是发射下降。
+
+You will have nucleus function. This will look like this. Just like one s, two s, two p orbital.
+你会有核函数。这会是这样的。就像一个 s 轨道、两个 s 轨道和两个 p 轨道。
+
+它第二个作用是哪个PPT掉到哪个PPT来着。
+Its second function was—what slide did it land on again?
+
+它第二个作业是哪个PPT到哪个PPT。啊？第几PPT到最后PPT？
+Its second task is which PowerPoint goes to which PowerPoint. Huh? From the nth PowerPoint slide to the final slide?
+
+因为它这个第二题就是那个讨论课学习的。这就是前面的。反正上次作业不是它就考了。
+Because the second question is about what we learned in the discussion class. This is the one from before. Anyway, it was tested on the last assignment, so it was covered.
+
+那我要拷贝所有PPT吗？这个手机上是不是有点太麻烦了？扫一下稍等。
+So do I need to copy all the PowerPoint slides? Isn't it a bit too troublesome to do this on a phone? Scan it. Just a moment.
+
+赞助不了。看到了。太吓人了。
+I can't sponsor it. I see it. It’s too intimidating.
+
+这个720刀。GP是什么？
+This one is 720 dollars. What is GP?
+
+好。50块钱。
+Okay.Fifty yuan.
+
+And next, we need to introduce a version of the combination of the transform of Ml.
+接下来，我们需要引入 Ml 的变换组合的一个版本。
+
+你这什么意思？
+What do you mean by this?
+
+And不是50块钱？我不知道。 And how do we consider the whole form?
+不是50块钱吗？我不知道。那我们该如何考虑整个形式呢？
+
+Electron angle.
+电子角度。
+
+你要把我教会了外包给我吧。
+You mean you’re going to train me and then outsource it to me?
+
+We need to consider the hydrogen bond. It's a moving nuclear moving the attraction with each other without movement tension. It will quite complicated.
+我们需要考虑氢键。这是一个移动的原子核，彼此之间产生吸引力，而没有运动张力。这会相当复杂。
+
+Potential of combination.
+组合的潜力。
+
+慢慢慢慢复制。
+Copy slowly, slowly, slowly.
+
+Because electrons are very small, move very fast, nuclei are very massive. During the electronic transition, you have a field. The nuclei does not move. Six. And that is a core concept of Oppenheimer approximation.
+因为电子非常小，运动速度很快，而原子核的质量非常大。在电子跃迁过程中，会存在一个场。原子核不移动。六。这是奥本海默近似的核心概念。
+
+Nuclei are quite massive. And the electronic transition take place the electron will move faster than the nuclei.
+原子核的质量相当大。电子跃迁发生时，电子的运动速度会比原子核更快。
+
+And then we can.
+然后我们可以。
+
+像这后几个。
+Like the last few of these.
+
+Based on the nucleus overlap, to understand the relative absorption emission intensity of the transition. How? We'll talk about the wave function of those vibrational levels, right?
+基于核重叠，来理解该跃迁的相对吸收和发射强度。怎么做？我们会讨论那些振动能级的波函数，对吧？
+
+We can utilize what we call the Frank-Cohen principle. To calculate the transition intensity between different vibrational states. For example, you can have a brown state. Its potential energy curve.
+我们可以利用所谓的弗兰克—科恩原理。计算不同振动态之间的跃迁强度。例如，你可以有一个棕色状态。它的势能曲线。
+
+Like this. We have an excited state. Its potential energy curve look like this.
+像这样。我们有一个激发态。它的势能曲线是这样的。
+
+Suppose we consider absorption process.
+假设我们考虑吸收过程。
+
+抽吸的。
+Suctioned.
+
+From the brown.
+从棕色。
+
+我不知道自己哪个站。
+I don't know which station I'm at.
+
+And here you can see it has the largest overlap with the second level. That means this transition will have the highest intensity. This is the emission, right? Not higher level. It's going to stay too low energy brown state.
+在这里你可以看到，它与第二能级的重叠最大。这意味着这个跃迁的强度最高。这是发射，对吧？不是更高能级。它会停留在能量过低的棕色状态。
+
+It's wave function look like this.
+它的波函数是这样的。
+
+主要是它输入。
+Mainly, it’s the input.
+
+To this level because their wave function have a better overlap. So based on their wave function.
+到这个能级，因为它们的波函数重叠得更好。所以，基于它们的波函数。
+
+太麻烦了。
+It’s too麻烦.
+
+我回去搞吧。让它给我生成那个。
+I’ll work on it when I get back. Have it generate that for me.
+
+You can.
+你可以。
+
+我得。
+I have to.
+
+Transition has the highest intensity. So this is an example of a brown state.
+跃迁的强度最高。所以这是一个棕色态的例子。
+
+天才啊。
+Genius.
+
+Vertical transition, excited state, from a higher excited state.
+垂直跃迁，激发态，来自更高激发态。
+
+因为谁在第一个。
+Because who came first?
+
+So for this picture, what will what is absorption spectrum look like?
+那么对于这张图，吸收光谱会是什么样的？
+
+We start from zero, vibrational brown state, right? Its wave function look like this. And its excited state potential energy curve look like this.
+我们从零点振动能级开始，对吧？它的波函数是这样的。它的激发态势能曲线是这样的。
+
+And you will find from zero to one this vibrational state. They have a vital wave function overlap. That means you will have zero to one transition with the highest.
+你会发现，从零到一这个范围内是振动态。它们具有重要的波函数重叠。这意味着你会有从零到一的跃迁，具有最高的……
+
+这个是怎么办？
+How is this done?
+
+Right. So that's why we can have those many small peaks.
+对。所以这就是为什么我们能看到这么多小峰。
+
+为什么那个。
+Why is that one…?
+
+And they have a very different intensity.
+而且它们的强度差异很大。
+
+为什么那个。
+Why is that?
+
+That based on the overlap of nucleus.
+这是基于原子核的重叠。
+
+就先处理。
+Just handle it first.
+
+So that is.
+所以就是这样。
+
+我感觉。
+I feel.
+
+Last picture.
+最后一张图。
+
+我感觉我把你的那个东西抢了。先做。
+I think I took your thing from you. Do it first.
+
+Any materials.
+任何材料。
+
+先做。一类材料。线性材料。
+Do it first. A type of material. Linear material.
+
+可以编织。
+Can be woven.
+
+对。
+Right.
+
+That's about it.
+差不多就这些。
+
+差不多。我们这就结束今天。
+About the same. We'll end today's session now.
+
+没啥可讲的呀。
+There's nothing much to say.
+
+There is to consider the factor.
+需要考虑这个因素。
+
+没有特别多可讲的那个。
+There’s not much to say.
+
+There's a third picture. And at last, maybe I'll go all the picture when we produce another very important diagram. And help us to understand the formal physical properties of molecules and its diagnostic diagram.
+还有第三张图。最后，也许等我们画出另一张非常重要的图时，我会把整张图都画出来。并帮助我们理解分子的正式物理性质及其诊断图。
+
+So here you can see how different states, right? At zero it's spin, singulate, brown state, right?
+所以在这里你可以看到不同的状态，对吧？在零点，它是自旋、单态、棕色状态，对吧？
+
+你那个大缸就是按照我们一开始聊的那个大缸，让它成什么。
+Your big tank is just the big tank we originally talked about—what do you want it to be?
+
+T1 has lower energy than S1.
+T1 的能量低于 S1。
+
+那个大缸是不是。
+Isn't that the big tank?
+
+And we can have some other lines here. And it represents the vibrational level. So for each electronic state, we can have different vibrational states, right?
+这里还可以有一些其他谱线。它表示振动能级。所以，对于每个电子态，我们都可以有不同的振动态，对吧？
+
+Vibrational brown state, vibrational intensity. And we can excited, excited, from brown state to excited state. And they show emission from the excited state to brown state. From S1 to S0 is fluorescence.
+振动态棕色状态，振动态强度。我们可以从基态激发到激发态。它们表现出从激发态到基态的发射。从 S1 到 S0 是荧光。
+
+From T1 to S0 is phosphorescence. From S1 to T1 is interstitium fluorescence. So that's the diagnostic diagram it can have its many different formal physical process. The first one is absorption, okay? After you shed light on the molecule, you will excite the molecule from brown state S0 to higher excited state.
+从T1到S0是磷光。从 S1 到 T1 是间质荧光。所以，这就是诊断图，它可能涉及许多不同的形式和物理过程。第一种是吸收，好吗？在分子受到光照射后，分子会从基态 S0 被激发到更高的激发态。
+
+After it comes to a higher excited state, it can end up. You can't radiate it. Okay?
+它进入更高激发态后，可能会最终……你无法让它辐射。明白吗？
+
+它就不会亮了。
+It won't light up anymore.
+
+For example, internal conversion or vibrational relaxation.
+例如，内转换或振动弛豫。
+
+这面墙。
+This wall.
+
+You can excite electron at a higher vibration level, right? And those higher vibration levels.
+你可以将电子激发到更高的振动能级，对吧？以及那些更高的振动能级。
+
+是没错。
+That's right.
+
+就是那个是没错。我现在学一学。
+That one is correct. I’ll study it now.
+
+From brown state.
+从棕色状态。
+
+And that corresponds to vibrational relaxation.
+这对应于振动弛豫。
+
+你以为统计结构就是这样。对。
+You think the statistical structure is like that. Right.
+
+So that is not anything.
+所以那没什么特别的。
+
+没有。小时候怎么是长颈鹿。
+No. When I was little, why was it a giraffe?
+
+图像识别。
+Image recognition.
+
+From.
+从。
+
+那我第二页做成这样。
+Then I’ll make the second page like this.
+
+Internal conversion of this generates.
+这会产生内部转换。
+
+你们不应该写得这么清楚啊。
+You shouldn't have written it so clearly.
+
+Process. No formal.
+过程。没有正式的。
+
+不是。
+No.
+
+就是我现在我发现我修改修改不知道自己在做啥了。
+I mean, now I find myself editing and editing, and I don’t know what I’m doing anymore.
+
+To the S1.
+到 S1。
+
+这第三页到第三页还好。然后我就每一页没修改。
+The third page to the third page is okay. Then I didn’t modify any of the pages.
+
+It can give all the emission. The emission comes out from the S1 to S0 transition. That is a fluorescence.
+它可以给出所有的排放。发射来自 S1 到 S0 的跃迁。那就是荧光。
+
+So fluorescence absorption, they are radiation process. But vibrational relaxation internal conversion interstitium fluorescence, they are all non-radiating process.
+所以，荧光和吸收都是辐射过程。但振动能级弛豫、内转换、间位荧光，都是非辐射过程。
+
+就做做纤维啊。
+Just work on the fibers.
+
+怎么了。
+What’s wrong?
+
+Okay. Only by vibration. It only.
+好的。仅通过振动。它只。
+
+And from S1 to T1.
+以及从 S1 到 T1。
+
+所以我觉得我那个太少了。我就先不加那个了。眉毛啊。
+So I think mine is too little. I’ll leave that out for now. Brows.
+
+它孔向机构是不是导电啊？是否是充电？它孔隙越多越充电效果越好。
+Is the aperture-facing mechanism conductive? Is it charging? The more pores it has, the better the charging effect.
+
+对。LGBT4太差了。
+Right. LGBT4 is too bad.
+
+后面是瞎子。
+The blind guy is behind.
+
+我跟你说了。多刷抖音。找出来好一点的再给我。
+I told you. Watch more Douyin. Find me some better ones.
+
+你看它身形挺高。名字很简单。
+Look, it’s quite tall. The name is simple.
+
+And based on all those processes, we can have a Hashiru sees that the photoemission, whether it is a fluorescence or phosphorescence, can only occur from the lowest excited state of a given multiplicity. So remember, we have different excited states, right? S1, S2, S3.
+基于所有这些过程，我们可以看到，无论是荧光还是磷光，光致发光只能从给定多重态的最低激发态发生。所以请记住，我们有不同的激发态，对吧？S1、S2、S3。
+
+You can have T1, T2, T3. Based on Hashiru's eight indicates that the emission can only occur from the lowest excited state. Only from S1 to S0.
+还可以有 T1、T2、T3。根据哈希鲁的八……表明，发射只能从最低激发态发生。只能从 S1 到 S0。
+
+That is fluorescence. T1 to S0. That is phosphorescence. Why?
+那就是荧光。T1 到 S0。那是磷光。为什么？
+
+Why we cannot have emission from a higher excited state?
+为什么不能从更高激发态发生发射？
+
+物种。
+species.
+
+S2, S3, T2, T3 can be also give the emission? No. Why?
+S2、S3、T2、T3也能产生发射吗？不能。为什么？
+
+The most critical scene, it's a time scale. So we talk about those many different processes, right? Not really difficult, guys.
+最关键的场景是一个时间尺度。所以我们讨论的是许多不同的过程，对吧？大家，这其实不难。
+
+Fluorescence, phosphorescence, interstitium fluorescence. They have different rates.
+荧光、磷光、间质荧光。它们的速率不同。
+
+So they end up all this process in different time scale. For example, absorption process. It's very, very fast process.
+所以，这些过程最终会在不同的时间尺度上完成。例如，吸收过程。这是一个非常非常快的过程。
+
+In the femtosecond time scale. To the power of 1950 seconds. So within one femtosecond, you will have such absorption.
+在飞秒时间尺度下。1950秒的幂。所以在一飞秒内，就会发生这样的吸收。
+
+So how about the internal conversion and vibrational relaxation?
+那么，内转换和振动弛豫呢？
+
+Also very fast. It's in the femtosecond to picosecond. Time scale. And to the 1940 to 10 to the power of 11.
+也非常快。它发生在飞秒到皮秒尺度内。时间尺度。以及从1940到10的11次方。
+
+That is vibrational relaxation and internal conversion time scale. So how about fluorescence?
+这就是振动弛豫和内转换的时间尺度。那么荧光呢？
+
+1940比它都下来。
+1940 came down below it.
+
+So fluorescence is a slower process. Requires a longer time as we already have a large energy gap. That means it needs longer time to end up on such a process.
+所以，荧光是一个较慢的过程。由于我们已经存在较大的能量差，因此需要更长的时间。这意味着它需要更长的时间才能完成这样的过程。
+
+It will have this time scale 10 to the 199 to the 10 to the 197 seconds to have such a fluorescent process. Then imagine we've already excited the electrons. So the higher excited state, it can relax.
+荧光过程需要这样的时间尺度：10的199次方到10的197次方秒。那么，假设我们已经激发了电子。所以，更高的激发态可以弛豫。
+
+The relax to the lowest single excited state. In a very fast time scale, right?
+弛豫到最低单激发态。在非常快的时间尺度内，对吧？
+
+可以。
+Okay.
+
+Femtosecond to picosecond time scale. But if you want the emission from S1 to fluorescence, it's a very slow process compared to vibrational relaxation process, right? Suppose you have excited state as S2.
+飞秒到皮秒的时间尺度。但如果你想从S1态的激发态跃迁到荧光态，与振动弛豫过程相比，这是一个非常缓慢的过程，对吧？假设你有一个激发态 S2。
+
+It will quickly relax. To S1. If it wants to give emission, it is a nanosecond. 10 to the 199.
+它会迅速弛豫。到S1。如果它要发生发射，那是在纳秒尺度上。10 的 199 次方。
+
+Time scale. But it only needs femtosecond to picosecond time. To relax to S1 state. That's why it will choose to first relax to S1 first.
+时间尺度。但它只需要飞秒到皮秒的时间。弛豫到 S1 态。所以它会先选择弛豫到 S1 态。
+
+The people of the emission. At the same scene for T1. T3 to T2, T2 to T1, very fast.
+发射的人。在 T1 的同一场景中。T3 到 T2，T2 到 T1，非常快。
+
+But T1 to S0, very slow. So it will relax to T1 state and give out the emission. So that's a Hashiru.
+但从 T1 到 S0 非常缓慢。所以它会弛豫到 T1 态并发出发射光。所以那就是一个哈希鲁。
+
+The photoemission always occurs from the lowest excited state. So based on the different time scale, dynamics of different processes.
+光电子发射始终发生在最低激发态。所以，这取决于不同过程的动态时间和时间尺度。
+
+这个。
+This.
+
+And for those processes, we talk about only this 3 at absorption, phosphorescence, fluorescence. They are radiative processes. All other processes, internal conversion, vibrational relaxation, interstitium fluorescence, they are non-radiating processes.
+对于这些过程，我们只讨论这三种：吸收、磷光和荧光。它们是辐射过程。所有其他过程，包括内转换、振动弛豫、间质荧光，都是非辐射过程。
+
+So that's a summary of our talk.
+以上就是我们这次讲座的总结。
+
+How much for your paper?
+你的论文多少钱？
+
+Paper, right? Not all paper. See the paper and vibration.
+论文，对吧？不是所有论文。看论文和振动。
+
+And I want to see that one.
+我想看看那个。
+
+那个交给你。我也要交给你。
+That one is up to you. I want to hand it to you too.
+
+They say
+他们说
+
+你们都下来啊。你这点都下来啊。等一下我自己看看。
+You all come down. You’ve come down this far, too. Wait a moment. I’ll take a look myself.
+
+我忘了。
+I forgot.
+
+That's all of my lectures. So
+那就是我所有的讲座。所以……
+
+I'll start my lecture after 5 minutes. Take a 5-minute break.
+我将在5分钟后开始讲课。休息5分钟。
+
+好啊。你想说咱们那些电脑还要这样吗？说了。它那个表现都要框在那个家里的电脑上。
+Okay. You mean our computers still need to be like this? I said. Its performance needs to be confined to that home computer.
+
+这边还有一个电脑。是的。不动了。
+There’s another computer here. Yes. It’s not moving anymore.
+
+嗯？我说你居然还有一个电脑。不动了。不动了。
+Huh? I said, you居然 still have another computer. It’s not moving anymore. It’s not moving anymore.
+
+什么电脑吗？还是AI啊？说啥这么听不见。
+What computer? Or AI? What are you saying? I can barely hear you.
+
+他不是说那个我们那个在你家的电脑上吗？我说你怎么还有一个电脑。 我说两样不很正常吗？
+Didn't he say it was on the computer in your house? I said, how come you still have another computer? I said, isn’t it normal to have two?
+
+因为我记着拿两个。
+Because I remembered to get two.
+
+还有两个。你两个字手动不完是吗？真是的。
+There are also two others. You can’t finish typing those two words manually, right? Really.
+
+一点都。你那暂停吧。暂停。
+Not at all. You can pause that. Pause.
+
+— 由 LecSync 生成

@@ -1,0 +1,867 @@
+有机场效应晶体管与材料工程
+日期: 2026年11月19日 19:25
+语言: 英语 → 中文
+时长: 1小时6分24秒
+
+# AI 纪要
+
+本讲座系统介绍有机场效应晶体管（OFET）的器件结构、工作机制与关键参数（迁移率、阈值电压、开关比），并讲解有机半导体p型/n型的HOMO-LUMO原理。核心内容为提升电荷载流子迁移率的三大策略：晶体工程（调控分子堆积）、分子轨道工程（不改变堆积而改变轨道重叠）与界面工程（自组装单分子层修饰介电层表面），最后介绍基于OFET的化学与生物传感器功能化应用。讲座末尾通知将进行课程评价和随堂测验。
+## 考试速览
+
+- 有机场效应晶体管器件结构、工作机制、关键参数；p型/n型有机半导体与HOMO/LUMO；晶体工程、分子轨道工程、界面工程三大策略；OFET传感器应用
+- 随堂测验（quiz）
+- 讲座结束后进行课程评价，随后进行随堂测验；需分开就坐，尽量坐前排，有两位助教协助
+## 对我重要的
+
+- 考点: 掌握OFET三种器件类型（OLED/OPV/OFET）及各自能量转换方向
+- 考点: 掌握OFET基本结构（半导体+漏/源/栅三电极+介电层）与开关工作原理
+- 考点: 区分输出曲线与转移曲线的测量方式，理解线性区与饱和区
+- 考点: 掌握迁移率μ、阈值电压VTH、开关比（>10⁶）等关键参数
+- 考点: 理解p型/n型与HOMO/LUMO的关系，以及空穴的本质
+- 考点: 掌握提升迁移率的三大策略：晶体工程、分子轨道工程、界面工程
+- 考点: 理解重组能λ与电荷转移积分t对电子转移速率的影响
+- 考点: 了解SAM结构要求（锚定基团、长烷基链n>10、末端功能基团）及表面能对成膜的影响
+- 考点: 了解OFET化学/生物传感器原理：功能基团选择性反应将化学事件转为电信号
+- 待办: 参加课程评价
+- 待办: 参加随堂测验（quiz），分开就坐，尽量坐前排
+## 讨论题
+
+- 我们该如何使用这些晶体管？
+- 主讲人的答案: 通过两种模式进行表征：一是输出特性曲线，即在固定栅极电压的情况下，逐步增加漏源电压并测量漏极电流；二是转移特性曲线。
+- 为什么虽然形成了良好的场效应，但载流子迁移率仍然很低？
+- 主讲人的答案: 因为这是未封装的半导体，工作时会产生阴离子，阴离子与表面氢反应并离开氧化层，导致电荷转移停止，从而使电流和迁移率变得很低。
+## 有机半导体与OFET概述
+
+- 有机半导体器件主要有三种基本类型：有机发光二极管（OLED）将电转化为光；有机光伏（OPV）将光转化为电；有机场效应晶体管（OFET）主要调控电信号。
+> there are three basic types of devices, so including organic light-emitting diodes, OLED; organic photovoltaics, solar cells, OPV; and the third one, organic field-effect transistors, OFETs
+- 该领域是涉及材料、物理、化学的交叉学科，学生背景多样（化学、材料、物理、生物等）。
+> this is a field of interdisciplinary field involving materials, physics, chemistry
+- 场效应晶体管本质上是一个开关：通过施加在栅极上的电压来控制漏极与源极之间的电流。
+> field-effect transistor basically is a switch which can use the current, the voltage applied on the gate to control the current between drain and the source
+- FET是集成电路的基本单元，CPU中集成了数十亿个FET；芯片所说的3纳米、7纳米指FET沟道长度。
+> this 3-nanometer indicates the length of the channel in a field-effect transistor
+## OFET器件结构与工作机制
+
+- OFET基本结构包括有机半导体、三个电极（漏极、源极、栅极）以及介电层，是轻量印刷电子电路的基本单元（如可穿戴电子）。
+> for organic field-effect transistor, it includes organic semiconductor and three electrodes. Drain, source, and gate. And also a dielectric layer
+- 不施加栅压时仅加漏源电压，电流很低，为关态；施加栅源电压后介电层起电容器作用，在半导体/介电层界面感应电荷，同时加漏源电压则得到高电流，为开态。
+> if we apply a voltage between gate and the source, so this dielectric layer functions as a capacitor
+- 开态与关态电流之比（开关比）通常应高于100万，以保证陡峭的开关；同时需要高电荷传输速度以实现快速开关。
+> this ratio between on current and off current, typically should be higher than 1 million
+- 根据电极位置，器件结构分为底栅/顶栅，以及底接触/顶接触（C表示漏源接触）。
+> We have bottom gate, or top gate device. We can also put drain and source on the top or the bottom
+## OFET表征与关键参数
+
+- 输出曲线：固定栅压，逐步扫描漏源电压，测量漏极电流；不同栅压得到不同曲线。
+> For the output curve, that means we need to fix the voltage on the gate
+- 转移曲线：固定漏源电压，改变栅压，测量漏极电流；纵轴通常为对数坐标，电流随栅压急剧增大。
+> you fix the voltage between drain and the source. And you change the voltage on the gate
+- 最重要的参数是电荷载流子迁移率μ，表示电荷在漏源间移动的快慢，越大越好；硅的场效应迁移率高于1000。
+> the most important most important parameter for the field-effect transistor is μ. Charge carrier mobility
+- 有机半导体FET迁移率目前可高于1 cm²/(V·s)，与非晶硅相当，足以驱动LCD或OLED的背板电路。
+> can be higher than 1 centimeter square per volt per second. This is enough. It's comparable to the amorphous silicon
+- 输出曲线分两个区：漏源电压小于栅压为线性区；漏源电压大于栅压后电流不再增大为饱和区，两区遵循不同方程。
+> this region called a linear region. If the drain and and if the voltage between drain and the source larger than the voltage on the gate
+- 阈值电压VTH：由于界面陷阱态，需要略高于零的栅压才能开启晶体管，即栅压须高于阈值电压。
+> only when the gate voltage higher than VTH, this transistor is up is up
+## p型与n型有机半导体及HOMO/LUMO
+
+- p型半导体容易从中性变为正离子（失去电子）；n型半导体容易接受电子变为负离子。
+> P type semiconductor are easily from neutral to pentane. They easily lose electron to become the pentane
+- HOMO为最高占据分子轨道，LUMO为最低未占据分子轨道；p型失电子来自HOMO，n型得电子进入LUMO。
+> the highest molecular orbital that is occupied by electron is known as the highest occupied molecular orbital in short homo HOMO
+- 若分子HOMO较高且LUMO较低，可同时表现p型和n型，称为双极性半导体。
+> that molecule can function as a N bipolar semiconductor. That means both P type and N type
+- 空穴并非真实移动的粒子：真正移动的仍是电子，电子跳跃使相邻分子带正电，看起来像正电荷在移动，故称空穴。
+> the particle the micro particle that move is still electron. Is still electron
+p型与n型有机半导体对比
+- p型 — 得失电子：易失电子变正离子；相关轨道：HOMO；载流子：空穴（正电）；典型材料：并五苯
+- n型 — 得失电子：易得电子变负离子；相关轨道：LUMO；载流子：电子（负电）；典型材料：四氮并五苯衍生物
+- 双极性 — 得失电子：既可失电子也可得电子；相关轨道：HOMO高、LUMO低；载流子：电子与空穴
+## 晶体工程：调控分子堆积
+
+- 并五苯（pentacene，五个苯环稠合）是p型有机半导体的基准材料；少一个环为并四苯（tetracene）。
+> This is a benchmark of P type organic semiconductor in the field-effect transistors. It's called pentasin. Penta means five
+- 要获得n型半导体需引入吸电子基团（如羰基）；将并五苯衍生物的碳替换为氮可降低LUMO能级。
+> if you replace carbon with nitrogen so this will lower the LUMO energy level
+- 实验表明：两个氮不够，四个氮可有效将p型转为n型，六个氮使LUMO过低而不稳定（甚至能氧化水）；氮放在中心比放在两端更有效。
+> four nitrogen is based if we want to compare if we want to convert P type pentasin derivative into N type
+- 合成工艺的微小改动（如锂试剂改为格氏试剂、最后一步避光）可减少杂质，显著提高产率和器件性能。
+> we change the from lithium reagent to green reagent
+- 电荷载流子迁移率正比于电子转移速率，后者取决于两个参数：重组能λ和电荷转移积分t。
+> This charge carrier mobility mute is proportional to electron transfer rate
+- 重组能λ：分子失电子后保持中性构型时能量较高，弛豫到阳离子最稳定构型所释放的能量差。
+> this energy difference is rate on managing energy is a rate on managing energy
+- 电荷转移积分t与相邻分子π轨道重叠有关；由于波函数符号，正负符号重叠会抵消，平移半个环可使t降为零，再平移又出现次高值。
+> if you move it by about half a brick relative to each other it reaches to zero
+- 典型堆积模式包括人字形（herringbone，靠H-π相互作用）、π-π堆叠（间距约3.4 Å）、层状一维π堆叠和二维砖砌排列。
+> they can have this called Heiban mode so basically it has H2 phase interaction
+- 晶体工程策略：用大位阻基团并通过碳碳三键与并五苯骨架隔开，可将人字形堆积转变为一维柱状或二维砖砌的面对面堆积。
+> the packing pentesting converted from Heiban to face to face could be in a one-dimensional column or two-dimensional brickwork arrangement
+- 在四氮并五苯（n型）上引入氟和氯：氯因有3d轨道参与LUMO，比氟更有效降低LUMO并给出更小重组能；四氯取代物迁移率约15 cm²/(V·s)，优于母体约7。
+> four chlorine gives the electron mobility about 15 centimeter per volt per second
+提升迁移率的三大策略
+- 晶体工程 — 作用对象：分子堆积；关键手段：大位阻基团+碳碳三键隔开；效果：人字形转为面对面堆积
+- 分子轨道工程 — 作用对象：分子轨道；关键手段：碳换氮改变π电子数；效果：转移积分32→51，迁移率翻倍
+- 界面工程 — 作用对象：介电层表面；关键手段：磷酸类SAM修饰；效果：有序成膜，溶液法高迁移率
+## 分子轨道工程与界面工程
+
+- 分子轨道工程：不改变分子堆积，仅将骨架中碳替换为氮（增加孤对电子，π电子数由22变为24），改变HOMO几何形状从而改变电荷转移积分。
+> the carbon becomes nitrogen so as a result it has two more pi electrons
+- 该策略使电荷转移积分由并五苯的32提高到51，迁移率约翻倍。
+> Very different for pentasin here 32 but our compound 51
+- 自组装单分子层（SAM）由表面活性锚定基团、长烷基链和末端功能基团组成；烷基链CH2数大于10才能形成有序单分子层。
+> if the n larger than 10 this model there would be ordered
+- 直接用OTMS修饰表面会导致咖啡环效应，成膜差；表面能过低溶液无法铺展。
+> looks like this called coffee ring just like one drop of coffee on table
+- 含OH的高表面能表面虽能铺展成膜，但n型半导体工作时生成的阴离子会与表面氢反应，导致电荷传输停止、迁移率低。
+> This anion reacts with the surface hydrogen, uh, to leave the oxide
+- 课题组自主设计磷酸类SAM（含氧和环己基以提高表面能），可简易纯化，形成有序单分子层，获得高迁移率的溶液加工p型和n型器件。
+> we use phosphoric acid compared with silent. This is easily purified
+- 表面能可通过接触角（水和二碘甲烷法）测量计算；有序单分子层上可形成排列良好的纤维状薄膜。
+> surface energy can be measured by measuring the content angle of the standard equation
+- 同一分子在不同末端基团表面上可形成不同晶型/堆积，迁移率差异显著（9 vs 28 cm²/(V·s)）。
+> Nine centimeters square volts per second or 28
+## 功能化与OFET传感器
+
+- 意外合成的双螺旋手性分子在晶体中仍形成二维砖砌堆积，层内为π-π作用，层间靠烷基链范德华作用。
+> it forms this, uh, called double hazy
+- 该分子间存在空隙，可引入多种功能基团而不改变π-π堆积，为传感器功能化提供平台（已获得约8种晶体结构支持）。
+> this unique brickwork arrangement of this compound can comorbidate a variety of functional groups
+- 用提拉法可获得单分子层；单分子层OFET的活性沟道直接暴露于环境，灵敏度最高。
+> if this semiconductor is as thin as one monolayer that means active channel is exposed to the environment
+- 微流控沟道比半导体沟道窄，确保水不接触金电极；分析物与功能基团作用将化学事件转为电信号。
+> we make sure that this microfluid channel is, uh, narrower than the, uh, semiconductor channel
+- TMS保护的羟基可被氟离子选择性脱保护，实现氟离子检测；活性酯与伯/仲胺反应而不与叔胺反应，可区分胺的类型。
+> fluoride selectively react with this group
+- 生物素功能化表面可选择性结合目标蛋白，检测浓度低至36 pmol；蛋白带负电，起额外栅压作用，在p型半导体中感应更多正电荷使电流增大。
+> we can measure the you know this concentration as low as 36 picomol
+- 气体传感器用功能化与非功能化分子混合单分子层，可检测氨气至10 ppb、二氧化氮至1 ppm。
+> we can detect ammonium to 10 ppb or uh nitrogen uh nitrogen ox dioxide to 1 ppm
+---
+*本文由 AI 根据录音自动生成*
+# Sync AI
+
+边听边标出重点和待办提醒
+## 有机电子器件与材料概述
+
+- 有机半导体器件主要包括三种基本类型：有机发光二极管 (OLED)、有机光伏电池 (OPV) 以及有机场效应晶体管 (OFETs)。
+- OLED 用于电能向光能转换，OPV 用于光能向电能转换，而 OFETs 主要用于调制电信号。
+- 该领域是一个涉及材料、物理和化学的跨学科领域。
+## 有机场效应晶体管 (OFETs) 基础
+
+- 有机场效应晶体管是一种通过在栅极 (gate) 上施加电压来控制漏极 (drain) 与源极 (source) 之间电流的开关器件。
+- 芯片工艺中的纳米级尺寸（如 3nm 或 7nm）实际上是指场效应晶体管中的沟道长度。
+- OFET 的基本结构包括有机半导体、三个电极（漏极、源极、栅极）以及一个电介质层。
+- 在 OFET 工作过程中，电介质层充当电容器，通过栅极与源极间的电压在半导体与电介质界面感应电荷，从而实现从关态（低电流）到开态（高电流）的切换；其开态与关态电流比通常应大于 10^6。
+- 根据电极位置的不同，OFET 可分为底栅顶栅结构，以及底接触顶接触结构。
+- OFET 的特性表征有两种模式：输出特性曲线（固定栅极电压，扫描漏源电压）和转移特性曲线（固定漏源电压，扫描栅极电压）。
+- 载流子迁移率 (μ) 是场效应晶体管最重要的参数，它衡量电荷在漏极与源极之间移动的速度，数值越大越好。
+- 硅基 OFET 的场效应迁移率通常高于 1000。
+- 驱动 LCD 或 OLED 显示屏所需的背板电路通常基于非晶硅，而有机半导体 OFET 的迁移率若能达到 1 cm²/Vs 以上，即可与非晶硅相媲美。
+- OFET 的输出特性曲线分为线性区和饱和区：在线性区，漏源电压小于栅极电压；在饱和区，漏源电压大于栅极电压，此时电流不再随漏源电压增加而增加。
+- 在线性区，漏极电流与栅极电压呈平方关系；而在饱和区，漏极电流与栅极电压呈线性关系。
+- 阈值电压 (Vth) 是指使晶体管导通所需的最小栅极电压；由于界面存在陷阱态 (trap states) 会捕获电荷，实际导通所需的电压需高于此阈值。
+## 有机半导体类型与载流子机制
+
+- 有机半导体分为 P 型和 N 型：P 型半导体易失去电子变为阳离子，而 N 型半导体易接受电子变为阴离子。
+- HOMO 是指被电子占据的最高分子轨道，LUMO 是指能量最低的空轨道。
+- P 型半导体的电子从 HOMO 轨道离开，N 型半导体的电子进入 LUMO 轨道。
+- 若分子的 HOMO 能级较高且 LUMO 能级较低，则该分子可表现为双极性 (bipolar) 半导体，兼具 P 型和 N 型特性。
+- 空穴 (hole) 是 P 型半导体中的载流子，其本质是电子移动后留下的正电荷效应，实际移动的微观粒子仍是电子。
+- Pentacene（五苯）及其衍生物是 OFETs 中典型的 P 型有机半导体，其结构由五个稠合苯环组成。
+- 通过引入吸电子基团（如羰基）可以使分子更容易接受电子，从而将其转变为 N 型半导体。
+- 通过在分子结构中用电负性更强的氮原子取代碳原子，可以降低 LUMO 能级，从而实现从 P 型向 N 型的转变。
+- 在将 P 型 Pentacene 衍生物转变为 N 型的过程中，研究发现将四个氮原子置于分子中心比置于末端环更能有效降低 LUMO 能级。
+- 虽然增加氮原子数量可以进一步降低 LUMO 能级，但过多的氮原子（如六个）会导致分子不稳定，甚至会氧化水。
+- 通过将合成方法中的锂试剂改为格氏试剂 (Grignard reagent)，并在避光条件下进行最后一步反应，可以提高产率并显著提升器件性能。
+- 改进合成工艺的主要目的是减少杂质，从而获得更高的载流子迁移率。
+- 载流子迁移率 (charge carrier mobility) 是 OFETs 最重要的参数，极微量的杂质也会对其产生巨大影响。
+- 载流子迁移率与电子转移速率成正比，而电子转移速率取决于重组能 (reorganization energy, lambda) 和电荷转移积分 (charge transfer integral, t)。
+- 重组能是指分子在失去或获得电子（从中性态变为离子态）后，由于结构构象变化而产生的能量差。
+- 电荷转移积分反映了分子间 pi 轨道的重叠程度，决定了电荷在分子间的转移效率；其数值随分子间相对位移的变化而波动，并非随重叠面积减小而单调递减。
+- 在降低 LUMO 能级方面，氯 (Cl) 比氟 (F) 更有效，因为氯具有 3D 轨道并能贡献于 LUMO 轨道。
+- 氯原子不仅能更有效地降低 LUMO 能级，还能提供更小的重组能 (reorganization energy)，更有利于半导体性能。
+- 含有四个氯原子的化合物表现出优异的性能，其电子迁移率约为 15 cm²/Vs，显著高于原始化合物的 7 cm²/Vs，是目前性能最好的 N 型有机场效应晶体管材料之一。
+- 分子轨道工程 (molecular orbital engineering) 是一种在不改变分子堆积模式的前提下，通过改变分子轨道几何形状（如通过引入氮原子改变 $\pi$ 电子数量）来调控电荷转移积分 (charge transfer integral) 的策略。
+- 通过分子轨道工程，即使分子堆积方式保持不变，也可以通过改变轨道重叠情况使电荷转移积分从 32 提升至 51，从而使载流子迁移率几乎翻倍。
+- 波函数的符号决定了电荷转移积分的大小：为了获得高电荷转移积分，需要相同符号的波函数发生重叠，若正负符号重叠则会相互抵消。
+- 有机半导体的典型堆积模式包括 Herringbone (人字形) 模式、Face-to-face (面对面) 模式、以及一维或二维的高堆叠模式。
+- 晶体工程 (Crystal Engineering) 指通过改变分子结构（如引入大体积基团或使用碳碳三键连接）来调控分子堆积方式，从而优化电荷传输性能。
+- 在 Pentacene 衍生物中，通过引入异丙基 (isopropyl) 等基团可以改变其堆积模式，使其成为性能优异的 P 型有机半导体。
+- 在 N 型半导体设计中，引入氟 (F) 或氯 (Cl) 原子有两个目的：一是进一步降低 LUMO 能级以增强阴离子的稳定性，二是优化分子堆积模式。
+## 自组装单分子层 (SAMs) 与表面改性
+
+- 自组装单分子层 (SAMs) 是由具有锚定基团 (anchoring group)、长烷基链和末端官能团 (terminal functional group) 的分子在表面形成的有序薄层。
+- SAMs 的结构组成包括：用于与表面反应的锚定基团（如硅烷基、硫醇基或磷酸基）、决定表面性质的末端官能团，以及中间用于形成有序结构的烷基链。
+- 常见的 SAMs 类型包括：在金等金属表面使用的硫醇基 (thiol)；在二氧化硅或氧化铝表面使用的硅烷基 (silane)；以及在金属氧化物表面使用的磷酸基 (phosphoric acid)。
+- 烷基链的长度决定了 SAMs 的有序性：当烷基链中 $	ext{CH}_2$ 的数量 $n > 10$ 时，可以形成有序的单分子层；若 $n < 10$，则难以形成稳定的有序层。
+- 表面能会影响溶液加工的效果：低表面能会导致溶液在表面无法铺展而形成“咖啡环效应” (coffee ring effect)，导致晶体分布不均；高表面能（如具有 $	ext{OH}$ 基团的表面）则有利于溶液铺展，形成均匀的薄膜。
+- 晶粒尺寸越大，迁移率通常越高，因为电荷传输过程会受到晶界（grain boundaries）的限制。
+- 通过改变末端官能团，不仅可以调节表面能，还可以控制相同类型半导体（如 N 型或 P 型聚合物）的晶体结构和分子堆叠方式。
+- 分子堆叠方式（molecular packing）的变化会显著影响电荷载流子迁移率，即使是同一种分子，不同的晶体结构也会导致迁移率产生巨大差异。
+- 提升载流子迁移率有两种主要策略：一是分子工程 (molecular engineering)，通过调节有机半导体的分子堆叠方式；二是界面工程 (interface engineering)，通过优化电介质层与半导体界面处的性质。
+- 界面工程至关重要，因为在 OFET 中，电荷载流子的传输发生在电介质层上方的半导体界面区域，因此电介质表面的改性对器件性能起着决定性作用。
+- 表面改性对提升载流子迁移率至关重要，通过设计特定的分子结构可以优化表面性质。
+- 研究人员设计了一种含有磷酸基 (phosphoric acid)、氧原子和环己基 (cyclohexyl group) 的分子，相比于商业硅烷类分子，该分子更易纯化，且能有效提高表面能。
+- 表面能可以通过测量标准溶液（如水或二碘甲烷）的接触角来计算。
+- 有序的单分子层是获得高迁移率的关键；若表面本身处于无序状态，即使表面能较高，沉积在其上的分子也会呈现无序排列，导致迁移率降低。
+- 烷基链的长度会影响单分子层的有序性，过短的烷基链会导致单分子层无序。
+## 半导体功能化与传感器应用
+
+- OFET 的第三种应用策略是半导体功能化，使其不仅作为开关，还可以作为化学传感器、生物传感器或光电存储器。
+- 通过合成手性分子（chiral molecule），可以利用其扭曲的晶体结构来开发特定功能的材料。
+- 尽管分子具有弯曲结构，但其在晶体中仍能形成典型的二维砖块堆叠模式 (2D brickwork arrangement)。
+- 该材料的层间作用力主要由烷基链之间的范德华力 (van der Waals interaction) 提供，而层内则通过 $\pi-\pi$ 相互作用维持。
+- 在半导体中引入不同的官能团是实现传感器功能（将化学事件转化为电信号）的关键，且理想情况下这些官能团不应改变原有的 $\pi-\pi$ 堆叠模式。
+- 通过实验验证，在分子中引入不同的官能团（如酯基或羟基）不会改变其独特的二维砖块堆叠模式，这为开发多种功能化半导体提供了平台。
+- 传感器器件通过在有机半导体通道上构建微流控通道实现，通过确保微流控通道窄于半导体通道，可防止水接触金电极。
+- 利用 TMS 保护的羟基可以实现对氟离子的选择性检测，而活性酯基则能区分伯胺、仲胺与叔胺。
+- 引入生物素 (biotin) 官能团可以使器件选择性地与亲和素 (avidin) 蛋白结合。
+- 通过生物素官能团实现的蛋白质检测具有极高的选择性，且检测限可低至 36 pmol。
+- 电流增加的原因是带负电的蛋白质在与生物素选择性结合并固定在表面后，起到了额外栅极电压的作用，从而在 P 型半导体中感应出正电荷。
+- 通过将功能化与未功能化的 HVP 混合形成单分子层，可以构建气体传感器，由于活性通道直接暴露于环境，这种单分子层结构能提供极高的灵敏度。
+- 该气体传感器能够检测浓度低至 10 ppb 的铵离子以及 1 ppm 的二氧化氮。
+## 有机晶体管分子工程策略总结
+
+- 有机晶体管的分子工程主要包含三种策略：晶体工程、分子轨道工程（旨在优化轨道堆叠，这是最重要的环节）以及利用自组装单分子层进行界面工程。
+- 在界面工程中，可以使用磷酸来修饰金属氧化物表面。
+- 通过半导体功能化，可以开发基于 OFET 的化学和生物传感器。
+## 课程评估与测验安排
+
+- 即将进行课程评估以及与之前形式相同的测验
+- 学生需在测验前重新整理座位，尽量分开坐并靠近前排
+## 待办事项
+
+- 学生需在测验前重新整理座位，尽量分开坐并靠近前排
+
+---
+
+加钱是你变强，好吧。
+Adding money makes you stronger, okay.
+
+I need the money; would it make you powerful?
+我需要这笔钱；它会让你变得强大吗？
+
+No.
+不。
+
+The organic electronic devices and materials. So I think she mentioned that there are actually four organic semiconductors. There are three types: three basic types of devices, so including organic light-emitting diodes, OLED; organic photovoltaics, solar cells, OPV; and the third one, organic field-effect transistors, OFETs.
+有机电子器件和材料。所以我想她提到过，实际上有四种有机半导体。有三种：三种基本类型的器件，包括有机发光二极管，即OLED；有机光伏器件，即太阳能电池，OPV；第三种是有机场效应晶体管，即OFET。
+
+Okay, Professor Wen, focus on the organic light-emitting diodes, right? Which can convert electricity to light. Solar cell, of course, converts light into electricity.
+好的，文教授，重点讲一下有机发光二极管，好吗？它可以将电能转化为光。太阳能电池当然能把光转化为电能。
+
+And organic field-effect transistors mainly about electricity. Okay, so how to modulate electronic signals. Okay, so this is a field of interdisciplinary field involving materials, physics, chemistry.
+而有机场效应晶体管主要涉及电学。好的，那么如何调制电子信号呢？好的，这是一个涉及材料、物理和化学的跨学科领域。
+
+So I know that you may have different backgrounds. So how many of you are from chemistry background? For your undergraduate study, please raise your hand if you are from chemistry department.
+我知道你们可能有不同的背景。那么，你们当中有多少人有化学背景？在本科阶段，请从化学系毕业的同学举手。
+
+For undergraduate study, how about any materials departments? And physics, please raise your hand.
+本科阶段，材料系的有多少人？物理系的同学请举手。
+
+Oh, still more than half have never raised your hand. So what's your major? Biology?
+哦，仍然有一半以上的人从来没有举手。那你们的专业是什么？生物学？
+
+Physics.
+物理。
+
+Okay, anyway, okay, so organic field-effect transistors. So let's focus on field-effect transistor first. Okay, field-effect transistor basically is a switch which can use the current, the voltage applied on the gate to control the current between drain and the source.
+好吧，不管怎样，好，那么，有机场效应晶体管。那么，我们先重点讲场效应晶体管。好的，场效应晶体管基本上是一种开关，它可以通过施加在栅极上的电流或电压来控制漏极和源极之间的电流。
+
+So field-effect transistor is a basic unit in the integrated electronic circuits. Think about the CPU in your computer. It integrates billions of field-effect transistors.
+所以，场效应晶体管是集成电路中的基本单元。想想你电脑里的 CPU。它集成了数十亿个场效应晶体管。
+
+I believe you learned from the news from social media and talking about 7-nanometer, 3-nanometer, right? And what does that mean? 3-nanometer, 7-nanometer. When we talk about chips, the chips for cell phones, right?
+我想你们从新闻和社交媒体上听说过7纳米、3纳米，对吧？那是什么意思？3纳米，7纳米。说到芯片，就是手机用的芯片，对吧？
+
+We say the best one right now, 3-nanometer. What does that mean, 3-nanometer? Actually, this 3-nanometer indicates the length of the channel in a field-effect transistor.
+我们说现在最好的是3纳米。3纳米是什么意思？实际上，这个3纳米指的是场效应晶体管中沟道的长度。
+
+Of course, for that, the CPU you use right now, that one is based on silicon. But here we are talking about using organic semiconductors to replace silicon. Okay, so this is a basic structure. So for organic field-effect transistor, it includes organic semiconductor and three electrodes.
+当然，你目前使用的 CPU 是基于硅的。但这里我们讨论的是用有机半导体取代硅。好的，这是一个基本结构。因此，有机场效应晶体管包括有机半导体和三个电极。
+
+Drain, source, and gate. And also a dielectric layer. Okay, so they are basic units in the light, this very lightweight, printed electronic circuits.
+漏极、源极和栅极。还有一个介电层。好的，它们是这种非常轻薄的印刷电子电路中的基本单元。
+
+Okay, for the, for example, for the wearable electronics. So if we do not apply the voltage on the gate, only apply voltage between drain and the source, organic semiconductor typically at this moment, it should very low current. We say this is off state. And if we apply a voltage between gate and the source, so this dielectric layer functions as a capacitor.
+好的，比如可穿戴电子设备。所以，如果我们不给栅极施加电压，只在漏极和源极之间施加电压，那么此时有机半导体的电流通常应该非常低。我们称这是关断状态。如果我们对栅极和源极之间施加电压，那么这层电介质就会起到电容器的作用。
+
+Capacitor. So the charge will be inducted through the interface between semiconductor and dielectric layer. And if, at the same time, if you apply a voltage between drain and the source, you will get a much higher current. Okay, and this is on current. This is on current. Therefore, you can see that the field-effect transistor basically is a switch. That use the voltage on gate to control the current between drain and the source. Okay, and this ratio between on current and off current, typically should be higher than 1 million.
+电容器。所以，电荷会通过半导体与介电层之间的界面感应出来。同时，如果在漏极和源极之间施加电压，就会得到高得多的电流。好的，这就是电流。这是开启电流。因此，你可以看到，场效应晶体管基本上就是一个开关。它利用栅极上的电压来控制漏极和源极之间的电流。好的，导通电流与截止电流之间的比值通常应高于100万。
+
+So that you can have a very sharp turn on and turn off. You also want a very high speed of the charge transfer between drain and the source. Okay, this will make sure that this switch can switch very fast, very fast. Okay, so then let's take a look at some very basic aspects of the OFETs.
+这样你就可以实现非常陡峭的导通和关断。你还希望漏极和源极之间的电荷传输速度非常快。好的，这能确保这个开关能够非常快地切换，非常快。好的，那么我们来看一下OFET的一些非常基础的方面。
+
+So the device structure depends on where we put the electrodes. We can have for the gate, we can put the gate at the bottom, or put the top. We have bottom gate, or top gate device.
+器件结构取决于电极的位置。对于栅极，我们可以把它放在底部，也可以放在顶部。我们有底部栅极器件或顶部栅极器件。
+
+We can also put drain and source on the top or the bottom. So here we use C to indicate the contact, okay, drain and source contact. So if the contact on the bottom so it's called bottom gate, bottom contact device. So look at this. This drain and source is behind actually is below the organic semiconductors.
+我们也可以把漏极和源极放在顶部或底部。所以这里用 C 表示接触区，也就是漏极和源极接触区。所以，如果接触区在底部，就称为底部栅极，也就是底部接触器件。所以看一下这个。这个漏极和源极实际上位于有机半导体下方。
+
+This one is drain and source above the organic semiconductors. So this is top contact. Bottom gate, top contact device. Okay, and how can we how do we use the transistors?
+这个是有机半导体上方的漏极和源极。所以这是顶部接触。底部栅极、顶部接触器件。好的，那么我们该如何使用这些晶体管呢？
+
+Or how can we characterize the transistors? So basically, we use two OFETs can work in two modes. One is called transfer of the output curve. The other is transfer curve. For the output curve, that means we need to fix the voltage on the gate.
+或者我们如何表征这些晶体管？所以基本上，我们使用两个 OFET，它们可以工作在两种模式下。一种称为输出曲线的转移。另一个是转移曲线。对于输出特性曲线，这意味着我们需要固定栅极电压。
+
+Okay, for example, here is one. In this case, we use a high gate voltage. But the but during when you measure this curve, the voltage of gate is fixed.
+好的，比如这里有一个。在这种情况下，我们使用高栅极电压。但在测量这条曲线时，栅极电压是固定的。
+
+Okay, and then you just sweep the drain the voltage between drain and the source. Okay, between drain and the source. So you just increase this voltage step by step.
+好的，然后你只需扫描漏极……源极与漏极之间的电压。好的，栅极和源极之间。所以你只需逐步升高这个电压。
+
+Just increase this with a small increment. And then you can get the current. This is current. Drain current.
+只需以较小的增量增加这个电压。然后你就可以得到电流。这是电流。漏极电流。
+
+Current measured from the drain electrode. This is drain current. So with different gate voltage, for example, here 0 volt, 5 volt, 10 volt, 15 volt, okay, in this way you can get the different curves.
+从漏极端测量的电流。这是漏极电流。所以，对于不同的栅极电压，例如这里分别是0伏、5伏、10伏、15伏，好，这样你就可以得到不同的曲线。
+
+This called output curve. Another way is that you fix the voltage between drain and the source. And you change the voltage on the gate.
+这叫输出特性曲线。另一种方法是固定漏极和源极之间的电压。然后改变栅极上的电压。
+
+Okay, and then you can get the current on the drain. Actually, I said with the increase of the drain current, the gate voltage this drain current will increase dramatically. Therefore, this y-axis right now is a lot scale. Actually, the log scale. Okay, so this called transfer IV curve.
+好的，然后你就可以得到漏极电流。实际上，我说过，随着漏极电流的增加，栅极电压……这个漏极电流会急剧增加。因此，现在这个 y 轴是放大比例。实际上是对数刻度。好的，这叫转移 IV 曲线。
+
+Transfer IV curve. Okay, so the most important most important parameter for the field-effect transistor is μ. Charge carrier mobility. Charge carrier mobility. So this mobility indicates how fast the charge can move between drain and the source.
+转移 IV 曲线。好的，场效应晶体管最重要的参数是 μ，也就是载流子迁移率。载流子迁移率。所以，这种迁移率表示电荷在漏极和源极之间移动的速度有多快。
+
+Okay, the larger the better. For example, for the silicon OFETs, the mobility of silicon is a CPU in your computer. This mobility, field-effect mobility, is higher than 1,000. Higher than 1,000.
+好的，数值越大越好。例如，对于硅基场效应晶体管，硅的迁移率就像你电脑里的 CPU。这种迁移率，也就是场效应迁移率，高于1,000。高于1,000。
+
+And also you this like this laptop computer, it has a display, right? The display typically right now is a liquid crystal display. And for the cell phone, this display typically right now is a organic light emitting diode.
+而且像这种笔记本电脑，它也有显示屏，对吧？显示器通常现在是液晶显示器。而手机的显示屏目前通常采用有机发光二极管。
+
+But no matter you use if you utilize LCD or OLED, it needs a back circuit to magnify the electric signals. Okay, this back circuit actually are integrated circuits of the field-effect transistors. Okay, so the field-effect transistor of organic semiconductor right now, okay, can be higher than 1 centimeter square per volt per second. This is enough. It's comparable to the amorphous silicon, which is widely used for the for this display.
+但无论使用液晶显示器（LCD）还是有机发光二极管（OLED），都需要后级电路来放大电信号。好的，这个背板实际上是由场效应晶体管组成的集成电路。好的，那么目前有机半导体的场效应晶体管，每伏特每秒的迁移率可以超过1平方厘米。这就足够了。这与广泛用于这种显示器的非晶硅相当。
+
+Okay, so the back circuit used to drive the LCD or OLED right now typically is based on amorphous silicon. Okay, okay, so there are actually if you look at this output curve, there are two regions. One region is here. So the drain and the voltage between drain and the source is smaller than the gate voltage.
+好的，目前用于驱动液晶显示器或有机发光二极管显示器的背板电路通常采用非晶硅。好的，好的，所以实际上，如果你看这条输出曲线，会发现有两个区域。一个区域在这里。所以漏极……以及漏极与源极之间的电压小于栅极电压。
+
+Smaller than the gate voltage. Okay, this region called a linear region. If the drain and and if the voltage between drain and the source larger than the voltage on the gate, so you will find that with the further increase of the drain voltage, the current does not further increase. This called a saturation region. Called a saturation region.
+低于栅极电压。好的，这个区域称为线性区。如果漏极……如果漏极和源极之间的电压大于栅极上的电压，那么你会发现，随着漏极电压的进一步升高，电流不会继续增大。这称为饱和区。称为饱和区。
+
+And for these two region, it follows different equations. So in the linear region, the mobility actually actually is proportional to the slope of the drain current over voltage drain gate voltage. In the linear region, it's proportional to the actually to the from here you can see that the drain current the drain current proportional to the square the square of the gate voltage.
+对于这两个区域，它们遵循不同的方程。所以在线性区，迁移率实际上与漏极电流相对于漏极-栅极电压的斜率成正比。在线性区，它实际上与……从这里可以看出，漏极电流与栅极电压的平方成正比。
+
+And in here, it depends on the for the gate voltage actually. This is a linear relationship. But here is a square relationship. That's the difference. And you may also notice that here introduced another parameter.
+而这里，它实际上取决于栅极电压。这是一种线性关系。但这里是平方关系。这就是区别。你可能还会注意到，这里引入了另一个参数。
+
+Called a VTH. TH from the threshold. Okay, threshold. That means if you go back to here, I said if you apply the voltage between source and gate, the charge will be injected into this interface. Okay, because dielectric layer function as a capacitor. Okay, but in in reality, okay, some of these voltage the charge actually is trapped at this interface because there are trap states. There are this is not ideal. Therefore, the voltage in order to drive the transistor up, you need a voltage slightly higher than zero.
+称为 VTH。TH，来自 threshold（阈值）。好的，阈值。这意味着，如果你回到这里，我说过，如果在源极和栅极之间施加电压，电荷就会注入这个界面。好的，因为介电层的功能就像电容器。好的，但在现实中，施加的电压中，有些电荷实际上会捕获在这个界面处，因为那里存在陷阱态。这并不理想。因此，为了使晶体管导通，你需要一个略高于零的电压。
+
+So slightly higher than what? Than this threshold voltage. So only when the gate voltage higher than VTH, this transistor is up is up.
+所以比什么稍微高一点？比这个阈值电压高。所以，只有当栅极电压高于 VTH 时，这个晶体管才导通，才导通。
+
+Therefore, you need the gate voltage higher than threshold. Higher than threshold. That's why in this equation you can see that.
+因此，你需要使栅极电压高于阈值电压。高于阈值。所以你在这个方程中可以看到这一点。
+
+You can see that. Okay, so in this way we can measure the charge carrier mobility. Okay, so this is a very basic for the device. Okay, field-effect transistor. And then let's consider the its key material organic semiconductor.
+你可以看到。好的，这样我们就可以测量载流子迁移率。好的，所以这对器件来说是非常基础的。好的，场效应晶体管。然后我们来考虑一下它的关键材料——有机半导体。
+
+Okay, so for the organic semiconductor, there are two types of semiconductors. P type and N type. Okay, P type semiconductor from the point of view of chemistry.
+好的，有机半导体有两种类型。P型和N型。好的，从化学角度来说，P型半导体。
+
+P type semiconductor are easily from neutral to pentane. They easily lose electron to become the pentane. And for N type semiconductor, it's easily accept electron to become anion.
+P型半导体很容易从中性态转变为五价态。它们很容易失去电子，从而变成正五价态。对于N型半导体，它很容易接受电子，从而变成阴离子。
+
+Okay, so that's a difference between P type and N type. Okay, so I believe Professor Wen also mentioned about the frontier molecular orbitals, right? Frontier molecular orbitals. So we know that the electron in a in a molecule actually is pushed in the molecular orbital.
+好的，这就是P型和N型之间的区别。好的，我想文教授也提到过分子轨道能级，对吧？前线分子轨道。所以我们知道，分子中的电子实际上会被限制在分子轨道中。
+
+So the highest molecular orbital that is occupied by electron is known as the highest occupied molecular orbital in short homo HOMO. So the orbital that is empty with the lowest energy. So if one one molecule accept the electron, of course this electron will go into that orbital.
+因此，电子占据的最高分子轨道称为最高占据分子轨道，简称HOMO。所以，能量最低且空置的轨道。所以，如果一个分子接受电子，当然这个电子就会进入那个轨道。
+
+Called the lowest unoccupied molecular orbital in short LUMO. Okay, so for P type, the electron the loss of electron is from HOMO. Okay, electron in the HOMO leaves the molecule to the molecule become the pentane.
+称为最低未占据分子轨道，简称 LUMO。好的，对于P型，电子的损失来自HOMO。好的，HOMO 中的电子离开分子，使分子变成戊烷。
+
+And for N type semiconductor, the electron goes into the LUMO. Okay, and makes in in anion. Anion.
+对于N型半导体，电子会进入LUMO。好的，从而形成阴离子。阴离子。
+
+So this P type and N type. Some special case the molecule has relatively high HOMO and relatively low LUMO in this case that molecule can function as a N bipolar semiconductor. That means both P type and N type. Okay, and in the so from here you can see that basically in this device the actually the charge that move between molecule that electrons basically is electron.
+所以这是P型和N型。在某些特殊情况下，分子的最高占据分子轨道（HOMO）相对较高，而最低未占分子轨道（LUMO）相对较低。在这种情况下，该分子可以作为N型双极半导体。也就是说，它既是 P 型又是 N 型。好的，所以从这里可以看出，基本上在这个器件中，在分子之间移动的电荷，也就是电子，基本上就是电子。
+
+Electron has negative charge, right? Okay. But in this field you may also find sometime we call the charge carrier if it's a N type semiconductor. We say charge carrier is electron. With negative charge. But you will also see that it's mentioned that for the P type semiconductor the charge carrier is a hole.
+电子带负电，对吧？好的。但在这种情况下，有时我们也会称它为电荷载流子，如果它是N型半导体的话。我们说载流子是电子。带负电。但你也会看到，对于P型半导体，提到其载流子是空穴。
+
+So the hole is positively charged. So hole is not a real particle that move. The particle the micro particle that move is still electron. Is still electron.
+所以空穴带正电。所以，空穴并不是一个实际运动的粒子。运动的微粒仍然是电子。仍然是电子。
+
+But if you have one molecule let's see one molecule. This is a neutral, right? And its neighbor is here. Also neutral. So if you here is electrons. And one electron jump from this molecule to electrons.
+但如果你有一个分子，我们来看看一个分子。这是中性的，对吧？它的邻近分子在这里。也是中性的。所以，如果你这里是有电子的。一个电子从这个分子跃迁到电子中。
+
+So this molecule become pentane, right? And if you apply the voltage along this way that means the neighbor its neighbor the electron will jump to the first one, right? So the second become positively charged.
+所以这个分子变成戊烷，对吧？如果你沿着这种方式施加电压，也就是说，相邻的……相邻的电子会跳到第一个，对吧？所以第二个会带正电。
+
+Right? So if you do this one more you will find that looks like this positive charge move from left to the right. But even in fact what really moving is electron.
+对吧？所以，如果你再做一次，你会发现，这个正电荷好像是从左向右移动的。但实际上真正移动的是电子。
+
+Negative charge. Okay, you should keep in mind. So this is called a hole.
+负电荷。好的，你应该记住这一点。所以这叫作空穴。
+
+This is called a hole. Okay, looks like it's positively charged. Okay, so that's the basic idea of the two different types of organic semiconductors.
+这叫空穴。好的，看起来它带正电。好的，这就是两种不同类型的有机半导体的基本概念。
+
+Okay, so with that okay, we can talk about some more details so actually in this class okay with some introduction or basic concept okay I will introduce the molecular engineering of for field-effect transistors. Mainly based on my own research. So most of the examples talked here actually from my own research.
+好的，那么接下来我们可以讨论一些更详细的内容。实际上，在这门课中，经过一些介绍或基本概念之后，我会介绍场效应晶体管的分子工程。主要基于我自己的研究。所以，这里讲的大多数例子其实都来自我自己的研究。
+
+So for the organic semiconductors most of the polycyclic array okay if you have bending rings link together right for example this one called pentasin.
+所以对于有机半导体，大多数都是多环阵列，好吗？如果环彼此相连，对吧？例如，这个叫作 pentasin。
+
+This is a benchmark of P type organic semiconductor in the field-effect transistors. It's called pentasin. Penta means five.
+这是场效应晶体管中P型有机半导体的基准材料。它叫作 pentasin。Penta 意思是五。
+
+Because. Have five. Bending rings fused together. Okay, of course if you have one less bending ring this one called tetrasin.
+因为。有五个。弯曲的环融合在一起。好的，当然，如果少一个弯曲环，这个就叫四环素。
+
+Tetra means four, right? Tetrasin. And one of the most the most high performance P type semiconductor is this one. Which has cell thin fused with bending ring with an alpha group.
+Tetra 意思是四个，对吧？Tetrasin。而性能最高的 P 型半导体之一就是这个。其中的细胞薄层与带有α基团的弯曲环融合。
+
+With an alpha group R here. Or another one here. Okay, this this one also a typical P type semiconductor.
+这里有一个 α 基团 R。或者这里另一个。好的，这个也是典型的P型半导体。
+
+Okay, so you can see that they have this electron rich system. Therefore if you want to have a N type semiconductor okay which can easily accept the electron. So you need some electron with joint groups. Okay, for example carbonyl groups.
+好的，所以你可以看到，它们具有这种富电子体系。因此，如果你想得到一种容易接受电子的 N 型半导体。所以你需要一些带有共价键的电子。好的，例如羰基。
+
+R is alpha group. So these carbonyl groups they can accept electron. So making a N type semiconductor. Okay, so this is one of the projects okay from my group about okay more than one decade ago.
+R 是α基团。所以这些羰基可以接受电子。所以形成N型半导体。好的，这是我们小组十多年前开展的一个项目。
+
+So this is a typical P type semiconductor. So look at this HOMO minus 5.47.
+所以这是一个典型的P型半导体。所以看这个，HOMO 是负 5.47。
+
+Okay, and I it's LUMO is minus 3.6, right? So if we want to convert this typical P type semiconductor to N type so we need to lower the LUMO energy level, right?
+好的，它的LUMO是−3.6，对吧？所以，如果我们想把这种典型的P型半导体变成N型半导体，就需要降低LUMO能级，对吧？
+
+So what can we do? We know that nitrogen is more electronegative than carbon. Therefore if you replace carbon with nitrogen so this will lower the LUMO energy level, right?
+那我们能做什么呢？我们知道，氮的电负性比碳高。因此，如果用氮取代碳，那么这会降低LUMO能级，对吧？
+
+So this is principle so in principle we can put many nitrogen there. So so we try but we don't know okay how many nitrogen we should put. And where we should put the nitrogen, right?
+所以原则上，我们可以在那里加入很多氮。所以我们尝试，但不知道该放多少个氮原子。以及应该把氮放在哪里，对吧？
+
+Therefore we tested a few molecules. So with two nitrogens four nitrogens or six nitrogens. Eventually we find that we found that two nitrogens are not enough to convert the P type to a good N type. This one actually is N bipolar. But it's N type property N type the charge carrier mobility is still low.
+因此，我们测试了几种分子。所以是两个氮原子、四个氮原子，还是六个氮原子。最终我们发现，两个氮原子不足以将P型转化为良好的N型。这个实际上是 N 型双极型。但它属于N型。N型的载流子迁移率仍然很低。
+
+This one is still P type. And we found that we put the nitrogen at the center actually the better than putting nitrogen on the two terminal rings in terms of lowering the LUMO energy level. If we put six nitrogens the LUMO actually is further lowered.
+这个仍然是P型。我们发现，从降低LUMO能级的角度来看，将氮原子置于中心实际上比将其置于两个末端环上更好。如果我们加入六个氮原子，LUMO能级实际上会进一步降低。
+
+However it become not stable. Because it can even oxidize water. Okay, so from here we know that okay four nitrogen is based if we want to compare if we want to convert P type pentasin derivative into N type.
+然而，它变得不稳定了。因为它甚至可以氧化水。好的，所以从这里我们知道，如果我们要比较，如果我们要把 P 型 pentasin 衍生物转化为 N 型，那么基于四个氮原子……
+
+Okay, that's the first question we try to solve. And in this process it actually of course we are okay I'm organic chemist my group synthesize the molecules. So the details of the synthesis is also very important for the preparation of organic semiconductors. For example this compound I said so far this one of the best N type semiconductor developed by my group.
+好的，这是我们首先要解决的问题。在这个过程中，当然，我们……好吧，我是有机化学家，我的团队合成这些分子。因此，合成细节对于有机半导体的制备也非常重要。例如，我刚才说过，这种化合物是我组开发的最好的N型半导体之一。
+
+So but actually this compound was not first reported by my group by the Professor Uwe Benz group. And he proposed that this could be a semiconductor. But he didn't make device. We use we first use the this method.
+但实际上，这种化合物并不是由我的团队，也就是乌韦·本茨教授的团队首次报道的。他提出，这可能是一种半导体。但他没有制作器件。我们首先使用这种方法。
+
+We first use this method here. Okay, to prepare to synthesize this compound. However we only obtain mobility 0.1 centimeter per volt per second. Okay, and later on we made some minor modification of the synthesis from point of view of organic synthesis. This modification is minor. For example we change the from lithium reagent to green reagent.
+我们先在这里使用这种方法。好的，为了合成这种化合物。然而，我们得到的迁移率仅为每伏特每秒0.1厘米。好的，后来我们从有机合成的角度对合成过程做了一些小的改进。这种修改是微小的。例如，我们将试剂从锂试剂改为绿色试剂。
+
+And the last step we just keep this under light actually induct this they do that in the room light under the room light and we did this on induct. It did not only a higher yield but much higher device performance. Okay, why is that? The major reason is that we believe that with our process okay it actually will lead will lead to less impurity.
+最后一步，我们只是把这个放在光下。实际上，我们是在室内光下进行这个操作，而我们在 Induct 上做了这个。它不仅产率更高，器件性能也高得多。好的，为什么呢？主要原因是我们认为，采用我们的工艺，实际上会减少杂质。
+
+Less impurity in the materials. Actually tiny amount of impurity in the material will be reflected with the large change. In the charge carrier mobility. Okay, so charge carrier mobility this is the most important parameter for the organic field effect 这样哄孩子的话。 Okay, the next issue the next issue is how can we increase the charge carrier mobility? Okay, so the basic idea here basic idea here 就是。
+材料中的杂质更少。实际上，材料中极少量的杂质也会导致较大的变化。在载流子迁移率方面。好的，载流子迁移率是有机场效应最重要的参数，这么说孩子会更愿意听。好的，下一个问题，下一个问题是：我们如何提高载流子迁移率？好的，所以这里的基本思路，这里的基本思路就是……
+
+This charge carrier mobility mute is proportional to electron transfer rate. Proportional to electron transfer rate and this electron transfer rate depends on two parameters two parameters one is lambda this is called rate organization energy the other is t called charge transfer integral okay let me explain that one by one before that I also want to mention that mu actually is a property of the semiconductor although from the from this equation actually if you want to measure the mobility you need to make your current and voltage but the current depends on the mobility not the mobility depends on the current this is quite similar to the case of the ampere's law right we say the resistance equals to voltage divided by current right and this is the property of the material okay although you measure that by varying voltage and current but we should not say.
+这种载流子迁移率 mute 与电子转移速率成正比。与电子转移速率成正比，而这个电子转移速率取决于两个参数。一个参数是 λ，称为速率振子能量；另一个是 t，称为电荷转移积分。好，我先逐一解释，不过在此之前，我还想说明一下，μ 实际上是半导体的一种性质；尽管从这个方程来看，如果你想测量迁移率，就需要测量电流和电压，但是……电流取决于载流子迁移率，而不是载流子迁移率取决于电流。这和安培定律的情况很相似，对吧？我们说电阻等于电压除以电流，对吧？这是材料的属性，好吧？尽管它是通过改变电压和电流来测量的，但我们不应该说……
+
+resistance depends on voltage or current; we say both the current depends on the resistance. It's also true here: so next issue is what's the rate on energy energy and charge transfer integral so rate on energy energy is considered to consider one molecule let's say it's a p-type semiconductor okay so this is the neutral form and when it lose one electron it becomes the pantine right so this molecule at the neutral stage it has a conformation or structure that is most stable for the neutral stage or in other words in that structure this neutral molecule is most heavy
+电阻取决于电压或电流；我们说电流取决于电阻。这里也是一样：那么下一个问题是，能量转移的速率是多少？能量和电荷转移积分……所以，能量转移速率被认为是……考虑一个分子，比如说它是 p 型半导体，好吗？这是中性形式。当它失去一个电子时，就变成阳离子，对吧？所以这个分子在中性阶段具有最稳定的构象或结构，换句话说，在……在该结构中，这个中性分子最……
+
+我还是搞行政的。
+I’m still in administration.
+
+Okay, it's happiest.
+好的，它最稳定。
+
+这就行了。
+This is enough.
+
+When it lose one electron—
+当它失去一个电子时——
+
+一般不行。
+Generally not.
+
+—this structure is still keep the original structure of the of this neutral molecule. This pantine is not as happy as the neutral molecule. Okay so then it can change the structure the conformation of the molecule and to be happiest for the pantine.
+——这种结构仍然保持这个中性分子原来的结构。这个阴离子不像中性分子那样稳定。好的，那么它就可以改变分子的结构和构象，从而让阳离子达到最稳定的状态。
+
+Okay so there is a difference between the energy okay so let's see this one okay maybe I can do it this way this is the neutral molecule so it becomes with the neutral molecule's structure but one less electron okay and then the structure molecule may change okay for example change to this and this is the most stable structure of the pantine so the energy between them actually are not the same energy are not the same this energy difference is rate on managing energy is a rate on managing energy okay so this also applicable to analyze okay so charge transfer integral t what does that mean so this is related to the overlap of the pi orbitals in which I used for the charge transfer between two molecules because here when we talk about the channel right I said even for the smallest channel of silicon device in CPU it's a few nanometers right but for the molecule this one this here is about one nanometer and for organic semiconductor uh OFPT this channel is about in the micrometer range so here of course it contains okay uh solvents of molecules at least the solvents of molecules so the charge transfer is between molecules okay so we need a better overlap between the for example here tetracy right this compound so you might imagine that if they have a perfect overlap face to face overlap this will give the highest charge transfer integral okay this is true but if you further sweep actually uh shift shift you might think that with the decrease of the overlap area charge transfer integral becomes smaller and smaller this is not exactly true in fact if you look here because here is square right so we are talking about the absolute value of charge transfer integral so here based and if you move it by about half a brick relative to each other it reaches to zero and then with the deep further decrease of the overlap area okay that means about three rings overlap with each other it becomes the next highest value because we are talking about a square right so this indicate that
+好的，所以能量是不同的。好，我们来看这个。也许我可以这样处理。这是中性分子，所以它会保持中性分子的结构，但少一个电子。然后分子的结构可能会发生变化，比如变成这样。这是阴离子最稳定的结构。所以它们之间的能量实际上并不相同，能量并不相同，这个……能量差就是能量管理的速率，是能量管理的速率。好的，这也适用于分析。好的，电荷转移积分 \(t\) 是什么意思？它与两个分子之间的电荷转移所用的 π 轨道重叠有关，因为这里当我们谈到沟道时，对吧？我说过，即使是最小的硅器件沟道，比如 CPU 中的沟道，也只有几纳米，对吧？但对于……对于分子，这个，这里大约是一纳米；而对于有机半导体，呃，OFET，沟道大约在微米量级。所以这里当然包含，好吧，呃，溶剂分子，至少是溶剂分子，因此电荷转移发生在分子之间。好吧，所以我们需要更好的重叠，例如这里的四环，对吧，这个化合物。所以你可以想象，如果它们有完美的重叠，面对面重叠，这……会给出最高的电荷转移积分，好吗？这没错，但如果你进一步扫描，呃，移动、移动，你可能会认为，随着重叠面积减小，电荷转移积分会变得越来越小。这并不完全正确。事实上，如果你看这里，因为这里是正方形，对吧？我们讨论的是电荷转移积分的绝对值，所以这里基于……如果你将其相对移动大约半砖……彼此相对移动，它会达到零，然后随着重叠面积进一步减小，好，这意味着大约有三个环彼此重叠，它会变成下一个最高值，因为我们讨论的是正方形，对吧，所以这表明……
+
+very minor change of the char of the molecular packing will dramatically change the charge transfer integral and eventually dramatically change the charge carrier ability so why do that the reason is that the hormone and the lumen okay actually here use different colors right gray and black to indicate actually shows the molecular orbital so what does that mean the different color in the molecular orbital what does that mean different colors sometimes we use green and red yeah what does that mean actually it's a sign it's referred to the sign of wave function the sign of wave function okay so if you want to have a high charge transfer integral you need what you need the positive sign to overlap with positive sign negative sign overlap with negative sign you don't want that the positive overlap with negative that will cancel with each other okay that's why when you shift a little bit you reach zero okay therefore we need to find a cure the molecular packing okay so this is one of the job my group uh take a great efforts so here show some typical packing motif for organic semiconductors okay so they can have this called Heiban mode so basically it has H2 phase interaction because like a potency uh here which I didn't draw here is hydrogen right this hydrogen has positive charge compare with carbon hydrogen is less electronegative therefore carbon has partial negative charge hydrogen has partial positive charge so in the crystal structure so they prefer to have a H2 phase overlap H2 phase to eventually becomes the uh this one okay and with a different modification of the structure uh so it may form the this one called Heiban with high pack overlap so this distance uh between the pipe this is a think about graphite or in graphite two layers of graphite this distance 3.4 atoms so that is a typical pipe distance so here uh close to that but in this way it's much larger than 3.4 atoms uh you may also have this called lamino motif one-dimensional high stacking this one called a two-dimensional high stacking it's a work
+分子堆积特征的微小变化，就会显著改变电荷转移积分，最终也会显著改变载流子能力。那么为什么要这样做呢？原因是，荷尔蒙和腔体，好吧，实际上这里使用了不同的颜色，对吧？灰色和黑色来表示，实际上显示的是分子轨道。那么，分子轨道中不同颜色是什么意思呢？不同颜色有时我们用绿色和红色，对。这实际上表示什么？它表示符号，指的是波函数的符号。好的，所以，如果你想得到较大的电荷转移积分，就需要正号与正号重叠，负号与负号重叠。你不要让正号与负号重叠，那样它们会相互抵消。好的，这就是为什么稍微移动一点，电荷转移积分就会降到零。好的。因此，我们需要找到一种分子堆积方式。好，这是我们小组所做的工作之一，呃，付出了很大努力。这里展示了一些有机半导体的典型堆积模式。好，它们可以形成所谓的 Heiban 模式。基本上，它具有 H2 相互作用，因为这里有一个我这里没有画出来的氢，对吧？这个氢带正电，而碳的电负性较低，因此碳具有……部分负电荷，氢具有部分正电荷。所以在晶体结构中，它们更倾向于形成 H2 相重叠，最终会变成，呃，这个，好，以及结构的不同修饰，呃，所以它可能会形成这个，称为 Heiban，具有高堆积重叠。那么，这些管子之间的距离，呃，可以想象成石墨，或者石墨中的两层石墨，这个距离是 3.4 原子，所以……是典型的管状距离，所以这里，呃，接近那个值，但这种方式的间距比3.4个原子大得多。呃，你也可以有这种称为“lamino motif”的一维高堆叠，这个称为二维高堆叠，这是一个工作……
+
+brickwork uh arrangement so for each one above and below it there are four molecules overlap with it okay so this shows the plane of the pi molecules okay and then it's consider uh a concept called crystal engineering so crystal pentesting I said has a Heiban packing if we want to convert this Heiban packing to a face to face packing what can we do so here is hydrogen right so the important interaction the hydrogen to carbon so if we replace this hydrogen to some multi group so this will break the Heiban packing actually it's true so if we put a very bulky group okay so a big group and but if we still want to keep the original the pipeline overlap therefore we can separate this bulky group and pentesting with a carbon-carbon triple bond in this way you can see that the packing pentesting converted from Heiban to face to face could be in a one-dimensional column or two-dimensional brickwork arrangement okay so this compounds uh if the r group is isopropyl this becomes one of the uh best uh organic p-type organic semiconductor okay so I mentioned that micro converted the pentesting uh keeps pentesting to keeps TAP with four nitrogens right so this is one of the best uh n-type semiconductor developed by my group and we want to further improve its performance so what can we do so I said we need to find a cured molecular packing therefore we introduce fluorine and chlorine for two purposes one is to further lower the luminal energy level because this is n-type semiconductor lower uh luminal energy level actually can enhance the stability of the anion and uh also we want to use these molecules to further cure the molecular packing okay okay so we synthesize this six molecules and we found that compare with the original compound parent compound keeps TAP so with the fluorine here with one fluorine with four uh four chlorines this still keeps the two-dimensional pipeline static quite similar to each other right but if you look from the top you will find the difference okay 他说已经制作
+砖砌结构，呃，所以每一层上方和下方都有四个分子与它重叠，好吗？所以这显示了π分子的平面，好吗，而且……然后，这涉及一个叫作晶体工程的概念。所以，晶体……我刚才说，晶体……如果我们要把这个六方密堆积转换成一个……面对面堆积，我们能做什么？这里有一个氢，对吧？所以重要的相互作用是氢与碳。如果我们把这个氢换成某种多……基团，那么这实际上会破坏 Heiban 排列。确实如此。所以，如果我们加入一个非常大的基团，好，一个大的基团，但如果我们仍然想保留原来的……管道重叠，因此我们可以将这个大基团与碳-碳三键分开。这样你就可以看到，这种堆积……从 Heiban 转化为面对面排列，可以呈一维柱状或二维砌块排列。好的，所以对于这种化合物，呃，如果 R 基团……是异丙基，那么它就成为一种，呃，最好的，呃，有机 p 型有机半导体。好，我提到过，微转换的五元环，呃，保留了五元环。含有四个氮原子的 TAP，对吧？所以这是我的团队开发的最好的 n 型有机半导体之一，我们希望进一步提高其性能。那么我们能做什么呢？我说过，我们需要找到一种优化的分子堆积方式。因此，我们引入氟和氯，有两个目的：一是进一步降低……能级，因为这是 n 型半导体。较低的，呃，能级实际上可以增强阴离子的稳定性，而且我们还希望……利用这些分子进一步改善分子堆积。好的，好的，所以我们合成了这六种分子，并发现与原始化合物相比，母体化合物保持TAP，所以这里有一个氟，一个氟，四个，呃，四个氯，这仍然保持二维管道静止，相当……彼此相似，对吧？但如果你从上方看，就会发现其中的差异。好的，他说已经制作……
+
+so this one with one chlorine but in the crystal structure looks like there are four chlorines the reason is that there are some disordering uh so but you can if you compare the overlap of the pentesting backbone here roughly two and a half rings overlap with each other right here only about two rings overlap with each other 我就是想要这个 我就是这个 and this part 我就感觉不对劲 one ring overlap with each other here essentially no just one atom overlap right so this overlap is different 啊是的 as a result uh we did a calculation and we found that this uh reorganization energy we do the computation do the quantum chemistry uh calculation we found that the fluorine uh here this is uh can see that this uh keeps TAP。
+所以这个只有一个氯，但在晶体结构中看起来好像有四个氯。原因是存在一些无序现象，呃，所以你可以……如果你比较一下这里的五元环骨架重叠部分，大约有二个半环彼此重叠，对吧？这里只有大约二个环重叠，而……彼此。我就是想要这个，就是这个。而这一部分，我觉得不对劲。这里一个环与另一个环重叠，实际上只有一个原子重叠，对吧？所以这种重叠是不同的。啊，是的。因此，呃，我们进行了计算，发现这个，呃，重组能量……我们进行了计算，进行了量子化学计算，发现……这里的氟，呃，可以看到，这个，呃，保持了 TAP。
+
+one flooring, two flooring, four floorings; one flooring, four floorings. So, of course, with the increased number of flooring, LUMO is further decreased. Okay, and but the flooring is less effective than chlorine in lowering the LUMO. Why is that? Because chlorine has 3D orbitals.
+一个氟原子、两个氟原子、四个氟原子；一个氟原子、四个氟原子。所以，当然，随着层数的增加，LUMO 能级进一步降低。好的，不过，flooring 在降低 LUMO 方面不如氯有效。为什么？因为氯有三维轨道。
+
+While flooring does not have, right? So the this 3D orbital can also will be part of the LUMO, will contribute to the LUMO orbital. So it's more effective they lower the LUMO energy level. Okay, and we also found that we did calculate the on-energy energy.
+而地板没有，对吧？所以，这个3d轨道也可以成为LUMO的一部分，对LUMO轨道有所贡献。所以，它们能更有效地降低LUMO能级。好的，我们也发现，我们确实计算了能量。
+
+We found that chlorine also better than flooring with it gives a smaller reorganization energy. This is also good for semiconductor. Okay, from here you know that chlorine is better than flooring.
+我们发现，氯也比地板更好，因为它产生的重组能量更小。这对半导体也有好处。好的，从这里你可以看出，氯比 flooring 更好。
+
+In terms of lowering LUMO energy level and giving a smaller reorganization energy. Okay, and we also calculate the trans charge transfer integral we found that the base the one is the. With four chlorines, with four chlorines.
+在降低 LUMO 能级并降低重组能方面。好的，我们还计算了电荷转移积分，发现基态的那个是……有四个氯原子，有四个氯原子。
+
+And then we made the device. We made the device. This is the picture. Polarized light micro microscope graph for the four six devices after the form the fiber on the surface.
+然后我们制作了器件。我们制造了这个装置。这是图片。在表面形成纤维后的四六种器件的偏振光显微镜图像。
+
+This is the golden electrode. And this device is formed on the self symbol model there on the top of aluminium oxide. I'll explain that why we use this model there in the later slide.
+这是金电极。这个器件是在自符号模型上形成的，位于氧化铝的顶部。我会在后面的幻灯片中解释为什么使用这个模型。
+
+Okay, and with that the experimentally we found that okay this as predicted here you would see four chlorine will give the base device. It's true. Actually found that four chlorine gives the electron mobility about 15 centimeter per volt per second.
+好的，根据实验，我们发现，正如这里所预测的，四个氯会产生基底器件。确实如此。实际上发现，四个氯会使电子迁移率约为每伏每秒15厘米。
+
+While the original one gives about 7 centimeter per volt per second. Okay, so much higher than others. So far this one so far is still the best untied semiconductor for the field effect transistor with the highest charge carrier mobility for the electrons so far.
+而原来的电子迁移率约为每伏特每秒7厘米。好的，比其他材料高得多。到目前为止，这一种仍然是场效应晶体管中最好的未掺杂半导体，也是迄今为止电子载流子迁移率最高的半导体。
+
+Okay, so with this work we we further consider another strategy. So I said with the same molecular orbitals okay we can use a strategy of Chris engineering that means we can further tune the pack right so we can do this in another way can we just keep the original packet but we change the orbital right if we change the geometry of the orbital suppose we can also change the charge transfer integral right how can we do it without changing the packet most recently my group synthesized this compound compare with this one so the carbon becomes nitrogen so as a result it has two more pi electrons this nitrogen has a pair of knowing pair electrons right so it has 24 pi electrons 22 pi electrons therefore the homo orbital geometries are different so when they overlap with each other you can imagine that right some red parts overlap with green or red with overlap with red so that will change so in this way it will give different charge transfer integral okay with if the molecular packing does not change right so in this way the molecular packing is controlled by the bulky group therefore they have essentially the same molecular geometry and also essentially the same molecular packing as you can see here essentially packing the same and but different molecular orbital as a result the calculated charge transfer integral. Very different for pentasin here 32 but our compound 51 right there are two charge transfer integral between the different molecules okay with that we have a large increase of the charge carrier mobility actually basically double the charge carrier mobility because the although their packing are the same but the molecular orbital are different so the mobilities again are mirrored from what transfer image curve right this is from the saturation region therefore the y-axis is a square root of the current square root of current and we can measure the mobility from the slope of these curve of this curve okay so we call this strategy as a charge as the molecular orbital engineering molecular orbital engineering so without changing the packing
+好的，那么在这项工作中，我们进一步考虑了另一种策略。所以我说，利用相同的分子轨道，我们可以采用一种“克里斯工程”策略，也就是说，我们可以进一步调控这个包，对吧？我们也可以用另一种方法来做：保持原来的包，但改变轨道，对吧？如果我们改变轨道的几何结构，假设我们也可以改变电荷转移积分，对吧？那么，不改变包的情况下，我们该如何做到呢？最近，我的团队合成了这个……这种化合物与这个相比，碳变成了氮，因此多了两个π电子。这个氮有一对……一对电子，对吧？所以它有24个π电子，22个π电子。因此，HOMO轨道的几何形状不同。当它们相互重叠时，你可以想象，对吧？有些红色部分与绿色重叠，或者红色与红色重叠，所以这会发生变化。因此，以这种方式，它会……给出不同的电荷转移积分，好吗？如果分子堆积没有变化，对吧？因此，分子堆积由大体积基团控制，所以它们的分子几何结构基本相同，分子堆积也基本相同，正如这里所示，堆积方式基本相同，但分子轨道不同，因此计算出的电荷转移积分也不同。这里 pentasin 的值是 32，而我们的化合物 51，也就是那里那个，不同分子之间的电荷转移积分非常不同。好，因此载流子迁移率大幅提高，实际上基本上翻了一番。因为尽管它们的堆积方式相同，但分子轨道不同，所以迁移率也相应地发生了变化。这是从转移图像曲线来看的，对吧？这是来自饱和区，因此 y 轴是平方……电流的平方根，电流的平方根。我们可以从这条曲线的斜率来测量迁移率。好的，我们把这种方法称为电荷……分子轨道工程，分子轨道工程，所以在不改变分子堆积的情况下……
+
+we change the molecule as a result we change the molecular orbitals okay so just now I showed you that we say the surface is modified with the self symbol modeling so why we do this okay so originally this compound we use a vacuum depotation method that means we use a vacuum chamber a high vacuum pump to minus five four very low pressure and then we can repeat the sample so it's sublime when it meets the cold substrates in the form of film so this is a widely used method for example to depoted OLED materials typically right now use vacuum depotation methods but one of the advantage of organic semiconductor is that they can be processed using solution right so we really want to do solution processing however the original surface silicon dioxide we treated with this long alpha chain self symbol model on the surface actually we found that cannot form good field therefore my group further developed the new model there and to give the high mobility I've explained that with more details okay so here I would like to introduce another concept self symbol modelers okay so self symbol modelers basically you have one molecule which has a active under group for example here is phosphoric acid this is a surface active group for example if you have a silo this is a silo group which is reactive toward gold surface so it can form self symbol model on the gold surface and if the functional group is a silent for example you have a long alpha chain the end is silicon and if we put chlorine on silicon so this one this group can react with surface hydroxyl group on silicon dioxide or aluminium oxide to form a model there so this here chlorine could also be changed to so they also react okay so you have need a surface reactive group and you also need a terminal functional group so this will determine the surface properties and between that between the head group of called anchoring group and the terminal functional group typically there is a long alpha chain so only this long alpha chain
+我们改变分子，因此也改变了分子轨道。好的，刚才我向大家展示了，我们用自组装模型修饰表面。那么我们为什么要这样做呢？好的，最初我们使用真空沉积法，也就是说，我们使用真空室和高真空泵，达到负五四，非常低的压力，然后我们可以重复样品，所以它遇到冷……时会升华。衬底，形成薄膜。因此，这是一种广泛使用的方法。例如，目前通常采用真空沉积法来沉积OLED材料。然而，有机半导体的一个优点是可以通过溶液进行加工，对吧？所以我们确实想采用溶液加工。不过，我们用这种长α链自组装模型处理原始表面的二氧化硅时，发现它无法形成良好的场，因此我的……该团队进一步开发了新的模型，并通过更详细的解释实现了高迁移率。好，接下来我想介绍另一个概念：自组装模型。好，自组装模型基本上是指一种具有活性基团的分子。例如，这里是磷酸，它是一种表面活性基团。例如，如果你有一个硅氧基团，它就是一种对金表面具有反应性的硅氧基团，所以它……可以在金表面形成自组装膜。如果官能团是硅烷，例如，你有一个长α链，末端是硅，如果在硅上加入氯，那么这个基团就可以与二氧化硅或氧化铝表面的羟基反应，形成膜。所以这里的氯也可以被取代，它们也会发生反应。好，因此你需要一个表面活性基团。你还需要一个末端官能团，这将决定表面性质。在所谓的锚定基团和末端官能团之间，通常有一条较长的α链，所以只有这条较长的α链……
+
+so it's a CH2 right so if the number of CH2 large this is n right if the n larger than 10 this model there would be ordered it can form order the model there if the n smaller than 10 it cannot typically it cannot form a stable model there okay so the mostly widely used model there include silo with silo group on gold and other metals silent on the surface of hydroxyl surface like silicon dioxide and some metal oxide and also the one I I will further discuss is the phosphoric acid phosphoric acid which can form the self symbol model on the surface of the metal oxides okay okay so I said for this one originally we want to use the drop cost that's that means one drop of solution on the surface okay however first we use we try to use this called OTMS modifier surface but actually what we obtained like this one drop of solution on the surface looks like this called coffee ring just like one drop of coffee on table you will get a ring so on this part it formed a very thick crystals in the center it formed a very tiny crystals so none of them are good for the fabrication of device we want a well sprayed fully covered film like that right so this is not good and this related to the surface energy if the surface energy like this one very small so the solution it actually cannot stick on the surface this will form a coffee ring of course if we have a surface have OH group so this will give a high surface energy the solution can spread。
+所以这是一个 CH2，对吧？如果 CH2 的数量较多，也就是 n 较大，对吧？如果 n 大于 10，它就能形成有序的模型；如果 n 小于 10，通常就无法形成稳定的模型。好的，所以最广泛使用的模型包括金和其他金属表面的硅烷基团，以及二氧化硅等羟基表面的硅烷……一些金属氧化物，以及我稍后会进一步讨论的一种——磷酸。磷酸可以在金属氧化物表面形成自组装膜。好，好。我之前说过，我们原本想使用滴法，也就是说在表面上滴一滴溶液。好，不过首先我们尝试使用一种叫作 OTMS 的表面改性剂，但实际上得到的却是这样的。滴在表面上的溶液看起来像这样，这叫作“咖啡环”。就像一滴咖啡滴在桌子上，会形成一圈。因此，这一部分形成了很厚的晶体，而中间形成了非常细小的晶体，所以都不适合用于器件制备。我们想要的是像这样喷雾均匀、完全覆盖的薄膜，对吧？所以这样不好，这与表面能有关，如果……表面能像这样非常低，所以溶液实际上无法附着在表面上，这当然会形成咖啡环。如果我们表面有羟基，就会产生较高的表面能，溶液就能铺展。
+
+from good field, but mobility is still low. Why does that?
+来自良好场，但迁移率仍然很低。为什么会这样？
+
+你在说些什么？
+What are you saying?
+
+Because this is an unpacked semiconductor. When it operates, it becomes the anion. This anion reacts with the surface hydrogen, uh, to leave the oxide.
+因为这是一种非封装半导体。当它工作时，它会变成阴离子。这个阴离子与表面的氢反应，呃，从而生成氧化物。
+
+So because the anion reacts, that means the re- the charge ca- the charge transfer is stopped. It's stopped. So current is very low.
+所以，由于阴离子发生了反应，这意味着电荷转移被阻止了。它停止了。所以电流非常低。
+
+Mobility is low. Okay? So with that, we thought, okay, let's keep it.
+迁移率很低。明白吗？所以，基于这一点，我们觉得，好吧，就保留它吧。
+
+We need to modify the surface. We need a higher surface energy. We don't want the O-H group.
+我们需要修改表面。我们需要更高的表面能。我们不想要 O-H 基团。
+
+So we bought some. Okay? We can buy some of the silent, uh, commercial available to modify the surface.
+所以我们买了一些。明白吗？我们可以购买一些市面上可以用来改性的，呃，静默的……
+
+But we found that the charge carrier mobility is still low. Okay? So I think we need to do something by ourselves, right?
+但我们发现，载流子迁移率仍然很低。明白吗？所以我觉得我们需要自己做点什么，对吧？
+
+Therefore we designed this molecules. So we use phosphoric acid compared with silent. This is easily purified.
+因此，我们设计了这些分子。所以我们使用磷酸，与无声相比。这很容易纯化。
+
+Uh, we can purify it easily. And we put oxygen here to increase the surface energy. And this cyclohexyl group eventually can also increase the surface energy. Uh, I designed this molecule by myself. And this molecule was designed by a PhD student in my group at that time.
+呃，我们可以很容易地将其纯化。我们在这里加入氧，以提高表面能。这个环己基最终也可以增加表面能。呃，这个分子是我自己设计的。这个分子当时是由我组里的一名博士生设计的。
+
+At that first, I thought this may not be a good design because I thought this group is too big compared with the anchoring group. I think it cannot form good field. But I was wrong.
+一开始，我觉得这个设计可能不太好，因为我觉得这个基团相对于锚定基团来说太大了。我认为它无法形成良好的电场。但我错了。
+
+Eventually this one gives a very good field. And right now this student is a professor in the, uh, Harbin Institute of, uh, Technology, uh, Shenzhen.
+最终，这个能形成一个非常好的场。现在这位学生是，呃，哈尔滨工业大学深圳校区的教授。
+
+不是说了吧？
+Didn't we already say that?
+
+And okay, so I said the surface energy is important, right? So surface energy can be measured by measuring the content angle of the standard equation. Water and dialgo method.
+好的，我说过表面能很重要，对吧？所以，可以通过测量标准方程中的含量角来测定表面能。水和 dialgo 方法。
+
+Based on this content angle, we can calculate the surface energy. So you can see that compared with this one, the other two, the surface energy increases. Therefore we can get good field. Uh, when one drop of solution on the surface and this surface is ordered, I said you can see that we use, uh, long alpha chain, right?
+根据这个接触角，我们可以计算表面能。所以你可以看到，与这个相比，另外两个的表面能有所增加。因此，我们可以获得良好的场强。呃，当一滴溶液滴在表面上，而这个表面是有序的，我说你们可以看到，我们使用了，呃，长α链，对吧？
+
+So to make an ordered field, ordered molar air. So on this ordered molar air, we can get good field. On this good field, we can depot it in nature.
+所以，要形成有序场，有序摩尔空气。所以在这种有序的摩尔空气中，我们可以得到良好的场。在这个良好场中，我们可以把它沉积在自然界中。
+
+Go to electrodes and we can measure the mobility, uh, very good mobility. And you may notice that, uh, this one is on the MODPA, uh, uh, this compound. So it formed a well-aligned fiber. This is the PPS.
+接入电极后，我们可以测量迁移率，呃，迁移率非常高。你可能会注意到，呃，这个是在 MODPA 上的，呃，呃，这个化合物。所以它形成了排列整齐的纤维。这是 PPS。
+
+PPS is this one. Okay? Surface energy is high.
+PPS 就是这个。明白吗？表面能很高。
+
+But because the surface itself is disordered, so the molecule depoted on the film, depoted on this disordered film, also disordered. Uh, the it's
+但由于表面本身是无序的，所以沉积在薄膜上的分子，沉积在这片无序薄膜上的分子，也是无序的。呃，它……
+
+我们几个人来着？
+How many people were there?
+
+Cannot form such well-aligned fibers. Therefore its mobility also low.
+无法形成这种排列整齐的纤维。因此，它的流动性也较低。
+
+有点事吧？
+Is there something going on?
+
+So from that, uh, you can see the importance of the, uh, surface treatment.
+所以由此，呃，你可以看出表面处理的重要性。
+
+没事吧？
+Is everything okay?
+
+Okay? So for this one, uh, CDPA we also make a CBP shorter alpha chain. Eventually we found that with the longer this one, the molar layer is disordered.
+明白吗？所以对于这个，呃，CDPA，我们也会使CBP的短α链更短。最终我们发现，随着这个较长链的加入，晶胞层是无序的。
+
+年纪大了。
+I'm getting older.
+
+And this one, uh, is ordered. And, uh, in this one we can get.
+而这个，呃，是有序的。而且，呃，在这个里面我们可以得到。
+
+你就是好不好用的？
+Are you just hard to use?
+
+Quite a high mobility for solution process. P-type and N-type semiconductor. And also vacuum depoted P-type and N-type semiconductor.
+对于溶液工艺来说，具有相当高的迁移率。P型和N型半导体。以及真空沉积的 P 型和 N 型半导体。
+
+All of them we can get high mobility.
+它们都可以获得高迁移率。
+
+Okay, here shows the, you know, uh, output curve transfer curve. Okay, uh, this shows the X-ray diffraction of the film. Uh, shows the higher crystallinity along carbon-60. Uh, this also N-type semiconductor.
+好的，这里展示的是，呃，输出特性曲线。好的，呃，这显示了薄膜的X射线衍射图。呃，显示了 C60 沿方向较高的结晶度。呃，这也是N型半导体。
+
+On the CDPA surface it shows the base crystallinity. Uh, therefore it shows a better device. Uh, this is a FM, uh, imaging for the film.
+在CDPA表面，它显示出基底的结晶度。呃，因此它表现出更好的器件性能。呃，这是用于薄膜的 FM，呃，成像。
+
+Okay? Typically if it gives a larger green, uh, it can, uh, give the higher mobility because the charge transport is limited by the green boundaries.
+明白吗？通常，如果它给出更大的绿色区域，呃，它就能，呃，提供更高的迁移率，因为电荷传输受到绿色边界限制。
+
+Okay? Okay, I, I think I need to go faster. Uh, maybe I just skip, uh, this part.
+明白吗？好的，我，我觉得我得说得快一点。呃，也许我就跳过，呃，这一部分。
+
+Actually this shows that use different terminal group, uh, different terminal group. We can control not only to tune the, uh, surface energy, but we can control the crystal structures, uh, polymers of the same N-type P-type semiconductor. This one. Okay, on the surface, uh, with a different polymer.
+实际上，这表明使用不同的末端基团，呃，不同的末端基团。我们不仅可以调控表面能，还可以控制同一种 N 型或 P 型半导体的晶体结构和聚合物。这个。好的，在表面，呃，使用不同的聚合物。
+
+That means different packing in the crystal structure. It will show quite a different charge carrier mobility. Nine centimeters square volts per second or 28.
+这意味着晶体结构中的排列方式不同。它会表现出截然不同的载流子迁移率。每秒9平方厘米伏特，或者28。
+
+Okay? Because the molecular packing changes molecular packing. Okay?
+明白吗？因为分子排列会发生变化，分子排列。明白吗？
+
+In the although it's the same molecule, but they can.
+虽然它们是同一个分子，但它们可以。
+
+我们明天。
+We tomorrow.
+
+If they meet different molecular packing in the different crystal structures.
+如果它们在不同的晶体结构中采用不同的分子堆积方式。
+
+都改了。
+They’ve all been changed.
+
+Okay?
+明白吗？
+
+一定要做。
+We absolutely have to do it.
+
+Okay, so that's all about the actually just now I introduced the two strategies. One is called
+好的，以上就是刚才我所介绍的两种策略。一种叫作
+
+你们今天晚上。
+You tonight.
+
+Uh, question engineering.
+呃，问题工程。
+
+啊，周一。
+Ah, Monday.
+
+To tune the molecular packing in the organic semiconductor to increase the charge carrier mobility.
+优化有机半导体中的分子堆积，以提高电荷载流子迁移率。
+
+我要看。
+I want to see it.
+
+Second is interface engineering.
+二是界面工程。
+
+我的。
+Mine.
+
+Because the charge the in the OFET the charge carrier is transport at this interface. Uh, interface semiconductor just above the dielectric layer. Uh, this part is the area for the charge transport.
+因为电荷……在有机场效应晶体管中，载流子是在这个界面处传输的。呃，介电层正上方的界面半导体。呃，这部分是电荷传输区域。
+
+快点今晚必须出去。
+Hurry up. We have to go out tonight.
+
+So this is the most important okay. Uh, therefore the surface modification of dielectric play a very important role for the device performance.
+所以这是最重要的，好吗？呃，因此，介电材料的表面改性对器件性能起着非常重要的作用。
+
+直接用AI你像它。
+Just use AI like it.
+
+And the
+而且……
+
+这个讲解文档。
+This explanation document.
+
+So the third strategy I want to introduce is about the functionalization of semiconductor. So can we use field effect transistor, OFETs, to do other jobs? Uh, not only as a switch.
+所以，我想介绍的第三种策略是半导体功能化。那么，我们能否利用场效应晶体管，也就是 OFET，来完成其他任务呢？呃，不只是用作开关。
+
+一点点。
+A little.
+
+But also as a sensor for example. Can we use it as a sensor? Okay? Actually this relates to in fact we use the curved pipe echo.
+也可以用作传感器，例如。我们可以把它用作传感器吗？明白吗？实际上，这与我们使用弯曲管道回声有关。
+
+Uh, use this one to develop a series of organic semiconductor materials. For different functions. Uh, for the chemical and biological sensors, and for the optoelectronic memories, uh, memories.
+呃，利用这个开发一系列有机半导体材料。用于不同的功能。呃，用于化学和生物传感器，以及光电子存储器，呃，存储器。
+
+So here I will focus on chemical and biological sensor and see how can we realize that.
+所以在这里，我将重点介绍化学和生物传感器，并探讨如何实现它们。
+
+Okay? So this molecule, uh, actually was synthesized, uh, unexpectedly. At that time we want to synthesize this molecule. Using the so-called short reaction.
+好吗？所以，这个分子，呃，实际上是意外合成出来的。当时我们想合成这个分子。使用所谓的短反应。
+
+So it's oxidative coupling reaction. But, uh, unexpectedly we found that in the form of four bonds. But not the other two. So it forms this, uh, called double hazy.
+所以，这是氧化偶联反应。但是，呃，我们意外地发现，它以四个键的形式存在。但另外两个不是。所以它形成了这种，呃，叫作“双层雾状”的结构。
+
+Here is one helix. Here is another. Uh, so this is the chiral molecule.
+这里有一条螺旋。这里是另一个。呃，所以这是手性分子。
+
+Chiral molecule.
+手性分子。
+
+我是这样改的。
+This is how I changed it.
+
+And with this chiral molecule to choose this, uh, twisted structure in a crystal. So with that, okay, so most interesting part is the crystal structure.
+用这个手性分子来选择晶体中的这种，呃，扭曲结构。所以，好吧，最有趣的部分是晶体结构。
+
+Okay? So this is a chiral molecule.
+明白吗？所以这是一个手性分子。
+
+你这样改完不得先看你自己上课。
+After you make these changes, you won’t be able to watch yourself teach first.
+
+Therefore.
+因此。
+
+我从来不看。
+I never watch it.
+
+We use.
+我们使用。
+
+我从来不看。
+I never watch it.
+
+The I use the two colors. To indicate two colors to indicate the a pair of inatoms a pair of inatoms so it looks that to form a brickwork arrangement. Okay, remember what I mentioned in the earlier part.
+我使用这两种颜色。用两种颜色来表示一对内原子，一对内原子，这样看起来就形成了砖砌结构。好的，记住我之前提到的内容。
+
+Organic semi one of the typical organic semiconductor packing modes is the two-dimensional brickwork arrangement. Two-dimensional peptide stacking, right? So although this one is curved, it also forms that brickwork arrangement above okay?
+有机半导体的典型堆积方式之一是二维砖砌结构。二维肽层叠，对吧？所以，尽管这个是弯曲的，但它在上面也形成了那种砖砌排列，对吧？
+
+So above and below one yellow inatomer there are four blue inatomers. Okay? And if you look from this side you will find that from a layered structure this is a mesogroup on here the X and Y.
+所以，在一个黄色 inatomer 的上方和下方各有四个蓝色 inatomer。明白吗？如果你从这一侧看，你会发现，在这种层状结构中，这是一个介晶基团，这里的 X 和 Y。
+
+Uh, if they are mesogroup they are shown here. From layered structure. If we change the meso to proto it becomes still the same molecular packing.
+呃，如果它们是中孔群，就会显示在这里。来自层状结构。如果我们把 meso 改为 proto，分子堆积方式仍然不变。
+
+The same molecular packing. Uh, essentially the same. From a layered structure within each layer it's a peptide interaction.
+相同的分子堆积方式。呃，本质上是一样的。从层状结构来看，每一层内部都是肽相互作用。
+
+Between layers there are band was interaction. Between the alcohol chains. Okay?
+层与层之间存在带……相互作用。在醇链之间。明白吗？
+
+And another observation is that between the mesogroups there are still some space, right? So based on this structure we have two hypotheses. First, we might be able to isolate a single layer of it.
+另一个观察是，介晶基团之间仍然存在一些空间，对吧？所以，基于这种结构，我们提出了两个假设。第一，我们或许能够将其分离成单一层。
+
+So this can give a monolayer device. A monolayer based on a monolayer. Uh, a molecule to form the field effect transistor.
+所以这可以制成单层器件。基于单层的单层。呃，一种用于形成场效应晶体管的分子。
+
+Second, if we introduce different functional groups it will not change the peptide interaction. This is quite important. Because if you want to make a sensor based on organic field effect transistor if you want to convert the chemical event into a into the electrical signals okay? You need to introduce different functional groups. Of course by synthesis you can introduce a lot of variety of functional groups to the semiconductor. But these functional groups will change the molecular packing.
+其次，如果我们引入不同的官能团，也不会改变肽的相互作用。这一点非常重要。因为如果你想基于有机场效应晶体管制作传感器，如果你想将化学事件转化为电信号，明白吗？你需要引入不同的官能团。当然，通过合成，你可以向半导体中引入多种官能团。但这些官能团会改变分子的堆积方式。
+
+So in most cases the peptide stacking is lost. Okay? The peptide stacking is lost. So in this way uh this actually provide a good platform to introduce functional groups without changing the peptide interactions.
+所以在大多数情况下，肽的层叠结构会丧失。明白吗？肽堆积被破坏了。所以，通过这种方式，呃，这实际上提供了一个很好的平台，可以在不改变肽相互作用的情况下引入官能团。
+
+So we have these two hypotheses. So to test the first hypothesis we use a dip coating method. So we just draw up the substrate from the solution of the organic semiconductor and we can obtain the monolayer.
+所以我们有这两个假设。为了检验第一个假设，我们采用双层涂覆法。所以我们只需将衬底浸入有机半导体溶液中，就能获得单分子层。
+
+This is a atomic force microscope graph.
+这是一张原子力显微镜图像。
+
+改不了。没事。我回别人早。
+Can't change it. It's okay. I get back to others early.
+
+Okay. And, uh, this FM image clearly shows that this is a monolayer. From B to D the only difference is the side chain.
+好的。呃，这张原子力显微镜图像清楚地表明，这是一层单分子层。从B到D，唯一的区别是侧链。
+
+A longer side chain of course with the slightly thicker field. Okay? On this monolayer we can put golden electrodes.
+侧链更长，当然，场也稍厚一些。明白吗？在这个单层上，我们可以放置金电极。
+
+So this monolayer is a semiconductor. So on this monolayer we can make a device. Uh, this is a field effect transistor. And we can also make a multi-layer of course.
+所以这个单层是半导体。所以，我们可以在这一单层上制作器件。呃，这是一个场效应晶体管。当然，我们也可以制作多层结构。
+
+So it can give a higher charge carrier ability. So this first hypothesis second hypothesis if we introduce functional groups to it the molecular packing will not change, right? Actually this is true.
+所以它可以提供更高的载流子能力。所以，第一个假设，第二个假设，如果我们向其中引入官能团，分子堆积不会改变，对吧？实际上这是正确的。
+
+If here the ester group essentially the same packing the ester groups on the two sides. If this group is, uh, hydroxyl group so the molecular packing does not change, right? So with that we had a hypo we conclude that this unique brickwork arrangement of this compound can comorbidate a variety of functional groups we obtain about eight crystal structures or supports this idea.
+如果这里的酯基基本上采用相同的堆积方式，两侧的酯基也是如此。如果这个基团是，呃，羟基，那么分子堆积就不会改变，对吧？因此，我们通过这一假设得出结论：该化合物独特的砌块式排列可以容纳多种官能团。我们获得了约八种晶体结构，这支持了这一观点。
+
+So with that okay this is a semiconductor, right? I mentioned that semiconductor. And we can introduce different functional groups on that. So this provides a very good platform for chemical sensors.
+所以，好，这是一种半导体，对吧？我提到过这种半导体。我们可以在上面引入不同的官能团。所以，这为化学传感器提供了一个非常好的平台。
+
+But this is real device. This is a real device. So how it's constructed?
+但这是一个真正的器件。这是一台真正的设备。那么它是如何构造的？
+
+So we have this organic semiconductor there in blue. And we put golden electrodes by vacuum depotation on the on here. So this is a channel lens, right? And then we put another microfluid channel above this channel we make sure that this microfluid channel is, uh, narrower than the, uh, semiconductor channel. So if water goes into it water will not touch the golden electrodes.
+蓝色的是这种有机半导体。我们通过真空沉积在这里放置金电极。所以这是一个通道透镜，对吧？然后，我们在这个通道上方再放置一条微流体通道，确保这条微流体通道比半导体通道更窄。所以，如果水进入其中，水就不会接触到金电极。
+
+Okay? So here water goes through and go out. Here are three electrodes.
+明白吗？所以水从这里流进去，再流出来。这里有三个电极。
+
+Source, drain, and gate. And then, uh, this real device we can measure current. If any accurate solution that's bring analyze to the surface and if any analyze react with the functional group or interact with the functional group this will convert the chemical event into electric signals, right? Okay. So if the surface is a TMS protected hydroxyl group uh so if you are familiar with organic chemistry you'll know that fluoride selectively react with this group.
+源极、漏极和栅极。然后，呃，对于这个实际器件，我们可以测量电流。如果任何准确的溶液到达表面并发生分析，或者与官能团发生反应或相互作用，就会将化学事件转化为电信号，对吧？好的。所以，如果表面是TMS保护的羟基，呃，如果你熟悉有机化学，就会知道氟化物会选择性地与这个基团反应。
+
+To convert this to a OH. Therefore this device can selectively detect the fluoride but not other anions. Okay? And if you have a active ester group this one selectively react with primary and secondary amine but not tertiary amine.
+将其转化为 OH。因此，该装置可以选择性地检测氟离子，而无法检测其他阴离子。明白吗？如果你有一个活性酯基团，它会选择性地与伯胺和仲胺反应，但不会与叔胺反应。
+
+Therefore it can differentiate tertiary amine from primary and secondary amine. Okay? And if this group is biotin uh which can selectively bind with the protein known as trapezoid okay?
+因此，它可以区分叔胺与伯胺和仲胺。明白吗？如果这个基团是生物素，呃，它可以与一种称为 trapezoid 的蛋白质选择性结合，好吗？
+
+And we are now the uh we for the protein we need to put it into a buffer solution. And we are now this solution to go through the microfluid channel and we found that current increase. Current increase. If the surface is not functionalized with this biotin just alcohol group the current slightly decrease.
+现在，呃，对于这种蛋白质，我们需要把它放入缓冲溶液中。然后我们让这种溶液流经微流体通道，发现电流增加了。电流增加。如果表面没有用生物素进行功能化，只是带有醇基，电流会略有下降。
+
+And if the this is not this specific protein but another protein so current not change. So you can see that selectivity is very good. And we can measure the you know this concentration as low as 36 picomol.
+如果这不是这种特定蛋白质，而是另一种蛋白质，那么电流就不会变化。所以你可以看到，选择性非常好。我们可以测量这个浓度，低至36皮摩尔。
+
+So 32 order of minus 12 mol. Very low concentration. So why the current increase? Because in this buffer solution this protein has negative charge.
+所以是 32 阶次的负 12 摩尔。非常低的浓度。那么，电流为什么增大了？因为在这种缓冲溶液中，这种蛋白质带负电荷。
+
+When it's interact with the biotin selectively it's immobilized on the surface. And this will in basically function as a extra gate voltage. To induce the positive charge in a P-type semiconductor.
+当它选择性地与生物素相互作用时，就会固定在表面上。这基本上会起到额外栅极电压的作用。在P型半导体中产生正电荷。
+
+More positive charge in P-type semiconductor means higher current. Okay? And, uh, so we also developed the gas sensor. Uh, this real device. So this gas sensor has a monolayer of the functionalized HVP and unfunctionalized HVP.
+P型半导体中正电荷越多，电流就越大。明白吗？呃，所以我们也开发了气体传感器。呃，这个实际设备。所以，这种气体传感器由一层功能化HVP和一层未功能化HVP组成。
+
+Mix them together. We can get a monolayer. And this monolayer please note that for this OFE device I mentioned a few times this interface is most important, right? Because charge transfer occur in this interface. So right now if this semiconductor is as thin as one monolayer that means active channel is exposed to the environment.
+把它们混合在一起。我们可以得到单层。请注意，对于这个 OFE 设备——我多次提到过——这个界面最为重要，对吧？因为电荷转移发生在这一界面。所以，如果这种半导体薄到只有一个单层，就意味着有源沟道暴露在环境中。
+
+So this will give the most sensitive uh most sensitive sensors. So in this way uh we can detect ammonium to 10 ppb or uh nitrogen uh nitrogen ox dioxide to 1 ppm. Okay? So finally let me summarize uh what I uh showed you I introduced today.
+所以这会产生最灵敏的，呃，最灵敏的传感器。所以通过这种方式，我们可以检测到低至10 ppb的铵，或者低至1 ppm的二氧化氮。明白吗？最后，让我总结一下我今天给大家介绍的内容。
+
+So basically I introduced the uh three strategies for molecular engineering uh of the organic transistor. Uh based on a brief introduction of the structure uh device structure uh device mechanism uh and some basic ideas of organic semiconductors. P-type and n-type. And these three strategies including the crystal engineering and molecular orbital engineering to cure the the packing of the orbital of the orbitals uh packing of the orbitals the packing of orbitals is the most important.
+所以，基本上我介绍了有机晶体管分子工程的三种策略。呃，基于对有机半导体的结构、器件结构、器件工作机制以及一些基本概念的简要介绍。P型和N型。而这三种策略包括晶体工程和分子轨道工程，以改善轨道的堆积。轨道的堆积，呃，轨道的堆积是最重要的。
+
+And interface engineering using self-sample monolayer in particularly here I used the phosphoric acid uh to modify the metal oxide surface. And uh third strategy is functionalization of organic semiconductor and to therefore uh we can develop OFET based chemical and biological sensors. Okay? So that's all for the lecture. Um and uh but of course still not stop yet.
+以及利用自组装单分子层进行界面工程，尤其是这里我使用了磷酸来修饰金属氧化物表面。第三种策略是对有机半导体进行功能化，因此，我们可以开发基于 OFET 的化学和生物传感器。明白吗？那么，今天的讲座就到这里。嗯，呃，不过当然，还没结束。
+
+Finish yet. Uh first we will have a course evaluation. I think the secretory may be already working outside.
+还没结束。呃，首先我们会进行课程评价。我想分泌部可能已经在外面运作了。
+
+Not yet. Um but also you will have quiz right as as the same as before. So first uh you need to reorganize yourself.
+还没有。嗯，不过你们也会像以前一样进行小测验。所以首先，呃，你需要重新整理一下自己。
+
+Okay? Try to sit as separate as possible. Uh and I will have two uh TAs to help me uh and uh try to sit to the front.
+好吗？尽量坐得尽可能远一些。呃，我会请两位助教来帮助我。呃，请尽量坐到前面。
+
+— 由 LecSync 生成

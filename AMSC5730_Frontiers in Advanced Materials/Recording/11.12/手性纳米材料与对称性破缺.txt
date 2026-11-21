@@ -1,0 +1,1833 @@
+手性纳米材料与对称性破缺
+日期: 2026年11月12日 19:54
+语言: 英语 → 中文
+时长: 1小时8分33秒
+
+Coded roughly to, um, 100 experiments. But after that, the maximum of the gear is 0.2.
+大致编码到，嗯，100个实验。但之后，齿轮的最大值是0.2。
+
+Okay? 0.2.
+明白吗？0.2。
+
+It's larger than 0.1, but I'm not satisfied. I wasn't satisfied.
+它大于0.1，但我并不满意。我不满意。
+
+All right, so now we introduce the machine learning.
+好，那么现在我们来介绍机器学习。
+
+So my PhD, they major in machine learning.
+所以我的博士，他们主要研究机器学习。
+
+When he was, uh, under- under, uh, Enfield. Right, so when we do experiment, we have some images, SEM images. We have a lot of optical, uh, data, right?
+当他，呃，在——在——呃，恩菲尔德手下时。对，所以当我们做实验时，我们会有一些图像，也就是扫描电子显微镜图像。我们有很多光学数据，对吧？
+
+So we combine them together, right? This is our database, right? And we do the machine learning. And after we do the machine learning, here we tell the machine what is the gear I want.
+所以我们把它们结合起来，对吧？这是我们的数据库，对吧？然后我们进行机器学习。完成机器学习后，我们在这里告诉机器我想要的是什么齿轮。
+
+I want 0.3, right? Can you tell me this A parameters?
+我想要0.3，对吧？你能告诉我这个 A 参数吗？
+
+Can you tell me what is the set of this A parameter? Right? So after machine learning, they tell me, right, what is alpha, what is beta, uh, what is that?
+你能告诉我这个 A 参数的取值范围是什么吗？对吧？所以经过机器学习之后，他们会告诉我，对吧，阿尔法是什么，贝塔是什么，呃，那个是什么？
+
+It doesn't matter, right? You don't need to go into detail, but basically, I need to know A parameters. This A set of parameters is coming from machine learning.
+没关系，对吧？你不需要讲得太详细，但基本上，我需要知道 A 参数。这组参数 A 来自机器学习。
+
+And this machine learning is from this 100 times experiment.
+而这个机器学习来自这100次实验。
+
+也就是做一个筛查的一个。
+That is, to conduct a screening.
+
+Right. And after that, we just spend 3 months, right? We increase the gear from 0.
+对。然后我们只花了三个月，对吧？我们将档位从0升上去。
+
+2 to 0.35. Right?
+从2提高到0.35。对吧？
+
+So we have 75% increase.
+所以，我们增加了75%。
+
+Uh, we use the machine learning. Okay? And machine learning, so this is quite interesting.
+呃，我们使用机器学习。明白吗？还有机器学习，所以这很有意思。
+
+数据集，标注的数据集。
+Dataset, annotated dataset.
+
+Right. This is quite interesting. This is how we do it.
+对。这很有意思。我们是这样做的。
+
+Right? So, uh, AI for science, right? This is AI for science.
+对吧？所以，呃，科学人工智能，对吧？这是科学领域的 AI。
+
+But you need to have the data first. And this is very, very important. Okay?
+但你首先需要有数据。这一点非常重要。明白吗？
+
+And, but how to manipulate the gear, basically, the very important thing is.
+但是，如何操作这个齿轮，基本上，这是非常重要的。
+
+或者很精准的。
+Or very precise.
+
+If you still remember, the helical, right? Right? We have what?
+如果你还记得，是螺旋的，对吧？对吧？我们有什么？
+
+Right? Uh, we have h, right? We have hi, right?
+对吧？呃，我们有 h，对吧？我们有 h_i，对吧？
+
+The hi is the number of h times h. Basically, h and the n is very important. Right?
+h 的平方就是 h 乘以 h。基本上，h 和 n 都非常重要。对吧？
+
+How, how, how, how big is the h? How many turns? Right?
+h 多大？多少圈？对吧？
+
+They cannot change the g_lum.
+他们无法更改 g_lum。
+
+Right? So what is the function of the core? Right?
+对吧？那么，磁芯的功能是什么？对吧？
+
+The function of the core is they give you a chiral structure. But the core, we're not emitting light. Who emits light?
+核心的功能是为它提供手性结构。但核心不会发光。谁会发光？
+
+Share. Right? So I have a core and a share.
+分享。对吧？所以我有一个核心和一个共享。
+
+So this is a general methodology. Right? And this is green light.
+所以，这是一般性的方法。对吧？这是绿光。
+
+How about red light? How about blue light? You just change the shape.
+那红灯呢？那么蓝光呢？你只需要改变形状。
+
+Right? So this is a general methodology. Right?
+对吧？所以，这是一般性的方法。对吧？
+
+And let me show you.
+我来给你们演示一下。
+
+Uh, how general it is. Right? So here.
+呃，它有多通用。对吧？所以，这里。
+
+Right? So I can change this, right? CSPD, you can change the X.
+对吧？所以我可以改变这个，对吧？CSPD，你可以改变 X。
+
+X is the, um, uh, hexagon. So we can have this.
+X 是，嗯，呃，六边形。所以我们可以有这个。
+
+Right? So we can have the core, right? We can have the core, right?
+对吧？所以我们可以有核心，对吧？我们可以有核心，对吧？
+
+We have the, uh, ioni. Right? CL, PR, and I.
+我们有，呃，ioni。对吧？CL、PR 和 I。
+
+So this is represent the X. X is this. So you can change the element, and you can change the ratio. So you can change the color.
+所以这代表 X。X 就是这个。所以你可以改变元素，也可以改变比例。所以你可以改变颜色。
+
+Right? So core, just give you a template. You want a different color?
+对吧？所以，Core 只是给你一个模板。你想换一种颜色吗？
+
+You just change the chemical, uh, composition of the shape.
+你只需改变这个形状的化学成分，呃。
+
+Uh, so let me show you.
+呃，那我来给你们演示一下。
+
+Right? So pay attention to the wavelength. So now my CPL, right?
+对吧？所以要注意波长。所以现在是我的 CPL，对吧？
+
+They came from the purple, blue, green, yellow, red. Right? Because I just changed the composition of X.
+它们来自紫色、蓝色、绿色、黄色和红色。对吧？因为我刚刚改变了 X 的组成。
+
+I can have all the wavelengths. Right? And what is the G factor?
+我可以拥有所有波长。对吧？那么，G 因子是多少？
+
+The start is the G factor, what I have. Right? And this is 0.1. Right? So in general, different color, the gear is acceptable for the device.
+起点是 G 因子，也就是我所拥有的。对吧？这是0.1。对吧？所以一般来说，不同的颜色，齿轮都可以用于该设备。
+
+Okay? So this is my capability. Core and share.
+明白吗？所以这就是我的能力。核心和共享。
+
+Core provide the chirality structure. Share, change the color.
+核心提供手性结构。共享，改变颜色。
+
+And actually, this is, uh, what we're going to do next. I'm going to ask my PhD student to have the second spin of company. And we're going to working on this, uh, 3D emission because I'm quite focused on the this market.
+实际上，这就是我们接下来要做的。我会请我的博士生来负责公司的第二轮旋转。我们会着手研究这个，呃，3D 发射，因为我对这个市场相当关注。
+
+But we need the money. Right? We need the money.
+但我们需要资金。对吧？我们需要这笔钱。
+
+And, uh, we can synthesize this, cover the whole, the large area. We can do, like, a 4-inch wafer, 6-inch wafer. Right? So when we do the coating, we can do the all coating here.
+而且，呃，我们可以把这个综合起来，覆盖整个大面积区域。我们可以做，比如，4英寸晶圆、6英寸晶圆。对吧？所以，当我们进行镀层处理时，可以在这里进行整体镀层。
+
+Right? So that's the mass production. Towards the mass production.
+对吧？所以这就是量产。迈向大规模生产。
+
+Okay? So yep.
+明白吗？所以，是的。
+
+So now, uh, I finish this finish this. Now, now I go to here. Right?
+那么现在，呃，我完成这个，完成这个。现在，现在我到这儿。对吧？
+
+So previously, I just control the symmetry breaking of the light. But go back to the beginning. What we want to control is not a light. We want to control is the, uh, uh, uh, uh, symmetric of molecule.
+所以之前，我只是控制光的对称性破缺。但回到一开始。我们想要控制的并不是一束光。我们想要控制的是，呃，呃，呃，呃，分子的对称性。
+
+This is our target. Uh, chiral drop, for example. Right? So how we can do that? And actually, um, um, let me try to explain this in the very simple way to help you to understand, uh, what it is.
+这是我们的目标。呃，手性滴液，例如。对吧？那么我们该怎么做呢？其实，嗯，嗯，让我试着用非常简单的方式解释一下，帮助你理解，呃，它是什么。
+
+Um, it's quite challenging for me, uh, in this, uh, very short limit of time. And can you understand? Okay.
+嗯，在这么短的时间内，这对我来说确实很有挑战性。你能理解吗？好的。
+
+So, of course, uh, we're going to starting from one example. Right? We, we, we, we starting from this molecule.
+所以，当然，呃，我们先从一个例子开始。对吧？我们，我们，我们，我们从这个分子开始。
+
+And this is a benzene ring, benzene ring, benzene ring. And here is a functional group. Why we started this?
+这是一个苯环，苯环，苯环。这里是一个官能团。我们为什么开始讲这个？
+
+And now what we are doing, right? I, I use this screen is, uh, this is our helical. Right?
+现在我们正在做什么，对吧？我，我用这个屏幕是，呃，这是我们的螺旋结构。对吧？
+
+We can do it the left-handed. We can do it the right-handed. We, we put this molecule on.
+我们可以做左手螺旋的。我们可以做右旋的。我们，我们把这个分子放在上面。
+
+We shine the light. This is we shine the light. Right?
+我们照射光。这就是我们照射光。对吧？
+
+And we can have the product. And this product is chiral molecule. And when you control the handiness of this, you can control the handiness of this.
+然后我们就能得到产物。这个产物是手性分子。当你控制这个的旋光性时，你就能控制这个的旋光性。
+
+We break the symmetry. Okay? So basically, this is what we are doing.
+我们打破了对称性。明白吗？所以，基本上，这就是我们正在做的。
+
+Right? So what is this molecule? This is what we call this is AC.
+对吧？那么，这个分子是什么？这就是我们所说的 AC。
+
+And first of all, why I select this? Because this is the molecule coming from the space. The source of the carbon. Right? So one of the, uh, idea we think the chirality of the molecule is because of what we call is the extra, um, earth.
+首先，我为什么选择这个？因为这是来自太空的分子。碳的来源。对吧？所以，我们想到的一个想法是，分子的旋光性是因为我们所说的额外，嗯，地球。
+
+我们叫外太空。
+We call it outer space.
+
+It coming from out of Earth. This is one possibility. And this molecule is the carbon source from space.
+它来自地球之外。这是一种可能性。而这个分子是来自太空的碳源。
+
+Right? So we focus on this molecule. And this molecule actually is the, uh, let's see.
+对吧？所以我们重点关注这个分子。而这个分子实际上是，呃，让我想想。
+
+This molecule is, is a plane, plane molecule. And, uh, so what happened? First of all, we, we need to have the two molecule.
+这个分子是，是平面的，平面分子。那么，呃，发生了什么？首先，我们需要有两个分子。
+
+And these two molecule, they, uh, because this is benzene. Right? So they can have the hybridization.
+而这两个分子，它们，呃，因为这是苯。对吧？所以它们可以发生杂化。
+
+And here we have, uh, we call this is the tail. And just because the tail, they have chirality. Um, how I can explain this to you?
+这里我们有，呃，我们把这个称为尾部。仅仅因为这个尾部，它们就具有手性。嗯，我该怎么向你解释这个呢？
+
+Actually, I do have a 3D stuff like this, but it was broken.
+其实，我确实有一个这样的三维东西，但它坏了。
+
+We don't have, like, a we know English.
+我们没有，怎么说呢，我们知道英语。
+
+So yeah, I know that we have the same color. Okay. So it, it, it is like this.
+所以，是的，我知道我们有相同的颜色。好的。所以它，它，它就是这样。
+
+Okay? Um, so look at my hand. Right?
+明白吗？嗯，看看我的手。对吧？
+
+So this, this is a plane. Right? And, and, and my thumb is, is, is this.
+所以，这是一个平面。对吧？然后，然后，然后我的拇指是，是，是这个。
+
+Right? So where's the chirality? Chirality is, uh, this one, they do not have chirality.
+对吧？那么手性的位置在哪里？手性是，呃，这个；它们没有手性。
+
+But now we have dimer. Right? So, um, I have a two-phase.
+但现在我们有二聚体。对吧？所以，嗯，我有一个两相。
+
+Right?
+对吧？
+
+Uh, 这手心，这是手背。
+Uh, this is the palm, and this is the back of the hand.
+
+Right?
+对吧？
+
+They have a different color. Right? Green and purple.
+它们有不同的颜色。对吧？绿色和紫色。
+
+手心，手背。
+Palmar side, dorsal side.
+
+Right? So for the number one, what is the number one?
+对吧？那么，第一题的答案是什么？
+
+The number one is, uh, one tail's here, one tail's here. Right? And it, it, it is like this.
+第一题是，呃，这里有一个尾部，这里有一个尾部。对吧？而且它，它，它就像这样。
+
+It's like this. Right? And the number two is like this.
+是这样的。对吧？第二个是这样的。
+
+Okay? And number three and number four is, uh, my thumb is on the same side. Right?
+明白吗？第三和第四，呃，我的拇指在同侧。对吧？
+
+So number four is like this. Number four. And number three is not.
+所以，数字四像这样。第四。而第三个不是。
+
+Number three is 白的过来了。
+Number three is “the white one has arrived.”
+
+Okay? Right?
+明白吗？对吧？
+
+啊，一个就是手背，手心。另外一个是手心，手背。 So basically, 这，这个平面的问题。
+Uh, one is the back of the hand and the palm. The other one is the palm and the back of the hand. So basically, this is a planar issue.
+
+Sorry, uh, my 3D stuff is broken. Otherwise, I can show you more easily because I, I, I do really, uh, have this. Right?
+抱歉，呃，我的3D内容出问题了。不然的话，我可以更轻松地给你看，因为我，我，我确实有这个。对吧？
+
+So now I put this molecule on. Right? And then, uh, we're going to so the product is these two.
+所以现在我把这个分子放上去。对吧？然后，呃，我们要……所以产物就是这两个。
+
+And this is a chiral. So now we're going to focus on this. And we, we, we said they have two, uh, uh, handiness.
+这是一个手性分子。所以现在我们要重点关注这个。我们，我们，我们说过它们有两个，呃，呃，手性。
+
+One is plus, one is negative. So that, uh, you can say this is left hand, this is right hand. Okay? So the result is this is the left-handed one.
+一个是正的，一个是负的。所以，呃，你可以说这是左手的，这是右手的。明白吗？所以结果是，这是左手性的。
+
+When we do this, uh, reaction, right, this is plus 3, this is minus 3. And this is we, we, we separate these two. Right?
+当我们进行这个，呃，反应时，对吧，这是正3，这是负3。而这是我们，我们，我们把这两个分开。对吧？
+
+And the amount of the chemical is proportional to the height of this peak. Right? And you can find that these peak, they are not identical.
+化学物质的含量与这个峰的高度成正比。对吧？你可以发现，这些峰并不相同。
+
+That means here we prefer to generate the plus 3. Plus 3 is more than the negative 3. Symmetry is broken. Asymmetric synthesis.
+这意味着在这里，我们更倾向于生成正3。正3比负3更大。对称性被打破了。不对称合成。
+
+Right? And quantitatively, we call this is EE. EE is I need to show you what is EE.
+对吧？从定量角度来看，我们称之为 EE。EE 是……我需要向你们展示什么是 EE。
+
+Right? The EE is E and turmeric.
+对吧？EE 是 E 和姜黄。
+
+E value. E value is the amount of three, uh, plus minus, uh, three minus. Divided by plus, plus, minus.
+E值。E值是三个，呃，正负，呃，三负。除以正、正、负。
+
+这又有点像人均国民生产总值，跟那个 GE factor 很像。
+This is a bit like per capita gross national product, very similar to the GE factor.
+
+Right? And of course, we want the EE value is 100%.
+对吧？当然，我们希望 EE 值为 100%。
+
+Right? 100% means we have pure three plus. Right?
+对吧？100%意味着我们有纯三正。对吧？
+
+Negative 100%, we have pure minus three. Right? But you can find out, oh, my E is very small.
+负100%，我们有纯负三。对吧？但你可以发现，哦，我的 E 非常小。
+
+Very small. But we have a new technology. Right?
+非常小。但我们有了新技术。对吧？
+
+Right? So left-handed, the EE is positive. That means plus three is more.
+对吧？所以对于左手，EE 是正的。这意味着正三更大。
+
+Right? And the right-handed, the EE is negative. That means negative three is more.
+对吧？而右手螺旋的 EE 是负的。这意味着负三更大。
+
+Right? Symmetry has been broken.
+对吧？对称性已经被打破了。
+
+Okay?
+明白吗？
+
+And then we, we can control the pitch.
+然后我们，我们可以控制音高。
+
+Right? We can control the pitch. And after control of pitch, right, we can measure the EE.
+对吧？我们可以控制音高。控制音高之后，对吧，我们就可以测量EE。
+
+And in general, left-handed EE is positive. Right? So we can prefer to generate positive three.
+一般来说，左旋 EE 为正。对吧？所以我们可以优先生成正三。
+
+Right? The right-handed, the EE is all negative. They prefer to generate minus three. And when you increase the pitch, the EE reduced.
+对吧？右手系中，EE 都是负的。他们更倾向于生成负三。当你增大音高时，EE 会降低。
+
+Right? So the, the, the, the structure, right, can engineer how good the symmetry breaking is. Okay?
+对吧？所以，这个，这个，这个，这个结构，对吧，可以设计出对称性破缺的程度有多好。明白吗？
+
+And then you, you, you may ask me, so why? Right? What happened?
+然后你可能会问我，那为什么呢？对吧？发生了什么？
+
+Why you can control that? And no, so previously, that is the silver. Right?
+为什么你能控制那个？不，所以之前，那就是银色的。对吧？
+
+I can also do this with the copper. Right? So silver can do it, copper can do it.
+我也可以用铜来做这个。对吧？所以银可以做到，铜也可以做到。
+
+Right? This is a geniality. It's not only just for one material.
+对吧？这是一种巧妙的方法。这不只是针对一种材料的。
+
+Right? And for the copper, the left-handed EE is positive. The right-handed EE is negative.
+对吧？对于铜，左旋 EE 为正。右旋 EE 为负。
+
+Right? So they are consistent. Okay?
+对吧？所以它们是一致的。明白吗？
+
+So why? What happened? First of all, right, we need to do one control experiment.
+所以为什么？发生了什么？首先，对，我们需要做一个对照实验。
+
+My metal do not have chirality. Right? So this is a chiral.
+我的金属没有手性。对吧？所以这是一个手性的。
+
+And then I measure E and found that E is zero. Right? So this E value, they do really coming from my helical structures.
+然后我测量了 E，发现 E 等于零。对吧？所以这个 E 值确实来自我的螺旋结构。
+
+The chirality of the helical. So this is the first, uh, control experiment. Right? And then we need to understand the mechanism.
+螺旋结构的旋光性。所以这是第一个，呃，对照实验。对吧？然后我们需要了解其机制。
+
+And we, we, we ask help from the simulation. Right? So first of all, we, uh, this is the experimental data we do need.
+我们，我们，我们借助模拟来帮助理解。对吧？所以首先，我们，呃，这些就是我们需要的实验数据。
+
+Right? We found that on our metal, we have this chiral lattice. This is one nanometer. Each dot, each dot what you see here is one atom.
+对吧？我们发现，我们的金属具有这种手性晶格。这是1纳米。每个点，每个点——你们在这里看到的都是一个原子。
+
+It's one atom. Right? So we have this like a wave guide of chiral surface.
+这是一个原子。对吧？所以，我们这里有一个类似手性表面波导的东西。
+
+Right? So for example, this is the right-handed. We do the simulation. And we found that, right, if you remember, my molecule, I have two phase.
+对吧？所以，例如，这是右旋的。我们进行模拟。我们发现，对吧，如果你还记得的话，我的分子有两个相。
+
+Right? We have, uh, green and the purple. Right?
+对吧？我们有，呃，绿色和紫色。对吧？
+
+So if this right-handed, this is green to green. The energy is lower. Right?
+所以，如果这个是右手的，这就是绿色对绿色。能量更低。对吧？
+
+Purple to purple, the energy is higher. Right? And the green-green, it give us negative.
+紫色到紫色，能量更高。对吧？而绿色到绿色，它给出的是负值。
+
+Right? So the lower energy means they prefer to have this reaction. Rather than this.
+对吧？所以，能量越低，它们就越倾向于发生这个反应。而不是这个。
+
+So this, this is why we can have more negative charge. So what is the force we apply to break the symmetry? This force actually is the interaction between the chiral molecule with chiral surface. This is the force.
+所以，这就是为什么我们可以有更负的电荷。那么，我们需要施加什么力来打破这种对称性呢？这个力实际上是手性分子与手性表面之间的相互作用。这就是力。
+
+This is the force what we are talking about. Right? And this is organic free.
+这就是我们所说的力。对吧？这是有机的，没有束缚。
+
+Right? My surface, we do not have organic. So this is maybe the reason, right, um, how we generate, how we break the symmetry from the inorganic earth.
+对吧？我的表面，我们没有有机物。所以这可能是原因，对吧，嗯，我们如何从无机界产生、如何打破对称性。
+
+Right? So now I'm talking about the origin of homochirality. Okay?
+对吧？所以现在我讲的是手性的起源。明白吗？
+
+Yeah. So now I think, uh, we are, we are good. We are good to go.
+对。所以现在我想，呃，我们，我们讲得很好。我们可以开始了。
+
+Yeah. Having a break, right?
+对。休息一下，对吧？
+
+So, um, this is, uh, the thing, uh, what we are doing. Okay? And I think, um, the next is.
+所以，嗯，这就是，呃，我们正在做的事情。明白吗？我想，嗯，接下来是。
+
+So now the, the, the, the next thing is we still focus on this molecule. Why we focus on this molecule? Benzene ring, carbon source.
+那么现在，下一项我们仍然聚焦于这个分子。为什么我们关注这个分子？苯环，碳源。
+
+Right? So this molecule. Provide a carbon. Right?
+对吧？所以，这个分子。提供一个碳源。对吧？
+
+So this is maybe the source of our life. Right? So I'm quite focused on this molecule.
+所以，这可能是我们生命的来源。对吧？所以我对这个分子相当关注。
+
+So this molecule, what is the problem? Um, so this is the 3D. Right? The benzene ring, but this is not planned.
+那么，这个分子有什么问题？嗯，所以这是三维结构。对吧？苯环，但这个不是计划好的。
+
+Right? It's, it's, uh, the M is going up, right? We have four benzene rings going up like this.
+对吧？它，它，呃，M 是在上升，对吧？我们有四个苯环像这样向上延伸。
+
+Right? The P is going up like this. Right? And, but the, they, they can, they can, uh, transform very easily because the energy area is too small.
+对吧？P 是这样朝上的。对吧？而且，但是它们，它们可以，它们可以，呃，非常容易地转化，因为能量区域太小了。
+
+Right? So at the room temperature, they can go from M to P. And they can go from P to M.
+对吧？所以在室温下，它们可以从 M 相转变为 P 相，也可以从 P 相转变为 M 相。
+
+So symmetry is not broken.
+所以对称性没有被打破。
+
+Symmetry is not broken. So now how we can break their symmetry? Right?
+对称性没有被打破。那么现在我们如何才能打破它们的对称性呢？对吧？
+
+We want to use my chiral helical structures to break the symmetry. This is, uh, what we are doing.
+我们想利用我的手性螺旋结构来打破对称性。这就是，呃，我们正在做的。
+
+Okay.
+好的。
+
+So now I just give you a scheme. Right? So I can have, for example, I have this, uh, left-handed, uh, structure.
+所以现在我只给你们一个方案。对吧？所以我可以有，比如说，我有这个，呃，左手性的，呃，结构。
+
+Right? I put this molecule on. Right?
+对吧？我把这个分子放上去。对吧？
+
+And then. If, uh, this is the right-handed, I can have the P. If this is the left-handed, I can have the M. I break the symmetry.
+然后。如果，呃，这是右旋的，我可以得到 P。如果这是左旋的，我可以得到 M。我打破了对称性。
+
+Right? And why I break the symmetry? And actually, uh, we do the observation, we do the simulation.
+对吧？那我为什么要打破这种对称性呢？实际上，呃，我们进行观测，也进行模拟。
+
+Okay? And I, I will show you why later. I will show you why later.
+明白吗？我稍后会向你们解释原因。我稍后会向你们解释为什么。
+
+Let me, let me show you the, the experimental data.
+让我，让我给你们看一下实验数据。
+
+So first of all, I use silica. As my inorganic surface. Why I select silica? Again, I want to understand this, uh, the life.
+首先，我使用二氧化硅。作为我的无机表面。我为什么选择二氧化硅？再说一次，我想了解这个，呃，生命。
+
+Right? How the life. So the inorganic material must be the component of earth. And silica, silica 石英或者是玻璃 is very dominant on earth.
+对吧？生命如何。所以，无机材料必须是地球的组成部分。二氧化硅，也就是石英或玻璃，在地球上非常普遍。
+
+Right? So I particularly select silica. Right?
+对吧？所以我特别选择了二氧化硅。对吧？
+
+So I want to mimic the structure of earth.
+所以我想模仿地球的结构。
+
+So we can have the left-handed and the right-handed silica nanocubic. This is my technology. Right?
+这样，我们就可以得到左旋和右旋的二氧化硅纳米立方体。这是我的技术。对吧？
+
+So then I put the, this molecule in. Right? For the left-handed, for the left-handed, when I put the molecule in, right, this is the CD.
+然后我把这个分子放进去。对吧？对于左旋的，对于左旋的，当我把分子放进去时，对吧，这就是圆二色谱。
+
+这个。
+This.
+
+Right? So you can find, okay, I have a P here. Right? But when I change from the left-handed to the right-handed silica, and I put the molecule on, I protect the symmetry.
+对吧？所以你可以看到，好，我这里有一个 P。对吧？但当我从左旋二氧化硅换成右旋二氧化硅，并把分子放上去时，我保持了对称性。
+
+So what is this? This is for M. Right?
+那么这是什么？这是给 M 的，对吧？
+
+This is for P. Right? So I break the symmetry.
+这是给 P 的，对吧？所以我打破了这种对称性。
+
+I break the symmetry. I can get the pure P, and I can get the pure M molecule.
+我打破对称性。我可以得到纯 P 分子，也可以得到纯 M 分子。
+
+All right?
+明白吗？
+
+So, uh, and, uh, it's not only for the silica.
+所以，呃，而且，呃，这不仅适用于二氧化硅。
+
+对。
+Right.
+
+Go.
+开始。
+
+还有一个，等会儿时间表不用看了。
+One more thing—the schedule doesn’t need to be looked at later.
+
+Right? And it's not only go.
+对吧？而且不只是“go”。
+
+Uh, we have done a lot. We have done a lot.
+呃，我们已经做了很多。我们已经做了很多。
+
+哎。
+Ah.
+
+跟现在好。
+It’s better now.
+
+But that's talking about the go first. So now why? Why they can break the symmetry?
+但那是说先走。所以现在为什么？为什么他们能打破对称性？
+
+So first of all, right, we, we use the, uh, technology. Right? We find that, okay, chiral, the go have the chiral step.
+所以首先，对吧，我们，我们使用这个，呃，技术。对吧？我们发现，好的，手性的，有手性步骤。
+
+This is the chiral step. For example, this is the left-handed chiral go step.
+这是手性步骤。例如，这是左旋手性 go 步骤。
+
+然后外面的呢？
+And what about the outside?
+
+Then right, so now this is the molecule.
+然后是右旋的，所以现在这是这个分子。
+
+没有。
+No.
+
+Right? We have N, we have P. Right?
+对吧？我们有N，我们有P。对吧？
+
+So for the left-handed.
+那么对于左旋的。
+
+我就走回去。你，你，你短定的是什么手机号啊？
+I’ll just walk back.What mobile number did you set as your short number?
+
+呃。
+Uh.
+
+我以前的。
+My old one.
+
+Line over surface. And we found that for the left-handed, the M molecule because chirality M molecule the energy is lower. The P molecule, the energy is higher.
+线对表面。我们发现，对于左旋的 M 分子，由于具有手性，其能量更低。P 分子的能量更高。
+
+Right? And we know that this is the universe principle.
+对吧？我们知道，这是宇宙法则。
+
+知道。
+I know.
+
+Right? We want to minimize our energy. Right? So all the molecule, when it's light on my left-handed surface, I prefer to do it rather than repeat.
+对吧？我们希望将能量降到最低。对吧？所以，所有分子，当它照射到我的左手表面时，我更愿意这样做，而不是重复。
+
+Okay? So this is symmetry breaking. This is symmetry.
+明白吗？所以这就是对称性破缺。这是对称性。
+
+We do the simulation. Uh, you don't need to, uh, understand go into the details. It's fine. And then right, so the first molecules and now we have the second molecule.
+我们进行模拟。呃，你不需要，呃，理解这些细节。没关系。然后，对，所以是第一个分子，现在我们有第二个分子。
+
+And this is the pi bond. Right? They prefer overlapping.
+这是π键。对吧？它们更倾向于重叠。
+
+If you have M first, the second one, it will be the M. Because they can overlap. If you have a P, it cannot overlap.
+如果你先有 M，那么第二个也会是 M。因为它们可以重叠。如果有 P，它就不能重叠。
+
+Energy. Reduce the energy. So first one is M. The second one is the M.
+能量。降低能量。所以第一个是 M。第二个也是 M。
+
+The third one, M. So it's M, M, M, M, M. So we call this is, uh, chirality amplification.
+第三个也是 M。所以是 M、M、M、M、M。我们把这个称为，呃，手性放大。
+
+And then we break the symmetry. So the key part, again, is the interaction. How I break the symmetry is the interaction between the surface and the molecule.
+然后我们打破对称性。所以，关键还是相互作用。我如何打破对称性，取决于表面与分子之间的相互作用。
+
+Right? So this is very, very similar. And so now I show you silica.
+对吧？所以这非常非常相似。现在我给大家展示二氧化硅。
+
+Right? I show you gold. And actually, um, we can have more.
+对吧？我给你们看黄金。其实，嗯，我们还可以有更多。
+
+你刚才说的。
+What you just said.
+
+就在这个地方，不要在这儿，在这儿。
+Right here. Not here, here.
+
+你是对于购买项目进行，然后不是携带品和实施。
+You are conducting the purchase project, and then not the carry-on and implementation.
+
+不用改这儿的ID。
+You don't need to change the ID here.
+
+We can have titanium, T-I-N. We can have iron oxide.
+我们可以有钛，T-I-N。我们可以有氧化铁。
+
+转ID吗？
+Should the ID be transferred?
+
+We can have tin oxide.
+我们可以有氧化锡。
+
+什么？
+What?
+
+We can have the gold.
+我们可以有黄金。
+
+但是现在那个没确认。
+But that one hasn’t been confirmed yet.
+
+They can.
+他们可以。
+
+我想要改回。
+I want to change it back.
+
+Break the symmetry of this molecule. Right?
+打破这个分子的对称性。对吧？
+
+And, uh, 改，改这个地方的出问题。
+And, uh, changing—there’s a problem with changing this part.
+
+This special, this, this is the quite, uh, important mineral.
+这种特殊的，这个，这个是非常，呃，重要的矿物质。
+
+这样。
+Like this.
+
+矿物质。
+Minerals.
+
+这样，就是通过 Apple Store 的ID用。
+So, use the Apple Store ID.
+
+Right? So we, we, we really think about the origin of life. We mean it.
+对吧？所以我们，我们，我们确实思考过生命的起源。我们是认真的。
+
+The structure, the material of earth. Right? And we show you how the material on earth can control the symmetry breaking of the molecule.
+地球的结构、物质。对吧？我们向你们展示，地球上的物质如何控制分子的对称性破缺。
+
+Right? So this is, uh, uh, what we pro- provide to answer that important fundamental science questions.
+对吧？所以，呃，呃，这就是我们为回答那个重要的基础科学问题所提供的……
+
+真的又没确定。
+It’s still not confirmed.
+
+Yeah.
+对。
+
+So now we're going to move to here. We're going to move to here. We want to control the electron speed.
+那么现在我们要转到这里。我们要移到这里。我们想要控制电子的速度。
+
+这家伙又老是开启那个那个啥。
+This guy keeps turning on that, that, whatever.
+
+So, um, 这家伙总
+So, um, this guy always…
+
+，总，总能。
+always, always can.
+
+This is the I knew, uh, uh, field.
+这是我知道的，呃，呃，场。
+
+就老是。
+Just keeps doing it.
+
+And actually, this is quite, uh, under debate. Uh, it's not especially for the physics, physicist. They don't quite believe we are correct.
+实际上，这一点还颇有争议。呃，这并不特别针对物理学，也不针对物理学家。他们不太相信我们是对的。
+
+Right? But, uh, again, I, I, I just tell you at the very beginning. Right?
+对吧？但是，呃，再说一次，我，我，我一开始就跟你们说。对吧？
+
+Maybe 10 years later, you were worried I am correct. Maybe I am wrong.
+也许十年后，你担心我……我说得对吗？也许我错了。
+
+我现在很安全。我发现我就得。
+I'm very safe now. I realize that I just have to.
+
+This is the development of science.
+这就是科学的发展。
+
+那个什么。
+That, um...
+
+Right? So now the idea here is before we have a break. Now the idea here is, I think, uh, uh, when you learn the chemistry in high school, in high school, right, what is the reduction?
+对吧？所以现在这里的想法是，在我们休息之前。这里的想法是，我想，呃，呃，当你在高中学习化学时，在高中，对吧，什么是还原反应？
+
+What is the oxidation? Right? Th-this is how we generate, how we do the synthesis. Right?
+什么是氧化？对吧？这——这就是我们如何生成、如何进行合成。对吧？
+
+The reduction is I take electron. Right? The oxidation is I donate the electron.
+还原反应就是我获得电子。对吧？氧化就是我失去电子。
+
+Right? Okay. So now let's think about reduction.
+对吧？好的。那么现在我们来思考一下还原。
+
+Take the electron.
+夺取电子。
+
+So far, right, uh, what we are doing is, yeah, I take the electron, but 50% speed up, 50% speed down. We cannot control electron speed.
+到目前为止，对吧，呃，我们所做的就是，嗯，我拿这个电子，但速度提高50%，速度降低50%。我们无法控制电子的速度。
+
+这个。
+This.
+
+This is what we have right now. But if you can control electron speed, now when I do the reduction, all the electron is speed up. All, all the electron is speed down.
+这就是我们目前的情况。但如果你能控制电子速度，那么当我进行还原时，所有电子都会加速。所有的，所有的电子都被减速了。
+
+Is it possible we can break the symmetry? And is it possible we can get the asymmetry synthesis? Because electron has chirality.
+我们有可能打破这种对称性吗？我们是否有可能实现不对称合成？因为电子具有手性。
+
+Right? And here, the idea here is conservation.
+对吧？这里的想法是守恒。
+
+守恒。
+Conservation.
+
+我们叫守性守恒。
+We call it “shuxing” conservation.
+
+Chirality conservation. Initially, we have this, right?
+手性守恒。一开始，我们有这个，对吧？
+
+When you take this, this chirality will be transferred to the molecule.
+当你采用这个时，这种手性会传递到分子上。
+
+This is quantum. Right?
+这是量子的。对吧？
+
+But, uh, a lot of chemists don't agree with me. But it's fine. Right?
+但是，呃，很多化学家不同意我的看法。 不过没关系。 对吧？
+
+Science, science 本来就是应该 argue 的过程。
+Science—science is inherently a process of arguing.
+
+现在我们认为对的，在100年前可能也是 argue。 爱因斯坦的广义相对论什么，到现在还在 argue。
+What we now consider correct may have also been argued about 100 years ago.Einstein’s general theory of relativity—what is it?—is still being debated today.
+
+Right?
+对吧？
+
+Uh, this is science. It's fine. Okay?
+呃，这是科学。没关系。好吗？
+
+So now, um, yeah. So I let's take a break.
+所以现在，嗯，是的。那我们休息一下吧。
+
+谢谢。
+Thank you.
+
+业务吧
+Business, I guess.
+
+。
+.
+
+也不在这儿。
+It’s not here either.
+
+这小点都被录进去了。
+Every little detail was recorded.
+
+来，就这个。
+Come on, just this one.
+
+So this is an ongoing research, and, uh, I will not go into very detail, uh, because, uh, the mechanism we are still talking about. But we can have a quite reliable me- uh, uh, phenomenon, uh, observation. Okay.
+所以这是一项正在进行中的研究，呃，我不会讲得太详细，呃，因为，呃，我们仍在讨论其机制。但我们可以对这种现象进行相当可靠的观测。好的。
+
+So, first of all, we, uh, use, uh, my technology. Can I sing and go deposition, right? So we, we can generate the left, the right, and the a chyro.
+所以，首先，我们，呃，使用，呃，我的技术。我可以一边唱歌一边去作证，对吧？所以我们，我们可以生成左侧、右侧和 a chyro。
+
+This is a chyro. This is a control. Right. And.
+这是一个 chyro。这是一个对照。对。然后。
+
+Uh, how to control the electron speed? So now, what you can think about is, right, this is just like a slide property.
+呃，如何控制电子速度？所以现在，你可以这样想，对吧，这就像一个滑块属性。
+
+Right. This board is electron. Right. So when we apply the voltage, we apply the voltage, right, you can get the electron sliding.
+对。这块板是电子的。对。所以当我们施加电压时，施加电压，对吧，电子就会滑动。
+
+Right. And the blue one represents speed up. The red one represents speed down.
+对。蓝色的那个表示加速。红色表示减速。
+
+Right. So they are electron, but they have different speed polarization. Okay.
+对。所以它们是电子，但具有不同的速度极化。好的。
+
+So, uh, what we found out, uh, how we found that I cannot go into the detail, but what we found out, for the, uh, this, this is the right-handed one. Right-handed one or they have this is a speed down. So when this electron goes through the right-handed slider, the electron, they are almost speed down.
+所以，呃，我们发现，呃，我们是怎么发现的，我没法详细讲，但我们的发现是，呃，这个，这个是右旋的。右手的，或者他们有这个，是速度下降。所以，当这个电子穿过右手螺旋滑块时，电子，它们几乎减速了。
+
+If this is the left-handed, the electron speed up. Right. If this slider do not have polarity, 50/50, we cannot control the electron speed.
+如果是左手性的，电子就会加速。对。如果这个滑块没有极性，也就是各占一半，我们就无法控制电子的速度。
+
+And what is this phenomena? This phenomena is cease.
+这种现象是什么？这种现象是停止。
+
+Circular induced speed selectivity. Circular induced, right. Who induced this?
+圆周诱导速度选择性。圆周诱导的，对吧。谁诱导了这个？
+
+Because of the hierarchy of my slider. Right. This is metal.
+因为我的滑块存在层级关系。对。这是金属。
+
+Right. So just because of this, we can induce speed selectivity. Right.
+对。所以，仅仅因为这个，我们就可以诱导速度选择性。对。
+
+So we can select the speed up or speed down. So we call this is a cease. Circular induced speed selectivity.
+所以我们可以选择加快或减慢速度。所以我们称这是一个停止。圆周诱导速度选择性。
+
+Right. And then we do the electrochemical synthesis.
+对。然后我们进行电化学合成。
+
+Why we do electrochemical? Because, uh, I need to provide electrons for the reduction. Right. So this is the electrochemical reaction, or this is the watt electron, right, which is my metal.
+我们为什么要进行电化学合成？因为，呃，我需要为还原反应提供电子。对。所以这是电化学反应，或者这是瓦特电子，对吧，也就是我的金属。
+
+This is silver. It's conductive. Right. So for example, this is the right-handed one.
+这是银。它是导电的。对。所以，例如，这是右旋的。
+
+Right. So when you apply the voltage, they cannot generate the speed down electron.
+对。所以当你施加电压时，它们无法产生向下运动的电子。
+
+So now we have this, uh, PGA molecule.
+所以现在我们有了这个，呃，PGA 分子。
+
+Right. And when I get the electron, uh, they cannot have the hydrogen. Right.
+对。当我得到电子时，呃，它们就不能有氢。对。
+
+They cannot have the hydrogen addition. Then they cannot generate the econ.
+它们不能发生氢化反应。那么它们就无法生成 econ。
+
+And this is the product, and this is the chylocarbon. Right. Because R1, R2, R3, R4 is hydrogen.
+这是产物，这是 chylocarbon。对。因为 R1、R2、R3、R4 都是氢。
+
+Right. They are all different. Right.
+对。它们都不一样。对。
+
+So this is the chylocarbon. We call this is Na? Right.
+所以这是 chylocarbon。我们把这个叫作 Na？对。
+
+So and he has a mineral image, S. So we found that, right, we calculate the E value, if you still remember, E value. Right.
+所以，他有一个矿物图像，S。所以我们发现，对吧，我们计算了 E 值，如果你还记得的话，E 值。对。
+
+E value, the R. So if this is the right-handed, we can pro- generate the speed down electron. So the E value is positive 42%.
+E 值，R。所以如果这是右手性的，我们可以产——生成向下运动的电子。所以 E 值是正 42%。
+
+That means we prefer to generate the R molecule. If you change to the right-handed, uh, left-handed, we cannot provide the speed up electron. So we cannot generate the S molecule.
+这意味着我们更倾向于生成 R 分子。如果你改为右旋，呃，左旋，我们就无法提供加速电子。所以我们无法生成S分子。
+
+So the E value is negative. Right. So this is positive.
+所以 E 值是负的。对。所以这是正的。
+
+This is negative. Right. So we can select.
+这是负的。对。所以我们可以选择。
+
+We break the symmetric. Right. We can selectively generate the chylomolecule.
+我们打破对称性。对。我们可以选择性地生成乳糜分子。
+
+And as a control, right, if we change to the non-chylo, and for this, we have 50% speed up, we have 50% speed down. So we have 50% R, we have 50% S. So the E value is close to zero.
+作为对照，对吧，如果我们切换到非 chylo，那么这里速度会提高 50%，也会降低 50%。所以我们有50%的R和50%的S。因此，E值接近于零。
+
+Right. So now we change the tenderness of the electron. We can control the electron speed.
+对。所以现在我们改变电子的柔软度。我们可以控制电子的速度。
+
+We break the symmetric. We can control the molecular hierarchy.
+我们打破对称性。我们可以控制分子层级。
+
+Right.
+对。
+
+And what is the indication? What is the indication? Why we select this?
+那么，适应症是什么？适应症是什么？我们为什么选择这个？
+
+At the beginning of, before the life, our Earth is covered by water. Right. Earth is covered by water.
+在生命出现之前，我们的地球被水覆盖。对。地球被水覆盖。
+
+So this is in water. Right. Electricity, where the electricity coming from, lightning.
+所以这在水中。对。电，电是从哪里来的？闪电。
+
+Lightning.
+闪电。
+
+So that means at the very beginning of the Earth, right, because of some lucky day, right, we have some material in the sea, in the sea, right, and we have this chyro nanomaterial. And when the lightning coming in, they introduce the electron. And this electron transfer to the molecule, and we can control the hierarchy.
+所以这意味着，在地球诞生之初，对吧，因为某一天很幸运，对吧，海里有一些物质，对吧，而且我们有这种 chyro 纳米材料。当闪电袭来时，它们会引入电子。这个电子转移到分子上，我们可以控制层级结构。
+
+Okay. So this is the mimic of the origin of life.
+好的。所以，这是对生命起源的模拟。
+
+Okay. Yeah. So this is experimental data, right?
+好的。对。所以这是实验数据，对吧？
+
+So, uh, for the right-hand R, Na is more than S, Na. Right. This S, Na is more than R, Na.
+所以，呃，对于右手R，Na大于S，Na。对。这个 S、Na 大于 R、Na。
+
+So the E, this is positive. E, this is negative. This is experimental data.
+所以，E，这是正的。E，这是负的。这是实验数据。
+
+Okay. And if we control the pitch, again, we control the pitch. We can control the how pure the electron speed is.
+好的。如果我们控制音高，同样，我们控制音高。我们可以控制电子速度的纯度。
+
+And then we can control the E value. So this is a very important evidence that we believe, um, is at a very high possibility that it's because of electron speed.
+然后我们可以控制 E 值。所以，这是一个非常重要的证据，我们认为，嗯，它极有可能是因为电子速度造成的。
+
+Okay.
+好的。
+
+It's because of electron speed. And another thing is we do the polymerization. Uh, we want to have the chylopolymer, right? And this is more, uh, more advanced is, um, we, we know when we do the, uh, catalysis, right, we, we, we are not just want to use the pure metal as the catalyst.
+这是因为电子速度。另一点是我们进行聚合。呃，我们想要得到 chylopolymer，对吧？而更进阶的是，我们都知道，在进行催化时，我们并不只是想使用纯金属作为催化剂。
+
+Right. We want to have alloy. And this is the high entropy alloy. Right.
+对。我们想要使用合金。这就是高熵合金。对。
+
+So we have one, two, three, four, five. We have five metals. We mix together.
+所以我们有1、2、3、4、5。我们有五种金属。我们把它们混合在一起。
+
+Right. So this is very similar to core and shape. This is the core, and then we do the coating.
+对。所以这和核心与形状非常相似。这是核心，然后我们再进行包覆。
+
+So we have this core and shape. And why we, we have this, uh, uh, HEA, HEA is
+所以我们有这个核心和形状。为什么我们，我们有这个，呃，呃，HEA，HEA 是……
+
+HEA. What is entropy?
+HEA。什么是熵？
+
+Coating.
+涂层。
+
+Um, if you learn thermodynamics, delta G equals to delta H minus T delta S.
+嗯，如果你学过热力学，就会知道，ΔG 等于 ΔH 减去 TΔS。
+
+S entropy.
+S，熵。
+
+And then we do the polymerization.
+然后我们进行聚合。
+
+Right. So for the, this is, uh, left-hand. Right.
+对。所以对于这个，这是，呃，左手的。对。
+
+Left-hand, they can, uh, give you some speed up, for example. Right. And then we do this polymerization, and we can have the M polymer.
+左手，它们可以，呃，给你带来一些加速，例如。对。然后我们进行这种聚合，就可以得到 M 聚合物。
+
+Right. And if you do the right-hand, uh, we can have the P polymer. Right.
+对。如果你做右手，呃，我们可以得到 P 聚合物。对。
+
+And this is the, uh, reduction. This is the reduction. That's it.
+这是，呃，还原。这是还原。就是这样。
+
+Right. And we, we, we tried different polymerization.
+对。我们，我们，我们尝试了不同的聚合。
+
+Yeah.
+对。
+
+But this is unpublished data, so I don't want to talk too much about that. We haven't published yet. This is ongoing, uh, uh, uh, uh, research.
+但这些数据尚未发表，所以我就不想过多讨论。我们还没有发表。这是一项正在进行的研究。
+
+But this is very beautiful.
+但这非常美。
+
+Very short.
+非常短。
+
+So, yeah.
+所以，是的。
+
+Very short.
+非常短。
+
+One more thing. Right. Right now, you, you need to use the AI.
+还有一件事。对。现在，你，你需要使用人工智能。
+
+Issue.
+问题。
+
+To give you some skin. Right.
+给你一点皮肤。对。
+
+啊，我们说，呃，千言万语，你还不如一张图。
+Ah, we say, uh, a picture is worth a thousand words.
+
+Right. So when I show this, you can quite fully understand. But actually, right now, this is not enough.
+对。所以当我展示这个时，你们完全可以理解。但实际上，现在这还不够。
+
+We need the token. So I want the video. I, I want the, uh, amino, uh, mention rather than the static skin.
+我们需要这个令牌。所以我想要那个视频。我，我想要，呃，氨基，呃，提及，而不是静态皮肤。
+
+But, um, it need time. It's not just need the token. We, we need to train the ChatGPT to do that.
+但是，嗯，这需要时间。它不只是需要令牌。我们需要训练 ChatGPT 来完成这个。
+
+It's, it's not easy. But my dream is, uh, in the future, I'm going to show you how I do this with a video. Step by step.
+这并不容易。但我的梦想是，呃，将来我会通过视频向你们展示我是如何做到这一点的。一步一步。
+
+So 啊， AI is useful. AI is useful. And this, this is generated by AI, by the way.
+所以，人工智能很有用。人工智能很有用。顺便说一下，这个，这个是人工智能生成的。
+
+Okay.
+好的。
+
+Um, yeah. So, uh, I can show you some data. Right.
+嗯，是的。那么，呃，我可以给你们看一些数据。好的。
+
+So this is the core. Right. And I do the coating.
+所以这是核心。对。然后我来做涂层。
+
+Right. So you can find it becomes thicker. Right.
+对。所以你可以看到它变厚了。对。
+
+Then I do the, uh, element mapping. Right. So we have these five elements.
+然后我进行，呃，元素映射。对。所以我们有这五个元素。
+
+Right. These one, two, three, four, five. We have these five elements.
+对。这些，一、二、三、四、五。我们有这五个元素。
+
+Right. So it's a high entropy alloy. Uh, it has a hierarchy.
+对。所以，这是一种高熵合金。呃，它有一个层次结构。
+
+Hierarchy.
+层次结构。
+
+Right. And we do the polymerization. Right.
+对。然后我们进行聚合。对。
+
+So this is the left-hand HEA. And the polymer, the CD is negative. Right-hand HEA, the polymer, the CD is positive. Right. So they have hierarchy. And what is this?
+所以这是左手HEA。而聚合物的 CD 是负的。右手HEA，聚合物，CD为正。对。所以它们是有层次的。这是什么？
+
+No CD because this is a chyroid. Nano rod. Right. So my electrode do not have hierarchy.
+没有CD，因为这是一个 chyroid。纳米棒。对。所以我的电极没有分层结构。
+
+So my product CD is zero. Right. So I just demonstrate that.
+所以我的产品 CD 是零。对。所以我只是演示一下。
+
+Right. I can do the asymmetric synthesis.
+对。我可以进行不对称合成。
+
+Okay.
+好的。
+
+So now we have 啊， 17 minutes for the last part.
+那么现在我们有，呃，最后一部分17分钟。
+
+So, uh, why we want to do this? First of all, right, stem cell therapy. Cell therapy.
+那么，呃，我们为什么要这么做？首先，对，干细胞疗法。细胞疗法。
+
+Right. We want to treat the, uh, some, um, untreatable diseases. Right.
+对。我们想治疗一些，呃，无法治愈的疾病。对。
+
+Cancer, tumor, uh, neurodegenerative diseases. Uh, neurodegenerative diseases 包括老年痴呆。 Right.
+癌症、肿瘤，呃，神经退行性疾病。神经退行性疾病包括阿尔茨海默病。对。
+
+帕金森症。 啊，阿尔茨海默症。
+Parkinson's disease.Ah, Alzheimer's disease.
+
+Et cetera.
+等等。
+
+Right. Th-this is not treatable. Currently.
+对。这——这是无法治愈的。目前。
+
+Okay. And why we want to do this? Right. So, uh, before what I'm doing, I need to sh- again, I, I need to tell you.
+好的。我们为什么要这么做？对。所以，呃，在我开始做之前，我需要……呃，再说一次，我，我需要告诉你。
+
+Right. Uh, what is the problem on the market and how I solve this problem? What is my proposal? But before, I show you, uh, what I'm doing.
+对。呃，市场上的问题是什么？我是如何解决这个问题的？我的提案是什么？但在此之前，我先向你们展示一下，呃，我正在做什么。
+
+Right. Um, so this is our review paper. Right. We, we, we, we, we, we review this.
+对。嗯，所以这是我们的综述论文。对。我们，我们，我们，我们，我们，我们来回顾一下这个。
+
+And so, uh, let me show you what is, what is the problem.
+那么，呃，让我给大家展示一下问题是什么。
+
+The, the key problem here is what is the general method to do the stem cell differentiation? Right. Because we want to do the specific differentiation.
+这里的关键问题是：诱导干细胞分化的一般方法是什么？对。因为我们想要进行特异性分化。
+
+So how you can control the specific differentiation. We usually add the chemical factors. Chemical. And in order to make this, uh, very specific, we add a large amount of chemical.
+那么，你如何控制特异性分化呢？我们通常会添加化学因子。化学。为了使这种分化非常特异，我们会加入大量的化学物质。
+
+The concentration is very high.
+浓度非常高。
+
+那么是药三分毒
+So, all medicine is three parts poison.
+
+We found that when you add this chemical, they have the side effects.
+我们发现，当你加入这种化学物质时，它们会产生副作用。
+
+And this side effect is cancer. They will induce the cancer. So, so far, in the market, you haven't had the commercialized treatment, the cell therapy in the hospital.
+而这种副作用就是癌症。它们会诱发癌症。所以，到目前为止，市场上还没有商业化治疗，医院里也没有细胞疗法。
+
+And this is the reason.
+这就是原因。
+
+This is the reason. When you have the cell therapy, you have a chance to have cancer.
+这就是原因。进行细胞治疗时，你有可能会患上癌症。
+
+And this possibility is quite high. It's more than 50%. Right.
+而且这种可能性相当高。超过50%。对。
+
+So 国家现在没有批这个东西。
+So the government hasn’t approved this yet.
+
+Right. So what, so this is the problem.
+对。所以，这就是问题所在。
+
+So many people.
+所以，很多人。
+
+And this chemical factor is very cost, costly, expensive. Number one. Number two.
+而且这种化学因素非常昂贵，成本很高。第一。第二。
+
+When you do the cell culture, you need to replace. You need to replace the growth factor every two days.
+进行细胞培养时，你需要更换培养基。你需要每两天更换一次生长因子。
+
+自己抽自己血，然后起来培养。
+Draw your own blood, then start culturing it.
+
+After two days, you culture the cell, you need to add the new growth factor.
+两天后，培养细胞时，需要添加新的生长因子。
+
+对啊。
+Yeah.
+
+So this is a labor-intensive number one. Number two, very cost. That is expensive.
+所以，这首先是一项劳动密集型工作。第二，成本非常高。那很昂贵。
+
+And the third, they have the side effect. So our idea, my spinoff company is we replace the growth factor with our nanostructure. So now we minimize the, we still use growth factor, but minimize.
+第三，它们有副作用。所以我们的想法是，我的分拆公司用我们的纳米结构取代生长因子。所以现在我们将其最小化，我们仍然使用生长因子，但将其最小化。
+
+Because the growth factor can support the stem cells to survive. But we reduce the concentration. We use just a little bit.
+因为生长因子可以让干细胞存活。但我们降低浓度。我们只使用一点点。
+
+And, but how to control the differentiation? Use our nanostructures.
+但是，如何控制分化呢？利用我们的纳米结构。
+
+And this nanostructure is made of, for example, SiO2. Glass. So it's very safe.
+这种纳米结构是由例如 SiO₂ 制成的。玻璃。所以它非常安全。
+
+It's very safe.
+非常安全。
+
+Okay. So this is what I'm doing. Right. Our target is we want to add, for this, we don't need to change my substrate.
+好的。所以这就是我正在做的。对。我们的目标是，为此，我们不需要改变我的基底。
+
+We do the cell culture for two weeks. Basically, we don't need to add the growth factor. So it's cheap.
+我们进行两周的细胞培养。基本上，我们不需要添加生长因子。所以成本很低。
+
+Right. And so we don't need to have a labor to take care of that. Right.
+对。所以我们不需要有人工来照看它。对。
+
+Labor. So we can reduce the cost. The third one, because we do not have the growth factor, it's safe.
+劳动力。所以我们可以降低成本。第三个，因为我们没有生长因子，所以很安全。
+
+We minimize the side effect. Right. So this is our product.
+我们尽量减少副作用。对。所以这就是我们的产品。
+
+Right. And my customers is the cell therapy R&D company. They are working on the cell therapy.
+对。我的客户是一家细胞治疗研发公司。他们正在研究细胞疗法。
+
+Right. So what I provide is a tool.
+对。 所以我提供的是一种工具。
+
+Cell therapy company 是他们去淘金。
+细胞治疗公司是他们去淘金。
+
+我提供的是铲子。你能不能淘到金，我不知道。但你得买我的铲子。
+What I’m providing is a shovel. Whether you can find gold in it, I don't know. But you have to buy my shovel.
+
+其实实际上当时在加州，淘金热的时候，谁赚的钱最多？
+Actually, during the California Gold Rush, who made the most money?
+
+谁。
+Who?
+
+开饭店的，开酒吧的，开hotel的。
+Restaurants, bars, hotels.
+
+谁赚的？
+Who made the most money?
+
+你淘金，你，你淘你的，那你这些你都要啊。所以我是个卖tool的人。当然，cell therapy成功了，那我这家公司肯定那就，对吧？
+You go gold mining. You—you go for your own. Then you want all of these. So I’m a tool seller. Of course, if cell therapy succeeds, then my company will definitely... right?
+
+我也可以IPO了。我希望它成功。 But anyway, 但是我现在跟你们讲，就当你们在做一件事的时候，你们要明白你的客户是谁。
+I can also go public. I want it to succeed. But anyway, what I’m telling you now is that, when you’re doing something, you need to understand who your customer is.
+
+我的客户不是医生，因为太早了。
+My client isn’t a doctor, because it’s too early.
+
+It's not safe.
+这不安全。
+
+医生不会搭理我的。
+Doctors won’t pay any attention to me.
+
+所以我的客户是cell therapy的company，就是我的目标客户。
+So my client is a cell therapy company—that’s my target client.
+
+Okay. So now I'm talking about business.
+好的。所以现在我讲的是商业。
+
+I'm talking about business. Okay. But, uh, uh, so now you can say, uh, we have several products.
+我说的是商业。好的。但是，呃，呃，所以现在你可以说，呃，我们有好几种产品。
+
+Right. So we have a cancer immune therapy. Right.
+对。所以我们有一种癌症免疫疗法。对。
+
+So we can cure cancer. We have a regenerative medicine. So what is that? Parkinson disease, basically, because we, our neuron, our neuron have a problem.
+所以我们可以治愈癌症。我们有再生医学。那么，那是什么？帕金森病，基本上，是因为我们的神经元，我们的神经元出了问题。
+
+So we just transparent the neuron into the patient.
+所以我们只是把神经元透明化，然后把它放入患者体内。
+
+To, to treat the Parkinson disease. And this, we want to, uh, make the broken bone grow faster.
+为了治疗帕金森病。而这个，我们想，呃，让骨折愈合得更快。
+
+对啊。我们中国的古话叫伤筋动骨100天，三个月。
+Yeah. In Chinese, we have an old saying: “It takes a hundred days, three months, to injure a tendon or bone.”
+
+Right.
+对。
+
+我可不可以让骨头恢复只有三个星期？
+Can I get the bone to heal in just three weeks?
+
+If we have the cell therapy. It is possible. So this is what we call regenerative medicine.
+如果我们进行细胞治疗。这是有可能的。这就是我们所说的再生医学。
+
+然后实际上我，我们还有做得更多的。我现在就讲中文，因为我讲英文，你们也听不懂名词。啊，糖尿病组啊，糖尿病人的脚是溃烂的。 第五级的话是直接看到骨头的。 现在的治疗的方法只能够控制糖尿病人的血糖。
+And actually, I—I, we can do even more. I’ll speak Chinese now, because if I speak English, you won’t understand the terminology. Uh, the diabetic group. Diabetics’ feet are ulcerated. At the fifth stage, the bones are visible. Current treatments can only control the blood sugar levels of people with diabetes.
+
+但那个呢，是一个 indirect method.
+But that is an indirect method.
+
+所以呢，我们想要我们的这个cell therapy去治疗糖尿病人的这个，我们叫溃疮。另外一个，烧伤、美容，呃，有些伤疤是没有办法愈合的。那么我们的这个structure，我们现在 working on this, 我们现在 working on the 烫伤。在这块。
+So, we want to use our cell therapy to treat what we call diabetic foot ulcers. Another example is burns and cosmetic injuries. Uh, some scars cannot be healed. So, our structure—we’re currently working on this, we’re currently working on burns. In this area.
+
+Okay. So now we are really talking about business. Right. And but from the fundamental science is because this has a homo chirality.
+好的。所以现在我们真正谈的是商业。对。但从基础科学的角度来看，这是因为这具有手性。
+
+Right. So how you can stimulate them to do the differentiation. We need to control the chirality of this.
+对。那么，如何刺激它们进行分化。我们需要控制这一点的旋光性。
+
+If the chirality is matching, and they can promote the differentiation of the stem cell. Right. So this is my idea.
+如果手性匹配，它们就能促进干细胞分化。对。所以，这就是我的想法。
+
+And we want to reduce the usage of the growth factor.
+我们想减少生长因子的使用。
+
+So now then, let me, let me just show you one example. I cannot show you all, uh, and we just have, uh, 10 minutes. So this is about neuron.
+那么现在，让我给你们展示一个例子。我没法给大家展示全部，呃，而且我们只有，呃，10分钟。所以这是关于神经元的。
+
+So we want to treat the Parkinson disease.
+所以我们想治疗帕金森病。
+
+So the Parkinson disease is we want to have the neuron. And this neuron were transparent into the patient. Right. So now we have, this is silicon, which is, uh, biocompatible.
+所以，帕金森病是我们想要拥有神经元。而这个神经元在患者体内是透明的。对。所以现在我们有了这个，这是硅，呃，具有生物相容性。
+
+It's, it's, it's quite safe. It's, it's not toxic. Right.
+它，它，它相当安全。它无毒。对。
+
+And we do the control. Right. This is the left hand.
+我们进行控制。对。这是左手。
+
+This is the right hand. This is a chyro. So this one is for control.
+这是右手。这是一个 chyro。所以这个是用于对照的。
+
+Right. A chyro structure. Silicon.
+对。一个 chyro 结构。硅。
+
+Right.
+对。
+
+And first of all, we want to test the toxicity. Right. SiO2, is it toxic?
+首先，我们想测试它的毒性。对。SiO2有毒吗？
+
+It's not. I, I don't want to go into the detail because they need a lot of knowledge about bio. But this is, we count how many cell has been survived.
+不是。我，我不想深入细节，因为他们需要很多生物方面的知识。但这是，我们统计有多少细胞存活了下来。
+
+And this is the control one. This one is what? This is, uh, we usually have the, uh, uh, silic- silicon glass, 就是那个载波片。
+这是对照组。这个是什么？这个，呃，我们通常有，呃，呃，硅——硅玻璃，就是那个载玻片。
+
+这是大家都在平时培养细胞就是用载波片。你们中学生物课不就是用那个东西吗？
+This is what everyone uses for culturing cells on a regular basis—slide glass. Don't you middle school biology classes use that kind of thing?
+
+Right.
+对。
+
+This is a control. Right. So control is that we can find that all our silicon nanostructure, right, is not toxic.
+这是一个对照。对。所以，通过对照实验，我们可以发现，我们所有的硅纳米结构，对吧，都是无毒的。
+
+Okay. So, okay, it's safe. First of all, it is safe.
+好的。所以，好的，它是安全的。首先，它是安全的。
+
+This is very important. Not toxic. Right.
+这一点非常重要。无毒。对。
+
+And then we put the neuron stem cell onto it. Right. And how we, we how to see, uh, how it do the differentiation actually is, right, we want to see this, uh, axon.
+然后我们把神经干细胞放在上面。对。我们如何观察它实际上是如何分化的呢？对吧，我们想看到这个轴突。
+
+And we want this axon and, and this as long as possible, as many as possible. Right. So we, we, we take the image.
+我们想要这条轴突，而且，而且这个要尽可能长，尽可能多。对。所以我们，我们，我们获取图像。
+
+Right. And we use the program to count, to measure. And then, uh, we have the four parameters.
+对。然后我们用这个程序来计数、测量。然后，呃，我们得到了四个参数。
+
+And now we compare, controlled, a chyro, left hand and the right hand. Silicon. Right.
+现在我们进行比较，控制一个 chyro，左手和右手。硅。对。
+
+And you can find that compare with this too. But for this four, right hand highest, highest, highest, highest. So that means compare with the left hand, compare with the a chyro.
+你也可以发现，这也与这个进行了比较。但对于这四个，右手最高，最高，最高，最高。所以这意味着，和左手比较，和 a chyro 比较。
+
+The right hand can promote the differentiation of the neuron stem cell. So they can generate the more neuron.
+右手可以促进神经干细胞的分化。所以它们可以生成更多神经元。
+
+Okay.
+好的。
+
+So this is my conclusion.
+所以这就是我的结论。
+
+Okay. And of course, we, we, we need to do some, uh, in order to publish the paper, we need to understand why. Right. But, uh, this is not important because, uh, this is quite bio. Right. Because they, uh, lower these signal pathway.
+好的。当然，我们，我们，我们需要做一些……呃，为了发表论文，我们需要弄清楚为什么。对。但是，呃，这并不重要，因为，呃，这相当有生物性。对。因为他们，呃，抑制了这些信号通路。
+
+Right. So they can, they can do it.
+对。所以它们可以，它们能做到。
+
+对。
+Right.
+
+And we can engineer the turn. We can engineer the pitch. Right. We, we want to see, uh, what structure is the best, right, to promote the stem cell differentiation to the neuron.
+我们可以设计这个转折点。我们可以调整音高。对。我们想看看，呃，哪种结构最适合促进干细胞分化为神经元，对吧？
+
+Right. So we can, we can control that. Right.
+对。所以我们能够，我们能够控制这一点。对。
+
+After we control that, we find that pitch is more important.
+控制了这一点之后，我们发现音高更重要。
+
+Pitch is more important. Right. So here, right, when you increase the pitch from 50 nm to 150, 250, right, the differentiation, this, the growth is excellent.
+音高更重要。对。所以在这里，对吧，当你们把晶格间距从50纳米增加到150、250时，对吧，这种区分，这种生长效果非常好。
+
+Right. It's much better. So we, we, we, we need to make it longer.
+对。好多了。所以我们，我们，我们，我们需要把它弄长一点。
+
+But the end, look at the end.
+但是结尾，看看结尾。
+
+这个要求也是。
+This requirement also applies.
+
+That's very quite saturated. Right. It doesn't matter n equals to one.
+那非常饱和。对。n 等于 1 没关系。
+
+One turn, two turns, three turns, it's not very important. Right. So the pitch, it's more important than the end.
+一圈、两圈、三圈，这并不重要。对。所以音高比结尾更重要。
+
+尽量不要放米兰。
+Try not to put Milan in.
+
+Right. So this is a, um. What we can do.
+对。所以这是一个，嗯。我们能做什么。
+
+Right. I can control the pitch. So I can engineer this differentiation.
+对。我可以控制音高。所以我可以设计这种差异。
+
+他用手机解释这个。
+He uses his phone to explain this.
+
+And now the next, right, is neuron investor. I will tell you, it's not only SiO2.
+接下来，对，是神经元投资者。我告诉你，不只是 SiO₂。
+
+发现手机。
+Find the phone.
+
+And the titanium dioxide.
+还有二氧化钛。
+
+手机不行，手机不行，是这样的。他想达到。
+The phone doesn’t work. The phone doesn’t work. It’s like this. He wants to achieve it.
+
+Right. So this is the left hand.
+对。所以这是左手。
+
+他用什么方法？
+What method does he use?
+
+A chyro, right hand, titanium dioxide. Right. And.
+A chyro，右手，二氧化钛。对。然后。
+
+什么东西用力量来？
+What does something use force for?
+
+First of all, it's, it's, it's.
+首先，它是，它是，它是。
+
+那只有力量。
+Then there is only force.
+
+Not toxic.
+无毒。
+
+既然可以。
+Since it’s possible.
+
+Safe.
+安全。
+
+把它改变这些物理，肯定就能。
+Changing these physical aspects will definitely be able to...
+
+Right. And then we do the differentiation.
+对。然后我们进行求导。
+
+呃，增强手机或者是降低手机。
+Uh, enhance the phone or reduce the phone.
+
+Right hand.
+右手。
+
+那只有这些物理要增强手机。那现在讲这个。
+Then only these physical properties need to be enhanced to improve the phone. So now let’s talk about this.
+
+Right hand.
+右手。
+
+就是又可以用在。
+It can also be used in...
+
+Similar to the SiO2.
+类似于 SiO2。
+
+就是说还可以用成，用成那个，就是。
+I mean, it can also be used as, as that, I mean.
+
+So now, right, so.
+所以现在，对，那么。
+
+那种。
+That kind.
+
+Right hand is better. And we prefer.
+右手更好。我们更喜欢。
+
+这个有PE吗？
+Does this have PE?
+
+Longer. So that we can promote the differentiation of the neuron. And actually, we have put this into the mouse.
+更长。这样我们就可以促进神经元的分化。实际上，我们已经把这个植入小鼠体内了。
+
+And we found that they can, they can, uh, appear, they can treat the Parkinson disease. But the, um, but that's for mouse. And then the next step, I need to use the monkey.
+我们发现它们可以，可以，呃，出现，可以治疗帕金森病。但是，嗯，不过那是针对小鼠的。然后下一步，我需要使用猴子。
+
+Right. And the, and the next step, uh, clinic, human being. Right.
+对。然后，下一步，呃，临床，人类。对。
+
+But 一只猴子。
+But a monkey.
+
+怎么想到这个？
+How did you come up with this?
+
+现在Q1。
+Now, Q1.
+
+做出来的。
+Made it.
+
+Right. So I need the investor.
+对。所以我需要投资者。
+
+用到这么大的东西。
+Use something this big.
+
+Right.
+对。
+
+因为我们需要做一期、二期、三期。
+Because we need to do phases one, two, and three.
+
+Right.
+对。
+
+所以它是空间。
+So it’s space.
+
+一期，十只猴子，60万。第二期，50只猴子，300万。第三期，100只猴子。
+Phase one: ten monkeys, 600,000. Phase two: 50 monkeys, 3 million. Phase three: 100 monkeys.
+
+Right.
+对。
+
+做完之后做人。
+After that, do humans.
+
+他肯定。
+He definitely.
+
+做人我们要招募这个，呃，志愿者。
+For the human trials, we need to recruit, uh, volunteers.
+
+就是他也参与。
+He also participates.
+
+来，一期，10个人。
+All right, Phase One: 10 people.
+
+做出来以后。
+After it’s made.
+
+要给钱啊。这个，这个医院这个所有的费用是我来啊。二期，50个。
+You have to pay for it. I’ll pay for all the expenses at this hospital. Phase two: 50 people.
+
+三期，1,000个。
+Phase three: 1,000.
+
+Right.
+对。
+
+So 如果你们谁有10个亿的，可以举一下手。
+So, if any of you have 1 billion yuan, raise your hand.
+
+I need that. Right.
+我需要那个。对。
+
+I need that.
+我需要那个。
+
+But you know what?
+但你知道吗？
+
+This is the real business. This is the real business. Right.
+这才是真正的生意。这才是真正的生意。对。
+
+科学家现在不是没用的。我们是有机会赚钱的。对吧？但是呢，呃，这里面有天使，有地力，有人和。
+Scientists aren't useless now. We have a chance to make money. Right? But, uh, there are angels, earth power, and people involved.
+
+对吧？现在是经济上行，经济下行，对不对？最近美国赚得一塌糊涂，股票大家都在跌。
+Right? The economy is currently on an uptrend or a downtrend, right? The U.S. has been making a fortune lately, but stocks are all falling.
+
+这个时候你找投资人，你会不知道要找谁。
+At a time like this, you don't know who to approach for investment.
+
+Right. So I'm here.
+对。所以我在这里。
+
+I'm teaching.
+我在教书。
+
+Right. But I have potential. Right.
+对。但我有潜力。对。
+
+所以如果你们以后我不知道你们各位哪一个是企业家老板的孩子，呃，有钱了，想想这个，也许你们可以投资一下。
+So, if any of you become the children of entrepreneurs or business owners in the future—uh, if you get rich—think about this. Maybe you could consider making some investments.
+
+哎，算力中心，现在美国也不一定乱盖。
+AI computing centers—nowadays, the U.S. isn’t necessarily just building them haphazardly.
+
+Right.
+对。
+
+中国电力有的是，你投电力并不赚钱。
+There are plenty of power companies in China. Investing in the power sector isn’t profitable.
+
+我有很多朋友。对吧？现在国家的电力在西部是。
+I have a lot of friends. Right? Now, the country’s electricity in the west is…
+
+我刚刚说的话。
+What I just said.
+
+电是用不完的。
+Electricity is inexhaustible.
+
+这就消失了。
+It just disappears.
+
+哎，所以那个的话，画大饼现在画不下去了。
+So, with that, we can’t keep drawing the big picture anymore.
+
+Energy.
+能量。
+
+我这个是health。
+This one is health.
+
+另外一个大饼，但是 who knows? 李嘉诚在香港签的大学都捐港大跟中文，他只捐，捐医学院，他也不捐我们Science。因为富人都怕死。
+Another big pie, but who knows? The universities in Hong Kong that Li Ka-shing has donated to—HKU and Chinese University—have only donated to the medical school. He hasn’t donated to our science department either. Because rich people are afraid of death.
+
+对吧？我们是无所谓啊。像我奶奶得了帕金森症，我们从来没有治过。
+Right? We don't care. My grandmother had Parkinson’s disease, and we never treated it.
+
+普通人家不会care这些东西。那李嘉诚他就会care。所以每一个疾病是有它的market。
+Ordinary people don't care about these things. But Li Ka-shing cares. So every disease has its own market.
+
+人群不一样。
+The population is different.
+
+So you know what? Science is very interesting.
+所以，你知道吗？科学非常有趣。
+
+Business is also very interesting. Money is.
+商业也非常有趣。钱是。
+
+他不是。
+He is not.
+
+Happiness. Right.
+幸福。对。
+
+有可能。
+Possibly.
+
+But you need to have potential.
+但你需要有潜力。
+
+看见了。
+I saw it.
+
+哎，你只有先有机会，机会是会留给有准备的人。虽然我不知道什么时候是机会，其实我们当时在做的时候是2018年在做的。2019年香港黑豹，接下来COVID。其实呢，我们当时是没有天使的。我们在六七年前就已经开始在做了。
+Well, you only get the chance if you’re prepared. Opportunities come to those who are ready. Although I don’t know when the opportunity will come, we were actually working on it in 2018 at the time. In 2019, Black Panther in Hong Kong, followed by COVID. Actually, we didn’t have any angels back then. We had already started working on it six or seven years ago.
+
+但是我们融不到资，没办法。这就是命。
+But we couldn’t raise funding. No choice.That’s just fate.
+
+Right.
+对。
+
+But maybe, who knows? Next year. Right.
+但也许吧，谁知道呢？明年。对。
+
+But we have capability. We have machine. We have devices.
+但我们有能力。我们有机器。我们有设备。
+
+Right. We have, uh, uh, patent. Okay.
+对。我们有，呃，呃，专利。好的。
+
+So this is a scientist. This is material scientist.
+所以，这是一位科学家。这是材料科学家。
+
+因为他在香港，所以他做不了。
+Because he’s in Hong Kong, he can’t do it.
+
+Okay. And actually, uh, I very quick, and we also working on this.
+好的。其实，呃，我很快，而且我们也在研究这个。
+
+他现在。
+He is now.
+
+Uh, this is unpublished paper.
+呃，这是一篇未发表的论文。
+
+是。
+Yes.
+
+Uh, so I didn't even show here.
+呃，所以我甚至都没在这里展示。
+
+他现在可能在介绍入股技术分析，但是真正赚钱的其实是自己做，就是。
+He may now be introducing equity investment and technical analysis, but what actually generates real profits is doing it himself, that is...
+
+Yeah. I didn't show here. I think my students, they know.
+对。我没在这里展示。我想我的学生知道。
+
+他现在朝大家把它展示。
+He’s now presenting it to everyone.
+
+Once we release the data.
+一旦我们发布数据。
+
+这个。
+This.
+
+But what I can show you is, right, we are use this one, we differentiate the, uh, some stem cells. And these stem cells, when transparent into the mouse.
+但我可以给你们看的是，对吧，我们用这个来分化，呃，一些干细胞。这些干细胞，当它们进入小鼠体内时。
+
+自杀的地方。
+The place of suicide.
+
+And we found that for some chirology, the growth impairment much faster than.
+我们发现，对于某些 chirology，生长障碍要快得多。
+
+到的体现越低，这个活该。
+The lower the manifestation, the more it’s deserved.
+
+So this is our, our research right now. And this report, we unpublished it soon.
+所以这就是我们目前的研究。这份报告，我们很快就会发表。
+
+但是他们就。
+But they just...
+
+Okay. So let me make a conclusion about the 9 o'clock.
+好的。那么，让我来总结一下九点左右的情况。
+
+就是器官买卖就是个生意。
+Organ trafficking is just a business.
+
+We have Cairo in organic material.
+我们有关于开罗的有机材料。
+
+我还要筛选。
+I still need to screen them.
+
+We focus on Cairo biometric.
+我们重点关注开罗生物识别技术。
+
+一个星期的筛选。
+A week of screening.
+
+Right. But this is not only just molecular. We break the symmetry of light.
+对。但这不只是分子层面的。我们打破了光的对称性。
+
+你只能。
+You can only.
+
+Because they have a very important application. Right. We want to generate a pure left hand and a right hand circular forest light.
+因为它们有着非常重要的应用。对。我们想要产生纯左旋和右旋的圆偏振光。
+
+Because of 3D information, security, because of bioimage. Right. And then, uh, for these two, it's for quite scientific. Right. We want to understand how the, you know, organic Cairo materials differentiate, uh, uh, uh, control the chirology of the body.
+因为三维信息、安全性，也因为生物图像。对。然后，呃，对于这两个，它相当具有科学性。对。我们想了解，呃，有机开罗材料如何区分，呃，呃，呃，控制身体的旋光性。
+
+因为婴儿写的。
+Because the baby wrote it.
+
+So this.
+所以这个。
+
+这就是。
+This is it.
+
+And this one, is we want to, we want, we call this is that we want to control the fate of the cell.
+而这个，是我们想要，我们想要，我们称之为，我们想要控制细胞的命运。
+
+我们控制细胞的fate，命运。命运。
+We control the fate of cells.Destiny.
+
+Right. So how the, how this cell can differentiate what cells they cannot generate. It's neuron cells.
+对。那么，这个细胞如何分化，以及它不能生成哪些细胞。是神经元细胞。
+
+有钱太多了。
+There’s too much money.
+
+Other cells, lung cells. Because when you have different cells, you can treat the different cells.
+其他细胞，肺细胞。因为当细胞种类不同时，就可以对不同类型的细胞进行治疗。
+
+但是它的技术不是top的。
+But its technology isn’t top-notch.
+
+Right. And we also found that because the cell has hormone chirology. Right. So we, when we control the chirology of inorganic materials, we can control the fate of cell.
+对。我们还发现，因为这个细胞具有激素奇罗洛吉。对。所以，当我们控制无机材料的旋光性时，就可以控制细胞的命运。
+
+And why we want to do this? Because we want to replace the growth activity. We want to provide a methodology that the cell culture is safe.
+我们为什么要这么做？因为我们想取代生长活性。我们希望提供一种确保细胞培养安全的方法。
+
+表面上的东西。
+The surface-level stuff.
+
+It's cheaper.
+它更便宜。
+
+它做一些。
+It does some.
+
+First of all, it's cheaper. It's safe.
+首先，它更便宜。它很安全。
+
+可以做。
+It can be done.
+
+And it's effective.
+而且很有效。
+
+给钱就行。
+Just pay for it.
+
+Right. So this.
+对。所以这个。
+
+我不说。
+I won't say.
+
+Uh, what we're gonna do.
+呃，我们要做的是。
+
+但是它，它有点。
+But it, it’s a little…
+
+Yeah. So, uh, that's it. Right.
+对。所以，呃，就这样。对。
+
+This is.
+这是。
+
+不会疼。
+It won't hurt.
+
+Today's lecture.
+今天的讲座。
+
+这种，这种。
+This kind, this kind.
+
+— 由 LecSync 生成

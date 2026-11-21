@@ -1,0 +1,360 @@
+S3电池材料研发与中试
+日期: 2026年11月17日 20:12
+语言: 英语 → 中文
+时长: 38分21秒
+
+Please let it be here for introducing our battery-related technologies and I am Tracy, and I am the WTTO of S3, so maybe some of you—how many of you know S3? Please go ahead. No?
+请允许我在这里介绍一下我们的电池相关技术。我是特蕾西，是S3的WTTO。所以可能有些人——你们中有多少人知道S3？请继续。不知道？
+
+Okay, just explaining first for people.
+好的，先给大家解释一下。
+
+We are Hong Kong Applied Science and Technology Research Institute, and
+我们是香港应用科技研究院，而且……
+
+.
+。
+
+Okay, and I am in charge of the Advanced Materials domain of S3, and previously we are another research institute of Nano and Advanced Materials Institute and in April of this year so we have been merged together with S3, so now we are S3 Materials domain.
+好的，我负责S3的先进材料领域。此前，我们是另一家名为纳米与先进材料研究所的研究机构。今年4月，我们与S3合并了。所以现在我们是S3材料领域。
+
+So today I will talk about the battery. So before we get into the battery chemistry, so let's take a look at the principle of the lithium-ion battery. So actually the working principle is very simple. It's all about lithium-ion transportation. So during the charge, the lithium ions travel from the cathode to the anode, and during battery discharge it travels back from the anode to the cathode.
+所以今天我将谈谈电池。那么，在深入讨论电池化学之前，我们先来看看锂离子电池的原理。其实，工作原理非常简单。这完全取决于锂离子的传输。所以在充电过程中，锂离子从正极移动到负极；放电时，锂离子则从负极返回正极。
+
+So, and on the right it is a typical structure, the structure of a typical commercialized cylindrical lithium-ion battery. It contains cathode anode and separator and of course the power collector and also the electrolyte. So this is the structure of the battery. So people always, always talk about the high performance battery, but actually for all the battery study we are all focused on this four questions. So how many, how many lithium ions we can pack into a limited space, into a battery.
+那么，右边是典型结构，也就是一种典型的商业化圆柱形锂离子电池的结构。它包含阴极、阳极、隔膜，当然还有集流体，以及电解液。这就是电池的结构。所以人们总是、总是谈论高性能电池，但实际上，对于所有电池研究，我们关注的都是这四个问题。那么，我们能在有限的空间里、在一块电池中装入多少个锂离子？
+
+So the more we can pack into a battery, the higher energy density we can get. And how fast, so how fast, so how fast we can make the lithium ion transport inside the battery system, inside the materials. So the faster we can get a faster charge, the fast charge battery is all about the travel speed inside of the lithium ion inside the battery. And also the how stable, how stable we can realize back and forth transportation.
+所以，我们能装进电池里的越多，就能获得越高的能量密度。以及传输速度有多快，也就是说，锂离子在电池系统内部、在材料内部的传输速度有多快。所以，充电速度越快，快充电池的关键就在于锂离子在电池内部的移动速度。还有，我们能让锂离子来回传输有多稳定。
+
+That is related to our cycle life. So how many times we can charge and discharge a battery. And of course when we talk about higher density we pack more and more density into a battery so the energy density is higher.
+这与我们的循环寿命有关。也就是说，我们能让一块电池充放电多少次。当然，当我们谈到更高的密度时，我们会在电池中装入越来越多的物质，因此能量密度更高。
+
+At the same time it is more easy to explode. So how safe, the safety is very important to the battery for battery. Especially to a high energy battery system.
+与此同时，它更容易爆炸。所以安全性如何？安全性对电池来说非常重要。尤其是高能量电池系统。
+
+And if some of you have been working in battery lab you should be very familiar with this equipment. These are the lab scale, battery manufacturing equipment. So normally we synthesize the material and then we sometimes we need to calcinate and we need to formule, make it into a very fine powders and then we need to coat it and then we make it all the way make it into a coin cell. So for academic research the main purpose is to get the limit to push our materials performance to a limit.
+如果你们中有些人一直在电池实验室工作，应该对这些设备非常熟悉。这些是实验室规模的电池制造设备。所以，通常我们会合成材料，有时还需要进行煅烧和配方处理，把它制成非常细的粉末，然后进行涂覆，最后把它制成硬币型电池。所以，学术研究的主要目的是突破材料性能的极限。
+
+So to explore the higher limit, highest potential of a material. However when it go to the real production the real battery manufacturing the process and the story will be totally different. We will handle tons of hundreds of tons of materials and also we need to consider the process, the mixing, the uniformity, the flowability, the viscosity of the slurry and also whether these materials can be pressed, how to realize a good density and also the mechanical strength because there is a roll-to-roll production process. The materials mechanical strength is also very important. And since the battery fabrication need to go through a aging and a high temperature aging and also degassing process.
+所以，是为了探索材料的更高极限，也就是其最高电位。然而，当进入实际生产、实际电池制造时，流程和情况会完全不同。我们将处理数百吨甚至数千吨的材料，还需要考虑工艺、混合、均匀性、流动性、浆料的粘度，以及这些材料是否可以压制，如何实现良好的密度和机械强度，因为这里采用的是卷对卷生产工艺。材料的机械强度也非常重要。而且，电池制造需要经过老化、高温老化以及除气过程。
+
+So the all the materials need to undergo a high temperature process. So all these materials need to reliable under high temperature. And besides the performance we also need to consider the procedure, the process and also the batch to batch repeatability.
+因此，所有材料都需要经过高温处理。所以，所有这些材料都需要在高温下保持可靠性能。除了性能之外，我们还需要考虑工艺流程，以及批次间的重复性。
+
+So for the real manufacturing the stability and the repeatability is also our very, very important concern.
+所以对于实际生产来说，稳定性和重复性也是我们非常非常关注的问题。
+
+And what are we doing? So S3, in our lab actually our role is to bridge the gap between the lab scale study to the real manufacturing. So in our lab we have a well-established pilot line to mimic to repeat the process similar to the real production. From the electron manufacturing and to the slurry mixing and the battery assembly all the way to the packing and the testing.
+那我们在做什么呢？所以，S3 在我们实验室中的作用，实际上是弥合实验室规模研究与实际制造之间的差距。所以，我们实验室有一条成熟的中试生产线，可以模拟并重复与实际生产相似的工艺。从电子制造、浆料混合、电池组装，一直到封装和测试。
+
+And also the formation, degassing, all the process is the same as what they are doing in the real production. So this can bridge the gap between the lab scale study and the real manufacturing.
+此外，成膜、脱气等所有工艺都与实际生产中采用的相同。因此，这可以弥合实验室规模研究与实际制造之间的差距。
+
+And these are the prototypes that we can make in our lab. So besides the coin cell you can see we can make the pouch cell and we also can make the cylindrical cell and with the capacity with the capacity from several mAh to several Ah all the way to 10 Ah and besides the material the battery material the fabrication process we are also studying the integration device integration and the battery power management system. We make the battery into modules and this is battery module for electric bicycle.
+这些就是我们可以在实验室里制作的原型。所以，除了硬币电池，你们可以看到，我们还可以制作袋式电池和圆柱形电池，容量从几毫安时到几安时，最高可达10安时。除了电池材料和制造工艺外，我们还在研究集成器件集成和电池电源管理系统。我们将电池制成模块，这是用于电动自行车的电池模块。
+
+And this is S3's journey of battery development. So actually we started our battery research around 2015 years ago so and around 10 years ago we established our battery pilot line for the scale up battery manufacturing and also starting from 2020 we start to work on work with some world leading battery companies and to develop the solid state battery and also the separator free battery and all the way now we are working with some world's leading battery companies to work on the solid opposite solid electrolyte you may see some product in the market now and also work with Scotia for to develop the use AI to machine learning to develop to shorten our R&D time. And on the right are some of our commercialized product and later I will talk about them.
+这是S3的电池开发历程。所以，我们其实大约在2015年前就开始了电池研究。大约十年前，我们建立了电池中试线，以扩大电池生产规模。从2020年起，我们开始与一些世界领先的电池公司合作，开发固态电池和无隔膜电池。直到现在，我们仍在与一些世界领先的电池公司合作，研究固态……固态……电解质。你们现在可能会在市场上看到一些产品。我们还与 Scotia 合作，利用人工智能和机器学习来缩短研发周期。右边是我们已经商业化的一些产品，稍后我会介绍它们。
+
+And now actually besides lithium batteries we are also working on a lot of other electrochemical systems including the sodium battery and also hydrogen fuel cell.
+目前，除了锂电池，我们还在研发许多其他电化学系统，包括钠电池和氢燃料电池。
+
+And this is our lab in the science park. It's very close to CUHK and if you have if you have time welcome to our lab. So in just besides the golden egg and in our battery lab we work from we study battery materials from every angle from fundamental chemistry research to process scale up study and also the battery characterization and the system integration. And actually besides battery materials we are also working on different kinds of materials so including biomaterials, the construction materials, electronics materials and functional polymers and we have a very comprehensive material characterization lab.
+这是我们在科学园里的实验室。它离香港中文大学非常近。如果你有时间，欢迎来我们的实验室参观。所以，除了黄金蛋之外，在我们的电池实验室，我们从各个角度研究电池材料，从基础化学研究到工艺放大研究，也包括电池表征和系统集成。实际上，除了电池材料，我们还在研究各种其他材料，包括生物材料、建筑材料、电子材料和功能聚合物。我们还拥有一个非常全面的材料表征实验室。
+
+This also support our battery research.
+这也支持我们的电池研究。
+
+And today I will show you a video of our battery lab.
+今天，我将向大家展示一段关于我们电池实验室的视频。
+
+Yeah this is our battery lab inside the in the science park. And we have wet chemistry area and we do a lot of synthesis. Here and we have a large rotary vibrator for large scale synthesis. And this is our battery manufacturing pilot line. So we consider all the process leading coating pressing all the process and also we have electrolyte fitting system and this line continuous line this is for lithium metal battery. And this is the battery safety evaluation area.
+是的，这是我们在科学园内的电池实验室。我们还有湿法化学区，会进行大量合成工作。这里有一台大型旋转振动器，用于大规模合成。这是我们的电池制造中试线。所以我们考虑了所有工艺，包括涂布、压片等所有工艺，还配备了电解液灌装系统。这条生产线是连续式生产线，用于生产锂金属电池。这是电池安全评估区。
+
+So we can do short circuit and melt penetration and pop box. And these are the most expensive area so we test all the battery performance here. So we have more than around 10,000 panels in our lab. And we have an in-situ microscope to observe the battery electron status during charge and discharge.
+所以我们可以进行短路、熔穿和鼓包测试。这些是最昂贵的环节，因此我们会在这里测试所有电池性能。所以，我们的实验室里有超过一万个电池片。我们还配备了原位显微镜，用于观察电池在充放电过程中的电子状态。
+
+And different panels.
+以及不同的面板。
+
+And there is a server. We are also we are also doing some AI assisted battery additive prediction. And we test the swelling and also we have a lot of electrochemical workstation.
+还有一台服务器。我们也在做一些由人工智能辅助的电池添加剂预测。我们还会测试膨胀，而且我们有很多电化学工作站。
+
+So we don't have time can come and pick up work.
+所以我们没有时间可以过来取工作。
+
+And these are the areas we are working on. So for the lithium ion battery we are developing a turnkey solution. So inside the including the materials and whole battery system including all the battery material inside the system.
+这些就是我们正在研究的领域。对于锂离子电池，我们正在开发一套交钥匙解决方案。所以，这包括材料和整个电池系统，以及系统内的所有电池材料。
+
+And for the lithium for the lithium metal battery or silicon based battery we work on separator coating. We work on process solid electrolyte. We even work on non-flammable electrolyte which is flash point free electrolyte fluorine native electrolyte. And we are also working on battery recycling in our lab work with a lot of large battery companies and in the sodium battery side we are working on half carbon materials and also solid polymer electrolyte. So in the bottom are our collaborators and besides the industrial collaborators we are also working with a lot of local universities and universities in Chinese mainland.
+对于锂金属电池或硅基电池，我们则致力于隔膜涂层。我们研究固态电解质工艺。我们甚至还在研究不易燃电解液，也就是无闪点电解液、含氟电解液。我们还在实验室开展电池回收研究，并与许多大型电池企业合作。在钠电池领域，我们正在研究半碳材料以及固体聚合物电解质。下面是我们的一些合作方。除了产业界的合作方，我们还与许多本地大学以及中国大陆的大学开展合作。
+
+And you will see for the these two are the largest separator company in the world.
+你会看到，这两家是世界上最大的隔膜公司。
+
+And this is our development roadmap of lithium metal batteries. So for lithium metal batteries lithium metal battery has been deemed as the holy grail of the lithium battery system because of its high energy density. But it has also has a very serious drawback that is the dendrite. It is electroplating and stripping process. During the electroplating when there is an uneven surface so all the lithium ion will go to that active area and form a needle.
+这是我们的锂金属电池发展路线图。因此，锂金属电池因其高能量密度，一直被视为锂电体系的圣杯。但它也有一个非常严重的缺点，那就是枝晶。这是电镀和剥离过程。电镀过程中，如果表面不均匀，所有锂离子都会进入那个活性区域并形成针状结构。
+
+So the needle will penetrate the separator and cause short circuit. So for the lithium metal battery if we cannot solve the safety problem it cannot be well commercialized. Despite of its high energy density. So for lithium metal battery we work on different areas.
+所以，这些针状物会刺穿隔膜，导致短路。所以，对于锂金属电池，如果不能解决安全问题，就无法得到很好的商业化应用。尽管它具有高能量密度。所以，对于锂金属电池，我们正在从不同方面开展研究。
+
+The primary one is to solve the dendrite problem. So we use solid electrolyte. We distribute we try to distribute the current density use a 3D scaffold structure and also we use non-flammable electrolyte.
+首要任务是解决枝晶问题。所以我们使用固体电解质。我们通过使用三维支架结构来分散电流密度，同时也使用不易燃电解液。
+
+So in case there is a short circuit type of the whole battery will not explode. And also to improve the safety we also we are also making stronger battery separators inside the battery. So using different kinds of method I will talk about it later. And we are also working on the scaling mold and mold and mold material to serve as a screen to screen out all the byproduct and make the interface more stable.
+所以，如果发生短路，整块电池也不会爆炸。此外，为了提高安全性，我们还在电池内部使用更坚固的隔膜。所以会采用不同的方法，我稍后会讲到。我们还在研究规模化模具以及模具材料，以用作过滤器，筛除所有副产物，并使界面更加稳定。
+
+So these are all the areas we are working on for lithium metal batteries.
+所以，这些就是我们在锂金属电池领域正在研究的所有方向。
+
+Actually for all the battery systems. And these are the commercialization commercialized examples of our technology. The first one is Nonexing. It is it is not a large company but all the solution comes from our team.
+实际上，对于所有电池系统而言。这些是我们技术的商业化案例。第一个是 Nonexing。这并不是一家大公司，但所有的解决方案都来自我们的团队。
+
+So it is a local company. Before they are not even working on battery area. But they are they they fund some opportunity in some niche market.
+所以这是一家本地公司。以前他们甚至都不从事电池领域的工作。但他们，他们，他们资助了一些利基市场中的机会。
+
+That is an extreme temperature battery. So for the normal battery normal lithium ion battery we will see it's working temperatures around minus 10 to 60 degree. But under some mission critical occasions sometimes they need minus 40 to 85 degree. Even though now we are working on minus 60 degree to 85 degree batteries.
+那是极端温度电池。所以对于普通电池，也就是普通锂离子电池，我们会看到它的工作温度大约为零下10摄氏度到60摄氏度。但在一些任务关键型场合，有时需要在零下40摄氏度到85摄氏度的温度范围内工作。尽管现在我们正在研发零下60度到85度的电池。
+
+So it's very reliable and it can last up to 20 years. Lifetime. So now it has been well commercialized and has been sold out for more than 10 million sets.
+所以它非常可靠，使用寿命可长达20年。寿命。所以现在它已经得到了很好的商业化，销量已超过1000万套。
+
+And also in Hong Kong. So all the smart water meter are used this kind of batteries. So it is a very good IoT battery solution.
+在香港也是如此。所以，所有智能水表都使用这种电池。所以，这是一个非常好的物联网电池解决方案。
+
+And the middle one is the Bosch Bosch. So it is a EV battery supplier and it's a battery supplier for Volkswagen. And we are working with them to use AI.
+中间这个是博世，博世。所以，它是一家电动汽车电池供应商，也是大众汽车的电池供应商。我们正在与他们合作，利用人工智能。
+
+So we use computation to understand the battery chemistry. And we use machine learning to shorten the screen and formulation time and also we use experiment to verify the result. So we use that to to to develop some high temperature stable electrolyte molecules as the additive and increase the lifetime for more than two times.
+所以我们利用计算来理解电池化学特性。我们利用机器学习缩短筛选和配方开发时间，同时也通过实验验证结果。所以我们利用这些方法开发了一些高温稳定的电解质分子作为添加剂，并将寿命延长了一倍以上。
+
+And now it's under commercialization. And the third one is that for the high silicon contact battery. So silicon represent a high energy density.
+现在它正在商业化。第三项是高硅接触电池。所以，硅代表高能量密度。
+
+But the problem is the volume change during charge and discharge. When electrode during charge it expand up to four times and during discharge it will shrink back to its original size. But under such large volume change the material will break.
+但问题是充放电过程中会发生体积变化。电极充电时会膨胀至原来的四倍，放电时则会收缩回原始尺寸。但在如此大的体积变化下，材料会断裂。
+
+So we we develop some binder new binders. It serves as a very elastic rubber band inside the battery system. It will network it it forms network and will make the whole electrode has high integrity. So this technology has been used of used in a lot of our consumer electronics our cell phone batteries and it has been well commercialized.
+所以我们开发了一些新的粘结剂。它就像电池系统内部非常有弹性的橡皮筋。它会形成网络，使整个电极具有很高的完整性。所以这项技术已经广泛应用于我们的许多消费电子产品，包括手机电池，并且已经实现了良好的商业化。
+
+And I will show some examples. The first one is a solid state electrolyte. So lithium batteries everyone knows that for the liquid the safety is a problem because when there is a short circuit liquid it has no mechanical strength.
+我来展示一些例子。第一种是固态电解质。所以，大家都知道，液态锂离子电池存在安全问题，因为发生短路时，液体没有机械强度。
+
+It cannot prevent short circuit. The the prevent the castle from contacting with the anode. So the fire or the explosion will happen. And naturally people will will will think oh solid battery should have better safety higher safety.
+它无法防止短路。防止外壳与负极接触。所以会发生火灾或爆炸。自然，人们会想：哦，固态电池应该更安全，安全性更高。
+
+But for the full total solid battery there is a problem. The the interface. Because I I just as I say just now the mechanism is the transportation of the lithium ion.
+但对于全固态电池来说，存在一个问题。界面。因为，就像我刚才说的，其机理就是锂离子的传输。
+
+If it is hard to hard interface it is very difficult to for lithium ion to travel inside a solid. And also it is very difficult for a lithium ion to hop from one top surface to another top surface. So the interface problem is the primary problem of the all solid state batteries. So till now it has been has not been well commercialized for the total solid state batteries.
+如果是硬界面，锂离子在固体内部移动就会非常困难。而且，锂离子从一个顶面跃迁到另一个顶面也非常困难。所以，界面问题是全固态电池的主要问题。所以到目前为止，全固态电池尚未得到充分商业化。
+
+So our approach is it is a hybrid electrolyte. It's a quasi solid. So during the processing fabrication process it is totally a liquid state.
+所以我们的方法是采用混合电解质。它是一种准固态电解质。所以在加工制造过程中，它完全处于液态。
+
+So the whole process will will will will will be accommodated in the existing large steel manufacturing plant. But it will in situally form a gel like a gel like structure inside the battery after it is cured. So it will form a quasi solid state electrolyte inside the battery. So the purpose is to use very strong but flexible polymer network to host to hold a lot of liquid.
+整个过程将、将、将、将、将在现有的大型钢铁制造厂内完成。但固化后，它会在电池内部形成类似凝胶的结构。所以，它会在电池内部形成一种准固态电解质。所以，其目的是利用非常坚固但柔韧的聚合物网络来容纳大量液体。
+
+So the battery performance can keep as good as the liquid electrolyte. But the safety it has certain mechanical strengths. So under some local short circuit it can prevent further short circuit.
+因此，电池性能可以保持与液态电解质一样好。但在安全性方面，它具有一定的机械强度。所以，在局部发生短路时，它可以防止短路进一步扩大。
+
+So it will improve the safety a lot. And it's one Edison award last year and also R&D 100 award in 2024. And our competitor is this is a very competitive competitive award.
+所以它会大大提高安全性。它还获得了去年的爱迪生奖，以及2024年的研发100强奖。我们的竞争对手是——这是一个竞争非常激烈、竞争非常激烈的奖项。
+
+So our competitor are Wuhan South and also the MIT Lincoln Lab. A lot of national labs will also very proud. So let's see video.
+所以我们的竞争对手是武汉南和麻省理工学院林肯实验室。很多国家实验室也会非常自豪。那么我们来看视频。
+
+To introduce this technology.
+介绍这项技术。
+
+The flammability of conventional lithium ion batteries due to the volatile flammable liquid electrolyte has been a major concern for large scale EV deployment. Solid state batteries with hard ceramic electrolyte are considered a future solution for safer batteries. However they have poor performance due to the low ion conductivity and poor electrode electrolyte interfacial property.
+由于挥发性可燃液体电解液，传统锂离子电池的燃烧行为一直是大规模推广电动汽车时的一大担忧。采用硬质陶瓷电解质的固态电池被认为是未来实现更安全电池的解决方案。然而，由于离子电导率低且电极-电解质界面性能较差，它们的性能不佳。
+
+Nami has developed a quasi solid electrolyte CuSe lithium ion battery using in situ polymerization of monomers with liquid electrolyte components to improve safety while maintaining high performance. The CuSe precursor solution includes liquid electrolyte polymerization initiators and small monomers to provide lower viscosity and better wet ability compared to conventional monomers ensuring a fast infusion into the dense and thick EV battery electrodes to form a fully wetted interface with low resistance.
+Nami开发了一种准固态CuSe锂离子电池，采用原位聚合单体与液态电解质组分，以提高安全性并保持高性能。CuSe前驱体溶液包含液体电解液、聚合引发剂和小分子单体，与传统单体相比，可降低粘度、提高润湿能力，确保快速浸入致密且厚实的电动汽车电池电极中，形成低电阻、完全润湿的界面。
+
+For the thermal curing Nami's innovative non-gassing polymerization initiator provides a gas free polymerization initiation pathway to guarantee a uniform CuSe curing thus achieving a CuSe lithium ion battery with low bulk and interfacial resistance and full capacity as liquid electrolyte battery.
+对于热固化，Nami 创新的无气体聚合引发剂提供了一种无气体的聚合引发途径，以确保 CuSe 均匀固化，从而制备出低体相电阻和界面电阻、并具有液体电解质电池全容量的 CuSe 锂离子电池。
+
+Against the flame inducing free radicals and liquid electrolyte which lead to fire and explosion Nami's CuSe polymer is grafted with radical capturing functional groups for rapid quenching of the free radicals affecting a self extinguishing behavior significantly improving battery safety. Nami's CuSe lithium ion battery achieves high rate performance with full capacity discharged at 0.2 C or lower for normal EV driving as well as over 98% capacity at 1 C discharge meeting the sudden power needs for vehicle acceleration.
+针对会引发火灾和爆炸的自由基和液体电解液，Nami 的 CuSe 聚合物接枝了捕获自由基的官能团，可迅速淬灭自由基，从而实现自熄特性，显著提升电池安全性。Nami 的 CuSe 锂离子电池具有高倍率性能，以 0.2C 或更低的放电倍率可放电至满容量，满足普通电动汽车的正常行驶需求；同时，以 1C 放电时容量可超过 98%，满足车辆加速时的瞬时动力需求。
+
+Nami's self extinguishing CuSe lithium ion battery passes the harsh nail penetration test.
+Nami 的自熄 CuSe 锂离子电池通过了严酷的钉刺测试。
+
+And also hot box test which is at least 20 degrees Celsius higher than that of conventional liquid electrolyte batteries. 10 times higher cycle life at high temperature and voltage is also achieved owing to the well protected electrode surfaces by Nami's CuSe and the minimized side reactions. With Nami's CuSe battery a high performance and safe battery technology is ready for mass deployment in new electric vehicles and other battery energy storage applications empowering the green energy transition.
+此外，还通过了高温箱测试，其温度比传统液态电解质电池至少高出20摄氏度。得益于 Nami 的 CuSe 对电极表面的良好保护以及副反应的最小化，高温和高电压下的循环寿命也提高了 10 倍。凭借Nami的CuSe电池，一种高性能且安全的电池技术已准备好大规模应用于新能源电动汽车及其他电池储能领域，助力绿色能源转型。
+
+Now this is a project collaboration between here and I believe you all should have read some news about the project solid electrolyte. And the next technology I would like to talk about is the separator. So the separate separator it's a very stain porous field. To prevent the electrons to pass through but to ensure need to ensure the lithium ions to pass from one side to the other.
+现在，这是一个由这里牵头的项目合作。我想大家应该都读过一些关于该项目——固态电解质——的新闻。接下来我想谈的是隔膜技术。所以，隔膜是一种非常致密多孔的材料。防止电子通过，但要确保锂离子能够从一侧传输到另一侧。
+
+So it is although it is a very thin field but it's very important for the battery safety because it is the only insulator inside the battery system.
+所以，尽管它是一个非常薄的领域，但对电池的安全性非常重要，因为它是电池系统内部唯一的绝缘体。
+
+And conventional separator is made up of some conventional polymers such as PP and PE and the melting point is low it's around 110 to 150 degree. So under high temperature so when a battery is short circuit temperature is very high so the polymer will melt. And the short circuit will happen or because during the battery the separator manufacturing process it's need to go through a stretching process. So it has a lot of remaining stress into this inside the battery inside the separator material.
+传统的隔膜由一些传统聚合物制成，例如PP和PE，其熔点较低，约为110至150度。所以在高温下，当电池发生短路时，温度会非常高，聚合物就会熔化。并且会发生短路，或者因为在电池隔膜的制造过程中，需要经过拉伸工艺。所以，电池内部的隔膜材料中残留着很大的应力。
+
+So when it is working under high temperature the separator will release its remaining stress and going will shrink to its original size. So it will also cause short circuit. So the conventional method currently people are using a layer of ceramic coating to increase the integrity and the size stability of the polymer separator. So they use ceramic particles with the size of hundred of nanometers to one micrometers to coat a thin layer on the battery separator.
+所以，当它在高温下工作时，隔膜会释放剩余应力，并收缩回原来的尺寸。所以它也会导致短路。所以，目前采用的传统方法是在聚合物隔膜上涂一层陶瓷涂层，以提高其完整性和尺寸稳定性。因此，他们使用粒径为数百纳米至一微米的陶瓷颗粒，在电池隔膜上涂覆一层薄层。
+
+However even this the thickness of of this layer is only several micrometers. The whole battery separator system is only around four to five micrometers. So the thicker the separator the lower the energy density because it provide no energy density it is not the active material it provide no energy density to the whole system. So the our goal is to make the battery the battery separator thinner but contain its but it stronger.
+然而，即使这样，这一层的厚度也只有几微米。整个电池隔膜系统只有大约四到五微米厚。所以隔膜越厚，能量密度越低，因为隔膜本身不提供能量密度，它不是活性材料，不会为整个系统提供能量密度。所以我们的目标是让电池……电池隔膜更薄，但同时更坚固。
+
+And our approach is to use a very tiny ceramic pitch a ceramic pitch so it has the size it it is with the size of only less than three nanometers with a lot of functional group we can graft different functional group here on on the top of this nano pitch and make it soluble the dissolved in different kinds of solvent. So we can make a very uniform coating just spray it on the conventional separator and with this with its very small size it can penetrate inside the separator and inside every pores of the separator. So it can strengthen the whole separator mechanical strength without increasing the thickness.
+我们的方法是使用一种非常细小的陶瓷 pitch，一种陶瓷 pitch，它的尺寸只有不到三纳米，并且含有大量官能团。我们可以在此纳米 pitch 表面上接枝不同的官能团，使其可溶，溶解于不同种类的溶剂中。所以我们可以涂上一层非常均匀的涂层，只需把它喷在传统隔膜上。由于其尺寸非常小，它能够渗透到隔膜内部，进入隔膜的每一个孔隙中。所以，它可以在不增加厚度的情况下增强整个隔膜的机械强度。
+
+So which is very important for the separator materials and for the battery safety. And these are some feasibility some feasibility testing result. So on the left side is the conventional materials conventional PE material. So with the coating you can see under high temperature of 150 degree and the shrinkage can reduce from 15% to only 5%.
+这对隔膜材料和电池安全性非常重要。这些是一些可行性测试结果。左边是传统材料，也就是传统的聚乙烯材料。所以，通过涂层处理，可以看到，在150摄氏度的高温下，收缩率可以从15%降至仅5%。
+
+And we also put this separator into a working battery system operational battery system and put it on under a oven and raise the increase the temperature temperature to 150 degree. You will see using the the battery using the conventional separator will have short circuit it's very natural if the the separator has melt and with our coating it can maintain the voltage of about three volts. So that means the short circuit stop under such temperature. And also not only increase the melting temperature but also increase the the mechanical strength.
+我们还将这种隔膜放入工作电池系统，也就是运行中的电池系统，然后将其置于烘箱中，将温度升至150度。你会看到，使用传统隔膜的电池一旦隔膜熔化，就会发生短路，这是很自然的；而使用我们的涂层后，电压可以保持在约3伏。所以这意味着在这样的温度下，短路停止了。而且，它不仅能提高熔化温度，还能增强机械强度。
+
+You can sell strength because we add some inorganic material nano inorganic material like just like nano ceramic coating onto the separator to increase the whole mechanical strength.
+你可以提高强度，因为我们会在隔膜上添加一些无机材料，比如纳米无机材料，就像纳米陶瓷涂层，以提高整体机械强度。
+
+And we test this separators and these are not this results results are not tested by us by ourselves. It's it's our industrial collaborators. So these are the world largest two separators suppliers.
+我们对这些隔膜进行了测试，而这些结果并不是我们自己测试得出的。这是我们的产业合作方。所以，这些是全球最大的两家隔膜供应商。
+
+One Xingyuan and the other one is Jingli. So one for dry metal and the other for wet metal separator. And you will see that with our coating the the thickness of the separator is not increased. Keep the same same thickness but increase the larger temperature by around 26 degree and also the shrinkage increase for around half.
+一家是兴源，另一家是精利。所以，一家生产干式金属分离器，另一家生产湿式金属分离器。你会看到，经过我们的涂层处理，隔膜的厚度并没有增加。保持相同的厚度，但将温度提高约26度，收缩率也提高约一半。
+
+And also also we add we add some functional group to facilitate the electrolyte under uptake. So this is very important for for for a battery with high performance because the more battery the more electrolyte you can take the the the lithium ion can travel more smoothly inside the system. So it's directly related to the fast charge and also the cycle capability.
+此外，我们还添加了一些官能团，以促进电解液的吸收。所以这对高性能电池非常重要，因为电池越多，就能容纳越多的电解液，锂离子就能在系统内部更顺畅地移动。所以，这与快充性能和循环寿命能力直接相关。
+
+And the third one is also very interesting. It's about the lithium metal anode. So we make a shrinking structure and use in-situ method to study it.
+第三个也非常有意思。这是关于锂金属负极的。所以我们制备了一种收缩结构，并采用原位方法对其进行研究。
+
+So as I said so lithium metal battery has been deemed as the ultimate goal of the lithium battery system because of its high energy density. However the problem is the dendrite. So during the repeatable charge and discharge that that means electroplating and strip.
+正如我所说，锂金属电池因其高能量密度，一直被视为锂电体系的终极目标。然而，问题在于枝晶。所以在可重复充放电过程中，这意味着电镀和剥离。
+
+So there will be needles blown like grass grow inside the battery system and form a short circuit. So the safety is important. So we need to solve that that that that problem.
+所以，针状物会像草一样在电池系统内部生长并形成短路。所以安全性很重要。所以我们需要解决那个、那个、那个、那个问题。
+
+So maybe you can take what happened inside a battery. So real happen what really happens inside the battery. So this part is the cathode and this part is a conventional lithium coil anode.
+所以，也许你可以研究一下电池内部发生的情况。所以，真正发生的是电池内部实际发生的情况。所以这一部分是正极，而这一部分是传统的锂箔负极。
+
+And this is the separator. So we use our control optical microscope and see what happened during charge and discharge. You see during charge there is a layer of lithium lithium metal deposited on the on the interface. And then during discharge a lot of lithium remaining here.
+这是隔膜。所以我们使用控制光学显微镜，观察充放电过程中发生的情况。你可以看到，在充电过程中，界面处沉积了一层锂金属。然后在放电过程中，大量锂留在这里。
+
+So that is cause low conductive efficiency. But under high rate charge high recharge there will be dendrite immediately goes in the in the surface. On the surface sorry. And then if we make the coil we form a we establish a three dimensional scaffold outside the on the on the lithium surface.
+所以，这会导致导电效率低下。但在高倍率充电、高充放电条件下，枝晶会立即生长到表面。在表面，抱歉。然后，如果我们形成这种卷绕结构，就会在外层、锂表面形成一个三维支架。
+
+You will see the distribution will be more uniform. And then under a high rate that means high current charge and discharge.
+你会看到分布会更加均匀。然后在高倍率条件下，也就是说，在大电流充放电条件下。
+
+And once you enter it's it's very difficult for lithium metal battery practical system.
+一旦进入，锂金属电池的实际系统就非常困难。
+
+You can undergo high rate charge and discharge. And also we can see here more closely so use this control in-situ method we can see the how the dendrite is formed and the dendrite morphology. So this is the dendrite form to penetrate so this dendrite penetrate the separator to cause short circuit the battery doesn't work anymore.
+它可以承受高倍率充放电。我们也可以在这里更仔细地观察。通过这种原位控制方法，我们可以看到枝晶是如何形成的，以及枝晶的形态。所以，枝晶会穿透隔膜，导致短路，电池也就无法再工作了。
+
+And use our 3D scaffold structure.
+并使用我们的三维支架结构。
+
+It can undergo fast charge very fast charge for lithium metal battery under 1C 1C. 1C charge and 1C discharge for more than 500 cycles.
+它可以进行快速充电，非常快地给锂金属电池充电，充电电流低于1C，1C。1C 充电和 1C 放电，循环次数超过 500 次。
+
+And and I would also like to share one very interesting video with you. So this is the silicon carbon. The silicon carbon.
+我还想和大家分享一个非常有趣的视频。所以这是硅碳。碳化硅。
+
+Silicon graphite. Anode. So if you can see that during charge and discharge the graphite the the the golden part is the graphite.
+石墨。阳极。所以，如果你们能看到，在充放电过程中，石墨，那个，那个金色的部分就是石墨。
+
+When graphite is fully charged it will turn into golden color.
+石墨完全充电后，会变成金黄色。
+
+And the higher charge the volume change will be higher and also the you can see the see the polarization is higher or the bright bright brighter part concentrated here. So our task and what we are doing is to monitor is to is to optimize the formulation and the synthesis new structures to make this structure more stable.
+充电程度越高，体积变化越大。另外，你可以看到极化程度更高，也就是更亮、更亮、更亮的部分集中在这一带。所以，我们的任务，也就是我们正在做的，是进行监测，优化配方并合成新结构，使这种结构更加稳定。
+
+And the less polarization. So that's all I have for today. And maybe I maybe I spend because Professor Chen said so it's better to it's better to also introduce our SG our only add one more slide.
+以及更低的极化。以上就是我今天要讲的全部内容。也许我……也许我花点时间，因为陈教授是这么说的，所以最好也介绍一下我们的 SG。我们只再加一张幻灯片。
+
+So let's see the slide to introduce. This one.
+那么，我们来看一下要介绍的幻灯片。这张。
+
+Yeah. SG is the largest government funded research institute applied research institute in Hong Kong. Yeah. And we established around 26 years ago and before most of us are working on the software software related technologies so information and communication related technologies and this is this year is a very important milestone for us. So we merged with NATO and advanced materials institute. So now we have a total solution very comprehensive research of SG from software development to materials development from hardware to software. So within this merger is not only a physical merger it's all it's a solution integration.
+对。香港科学园是香港规模最大的政府资助应用研究机构。是的。我们成立于大约26年前，此前我们大多数人都从事软件、软件相关技术，也就是信息与通信相关技术。今年对我们来说是一个非常重要的里程碑。所以我们与北约和先进材料研究所合并了。所以现在我们拥有了一个完整的解决方案，非常全面地开展SG研究，从软件开发到材料开发，从硬件到软件。所以，这次合并不仅仅是在物理层面的合并，而是一种解决方案的整合。
+
+And at SG we have around six sorry 800 employees and among them more than half 600 are R&D staff are researchers. And we have carried out more than 2,000 research project together with our industrial partners and we have more than five 1,500 patent granted and most of them are US IP and Chinese invention IP. And also we are very proud that we are the first for 加工成技术中心香港分中心 and in 2020 we also being awarded by national level award and that is the国家科技技术进步奖一等奖 for our IC design and IC development. And also at SG we are we have nine technology domains.
+在SG，我们大约有600名员工，抱歉，是800名员工，其中一半以上，也就是600名，是研发人员和研究人员。我们与产业合作伙伴共同开展了2,000多项研究项目，已获得1,500多项授权专利，其中大部分是美国知识产权和中国发明专利。我们也非常自豪，我们是加工成技术中心香港分中心的首任负责人。2020年，我们还获得了国家级奖项，也就是“国家科技进步奖一等奖”，因为我们的……集成电路设计和集成电路开发。此外，在SG，我们拥有九大技术领域。
+
+So this one is the ICT domain. So it's all about advanced electronics and also AI. AI in our SG we have 100 AI team. And 100 research staff in this domain. And we also have communication technologies working on 5G 6G technologies and we also have sensing technologies working a lot of embodied AI.
+所以，这是ICT领域。所以，这全都与先进电子技术和人工智能有关。在我们的新加坡总部，我们有100人的AI团队。以及100名该领域的研究人员。我们还有从事5G、6G技术的通信技术团队，以及从事大量具身人工智能的传感技术团队。
+
+And this is our materials domain. So we have constructing materials, functional polymer, advanced biomaterials, electronics materials and today we talk about our battery materials. And we have seven large labs in science park. So if you have time you can you are welcome to visit our labs.
+这是我们的材料领域。所以我们有结构材料、功能聚合物、先进生物材料、电子材料，今天我们要讨论电池材料。我们在科学园有七个大型实验室。所以，如果你有时间，欢迎你参观我们的实验室。
+
+So that's all I have. If you are interested welcome to our lab and apply for our summer interns and also our researcher positions. Yeah.
+以上就是我所有要讲的内容。如果您感兴趣，欢迎来我们实验室申请暑期实习生和研究人员职位。好的。
+
+Thank you.
+谢谢。
+
+Thank you.
+谢谢。
+
+So I have.
+所以我有。
+
+If you're recruiting any resistant, yeah. Any questions?
+如果你正在招募任何抵抗者，是的。有问题吗？
+
+对，我们—
+Right, we—
+
+Yeah, go ahead.
+好的，请讲。
+
+就是我，呃—
+It’s me, uh—
+
+你可以讲动物。
+You can talk about animals.
+
+Oh, thank you.
+哦，谢谢。
+
+就是我们是master嘛，那我们的研究生以这个硬件研究生的身份，如果去应聘我们公司的，呃，我们那个，那个什么的话，因为就是我觉得很多像，呃，我觉得就是刚刚您说的这个在科技园和在，呃，学校里给我的差别就是，我感觉科技园就是，就是研究材料不能只有就是只有大脑或者没有四肢，或者只有四肢没有大脑，但是在科技园里好像就是是一个非常健全的人类。就是想出的一些方法就是可以有另一个东西来给它填充，或者你们可以既可以卖，呃，技术，技术不能有公司，又可以卖产品嘛，又有这种市场。
+Since we’re a master’s program, our graduate students, as hardware graduate students, if they apply for our company’s, uh, our, our, what do you call it, Because I think a lot of, uh, I think the difference between what you just said and what I have at the university is that I feel the technology park is, uh, The research materials can’t just have a brain but no limbs, or just limbs but no brain. But in the technology park, they seem to be very complete human beings. The methods you come up with can be supplemented with something else. Or you can sell technology—technology can’t have a company—and you can also sell products. There’s such a market.
+
+就觉得，呃，你不仅是一个科研人员，你的产品你可以看到它的真实的落地，当然我们每个人都很想去，但是我们作为master的身份，应届生有什么优势，advantages，or some requests。
+I feel, uh, you’re not just a researcher. You can see your products being put into real use. Of course, everyone wants to do that, but as master’s students, What are the advantages of fresh graduates, or any specific requests?
+
+Actually, in our, um, S3 we have 600 researchers and, uh, yeah, it's true, around 80% are master or above, uh, has master or above degrees. But, uh, at least at material sector around, around maybe 40% are master degree holders, so it's okay. We have significant, uh, ratio of the masters working in our institute.
+实际上，我们，嗯，S3有600名研究人员。呃，是的，确实，大约80%是硕士及以上学历，呃，拥有硕士及以上学位。但是，呃，至少在材料领域，可能大约有40%是硕士学历，所以还可以。我们研究所里硕士比例很高。
+
+Okay.
+好的。
+
+还有就是我刚刚说的，就是，呃，我们科技处就是又技术不能给其他的下游公司哈，又卖产品，那我们技术不能的是锂离子电池这个产，呃，这个产线的那个一部分，我们想要把，比如说我们收集到的一些数据喂给一些AI或者让它做成一个集成系统或者是一个AI的平台哈，那我们做这个AI平台的时候，会不会和我们的产品打架呢？
+And also, as I just said, our technology department can’t provide technology to other downstream companies and sell products at the same time. So what we can’t do is sell the lithium-ion battery produc— uh, part of this production line. We want to, for example, feed some of the data we collect into AI or turn it into an integrated system or an AI platform. So, when we build this AI platform, won’t it conflict with our products?
+
+那我们可能讲一下吧，就是我们刚才没有讲清楚，我们是不做产品，我们是政府研究所，所以呢，啊，对，我们是，呃，对，我们做项目，我们也是做研发的项目，但是我们做的所有的项目都是跟，呃，工业界合作的，所以呢，我们项目的指标都是工业界跟我们一起来拟定的。然后做完了以后呢，真正做生产还是我们的企业来做生产。
+Then maybe we can clarify this. We didn’t make it clear earlier: we don’t manufacture products. We’re a government research institute, so, uh, yes, we, uh, yes, we do projects. We also undertake research and development projects, but all of our projects are carried out in collaboration with industry. Therefore, the project targets are jointly determined with industry. And after the project is completed, our enterprises are the ones actually responsible for production.
+
+哦。
+Oh.
+
+当然我们会给他们solution。
+Of course, we’ll provide them with a solution.
+
+Okay。
+Okay.
+
+对。
+Right.
+
+Like upstream. Yeah, upstream. 呃， we are middle stream maybe.
+比如上游。对，上游。呃，我们可能是中游。
+
+Yeah.
+对。
+
+哦，中流。
+Oh, Zhongliu.
+
+还有其他。
+There are others.
+
+— 由 LecSync 生成
